@@ -4,32 +4,44 @@ import type { Locale } from '../lib/i18n';
 
 interface Props {
   lang: Locale;
+  dark?: boolean;
 }
 
-const { lang } = Astro.props;
+const { lang, dark = false } = Astro.props;
 const navItems = navigation[lang];
 const year = new Date().getFullYear();
 ---
 
-<footer class="bg-warm-900 text-warm-200 mt-auto">
+<footer class:list={[
+  'mt-auto',
+  dark ? 'bg-void border-t border-white/5' : 'bg-warm-900 text-warm-200',
+]}>
   <div class="max-w-6xl mx-auto px-4 sm:px-6 py-12 sm:py-16">
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 sm:gap-12">
       <!-- Brand -->
       <div>
-        <p class="text-lg font-bold text-white mb-2">Micky van Zadelhoff</p>
-        <p class="text-warm-400 text-sm leading-relaxed">
+        <p class:list={['text-lg font-bold mb-2', dark ? 'text-white' : 'text-white']}>
+          Micky van Zadelhoff
+        </p>
+        <p class:list={['text-sm leading-relaxed', dark ? 'text-white/40' : 'text-warm-400']}>
           {t(lang, 'footer.tagline')}
         </p>
       </div>
 
       <!-- Navigation -->
       <div>
-        <p class="text-sm font-semibold text-warm-300 uppercase tracking-wider mb-3">
+        <p class:list={[
+          'text-sm font-semibold uppercase tracking-wider mb-3',
+          dark ? 'text-white/30' : 'text-warm-300',
+        ]}>
           {lang === 'nl' ? 'Pagina\'s' : 'Pages'}
         </p>
         <nav class="flex flex-col gap-1.5">
           {navItems.slice(0, 5).map((item) => (
-            <a href={item.href} class="text-sm text-warm-400 hover:text-white transition-colors">
+            <a href={item.href} class:list={[
+              'text-sm transition-colors',
+              dark ? 'text-white/40 hover:text-white' : 'text-warm-400 hover:text-white',
+            ]}>
               {item.label}
             </a>
           ))}
@@ -38,12 +50,18 @@ const year = new Date().getFullYear();
 
       <!-- More links -->
       <div>
-        <p class="text-sm font-semibold text-warm-300 uppercase tracking-wider mb-3">
+        <p class:list={[
+          'text-sm font-semibold uppercase tracking-wider mb-3',
+          dark ? 'text-white/30' : 'text-warm-300',
+        ]}>
           {lang === 'nl' ? 'Meer' : 'More'}
         </p>
         <nav class="flex flex-col gap-1.5">
           {navItems.slice(5).map((item) => (
-            <a href={item.href} class="text-sm text-warm-400 hover:text-white transition-colors">
+            <a href={item.href} class:list={[
+              'text-sm transition-colors',
+              dark ? 'text-white/40 hover:text-white' : 'text-warm-400 hover:text-white',
+            ]}>
               {item.label}
             </a>
           ))}
@@ -51,7 +69,10 @@ const year = new Date().getFullYear();
       </div>
     </div>
 
-    <div class="border-t border-warm-800 mt-10 pt-6 text-center text-sm text-warm-500">
+    <div class:list={[
+      'mt-10 pt-6 text-center text-sm',
+      dark ? 'border-t border-white/5 text-white/20' : 'border-t border-warm-800 text-warm-500',
+    ]}>
       &copy; {year} Micky van Zadelhoff
     </div>
   </div>

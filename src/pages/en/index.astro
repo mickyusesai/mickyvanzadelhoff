@@ -1,215 +1,211 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import { t } from '../../lib/i18n';
-import { getCollection } from 'astro:content';
-
-const lang = 'en' as const;
-
-const allArticles = await getCollection('articles', ({ data }) => {
-  return data.lang === 'en' && !data.draft;
-});
-const recentArticles = allArticles
-  .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime())
-  .slice(0, 3);
-
-const pressLogos = [
-  { name: 'NRC', src: '/images/migrated/nrc-handelsblad.webp' },
-  { name: 'Nu.nl', src: '/images/migrated/Nu-nl-logo-1.webp' },
-  { name: 'Vice', src: '/images/migrated/Vice_Logo.webp' },
-  { name: 'AD', src: '/images/migrated/algemeen-dagblad.webp' },
-  { name: 'FunX', src: '/images/migrated/funx-logo.webp' },
-  { name: 'Flow', src: '/images/migrated/flow-logo.webp' },
-];
-
-const expertises = [
-  {
-    title: t(lang, 'expertise.ai.title'),
-    description: t(lang, 'expertise.ai.description'),
-    cta: t(lang, 'expertise.ai.cta'),
-    href: '/en/ai-workshop/',
-    icon: '🤖',
-  },
-  {
-    title: t(lang, 'expertise.easyreimburse.title'),
-    description: t(lang, 'expertise.easyreimburse.description'),
-    cta: t(lang, 'expertise.easyreimburse.cta'),
-    href: '/en/easyreimburse/',
-    icon: '📋',
-  },
-  {
-    title: t(lang, 'expertise.erasmus.title'),
-    description: t(lang, 'expertise.erasmus.description'),
-    cta: t(lang, 'expertise.erasmus.cta'),
-    href: '/en/erasmus/',
-    icon: '🌍',
-  },
-];
 ---
 
 <Layout
-  title="Micky van Zadelhoff — Digital Nomad, Entrepreneur & AI Trainer"
-  description="Personal website of Micky van Zadelhoff. Digital nomad, entrepreneur, author, AI trainer and Erasmus+ coordinator."
-  lang={lang}
-  ogImage="/images/migrated/mick-van-zadelhoff-de-moderne-nomaden.webp"
+  title="Micky van Zadelhoff — AI, Business & Automation"
+  description="Micky van Zadelhoff helps businesses with AI workshops, builds digital products, and shares his experience as a digital nomad and entrepreneur."
+  lang="en"
+  dark={true}
+  hideFooter={true}
 >
-  <!-- Hero Section -->
-  <section class="bg-gradient-to-b from-sand-50 to-warm-50">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-16 sm:py-24">
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-16 items-center">
-        <div class="order-2 md:order-1">
-          <p class="text-terra-600 font-medium text-lg mb-2">
-            {t(lang, 'hero.greeting')} 👋
-          </p>
-          <h1 class="text-4xl sm:text-5xl font-bold text-warm-900 leading-tight mb-4">
-            Micky van Zadelhoff
-          </h1>
-          <p class="text-lg sm:text-xl text-warm-600 leading-relaxed mb-4">
-            Digital nomad, entrepreneur, author & AI trainer.
-          </p>
-          <p class="text-base text-warm-500 leading-relaxed mb-8">
-            I share my experiences, help companies with AI, and build digital products — all
-            from my laptop, anywhere in the world.
-          </p>
-          <div class="flex flex-wrap gap-3">
-            <a
-              href="/en/about/"
-              class="inline-flex items-center px-6 py-3 bg-terra-600 text-white font-medium rounded-xl hover:bg-terra-700 transition-colors"
-            >
-              {t(lang, 'hero.cta')}
-            </a>
-            <a
-              href="/en/ai-workshop/"
-              class="inline-flex items-center px-6 py-3 border-2 border-terra-500 text-terra-600 font-medium rounded-xl hover:bg-terra-500 hover:text-white transition-colors"
-            >
-              AI Workshops
-            </a>
-          </div>
+  <!-- Background gradient blobs -->
+  <div class="fixed inset-0 overflow-hidden pointer-events-none z-0">
+    <div class="absolute top-1/4 left-1/4 w-[600px] h-[600px] rounded-full bg-purple-900/30 blur-[120px] animate-blob"></div>
+    <div class="absolute bottom-1/4 right-1/4 w-[500px] h-[500px] rounded-full bg-accent-pink/15 blur-[100px] animate-blob-reverse"></div>
+  </div>
+
+  <!-- Main content -->
+  <div class="relative z-10 min-h-screen flex flex-col justify-between px-6 sm:px-10">
+
+    <!-- Hero text area -->
+    <div class="flex-1 flex items-center justify-center max-w-4xl mx-auto w-full">
+      <div class="text-center py-24 sm:py-32">
+
+        <div id="hero-text" class="transition-all duration-500 ease-out">
+          <p id="hero-content" class="text-hero sm:text-hero-lg text-white leading-snug sm:leading-snug"></p>
         </div>
-        <div class="order-1 md:order-2 flex justify-center">
-          <div class="w-64 h-64 sm:w-80 sm:h-80 rounded-2xl shadow-lg overflow-hidden">
-            <img
-              src="/images/migrated/mick-van-zadelhoff-de-moderne-nomaden.webp"
-              alt="Micky van Zadelhoff"
-              class="w-full h-full object-cover"
-            />
-          </div>
+
+        <!-- Press mentions -->
+        <div class="mt-16 flex items-center justify-center gap-6 sm:gap-10">
+          <span class="text-[11px] sm:text-xs uppercase tracking-[0.2em] text-white/20 font-medium">NRC</span>
+          <span class="text-white/10">|</span>
+          <span class="text-[11px] sm:text-xs uppercase tracking-[0.2em] text-white/20 font-medium">Nu.nl</span>
+          <span class="text-white/10">|</span>
+          <span class="text-[11px] sm:text-xs uppercase tracking-[0.2em] text-white/20 font-medium">Vice</span>
         </div>
       </div>
     </div>
-  </section>
 
-  <!-- Expertise Section -->
-  <section class="py-16 sm:py-24 bg-white">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6">
-      <h2 class="text-2xl sm:text-3xl font-bold text-warm-900 text-center mb-4">
-        {t(lang, 'expertise.title')}
-      </h2>
-      <p class="text-warm-500 text-center mb-12 max-w-2xl mx-auto">
-        From AI workshops for businesses to building SaaS products and coordinating international education projects.
-      </p>
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-6 sm:gap-8">
-        {expertises.map((item) => (
-          <a
-            href={item.href}
-            class="group block p-6 sm:p-8 rounded-2xl border border-warm-200 bg-warm-50/50 hover:border-terra-300 hover:shadow-md transition-all"
-          >
-            <span class="text-3xl mb-4 block">{item.icon}</span>
-            <h3 class="text-xl font-semibold text-warm-900 mb-2 group-hover:text-terra-600 transition-colors">
-              {item.title}
-            </h3>
-            <p class="text-warm-600 text-sm leading-relaxed mb-4">
-              {item.description}
-            </p>
-            <span class="text-terra-600 text-sm font-medium group-hover:underline">
-              {item.cta} &rarr;
-            </span>
-          </a>
-        ))}
+    <!-- Slider -->
+    <div class="pb-8 sm:pb-12 max-w-3xl mx-auto w-full">
+      <div class="flex items-center gap-4 sm:gap-6">
+        <span class="text-[10px] sm:text-xs uppercase tracking-[0.15em] text-white/40 font-medium whitespace-nowrap select-none">
+          Careful
+        </span>
+        <div class="flex-1 relative group">
+          <div class="absolute inset-0 h-full flex items-center">
+            <div class="w-full h-[2px] bg-white/10 rounded-full">
+              <div id="slider-fill" class="h-full rounded-full transition-all duration-150" style="width: 0%; background: linear-gradient(90deg, #7c3aed, #ec4899, #f97316);"></div>
+            </div>
+          </div>
+          <input
+            id="hero-slider"
+            type="range"
+            min="0"
+            max="9"
+            value="0"
+            step="1"
+            class="relative w-full h-8 appearance-none bg-transparent cursor-pointer z-10 slider-input"
+          />
+        </div>
+        <span class="text-[10px] sm:text-xs uppercase tracking-[0.15em] text-white/40 font-medium whitespace-nowrap select-none">
+          I want it all
+        </span>
       </div>
-    </div>
-  </section>
 
-  <!-- Press / Social Proof -->
-  <section class="py-12 sm:py-16 bg-sand-50/50">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 text-center">
-      <p class="text-sm font-semibold text-warm-400 uppercase tracking-wider mb-8">
-        {t(lang, 'press.title')}
-      </p>
-      <div class="flex flex-wrap justify-center items-center gap-8 sm:gap-12">
-        {pressLogos.map((press) => (
-          <img
-            src={press.src}
-            alt={press.name}
-            class="h-8 sm:h-10 w-auto object-contain opacity-60 hover:opacity-100 transition-opacity grayscale hover:grayscale-0"
-            loading="lazy"
+      <div class="flex justify-center gap-1.5 mt-4">
+        {Array.from({ length: 10 }).map((_, i) => (
+          <div
+            class="w-1.5 h-1.5 rounded-full bg-white/10 transition-all duration-300 stage-dot"
+            data-index={i}
           />
         ))}
       </div>
     </div>
-  </section>
-
-  <!-- Recent Blog Articles -->
-  <section class="py-16 sm:py-24 bg-white">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6">
-      <h2 class="text-2xl sm:text-3xl font-bold text-warm-900 text-center mb-12">
-        {t(lang, 'blog.title')}
-      </h2>
-
-      {recentArticles.length > 0 ? (
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 sm:gap-8">
-          {recentArticles.map((article) => (
-            <a
-              href={`/en/blog/${article.data.category}/${article.id}/`}
-              class="group block rounded-2xl border border-warm-200 overflow-hidden hover:shadow-md transition-all bg-warm-50/30"
-            >
-              {article.data.featuredImage ? (
-                <div class="aspect-video bg-sand-100 overflow-hidden">
-                  <img
-                    src={article.data.featuredImage}
-                    alt={article.data.title}
-                    class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-                    loading="lazy"
-                  />
-                </div>
-              ) : (
-                <div class="aspect-video bg-gradient-to-br from-sand-100 to-warm-100" />
-              )}
-              <div class="p-5 sm:p-6">
-                <p class="text-xs text-warm-400 mb-2">
-                  {new Date(article.data.date).toLocaleDateString('en-US', {
-                    year: 'numeric',
-                    month: 'long',
-                    day: 'numeric',
-                  })}
-                </p>
-                <h3 class="font-semibold text-warm-900 group-hover:text-terra-600 transition-colors mb-2 line-clamp-2">
-                  {article.data.title}
-                </h3>
-                {article.data.description && (
-                  <p class="text-sm text-warm-500 line-clamp-3">
-                    {article.data.description}
-                  </p>
-                )}
-              </div>
-            </a>
-          ))}
-        </div>
-      ) : (
-        <p class="text-warm-400 text-center">
-          No articles available yet.
-        </p>
-      )}
-
-      {recentArticles.length > 0 && (
-        <div class="text-center mt-10">
-          <a
-            href="/en/blog/"
-            class="inline-flex items-center px-6 py-3 border-2 border-terra-500 text-terra-600 font-medium rounded-xl hover:bg-terra-500 hover:text-white transition-colors"
-          >
-            {t(lang, 'blog.viewall')}
-          </a>
-        </div>
-      )}
-    </div>
-  </section>
+  </div>
 </Layout>
+
+<style>
+  .slider-input::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: white;
+    cursor: pointer;
+    box-shadow: 0 0 20px rgba(124, 58, 237, 0.5), 0 0 40px rgba(236, 72, 153, 0.2);
+    transition: box-shadow 0.3s ease, transform 0.15s ease;
+  }
+  .slider-input::-webkit-slider-thumb:hover {
+    transform: scale(1.15);
+    box-shadow: 0 0 25px rgba(124, 58, 237, 0.7), 0 0 50px rgba(236, 72, 153, 0.3);
+  }
+  .slider-input::-moz-range-thumb {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: white;
+    cursor: pointer;
+    border: none;
+    box-shadow: 0 0 20px rgba(124, 58, 237, 0.5), 0 0 40px rgba(236, 72, 153, 0.2);
+  }
+  .slider-input::-moz-range-track {
+    background: transparent;
+    border: none;
+  }
+  #hero-text.transitioning {
+    opacity: 0;
+    filter: blur(8px);
+    transform: translateY(6px);
+  }
+  #hero-text {
+    opacity: 1;
+    filter: blur(0);
+    transform: translateY(0);
+  }
+  #hero-content :global(a) {
+    text-decoration: underline;
+    text-decoration-color: rgba(124, 58, 237, 0.6);
+    text-underline-offset: 4px;
+    text-decoration-thickness: 2px;
+    transition: text-decoration-color 0.2s ease;
+  }
+  #hero-content :global(a:hover) {
+    text-decoration-color: #ec4899;
+  }
+</style>
+
+<script>
+  const stages = [
+    `Hi, I'm Micky. I help you hand off a few repetitive tasks to AI. Think sorting emails. Small things. Nobody has to know.`,
+
+    `We automate your admin. Invoices, reports, the kind of work you've always dreaded. Your colleagues think you've just gotten faster.`,
+
+    `Your entire marketing department now works in a quarter of the time. The other three quarters they spend in meetings about what to do with that time.`,
+
+    `Your customer service runs entirely on AI. Available 24/7, never grumpy on Monday mornings, never asks for a raise.`,
+
+    `We've now automated three job functions. HR hasn't noticed. I have.`,
+
+    `Your management layer turns out to be largely replaceable. This surprises no one, but saying it out loud still feels strange.`,
+
+    `You've deployed AI for strategy, creativity and decision-making. You still sign the contracts. For now.`,
+
+    `Your calendar, your email, your LinkedIn, and your apologies to your partner are all written by AI. Nobody has noticed. Maybe it was always like this.`,
+
+    `Your social life now runs through an AI that responds to messages on your behalf, remembers birthdays and resolves conflicts. Your friends actually think you've become more likeable.`,
+
+    `Congratulations. You've automated everything. Your work, your communication, your friendships. You now have endless free time. For what? No idea. We probably should have discussed that earlier.`,
+  ];
+
+  function addLinks(text: string, stageIndex: number): string {
+    if (stageIndex === 0) {
+      return text.replace(
+        'hand off a few repetitive tasks to AI',
+        '<a href="/en/ai-workshop/">hand off a few repetitive tasks to AI</a>'
+      );
+    }
+    if (stageIndex === 4) {
+      return text.replace(
+        'automated',
+        '<a href="https://easyreimburse.ai">automated</a>'
+      );
+    }
+    return text;
+  }
+
+  const slider = document.getElementById('hero-slider') as HTMLInputElement;
+  const heroText = document.getElementById('hero-text')!;
+  const heroContent = document.getElementById('hero-content')!;
+  const sliderFill = document.getElementById('slider-fill')!;
+  const dots = document.querySelectorAll('.stage-dot');
+
+  let currentStage = 0;
+
+  function updateStage(newStage: number) {
+    if (newStage === currentStage && heroContent.innerHTML !== '') return;
+
+    heroText.classList.add('transitioning');
+
+    setTimeout(() => {
+      heroContent.innerHTML = addLinks(stages[newStage], newStage);
+      currentStage = newStage;
+
+      const pct = (newStage / 9) * 100;
+      sliderFill.style.width = pct + '%';
+
+      dots.forEach((dot, i) => {
+        if (i === newStage) {
+          (dot as HTMLElement).style.background = 'rgba(124, 58, 237, 0.8)';
+          (dot as HTMLElement).style.transform = 'scale(1.4)';
+        } else if (i < newStage) {
+          (dot as HTMLElement).style.background = 'rgba(124, 58, 237, 0.3)';
+          (dot as HTMLElement).style.transform = 'scale(1)';
+        } else {
+          (dot as HTMLElement).style.background = 'rgba(255, 255, 255, 0.1)';
+          (dot as HTMLElement).style.transform = 'scale(1)';
+        }
+      });
+
+      heroText.classList.remove('transitioning');
+    }, 250);
+  }
+
+  slider?.addEventListener('input', () => {
+    updateStage(parseInt(slider.value, 10));
+  });
+
+  updateStage(0);
+</script>

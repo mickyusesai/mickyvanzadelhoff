@@ -8,9 +8,11 @@ interface Props {
   description: string;
   lang: Locale;
   ogImage?: string;
+  dark?: boolean;
+  hideFooter?: boolean;
 }
 
-const { title, description, lang, ogImage } = Astro.props;
+const { title, description, lang, ogImage, dark = false, hideFooter = false } = Astro.props;
 const alternateLocale: Locale = lang === 'nl' ? 'en' : 'nl';
 const currentPath = Astro.url.pathname;
 const alternatePath = currentPath.replace(`/${lang}/`, `/${alternateLocale}/`);
@@ -35,13 +37,16 @@ const alternateUrl = new URL(alternatePath, Astro.site).href;
     <meta name="generator" content={Astro.generator} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
   </head>
-  <body class="min-h-screen flex flex-col bg-warm-50 text-warm-900 font-sans antialiased">
-    <Header lang={lang} currentPath={currentPath} />
+  <body class:list={[
+    'min-h-screen flex flex-col font-sans antialiased',
+    dark ? 'bg-void text-white' : 'bg-warm-50 text-warm-900',
+  ]}>
+    <Header lang={lang} currentPath={currentPath} dark={dark} />
     <main class="flex-1">
       <slot />
     </main>
-    <Footer lang={lang} />
+    {!hideFooter && <Footer lang={lang} dark={dark} />}
   </body>
 </html>

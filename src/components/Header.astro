@@ -5,91 +5,117 @@ import type { Locale } from '../lib/i18n';
 interface Props {
   lang: Locale;
   currentPath: string;
+  dark?: boolean;
 }
 
-const { lang, currentPath } = Astro.props;
+const { lang, currentPath, dark = false } = Astro.props;
 const navItems = navigation[lang];
 const alternateLang: Locale = lang === 'nl' ? 'en' : 'nl';
 const alternatePath = getAlternatePath(currentPath, lang);
 ---
 
-<header class="bg-white/80 backdrop-blur-sm border-b border-warm-200 sticky top-0 z-50">
-  <div class="max-w-6xl mx-auto px-4 sm:px-6">
+<header class:list={[
+  'fixed top-0 left-0 right-0 z-50 transition-colors',
+  dark ? 'bg-transparent' : 'bg-white/80 backdrop-blur-sm border-b border-warm-200',
+]}>
+  <div class="max-w-7xl mx-auto px-6 sm:px-10">
     <div class="flex items-center justify-between h-16 sm:h-20">
-      <!-- Logo / Name -->
-      <a href={`/${lang}/`} class="text-lg sm:text-xl font-bold text-warm-900 hover:text-terra-600 transition-colors">
+      <!-- Wordmark -->
+      <a
+        href={`/${lang}/`}
+        class:list={[
+          'text-sm sm:text-base font-bold uppercase tracking-[0.2em] transition-colors',
+          dark ? 'text-white/90 hover:text-white' : 'text-warm-900 hover:text-terra-600',
+        ]}
+      >
         Micky van Zadelhoff
       </a>
 
-      <!-- Desktop nav -->
-      <nav class="hidden lg:flex items-center gap-1">
-        {navItems.map((item) => (
-          <a
-            href={item.href}
-            class:list={[
-              'px-3 py-2 rounded-lg text-sm font-medium transition-colors',
-              currentPath === item.href || (item.href !== `/${lang}/` && currentPath.startsWith(item.href))
-                ? 'bg-sand-100 text-terra-700'
-                : 'text-warm-700 hover:text-terra-600 hover:bg-sand-50',
-            ]}
-          >
-            {item.label}
-          </a>
-        ))}
-        <a
-          href={alternatePath}
-          class="ml-2 px-3 py-1.5 text-sm font-medium text-terra-600 border border-terra-500 rounded-lg hover:bg-terra-500 hover:text-white transition-colors"
-        >
-          {t(lang, 'lang.switch')}
-        </a>
-      </nav>
-
-      <!-- Mobile menu button -->
+      <!-- Hamburger menu button -->
       <button
         id="mobile-menu-btn"
-        class="lg:hidden p-2 rounded-lg text-warm-700 hover:bg-sand-50 transition-colors"
+        class:list={[
+          'p-2 rounded-lg transition-colors',
+          dark ? 'text-white/70 hover:text-white' : 'text-warm-700 hover:bg-sand-50',
+        ]}
         aria-label="Menu"
         aria-expanded="false"
       >
         <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
-          <path id="menu-icon" stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
+          <path id="menu-icon-open" stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
+          <path id="menu-icon-close" stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" class="hidden" />
         </svg>
       </button>
     </div>
-
-    <!-- Mobile nav -->
-    <nav id="mobile-menu" class="lg:hidden hidden pb-4">
-      <div class="flex flex-col gap-1">
-        {navItems.map((item) => (
-          <a
-            href={item.href}
-            class:list={[
-              'px-3 py-2.5 rounded-lg text-sm font-medium transition-colors',
-              currentPath === item.href || (item.href !== `/${lang}/` && currentPath.startsWith(item.href))
-                ? 'bg-sand-100 text-terra-700'
-                : 'text-warm-700 hover:text-terra-600 hover:bg-sand-50',
-            ]}
-          >
-            {item.label}
-          </a>
-        ))}
-        <a
-          href={alternatePath}
-          class="mt-2 px-3 py-2.5 text-sm font-medium text-terra-600 border border-terra-500 rounded-lg hover:bg-terra-500 hover:text-white transition-colors text-center"
-        >
-          {t(lang, 'lang.switch')}
-        </a>
-      </div>
-    </nav>
   </div>
+
+  <!-- Full-screen overlay menu -->
+  <nav
+    id="mobile-menu"
+    class:list={[
+      'fixed inset-0 z-40 hidden flex-col items-center justify-center gap-6',
+      dark ? 'bg-void/98' : 'bg-white/98 backdrop-blur-md',
+    ]}
+  >
+    {navItems.map((item) => (
+      <a
+        href={item.href}
+        class:list={[
+          'text-2xl sm:text-3xl font-medium transition-colors menu-link',
+          dark
+            ? (currentPath === item.href ? 'text-purple-400' : 'text-white/80 hover:text-purple-400')
+            : (currentPath === item.href ? 'text-terra-600' : 'text-warm-700 hover:text-terra-600'),
+        ]}
+      >
+        {item.label}
+      </a>
+    ))}
+    <a
+      href={alternatePath}
+      class:list={[
+        'mt-4 text-sm font-medium uppercase tracking-widest transition-colors',
+        dark ? 'text-white/40 hover:text-white' : 'text-warm-400 hover:text-warm-700',
+      ]}
+    >
+      {t(lang, 'lang.switch')}
+    </a>
+  </nav>
 </header>
 
 <script>
   const btn = document.getElementById('mobile-menu-btn');
   const menu = document.getElementById('mobile-menu');
+  const openIcon = document.getElementById('menu-icon-open');
+  const closeIcon = document.getElementById('menu-icon-close');
+
   btn?.addEventListener('click', () => {
     const expanded = btn.getAttribute('aria-expanded') === 'true';
     btn.setAttribute('aria-expanded', String(!expanded));
-    menu?.classList.toggle('hidden');
+
+    if (expanded) {
+      menu?.classList.add('hidden');
+      menu?.classList.remove('flex');
+      openIcon?.classList.remove('hidden');
+      closeIcon?.classList.add('hidden');
+      document.body.style.overflow = '';
+    } else {
+      menu?.classList.remove('hidden');
+      menu?.classList.add('flex');
+      openIcon?.classList.add('hidden');
+      closeIcon?.classList.remove('hidden');
+      document.body.style.overflow = 'hidden';
+    }
+  });
+
+  // Close menu when clicking a link
+  menu?.querySelectorAll('a').forEach((link) => {
+    link.addEventListener('click', () => {
+      menu?.classList.add('hidden');
+      menu?.classList.remove('flex');
+      openIcon?.classList.remove('hidden');
+      closeIcon?.classList.add('hidden');
+      btn?.setAttribute('aria-expanded', 'false');
+      document.body.style.overflow = '';
+    });
   });
 </script>
