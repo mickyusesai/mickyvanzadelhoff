@@ -1,14 +1,21 @@
 ---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import type { Locale } from '../lib/i18n';
+
 interface Props {
   title: string;
   description: string;
-  lang: 'nl' | 'en';
+  lang: Locale;
+  ogImage?: string;
 }
 
-const { title, description, lang } = Astro.props;
-const alternateLocale = lang === 'nl' ? 'en' : 'nl';
+const { title, description, lang, ogImage } = Astro.props;
+const alternateLocale: Locale = lang === 'nl' ? 'en' : 'nl';
 const currentPath = Astro.url.pathname;
 const alternatePath = currentPath.replace(`/${lang}/`, `/${alternateLocale}/`);
+const canonicalUrl = new URL(currentPath, Astro.site).href;
+const alternateUrl = new URL(alternatePath, Astro.site).href;
 ---
 <!doctype html>
 <html lang={lang}>
@@ -17,14 +24,24 @@ const alternatePath = currentPath.replace(`/${lang}/`, `/${alternateLocale}/`);
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
     <meta name="description" content={description} />
-    <link rel="canonical" href={new URL(currentPath, Astro.site).href} />
-    <link rel="alternate" hreflang={lang} href={new URL(currentPath, Astro.site).href} />
-    <link rel="alternate" hreflang={alternateLocale} href={new URL(alternatePath, Astro.site).href} />
+    <link rel="canonical" href={canonicalUrl} />
+    <link rel="alternate" hreflang={lang} href={canonicalUrl} />
+    <link rel="alternate" hreflang={alternateLocale} href={alternateUrl} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:type" content="website" />
+    {ogImage && <meta property="og:image" content={new URL(ogImage, Astro.site).href} />}
     <meta name="generator" content={Astro.generator} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
   </head>
-  <body>
-    <slot />
+  <body class="min-h-screen flex flex-col bg-warm-50 text-warm-900 font-sans antialiased">
+    <Header lang={lang} currentPath={currentPath} />
+    <main class="flex-1">
+      <slot />
+    </main>
+    <Footer lang={lang} />
   </body>
 </html>

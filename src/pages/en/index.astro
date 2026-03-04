@@ -1,6 +1,215 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import { t } from '../../lib/i18n';
+import { getCollection } from 'astro:content';
+
+const lang = 'en' as const;
+
+const allArticles = await getCollection('articles', ({ data }) => {
+  return data.lang === 'en' && !data.draft;
+});
+const recentArticles = allArticles
+  .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime())
+  .slice(0, 3);
+
+const pressLogos = [
+  { name: 'NRC', src: '/images/migrated/nrc-handelsblad.webp' },
+  { name: 'Nu.nl', src: '/images/migrated/Nu-nl-logo-1.webp' },
+  { name: 'Vice', src: '/images/migrated/Vice_Logo.webp' },
+  { name: 'AD', src: '/images/migrated/algemeen-dagblad.webp' },
+  { name: 'FunX', src: '/images/migrated/funx-logo.webp' },
+  { name: 'Flow', src: '/images/migrated/flow-logo.webp' },
+];
+
+const expertises = [
+  {
+    title: t(lang, 'expertise.ai.title'),
+    description: t(lang, 'expertise.ai.description'),
+    cta: t(lang, 'expertise.ai.cta'),
+    href: '/en/ai-workshop/',
+    icon: '🤖',
+  },
+  {
+    title: t(lang, 'expertise.easyreimburse.title'),
+    description: t(lang, 'expertise.easyreimburse.description'),
+    cta: t(lang, 'expertise.easyreimburse.cta'),
+    href: '/en/easyreimburse/',
+    icon: '📋',
+  },
+  {
+    title: t(lang, 'expertise.erasmus.title'),
+    description: t(lang, 'expertise.erasmus.description'),
+    cta: t(lang, 'expertise.erasmus.cta'),
+    href: '/en/erasmus/',
+    icon: '🌍',
+  },
+];
 ---
-<Layout title="Micky van Zadelhoff" description="Personal website of Micky van Zadelhoff" lang="en">
-  <h1>Micky van Zadelhoff</h1>
+
+<Layout
+  title="Micky van Zadelhoff — Digital Nomad, Entrepreneur & AI Trainer"
+  description="Personal website of Micky van Zadelhoff. Digital nomad, entrepreneur, author, AI trainer and Erasmus+ coordinator."
+  lang={lang}
+  ogImage="/images/migrated/mick-van-zadelhoff-de-moderne-nomaden.webp"
+>
+  <!-- Hero Section -->
+  <section class="bg-gradient-to-b from-sand-50 to-warm-50">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-16 sm:py-24">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-16 items-center">
+        <div class="order-2 md:order-1">
+          <p class="text-terra-600 font-medium text-lg mb-2">
+            {t(lang, 'hero.greeting')} 👋
+          </p>
+          <h1 class="text-4xl sm:text-5xl font-bold text-warm-900 leading-tight mb-4">
+            Micky van Zadelhoff
+          </h1>
+          <p class="text-lg sm:text-xl text-warm-600 leading-relaxed mb-4">
+            Digital nomad, entrepreneur, author & AI trainer.
+          </p>
+          <p class="text-base text-warm-500 leading-relaxed mb-8">
+            I share my experiences, help companies with AI, and build digital products — all
+            from my laptop, anywhere in the world.
+          </p>
+          <div class="flex flex-wrap gap-3">
+            <a
+              href="/en/about/"
+              class="inline-flex items-center px-6 py-3 bg-terra-600 text-white font-medium rounded-xl hover:bg-terra-700 transition-colors"
+            >
+              {t(lang, 'hero.cta')}
+            </a>
+            <a
+              href="/en/ai-workshop/"
+              class="inline-flex items-center px-6 py-3 border-2 border-terra-500 text-terra-600 font-medium rounded-xl hover:bg-terra-500 hover:text-white transition-colors"
+            >
+              AI Workshops
+            </a>
+          </div>
+        </div>
+        <div class="order-1 md:order-2 flex justify-center">
+          <div class="w-64 h-64 sm:w-80 sm:h-80 rounded-2xl shadow-lg overflow-hidden">
+            <img
+              src="/images/migrated/mick-van-zadelhoff-de-moderne-nomaden.webp"
+              alt="Micky van Zadelhoff"
+              class="w-full h-full object-cover"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Expertise Section -->
+  <section class="py-16 sm:py-24 bg-white">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <h2 class="text-2xl sm:text-3xl font-bold text-warm-900 text-center mb-4">
+        {t(lang, 'expertise.title')}
+      </h2>
+      <p class="text-warm-500 text-center mb-12 max-w-2xl mx-auto">
+        From AI workshops for businesses to building SaaS products and coordinating international education projects.
+      </p>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6 sm:gap-8">
+        {expertises.map((item) => (
+          <a
+            href={item.href}
+            class="group block p-6 sm:p-8 rounded-2xl border border-warm-200 bg-warm-50/50 hover:border-terra-300 hover:shadow-md transition-all"
+          >
+            <span class="text-3xl mb-4 block">{item.icon}</span>
+            <h3 class="text-xl font-semibold text-warm-900 mb-2 group-hover:text-terra-600 transition-colors">
+              {item.title}
+            </h3>
+            <p class="text-warm-600 text-sm leading-relaxed mb-4">
+              {item.description}
+            </p>
+            <span class="text-terra-600 text-sm font-medium group-hover:underline">
+              {item.cta} &rarr;
+            </span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Press / Social Proof -->
+  <section class="py-12 sm:py-16 bg-sand-50/50">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 text-center">
+      <p class="text-sm font-semibold text-warm-400 uppercase tracking-wider mb-8">
+        {t(lang, 'press.title')}
+      </p>
+      <div class="flex flex-wrap justify-center items-center gap-8 sm:gap-12">
+        {pressLogos.map((press) => (
+          <img
+            src={press.src}
+            alt={press.name}
+            class="h-8 sm:h-10 w-auto object-contain opacity-60 hover:opacity-100 transition-opacity grayscale hover:grayscale-0"
+            loading="lazy"
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Recent Blog Articles -->
+  <section class="py-16 sm:py-24 bg-white">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <h2 class="text-2xl sm:text-3xl font-bold text-warm-900 text-center mb-12">
+        {t(lang, 'blog.title')}
+      </h2>
+
+      {recentArticles.length > 0 ? (
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 sm:gap-8">
+          {recentArticles.map((article) => (
+            <a
+              href={`/en/blog/${article.data.category}/${article.id}/`}
+              class="group block rounded-2xl border border-warm-200 overflow-hidden hover:shadow-md transition-all bg-warm-50/30"
+            >
+              {article.data.featuredImage ? (
+                <div class="aspect-video bg-sand-100 overflow-hidden">
+                  <img
+                    src={article.data.featuredImage}
+                    alt={article.data.title}
+                    class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                    loading="lazy"
+                  />
+                </div>
+              ) : (
+                <div class="aspect-video bg-gradient-to-br from-sand-100 to-warm-100" />
+              )}
+              <div class="p-5 sm:p-6">
+                <p class="text-xs text-warm-400 mb-2">
+                  {new Date(article.data.date).toLocaleDateString('en-US', {
+                    year: 'numeric',
+                    month: 'long',
+                    day: 'numeric',
+                  })}
+                </p>
+                <h3 class="font-semibold text-warm-900 group-hover:text-terra-600 transition-colors mb-2 line-clamp-2">
+                  {article.data.title}
+                </h3>
+                {article.data.description && (
+                  <p class="text-sm text-warm-500 line-clamp-3">
+                    {article.data.description}
+                  </p>
+                )}
+              </div>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <p class="text-warm-400 text-center">
+          No articles available yet.
+        </p>
+      )}
+
+      {recentArticles.length > 0 && (
+        <div class="text-center mt-10">
+          <a
+            href="/en/blog/"
+            class="inline-flex items-center px-6 py-3 border-2 border-terra-500 text-terra-600 font-medium rounded-xl hover:bg-terra-500 hover:text-white transition-colors"
+          >
+            {t(lang, 'blog.viewall')}
+          </a>
+        </div>
+      )}
+    </div>
+  </section>
 </Layout>
