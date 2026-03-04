@@ -1,0 +1,30 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  lang: 'nl' | 'en';
+}
+
+const { title, description, lang } = Astro.props;
+const alternateLocale = lang === 'nl' ? 'en' : 'nl';
+const currentPath = Astro.url.pathname;
+const alternatePath = currentPath.replace(`/${lang}/`, `/${alternateLocale}/`);
+---
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={new URL(currentPath, Astro.site).href} />
+    <link rel="alternate" hreflang={lang} href={new URL(currentPath, Astro.site).href} />
+    <link rel="alternate" hreflang={alternateLocale} href={new URL(alternatePath, Astro.site).href} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta name="generator" content={Astro.generator} />
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>
