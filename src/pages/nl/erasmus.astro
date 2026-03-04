@@ -1,6 +1,67 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import PageHero from '../../components/PageHero.astro';
+
+const stats = [
+  { number: '12+', label: 'landen' },
+  { number: '8', label: 'projecten' },
+  { number: '200+', label: 'deelnemers' },
+  { number: '€500K+', label: 'aan subsidie' },
+];
+
+const proces = [
+  {
+    num: '01',
+    title: 'Aanvraag schrijven',
+    desc: 'Het begint met een sterk projectvoorstel. Ik schrijf de aanvraag, onderbouw de doelen en zorg dat deze voldoet aan alle Erasmus+ criteria.',
+    gradient: 'from-accent-blue to-purple-400',
+  },
+  {
+    num: '02',
+    title: 'Partners vinden',
+    desc: 'Een goed Erasmus+ project heeft sterke internationale partners nodig. Ik activeer mijn netwerk in heel Europa om de juiste organisaties aan boord te krijgen.',
+    gradient: 'from-purple-400 to-accent-pink',
+  },
+  {
+    num: '03',
+    title: 'Project uitvoeren',
+    desc: 'Van kick-off meetings tot internationale uitwisselingen — ik coördineer de planning, communicatie en logistiek zodat alles soepel verloopt.',
+    gradient: 'from-accent-pink to-accent-orange',
+  },
+  {
+    num: '04',
+    title: 'Evaluatie & rapportage',
+    desc: 'Na afloop evalueer ik de resultaten, stel ik het eindrapport op en zorg ik dat de EU-subsidie correct verantwoord wordt.',
+    gradient: 'from-accent-orange to-accent-blue',
+  },
+];
+
+const infoCards = [
+  {
+    title: 'Internationale uitwisseling',
+    desc: 'Studenten en professionals reizen naar andere landen om te leren en ervaring op te doen in een nieuwe culturele context.',
+    icon: `<svg class="w-6 h-6 text-accent-blue" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M12 21a9.004 9.004 0 008.716-6.747M12 21a9.004 9.004 0 01-8.716-6.747M12 21c2.485 0 4.5-4.03 4.5-9S14.485 3 12 3m0 18c-2.485 0-4.5-4.03-4.5-9S9.515 3 12 3m0 0a8.997 8.997 0 017.843 4.582M12 3a8.997 8.997 0 00-7.843 4.582m15.686 0A11.953 11.953 0 0112 10.5c-2.998 0-5.74-1.1-7.843-2.918m15.686 0A8.959 8.959 0 0121 12c0 .778-.099 1.533-.284 2.253m0 0A17.919 17.919 0 0112 16.5c-3.162 0-6.133-.815-8.716-2.247m0 0A9.015 9.015 0 013 12c0-1.605.42-3.113 1.157-4.418" /></svg>`,
+    gradient: 'from-accent-blue to-purple-400',
+  },
+  {
+    title: 'Kennisdeling',
+    desc: 'Organisaties uit verschillende EU-landen werken samen aan gedeelde educatieve doelen en innovatieve lesmethoden.',
+    icon: `<svg class="w-6 h-6 text-purple-500" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M4.26 10.147a60.436 60.436 0 00-.491 6.347A48.627 48.627 0 0112 20.904a48.627 48.627 0 018.232-4.41 60.46 60.46 0 00-.491-6.347m-15.482 0a50.57 50.57 0 00-2.658-.813A59.905 59.905 0 0112 3.493a59.902 59.902 0 0110.399 5.84c-.896.248-1.783.52-2.658.814m-15.482 0A50.697 50.697 0 0112 13.489a50.702 50.702 0 017.74-3.342M6.75 15a.75.75 0 100-1.5.75.75 0 000 1.5Zm0 0v-3.675A55.378 55.378 0 0112 8.443m-7.007 11.55A5.981 5.981 0 006.75 15.75v-1.5" /></svg>`,
+    gradient: 'from-purple-500 to-accent-pink',
+  },
+  {
+    title: 'Gefinancierd door de EU',
+    desc: 'Projecten worden gefinancierd door de Europese Commissie, waardoor deelname laagdrempelig is voor alle organisaties.',
+    icon: `<svg class="w-6 h-6 text-accent-pink" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 18.75a60.07 60.07 0 0115.797 2.101c.727.198 1.453-.342 1.453-1.096V18.75M3.75 4.5v.75A.75.75 0 013 6h-.75m0 0v-.375c0-.621.504-1.125 1.125-1.125H20.25M2.25 6v9m18-10.5v.75c0 .414.336.75.75.75h.75m-1.5-1.5h.375c.621 0 1.125.504 1.125 1.125v9.75c0 .621-.504 1.125-1.125 1.125h-.375m1.5-1.5H21a.75.75 0 00-.75.75v.75m0 0H3.75m0 0h-.375a1.125 1.125 0 01-1.125-1.125V15m1.5 1.5v-.75A.75.75 0 003 15h-.75M15 10.5a3 3 0 11-6 0 3 3 0 016 0Zm3 0h.008v.008H18V10.5Zm-12 0h.008v.008H6V10.5Z" /></svg>`,
+    gradient: 'from-accent-pink to-accent-orange',
+  },
+  {
+    title: 'Volledige coördinatie',
+    desc: 'Van aanvraag tot evaluatie — ik begeleid het hele traject zodat alles soepel verloopt en aan alle eisen voldoet.',
+    icon: `<svg class="w-6 h-6 text-accent-orange" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12c0 1.268-.63 2.39-1.593 3.068a3.745 3.745 0 01-1.043 3.296 3.745 3.745 0 01-3.296 1.043A3.745 3.745 0 0112 21c-1.268 0-2.39-.63-3.068-1.593a3.746 3.746 0 01-3.296-1.043 3.745 3.745 0 01-1.043-3.296A3.745 3.745 0 013 12c0-1.268.63-2.39 1.593-3.068a3.745 3.745 0 011.043-3.296 3.746 3.746 0 013.296-1.043A3.746 3.746 0 0112 3c1.268 0 2.39.63 3.068 1.593a3.746 3.746 0 013.296 1.043 3.746 3.746 0 011.043 3.296A3.745 3.745 0 0121 12Z" /></svg>`,
+    gradient: 'from-accent-orange to-accent-blue',
+  },
+];
 ---
 
 <Layout
@@ -11,62 +72,150 @@ import PageHero from '../../components/PageHero.astro';
   <PageHero
     title="Erasmus+ Coördinator"
     subtitle="Internationale educatieprojecten coördineren via het Erasmus+ programma."
+    badge="Internationaal"
+    gradient="blue"
   />
 
   <div class="px-5 sm:px-8">
     <div class="max-w-5xl mx-auto">
 
-      <section class="mb-16">
+      <!-- Intro -->
+      <section class="mb-20">
         <p class="text-lg text-ink/70 leading-relaxed mb-6">
           Naast mijn werk in AI en tech, coördineer ik internationale educatieprojecten via
           het Erasmus+ programma van de Europese Unie. Dit programma brengt studenten,
           docenten en professionals uit verschillende landen samen om kennis te delen en
           samen te werken.
         </p>
-        <p class="text-lg text-ink/70 leading-relaxed mb-6">
+        <p class="text-lg text-ink/70 leading-relaxed">
           Als coördinator begeleid ik het hele traject — van het schrijven van de aanvraag
           tot de uitvoering van het project. Denk aan internationale uitwisselingen,
           trainingen en samenwerkingsverbanden tussen organisaties in heel Europa.
         </p>
-        <p class="text-lg text-ink/70 leading-relaxed">
-          Mijn achtergrond als digital nomad en ondernemer geeft me een uniek perspectief
-          op internationale samenwerking. Ik weet hoe je teams over grenzen heen laat werken,
-          zelfs als iedereen op een andere plek zit.
-        </p>
       </section>
 
-      <!-- What Erasmus+ is -->
-      <section class="mb-16">
-        <h2 class="text-2xl font-bold text-ink mb-8">Wat is Erasmus+?</h2>
+      <!-- Large visual banner -->
+      <section class="mb-24">
+        <div class="relative rounded-3xl overflow-hidden bg-gradient-to-br from-accent-blue/20 via-purple-200/30 to-accent-pink/10 p-10 sm:p-16">
+          <div class="absolute top-0 right-0 w-64 h-64 rounded-full bg-accent-blue/10 blur-3xl pointer-events-none"></div>
+          <div class="absolute bottom-0 left-0 w-48 h-48 rounded-full bg-purple-200/20 blur-3xl pointer-events-none"></div>
+          <div class="absolute top-1/3 right-1/4 w-3 h-3 rounded-full bg-accent-blue/30"></div>
+          <div class="absolute bottom-1/3 left-1/3 w-2 h-2 rounded-full bg-purple-400/30"></div>
+          <div class="relative max-w-2xl">
+            <span class="inline-block px-3 py-1 text-[10px] font-bold uppercase tracking-widest text-accent-blue bg-accent-blue/10 rounded-full mb-6 border border-accent-blue/20">Europese Unie</span>
+            <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold text-ink leading-tight mb-4">
+              Grenzen vervagen,<br/>
+              <span class="bg-gradient-to-r from-accent-blue to-purple-600 bg-clip-text text-transparent">kennis verbindt</span>
+            </h2>
+            <p class="text-ink/50 leading-relaxed max-w-lg">
+              Erasmus+ projecten brengen organisaties uit heel Europa samen. Van Lissabon tot Helsinki, van Dublin tot Athene — samenwerking kent geen grenzen.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Stats -->
+      <section class="mb-24">
+        <div class="bg-white rounded-3xl shadow-sm border border-purple-100/60 p-8 sm:p-12">
+          <div class="grid grid-cols-2 sm:grid-cols-4 gap-8 text-center">
+            {stats.map((s) => (
+              <div>
+                <p class="text-4xl sm:text-5xl font-bold bg-gradient-to-r from-accent-blue to-purple-600 bg-clip-text text-transparent">{s.number}</p>
+                <p class="text-sm text-ink/40 mt-2">{s.label}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <!-- Wat ik doe: 4 steps -->
+      <section class="mb-24">
+        <h2 class="text-2xl sm:text-3xl font-bold text-ink mb-4">Wat ik doe</h2>
+        <p class="text-ink/50 mb-12 max-w-2xl">Van idee tot afronding: het volledige coördinatietraject.</p>
+
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
-          <div class="bg-white shadow-sm rounded-2xl p-6 border border-purple-100/60">
-            <h3 class="text-ink font-semibold mb-2">Internationale uitwisseling</h3>
-            <p class="text-sm text-ink/50">Studenten en professionals reizen naar andere landen om te leren en ervaring op te doen.</p>
-          </div>
-          <div class="bg-white shadow-sm rounded-2xl p-6 border border-purple-100/60">
-            <h3 class="text-ink font-semibold mb-2">Kennisdeling</h3>
-            <p class="text-sm text-ink/50">Organisaties uit verschillende EU-landen werken samen aan gedeelde educatieve doelen.</p>
-          </div>
-          <div class="bg-white shadow-sm rounded-2xl p-6 border border-purple-100/60">
-            <h3 class="text-ink font-semibold mb-2">Gefinancierd door de EU</h3>
-            <p class="text-sm text-ink/50">Projecten worden gefinancierd door de Europese Commissie, waardoor deelname laagdrempelig is.</p>
-          </div>
-          <div class="bg-white shadow-sm rounded-2xl p-6 border border-purple-100/60">
-            <h3 class="text-ink font-semibold mb-2">Coördinatie</h3>
-            <p class="text-sm text-ink/50">Van aanvraag tot evaluatie — ik begeleid het hele traject zodat alles soepel verloopt.</p>
+          {proces.map((step) => (
+            <div class="group relative bg-white rounded-2xl p-8 shadow-sm border border-purple-100/60 hover:shadow-md transition-all overflow-hidden">
+              <div class={`absolute top-0 left-0 right-0 h-1 bg-gradient-to-r ${step.gradient}`}></div>
+              <span class={`inline-block text-3xl font-bold bg-gradient-to-r ${step.gradient} bg-clip-text text-transparent mb-4`}>{step.num}</span>
+              <h3 class="text-lg font-semibold text-ink mb-3">{step.title}</h3>
+              <p class="text-sm text-ink/50 leading-relaxed">{step.desc}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <!-- Wat is Erasmus+? -->
+      <section class="mb-24">
+        <h2 class="text-2xl sm:text-3xl font-bold text-ink mb-4">Wat is Erasmus+?</h2>
+        <p class="text-ink/50 mb-12 max-w-2xl">Het grootste educatie- en uitwisselingsprogramma van de Europese Unie.</p>
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+          {infoCards.map((card) => (
+            <div class="group relative bg-white rounded-2xl p-8 shadow-sm border border-purple-100/60 hover:shadow-md hover:-translate-y-0.5 transition-all duration-300 overflow-hidden">
+              <div class={`absolute top-0 left-0 right-0 h-1 bg-gradient-to-r ${card.gradient}`}></div>
+              <div class="flex items-start gap-5">
+                <div class="shrink-0 w-12 h-12 rounded-2xl bg-gradient-to-br from-accent-blue/5 to-purple-50 border border-purple-100/40 flex items-center justify-center" set:html={card.icon}></div>
+                <div>
+                  <h3 class="text-lg font-semibold text-ink mb-2">{card.title}</h3>
+                  <p class="text-sm text-ink/50 leading-relaxed">{card.desc}</p>
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <!-- Digital nomad perspective -->
+      <section class="mb-24">
+        <div class="relative bg-white rounded-3xl p-10 sm:p-14 shadow-sm border border-purple-100/60 overflow-hidden">
+          <div class="absolute top-0 left-0 w-1.5 h-full bg-gradient-to-b from-accent-blue via-purple-400 to-accent-pink rounded-l-3xl"></div>
+          <div class="pl-4 sm:pl-6">
+            <span class="inline-block px-3 py-1 text-[10px] font-bold uppercase tracking-widest text-accent-blue bg-accent-blue/10 rounded-full mb-6 border border-accent-blue/20">Uniek perspectief</span>
+            <h2 class="text-2xl sm:text-3xl font-bold text-ink mb-6">
+              De digital nomad als coördinator
+            </h2>
+            <p class="text-ink/60 leading-relaxed mb-6">
+              Mijn achtergrond als digital nomad en ondernemer geeft me een uniek perspectief
+              op internationale samenwerking. Ik weet hoe je teams over grenzen heen laat werken,
+              zelfs als iedereen op een andere plek zit.
+            </p>
+            <p class="text-ink/60 leading-relaxed mb-6">
+              Jarenlang heb ik vanuit tientallen landen gewerkt en samengewerkt met mensen van
+              overal ter wereld. Die ervaring vertaalt zich direct naar hoe ik Erasmus+ projecten
+              coördineer: flexibel, cultureel bewust en met oog voor de menselijke kant van
+              internationale samenwerking.
+            </p>
+            <div class="flex flex-wrap gap-3 mt-8">
+              {['Flexibel werken', 'Cultureel bewust', 'Internationaal netwerk', 'Digitale tools'].map((tag) => (
+                <span class="px-4 py-1.5 text-xs font-medium text-accent-blue bg-accent-blue/5 rounded-full border border-accent-blue/15">{tag}</span>
+              ))}
+            </div>
           </div>
         </div>
       </section>
 
       <!-- CTA -->
-      <section class="mb-20 text-center">
-        <p class="text-ink/50 leading-relaxed mb-6">
-          Interesse in een Erasmus+ samenwerking of heb je vragen over het programma?
-        </p>
-        <a href="/nl/contact/" class="inline-flex items-center px-8 py-3 bg-purple-600 text-white font-medium rounded-full hover:bg-purple-500 transition-colors">
-          Neem contact op
-        </a>
+      <section class="mb-24">
+        <div class="relative bg-gradient-to-br from-purple-600 to-purple-800 rounded-3xl p-10 sm:p-14 text-center overflow-hidden">
+          <div class="absolute top-0 right-0 w-48 h-48 rounded-full bg-accent-blue/10 blur-2xl"></div>
+          <div class="absolute bottom-0 left-0 w-32 h-32 rounded-full bg-white/5 blur-2xl"></div>
+          <div class="absolute top-1/2 right-1/3 w-3 h-3 rounded-full bg-white/10"></div>
+          <div class="relative">
+            <h2 class="text-2xl sm:text-3xl font-bold text-white mb-4">Samen een Erasmus+ project starten?</h2>
+            <p class="text-white/60 mb-8 max-w-lg mx-auto leading-relaxed">
+              Interesse in een Erasmus+ samenwerking of heb je vragen over het programma? Laten we kennismaken.
+            </p>
+            <a href="/nl/contact/" class="inline-flex items-center gap-2 px-8 py-3 bg-white text-purple-700 font-semibold rounded-full hover:bg-purple-50 transition-colors shadow-lg">
+              Neem contact op
+              <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
+              </svg>
+            </a>
+          </div>
+        </div>
       </section>
+
     </div>
   </div>
 </Layout>

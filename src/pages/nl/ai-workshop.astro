@@ -10,6 +10,14 @@ const programma = [
   { time: '12:10 – 12:40', title: 'Brede AI-toepassingen', desc: 'We duiken in de breedte van AI en bespreken interessante use cases voor marketing, klantenservice, administratie, communicatie, HR en sales.' },
   { time: '12:40 – 13:00', title: 'Bedrijf future proof', desc: 'Waar gaat het heen? Een kijkje in de toekomst van AI en de gevolgen voor werk en leven, gevolgd door een discussie onder de medewerkers.' },
 ];
+
+const faqs = [
+  { q: 'Waar is de training?', a: 'Bij jou op locatie. We hebben enkel een beamer of tv-scherm nodig voor de presentatie.' },
+  { q: 'Wat kost de training?', a: 'De investering is €950 excl. btw. Dit is inclusief reiskosten, trainer en voorbereiding.' },
+  { q: 'Wie geeft de training?', a: 'De training wordt gegeven door Micky van Zadelhoff. AI-expert en helemaal thuis in de tech wereld.' },
+  { q: 'Hoeveel medewerkers mogen meedoen?', a: 'De training is ontworpen voor groepen tot 25 personen. Zo blijft het interactief en kan iedereen actief meedoen.' },
+  { q: 'Moet iedereen technisch zijn?', a: 'Absoluut niet. De workshop is juist ontworpen voor niet-technische medewerkers. We beginnen bij de basis en bouwen op.' },
+];
 ---
 
 <Layout
@@ -21,115 +29,199 @@ const programma = [
   <PageHero
     title="AI & ChatGPT Workshop"
     subtitle="In-company training van 3 uur. De investering die je bedrijf binnen één week terugverdient."
+    badge="In-company Training"
+    gradient="purple"
   />
 
   <div class="px-5 sm:px-8">
     <div class="max-w-5xl mx-auto">
 
-      <!-- Intro -->
-      <section class="mb-16">
-        <p class="text-lg text-ink/70 leading-relaxed mb-6">
-          De ontwikkelingen in AI gaan ontzettend snel. Van ChatGPT en Claude tot Gemini en
-          duizenden gespecialiseerde AI-tools — het is duidelijk dat AI veel voor bedrijven
-          kan betekenen. Maar door de bomen het bos zien? Dat is een ander verhaal.
-        </p>
-        <p class="text-lg text-ink/70 leading-relaxed">
-          Laat AI de administratie doen, een campagne bedenken, een bedrijfsvideo maken,
-          de contentstrategie uitvoeren, e-mails voor HR schrijven — de mogelijkheden zijn
-          eindeloos. In deze 3-urige workshop ontdek je ze op een praktische, to-the-point
-          manier.
-        </p>
-      </section>
-
-      <!-- Training image -->
-      <section class="mb-16">
-        <img
-          src="/images/migrated/training-ai-kunstmatige-intelligentie-in-company-1.webp"
-          alt="AI Workshop in-company training"
-          class="w-full rounded-2xl"
-        />
-      </section>
-
-      <!-- Key stats -->
-      <section class="mb-16">
-        <div class="grid grid-cols-2 sm:grid-cols-5 gap-4">
-          <div class="bg-white shadow-sm rounded-2xl p-5 text-center border border-purple-100/60">
-            <p class="text-2xl font-bold text-ink">3</p>
-            <p class="text-xs text-ink/40 mt-1">uur</p>
+      <!-- Intro text -->
+      <section class="mb-20">
+        <div class="grid grid-cols-1 md:grid-cols-5 gap-10 md:gap-14 items-center">
+          <div class="md:col-span-3">
+            <p class="text-lg text-ink/70 leading-relaxed mb-6">
+              De ontwikkelingen in AI gaan ontzettend snel. Van ChatGPT en Claude tot Gemini en
+              duizenden gespecialiseerde AI-tools — het is duidelijk dat AI veel voor bedrijven
+              kan betekenen. Maar door de bomen het bos zien? Dat is een ander verhaal.
+            </p>
+            <p class="text-lg text-ink/70 leading-relaxed">
+              Laat AI de administratie doen, een campagne bedenken, een bedrijfsvideo maken,
+              de contentstrategie uitvoeren, e-mails voor HR schrijven — de mogelijkheden zijn
+              eindeloos. In deze 3-urige workshop ontdek je ze op een praktische, to-the-point
+              manier.
+            </p>
           </div>
-          <div class="bg-white shadow-sm rounded-2xl p-5 text-center border border-purple-100/60">
-            <p class="text-2xl font-bold text-ink">1</p>
-            <p class="text-xs text-ink/40 mt-1">trainer</p>
-          </div>
-          <div class="bg-white shadow-sm rounded-2xl p-5 text-center border border-purple-100/60">
-            <p class="text-2xl font-bold text-ink">25</p>
-            <p class="text-xs text-ink/40 mt-1">max. deelnemers</p>
-          </div>
-          <div class="bg-white shadow-sm rounded-2xl p-5 text-center border border-purple-100/60">
-            <p class="text-2xl font-bold text-ink">Op locatie</p>
-            <p class="text-xs text-ink/40 mt-1">bij jou op kantoor</p>
-          </div>
-          <div class="bg-white shadow-sm rounded-2xl p-5 text-center border border-purple-100/60 col-span-2 sm:col-span-1">
-            <p class="text-2xl font-bold text-purple-600">€950</p>
-            <p class="text-xs text-ink/40 mt-1">excl. btw</p>
+          <div class="md:col-span-2">
+            <div class="relative">
+              <div class="absolute -inset-3 bg-gradient-to-br from-purple-200/40 to-accent-pink/20 rounded-[2rem] blur-lg"></div>
+              <img
+                src="/images/migrated/training-ai-kunstmatige-intelligentie-in-company-1.webp"
+                alt="AI Workshop in-company training"
+                class="relative rounded-3xl w-full shadow-xl"
+              />
+            </div>
           </div>
         </div>
       </section>
 
-      <!-- Programme -->
-      <section class="mb-16">
-        <h2 class="text-2xl sm:text-3xl font-bold text-ink mb-10">Programma</h2>
-        <div class="space-y-6">
-          {programma.map((item) => (
-            <div class="flex gap-6 items-start">
-              <div class="shrink-0 w-28 sm:w-32">
-                <p class="text-sm font-medium text-purple-600">{item.time}</p>
+      <!-- Large gradient banner -->
+      <section class="mb-24">
+        <div class="relative rounded-3xl overflow-hidden">
+          <img
+            src="/images/migrated/training-ai-kunstmatige-intelligentie-in-company-1.webp"
+            alt="AI Workshop sessie"
+            class="w-full aspect-[21/9] object-cover"
+          />
+          <div class="absolute inset-0 bg-gradient-to-r from-purple-900/80 via-purple-800/60 to-transparent"></div>
+          <div class="absolute inset-0 flex items-center p-8 sm:p-14">
+            <div class="max-w-lg">
+              <span class="inline-block px-3 py-1 text-[10px] font-bold uppercase tracking-widest text-white/90 bg-white/15 rounded-full mb-4 backdrop-blur-sm border border-white/20">Praktisch & hands-on</span>
+              <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold text-white leading-tight mb-3">
+                Maak je team <span class="text-accent-pink">AI-proof</span> in 3 uur
+              </h2>
+              <p class="text-white/70 text-sm sm:text-base leading-relaxed">
+                Geen theorie zonder praktijk. Medewerkers gaan direct aan de slag met AI-tools die ze de volgende dag al kunnen inzetten.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Stats section -->
+      <section class="mb-24">
+        <div class="bg-white rounded-3xl shadow-sm border border-purple-100/60 p-8 sm:p-12">
+          <div class="grid grid-cols-2 sm:grid-cols-5 gap-8 text-center">
+            <div>
+              <p class="text-4xl sm:text-5xl font-bold bg-gradient-to-r from-purple-600 to-accent-pink bg-clip-text text-transparent">3</p>
+              <p class="text-sm text-ink/40 mt-2">uur</p>
+            </div>
+            <div>
+              <p class="text-4xl sm:text-5xl font-bold bg-gradient-to-r from-purple-600 to-accent-pink bg-clip-text text-transparent">1</p>
+              <p class="text-sm text-ink/40 mt-2">trainer</p>
+            </div>
+            <div>
+              <p class="text-4xl sm:text-5xl font-bold bg-gradient-to-r from-purple-600 to-accent-pink bg-clip-text text-transparent">25</p>
+              <p class="text-sm text-ink/40 mt-2">max. deelnemers</p>
+            </div>
+            <div>
+              <p class="text-4xl sm:text-5xl font-bold bg-gradient-to-r from-purple-600 to-accent-pink bg-clip-text text-transparent">Op locatie</p>
+              <p class="text-sm text-ink/40 mt-2">bij jou op kantoor</p>
+            </div>
+            <div class="col-span-2 sm:col-span-1">
+              <p class="text-4xl sm:text-5xl font-bold bg-gradient-to-r from-purple-600 to-accent-pink bg-clip-text text-transparent">&euro;950</p>
+              <p class="text-sm text-ink/40 mt-2">excl. btw</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Programme timeline -->
+      <section class="mb-24">
+        <h2 class="text-2xl sm:text-3xl font-bold text-ink mb-4">Programma</h2>
+        <p class="text-ink/50 mb-12 max-w-2xl">Van introductie tot hands-on oefeningen. Elke minuut is waardevol.</p>
+
+        <div class="relative">
+          <!-- Vertical timeline line -->
+          <div class="absolute left-[18px] sm:left-[22px] top-4 bottom-4 w-0.5 bg-gradient-to-b from-purple-400 via-accent-pink to-purple-300"></div>
+
+          <div class="space-y-6">
+            {programma.map((item, i) => (
+              <div class="relative flex gap-6 sm:gap-8 items-start">
+                <!-- Timeline dot -->
+                <div class="relative z-10 shrink-0 w-[38px] sm:w-[46px] flex items-start justify-center pt-6">
+                  <div class="w-3.5 h-3.5 rounded-full bg-white border-[3px] border-purple-500 shadow-md shadow-purple-200/50"></div>
+                </div>
+
+                <!-- Card -->
+                <div class="flex-1 group bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-purple-100/60 hover:shadow-md hover:border-purple-200/60 transition-all">
+                  <div class="flex flex-col sm:flex-row sm:items-start sm:gap-6">
+                    <span class="inline-block text-xs font-bold text-purple-500 uppercase tracking-wider mb-2 sm:mb-0 sm:pt-0.5 shrink-0 sm:w-28">{item.time}</span>
+                    <div>
+                      <h3 class="text-lg font-semibold text-ink mb-2">{item.title}</h3>
+                      <p class="text-sm text-ink/50 leading-relaxed">{item.desc}</p>
+                    </div>
+                  </div>
+                </div>
               </div>
-              <div>
-                <h3 class="text-lg font-semibold text-ink mb-1">{item.title}</h3>
-                <p class="text-sm text-ink/50 leading-relaxed">{item.desc}</p>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <!-- Social proof -->
+      <section class="mb-24">
+        <p class="text-xs uppercase tracking-[0.2em] text-ink/30 font-medium mb-8 text-center">Bedrijven die mij voorgingen</p>
+        <div class="grid grid-cols-2 sm:grid-cols-4 gap-6">
+          {['Bedrijf A', 'Bedrijf B', 'Bedrijf C', 'Bedrijf D'].map((name) => (
+            <div class="flex items-center justify-center h-20 bg-white rounded-2xl border border-purple-100/40 p-4 hover:shadow-md hover:border-purple-200/60 transition-all">
+              <div class="flex items-center gap-3">
+                <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-purple-100 to-purple-50 flex items-center justify-center">
+                  <svg class="w-5 h-5 text-purple-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 21h19.5m-18-18v18m10.5-18v18m6-13.5V21M6.75 6.75h.75m-.75 3h.75m-.75 3h.75m3-6h.75m-.75 3h.75m-.75 3h.75M6.75 21v-3.375c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21M3 3h12m-.75 4.5H21m-3.75 0h.008v.008h-.008V7.5Z" />
+                  </svg>
+                </div>
+                <span class="text-sm font-medium text-ink/30">{name}</span>
+              </div>
+            </div>
+          ))}
+        </div>
+        <p class="text-center text-xs text-ink/25 mt-4">Logo's worden binnenkort toegevoegd</p>
+      </section>
+
+      <!-- FAQ -->
+      <section class="mb-24">
+        <h2 class="text-2xl sm:text-3xl font-bold text-ink mb-4">Veelgestelde vragen</h2>
+        <p class="text-ink/50 mb-12 max-w-2xl">Alles wat je wilt weten over de AI workshop.</p>
+
+        <div class="space-y-4">
+          {faqs.map((faq) => (
+            <div class="relative bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-purple-100/60 overflow-hidden hover:shadow-md transition-all">
+              <div class="absolute top-0 left-0 w-1 h-full bg-gradient-to-b from-purple-500 to-purple-300 rounded-l-2xl"></div>
+              <div class="pl-4">
+                <h3 class="text-ink font-semibold mb-2 flex items-center gap-3">
+                  <svg class="w-5 h-5 text-purple-400 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M9.879 7.519c1.171-1.025 3.071-1.025 4.242 0 1.172 1.025 1.172 2.687 0 3.712-.203.179-.43.326-.67.442-.745.361-1.45.999-1.45 1.827v.75M21 12a9 9 0 11-18 0 9 9 0 0118 0Zm-9 5.25h.008v.008H12v-.008Z" />
+                  </svg>
+                  {faq.q}
+                </h3>
+                <p class="text-sm text-ink/50 leading-relaxed ml-8">{faq.a}</p>
               </div>
             </div>
           ))}
         </div>
       </section>
 
-      <!-- FAQ -->
-      <section class="mb-16">
-        <h2 class="text-2xl sm:text-3xl font-bold text-ink mb-10">Veelgestelde vragen</h2>
-        <div class="space-y-6">
-          <div class="border-b border-purple-100/60 pb-6">
-            <h3 class="text-ink font-medium mb-2">Waar is de training?</h3>
-            <p class="text-sm text-ink/50 leading-relaxed">Bij jou op locatie. We hebben enkel een beamer of tv-scherm nodig voor de presentatie.</p>
-          </div>
-          <div class="border-b border-purple-100/60 pb-6">
-            <h3 class="text-ink font-medium mb-2">Wat kost de training?</h3>
-            <p class="text-sm text-ink/50 leading-relaxed">De investering is €950 excl. btw. Dit is inclusief reiskosten, trainer en voorbereiding.</p>
-          </div>
-          <div class="border-b border-purple-100/60 pb-6">
-            <h3 class="text-ink font-medium mb-2">Wie geeft de training?</h3>
-            <p class="text-sm text-ink/50 leading-relaxed">
-              De training wordt gegeven door Micky van Zadelhoff. AI-expert en helemaal thuis in de tech wereld.
+      <!-- CTA -->
+      <section id="aanmelden" class="mb-24">
+        <div class="relative bg-gradient-to-br from-purple-600 to-purple-800 rounded-3xl p-10 sm:p-14 text-center overflow-hidden">
+          <div class="absolute top-0 right-0 w-48 h-48 rounded-full bg-white/5 blur-2xl"></div>
+          <div class="absolute bottom-0 left-0 w-32 h-32 rounded-full bg-accent-pink/10 blur-2xl"></div>
+          <div class="absolute top-1/2 right-1/4 w-3 h-3 rounded-full bg-white/10"></div>
+          <div class="absolute top-1/3 left-1/5 w-2 h-2 rounded-full bg-accent-pink/20"></div>
+          <div class="relative">
+            <h2 class="text-2xl sm:text-3xl font-bold text-white mb-4">Gesprek inplannen</h2>
+            <p class="text-white/60 mb-8 max-w-lg mx-auto leading-relaxed">
+              We vinden het zelf het allerhandigst om gewoon even te mailen of appen. Dan maken we kennis!
             </p>
+            <div class="flex flex-col sm:flex-row gap-4 justify-center">
+              <a href="mailto:mick@demodernenomaden.nl" class="inline-flex items-center justify-center gap-2 px-8 py-3 bg-white text-purple-700 font-semibold rounded-full hover:bg-purple-50 transition-colors shadow-lg">
+                <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25m19.5 0v.243a2.25 2.25 0 01-1.07 1.916l-7.5 4.615a2.25 2.25 0 01-2.36 0L3.32 8.91a2.25 2.25 0 01-1.07-1.916V6.75" />
+                </svg>
+                Mail ons
+              </a>
+              <a href="https://wa.me/31681081589" target="_blank" rel="noopener" class="inline-flex items-center justify-center gap-2 px-8 py-3 border border-white/20 text-white font-semibold rounded-full hover:bg-white/10 transition-colors">
+                <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+                  <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z" />
+                </svg>
+                WhatsApp
+              </a>
+            </div>
           </div>
         </div>
       </section>
 
-      <!-- CTA -->
-      <section id="aanmelden" class="mb-20 bg-white shadow-sm rounded-3xl p-8 sm:p-12 border border-purple-100/60 text-center">
-        <h2 class="text-2xl font-bold text-ink mb-4">Gesprek inplannen</h2>
-        <p class="text-ink/50 leading-relaxed mb-8 max-w-lg mx-auto">
-          We vinden het zelf het allerhandigst om gewoon even te mailen of appen. Dan maken we kennis!
-        </p>
-        <div class="flex flex-col sm:flex-row gap-4 justify-center">
-          <a href="mailto:mick@demodernenomaden.nl" class="inline-flex items-center justify-center px-8 py-3 bg-purple-600 text-white font-medium rounded-full hover:bg-purple-500 transition-colors">
-            Mail ons
-          </a>
-          <a href="https://wa.me/31681081589" target="_blank" rel="noopener" class="inline-flex items-center justify-center px-8 py-3 border border-purple-100/60 text-ink font-medium rounded-full hover:bg-surface-200 transition-colors">
-            WhatsApp
-          </a>
-        </div>
-      </section>
     </div>
   </div>
 </Layout>

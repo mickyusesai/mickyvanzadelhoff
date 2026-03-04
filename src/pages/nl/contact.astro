@@ -1,6 +1,51 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import PageHero from '../../components/PageHero.astro';
+
+const contactMethods = [
+  {
+    title: 'E-mail',
+    value: 'mick@demodernenomaden.nl',
+    href: 'mailto:mick@demodernenomaden.nl',
+    borderColor: 'border-t-purple-500',
+    icon: `<svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25m19.5 0v.243a2.25 2.25 0 01-1.07 1.916l-7.5 4.615a2.25 2.25 0 01-2.36 0L3.32 8.91a2.25 2.25 0 01-1.07-1.916V6.75" /></svg>`,
+    desc: 'Binnen 24 uur reactie',
+    iconBg: 'bg-purple-100/80 text-purple-600',
+  },
+  {
+    title: 'WhatsApp',
+    value: '+31 6 81 08 15 89',
+    href: 'https://wa.me/31681081589',
+    borderColor: 'border-t-green-500',
+    icon: `<svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>`,
+    desc: 'Direct een bericht sturen',
+    iconBg: 'bg-green-100/80 text-green-600',
+  },
+  {
+    title: 'Locatie',
+    value: 'Rotterdam, NL',
+    href: null,
+    borderColor: 'border-t-accent-orange',
+    icon: `<svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" /><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 0115 0z" /></svg>`,
+    desc: 'Werkt remote wereldwijd',
+    iconBg: 'bg-orange-100/80 text-accent-orange',
+  },
+];
+
+const faqItems = [
+  {
+    question: 'Hoe snel reageer je?',
+    answer: 'Meestal binnen 24 uur op werkdagen. Bij urgente zaken kun je me het beste via WhatsApp bereiken — dan reageer ik vaak nog sneller.',
+  },
+  {
+    question: 'Waar ben je gevestigd?',
+    answer: 'Mijn bedrijf is gevestigd in Rotterdam, maar ik werk volledig remote. Of ik nu in Nederland, Portugal of Bali zit — ik ben altijd bereikbaar.',
+  },
+  {
+    question: 'Werk je ook remote samen?',
+    answer: 'Absoluut! De meeste van mijn samenwerkingen en trainingen verlopen (deels) online. Fysieke workshops in Nederland zijn ook mogelijk.',
+  },
+];
 ---
 
 <Layout
@@ -11,84 +56,196 @@ import PageHero from '../../components/PageHero.astro';
   <PageHero
     title="Contact"
     subtitle="Heb je vragen over AI trainingen of kun je mijn hulp ergens bij gebruiken? Binnen 24 uur krijg je antwoord."
+    badge="Laten we praten"
+    gradient="warm"
+    align="center"
   />
 
   <div class="px-5 sm:px-8">
     <div class="max-w-5xl mx-auto">
 
+      <!-- Contact method cards -->
+      <section class="mb-16">
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-5">
+          {contactMethods.map((method) => (
+            <div class={`bg-white rounded-2xl p-6 border border-purple-100/60 shadow-sm hover:shadow-md transition-all duration-300 border-t-4 ${method.borderColor} text-center`}>
+              <div class={`w-14 h-14 rounded-2xl ${method.iconBg} flex items-center justify-center mx-auto mb-4`}>
+                <Fragment set:html={method.icon} />
+              </div>
+              <h3 class="font-semibold text-ink text-sm uppercase tracking-wide mb-2">{method.title}</h3>
+              {method.href ? (
+                <a href={method.href} target={method.href.startsWith('http') ? '_blank' : undefined} rel={method.href.startsWith('http') ? 'noopener' : undefined} class="text-purple-600 font-medium hover:text-purple-500 transition-colors block mb-1">
+                  {method.value}
+                </a>
+              ) : (
+                <p class="text-ink/70 font-medium mb-1">{method.value}</p>
+              )}
+              <p class="text-xs text-ink/30">{method.desc}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <!-- Form + sidebar -->
       <div class="grid grid-cols-1 md:grid-cols-5 gap-12 md:gap-16 mb-20">
 
         <!-- Contact form -->
         <div class="md:col-span-3">
-          <form class="space-y-6" action="#" method="POST">
-            <div>
-              <label for="name" class="block text-sm font-medium text-ink/50 mb-2">Naam</label>
-              <input
-                type="text"
-                id="name"
-                name="name"
-                required
-                class="w-full bg-white border border-purple-100/60 rounded-2xl px-4 py-3 text-ink placeholder:text-ink/20 focus:outline-none focus:border-purple-500/50 focus:ring-1 focus:ring-purple-500/50 transition-colors shadow-sm"
-                placeholder="Je naam"
-              />
-            </div>
-            <div>
-              <label for="email" class="block text-sm font-medium text-ink/50 mb-2">E-mail</label>
-              <input
-                type="email"
-                id="email"
-                name="email"
-                required
-                class="w-full bg-white border border-purple-100/60 rounded-2xl px-4 py-3 text-ink placeholder:text-ink/20 focus:outline-none focus:border-purple-500/50 focus:ring-1 focus:ring-purple-500/50 transition-colors shadow-sm"
-                placeholder="je@email.nl"
-              />
-            </div>
-            <div>
-              <label for="message" class="block text-sm font-medium text-ink/50 mb-2">Bericht</label>
-              <textarea
-                id="message"
-                name="message"
-                rows="5"
-                required
-                class="w-full bg-white border border-purple-100/60 rounded-2xl px-4 py-3 text-ink placeholder:text-ink/20 focus:outline-none focus:border-purple-500/50 focus:ring-1 focus:ring-purple-500/50 transition-colors resize-none shadow-sm"
-                placeholder="Wat wil je weten of vragen?"
-              ></textarea>
-            </div>
-            <button
-              type="submit"
-              class="px-8 py-3 bg-purple-600 text-white font-medium rounded-full hover:bg-purple-500 transition-colors"
-            >
-              Versturen
-            </button>
-          </form>
+          <div class="bg-white rounded-2xl border border-purple-100/60 shadow-sm p-8 sm:p-10">
+            <h2 class="text-xl font-bold text-ink mb-2">Stuur een bericht</h2>
+            <p class="text-sm text-ink/40 mb-8">Vul het formulier in en ik neem zo snel mogelijk contact op.</p>
+            <form class="space-y-6" action="#" method="POST">
+              <div class="grid grid-cols-1 sm:grid-cols-2 gap-5">
+                <div>
+                  <label for="name" class="block text-sm font-medium text-ink/50 mb-2">Naam</label>
+                  <input
+                    type="text"
+                    id="name"
+                    name="name"
+                    required
+                    class="w-full bg-surface/50 border border-purple-100/60 rounded-xl px-4 py-3 text-ink placeholder:text-ink/20 focus:outline-none focus:border-purple-500/50 focus:ring-2 focus:ring-purple-500/20 focus:bg-white transition-all"
+                    placeholder="Je naam"
+                  />
+                </div>
+                <div>
+                  <label for="email" class="block text-sm font-medium text-ink/50 mb-2">E-mail</label>
+                  <input
+                    type="email"
+                    id="email"
+                    name="email"
+                    required
+                    class="w-full bg-surface/50 border border-purple-100/60 rounded-xl px-4 py-3 text-ink placeholder:text-ink/20 focus:outline-none focus:border-purple-500/50 focus:ring-2 focus:ring-purple-500/20 focus:bg-white transition-all"
+                    placeholder="je@email.nl"
+                  />
+                </div>
+              </div>
+              <div>
+                <label for="subject" class="block text-sm font-medium text-ink/50 mb-2">Onderwerp</label>
+                <select
+                  id="subject"
+                  name="subject"
+                  class="w-full bg-surface/50 border border-purple-100/60 rounded-xl px-4 py-3 text-ink focus:outline-none focus:border-purple-500/50 focus:ring-2 focus:ring-purple-500/20 focus:bg-white transition-all"
+                >
+                  <option value="">Kies een onderwerp...</option>
+                  <option value="ai-workshop">AI / ChatGPT Workshop</option>
+                  <option value="samenwerking">Samenwerking</option>
+                  <option value="easyreimburse">EasyReimburse</option>
+                  <option value="erasmus">Erasmus+</option>
+                  <option value="overig">Overig</option>
+                </select>
+              </div>
+              <div>
+                <label for="message" class="block text-sm font-medium text-ink/50 mb-2">Bericht</label>
+                <textarea
+                  id="message"
+                  name="message"
+                  rows="5"
+                  required
+                  class="w-full bg-surface/50 border border-purple-100/60 rounded-xl px-4 py-3 text-ink placeholder:text-ink/20 focus:outline-none focus:border-purple-500/50 focus:ring-2 focus:ring-purple-500/20 focus:bg-white transition-all resize-none"
+                  placeholder="Wat wil je weten of vragen?"
+                ></textarea>
+              </div>
+              <button
+                type="submit"
+                class="w-full sm:w-auto px-10 py-3.5 bg-gradient-to-r from-purple-600 to-purple-500 text-white font-semibold rounded-full hover:shadow-lg hover:shadow-purple-500/20 hover:-translate-y-0.5 transition-all duration-300"
+              >
+                Versturen
+              </button>
+            </form>
+          </div>
         </div>
 
-        <!-- Contact details -->
+        <!-- Contact details sidebar -->
         <div class="md:col-span-2">
-          <div class="space-y-6">
-            <div>
-              <p class="text-xs uppercase tracking-[0.15em] text-ink/30 font-medium mb-2">E-mail</p>
-              <a href="mailto:mick@demodernenomaden.nl" class="text-purple-600 hover:text-purple-600 transition-colors">
+          <div class="space-y-4">
+            <div class="bg-white rounded-xl p-5 border border-purple-100/60 shadow-sm">
+              <div class="flex items-center gap-3 mb-2">
+                <div class="w-8 h-8 rounded-lg bg-purple-100/60 flex items-center justify-center text-purple-600">
+                  <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25m19.5 0v.243a2.25 2.25 0 01-1.07 1.916l-7.5 4.615a2.25 2.25 0 01-2.36 0L3.32 8.91a2.25 2.25 0 01-1.07-1.916V6.75" /></svg>
+                </div>
+                <p class="text-xs uppercase tracking-[0.15em] text-ink/30 font-medium">E-mail</p>
+              </div>
+              <a href="mailto:mick@demodernenomaden.nl" class="text-purple-600 hover:text-purple-500 transition-colors text-sm font-medium">
                 mick@demodernenomaden.nl
               </a>
             </div>
-            <div>
-              <p class="text-xs uppercase tracking-[0.15em] text-ink/30 font-medium mb-2">WhatsApp</p>
-              <a href="https://wa.me/31681081589" target="_blank" rel="noopener" class="text-purple-600 hover:text-purple-600 transition-colors">
+
+            <div class="bg-white rounded-xl p-5 border border-purple-100/60 shadow-sm">
+              <div class="flex items-center gap-3 mb-2">
+                <div class="w-8 h-8 rounded-lg bg-green-100/60 flex items-center justify-center text-green-600">
+                  <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+                </div>
+                <p class="text-xs uppercase tracking-[0.15em] text-ink/30 font-medium">WhatsApp</p>
+              </div>
+              <a href="https://wa.me/31681081589" target="_blank" rel="noopener" class="text-purple-600 hover:text-purple-500 transition-colors text-sm font-medium">
                 +31 6 81 08 15 89
               </a>
             </div>
-            <div>
-              <p class="text-xs uppercase tracking-[0.15em] text-ink/30 font-medium mb-2">KvK</p>
-              <p class="text-ink/40 text-sm">62568299 (Rotterdam)</p>
+
+            <div class="bg-white rounded-xl p-5 border border-purple-100/60 shadow-sm">
+              <div class="flex items-center gap-3 mb-2">
+                <div class="w-8 h-8 rounded-lg bg-purple-100/60 flex items-center justify-center text-purple-600">
+                  <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 21h19.5m-18-18v18m10.5-18v18m6-13.5V21M6.75 6.75h.75m-.75 3h.75m-.75 3h.75m3-6h.75m-.75 3h.75m-.75 3h.75M6.75 21v-3.375c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21M3 3h12m-.75 4.5H21m-3.75 3h.008v.008h-.008v-.008zm0 3h.008v.008h-.008v-.008zm0 3h.008v.008h-.008v-.008z" /></svg>
+                </div>
+                <p class="text-xs uppercase tracking-[0.15em] text-ink/30 font-medium">KvK</p>
+              </div>
+              <p class="text-ink/50 text-sm">62568299 (Rotterdam)</p>
             </div>
-            <div>
-              <p class="text-xs uppercase tracking-[0.15em] text-ink/30 font-medium mb-2">BTW</p>
-              <p class="text-ink/40 text-sm">NL002317662B92</p>
+
+            <div class="bg-white rounded-xl p-5 border border-purple-100/60 shadow-sm">
+              <div class="flex items-center gap-3 mb-2">
+                <div class="w-8 h-8 rounded-lg bg-purple-100/60 flex items-center justify-center text-purple-600">
+                  <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 14.25l6-6m4.5-3.493V21.75l-3.75-1.5-3.75 1.5-3.75-1.5-3.75 1.5V4.757c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0c1.1.128 1.907 1.077 1.907 2.185zM9.75 9h.008v.008H9.75V9zm.375 0a.375.375 0 11-.75 0 .375.375 0 01.75 0zm4.125 4.5h.008v.008h-.008V13.5zm.375 0a.375.375 0 11-.75 0 .375.375 0 01.75 0z" /></svg>
+                </div>
+                <p class="text-xs uppercase tracking-[0.15em] text-ink/30 font-medium">BTW</p>
+              </div>
+              <p class="text-ink/50 text-sm">NL002317662B92</p>
             </div>
           </div>
         </div>
       </div>
+
+      <!-- FAQ section -->
+      <section class="mb-20">
+        <div class="flex items-center gap-4 mb-10">
+          <div class="flex-1 h-px bg-gradient-to-r from-transparent via-purple-200/40 to-transparent"></div>
+          <h2 class="text-xl font-bold text-ink px-2">Veelgestelde vragen</h2>
+          <div class="flex-1 h-px bg-gradient-to-r from-transparent via-purple-200/40 to-transparent"></div>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto">
+          {faqItems.map((item, i) => (
+            <div class="bg-white rounded-2xl p-6 border border-purple-100/60 shadow-sm hover:shadow-md transition-all duration-300">
+              <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-purple-100/80 to-accent-pink/10 flex items-center justify-center mb-4">
+                <span class="text-purple-600 font-bold text-sm">{`0${i + 1}`}</span>
+              </div>
+              <h3 class="font-semibold text-ink text-base mb-2">{item.question}</h3>
+              <p class="text-sm text-ink/45 leading-relaxed">{item.answer}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <!-- Footer CTA -->
+      <section class="mb-20">
+        <div class="rounded-3xl bg-gradient-to-r from-purple-600 via-purple-500 to-accent-pink p-10 sm:p-14 text-center relative overflow-hidden">
+          <div class="absolute top-0 right-0 w-40 h-40 bg-white/5 rounded-full blur-3xl pointer-events-none"></div>
+          <div class="absolute bottom-0 left-10 w-32 h-32 bg-white/5 rounded-full blur-3xl pointer-events-none"></div>
+          <div class="relative">
+            <h2 class="text-2xl sm:text-3xl font-bold text-white mb-4">Of plan direct een gesprek in</h2>
+            <p class="text-white/70 mb-8 max-w-lg mx-auto">Liever meteen even praten? Stuur een WhatsApp bericht en we plannen iets in.</p>
+            <a
+              href="https://wa.me/31681081589"
+              target="_blank"
+              rel="noopener"
+              class="inline-flex items-center gap-2.5 px-10 py-4 bg-white text-purple-700 font-bold rounded-full hover:shadow-xl hover:shadow-white/20 hover:-translate-y-1 transition-all duration-300"
+            >
+              <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+              WhatsApp Micky
+            </a>
+          </div>
+        </div>
+      </section>
+
     </div>
   </div>
 </Layout>

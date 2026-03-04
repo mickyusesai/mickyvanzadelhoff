@@ -58,6 +58,7 @@ export default {
       animation: {
         'blob': 'blob 20s ease-in-out infinite',
         'blob-reverse': 'blob-reverse 25s ease-in-out infinite',
+        'fade-in': 'fadeIn 0.6s ease-out forwards',
       },
       keyframes: {
         blob: {
@@ -71,6 +72,10 @@ export default {
           '25%': { transform: 'translate(-40px, 30px) scale(1.05)' },
           '50%': { transform: 'translate(30px, -20px) scale(1.1)' },
           '75%': { transform: 'translate(-20px, -40px) scale(0.95)' },
+        },
+        fadeIn: {
+          '0%': { opacity: '0', transform: 'translateY(12px)' },
+          '100%': { opacity: '1', transform: 'translateY(0)' },
         },
       },
     },

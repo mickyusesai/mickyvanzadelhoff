@@ -8,6 +8,17 @@ const testimonials = [
   { quote: 'Dit verhaal is écht en eerlijk. Mijn beeld over digital nomads is voorgoed veranderd.', name: 'Linda' },
   { quote: 'Super tof boek, ik bleef maar doorlezen!', name: 'Mauro' },
 ];
+
+const takeaways = [
+  { icon: '🌍', title: 'Digital Nomad Leven', desc: 'Wat het écht betekent om werkend de wereld te ontdekken — zonder de Instagram-filter.' },
+  { icon: '🚐', title: 'Vanlife Avonturen', desc: 'Met een busje door de Balkan, inclusief de blunders en de mooiste momenten.' },
+  { icon: '🚲', title: 'Fietsen door Europa', desc: 'Van Nederland naar Turkije op de fiets — een reis die alles veranderde.' },
+  { icon: '💻', title: 'Online Ondernemen', desc: 'Hoe je vanuit elke plek ter wereld een inkomen kunt opbouwen.' },
+];
+
+const borderColors = ['border-l-purple-500', 'border-l-accent-pink', 'border-l-accent-orange', 'border-l-accent-blue'];
+const bgTints = ['bg-purple-50/50', 'bg-pink-50/40', 'bg-orange-50/40', 'bg-blue-50/30'];
+const quoteColors = ['text-purple-300/50', 'text-pink-300/50', 'text-orange-300/50', 'text-blue-300/50'];
 ---
 
 <Layout
@@ -19,69 +30,176 @@ const testimonials = [
   <PageHero
     title="Digital Nomad"
     subtitle="Verhalen en lessen uit een vrij leven"
+    badge="Gratis Download"
+    gradient="warm"
   />
 
   <div class="px-5 sm:px-8">
     <div class="max-w-5xl mx-auto">
 
       <!-- Book + description -->
-      <section class="mb-16">
-        <div class="grid grid-cols-1 md:grid-cols-5 gap-10 md:gap-16 items-start">
-          <div class="md:col-span-2">
-            <img
-              src="/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp"
-              alt="Digital Nomad — Verhalen en lessen uit een vrij leven — boek cover"
-              class="w-full max-w-xs mx-auto rounded-2xl shadow-2xl"
-            />
+      <section class="mb-24">
+        <div class="relative rounded-3xl overflow-hidden bg-gradient-to-br from-[#2d1b69] via-[#1a1032] to-[#2d1b69] p-8 sm:p-12 md:p-16 shadow-2xl">
+          <!-- Decorative shapes -->
+          <div class="absolute top-0 right-0 w-80 h-80 bg-purple-500/10 rounded-full blur-3xl pointer-events-none"></div>
+          <div class="absolute bottom-0 left-0 w-64 h-64 bg-accent-pink/10 rounded-full blur-3xl pointer-events-none"></div>
+          <div class="absolute top-1/2 left-1/2 w-40 h-40 bg-accent-orange/5 rounded-full blur-2xl pointer-events-none"></div>
+
+          <div class="relative grid grid-cols-1 md:grid-cols-5 gap-10 md:gap-16 items-center">
+            <!-- Book cover -->
+            <div class="md:col-span-2 flex justify-center">
+              <div class="group relative">
+                <div class="absolute -inset-6 bg-gradient-to-br from-purple-500/20 via-accent-pink/15 to-accent-orange/10 rounded-3xl blur-2xl opacity-60 group-hover:opacity-90 transition-opacity duration-500"></div>
+                <div class="absolute -inset-1 bg-gradient-to-br from-purple-400/30 to-accent-pink/20 rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+                <img
+                  src="/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp"
+                  alt="Digital Nomad — Verhalen en lessen uit een vrij leven — boek cover"
+                  class="relative w-full max-w-xs rounded-2xl shadow-2xl transform -rotate-3 group-hover:rotate-0 group-hover:scale-105 transition-all duration-700 ease-out"
+                />
+              </div>
+            </div>
+
+            <!-- Description -->
+            <div class="md:col-span-3">
+              <div class="inline-flex items-center gap-2 px-4 py-1.5 bg-white/10 rounded-full text-white/60 text-xs font-medium mb-6 backdrop-blur-sm border border-white/5">
+                <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" /></svg>
+                176 pagina's
+              </div>
+              <p class="text-lg sm:text-xl text-white/85 leading-relaxed mb-6">
+                Een digital nomad is iemand die reizen en online werken combineert. Een unieke
+                levensstijl waarin de wereld aan je voeten ligt. Maar zijn er grenzen aan al
+                dat reizen en is een bestaan als digital nomad nou echt de utopie van de 21e eeuw?
+              </p>
+              <p class="text-lg text-white/70 leading-relaxed mb-8">
+                In dit boek lees je over de avonturen die ik als digital nomad meemaakte. Van
+                een vanlife in de Balkan tot een fietstocht naar Turkije — het eerlijke verhaal
+                van een wereldreiziger die met vallen en opstaan deze nieuwe levensstijl ontdekt.
+              </p>
+              <p class="text-sm text-white/25 mb-8 flex items-center gap-3">
+                <span class="w-8 h-px bg-white/20"></span>
+                ISBN: 978909032951251 · 176 pagina's (digitaal) · Gratis download
+              </p>
+              <!-- TODO: Replace with email capture when newsletter tool is chosen -->
+              <a
+                href="/images/migrated/Digital-Nomad-Boek.webp"
+                class="inline-flex items-center gap-2.5 px-8 py-4 bg-gradient-to-r from-purple-500 to-accent-pink text-white font-semibold rounded-full hover:shadow-xl hover:shadow-purple-500/30 hover:-translate-y-1 transition-all duration-300 text-lg"
+              >
+                <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" /></svg>
+                Download het gratis boek
+              </a>
+            </div>
           </div>
-          <div class="md:col-span-3">
-            <p class="text-lg text-ink/70 leading-relaxed mb-6">
-              Een digital nomad is iemand die reizen en online werken combineert. Een unieke
-              levensstijl waarin de wereld aan je voeten ligt. Maar zijn er grenzen aan al
-              dat reizen en is een bestaan als digital nomad nou echt de utopie van de 21e eeuw?
-            </p>
-            <p class="text-lg text-ink/70 leading-relaxed mb-6">
-              In dit boek lees je over de avonturen die ik als digital nomad meemaakte. Van
-              een vanlife in de Balkan tot een fietstocht naar Turkije — het eerlijke verhaal
-              van een wereldreiziger die met vallen en opstaan deze nieuwe levensstijl ontdekt.
-            </p>
-            <p class="text-sm text-ink/40 mb-8">
-              ISBN: 978909032951251 · 176 pagina's (digitaal) · Gratis download
-            </p>
+        </div>
+      </section>
+
+      <!-- Wat je leert -->
+      <section class="mb-24">
+        <div class="flex items-center gap-4 mb-3">
+          <h2 class="text-2xl sm:text-3xl font-bold text-ink">Wat je leert</h2>
+        </div>
+        <p class="text-ink/40 mb-10 max-w-2xl">Vier thema's die door het hele boek verweven zijn.</p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+          {takeaways.map((item, i) => (
+            <div class="group relative bg-white rounded-2xl p-7 border border-purple-100/60 shadow-sm hover:shadow-lg hover:-translate-y-1 transition-all duration-300 overflow-hidden">
+              <div class="absolute top-0 right-0 w-24 h-24 bg-gradient-to-bl from-purple-50/60 to-transparent rounded-bl-full pointer-events-none"></div>
+              <div class="relative">
+                <div class="w-14 h-14 rounded-2xl bg-gradient-to-br from-purple-100/80 to-accent-pink/10 flex items-center justify-center mb-5 group-hover:scale-110 transition-transform duration-300">
+                  <span class="text-2xl">{item.icon}</span>
+                </div>
+                <h3 class="font-bold text-ink text-lg mb-2">{item.title}</h3>
+                <p class="text-ink/50 text-sm leading-relaxed">{item.desc}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <!-- Sneak Peek -->
+      <section class="mb-24">
+        <div class="relative rounded-3xl bg-gradient-to-br from-purple-50/80 via-surface to-accent-pink/5 border border-purple-100/40 p-10 sm:p-16 overflow-hidden">
+          <div class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-purple-400/40 via-accent-pink/30 to-accent-orange/20"></div>
+          <div class="absolute top-8 left-10 sm:left-14 text-8xl sm:text-9xl leading-none font-serif text-purple-200/40 select-none pointer-events-none">&ldquo;</div>
+          <div class="absolute bottom-8 right-10 sm:right-14 text-8xl sm:text-9xl leading-none font-serif text-purple-200/25 select-none pointer-events-none rotate-180">&ldquo;</div>
+          <blockquote class="relative text-xl sm:text-2xl md:text-3xl text-ink/70 italic leading-relaxed max-w-3xl mx-auto text-center pt-4">
+            Ik stond op een klif in Montenegro, mijn laptop in mijn rugzak, de zon op mijn gezicht — en voor het eerst in mijn leven voelde ik me compleet vrij. Niet omdat alles perfect was, maar omdat ik eindelijk leefde op mijn eigen voorwaarden.
+          </blockquote>
+          <div class="flex items-center justify-center gap-3 mt-8">
+            <span class="w-8 h-px bg-purple-300/40"></span>
+            <p class="text-sm text-purple-600/60 font-semibold tracking-wide">Uit het boek</p>
+            <span class="w-8 h-px bg-purple-300/40"></span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Testimonials -->
+      <section class="mb-24">
+        <h2 class="text-2xl sm:text-3xl font-bold text-ink mb-3">Wat lezers zeggen</h2>
+        <p class="text-ink/40 mb-10 max-w-2xl">Eerlijke reacties van mensen die het boek gelezen hebben.</p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+          {testimonials.map((t, i) => (
+            <div class={`relative rounded-2xl p-7 border border-purple-100/60 shadow-sm hover:shadow-md transition-all duration-300 border-l-4 ${borderColors[i]} ${bgTints[i]} overflow-hidden`}>
+              <div class="absolute top-0 right-0 w-20 h-20 bg-gradient-to-bl from-white/40 to-transparent rounded-bl-full pointer-events-none"></div>
+              <div class="relative">
+                <div class={`text-5xl leading-none font-serif ${quoteColors[i]} mb-4 select-none`}>&ldquo;</div>
+                <p class="text-ink/70 leading-relaxed mb-5 text-base sm:text-lg">{t.quote}</p>
+                <div class="flex items-center gap-3">
+                  <div class="w-8 h-8 rounded-full bg-gradient-to-br from-purple-200 to-accent-pink/30 flex items-center justify-center">
+                    <span class="text-xs font-bold text-purple-700">{t.name.charAt(0)}</span>
+                  </div>
+                  <div>
+                    <p class="text-sm font-semibold text-ink/80">{t.name}</p>
+                    <span class="text-yellow-500 text-xs">★★★★★</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <!-- Press logos -->
+      <section class="mb-24">
+        <p class="text-xs uppercase tracking-[0.2em] text-ink/30 font-medium mb-8 text-center">Zoals besproken bij</p>
+        <div class="flex flex-wrap justify-center gap-5">
+          {[
+            { src: '/images/migrated/nrc-handelsblad.webp', alt: 'NRC' },
+            { src: '/images/migrated/Nu-nl-logo-1.webp', alt: 'Nu.nl' },
+            { src: '/images/migrated/Vice_Logo.webp', alt: 'Vice' },
+            { src: '/images/migrated/flow-logo.webp', alt: 'Flow' },
+          ].map((logo) => (
+            <div class="bg-white rounded-xl px-8 py-5 border border-purple-100/40 shadow-sm hover:shadow-md transition-all duration-300 flex items-center justify-center min-w-[120px]">
+              <img src={logo.src} alt={logo.alt} class="h-7 w-auto object-contain opacity-40 grayscale hover:opacity-70 hover:grayscale-0 transition-all duration-300" />
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <!-- CTA -->
+      <section class="mb-24">
+        <div class="rounded-3xl bg-gradient-to-r from-purple-600 via-purple-500 to-accent-pink p-10 sm:p-16 text-center relative overflow-hidden">
+          <div class="absolute top-0 right-0 w-48 h-48 bg-white/5 rounded-full blur-3xl pointer-events-none"></div>
+          <div class="absolute bottom-0 left-10 w-36 h-36 bg-white/5 rounded-full blur-3xl pointer-events-none"></div>
+          <div class="absolute top-1/2 left-1/4 w-3 h-3 rounded-full bg-white/10"></div>
+          <div class="absolute bottom-1/3 right-1/3 w-2 h-2 rounded-full bg-white/15"></div>
+          <div class="relative">
+            <div class="inline-flex items-center gap-2 px-4 py-1.5 bg-white/10 rounded-full text-white/70 text-xs font-medium mb-6 backdrop-blur-sm">
+              <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" /></svg>
+              100% gratis
+            </div>
+            <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold text-white mb-4">Klaar om te lezen?</h2>
+            <p class="text-white/70 mb-10 max-w-lg mx-auto text-lg">176 pagina's vol eerlijke verhalen, praktische lessen en onvergetelijke avonturen. Helemaal gratis.</p>
             <!-- TODO: Replace with email capture when newsletter tool is chosen -->
             <a
               href="/images/migrated/Digital-Nomad-Boek.webp"
-              class="inline-flex items-center px-8 py-3 bg-purple-600 text-white font-medium rounded-full hover:bg-purple-500 transition-colors"
+              class="inline-flex items-center gap-2.5 px-10 py-4 bg-white text-purple-700 font-bold rounded-full hover:shadow-xl hover:shadow-white/20 hover:-translate-y-1 transition-all duration-300 text-lg"
             >
+              <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" /></svg>
               Download het gratis boek
             </a>
           </div>
         </div>
       </section>
 
-      <!-- Testimonials -->
-      <section class="mb-16">
-        <h2 class="text-2xl font-bold text-ink mb-10">Wat lezers zeggen</h2>
-        <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
-          {testimonials.map((t) => (
-            <div class="bg-white shadow-sm rounded-2xl p-6 border border-purple-100/60">
-              <p class="text-ink/60 leading-relaxed mb-4 italic">"{t.quote}"</p>
-              <p class="text-sm font-medium text-purple-600">{t.name} <span class="text-yellow-500">★★★★★</span></p>
-            </div>
-          ))}
-        </div>
-      </section>
-
-      <!-- Press -->
-      <section class="mb-20">
-        <p class="text-xs uppercase tracking-[0.2em] text-ink/30 font-medium mb-6">Zoals besproken bij</p>
-        <div class="flex flex-wrap gap-8 items-center">
-          <img src="/images/migrated/nrc-handelsblad.webp" alt="NRC" class="h-6 w-auto object-contain opacity-30 grayscale" />
-          <img src="/images/migrated/Nu-nl-logo-1.webp" alt="Nu.nl" class="h-6 w-auto object-contain opacity-30 grayscale" />
-          <img src="/images/migrated/Vice_Logo.webp" alt="Vice" class="h-6 w-auto object-contain opacity-30 grayscale" />
-          <img src="/images/migrated/flow-logo.webp" alt="Flow" class="h-6 w-auto object-contain opacity-30 grayscale" />
-        </div>
-      </section>
     </div>
   </div>
 </Layout>

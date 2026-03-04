@@ -6,19 +6,20 @@ import Layout from '../../layouts/Layout.astro';
   title="Micky van Zadelhoff — AI, Ondernemen & Automatisering"
   description="Micky van Zadelhoff helpt bedrijven met AI-workshops, bouwt digitale producten en deelt zijn ervaring als digital nomad en ondernemer."
   lang="nl"
-  hideFooter={true}
+  hideFooter={false}
 >
-  <!-- Background gradient blobs -->
-  <div class="fixed inset-0 overflow-hidden pointer-events-none z-0">
-    <div class="absolute top-1/3 left-1/4 w-[500px] h-[500px] rounded-full bg-purple-300/30 blur-[120px] animate-blob"></div>
-    <div class="absolute bottom-1/3 right-1/4 w-[400px] h-[400px] rounded-full bg-accent-pink/20 blur-[100px] animate-blob-reverse"></div>
-  </div>
+  <!-- ===== HERO / SLIDER SECTION ===== -->
+  <section class="relative min-h-[85vh] flex flex-col justify-between overflow-hidden">
+    <!-- Background gradient blobs -->
+    <div class="absolute inset-0 overflow-hidden pointer-events-none z-0">
+      <div class="absolute top-1/3 left-1/4 w-[500px] h-[500px] rounded-full bg-purple-300/30 blur-[120px] animate-blob"></div>
+      <div class="absolute bottom-1/3 right-1/4 w-[400px] h-[400px] rounded-full bg-accent-pink/20 blur-[100px] animate-blob-reverse"></div>
+      <div class="absolute top-20 right-20 w-4 h-4 rounded-full bg-purple-400/20"></div>
+      <div class="absolute bottom-40 left-16 w-3 h-3 rounded-full bg-accent-pink/30"></div>
+    </div>
 
-  <!-- Main content -->
-  <div class="relative z-10 min-h-screen flex flex-col justify-between px-5 sm:px-8">
-
-    <!-- Hero text area — vertically centered -->
-    <div class="flex-1 flex items-center justify-center max-w-3xl mx-auto w-full">
+    <!-- Hero text area -->
+    <div class="relative z-10 flex-1 flex items-center justify-center max-w-3xl mx-auto w-full px-5 sm:px-8">
       <div class="text-center py-24 sm:py-32">
         <div id="hero-text" class="transition-all duration-500 ease-out">
           <p id="hero-content" class="text-hero sm:text-hero-lg text-ink/80 leading-relaxed sm:leading-relaxed"></p>
@@ -26,60 +27,219 @@ import Layout from '../../layouts/Layout.astro';
       </div>
     </div>
 
-    <!-- Bottom area: tagline + slider + press -->
-    <div class="pb-6 sm:pb-10 max-w-3xl mx-auto w-full">
-
-      <!-- AI Automation tagline above slider -->
+    <!-- Bottom: tagline + slider + press -->
+    <div class="relative z-10 pb-8 sm:pb-12 max-w-3xl mx-auto w-full px-5 sm:px-8">
       <p class="text-center text-[11px] sm:text-xs uppercase tracking-[0.25em] text-ink/30 font-medium mb-6">
         Hoeveel van je bedrijf wil je automatiseren met AI?
       </p>
 
       <!-- Slider -->
       <div class="flex items-center gap-4 sm:gap-6">
-        <span class="text-[10px] sm:text-xs uppercase tracking-[0.15em] text-ink/35 font-medium whitespace-nowrap select-none">
-          Voorzichtig
-        </span>
+        <span class="text-[10px] sm:text-xs uppercase tracking-[0.15em] text-ink/35 font-medium whitespace-nowrap select-none">Voorzichtig</span>
         <div class="flex-1 relative group">
           <div class="absolute inset-0 h-full flex items-center">
             <div class="w-full h-[2px] bg-ink/10 rounded-full">
               <div id="slider-fill" class="h-full rounded-full transition-all duration-150" style="width: 0%; background: linear-gradient(90deg, #7c3aed, #ec4899, #f97316);"></div>
             </div>
           </div>
-          <input
-            id="hero-slider"
-            type="range"
-            min="0"
-            max="9"
-            value="0"
-            step="1"
-            class="relative w-full h-8 appearance-none bg-transparent cursor-pointer z-10 slider-input"
-          />
+          <input id="hero-slider" type="range" min="0" max="9" value="0" step="1" class="relative w-full h-8 appearance-none bg-transparent cursor-pointer z-10 slider-input" />
         </div>
-        <span class="text-[10px] sm:text-xs uppercase tracking-[0.15em] text-ink/35 font-medium whitespace-nowrap select-none">
-          Ik wil alles
-        </span>
+        <span class="text-[10px] sm:text-xs uppercase tracking-[0.15em] text-ink/35 font-medium whitespace-nowrap select-none">Ik wil alles</span>
       </div>
 
-      <!-- Stage indicator dots -->
+      <!-- Stage dots -->
       <div class="flex justify-center gap-1.5 mt-4">
         {Array.from({ length: 10 }).map((_, i) => (
-          <div
-            class="w-1.5 h-1.5 rounded-full bg-ink/10 transition-all duration-300 stage-dot"
-            data-index={i}
-          />
+          <div class="w-1.5 h-1.5 rounded-full bg-ink/10 transition-all duration-300 stage-dot" data-index={i} />
         ))}
       </div>
 
-      <!-- Press mentions below slider -->
+      <!-- Press mentions -->
       <div class="mt-8 flex items-center justify-center gap-6 sm:gap-10">
         <span class="text-[10px] sm:text-[11px] uppercase tracking-[0.2em] text-ink/15 font-medium">NRC</span>
         <span class="text-ink/8">·</span>
         <span class="text-[10px] sm:text-[11px] uppercase tracking-[0.2em] text-ink/15 font-medium">Nu.nl</span>
         <span class="text-ink/8">·</span>
         <span class="text-[10px] sm:text-[11px] uppercase tracking-[0.2em] text-ink/15 font-medium">Vice</span>
+        <span class="text-ink/8">·</span>
+        <span class="text-[10px] sm:text-[11px] uppercase tracking-[0.2em] text-ink/15 font-medium">AD</span>
+        <span class="text-ink/8">·</span>
+        <span class="text-[10px] sm:text-[11px] uppercase tracking-[0.2em] text-ink/15 font-medium">Flow</span>
       </div>
     </div>
-  </div>
+  </section>
+
+  <!-- ===== EXPERTISE CARDS ===== -->
+  <section class="relative py-20 sm:py-28 px-5 sm:px-8">
+    <div class="max-w-5xl mx-auto">
+      <p class="text-xs uppercase tracking-[0.25em] text-purple-500/60 font-semibold mb-4">Wat ik doe</p>
+      <h2 class="text-2xl sm:text-3xl font-bold text-ink mb-12">Drie expertises, één persoon</h2>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <!-- AI Workshop -->
+        <a href="/nl/ai-workshop/" class="group relative bg-white rounded-3xl p-8 shadow-sm border border-purple-100/60 hover:shadow-lg hover:border-purple-200 hover:-translate-y-1 transition-all duration-300 overflow-hidden">
+          <div class="absolute top-0 right-0 w-32 h-32 rounded-full bg-purple-100/40 blur-2xl -translate-y-1/2 translate-x-1/2 group-hover:bg-purple-200/50 transition-colors"></div>
+          <div class="relative">
+            <div class="w-12 h-12 rounded-2xl bg-purple-100 flex items-center justify-center mb-5">
+              <span class="text-2xl">🤖</span>
+            </div>
+            <h3 class="text-lg font-bold text-ink mb-2 group-hover:text-purple-600 transition-colors">AI & ChatGPT Workshop</h3>
+            <p class="text-sm text-ink/50 leading-relaxed mb-4">In-company training van 3 uur. Praktisch, to-the-point, en de investering binnen één week terugverdiend.</p>
+            <span class="text-sm font-medium text-purple-600 flex items-center gap-1.5 group-hover:gap-3 transition-all">
+              Bekijk workshop <span class="transition-transform group-hover:translate-x-1">→</span>
+            </span>
+          </div>
+        </a>
+
+        <!-- EasyReimburse -->
+        <a href="/nl/easyreimburse/" class="group relative bg-white rounded-3xl p-8 shadow-sm border border-purple-100/60 hover:shadow-lg hover:border-purple-200 hover:-translate-y-1 transition-all duration-300 overflow-hidden">
+          <div class="absolute top-0 right-0 w-32 h-32 rounded-full bg-accent-pink/10 blur-2xl -translate-y-1/2 translate-x-1/2 group-hover:bg-accent-pink/20 transition-colors"></div>
+          <div class="relative">
+            <div class="w-12 h-12 rounded-2xl bg-pink-100 flex items-center justify-center mb-5">
+              <span class="text-2xl">📸</span>
+            </div>
+            <h3 class="text-lg font-bold text-ink mb-2 group-hover:text-purple-600 transition-colors">EasyReimburse</h3>
+            <p class="text-sm text-ink/50 leading-relaxed mb-4">De SaaS-app die ik bouwde om declaraties simpel te maken. Foto, upload, klaar.</p>
+            <span class="text-sm font-medium text-purple-600 flex items-center gap-1.5 group-hover:gap-3 transition-all">
+              Bekijk product <span class="transition-transform group-hover:translate-x-1">→</span>
+            </span>
+          </div>
+        </a>
+
+        <!-- Erasmus+ -->
+        <a href="/nl/erasmus/" class="group relative bg-white rounded-3xl p-8 shadow-sm border border-purple-100/60 hover:shadow-lg hover:border-purple-200 hover:-translate-y-1 transition-all duration-300 overflow-hidden">
+          <div class="absolute top-0 right-0 w-32 h-32 rounded-full bg-accent-blue/10 blur-2xl -translate-y-1/2 translate-x-1/2 group-hover:bg-accent-blue/20 transition-colors"></div>
+          <div class="relative">
+            <div class="w-12 h-12 rounded-2xl bg-blue-100 flex items-center justify-center mb-5">
+              <span class="text-2xl">🌍</span>
+            </div>
+            <h3 class="text-lg font-bold text-ink mb-2 group-hover:text-purple-600 transition-colors">Erasmus+ Coördinatie</h3>
+            <p class="text-sm text-ink/50 leading-relaxed mb-4">Internationale educatieprojecten coördineren via het Erasmus+ programma van de EU.</p>
+            <span class="text-sm font-medium text-purple-600 flex items-center gap-1.5 group-hover:gap-3 transition-all">
+              Meer info <span class="transition-transform group-hover:translate-x-1">→</span>
+            </span>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== ABOUT TEASER ===== -->
+  <section class="relative py-20 sm:py-28 px-5 sm:px-8 bg-white">
+    <div class="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-purple-200/40 to-transparent"></div>
+    <div class="max-w-5xl mx-auto">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+        <div>
+          <p class="text-xs uppercase tracking-[0.25em] text-purple-500/60 font-semibold mb-4">Over Micky</p>
+          <h2 class="text-2xl sm:text-3xl font-bold text-ink mb-6">Digital nomad, ondernemer & luchtkasteelarchitect</h2>
+          <p class="text-ink/60 leading-relaxed mb-4">
+            Van Nederland naar Turkije fietsen in de winter, 200 air loungers importeren vanuit China voor Ibiza (het mislukte), en een blog opbouwen die 50.000 keer per maand wordt gelezen.
+          </p>
+          <p class="text-ink/60 leading-relaxed mb-8">
+            Tegenwoordig help ik bedrijven met AI-automatisering, bouw ik digitale producten, en deel ik alles wat ik leer.
+          </p>
+          <a href="/nl/over/" class="inline-flex items-center px-6 py-2.5 border-2 border-purple-200 text-purple-700 font-medium rounded-full hover:bg-purple-50 transition-colors text-sm">
+            Lees mijn verhaal →
+          </a>
+        </div>
+        <div class="relative">
+          <div class="absolute -inset-4 bg-gradient-to-br from-purple-200/30 to-accent-pink/20 rounded-[2rem] blur-xl"></div>
+          <img
+            src="/images/migrated/mick-van-zadelhoff-de-moderne-nomaden.webp"
+            alt="Micky van Zadelhoff"
+            class="relative rounded-3xl w-full shadow-xl"
+          />
+        </div>
+      </div>
+    </div>
+    <div class="absolute bottom-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-purple-200/40 to-transparent"></div>
+  </section>
+
+  <!-- ===== BOOK TEASER ===== -->
+  <section class="relative py-20 sm:py-28 px-5 sm:px-8">
+    <div class="max-w-5xl mx-auto">
+      <div class="relative bg-gradient-to-br from-purple-800 to-ink rounded-[2rem] p-8 sm:p-14 overflow-hidden">
+        <!-- Decorative -->
+        <div class="absolute top-0 right-0 w-64 h-64 rounded-full bg-purple-500/20 blur-3xl"></div>
+        <div class="absolute bottom-0 left-0 w-48 h-48 rounded-full bg-accent-pink/15 blur-3xl"></div>
+
+        <div class="relative grid grid-cols-1 md:grid-cols-5 gap-10 items-center">
+          <div class="md:col-span-3 text-white">
+            <span class="inline-block px-3 py-1 text-[10px] uppercase tracking-widest bg-white/10 rounded-full mb-4 border border-white/10">Gratis boek</span>
+            <h2 class="text-2xl sm:text-3xl font-bold mb-4">Digital Nomad — Verhalen en lessen uit een vrij leven</h2>
+            <p class="text-white/60 leading-relaxed mb-8">Het eerlijke verhaal over het leven als digital nomad. Van een vanlife in de Balkan tot een fietstocht naar Turkije.</p>
+            <a href="/nl/boek/" class="inline-flex items-center px-6 py-3 bg-white text-purple-800 font-semibold rounded-full hover:bg-purple-50 transition-colors text-sm">
+              Download gratis →
+            </a>
+          </div>
+          <div class="md:col-span-2 flex justify-center">
+            <img
+              src="/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp"
+              alt="Digital Nomad Boek"
+              class="w-48 sm:w-56 rounded-xl shadow-2xl -rotate-3 hover:rotate-0 transition-transform duration-500"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== PRESS LOGOS (full) ===== -->
+  <section class="py-16 sm:py-20 px-5 sm:px-8 bg-white">
+    <div class="absolute left-0 right-0 h-px bg-gradient-to-r from-transparent via-purple-200/40 to-transparent"></div>
+    <div class="max-w-4xl mx-auto text-center">
+      <p class="text-xs uppercase tracking-[0.25em] text-ink/25 font-semibold mb-10">Bekend van</p>
+      <div class="grid grid-cols-3 sm:grid-cols-6 gap-8 items-center">
+        <img src="/images/migrated/nrc-handelsblad.webp" alt="NRC" class="h-8 w-auto mx-auto object-contain opacity-25 hover:opacity-60 transition-opacity duration-300" />
+        <img src="/images/migrated/Nu-nl-logo-1.webp" alt="Nu.nl" class="h-8 w-auto mx-auto object-contain opacity-25 hover:opacity-60 transition-opacity duration-300" />
+        <img src="/images/migrated/Vice_Logo.webp" alt="Vice" class="h-8 w-auto mx-auto object-contain opacity-25 hover:opacity-60 transition-opacity duration-300" />
+        <img src="/images/migrated/algemeen-dagblad.webp" alt="AD" class="h-8 w-auto mx-auto object-contain opacity-25 hover:opacity-60 transition-opacity duration-300" />
+        <img src="/images/migrated/funx-logo.webp" alt="FunX" class="h-8 w-auto mx-auto object-contain opacity-25 hover:opacity-60 transition-opacity duration-300" />
+        <img src="/images/migrated/flow-logo.webp" alt="Flow" class="h-8 w-auto mx-auto object-contain opacity-25 hover:opacity-60 transition-opacity duration-300" />
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== BLOG TEASER ===== -->
+  <section class="py-20 sm:py-28 px-5 sm:px-8">
+    <div class="max-w-5xl mx-auto">
+      <div class="flex items-end justify-between mb-12">
+        <div>
+          <p class="text-xs uppercase tracking-[0.25em] text-purple-500/60 font-semibold mb-4">Blog</p>
+          <h2 class="text-2xl sm:text-3xl font-bold text-ink">Laatste artikelen</h2>
+        </div>
+        <a href="/nl/blog/" class="hidden sm:inline-flex items-center text-sm font-medium text-purple-600 hover:text-purple-800 transition-colors">
+          Alle artikelen →
+        </a>
+      </div>
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
+        <div class="bg-white rounded-2xl overflow-hidden shadow-sm border border-purple-100/60 hover:shadow-md hover:-translate-y-0.5 transition-all duration-300">
+          <div class="aspect-video bg-gradient-to-br from-purple-100/50 to-accent-pink/20"></div>
+          <div class="p-5">
+            <p class="text-[10px] uppercase tracking-widest text-purple-500/50 mb-2">Ondernemen</p>
+            <p class="text-sm font-semibold text-ink/70">Artikelen over ondernemen, AI en het digital nomad leven</p>
+          </div>
+        </div>
+        <div class="bg-white rounded-2xl overflow-hidden shadow-sm border border-purple-100/60 hover:shadow-md hover:-translate-y-0.5 transition-all duration-300">
+          <div class="aspect-video bg-gradient-to-br from-accent-blue/15 to-purple-100/30"></div>
+          <div class="p-5">
+            <p class="text-[10px] uppercase tracking-widest text-purple-500/50 mb-2">Digital Nomad</p>
+            <p class="text-sm font-semibold text-ink/70">Tips, ervaringen en lessen vanuit overal ter wereld</p>
+          </div>
+        </div>
+        <div class="bg-white rounded-2xl overflow-hidden shadow-sm border border-purple-100/60 hover:shadow-md hover:-translate-y-0.5 transition-all duration-300">
+          <div class="aspect-video bg-gradient-to-br from-accent-orange/15 to-accent-pink/10"></div>
+          <div class="p-5">
+            <p class="text-[10px] uppercase tracking-widest text-purple-500/50 mb-2">Online Geld Verdienen</p>
+            <p class="text-sm font-semibold text-ink/70">Handige gidsen om online inkomsten op te bouwen</p>
+          </div>
+        </div>
+      </div>
+      <div class="sm:hidden mt-6 text-center">
+        <a href="/nl/blog/" class="text-sm font-medium text-purple-600">Alle artikelen →</a>
+      </div>
+    </div>
+  </section>
 </Layout>
 
 <style>
