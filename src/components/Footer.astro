@@ -4,76 +4,68 @@ import type { Locale } from '../lib/i18n';
 
 interface Props {
   lang: Locale;
-  dark?: boolean;
 }
 
-const { lang, dark = false } = Astro.props;
+const { lang } = Astro.props;
 const navItems = navigation[lang];
 const year = new Date().getFullYear();
 ---
 
-<footer class:list={[
-  'mt-auto',
-  dark ? 'bg-void border-t border-white/5' : 'bg-warm-900 text-warm-200',
-]}>
-  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-12 sm:py-16">
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 sm:gap-12">
+<footer class="mt-auto bg-ink text-white/80">
+  <div class="max-w-6xl mx-auto px-5 sm:px-8 py-14 sm:py-20">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 sm:gap-12">
       <!-- Brand -->
-      <div>
-        <p class:list={['text-lg font-bold mb-2', dark ? 'text-white' : 'text-white']}>
-          Micky van Zadelhoff
-        </p>
-        <p class:list={['text-sm leading-relaxed', dark ? 'text-white/40' : 'text-warm-400']}>
+      <div class="lg:col-span-1">
+        <p class="text-base font-bold text-white mb-2">Micky van Zadelhoff</p>
+        <p class="text-sm leading-relaxed text-white/40">
           {t(lang, 'footer.tagline')}
         </p>
       </div>
 
-      <!-- Navigation -->
+      <!-- Pages -->
       <div>
-        <p class:list={[
-          'text-sm font-semibold uppercase tracking-wider mb-3',
-          dark ? 'text-white/30' : 'text-warm-300',
-        ]}>
+        <p class="text-xs font-semibold uppercase tracking-[0.15em] text-white/25 mb-4">
           {lang === 'nl' ? 'Pagina\'s' : 'Pages'}
         </p>
-        <nav class="flex flex-col gap-1.5">
-          {navItems.slice(0, 5).map((item) => (
-            <a href={item.href} class:list={[
-              'text-sm transition-colors',
-              dark ? 'text-white/40 hover:text-white' : 'text-warm-400 hover:text-white',
-            ]}>
+        <nav class="flex flex-col gap-2">
+          {navItems.slice(0, 4).map((item) => (
+            <a href={item.href} class="text-sm text-white/40 hover:text-white transition-colors">
               {item.label}
             </a>
           ))}
         </nav>
       </div>
 
-      <!-- More links -->
+      <!-- More -->
       <div>
-        <p class:list={[
-          'text-sm font-semibold uppercase tracking-wider mb-3',
-          dark ? 'text-white/30' : 'text-warm-300',
-        ]}>
+        <p class="text-xs font-semibold uppercase tracking-[0.15em] text-white/25 mb-4">
           {lang === 'nl' ? 'Meer' : 'More'}
         </p>
-        <nav class="flex flex-col gap-1.5">
-          {navItems.slice(5).map((item) => (
-            <a href={item.href} class:list={[
-              'text-sm transition-colors',
-              dark ? 'text-white/40 hover:text-white' : 'text-warm-400 hover:text-white',
-            ]}>
+        <nav class="flex flex-col gap-2">
+          {navItems.slice(4).map((item) => (
+            <a href={item.href} class="text-sm text-white/40 hover:text-white transition-colors">
               {item.label}
             </a>
           ))}
         </nav>
+      </div>
+
+      <!-- Contact -->
+      <div>
+        <p class="text-xs font-semibold uppercase tracking-[0.15em] text-white/25 mb-4">Contact</p>
+        <div class="flex flex-col gap-2 text-sm text-white/40">
+          <a href="mailto:mick@demodernenomaden.nl" class="hover:text-white transition-colors">mick@demodernenomaden.nl</a>
+          <a href="https://wa.me/31681081589" class="hover:text-white transition-colors">+31 6 81 08 15 89</a>
+          <p class="text-white/20 mt-2">KvK 62568299</p>
+        </div>
       </div>
     </div>
 
-    <div class:list={[
-      'mt-10 pt-6 text-center text-sm',
-      dark ? 'border-t border-white/5 text-white/20' : 'border-t border-warm-800 text-warm-500',
-    ]}>
-      &copy; {year} Micky van Zadelhoff
+    <div class="mt-12 pt-6 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-white/20">
+      <p>&copy; {year} Micky van Zadelhoff</p>
+      <a href={`/${lang === 'nl' ? 'en' : 'nl'}/`} class="hover:text-white/50 transition-colors">
+        {t(lang, 'lang.switch')}
+      </a>
     </div>
   </div>
 </footer>

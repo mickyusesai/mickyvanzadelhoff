@@ -8,11 +8,10 @@ interface Props {
   description: string;
   lang: Locale;
   ogImage?: string;
-  dark?: boolean;
   hideFooter?: boolean;
 }
 
-const { title, description, lang, ogImage, dark = false, hideFooter = false } = Astro.props;
+const { title, description, lang, ogImage, hideFooter = false } = Astro.props;
 const alternateLocale: Locale = lang === 'nl' ? 'en' : 'nl';
 const currentPath = Astro.url.pathname;
 const alternatePath = currentPath.replace(`/${lang}/`, `/${alternateLocale}/`);
@@ -39,14 +38,11 @@ const alternateUrl = new URL(alternatePath, Astro.site).href;
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
   </head>
-  <body class:list={[
-    'min-h-screen flex flex-col font-sans antialiased',
-    dark ? 'bg-void text-white' : 'bg-warm-50 text-warm-900',
-  ]}>
-    <Header lang={lang} currentPath={currentPath} dark={dark} />
+  <body class="min-h-screen flex flex-col bg-surface font-sans text-ink antialiased">
+    <Header lang={lang} currentPath={currentPath} />
     <main class="flex-1">
       <slot />
     </main>
-    {!hideFooter && <Footer lang={lang} dark={dark} />}
+    {!hideFooter && <Footer lang={lang} />}
   </body>
 </html>
