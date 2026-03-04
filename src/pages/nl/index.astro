@@ -19,27 +19,23 @@ import Layout from '../../layouts/Layout.astro';
   <div class="relative z-10 min-h-screen flex flex-col justify-between px-6 sm:px-10">
 
     <!-- Hero text area — vertically centered -->
-    <div class="flex-1 flex items-center justify-center max-w-4xl mx-auto w-full">
+    <div class="flex-1 flex items-center justify-center max-w-3xl mx-auto w-full">
       <div class="text-center py-24 sm:py-32">
-
-        <!-- Text container with fade transitions -->
         <div id="hero-text" class="transition-all duration-500 ease-out">
-          <p id="hero-content" class="text-hero sm:text-hero-lg text-white leading-snug sm:leading-snug"></p>
-        </div>
-
-        <!-- Press mentions -->
-        <div class="mt-16 flex items-center justify-center gap-6 sm:gap-10">
-          <span class="text-[11px] sm:text-xs uppercase tracking-[0.2em] text-white/20 font-medium">NRC</span>
-          <span class="text-white/10">|</span>
-          <span class="text-[11px] sm:text-xs uppercase tracking-[0.2em] text-white/20 font-medium">Nu.nl</span>
-          <span class="text-white/10">|</span>
-          <span class="text-[11px] sm:text-xs uppercase tracking-[0.2em] text-white/20 font-medium">Vice</span>
+          <p id="hero-content" class="text-hero sm:text-hero-lg text-white/90 leading-relaxed sm:leading-relaxed"></p>
         </div>
       </div>
     </div>
 
-    <!-- Slider at the bottom -->
-    <div class="pb-8 sm:pb-12 max-w-3xl mx-auto w-full">
+    <!-- Bottom area: tagline + slider + press -->
+    <div class="pb-6 sm:pb-10 max-w-3xl mx-auto w-full">
+
+      <!-- AI Automation tagline above slider -->
+      <p class="text-center text-[11px] sm:text-xs uppercase tracking-[0.25em] text-white/30 font-medium mb-6">
+        Hoeveel van je bedrijf wil je automatiseren met AI?
+      </p>
+
+      <!-- Slider -->
       <div class="flex items-center gap-4 sm:gap-6">
         <span class="text-[10px] sm:text-xs uppercase tracking-[0.15em] text-white/40 font-medium whitespace-nowrap select-none">
           Voorzichtig
@@ -74,12 +70,20 @@ import Layout from '../../layouts/Layout.astro';
           />
         ))}
       </div>
+
+      <!-- Press mentions below slider -->
+      <div class="mt-8 flex items-center justify-center gap-6 sm:gap-10">
+        <span class="text-[10px] sm:text-[11px] uppercase tracking-[0.2em] text-white/15 font-medium">NRC</span>
+        <span class="text-white/8">·</span>
+        <span class="text-[10px] sm:text-[11px] uppercase tracking-[0.2em] text-white/15 font-medium">Nu.nl</span>
+        <span class="text-white/8">·</span>
+        <span class="text-[10px] sm:text-[11px] uppercase tracking-[0.2em] text-white/15 font-medium">Vice</span>
+      </div>
     </div>
   </div>
 </Layout>
 
 <style>
-  /* Custom slider thumb */
   .slider-input::-webkit-slider-thumb {
     -webkit-appearance: none;
     appearance: none;
@@ -108,8 +112,6 @@ import Layout from '../../layouts/Layout.astro';
     background: transparent;
     border: none;
   }
-
-  /* Fade/blur transition for text */
   #hero-text.transitioning {
     opacity: 0;
     filter: blur(8px);
@@ -120,8 +122,6 @@ import Layout from '../../layouts/Layout.astro';
     filter: blur(0);
     transform: translateY(0);
   }
-
-  /* Inline link styles */
   #hero-content :global(a) {
     text-decoration: underline;
     text-decoration-color: rgba(124, 58, 237, 0.6);
@@ -137,27 +137,17 @@ import Layout from '../../layouts/Layout.astro';
 <script>
   const stages = [
     `Hoi, ik ben Micky. Ik help je een paar repetitieve taakjes uit handen geven aan AI. Denk aan e-mails sorteren. Kleine dingen. Niemand hoeft het te weten.`,
-
     `We automatiseren je administratie. Facturen, rapportages, dat soort werk waar je altijd tegenop zag. Je collega's denken dat je gewoon sneller bent geworden.`,
-
     `Je hele marketingafdeling werkt nu op een kwart van de tijd. De andere driekwart besteden ze aan vergaderen over wat ze met die tijd moeten doen.`,
-
     `Je klantenservice draait volledig op AI. 24/7 beschikbaar, nooit chagrijnig op maandagochtend, vraagt nooit om loonsverhoging.`,
-
     `We hebben nu drie functies geautomatiseerd. HR heeft het nog niet opgemerkt. Ik wel.`,
-
     `Je managementlaag blijkt grotendeels vervangbaar. Dit verrast niemand, maar het hardop zeggen voelt nog steeds raar.`,
-
     `Je hebt AI ingezet voor strategie, creatie en besluitvorming. Jij tekent nog wel de contracten. Voorlopig.`,
-
     `Je agenda, je e-mail, je LinkedIn en je excuses aan je partner worden allemaal door AI geschreven. Niemand heeft iets gemerkt. Misschien was het altijd al zo.`,
-
     `Je sociale leven loopt nu via een AI die namens jou reageert op appjes, verjaardagen onthoudt en conflicten oplost. Je vrienden vinden je eigenlijk leuker geworden.`,
-
     `Gefeliciteerd. Je hebt alles geautomatiseerd. Je werk, je communicatie, je vriendschappen. Je hebt nu eindeloos veel vrije tijd. Waarvoor? Geen idee. Dat hadden we misschien eerder moeten bespreken.`,
   ];
 
-  // Add links to specific stages
   function addLinks(text: string, stageIndex: number): string {
     if (stageIndex === 0) {
       return text.replace(
@@ -179,25 +169,16 @@ import Layout from '../../layouts/Layout.astro';
   const heroContent = document.getElementById('hero-content')!;
   const sliderFill = document.getElementById('slider-fill')!;
   const dots = document.querySelectorAll('.stage-dot');
-
   let currentStage = 0;
 
   function updateStage(newStage: number) {
     if (newStage === currentStage && heroContent.innerHTML !== '') return;
-
-    // Start transition out
     heroText.classList.add('transitioning');
-
     setTimeout(() => {
-      // Update content
       heroContent.innerHTML = addLinks(stages[newStage], newStage);
       currentStage = newStage;
-
-      // Update fill
       const pct = (newStage / 9) * 100;
       sliderFill.style.width = pct + '%';
-
-      // Update dots
       dots.forEach((dot, i) => {
         if (i === newStage) {
           (dot as HTMLElement).style.background = 'rgba(124, 58, 237, 0.8)';
@@ -210,8 +191,6 @@ import Layout from '../../layouts/Layout.astro';
           (dot as HTMLElement).style.transform = 'scale(1)';
         }
       });
-
-      // Transition back in
       heroText.classList.remove('transitioning');
     }, 250);
   }
@@ -220,6 +199,5 @@ import Layout from '../../layouts/Layout.astro';
     updateStage(parseInt(slider.value, 10));
   });
 
-  // Initialize
   updateStage(0);
 </script>

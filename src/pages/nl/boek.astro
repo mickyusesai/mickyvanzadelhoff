@@ -1,0 +1,88 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import PageHero from '../../components/PageHero.astro';
+
+const testimonials = [
+  { quote: 'Een verademing ten opzichte van alle fake identities op deze wereld.', name: 'Mike' },
+  { quote: 'Na ieder avontuur ben je direct nieuwsgierig naar de volgende. In één keer uitgelezen.', name: 'Ronald' },
+  { quote: 'Dit verhaal is écht en eerlijk. Mijn beeld over digital nomads is voorgoed veranderd.', name: 'Linda' },
+  { quote: 'Super tof boek, ik bleef maar doorlezen!', name: 'Mauro' },
+];
+---
+
+<Layout
+  title="Digital Nomad Boek — Verhalen en lessen uit een vrij leven"
+  description="Gratis download: Digital Nomad — Verhalen en lessen uit een vrij leven. Het eerlijke verhaal van Micky van Zadelhoff over het leven als digital nomad."
+  lang="nl"
+  dark={true}
+  ogImage="/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp"
+>
+  <PageHero
+    title="Digital Nomad"
+    subtitle="Verhalen en lessen uit een vrij leven"
+  />
+
+  <div class="px-6 sm:px-10">
+    <div class="max-w-4xl mx-auto">
+
+      <!-- Book + description -->
+      <section class="mb-16">
+        <div class="grid grid-cols-1 md:grid-cols-5 gap-10 md:gap-16 items-start">
+          <div class="md:col-span-2">
+            <img
+              src="/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp"
+              alt="Digital Nomad — Verhalen en lessen uit een vrij leven — boek cover"
+              class="w-full max-w-xs mx-auto rounded-xl shadow-2xl"
+            />
+          </div>
+          <div class="md:col-span-3">
+            <p class="text-lg text-white/70 leading-relaxed mb-6">
+              Een digital nomad is iemand die reizen en online werken combineert. Een unieke
+              levensstijl waarin de wereld aan je voeten ligt. Maar zijn er grenzen aan al
+              dat reizen en is een bestaan als digital nomad nou echt de utopie van de 21e eeuw?
+            </p>
+            <p class="text-lg text-white/70 leading-relaxed mb-6">
+              In dit boek lees je over de avonturen die ik als digital nomad meemaakte. Van
+              een vanlife in de Balkan tot een fietstocht naar Turkije — het eerlijke verhaal
+              van een wereldreiziger die met vallen en opstaan deze nieuwe levensstijl ontdekt.
+            </p>
+            <p class="text-sm text-white/40 mb-8">
+              ISBN: 978909032951251 · 176 pagina's (digitaal) · Gratis download
+            </p>
+            <!-- TODO: Replace with email capture when newsletter tool is chosen -->
+            <a
+              href="/images/migrated/Digital-Nomad-Boek.webp"
+              class="inline-flex items-center px-8 py-3 bg-purple-600 text-white font-medium rounded-xl hover:bg-purple-500 transition-colors"
+            >
+              Download het gratis boek
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <!-- Testimonials -->
+      <section class="mb-16">
+        <h2 class="text-2xl font-bold text-white mb-10">Wat lezers zeggen</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+          {testimonials.map((t) => (
+            <div class="bg-white/5 rounded-xl p-6 border border-white/5">
+              <p class="text-white/60 leading-relaxed mb-4 italic">"{t.quote}"</p>
+              <p class="text-sm font-medium text-purple-400">{t.name} <span class="text-yellow-500">★★★★★</span></p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <!-- Press -->
+      <section class="mb-20">
+        <p class="text-xs uppercase tracking-[0.2em] text-white/30 font-medium mb-6">Zoals besproken bij</p>
+        <div class="flex flex-wrap gap-8 items-center">
+          <img src="/images/migrated/nrc-handelsblad.webp" alt="NRC" class="h-6 w-auto object-contain opacity-30 grayscale" />
+          <img src="/images/migrated/Nu-nl-logo-1.webp" alt="Nu.nl" class="h-6 w-auto object-contain opacity-30 grayscale" />
+          <img src="/images/migrated/Vice_Logo.webp" alt="Vice" class="h-6 w-auto object-contain opacity-30 grayscale" />
+          <img src="/images/migrated/flow-logo.webp" alt="Flow" class="h-6 w-auto object-contain opacity-30 grayscale" />
+        </div>
+      </section>
+    </div>
+  </div>
+</Layout>

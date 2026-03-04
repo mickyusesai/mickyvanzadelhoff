@@ -50,8 +50,8 @@ export default {
         serif: ['Georgia', 'Cambria', 'Times New Roman', 'serif'],
       },
       fontSize: {
-        'hero': ['clamp(2rem, 5vw, 3.5rem)', { lineHeight: '1.25', fontWeight: '700' }],
-        'hero-lg': ['clamp(2.5rem, 6vw, 4.5rem)', { lineHeight: '1.2', fontWeight: '700' }],
+        'hero': ['clamp(1.25rem, 2.8vw, 2rem)', { lineHeight: '1.5', fontWeight: '500' }],
+        'hero-lg': ['clamp(1.5rem, 3.2vw, 2.25rem)', { lineHeight: '1.45', fontWeight: '500' }],
       },
       animation: {
         'blob': 'blob 20s ease-in-out infinite',

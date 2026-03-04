@@ -1,0 +1,68 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import PageHero from '../../components/PageHero.astro';
+---
+
+<Layout
+  title="EasyReimburse — Declaraties makkelijk gemaakt"
+  description="EasyReimburse is een SaaS-app gebouwd door Micky van Zadelhoff die declaraties eenvoudig en snel maakt voor teams en bedrijven."
+  lang="nl"
+  dark={true}
+>
+  <PageHero
+    title="EasyReimburse"
+    subtitle="Declaraties makkelijk gemaakt. Gebouwd door Micky."
+  />
+
+  <div class="px-6 sm:px-10">
+    <div class="max-w-4xl mx-auto">
+
+      <!-- Intro -->
+      <section class="mb-16">
+        <p class="text-lg text-white/70 leading-relaxed mb-6">
+          EasyReimburse is een web-app die ik heb gebouwd om het declaratieproces voor teams
+          en bedrijven drastisch te vereenvoudigen. Geen eindeloze Excel-bestanden meer,
+          geen kwijtgeraakte bonnetjes — alles op één plek, helder en snel.
+        </p>
+        <p class="text-lg text-white/70 leading-relaxed">
+          Als ondernemer die zelf altijd bezig is met bouwen, weet ik hoe frustrerend
+          administratieve rompslomp kan zijn. Dus bouwde ik de tool die ik zelf wilde hebben.
+        </p>
+      </section>
+
+      <!-- Features -->
+      <section class="mb-16">
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
+          <div class="bg-white/5 rounded-xl p-6 border border-white/5">
+            <p class="text-3xl mb-3">📸</p>
+            <h3 class="text-white font-semibold mb-2">Bon uploaden</h3>
+            <p class="text-sm text-white/50">Foto maken, uploaden, klaar. De app leest de gegevens automatisch uit.</p>
+          </div>
+          <div class="bg-white/5 rounded-xl p-6 border border-white/5">
+            <p class="text-3xl mb-3">📊</p>
+            <h3 class="text-white font-semibold mb-2">Overzicht</h3>
+            <p class="text-sm text-white/50">Real-time inzicht in alle declaraties per medewerker, afdeling of project.</p>
+          </div>
+          <div class="bg-white/5 rounded-xl p-6 border border-white/5">
+            <p class="text-3xl mb-3">⚡</p>
+            <h3 class="text-white font-semibold mb-2">Snel afhandelen</h3>
+            <p class="text-sm text-white/50">Goedkeuren, afwijzen en exporteren in een paar klikken. Geen gedoe.</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- CTA -->
+      <section class="mb-20 text-center">
+        <a
+          href="https://easyreimburse.ai"
+          target="_blank"
+          rel="noopener"
+          class="inline-flex items-center px-8 py-4 bg-purple-600 text-white text-lg font-medium rounded-xl hover:bg-purple-500 transition-colors"
+        >
+          Bekijk EasyReimburse →
+        </a>
+        <p class="text-white/30 text-sm mt-4">easyreimburse.ai</p>
+      </section>
+    </div>
+  </div>
+</Layout>

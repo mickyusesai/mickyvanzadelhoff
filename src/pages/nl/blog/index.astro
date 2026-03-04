@@ -1,0 +1,98 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import PageHero from '../../../components/PageHero.astro';
+import { getCollection } from 'astro:content';
+
+const allArticles = await getCollection('articles', ({ data }) => {
+  return data.lang === 'nl' && !data.draft;
+});
+
+const articles = allArticles.sort(
+  (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+);
+
+// Group by category
+const categories = ['ondernemen', 'digitalenomaden', 'online-geld-verdienen', 'web3', 'tips', 'review'] as const;
+const categoryLabels: Record<string, string> = {
+  ondernemen: 'Ondernemen',
+  digitalenomaden: 'Digitale Nomaden',
+  'online-geld-verdienen': 'Online Geld Verdienen',
+  web3: 'Web3 & Crypto',
+  tips: 'Tips',
+  review: 'Reviews',
+};
+---
+
+<Layout
+  title="Blog — Micky van Zadelhoff"
+  description="Artikelen over ondernemen, digital nomad leven, AI, online geld verdienen en meer. Door Micky van Zadelhoff."
+  lang="nl"
+  dark={true}
+>
+  <PageHero
+    title="Blog"
+    subtitle="Artikelen over ondernemen, digital nomad leven, AI en meer."
+  />
+
+  <div class="px-6 sm:px-10">
+    <div class="max-w-5xl mx-auto">
+
+      <!-- Category filters -->
+      <section class="mb-12">
+        <div class="flex flex-wrap gap-2">
+          {categories.map((cat) => {
+            const count = articles.filter((a) => a.data.category === cat).length;
+            return count > 0 ? (
+              <a
+                href={`/nl/blog/${cat}/`}
+                class="px-4 py-2 text-sm rounded-lg border border-white/10 text-white/50 hover:text-white hover:border-purple-500/40 transition-colors"
+              >
+                {categoryLabels[cat]} <span class="text-white/20 ml-1">{count}</span>
+              </a>
+            ) : null;
+          })}
+        </div>
+      </section>
+
+      <!-- Articles grid -->
+      <section class="mb-20">
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {articles.map((article) => (
+            <a
+              href={`/nl/blog/${article.data.category}/${article.id}/`}
+              class="group block rounded-xl overflow-hidden border border-white/10 hover:border-purple-500/30 transition-all bg-white/[0.02]"
+            >
+              {article.data.featuredImage ? (
+                <div class="aspect-video bg-void-50 overflow-hidden">
+                  <img
+                    src={article.data.featuredImage}
+                    alt={article.data.title}
+                    class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300 opacity-80"
+                    loading="lazy"
+                  />
+                </div>
+              ) : (
+                <div class="aspect-video bg-gradient-to-br from-purple-900/20 to-accent-pink/10" />
+              )}
+              <div class="p-5">
+                <p class="text-xs text-white/30 mb-2">
+                  {new Date(article.data.date).toLocaleDateString('nl-NL', {
+                    year: 'numeric', month: 'short', day: 'numeric',
+                  })}
+                  <span class="mx-2 text-white/10">·</span>
+                  <span class="text-purple-400/60">{categoryLabels[article.data.category]}</span>
+                </p>
+                <h3 class="font-semibold text-white/80 group-hover:text-purple-400 transition-colors line-clamp-2 text-sm leading-snug">
+                  {article.data.title}
+                </h3>
+                {article.data.description && (
+                  <p class="text-xs text-white/30 mt-2 line-clamp-2">{article.data.description}</p>
+                )}
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+    </div>
+  </div>
+</Layout>
