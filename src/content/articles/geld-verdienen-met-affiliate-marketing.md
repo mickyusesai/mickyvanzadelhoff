@@ -1,6 +1,6 @@
 ---
 title: "Geld verdienen met affiliate marketing in 2023"
-description: ""
+description: "De verdiensten die ik in dit artikel deel, deel ik overigens niet om te pronken, maar vooral om je inspiratie te geven. Geld verdienen met affiliate…"
 date: 2018-09-02
 updated: 2023-02-06
 category: "online-geld-verdienen"
@@ -12,19 +12,19 @@ featuredImage: "/images/migrated/geld-verdienen-affiliate-marketing-1.webp"
 
 **Geld verdienen met affiliate marketing**; dat is een zeer bijzondere wereld. Als je er online over leest lijkt het soms bijna alsof je slapend rijk kunt worden. En hoewel dat te mooi klinkt om waar te zijn, zit er zeker een punt in.
 
-**Affiliate marketing** betekent voor mij regelmatig dat ik ’s ochtends wakker wordt en een mail binnen heb gekregen van [PayPro](https://demodernenomaden.nl/go/paypro-affiliate) waarin ik wordt **gefeliciteerd met een nieuwe commissie**. Dan heb ik toch zomaar weer €100,- verdient ;).
+**Affiliate marketing** betekent voor mij regelmatig dat ik ’s ochtends wakker wordt en een mail binnen heb gekregen van [PayPro](/go/paypro-affiliate) waarin ik wordt **gefeliciteerd met een nieuwe commissie**. Dan heb ik toch zomaar weer €100,- verdient ;).
 
 ![PayPro Nieuwe Commissie](/images/migrated/paypro-nieuwe-commissie-1.webp "PayPro Nieuwe Commissie")
 
 De verdiensten die ik in dit artikel deel, deel ik overigens niet om te pronken, maar vooral om je inspiratie te geven. Geld verdienen met affiliate marketing kan namelijk iedereen en is helemaal niet zo moeilijk als het lijkt. Je kunt letterlijk al beginnen als je gewoon een laptop hebt met internet.
 
-Hoe je **begint met affiliate marketing** en hoe je hier succesvol mee wordt bespreek ik allemaal in dit artikel. Ook ga ik in op welke [affiliate programma’s](https://demodernenomaden.nl/ondernemen/affiliate-programma/) voor mij werken en waar je de hoogste commissies kunt vinden.
+Hoe je **begint met affiliate marketing** en hoe je hier succesvol mee wordt bespreek ik allemaal in dit artikel. Ook ga ik in op welke [affiliate programma’s](/blog/ondernemen/affiliate-programma/) voor mij werken en waar je de hoogste commissies kunt vinden.
 
 ### Dit artikel in het kort…
 
-*   **Het beste platform om te gebruiken voor bedrijven en webshops die affiliate marketing in willen zetten om meer verkopen te genereren is** **[Plug&Pay](https://demodernenomaden.nl/go/plugandpay)** _(link opent in nieuw tabblad)_.
-*   **De hoogste affiliate commissies krijg je (als blogger, vlogger of influencer) met online producten, deze vind je met name bij het affiliate netwerk van** **[PayPro](https://demodernenomaden.nl/go/paypro-affiliate)** _(link opent in nieuw tabblad)_.
-*   **Het grootste affiliate netwerk van Nederland waar je producten vind om te promoten is** **[Tradetracker](https://demodernenomaden.nl/go/tradetracker)** _(link opent in nieuw tabblad)_.
+*   **Het beste platform om te gebruiken voor bedrijven en webshops die affiliate marketing in willen zetten om meer verkopen te genereren is** **[Plug&Pay](/go/plugandpay)** _(link opent in nieuw tabblad)_.
+*   **De hoogste affiliate commissies krijg je (als blogger, vlogger of influencer) met online producten, deze vind je met name bij het affiliate netwerk van** **[PayPro](/go/paypro-affiliate)** _(link opent in nieuw tabblad)_.
+*   **Het grootste affiliate netwerk van Nederland waar je producten vind om te promoten is** **[Tradetracker](/go/tradetracker)** _(link opent in nieuw tabblad)_.
 
 Oké, details aside, wat is affiliate marketing eigenlijk?
 
@@ -32,7 +32,7 @@ Oké, details aside, wat is affiliate marketing eigenlijk?
 
 **Affiliate marketing is een vorm van online marketing waarbij affiliates (bedrijven) publishers (bloggers) betalen in ruil voor promotie van hun product of dienst. Uniek aan affiliate marketing is dat de publisher veelal betaald krijgt per verkoop (commissie).**
 
-Affiliate marketing wil dus zeggen dat jij in ruil voor geld een product of dienst promoot van een bedrijf. Dit kan bijvoorbeeld zijn omdat je een website, [blog](https://demodernenomaden.nl/online-geld-verdienen/bloggen/), [Instagramaccount](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-instagram-2/) of [Youtube-kanaal](https://demodernenomaden.nl/online-geld-verdienen/youtube/) hebt.
+Affiliate marketing wil dus zeggen dat jij in ruil voor geld een product of dienst promoot van een bedrijf. Dit kan bijvoorbeeld zijn omdat je een website, [blog](/blog/online-geld-verdienen/bloggen/), [Instagramaccount](/blog/online-geld-verdienen/geld-verdienen-met-instagram-2/) of [Youtube-kanaal](/blog/online-geld-verdienen/youtube/) hebt.
 
 ![Affiliate marketing op jouw kanaal](/images/migrated/affiliate-marketing-op-jouw-kanaal-1.webp "Affiliate marketing op jouw kanaal")
 
@@ -40,7 +40,7 @@ Bij affiliate marketing hoef je geen eigen product of dienst te hebben. Je wordt
 
 ### Affiliate linkjes en tracking
 
-Bij affiliate marketing plaats je **affiliate linkjes van producten of diensten** in jouw Youtube video beschrijving, tussen de artikelen op jouw website of bij de beschrijving van een foto op Instagram. Het kan zelfs zijn dat je [e-mail marketing campagnes](https://demodernenomaden.nl/ondernemen/e-mail-marketing/) opzet met daarin affiliate links.
+Bij affiliate marketing plaats je **affiliate linkjes van producten of diensten** in jouw Youtube video beschrijving, tussen de artikelen op jouw website of bij de beschrijving van een foto op Instagram. Het kan zelfs zijn dat je [e-mail marketing campagnes](/blog/ondernemen/e-mail-marketing/) opzet met daarin affiliate links.
 
 Die affiliate linkjes zijn niet zomaar linkjes, maar bevatten een speciale **trackingcode**. Vaak ziet dat er zo uit:
 
@@ -62,7 +62,7 @@ Maar voordat jij affiliate commissies ontvangt, zullen we eerst moeten kijken na
 
 –
 
-Wil je begrijpen hoe je goed geld kunt verdienen met affiliate marketing? Nicole verdient meer dan €2000,- per maand on-the-side met affiliate marketing en legt in haar cursus haarfijn uit hoe jij jezelf succesvol door affiliate land navigeert! Met de code **succesmetaffiliatemarketing10** krijg je zelfs 10% korting ;)_._ [Je vind de cursus hier >>](https://demodernenomaden.nl/go/affiliate-succes)
+Wil je begrijpen hoe je goed geld kunt verdienen met affiliate marketing? Nicole verdient meer dan €2000,- per maand on-the-side met affiliate marketing en legt in haar cursus haarfijn uit hoe jij jezelf succesvol door affiliate land navigeert! Met de code **succesmetaffiliatemarketing10** krijg je zelfs 10% korting ;)_._ [Je vind de cursus hier >>](/go/affiliate-succes)
 
 ## 2\. Jouw affiliate kanaal opzetten
 
@@ -74,16 +74,16 @@ Om affiliate links te kunnen plaatsen heb je eerst een plek nodig om dit te doen
 *   Facebook groep met actieve leden
 *   Instagramaccount met veel volgers
 *   Youtube kanaal met trouwe abonnees
-*   [Mailinglijst](https://demodernenomaden.nl/ondernemen/leads-genereren-mailinglijst/) met vaste lezers
+*   [Mailinglijst](/blog/ondernemen/leads-genereren-mailinglijst/) met vaste lezers
 *   Relevant klantenbestand
 
 ![Bloggen voor bedrijven](/images/migrated/bloggen-voor-bedrijven-1.webp "Bloggen voor bedrijven")
 
-Zelf verdien ik zo’n €3000,- per maand met affiliate marketing. Deze inkomsten komen allemaal via mijn blog [De Moderne Nomaden](https://demodernenomaden.nl). Op mijn blog schrijf ik over hoe mensen online kunnen ondernemen en hoe een leven als digital nomad eruit ziet. Tussen die blogs kan ik veel affiliate links kwijt van software en online trainingen.
+Zelf verdien ik zo’n €3000,- per maand met affiliate marketing. Deze inkomsten komen allemaal via mijn blog [De Moderne Nomaden](/). Op mijn blog schrijf ik over hoe mensen online kunnen ondernemen en hoe een leven als digital nomad eruit ziet. Tussen die blogs kan ik veel affiliate links kwijt van software en online trainingen.
 
-Mijn advies voor als je nieuw bent met affiliate marketing is om dit te doen door [een eigen blog op te zetten](https://demodernenomaden.nl/ondernemen/blog-beginnen-starten-stappenplan/). Dit is het snelste en makkelijkste kanaal **om snel veel mensen te bereiken** en geld te verdienen met affiliate marketing.
+Mijn advies voor als je nieuw bent met affiliate marketing is om dit te doen door [een eigen blog op te zetten](/blog/ondernemen/blog-beginnen-starten-stappenplan/). Dit is het snelste en makkelijkste kanaal **om snel veel mensen te bereiken** en geld te verdienen met affiliate marketing.
 
-_Onderbouwing: Dat is omdat je met een blog maandelijks vanzelf nieuwe bezoekers kunt krijgen zonder nieuwe blogs te uploaden (omdat de meeste bezoekers via Google komen). Bij een kanaal op social media zal je altijd actief moeten blijven posten om geld te verdienen met affiliate marketing en werk je dus niet aan een [passief inkomen](https://demodernenomaden.nl/online-geld-verdienen/passief-inkomen-genereren/). Bij een blog is dit wel het geval._
+_Onderbouwing: Dat is omdat je met een blog maandelijks vanzelf nieuwe bezoekers kunt krijgen zonder nieuwe blogs te uploaden (omdat de meeste bezoekers via Google komen). Bij een kanaal op social media zal je altijd actief moeten blijven posten om geld te verdienen met affiliate marketing en werk je dus niet aan een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/). Bij een blog is dit wel het geval._
 
 _–_
 
@@ -91,17 +91,17 @@ Als je aan de slag wilt gaan met affiliate marketing, maar je hebt nog geen eige
 
 Zo kun je eenvoudig een eigen blog beginnen met het systeem van WordPress. Het enige geld dat je dan moet investeren is een beetje voor je webhosting (de plek op het internet waar jouw blog staat).
 
-Hoe je dat doet leg ik **in de video hieronder** stapsgewijs uit. Liever lezen? Dan vind je [hier](https://demodernenomaden.nl/ondernemen/blog-beginnen-starten-stappenplan/) een stappenplan.
+Hoe je dat doet leg ik **in de video hieronder** stapsgewijs uit. Liever lezen? Dan vind je [hier](/blog/ondernemen/blog-beginnen-starten-stappenplan/) een stappenplan.
 
-[Bekijk Blog Bonus Deal](https://demodernenomaden.nl/stap-1-niche-naam-gaan/#blogbonus)
+Bekijk Blog Bonus Deal
 
-Als je al een kanaal hebt, dan kun je daar natuurlijk ook mee aan de slag. Dan wordt het vooral belangrijk om te kijken naar welke affiliate producten passen bij jouw doelgroep of [niche](https://demodernenomaden.nl/ondernemen/blog-niches/).
+Als je al een kanaal hebt, dan kun je daar natuurlijk ook mee aan de slag. Dan wordt het vooral belangrijk om te kijken naar welke affiliate producten passen bij jouw doelgroep of [niche](/blog/ondernemen/blog-niches/).
 
 ## 3\. Aanmelden affiliate netwerken en programma’s
 
 Als je jouw kanaal compleet hebt en jouw blog online staat, is het tijd om te gaan zoeken naar die affiliate partners waar we het eerder al over hadden.
 
-Wanneer jij zomaar naar een bedrijf toe gaat linken en iemand koopt iets via die link, krijg jij daar nog geen geld voor. We moeten de zogeheten affiliate links dus eerst verkrijgen. Dit doe je door je **aan te melden bij een [affiliate programma of netwerk](https://demodernenomaden.nl/ondernemen/affiliate-programma/)**.
+Wanneer jij zomaar naar een bedrijf toe gaat linken en iemand koopt iets via die link, krijg jij daar nog geen geld voor. We moeten de zogeheten affiliate links dus eerst verkrijgen. Dit doe je door je **aan te melden bij een [affiliate programma of netwerk](/blog/ondernemen/affiliate-programma/)**.
 
 ### Verschil tussen affiliate netwerk en affiliate programma
 
@@ -117,7 +117,7 @@ Ik zal hieronder **de twee meest interessante affiliate netwerken** aan je voors
 
 ![Paypro Affiliate Programma](/images/migrated/paypro-affiliate-programma-1.webp "Paypro Affiliate Programma")
 
-[PayPro](https://demodernenomaden.nl/go/paypro-affiliate) is eigenlijk gewoon een betalingsdienstverlener voor ondernemers in Nederland. Het is daarmee een gemakkelijke plek om (online) producten te verkopen. Veel van deze producten zijn ook voor affiliates beschikbaar en daar kun jij dus commissies voor krijgen per verkoop.
+[PayPro](/go/paypro-affiliate) is eigenlijk gewoon een betalingsdienstverlener voor ondernemers in Nederland. Het is daarmee een gemakkelijke plek om (online) producten te verkopen. Veel van deze producten zijn ook voor affiliates beschikbaar en daar kun jij dus commissies voor krijgen per verkoop.
 
 Uniek aan PayPro is dat het vooral om digitale producten gaat zoals **cursussen en e-books**. Daardoor zijn de commissies soms torenhoog (tot wel 50% van de verkoopprijs). Sommige van die producten converteren erg goed. Dit hieronder is een screenshot van één product bij PayPro in één maand.
 
@@ -125,17 +125,17 @@ Uniek aan PayPro is dat het vooral om digitale producten gaat zoals **cursussen 
 
 Natuurlijk betalen niet alle producten bij PayPro je bijna €300,- commissie uit per verkoop. Maar als ergens zulke **goede affiliate producten** zijn, dan is dat wel vaak bij PayPro.
 
-[Aanmelden PayPro Affiliate Netwerk](https://demodernenomaden.nl/go/paypro-affiliate)
+[Aanmelden PayPro Affiliate Netwerk](/go/paypro-affiliate)
 
 ### 2\. Tradetracker – Grootste affiliate netwerk van Nederland
 
 ![Tradetracker affiliate platform](/images/migrated/tradetracker-affiliate-platform-1.webp "Tradetracker affiliate platform")
 
-[Tradetracker](https://demodernenomaden.nl/go/tradetracker) is een affiliate netwerk met vele affiliate programma’s. Ze hebben zo’n **1668 affiliate programma’s** voor je klaar staan (in 2023). Zij hebben daarmee het grootste aanbod van Nederland. Deze programma’s variëren enorm van elkaar.
+[Tradetracker](/go/tradetracker) is een affiliate netwerk met vele affiliate programma’s. Ze hebben zo’n **1668 affiliate programma’s** voor je klaar staan (in 2023). Zij hebben daarmee het grootste aanbod van Nederland. Deze programma’s variëren enorm van elkaar.
 
 Je kunt samenwerken met grote partijen zoals mijndomein.nl of met tal van feestwinkels. De grootste drie categorieën bij Tradetracker zijn ‘Wonen, huis en tuin’, ‘Reizen en vakantie’ en ‘Mode en sieraden’. Zeker is dat je er altijd wel producten vind die relevant zijn voor jou om te promoten. Het is dan ook een must om je hier aan te melden als je wilt beginnen met affiliate marketing.
 
-[Aanmelden Tradetracker Affiliate Netwerk](https://demodernenomaden.nl/go/tradetracker)
+[Aanmelden Tradetracker Affiliate Netwerk](/go/tradetracker)
 
 ## **3.2 Affiliate programma’s**
 
@@ -149,17 +149,17 @@ Toen ik zelf net begon met affiliate marketing, keek ik vooral naar hoeveel comm
 
 ![Affiliate marketing geld verdienen](/images/migrated/affiliate-marketing-geld-verdienen-1.webp "Affiliate marketing geld verdienen")
 
-Er was alleen één groot nadeel. Deze producten sloten totaal niet aan op mijn [blogonderwerp](https://demodernenomaden.nl/ondernemen/blog-niches/) en dus kocht niemand iets via mijn affiliate links.
+Er was alleen één groot nadeel. Deze producten sloten totaal niet aan op mijn [blogonderwerp](/blog/ondernemen/blog-niches/) en dus kocht niemand iets via mijn affiliate links.
 
 **Kijk bij het kiezen van jouw affiliate producten en diensten dus vooral naar relevantie en pas later naar de verschillende commissies die diverse bedrijven jou bieden.**
 
-Dat gezegd hebbende, stel ik voor om een kijkje te nemen bij affiliate programma’s waarvoor je je los aan kunt melden. Bij deze drie affiliate programma’s ben ik zelf aangesloten en deze promoot ik actief op deze website. Ze zorgen bij elkaar voor het grootste deel van mijn [passieve inkomen](https://demodernenomaden.nl/online-geld-verdienen/passief-inkomen-genereren/).
+Dat gezegd hebbende, stel ik voor om een kijkje te nemen bij affiliate programma’s waarvoor je je los aan kunt melden. Bij deze drie affiliate programma’s ben ik zelf aangesloten en deze promoot ik actief op deze website. Ze zorgen bij elkaar voor het grootste deel van mijn [passieve inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/).
 
-*   **Bitvavo** [\> Aanmelden Bitvavo affiliate programma](https://demodernenomaden.nl/go/bitvavo)  
+*   **Bitvavo** [\> Aanmelden Bitvavo affiliate programma](/go/bitvavo)  
     Bij deze crypto exchange krijg je 15% commissie over de trading fees die gebruikers betalen die zich via jouw affiliate link hebben aangemeld. Om te beginnen met dit affiliate programma hoef je slechts zelf een gratis account op Bitvavo aan te maken.
-*   **Pictory** [\> Aanmelden Pictory affiliate programma](https://demodernenomaden.nl/go/pictory)  
+*   **Pictory** [\> Aanmelden Pictory affiliate programma](/go/pictory)  
     Met deze AI tool kunnen contentcreators super makkelijk video editen voor meerdere media. De affiliate commissie voor dit programma is 20% en krijg je iedere maand zolang de gebruiker een abonnement heeft. Ook hierbij hoef je slechts een gratis account aan te maken om te beginnen als affiliate.
-*   **Cloud86** [\> Aanmelden Cloud86 affiliate programma](https://demodernenomaden.nl/go/cloud86)  
+*   **Cloud86** [\> Aanmelden Cloud86 affiliate programma](/go/cloud86)  
     De beste webhosting van Nederland voor een redelijke prijs. Bij Cloud86 krijg je €35,- per persoon die via jouw link webhosting aanschaft plus een percentage van de abonnementskosten. Om dit affiliate programma te promoten dien je wel jouw eigen website te hebben gehost bij Cloud86.
 
 ### Zo vind je relevante affiliate programma’s
@@ -183,17 +183,17 @@ Soms hebben ze een **verborgen** affiliate programma of vinden ze het een goed p
 *   Shopify
 *   Headspace
 
-Wil je alles weten over affiliate programma’s? [Lees dan hier over de beste affiliate programma’s die actief zijn in Nederland](https://demodernenomaden.nl/ondernemen/affiliate-programma/).
+Wil je alles weten over affiliate programma’s? [Lees dan hier over de beste affiliate programma’s die actief zijn in Nederland](/blog/ondernemen/affiliate-programma/).
 
 –
 
 Hoe relevanter, hoe meer je verdient. Staar je hierbij niet alleen blind op de commissies, ook massa is kassa! Liever een lage commissie met veel verkoop dan dat je helemaal niets verkoopt met een of ander super vaag product.
 
-> Wil je begrijpen hoe je goed geld kunt verdienen met affiliate marketing? Nicole verdient meer dan €2000,- per maand on-the-side met affiliate marketing en legt in haar cursus haarfijn uit hoe jij jezelf succesvol door affiliate land navigeert! Met de code **succesmetaffiliatemarketing10** krijg je zelfs 10% korting ;)_._ [Je vind de cursus hier >>](https://demodernenomaden.nl/go/affiliate-succes)
+> Wil je begrijpen hoe je goed geld kunt verdienen met affiliate marketing? Nicole verdient meer dan €2000,- per maand on-the-side met affiliate marketing en legt in haar cursus haarfijn uit hoe jij jezelf succesvol door affiliate land navigeert! Met de code **succesmetaffiliatemarketing10** krijg je zelfs 10% korting ;)_._ [Je vind de cursus hier >>](/go/affiliate-succes)
 
 ## **4\. Affiliate linkjes plaatsen**
 
-Wanneer je een passend affiliate programma hebt gevonden en je daarbij hebt aangesloten is het tijd om de affiliate links op je website te plaatsen of te promoten via je [Instagram](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-instagram/), [Youtube](https://demodernenomaden.nl/online-geld-verdienen/youtube/) of ander kanaal. **Verwacht niet dat je gewoon door links te plaatsen geld verdient**.
+Wanneer je een passend affiliate programma hebt gevonden en je daarbij hebt aangesloten is het tijd om de affiliate links op je website te plaatsen of te promoten via je [Instagram](/blog/online-geld-verdienen/geld-verdienen-met-instagram-2/), [Youtube](/blog/online-geld-verdienen/youtube/) of ander kanaal. **Verwacht niet dat je gewoon door links te plaatsen geld verdient**.
 
 Zorg er voor dat je het product of de dienst echt aanraad en aanprijst en wees realistisch. Ga actief aan de slag gaat met **content creatie** om zo **meer en meer bezoekers** of volgers te krijgen aan wie je de affiliate links kunt voorschotelen.
 
@@ -211,7 +211,7 @@ Statistiek helpt goed om te groeien en mag dan ook nooit onderschat worden :). E
 
 Nog veel interessanter is echter, dat deze inkomsten vaak terugkerend zijn.
 
-Zo heb ik op mijn website ‘[De Moderne Nomaden](https://demodernenomaden.nl/)‘ **maandelijks 50.000 bezoekers via Google**. Ook wanneer ik er niets aan doe, blijven deze bezoekers komen. Dat zijn dus iedere maand opnieuw inkomsten vanuit affiliate marketing. Het is daarmee een van de beste [manieren om geld te verdienen met een blog](https://demodernenomaden.nl/online-geld-verdienen/bloggen/).
+Zo heb ik op mijn website ‘[De Moderne Nomaden](/)‘ **maandelijks 50.000 bezoekers via Google**. Ook wanneer ik er niets aan doe, blijven deze bezoekers komen. Dat zijn dus iedere maand opnieuw inkomsten vanuit affiliate marketing. Het is daarmee een van de beste [manieren om geld te verdienen met een blog](/blog/online-geld-verdienen/bloggen/).
 
 > Hoeveel geld je verdient met affiliate marketing hangt heel erg af van **het soort product of dienst** je promoot.
 > 
@@ -227,7 +227,7 @@ _Om een voorbeeld te geven; iemand die op een website komt met daarop informatie
 
 –
 
-Wanneer je nog bezig bent met de [ontwikkeling van een Youtube kanaal](https://demodernenomaden.nl/go/youtube-boek), Instagram of website kan het goed zijn om stil te staan bij [welke niche](https://demodernenomaden.nl/ondernemen/blog-niches/) je kiest. **Is er wel wat waardevols te promoten bij die doelgroep?**
+Wanneer je nog bezig bent met de [ontwikkeling van een Youtube kanaal](/go/youtube-boek), Instagram of website kan het goed zijn om stil te staan bij [welke niche](/blog/ondernemen/blog-niches/) je kiest. **Is er wel wat waardevols te promoten bij die doelgroep?**
 
 ![Mick van Zadelhoff](/images/migrated/mick-van-zadelhoff-geld-verdienen-met-bloggen.webp "mick-van-zadelhoff-geld-verdienen-met-bloggen")
 
@@ -235,9 +235,9 @@ _© Micky van Zadelhoff – Affiliate Marketeer_
 
 Qua verdiensten zal ik je een indicatie geven. Zelf verdien ik gemiddeld ruim 3000,- euro per maand passief met affiliate marketing. Ik doe dit via mijn website waar ik zo’n 50.000 maandelijkse bezoekers heb. Dit aantal groeit met de dag en er is dus goede hoop dat dit bedrag verder stijgt, en vergeet niet; **het is passief**.
 
-Ik hoef er anno nu niets meer voor te doen! En omdat ik [leef als digital nomad](https://demodernenomaden.nl/digitalenomaden/digital-nomad-worden/) (ik [combineer werken en reizen](https://demodernenomaden.nl/digitalenomaden/reizen-en-werken-combineren/)) kan ik dit ook nog eens opbouwen vanaf waar dan ook ter wereld.
+Ik hoef er anno nu niets meer voor te doen! En omdat ik [leef als digital nomad](/blog/digitalenomaden/digital-nomad-worden/) (ik [combineer werken en reizen](/blog/digitalenomaden/reizen-en-werken-combineren/)) kan ik dit ook nog eens opbouwen vanaf waar dan ook ter wereld.
 
-Voor wie geld wilt verdienen met affiliate marketing is het belangrijk om te beseffen dat je niet de enige bent die dit verdienmodel gebruikt. Je doet er dus goed aan om over de juiste kennis te beschikken om zo te bouwen aan een passief inkomen. Een van plekken waar je dat kan doen is bij [deze affiliate succes cursus van Nicole](https://demodernenomaden.nl/go/affiliate-succes).
+Voor wie geld wilt verdienen met affiliate marketing is het belangrijk om te beseffen dat je niet de enige bent die dit verdienmodel gebruikt. Je doet er dus goed aan om over de juiste kennis te beschikken om zo te bouwen aan een passief inkomen. Een van plekken waar je dat kan doen is bij [deze affiliate succes cursus van Nicole](/go/affiliate-succes).
 
 ### Affiliate commissies ontvangen
 
@@ -251,9 +251,9 @@ Een voorbeeld van zo’n **affiliate dashboard** zie je hieronder.
 
 ![Affiliate dashboard inkomsten](/images/migrated/affiliate-dashboard-inkomsten-1.webp "Affiliate dashboard inkomsten")
 
-Dit voorbeeld is van mijzelf toen ik [een NFT cursus](https://demodernenomaden.nl/web3/nft-uitleg/) promootte. Inmiddels zijn die inkomsten opgedroogd, maar zoals je kunt zien leverde dit in vrij korte tijd een mooi inkomen op!
+Dit voorbeeld is van mijzelf toen ik [een NFT cursus](/blog/web3/nft-uitleg/) promootte. Inmiddels zijn die inkomsten opgedroogd, maar zoals je kunt zien leverde dit in vrij korte tijd een mooi inkomen op!
 
-Mijn affiliate programma bij crypto exchange [Bitvavo](https://demodernenomaden.nl/review/bitvavo-review-crypto/) ziet er trouwens heel anders uit en heeft veel gedetailleerde data over mijn commissies.
+Mijn affiliate programma bij crypto exchange [Bitvavo](/blog/review/bitvavo-review-crypto/) ziet er trouwens heel anders uit en heeft veel gedetailleerde data over mijn commissies.
 
 ![Bitvavo affiliate commissies](/images/migrated/bitvavo-affiliate-commissies.webp "Bitvavo affiliate commissies")
 
@@ -279,8 +279,8 @@ Ik deed dit zelf bijvoorbeeld met mijn eigen boek. Ik had dat boek in een affili
 
 Als je als bedrijf aan de slag wilt met affiliate marketing dan zijn er in Nederland eigenlijk twee platformen waar je dit eenvoudig op kunt zetten. Beiden zijn betalingsdienstverleners en regelen dus tegelijk het hele (iDEAL, Bancontact) betaalsysteem voor je.
 
-*   **Plug&Pay** ([Aanmelden](https://demodernenomaden.nl/go/plugandpay))
-*   **PayPro** ([Aanmelden](https://demodernenomaden.nl/go/paypro))
+*   **Plug&Pay** ([Aanmelden](/go/plugandpay))
+*   **PayPro** ([Aanmelden](/go/paypro))
 
 Belangrijk om rekening mee te houden als je een product als affiliate product aanbiedt, is dat de funnel werkt voor koud verkeer. Je wilt immers niet dat iemand 1000 kliks moet genereren voordat er één verkoop uit komt rollen, dan zal de blogger namelijk snel klaar zijn met jou promoten.
 
@@ -308,4 +308,4 @@ Duur: 3 uur
 Investering: 950,- ex BTW  
 Formaat: Tot 30 deelnemers
 
-[Contact voor meer info](https://demodernenomaden.nl/contact)
+[Contact voor meer info](/contact/)

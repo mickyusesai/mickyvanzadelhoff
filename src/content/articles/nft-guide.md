@@ -1,6 +1,6 @@
 ---
 title: "De meest complete NFT guide op het internet"
-description: ""
+description: "Misschien vraag je je wat dingen af over NFTs. Zoals waarom bijvoorbeeld Jack Dorsey, oprichter Twitter, een plaatje van een tweet kon verkopen voor…"
 date: 2022-05-30
 updated: 2023-01-02
 category: "web3"
@@ -62,7 +62,7 @@ Ja prima, maar waarom hebben we dat precies nodig?
 
 Nou, dat is een van de antwoorden, maar NFTs zijn een stuk revolutionairder dan de eurotekens in je ogen. Deze nieuwe ontwikkeling binnen de tech maakt het mogelijk om herkomst, eigenaarschap en authenticiteit vast te leggen.
 
-Zo zien we nu digitale kunstenaars die eigenaarschap over hun werk opeisen via NFTs, zien we al vastgoed (virtueel, maar ook fysiek) verhandeld worden als NFT en leggen de eerste miljoenen mensen hun ([Web3](https://demodernenomaden.nl/web3/web-3-decentralisatie/)) domeinnaam vast als NFT.
+Zo zien we nu digitale kunstenaars die eigenaarschap over hun werk opeisen via NFTs, zien we al vastgoed (virtueel, maar ook fysiek) verhandeld worden als NFT en leggen de eerste miljoenen mensen hun ([Web3](/blog/web3/web-3-decentralisatie/)) domeinnaam vast als NFT.
 
 Naast bezit, kan dat sexy stukje code meer! Het kan ook gebruikt worden als toegangsbewijs voor een festival (of [Jochem Meyer…](https://decrypt.co/4928/how-comedy-artist-jochem-myjer-beats-ticket-touts-with-guts-ticketing-blockchain)), jouw huurcontract of zelfs jouw stempas. Eigenlijk alles wat je juridisch vast kunt leggen.
 
@@ -204,7 +204,7 @@ Punkrockers zijn leuk. Ten minste, vind ik. Toch zijn er dingen die mensen nog v
 
 > **Kattenfilmpjes natuurlijk.**
 
-Straks is het niet alleen YouTube, maar zal zelfs [de massa-adoptie van Web3](https://demodernenomaden.nl/web3/web-3-decentralisatie/) te danken zijn aan deze wonderlijke beestjes. **Het tweede (grote) NFT experiment dat draaide in 2017 was CryptoKitties.**
+Straks is het niet alleen YouTube, maar zal zelfs [de massa-adoptie van Web3](/blog/web3/web-3-decentralisatie/) te danken zijn aan deze wonderlijke beestjes. **Het tweede (grote) NFT experiment dat draaide in 2017 was CryptoKitties.**
 
 Deze collectie van digitale katten werd door Dapper Labs uitgebracht als online game. In de game kun je niet vechten met katten, kun je geen avonturen aangaan of welke cognitieve uitdaging dan ook. **Je kunt maar één ding: katten fokken.**
 
@@ -284,7 +284,7 @@ Binnen een paar stappen kun je zelf aan de slag. Je moet…
 2.  [**Je digitale portemonnee vullen**](#crypto-wallet)
 3.  **[NFTs cureren](#curatie)**
 
-_Wat je moet weten voor we beginnen: [het flippen van NFTs](https://demodernenomaden.nl/web3/nft-project-research-onderzoeken-flippen/) is nooit zonder risico. Je kunt een keer investeren in het verkeerde project. Misschien zelfs een scam. Maar durf jij het aan, ben je bereidt wat geld te investeren en te leren gedurende de weg? Dan kunnen we flinke stappen maken naar een inkomen waar jij wel graag je bed voor uitkomt._
+_Wat je moet weten voor we beginnen: [het flippen van NFTs](/blog/web3/nft-project-research-onderzoeken-flippen/) is nooit zonder risico. Je kunt een keer investeren in het verkeerde project. Misschien zelfs een scam. Maar durf jij het aan, ben je bereidt wat geld te investeren en te leren gedurende de weg? Dan kunnen we flinke stappen maken naar een inkomen waar jij wel graag je bed voor uitkomt._
 
 ![Seel me this pen NFT wolf of wallstreet](/images/migrated/sell-me-this-pen-nft-wolf-of-wallstreet.webp "Seel me this pen NFT wolf of wallstreet")
 
@@ -541,7 +541,7 @@ Time to…
 
 ![HODL NFTs](/images/migrated/hodl-nfts.webp "HODL NFTs")
 
-**Or flip that damn NFT…** ([lees hier meer over geld verdienen met NFTs](https://demodernenomaden.nl/web3/nft-uitleg/))
+**Or flip that damn NFT…** ([lees hier meer over geld verdienen met NFTs](/blog/web3/nft-uitleg/))
 
 ![NFTs flippen](/images/migrated/nfts-flippen.webp "NFTs flippen")
 
@@ -561,7 +561,7 @@ Time to…
 
 **Of zoek je een vorm van acces cards voor je eigen exclusive members club.**
 
-Nogmaals, er is zo veel mogelijk ([check ook zeker alle ideeën om als bedrijf NFTs in te zetten](https://demodernenomaden.nl/web3/nft-ideeen-bedrijf/)). Ook wordt het maken van NFTs steeds makkelijker. Je kunt op de meeste NFT marktplaatsen, zoals OpenSea en Rarible, automatisch een smart contract genereren voor je werk. Dat proces is niet veel moeilijker dan het uploaden van een YouTube video.
+Nogmaals, er is zo veel mogelijk ([check ook zeker alle ideeën om als bedrijf NFTs in te zetten](/blog/web3/nft-ideeen-bedrijf/)). Ook wordt het maken van NFTs steeds makkelijker. Je kunt op de meeste NFT marktplaatsen, zoals OpenSea en Rarible, automatisch een smart contract genereren voor je werk. Dat proces is niet veel moeilijker dan het uploaden van een YouTube video.
 
 Er zijn alleen een paar dingen waar we over na zullen moeten denken. Je moet straks namelijk:
 

@@ -1,6 +1,6 @@
 ---
 title: "Jezelf nuttig voelen, ook op reis"
-description: ""
+description: "Ik wil het hebben over het zinvol maken van een leven als digital nomad. Bij lang reizen kan het allemaal weleens zinloos gaan voelen. Hier een blog…"
 date: 2017-11-01
 updated: 2021-01-23
 category: "tips"
@@ -10,7 +10,7 @@ draft: false
 featuredImage: "/images/migrated/mick-van-zadelhoff-in-macedonie-1-e1524324071633.webp"
 ---
 
-Ik wil het hebben over het zinvol maken van een [leven als digital nomad](https://demodernenomaden.nl/digitalenomaden/digital-nomad-worden/). Bij lang reizen kan het allemaal weleens zinloos gaan voelen. Hier een blog over hoe je daar dan toch **zin aan geeft**.
+Ik wil het hebben over het zinvol maken van een [leven als digital nomad](/blog/digitalenomaden/digital-nomad-worden/). Bij lang reizen kan het allemaal weleens zinloos gaan voelen. Hier een blog over hoe je daar dan toch **zin aan geeft**.
 
 ## **Wat ik leerde van mijn oma van bijna 80**
 
@@ -22,7 +22,7 @@ Haar **actieve houding** heeft als gevolg gehad dat ze zich in en na deze period
 
 ## **Zingeving op reis**
 
-Bij het [reizen als digital nomad](https://demodernenomaden.nl/digitalenomaden/digital-nomad-worden/) en onderweg zijn is dat niet heel anders. Natuurlijk zou ik [wanneer ik alleen reis](https://demodernenomaden.nl/tips/alleen-reizen-wereld-voordelen-en-nadelen/) maandenlang in een vijf-sterren resort kunnen zitten, maar ik weet nu al dat dat me niet gelukkig zou maken. Ik zou me namelijk totaal **onnuttig voelen en egoïstisch**.
+Bij het [reizen als digital nomad](/blog/digitalenomaden/digital-nomad-worden/) en onderweg zijn is dat niet heel anders. Natuurlijk zou ik [wanneer ik alleen reis](/blog/tips/alleen-reizen-wereld-voordelen-en-nadelen/) maandenlang in een vijf-sterren resort kunnen zitten, maar ik weet nu al dat dat me niet gelukkig zou maken. Ik zou me namelijk totaal **onnuttig voelen en egoïstisch**.
 
 Vandaar dat ik mij besef dat een aantal dingen in mijn reis essentieel zijn om het leuk te kunnen vinden en er mijn geluk uit te halen. Dingen zoals het inspireren van anderen, het geven van een lift, het delen van ervaringen, het helpen van mensen op straat en het bieden van een luisterend oor.
 
@@ -36,4 +36,4 @@ Kortom; egoïsme maakt ongelukkig. Geven en delen geeft je daarin tegen geluk. _
 
 Daarom hoop ik met het delen van mijn ervaringen wat bij te dragen. Wil je daarbij een leuk gratis cadeautje ontvangen?
 
-**[Download dan nu gratis mijn boek over het leven als digital nomad.](https://demodernenomaden.nl/verhalen-en-lessen-uit-een-vrij-leven-digital-nomad/)**
+**[Download dan nu gratis mijn boek over het leven als digital nomad.](/boek/)**

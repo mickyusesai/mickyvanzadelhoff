@@ -1,6 +1,6 @@
 ---
 title: "Geld verdienen met Facebook groep, pagina of ads"
-description: ""
+description: "Het platform zelf mag dan langzamer groeien dan enkele jaren geleden, het heeft nog steeds 2,9 miljard maandelijks actieve gebruikers en daarmee een…"
 date: 2018-04-22
 updated: 2022-12-19
 category: "online-geld-verdienen"
@@ -14,11 +14,11 @@ featuredImage: "/images/migrated/geld-verdienen-met-facebook-groep-pagina-ads-1.
 
 Het platform zelf mag dan langzamer groeien dan enkele jaren geleden, het heeft nog steeds **2,9 miljard maandelijks actieve** gebruikers en daarmee een gigantisch potentieel. Tevens is het ook de eigenaar van het nog altijd populaire **Instagram** en **Whatsapp**.
 
-Met zoveel gebruikers zijn er altijd mogelijkheden om wat online inkomen uit Facebook te halen. Maar dit is vaak wel een plek die veel mensen erg onderschatten. Ik krijg regelmatig e-mails van mini accounts (minder dan 1.000 volgers/likes) die hun social media following willen **monetizen**. Daar zul je niet veel uithalen omdat je dan simpelweg een ‘[micro influencer](https://demodernenomaden.nl/online-geld-verdienen/influencer-worden/)‘ bent.
+Met zoveel gebruikers zijn er altijd mogelijkheden om wat online inkomen uit Facebook te halen. Maar dit is vaak wel een plek die veel mensen erg onderschatten. Ik krijg regelmatig e-mails van mini accounts (minder dan 1.000 volgers/likes) die hun social media following willen **monetizen**. Daar zul je niet veel uithalen omdat je dan simpelweg een ‘[micro influencer](/blog/online-geld-verdienen/influencer-worden/)‘ bent.
 
 ## Het potentieel om geld te verdienen met Facebook
 
-Daarbij is er bij Facebook, dat tegenwoordig Meta heet, ook een nieuwe ontwikkeling gaande, namelijk [de Metaverse](https://demodernenomaden.nl/web3/geld-verdienen-metaverse/). Dit is simpel gezegd een virtuele wereld waar mensen elkaar kunnen ontmoeten in 3D.
+Daarbij is er bij Facebook, dat tegenwoordig Meta heet, ook een nieuwe ontwikkeling gaande, namelijk [de Metaverse](/blog/web3/geld-verdienen-metaverse/). Dit is simpel gezegd een virtuele wereld waar mensen elkaar kunnen ontmoeten in 3D.
 
 ![Meta apps Facebook, messenger, instagram, whatsapp en oculus](/images/migrated/meta-apps-facebook-messenger-instagram-whatsapp-oculus-1.webp "Meta apps Facebook, messenger, instagram, whatsapp en oculus")
 
@@ -36,7 +36,7 @@ Denk bijvoorbeeld aan een pagina op Facebook waar je allemaal grappige memes teg
 
 Voor gesponsorde content in de vorm van **een plaatje, filmpje of tekst** met daarbij een link naar het product of de dienst van een bedrijf, wordt geld betaald. Afhankelijk van de betrokkenheid van jouw doelgroep en de grootte ervan kun je meer of minder geld verdienen. Om je een indicatie te geven, **voor een gesponsorde post op een Facebook pagina met 10.000 likes zal een bedrijf zo’n 100,- euro neerleggen**.
 
-Wanneer je een goed lopende Facebook pagina hebt zullen veel bedrijven je waarschijnlijk als vanzelf benaderen. Maar het kan ook nooit kwaad om zelf naar relevante bedrijven toe te stappen met jouw aanbod voor promotie. Dit kun je dan doen door ze een mailtje te sturen (een template daarvoor vind je [hier](https://demodernenomaden.nl/ondernemen/acquisitie-mail-voorbeeld1/)).
+Wanneer je een goed lopende Facebook pagina hebt zullen veel bedrijven je waarschijnlijk als vanzelf benaderen. Maar het kan ook nooit kwaad om zelf naar relevante bedrijven toe te stappen met jouw aanbod voor promotie. Dit kun je dan doen door ze een mailtje te sturen (een template daarvoor vind je [hier](/blog/ondernemen/acquisitie-mail-voorbeeld1/)).
 
 Veel bedrijven **zijn geïnteresseerd in deze vorm van adverteren** omdat het vrij natuurlijk overkomt als jij iets over hen plaats. Liever dat dan een overduidelijke advertentie.
 
@@ -71,7 +71,7 @@ Merk je **dat jouw posts een slecht bereik hebben**, terwijl je wel veel volgers
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
 
@@ -103,23 +103,23 @@ Het is al vaak gebeurt dat iemand contact met mij op nam die als uit de hand gel
 
 Daar zijn meerdere antwoorden op, maar één idee dat toch vaak het proberen waard is, is om een eigen webshop te starten. Geen zorgen. Niet super moeilijk, maar op een eenvoudige manier.
 
-Zo kun je bijvoorbeeld [met Shopify een webshop maken](https://demodernenomaden.nl/go/shopify) waar je direct producten van anderen kunt verkopen.
+Zo kun je bijvoorbeeld [met Shopify een webshop maken](/go/shopify) waar je direct producten van anderen kunt verkopen.
 
-[![Shopify webshop maken](/images/migrated/shopify-webshop-maken-1.webp)](https://demodernenomaden.nl/go/shopify)
+[![Shopify webshop maken](/images/migrated/shopify-webshop-maken-1.webp)](/go/shopify)
 
 Ook kun je daar met **print-on-demand** t-shirts, mokken en sokken (enz. enz.) laten bedrukken met jouw logo of een slogan erop. Zo is er vast wel iets dat aansluit bij de doelgroep van jouw Facebook groep.
 
-Het mooiste van dit alles; **de opstartkosten zijn laag**. Je kunt met de knop hieronder een account aanmaken op Shopify en hebt binnen no-time jouw webshop online welke je dan in jouw Facebook groep kunt promoten. Zo heb je eenvoudig [jouw eigen business gestart](https://demodernenomaden.nl/ondernemen/eigen-bedrijf-starten/)!
+Het mooiste van dit alles; **de opstartkosten zijn laag**. Je kunt met de knop hieronder een account aanmaken op Shopify en hebt binnen no-time jouw webshop online welke je dan in jouw Facebook groep kunt promoten. Zo heb je eenvoudig [jouw eigen business gestart](/blog/ondernemen/eigen-bedrijf-starten/)!
 
-[Maak een webshop met Shopify](https://demodernenomaden.nl/go/shopify)
+[Maak een webshop met Shopify](/go/shopify)
 
 ## 3\. Geld verdienen met affiliate marketing
 
 Bedrijven benaderen voor gesponsorde posts of zelf een webshop opzetten is voor veel mensen simpelweg te veel werk. Daarom is het goed om te weten dat er ook een andere manier is waar je al direct mee aan de slag kunt; **affiliate marketing**.
 
-Zelf pas ik [affiliate marketing](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) toe op mijn eigen website [demodernenomaden.nl](https://demodernenomaden.nl), dit levert me maandelijks een volledig [passief inkomen](https://demodernenomaden.nl/online-geld-verdienen/passief-inkomen-genereren/) op. Het principe daarvan is eenvoudig. Ik plaats affiliate links op mijn website naar producten en diensten van bedrijven. Wanneer iemand na het klikken op zo’n link besluit zo’n product te kopen, krijg ik daar als bedankje **een commissie** voor.
+Zelf pas ik [affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) toe op mijn eigen website [demodernenomaden.nl](/), dit levert me maandelijks een volledig [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/) op. Het principe daarvan is eenvoudig. Ik plaats affiliate links op mijn website naar producten en diensten van bedrijven. Wanneer iemand na het klikken op zo’n link besluit zo’n product te kopen, krijg ik daar als bedankje **een commissie** voor.
 
-Om hiermee aan de slag te gaan moet je jezelf aansluiten bij [een affiliate programma](https://demodernenomaden.nl/ondernemen/affiliate-programma/) zodat je een aan jou unieke link kunt krijgen. Deze **affiliate link** plaatst, wanneer iemand daarop klikt, een cookie in de browser. Hierdoor wordt geregistreerd dat jij die persoon het product of de dienst hebt aangeraden.
+Om hiermee aan de slag te gaan moet je jezelf aansluiten bij [een affiliate programma](/blog/ondernemen/affiliate-programma/) zodat je een aan jou unieke link kunt krijgen. Deze **affiliate link** plaatst, wanneer iemand daarop klikt, een cookie in de browser. Hierdoor wordt geregistreerd dat jij die persoon het product of de dienst hebt aangeraden.
 
 ![](/images/migrated/affiliate-marketing-infographic.webp "affiliate-marketing-infographic")
 
@@ -135,9 +135,9 @@ Promoot je liever fysieke producten dan zijn de commissies vaak niet hoger dan 1
 
 Op Facebook moet je een beetje **uitkijken met het plaatsen van affiliate links** in een groep of op een pagina. Het kan namelijk zijn dat deze posts dan niet goed worden verspreid. Soms kun je er beter voor kiezen om **één stap toe te voegen** aan het affiliate proces. Doe dit door vanuit Facebook te linken naar een pagina waarop de affiliate link (of meerdere links) staat.
 
-Als je direct goed **aan slag wil met affiliate marketing** dan raad ik je graag [deze goedkope starterscursus](https://demodernenomaden.nl/go/affiliate-marketing-revolutie) aan. Daar heb ik zelf veel uit geleerd en het maakt dat ik nu een ruim online inkomen met affiliate marketing verdien!
+Als je direct goed **aan slag wil met affiliate marketing** dan raad ik je graag [deze goedkope starterscursus](/go/affiliate-marketing-revolutie) aan. Daar heb ik zelf veel uit geleerd en het maakt dat ik nu een ruim online inkomen met affiliate marketing verdien!
 
-[**Leren hoe je geld verdient met affiliate marketing? Deze cursus legt het haarfijn uit!**](https://demodernenomaden.nl/go/affiliate-marketing-revolutie)
+[**Leren hoe je geld verdient met affiliate marketing? Deze cursus legt het haarfijn uit!**](/go/affiliate-marketing-revolutie)
 
 ## 4\. Facebook advertenties voor bedrijven
 
@@ -147,7 +147,7 @@ Zo zet ik zelf wel eens advertenties in dit letterlijk duizenden euro’s binnen
 
 Het maken van goede Facebook advertenties vereist wat oefening. Je zult zien dat hoe vaker je het doet, hoe beter je erin wordt en hoe hoger de conversie is die je behaalt per geïnvesteerde euro. Dan ben jij als tussenpersoon dus ook weer meer waard.
 
-Het advertentie systeem van Facebook werkt ook automatisch samen met die van Instagram waardoor je gemakkelijk **op beide platformen kunt adverteren** voor een bedrijf. Maar om dat te doen zul je natuurlijk wel eerst de bedrijven moeten vinden die jou daarvoor willen betalen. Gelukkig is dat niet zo moeilijk. Je kunt dit gemakkelijk doen door hen [aan te schrijven per e-mail](https://demodernenomaden.nl/ondernemen/acquisitie-mail-voorbeeld1/). Dat is voor mij zelf ook de manier om aan klanten te komen in dit vakgebied en dat werkt erg goed :).
+Het advertentie systeem van Facebook werkt ook automatisch samen met die van Instagram waardoor je gemakkelijk **op beide platformen kunt adverteren** voor een bedrijf. Maar om dat te doen zul je natuurlijk wel eerst de bedrijven moeten vinden die jou daarvoor willen betalen. Gelukkig is dat niet zo moeilijk. Je kunt dit gemakkelijk doen door hen [aan te schrijven per e-mail](/blog/ondernemen/acquisitie-mail-voorbeeld1/). Dat is voor mij zelf ook de manier om aan klanten te komen in dit vakgebied en dat werkt erg goed :).
 
 ![Facebook ads opzetten voor bedrijven](/images/migrated/facebook-ads-1.webp "Facebook ads opzetten voor bedrijven")
 
@@ -161,7 +161,7 @@ Vanwege de concurrentie die in dit werkveld ontstaan is zijn er nu ook veel part
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
 
@@ -175,7 +175,7 @@ Zeker een bedrijf met een iets minder marketing gerichte eigenaar snapt vaak tot
 
 Omdat bedrijven hier zelf vaak slecht in zijn ligt hier voor jou een kans **als social media manager**. Kijk daarom eens of er bedrijven zijn voor wie jij een goede Facebook strategie kunt uitrollen.
 
-Bedrijven besteden dit het liefst uit aan jongere mensen die meer affiniteit hebben met het medium. **Zij begrijpen dit immers beter**. Het vinden van die bedrijven is vaak ook een kwestie van [mailen](https://demodernenomaden.nl/ondernemen/acquisitie-mail-voorbeeld/) of even kijken in jouw netwerk of omgeving voor wie dit interessant is.
+Bedrijven besteden dit het liefst uit aan jongere mensen die meer affiniteit hebben met het medium. **Zij begrijpen dit immers beter**. Het vinden van die bedrijven is vaak ook een kwestie van [mailen](/blog/ondernemen/acquisitie-mail-voorbeeld1/) of even kijken in jouw netwerk of omgeving voor wie dit interessant is.
 
 ![Facebook management voor bedrijven](/images/migrated/facebook-management-1.webp "Facebook management voor bedrijven")
 
@@ -189,9 +189,9 @@ Maar dat iets nu niet lukt, wil zeker niet zeggen dat het straks niet kan!
 
 Zoals ik al eerder zei in dit artikel worden posts op een Facebook pagina steeds minder breed getoond. Omdat die slinkende doelgroep niet bijdraagt aan meer opbrengsten is het goed om te zoeken naar alternatieven om die bij jouw Facebook pagina te betrekken.
 
-Denk hierbij aan [het opbouwen van een mailinglijst](https://demodernenomaden.nl/ondernemen/leads-genereren-mailinglijst/) met een programma als [Enormail](https://demodernenomaden.nl/go/enormail) vanuit jouw Facebook volgers.
+Denk hierbij aan [het opbouwen van een mailinglijst](/blog/ondernemen/leads-genereren-mailinglijst/) met een programma als [Enormail](/go/enormail) vanuit jouw Facebook volgers.
 
-Om een voorbeeld te noemen. Geef jouw Facebook volgers in ruil voor hun e-mail adres een kleinigheidje zoals [een eigen e-book](https://demodernenomaden.nl/online-geld-verdienen/e-book/). Op die manier kun je hen voortaan mailen en alsnog bereiken. Zo koppel je jezelf los van het algoritme van Facebook en **kun je met een gerust hart bouwen aan jouw verdienmodellen**.
+Om een voorbeeld te noemen. Geef jouw Facebook volgers in ruil voor hun e-mail adres een kleinigheidje zoals [een eigen e-book](/blog/online-geld-verdienen/e-book/). Op die manier kun je hen voortaan mailen en alsnog bereiken. Zo koppel je jezelf los van het algoritme van Facebook en **kun je met een gerust hart bouwen aan jouw verdienmodellen**.
 
 Succes met Facebook!
 
@@ -201,6 +201,6 @@ Succes met Facebook!
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

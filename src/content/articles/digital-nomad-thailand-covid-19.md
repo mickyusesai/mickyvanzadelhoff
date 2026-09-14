@@ -1,6 +1,6 @@
 ---
 title: "Als digital nomad vast in Thailand door Covid-19"
-description: ""
+description: "Het was een pittige beslissing die ik op 20 maart moest maken. Ik zat op dat moment in St. Petersburg. Daar was ik toen al twee weken aan het rond…"
 date: 2020-04-04
 updated: 2020-05-05
 category: "tips"
@@ -28,4 +28,4 @@ Dagelijks bel ik even met iemand uit Nederland. Telkens iemand anders. Gewoon om
 
 We gaan zien hoe het zich allemaal gaat ontwikkelen.
 
-[GRATIS Digital Nomad Boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[GRATIS Digital Nomad Boek](/boek/)

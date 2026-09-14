@@ -1,6 +1,6 @@
 ---
 title: "Ervaring op de fiets door Turkije"
-description: ""
+description: "Zo reizend op de fiets door Turkije kan ik het niet meer bijhouden. Hoe vaak hier de vraag aan mij word gesteld door Turkse mensen, wat ze moeten doen…"
 date: 2019-05-20
 updated: 2020-11-01
 category: "tips"
@@ -14,7 +14,7 @@ Zo [reizend op de fiets door Turkije](https://youtube.com/journeyofconnection) k
 
 ## **Turkse mensen denken dat het in Nederland beter is**
 
-Mensen lijken eigenlijk altijd te denken dat het ergens anders beter is. Kijk naar de gemiddelde [Nederlandse digital nomad](https://demodernenomaden.nl/digitalenomaden/digital-nomad-banen/), die is het liefst zo lang mogelijk ver van huis. Het liefst op een zonnige plek met paradijselijke stranden. Iets zoals de Turkse zuidkust zou je bijna zeggen… Dus waarom willen al die Turkse mensen dan zo graag naar Nederland?
+Mensen lijken eigenlijk altijd te denken dat het ergens anders beter is. Kijk naar de gemiddelde [Nederlandse digital nomad](/blog/digitalenomaden/digital-nomad-banen/), die is het liefst zo lang mogelijk ver van huis. Het liefst op een zonnige plek met paradijselijke stranden. Iets zoals de Turkse zuidkust zou je bijna zeggen… Dus waarom willen al die Turkse mensen dan zo graag naar Nederland?
 
 Het zal je niet verbazen dat daar economische redenen voor zijn. Eigenlijk zijn dat ook de enige redenen die ik heb gehoord. En begrijpelijk, maar daarmee wordt er alleen maar ingezoomd op wat Nederland wel heeft en niet op wat Nederland niet heeft ten opzichte van Turkije. Vaak raad ik deze Turkse mensen dan ook aan om dat plan nog eens goed te overwegen. De cultuur is namelijk anders en dat kan een Turks iemand heel goed niet bevallen.
 

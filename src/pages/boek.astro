@@ -1,0 +1,17 @@
+---
+import { getEntry, render } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+
+const page = await getEntry('pages', 'digital-nomad-boek');
+if (!page) throw new Error('src/content/pages/digital-nomad-boek.md is missing');
+const { Content } = await render(page);
+---
+<Layout title="Gratis boek: Digital nomad" description={page.data.description ?? ''} image="/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp">
+  <article class="mx-auto max-w-3xl px-5 py-12">
+    <p class="text-sm font-semibold uppercase tracking-wide text-accent">Gratis download</p>
+    <h1 class="mt-2 text-4xl font-bold tracking-tight">{page.data.title}</h1>
+    <div class="prose prose-lg mt-8 max-w-none prose-headings:tracking-tight prose-a:text-accent prose-img:rounded-lg prose-blockquote:border-accent">
+      <Content />
+    </div>
+  </article>
+</Layout>

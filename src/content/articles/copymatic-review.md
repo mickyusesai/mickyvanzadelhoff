@@ -1,6 +1,6 @@
 ---
 title: "Copymatic review – Is dit de beste AI tool om blogs te schrijven?"
-description: ""
+description: "Copymatic is een tool op basis van kunstmatige intelligentie (AI) die jou helpt met het schrijven van blogs, social media posts, SEO titels…"
 date: 2023-01-18
 updated: 2023-01-19
 category: "review"
@@ -12,7 +12,7 @@ featuredImage: "/images/migrated/copymatic-review-ai-copywriting-1.webp"
 
 **Copywriting** doe je niet zomaar even. Het aantal keren dat ik dagenlang aan een artikel heb zitten werken, zijn niet meer op één hand te tellen. Dus wat nou als daar een oplossing voor was… Een tool die je kan helpen om **snel en eenvoudig unieke artikelen te schrijven**?
 
-Dan hebben we het over [**Copymatic**](https://demodernenomaden.nl/go/copymatic).
+Dan hebben we het over [**Copymatic**](/go/copymatic).
 
 Copymatic is een tool op basis van **kunstmatige intelligentie (AI)** die jou helpt met het schrijven van **blogs, social media posts, SEO titels, persberichten** en alles wat verder onder het begrip ‘content’ valt. Super handig! Maar zeker niet de enige AI copywriting tool op de markt.
 
@@ -61,7 +61,7 @@ Copymatic voelt voor mij een beetje als een **virtual assistent**! Er zijn immer
 
 Deze lijst kan nog wel even doorgaan, de mogelijkheden van Copymatic zijn vrij eindeloos en omvatten zo ongeveer alles dat met **het schrijven of creëren van content** te maken heeft.
 
-[Gratis beginnen met Copymatic](https://demodernenomaden.nl/go/copymatic)
+[Gratis beginnen met Copymatic](/go/copymatic)
 
 ## Voor- en nadelen Copymatic
 
@@ -127,7 +127,7 @@ Die **WordPress plugin** is waanzinnig interessant en niet iets dat ik bij veel 
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
 
@@ -135,9 +135,9 @@ Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige
 
 Vanwege de eenvoudige interface is het gebruiken van Copymatic echt een piece of cake. Gelukkig maar, want dat is natuurlijk ook precies waar deze AI voor is bedoelt.
 
-Om te beginnen met Copymatic heb je allereerst een account nodig. Deze kun je eenvoudig aanmaken via [deze link](https://demodernenomaden.nl/go/copymatic).
+Om te beginnen met Copymatic heb je allereerst een account nodig. Deze kun je eenvoudig aanmaken via [deze link](/go/copymatic).
 
-[Gratis beginnen met Copymatic](https://demodernenomaden.nl/go/copymatic)
+[Gratis beginnen met Copymatic](/go/copymatic)
 
 Een account aanmaken kost je niks en daarbij krijg je al direct **jouw eerste 1500 woorden gratis**. Zo kun je Copymatic voor jezelf even kosteloos uitproberen.
 
@@ -170,13 +170,13 @@ Hoeveel het abonnement van Copymatic kost hangt af van **hoe intensief je van pl
 
 ![Copymatic prijzen](/images/migrated/Copymatic-prijzen-woorden-1.webp "Copymatic prijzen")
 
-De eerste 1500 woorden krijg je gratis, dus [uitproberen](https://demodernenomaden.nl/go/copymatic) kan altijd! Daarna is de goedkoopste mogelijkheid om gebruik te maken van Copymatic zo’n **6$ per maand**. Daarvoor krijg je al direct **15.000 woorden** per maand!
+De eerste 1500 woorden krijg je gratis, dus [uitproberen](/go/copymatic) kan altijd! Daarna is de goedkoopste mogelijkheid om gebruik te maken van Copymatic zo’n **6$ per maand**. Daarvoor krijg je al direct **15.000 woorden** per maand!
 
 Toch zal de gemiddelde gebruiker net **iets meer woorden** willen hebben van zijn nieuwe AI vriend ;). Met **50.000 woorden** ben je dan al goed op weg. Dit kost je zo’n **19$ per maand**.
 
 Ter vergelijking, bij een soortgelijke tool (zoals Jasper AI) ben je minimaal 50$ kwijt voor hetzelfde aantal functies en woorden.
 
-[Gratis beginnen met Copymatic](https://demodernenomaden.nl/go/copymatic)
+[Gratis beginnen met Copymatic](/go/copymatic)
 
 ## Conclusie Copymatic review
 
@@ -184,7 +184,7 @@ Voor wie aan de slag wil met een AI copywriting tool voor het schrijven van soci
 
 Aan de slag gaan met kunstmatige intelligentie kan een **game changer** zijn voor veel bedrijven. Het kan letterlijk duizenden uren aan werk besparen en dat hebben vele gebruikers van Copymatic al aan den lijve mogen ondervinden.
 
-[**Ga nu gratis aan de slag met Copymatic en krijg jouw eerste 1500 woorden gratis. Probeer het uit >>**](https://demodernenomaden.nl/go/copymatic)
+[**Ga nu gratis aan de slag met Copymatic en krijg jouw eerste 1500 woorden gratis. Probeer het uit >>**](/go/copymatic)
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -192,6 +192,6 @@ Aan de slag gaan met kunstmatige intelligentie kan een **game changer** zijn voo
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

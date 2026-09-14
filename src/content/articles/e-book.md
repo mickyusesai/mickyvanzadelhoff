@@ -1,6 +1,6 @@
 ---
 title: "Geld verdienen met een E-book, zo doe je dat!"
-description: ""
+description: "Voor als je er wel eens over hebt nagedacht om schrijver te worden, zonder al het gedoe van een boekpublicatie, is dit jouw manier. Het is een manier…"
 date: 2018-04-22
 updated: 2022-12-19
 category: "online-geld-verdienen"
@@ -24,7 +24,7 @@ Wie gaat jouw E-book straks lezen? Dit zou een vraag moeten zijn waar je al voor
 
 Daarbij geldt hoe specifieker die doelgroep is, hoe makkelijker het achteraf is om hen te bereiken. Zeggen dat iedereen jouw doelgroep is klinkt leuk, maar gaat je niet helpen. Dus stel dat je een boek wilt schrijven over gelukkig worden. Dan heb je waarschijnlijk veel concurrentie. Het is dus slimmer om je verder te specificeren. Noem je boek bijvoorbeeld ‘**Gelukkig Worden Met Meditatie Voor Beginners**‘. Op deze manier wordt je doelgroep kleiner, maar ben je wel al super gericht en is de kans dat de doelgroep jouw boek vindt groter.
 
-Mocht je je nou afvragen of jouw onderwerp goed is, of je bent simpelweg op zoek naar inspiratie, dan heb ik een interessant artikel voor je met daarin [101 blog niches](https://demodernenomaden.nl/ondernemen/blog-niches/). Geheid dat je daar ook iets specifieks voor jouw E-book vind.
+Mocht je je nou afvragen of jouw onderwerp goed is, of je bent simpelweg op zoek naar inspiratie, dan heb ik een interessant artikel voor je met daarin [101 blog niches](/blog/ondernemen/blog-niches/). Geheid dat je daar ook iets specifieks voor jouw E-book vind.
 
 ## 2\. De lengte van je E-book (schrijven)
 
@@ -34,15 +34,15 @@ Diepgang is goed, maar je wilt er ook geen jaren mee bezig zijn lijkt me. Zorg e
 
 Een goede richtlijn om aan te houden bij het schrijven van een E-book is **tussen de 10.000 en 15.000 woorden**. Dat houdt het leesbaar en maakt het voor jou mogelijk om te schrijven.
 
-> “Zelf schreef ik ook [een E-book](https://demodernenomaden.nl/startersgids/). Deze heeft 20.000 woorden en is dus best wel een werk geworden. Afhankelijk van waar je over schrijft kan het boek dus zeker langer en korter zijn. Mijn eigen E-book gaat over online geld verdienen en gezien dat onderwerp niet in een notendop is samen te vatten is die dus wat langer.
+> “Zelf schreef ik ook een E-book. Deze heeft 20.000 woorden en is dus best wel een werk geworden. Afhankelijk van waar je over schrijft kan het boek dus zeker langer en korter zijn. Mijn eigen E-book gaat over online geld verdienen en gezien dat onderwerp niet in een notendop is samen te vatten is die dus wat langer.
 
 ### Schrijven E-book uitbesteden (ghostwriter)
 
-Het kan natuurlijk ook dat je helemaal geen zin hebt om jouw eigen E-book te schrijven. In dat geval kun je dit ook uitbesteden aan een zogenoemde [ghostwriter](https://demodernenomaden.nl/go/fiverr-ghostwriter-ebook). Dit is iemand die vanuit jouw naam een E-book schrijft dat jij vervolgens kunt publiceren.
+Het kan natuurlijk ook dat je helemaal geen zin hebt om jouw eigen E-book te schrijven. In dat geval kun je dit ook uitbesteden aan een zogenoemde [ghostwriter](/go/fiverr-ghostwriter-ebook). Dit is iemand die vanuit jouw naam een E-book schrijft dat jij vervolgens kunt publiceren.
 
 Veelal betaal je daar zo’n 10 cent per woord voor, afhankelijk van het onderwerp. De reden om dit uit te besteden kan zijn dat je wél een mooie plek hebt om het E-book aan te bieden, maar simpelweg niet de tijd om deze zelf te schrijven.
 
-Als ik zelf naar een ghostwriter zoek, **dan doe ik dat op [Fiverr](https://demodernenomaden.nl/go/fiverr)**. Daar vind je enorm veel ghostwriters inclusief enkelen die voor de Nederlandstalige markt E-books schrijven. Vanaf slechts een paar tientjes heb je al een eigen E-book!
+Als ik zelf naar een ghostwriter zoek, **dan doe ik dat op [Fiverr](/go/fiverr)**. Daar vind je enorm veel ghostwriters inclusief enkelen die voor de Nederlandstalige markt E-books schrijven. Vanaf slechts een paar tientjes heb je al een eigen E-book!
 
 ## 3\. Het design van je e-book
 
@@ -54,7 +54,7 @@ Dit gaat voor een groot deel je succes bepalen. Zorg er in ieder geval voor dat 
 
 **De voorkant moet echt representatief zijn** voor wat er in je boek staat. Gaat je boek bijvoorbeeld over het verhandelen van aandelen, noem het dan “Geld verdienen met opties”. De bedoeling van het boek is zo direct duidelijk.
 
-Ben je slecht in design? Dan kun je dit [uitbesteden via Fiverr](https://demodernenomaden.nl/go/fiverr-ebook-design). Daar helpen ze je ook direct om er zo’n mooie mockup bij te maken zoals op het plaatje hierboven, handig voor de promotie later.
+Ben je slecht in design? Dan kun je dit [uitbesteden via Fiverr](/go/fiverr-ebook-design). Daar helpen ze je ook direct om er zo’n mooie mockup bij te maken zoals op het plaatje hierboven, handig voor de promotie later.
 
 ## 4\. Promoten van je E-book via een platform als Bol.com (verkopen)
 
@@ -70,27 +70,27 @@ Maar… Op Bol.com sta je wel tussen al je concurrenten. Dus wellicht wil je **d
 
 ### Eenvoudig zelf jouw E-book verkopen
 
-[![E-book verkopen](/images/migrated/e-book-verkopen-1.webp)](https://demodernenomaden.nl/go/sellfy)
+[![E-book verkopen](/images/migrated/e-book-verkopen-1.webp)](/go/sellfy)
 
 Een webshop maken is niet voor iedereen weggelegd. Dit is gewoon **te moeilijk**. Dan heb je een website nodig en moet je hier een betaalmodule aan weten te linken. En dan nog maar hopen dat als mensen betaald hebben, ze het E-book ook daadwerkelijk ontvangen.
 
 **Chaos.**
 
-Dat wil je niet. Daarom laat ik je hier graag kennismaken met een eenvoudige (gratis) oplossing; **[Sellfy](https://demodernenomaden.nl/go/sellfy)**.
+Dat wil je niet. Daarom laat ik je hier graag kennismaken met een eenvoudige (gratis) oplossing; **[Sellfy](/go/sellfy)**.
 
 Met deze tool maak je **in een paar klikken een werkende webshop voor jouw E-book**. En voor wie wil kun je deze vervolgens ook op jouw eigen website zetten als je die hebt. Zonder dat je iets hoeft te coderen of verschillende plugins aan elkaar moet gaan koppelen.
 
-Met [deze gratis versie](https://demodernenomaden.nl/go/sellfy) kun je al direct **jouw E-book verkopen**.
+Met [deze gratis versie](/go/sellfy) kun je al direct **jouw E-book verkopen**.
 
 ### Affiliate verkopen E-book
 
-Je zou aan jouw e-book een [affiliate programma](https://demodernenomaden.nl/ondernemen/affiliate-programma/) kunnen koppelen. Op die manier geef je aan andere [bloggers](https://demodernenomaden.nl/online-geld-verdienen/bloggen/) of [influencers](https://demodernenomaden.nl/online-geld-verdienen/influencer-worden/) de kans om jouw product te promoten, in ruil voor een commissie per keer dat jij je e-book verkoopt. Je wordt dan affiliate partner van elkaar.
+Je zou aan jouw e-book een [affiliate programma](/blog/ondernemen/affiliate-programma/) kunnen koppelen. Op die manier geef je aan andere [bloggers](/blog/online-geld-verdienen/bloggen/) of [influencers](/blog/online-geld-verdienen/influencer-worden/) de kans om jouw product te promoten, in ruil voor een commissie per keer dat jij je e-book verkoopt. Je wordt dan affiliate partner van elkaar.
 
-Zelf heb ik dit succesvol toegepast met mijn eigen E-book. Het merendeel van de verkopen kwam uiteindelijk via affiliates. Ik deed dit met het affiliate netwerk [Paypro](https://demodernenomaden.nl/online-geld-verdienen/paypro/).
+Zelf heb ik dit succesvol toegepast met mijn eigen E-book. Het merendeel van de verkopen kwam uiteindelijk via affiliates. Ik deed dit met het affiliate netwerk [Paypro](/blog/online-geld-verdienen/paypro/).
 
 ## 5\. Een E-book gebruiken als marketing middel
 
-Zelf verkoop ik mijn E-book tegenwoordig niet, maar gebruik ik deze [als weggever](https://demodernenomaden.nl/digital-nomad-boek/). Op deze manier geef ik een gratis waarde aan mijn **potentiële klanten**.
+Zelf verkoop ik mijn E-book tegenwoordig niet, maar gebruik ik deze [als weggever](/boek/). Op deze manier geef ik een gratis waarde aan mijn **potentiële klanten**.
 
 Ik gebruik een E-book dan als middel om kennis te maken en iets te geven aan een bezoeker. Dit kan bijvoorbeeld als je zelf een videotraining of andere online dienst verkoopt, erg waardevol zijn.
 
@@ -102,6 +102,6 @@ Ik gebruik een E-book dan als middel om kennis te maken en iets te geven aan een
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

@@ -1,6 +1,6 @@
 ---
 title: "13x Webinar software vergelijken – Platform reviews 2023"
-description: ""
+description: "De beste webinar software vergelijken? Dan zit je hier goed!"
 date: 2020-10-15
 updated: 2023-03-07
 category: "ondernemen"
@@ -18,9 +18,9 @@ Normaal gaven we dit soort trainingen offline, maar vanwege corona waren we toen
 
 Daarom bespreken we in dit artikel de verschillende **webinar software aanbieders**. Zo kun jij een goede keuze maken voor jouw eigen online seminar!
 
-> **Spoiler!** Zelf ben ik voor live webinars uiteindelijk aan de slag gegaan met het Nederlandse [**WebinarGeek**](https://demodernenomaden.nl/go/webinargeek). Het is de enige Nederlandse webinar software op de markt en biedt alles wat je nodig hebt! Ook handig; je kunt er gewoon met iDEAL betalen en hebt een Nederlandstalige klantenservice ;).
+> **Spoiler!** Zelf ben ik voor live webinars uiteindelijk aan de slag gegaan met het Nederlandse [**WebinarGeek**](/go/webinargeek). Het is de enige Nederlandse webinar software op de markt en biedt alles wat je nodig hebt! Ook handig; je kunt er gewoon met iDEAL betalen en hebt een Nederlandstalige klantenservice ;).
 > 
-> Voor geautomatiseerde (evergreen) webinars, voor bijvoorbeeld marketingfunnels, kun je het beste **[WebinarKit](https://demodernenomaden.nl/go/webinarkit)** gebruiken omdat zij dit doen tegen een eenmalige betaling (ipv maandelijks).
+> Voor geautomatiseerde (evergreen) webinars, voor bijvoorbeeld marketingfunnels, kun je het beste **[WebinarKit](/go/webinarkit)** gebruiken omdat zij dit doen tegen een eenmalige betaling (ipv maandelijks).
 
 ## Webinars communicatie- en marketingtool
 
@@ -40,11 +40,11 @@ En hoewel webinars sowieso goed zijn voor je marketing, moeten we bij webinar so
 
 Voor wie voor het eerst **naar webinar software zoekt** kan dit wat verwarrend zijn. Maar je hebt vaak aparte software voor **live** en voor **automated** webinars.
 
-Met een **live webinar** spreek je met een groep mensen af op een bepaald tijdstip in een digitale webinar omgeving. Het normale webinar zeg maar. Als dit is waar je naar zoekt, dan is de [software van WebinarGeek](https://demodernenomaden.nl/go/webinargeek) perfect ;).
+Met een **live webinar** spreek je met een groep mensen af op een bepaald tijdstip in een digitale webinar omgeving. Het normale webinar zeg maar. Als dit is waar je naar zoekt, dan is de [software van WebinarGeek](/go/webinargeek) perfect ;).
 
-Bij een **automated webinar** gaat het om een vooraf opgenomen webinar dat mensen op hun eigen moment kunnen kijken. Vaak wordt hierbij wel een ‘live gevoel’ gecreëerd door een tijd in te plannen en niet in de mogelijkheid te zijn om de ‘video’ vooruit te spoelen. Het is zelfs zo dat in veel gevallen kijkers helemaal niet doorhebben dat een webinar niet live is. Dit soort webinar wordt vaak gebruikt voor promotionele doeleinden. Als dit wat je zoekt, dan is de [software van WebinarKit](https://demodernenomaden.nl/go/webinarkit) hetgeen je nodig hebt!
+Bij een **automated webinar** gaat het om een vooraf opgenomen webinar dat mensen op hun eigen moment kunnen kijken. Vaak wordt hierbij wel een ‘live gevoel’ gecreëerd door een tijd in te plannen en niet in de mogelijkheid te zijn om de ‘video’ vooruit te spoelen. Het is zelfs zo dat in veel gevallen kijkers helemaal niet doorhebben dat een webinar niet live is. Dit soort webinar wordt vaak gebruikt voor promotionele doeleinden. Als dit wat je zoekt, dan is de [software van WebinarKit](/go/webinarkit) hetgeen je nodig hebt!
 
-**Mocht je overigens ‘live’ én ‘automated webinars’ willen, dan kun je dit het beste allebei op WebinarGeek doen met hun betaalbare [premium versie](https://demodernenomaden.nl/go/webinargeek-prijzen).**
+**Mocht je overigens ‘live’ én ‘automated webinars’ willen, dan kun je dit het beste allebei op WebinarGeek doen met hun betaalbare [premium versie](/go/webinargeek-prijzen).**
 
 ## Wat is een webinar?
 
@@ -58,8 +58,8 @@ De beste webinar software maakt het makkelijk om een webinar op te nemen zonder 
 
 Naar mijn mening zijn de beste webinar software aanbieders:
 
-*   [WebinarGeek voor live webinars](https://demodernenomaden.nl/go/webinargeek)
-*   [WebinarKit voor automated webinars](https://demodernenomaden.nl/go/webinarkit)
+*   [WebinarGeek voor live webinars](/go/webinargeek)
+*   [WebinarKit voor automated webinars](/go/webinarkit)
 
 Daarmee ben je in staat om in hoge kwaliteit jouw online seminar of marketingboodschap te draaien.
 
@@ -67,11 +67,11 @@ Laten we kijken naar de **beste webinar software aanbieders voor 2023**.
 
 ## 1\. WebinarGeek
 
-### Nederlandse webinar software van wereldklasse ([GRATIS uitproberen](https://demodernenomaden.nl/go/webinargeek-trial))
+### Nederlandse webinar software van wereldklasse ([GRATIS uitproberen](/go/webinargeek-trial))
 
-[![WebinarGeek Nederlandse webinar software](/images/migrated/webinargeek-webinar-software-nederland.webp)](https://demodernenomaden.nl/go/webinargeek)
+[![WebinarGeek Nederlandse webinar software](/images/migrated/webinargeek-webinar-software-nederland.webp)](/go/webinargeek)
 
-[**WebinarGeek**](https://demodernenomaden.nl/go/webinargeek) is **webinar software van Nederlandse gronden**. Daarmee ben je gelijk verzekerd van grote voordelen ten opzichte van de andere aanbieders in deze lijst, zoals een Nederlandstalige klantenservice en eenvoudige betaalmogelijkheden zoals iDEAL.
+[**WebinarGeek**](/go/webinargeek) is **webinar software van Nederlandse gronden**. Daarmee ben je gelijk verzekerd van grote voordelen ten opzichte van de andere aanbieders in deze lijst, zoals een Nederlandstalige klantenservice en eenvoudige betaalmogelijkheden zoals iDEAL.
 
 Met WebinarGeek kun je alles doen wat je maar kunt bedenken op webinar gebied. Het is dan ook niet voor niets dat ze grote Nederlandse gebruikers hebben aangetrokken zoals ING, Aegon, KNVB en ROC. Voor deze en kleine gebruikers kun je met WebinarGeek aan de slag met live, geautomatiseerde, hybride en zelfs betaalde webinars.
 
@@ -81,7 +81,7 @@ Alles binnen een overzichtelijke omgeving waar je met **eenvoudige tutorials** (
 
 De software van WebinarGeek wordt door bedrijven gebruikt voor **live events, sales generatie, online meetings, vraag en antwoord sessies, product demo’s en online trainingen**. De mogelijkheden van deze ene software zijn dus vrij eindeloos.
 
-Functies die daarbij van pas komen zijn de integraties met meer dan 5000 andere marketingtools via Zapier (en enkele directe integraties) en de mogelijkheid om video’s te delen, slides in te laden en **interactie te creëren met een quiz, poll of call-to-action**. Bij [WebinarGeek](https://demodernenomaden.nl/go/webinargeek) kun je ook gemakkelijk het hele registratieproces voor webinars en een daarbij horende e-mail flow regelen met de software.
+Functies die daarbij van pas komen zijn de integraties met meer dan 5000 andere marketingtools via Zapier (en enkele directe integraties) en de mogelijkheid om video’s te delen, slides in te laden en **interactie te creëren met een quiz, poll of call-to-action**. Bij [WebinarGeek](/go/webinargeek) kun je ook gemakkelijk het hele registratieproces voor webinars en een daarbij horende e-mail flow regelen met de software.
 
 Uniek aan WebinarGeek is de **hybride webinar mogelijkheid** waarbij je een combinatie maakt van live presentatie en vooraf opgenomen video. Hierdoor kun je je volledig focussen op de boodschap én interactie van het webinar.
 
@@ -114,23 +114,23 @@ Uniek aan WebinarGeek is de **hybride webinar mogelijkheid** waarbij je een comb
 
 ## Prijzen
 
-**[\> Basic](https://demodernenomaden.nl/go/webinargeek-prijzen)  
+**[\> Basic](/go/webinargeek-prijzen)  
 **Met maandelijks €39,- is dit een van de goedkoopste en meest complete webinar software pakketten die je gaat vinden. Hiervoor kun je gebruikmaken van alle benodigde webinar functies. De enige beperking hierbij is dat de webinars maximaal 2 uur kunnen duren met 50 kijkers en 1 presentator.
 
-**[\> Premium](https://demodernenomaden.nl/go/webinargeek-prijzen)**  
+**[\> Premium](/go/webinargeek-prijzen)**  
 Voor dit premiumpakket betaal je slechts een tientje per maand meer en kom je uit op €49,-. Hiervoor krijg je alle basis functies plus de mogelijkheid voor automated webinars en tal van marketing integraties. Met het premium pakket kun je webinars geven van maximaal 8 uur met 125 kijkers en 10 presentatoren.
 
-**Bij alle pakketten van WebinarGeek zit een [14 dagen GRATIS trial](https://demodernenomaden.nl/go/webinargeek-trial). De trial is zonder verplichtingen en verloopt automatisch na 14 dagen. Organiseer in die tijd net zoveel webinars als je wilt.**
+**Bij alle pakketten van WebinarGeek zit een [14 dagen GRATIS trial](/go/webinargeek-trial). De trial is zonder verplichtingen en verloopt automatisch na 14 dagen. Organiseer in die tijd net zoveel webinars als je wilt.**
 
-[Probeer WebinarGeek GRATIS](https://demodernenomaden.nl/go/webinargeek-trial)
+[Probeer WebinarGeek GRATIS](/go/webinargeek-trial)
 
 ## 2\. WebinarKit
 
-### Beste automated webinar software ([automated webinars](https://demodernenomaden.nl/go/webinarkit))
+### Beste automated webinar software ([automated webinars](/go/webinarkit))
 
-[![Webinarkit homepage](/images/migrated/webinarkit-homepage-1.webp)](https://demodernenomaden.nl/go/webinarkit)
+[![Webinarkit homepage](/images/migrated/webinarkit-homepage-1.webp)](/go/webinarkit)
 
-[**WebinarKit**](https://demodernenomaden.nl/go/webinarkit) is vrij nieuwe webinar software die zowel opties biedt voor **live als automated webinars**.
+[**WebinarKit**](/go/webinarkit) is vrij nieuwe webinar software die zowel opties biedt voor **live als automated webinars**.
 
 Je zou kunnen stellen dat ze de markt **flink op stelten zetten**. Waar concurrenten vaak bizar hoge bedragen per jaar vragen, heeft WebinarKit voor automated webinars een **One-Time-Price**. Plots betaal je eenmalig maar $597 om gebruik te maken van volwaardige webinar software.
 
@@ -175,25 +175,25 @@ Webinarkit breidt steeds meer uit met **nieuwe functies** waarvan ik keer op kee
 
 ## Prijzen
 
-**[\> Automated webinar software](https://demodernenomaden.nl/go/webinarkit)**  
+**[\> Automated webinar software](/go/webinarkit)**  
 Eenmalig $597 voor de basisfuncties voor het organiseren van een automated webinar. Hiermee kun je al direct aan de slag als marketeer voor als je een webinar gebruikt in je sales funnel.
 
-**[\> WebinarKit Live](https://demodernenomaden.nl/go/webinarkit-live)**  
+**[\> WebinarKit Live](/go/webinarkit-live)**  
 $49 per maand voor jouw live webinars. Alle benodigde functies van live webinar software zijn hier inbegrepen.
 
 **Bij alle pakketten van WebinarKit zit een 14 dagen niet goed geld terug garantie inbegrepen en je kunt de software altijd 7 dagen lang voor slechts $1 uitproberen.**
 
-[Probeer WebinarKit (automated)](https://demodernenomaden.nl/go/webinarkit)
+[Probeer WebinarKit (automated)](/go/webinarkit)
 
-[Probeer WebinarKit (live)](https://demodernenomaden.nl/go/webinarkit-live)
+[Probeer WebinarKit (live)](/go/webinarkit-live)
 
 ## 3\. Livestorm
 
-### Perfect voor online trainingen en meetings ([gratis basisversie](https://demodernenomaden.nl/go/get-livestorm))
+### Perfect voor online trainingen en meetings ([gratis basisversie](/go/get-livestorm))
 
-[![Livestorm webinar software homepage](/images/migrated/livestorm-webinar-software-homepage-1.webp)](https://demodernenomaden.nl/go/get-livestorm)
+[![Livestorm webinar software homepage](/images/migrated/livestorm-webinar-software-homepage-1.webp)](/go/get-livestorm)
 
-[Livestorm](https://demodernenomaden.nl/go/get-livestorm) is een **uitgebreide tool** voor vele vormen van online communicatie. Toegankelijk voor ieder device en daarmee super **responsive**.
+[Livestorm](/go/get-livestorm) is een **uitgebreide tool** voor vele vormen van online communicatie. Toegankelijk voor ieder device en daarmee super **responsive**.
 
 Met Livestorm webinar software kun je een **live, on-demand en geautomatiseerd webinar organiseren**. Uniek aan hun software is dat het webinar **tot wel 4 uur** kan duren en daarmee uitermate geschikt is voor online trainingen.
 
@@ -228,7 +228,7 @@ Deelnemers kunnen meedoen met een webinar met **één klik op de knop**. Softwar
 
 ## Prijzen
 
-Je kunt Livestorm [gratis uitproberen met het ‘basic’ pakket](https://demodernenomaden.nl/go/get-livestorm). De mogelijkheden zijn als volgt:
+Je kunt Livestorm [gratis uitproberen met het ‘basic’ pakket](/go/get-livestorm). De mogelijkheden zijn als volgt:
 
 ![Prijzen livestorm webinar software](/images/migrated/prijzen-livestorm-webinar-software-1.webp "Prijzen livestorm webinar software")
 
@@ -237,15 +237,15 @@ Je kunt Livestorm [gratis uitproberen met het ‘basic’ pakket](https://demode
 
 Er zijn ook mogelijkheden om uit te breiden naar meer live attendees bij het webinar. Het beste kun je beginnen met het **gratis basic pakket** en wanneer nodig, deze upgraden.
 
-[Probeer Livestorm](https://demodernenomaden.nl/go/get-livestorm)
+[Probeer Livestorm](/go/get-livestorm)
 
 ## 4\. Webinarninja
 
-### Beste webinar software voor online coaches en trainers ([14 dagen gratis trial](https://demodernenomaden.nl/go/get-webinarninja))
+### Beste webinar software voor online coaches en trainers ([14 dagen gratis trial](/go/get-webinarninja))
 
-[![WebinarNinja](/images/migrated/webinarninja-webinar-software.webp)](https://demodernenomaden.nl/go/get-webinarninja)
+[![WebinarNinja](/images/migrated/webinarninja-webinar-software.webp)](/go/get-webinarninja)
 
-[WebinarNinja](https://demodernenomaden.nl/go/get-webinarninja) heeft krachtige en betrouwbare webinar software voor een redelijke prijs. De software is enorm **overzichtelijk en gebruiksvriendelijk**. Daardoor is het mogelijk om in enkele minuten jouw eerste eigen webinar op te zetten zonder technische kennis.
+[WebinarNinja](/go/get-webinarninja) heeft krachtige en betrouwbare webinar software voor een redelijke prijs. De software is enorm **overzichtelijk en gebruiksvriendelijk**. Daardoor is het mogelijk om in enkele minuten jouw eerste eigen webinar op te zetten zonder technische kennis.
 
 Met WebinarNinja kun je eenvoudige **branding toevoegen, Q&A’s houden en polls plaatsen** tijdens een webinar. Uniek aan de webinar software is de integratie met populaire marketing tools die het gemakkelijk maken om WebinarNinja te gebruiken **binnen een bestaande marketingstrategie of funnel**.
 
@@ -287,7 +287,7 @@ In het algemeen biedt WebinarNinja een **solide webinar software** met veel moge
 
 ## Prijzen
 
-Ook WebinarNinja heeft een [gratis proefperiode van 14 dagen](https://demodernenomaden.nl/go/get-webinarninja) waarin je de webinar software kunt uitproberen. Maak hier ook zeker gebruik van. Daarna volgen er drie verschillende pakketten:
+Ook WebinarNinja heeft een [gratis proefperiode van 14 dagen](/go/get-webinarninja) waarin je de webinar software kunt uitproberen. Maak hier ook zeker gebruik van. Daarna volgen er drie verschillende pakketten:
 
 ![Prijzen WebinarNinja](/images/migrated/prijzen-webinarninja-webinar-software-1.webp "Prijzen WebinarNinja")
 
@@ -295,17 +295,17 @@ Ook WebinarNinja heeft een [gratis proefperiode van 14 dagen](https://demodernen
 *   **Pro Plan:** $99 per maand en goed voor 100 kijkers per webinar met max 4 presentatoren.
 *   **Business Plan:** $199 per maand en goed voor 100 kijkers per webinar met max 10 presentatoren.
 
-**[WebinarNinja](https://demodernenomaden.nl/go/get-webinarninja) is een uitgebreide tool waarmee het makkelijk is om binnen enkele minuten jouw eigen webinar op te zetten.**
+**[WebinarNinja](/go/get-webinarninja) is een uitgebreide tool waarmee het makkelijk is om binnen enkele minuten jouw eigen webinar op te zetten.**
 
-[Probeer WebinarNinja](https://demodernenomaden.nl/go/get-webinarninja)
+[Probeer WebinarNinja](/go/get-webinarninja)
 
 ## 5\. Easywebinar
 
-### Gebruiksvriendelijke webinar software ([gratis 14 dagen trial](https://demodernenomaden.nl/go/get-easywebinar))
+### Gebruiksvriendelijke webinar software ([gratis 14 dagen trial](/go/get-easywebinar))
 
-[![Easywebinar](/images/migrated/easywebinar-webinar-software.webp)](https://demodernenomaden.nl/go/get-easywebinar)
+[![Easywebinar](/images/migrated/easywebinar-webinar-software.webp)](/go/get-easywebinar)
 
-[Easywebinar](https://demodernenomaden.nl/go/get-easywebinar) heeft het op een unieke manier voor elkaar gekregen om webinar software te combineren met marketingdoeleinden.
+[Easywebinar](/go/get-easywebinar) heeft het op een unieke manier voor elkaar gekregen om webinar software te combineren met marketingdoeleinden.
 
 Het heeft alle functionaliteiten die je als webinar marketeer nodig zult hebben. **Zowel bij live als geautomatiseerde webinars**. Er zijn mogelijkheden om met meerdere mensen tegelijk een webinar te presenteren en om de software to linken aan jouw e-mail marketing programma en leadtools.
 
@@ -330,7 +330,7 @@ Wat Easywebinar onderscheid is dat ze ook een gehele trainingsmodule hebben om j
 
 ## Prijzen
 
-Je kunt Easywebinar [gratis voor 14 dagen uitproberen](https://demodernenomaden.nl/go/get-easywebinar). Daarna zijn de pakketten als volgt:
+Je kunt Easywebinar [gratis voor 14 dagen uitproberen](/go/get-easywebinar). Daarna zijn de pakketten als volgt:
 
 *   **Standard Plan:** $99 per maand voor 100 kijkers per webinar.
 *   **Pro Plan:** $199 per maand voor 500 kijkers per webinar.
@@ -338,15 +338,15 @@ Je kunt Easywebinar [gratis voor 14 dagen uitproberen](https://demodernenomaden.
 
 Via Youtube Live (welke je aan EasyWebinar kunt koppelen) kun je altijd een onbeperkt aantal kijkers hebben bij jouw webinar. De aantallen hierboven zijn puur gebaseerd op wanneer je hun eigen webinar host gebruikt.
 
-[Probeer Easywebinar](https://demodernenomaden.nl/go/get-easywebinar)
+[Probeer Easywebinar](/go/get-easywebinar)
 
 ## 6\. Demio
 
-### Webinar software met marketing tools ([14 dagen gratis trial](https://demodernenomaden.nl/go/get-demio))
+### Webinar software met marketing tools ([14 dagen gratis trial](/go/get-demio))
 
-[![Demio Webinar Software](/images/migrated/demio-webinar-software.webp)](https://demodernenomaden.nl/go/get-demio)
+[![Demio Webinar Software](/images/migrated/demio-webinar-software.webp)](/go/get-demio)
 
-**[Demio](https://demodernenomaden.nl/go/get-demio) is webinar software met zeer uitgebreide marketing tools** om zoveel mogelijk leads te halen uit jouw sales webinar. Aan de visuele kant heeft het HD gestreamde video’s en een overzichtelijk platform.
+**[Demio](/go/get-demio) is webinar software met zeer uitgebreide marketing tools** om zoveel mogelijk leads te halen uit jouw sales webinar. Aan de visuele kant heeft het HD gestreamde video’s en een overzichtelijk platform.
 
 Alles binnen Demio is geoptimaliseerd om het bij jouw merk te laten passen. Denk aan kleuren, registratiepagina’s en landingspagina’s. Ook kun je met Demio aan de slag met geautomatiseerde (evergreen) webinars. Handig voor de marketeers onder ons ;).
 
@@ -372,7 +372,7 @@ Demio heeft een gratis proefperiode van 14 dagen. Zo kun je gerust alle opties i
 
 **Over het algemeen is Demio dus ook nog eens helemaal geen dure webinar tool. Het ligt er vooral aan in welk formaat je wilt gaan werken.**
 
-[Probeer Demio](https://demodernenomaden.nl/go/get-demio)
+[Probeer Demio](/go/get-demio)
 
 ## 7\. GoToWebinar
 
@@ -412,7 +412,7 @@ Bij GoToWebinar hebben ze **vier verschillende opties**. Houd er rekening mee da
 *   **Pro Plan:** €249 per maand voor 1000 kijkers per webinar.
 *   **Enterprise Plan:** €499 per maand voor 3000 kijkers per webinar.
 
-[Probeer GoToWebinar](https://demodernenomaden.nl/go/gotomeeting)
+[Probeer GoToWebinar](/go/gotomeeting)
 
 ## 8\. LiveWebinar
 
@@ -452,7 +452,7 @@ Je kunt LiveWebinar gratis uitproberen met het gratis plan. Dan kun je kijken of
 
 Houd er rekening mee dat je met het Pro Plan geen opslag krijgt bij LiveWebinar. Je webinars worden dus gedaan via een platform als Vimeo, waar je apart voor moet betalen.
 
-[Probeer LiveWebinar](https://demodernenomaden.nl/go/livewebinar)
+[Probeer LiveWebinar](/go/livewebinar)
 
 ## 9\. My Own Conference
 
@@ -489,7 +489,7 @@ De prijzen bij My Own Conference hangen volledig af van het aantal deelnemers da
 
 Ook kun je My Own Conference gratis gebruiken, alleen dan is de duur van het webinar beperkt tot 20 minuten.
 
-[Probeer My Own Conference](https://demodernenomaden.nl/go/myownconference)
+[Probeer My Own Conference](/go/myownconference)
 
 ## 10\. ClickMeeting
 
@@ -525,7 +525,7 @@ Een ideale tool voor live webinars en online meetings, dit zijn de opties:
 
 Ook kun je ClickMeeting gratis uitproberen. Bij de gratis optie heb je echter maximaal 30 minuten per webinar.
 
-[Probeer ClickMeeting](https://demodernenomaden.nl/go/clickmeeting)
+[Probeer ClickMeeting](/go/clickmeeting)
 
 ## 11\. GetResponse
 
@@ -561,15 +561,15 @@ De webinar functie van GetResponse is inbegrepen vanaf het Plus Plan. Met het ba
 
 Voor wie al gebruik maakt van GetResponse voor zijn e-mail marketing is dit de ideale tool om mee door te gaan, zo heb je geen zorgen meer over koppelingen etc.
 
-[Probeer GetResponse](https://demodernenomaden.nl/go/getresponse)
+[Probeer GetResponse](/go/getresponse)
 
 ## 12\. Webinarjam
 
-### Marketing webinar software ([14 dagen trial voor $1](https://demodernenomaden.nl/go/get-webinarjam))
+### Marketing webinar software ([14 dagen trial voor $1](/go/get-webinarjam))
 
 ![Webinarjam](/images/migrated/webinarjam-webinar-software.webp "webinarjam-webinar-software")
 
-[Webinarjam](https://demodernenomaden.nl/go/get-webinarjam)! Dit si makkelijk te gebruiken software. Je hebt er geen technische kennis of wat dan ook voor nodig. De opzet van een webinar doorloop je gemakkelijk met de stappen die al voor je zijn klaargelegd.
+[Webinarjam](/go/get-webinarjam)! Dit si makkelijk te gebruiken software. Je hebt er geen technische kennis of wat dan ook voor nodig. De opzet van een webinar doorloop je gemakkelijk met de stappen die al voor je zijn klaargelegd.
 
 Daarbij heeft Webinarjam de optie om direct te streamen naar jouw eigen Youtube kanaal, maar dan met een wachtwoord, waardoor je er een besloten meeting van kunt maken.
 
@@ -614,17 +614,17 @@ $699 per jaar ($58,25 per maand). Hiermee kun je maximaal 1000 deelnemers hebben
 **Premium Plan:**  
 $999 per jaar ($83,25 per maand). Hiermee kun je een business draaien die zeer afhankelijk is van webinars. Met maximaal 6 presentatoren en tot 5000 deelnemers per webinar.
 
-**Gebaseerd op de mogelijkheden met [Webinarjam](https://demodernenomaden.nl/go/get-webinarjam) en de relatief lage prijs van het Basic Plan is dit mijn persoonlijke favoriet op het gebied van webinar software!**
+**Gebaseerd op de mogelijkheden met [Webinarjam](/go/get-webinarjam) en de relatief lage prijs van het Basic Plan is dit mijn persoonlijke favoriet op het gebied van webinar software!**
 
-[Probeer Webinarjam](https://demodernenomaden.nl/go/get-webinarjam)
+[Probeer Webinarjam](/go/get-webinarjam)
 
 ## 13\. Everwebinar
 
-### Voor evergreen/automatische webinars ([14 dagen trial voor $1](https://demodernenomaden.nl/go/get-everwebinar))
+### Voor evergreen/automatische webinars ([14 dagen trial voor $1](/go/get-everwebinar))
 
 ![Everwebinar](/images/migrated/everwebinar-webinar-software.webp "everwebinar-webinar-software")
 
-[Everwebinar](https://demodernenomaden.nl/go/get-everwebinar) is een onderdeel van Webinarjam maar is ook op zichzelf te gebruiken.
+[Everwebinar](/go/get-everwebinar) is een onderdeel van Webinarjam maar is ook op zichzelf te gebruiken.
 
 Zelf gebruik ik Everwebinar voor **automated webinars**. Deze zijn vooraf opgenomen maar voelen ‘live’ aan voor de kijker.
 
@@ -649,21 +649,21 @@ Ideaal voor wanneer je een sales webinar hebt welke je week na week wilt laten d
 
 ## Prijzen
 
-[Je kunt Everwebinar voor $1 uitproberen](https://demodernenomaden.nl/go/get-everwebinar). Je krijgt dan 14 dagen toegang tot alle functies en kunt kijken of het iets voor jou is. De prijs van de pakketten hangt af van de betalingstermijn.
+[Je kunt Everwebinar voor $1 uitproberen](/go/get-everwebinar). Je krijgt dan 14 dagen toegang tot alle functies en kunt kijken of het iets voor jou is. De prijs van de pakketten hangt af van de betalingstermijn.
 
 ![Everwebinar prijzen](/images/migrated/Everwebinar-plans.webp "Everwebinar-plans")
 
 *   **Basic plan:** $41,58 per maand. Toegang tot alle functionaliteiten.
 
-**Met [Everwebinar](https://demodernenomaden.nl/go/get-everwebinar) kun je grote successen boeken op de automatisering van jouw sales webinars.**
+**Met [Everwebinar](/go/get-everwebinar) kun je grote successen boeken op de automatisering van jouw sales webinars.**
 
-[Probeer Everwebinar](https://demodernenomaden.nl/go/get-everwebinar)
+[Probeer Everwebinar](/go/get-everwebinar)
 
 ## Welke webinar software moet je kiezen?
 
 Als we zo kijken naar de (naar mijn mening) beste webinar software, vraag je je wellicht af welke jij nou moet kiezen. Wél, gelukkig hebben ze allemaal een trialperiode, gratis, of voor $1. Je kunt dus altijd even kijken welke jou het beste bevalt.
 
-**Persoonlijk gaat mijn voorkeur uit naar [WebinarGeek](https://demodernenomaden.nl/go/webinargeek). Je kunt deze webinar software [hier](https://demodernenomaden.nl/go/webinargeek) gratis uitproberen.**
+**Persoonlijk gaat mijn voorkeur uit naar [WebinarGeek](/go/webinargeek). Je kunt deze webinar software [hier](/go/webinargeek) gratis uitproberen.**
 
 # De voordelen van een webinar
 
@@ -676,7 +676,7 @@ Waar je bij een seminar waarschijnlijk een zaal zou moeten afhuren inclusief cat
 **Over het algemeen heb je voor het geven van een webinar het volgende nodig:**
 
 *   Een webcam
-*   Een (externe) opname microfoon ([deze Rode mic is prima](https://demodernenomaden.nl/go/mic-van-bol))
+*   Een (externe) opname microfoon ([deze Rode mic is prima](/go/mic-van-bol))
 *   Een script
 *   Een presentatie
 *   Kijkers
@@ -690,13 +690,13 @@ Dat is in geen zinnen te vergelijken met de kosten die een offline seminar met z
 
 Waar in een zaal maar een beperkt aantal mensen past, is dit online vele malen meer. Natuurlijk hebben veel webinar software aanbieders een max op het aantal deelnemers (vaak tussen de 100 en 1000), maar een webinar kun je vaak kosteloos herhalen.
 
-Zeker wanneer je een geautomatiseerd webinar laat draaien met bijvoorbeeld [WebinarKit Automated](https://demodernenomaden.nl/go/webinarkit) kun je oneindig veel mensen bereiken. Er zijn voorbeelden van mensen die **per dag zo’n 200 kijkers hebben** (op de Nederlandse markt) op hun automated webinar. Deze hebben ze slechts één keer hoeven geven en wordt daarna herhaald.
+Zeker wanneer je een geautomatiseerd webinar laat draaien met bijvoorbeeld [WebinarKit Automated](/go/webinarkit) kun je oneindig veel mensen bereiken. Er zijn voorbeelden van mensen die **per dag zo’n 200 kijkers hebben** (op de Nederlandse markt) op hun automated webinar. Deze hebben ze slechts één keer hoeven geven en wordt daarna herhaald.
 
 ## 3\. Perfect voor lead opvolging
 
 Wanneer je een webinar inzet als onderdeel van de [sales funnel](https://bedrijvenconsultant.nl/sales-funnel/) kan dit een groot verschil maken. Het gebeurt niet vaak dat je meer dan een uur de volledige aandacht krijgt van je potentiële klant.
 
-En precies die aandacht kan ervoor zorgen dat je veel makkelijker verkoopt aan een al bestaande doelgroep. Denk er bijvoorbeeld eens aan om een webinar te organiseren voor mensen die al zijn ingeschreven op jouw [mailinglijst](https://demodernenomaden.nl/ondernemen/mailinglijst-groeien/), maar nog geen klant zijn.
+En precies die aandacht kan ervoor zorgen dat je veel makkelijker verkoopt aan een al bestaande doelgroep. Denk er bijvoorbeeld eens aan om een webinar te organiseren voor mensen die al zijn ingeschreven op jouw [mailinglijst](/blog/ondernemen/leads-genereren-mailinglijst/), maar nog geen klant zijn.
 
 ## 4\. Ideaal voor lead generatie
 
@@ -768,10 +768,10 @@ Wees je ervan bewust dat mensen **naar het webinar komen voor informatie en niet
 **Al met al zou ik het geven van webinars aan iedere online ondernemer aanraden. Kies goede webinar software en ga aan de slag. Mijn favorieten vind je hieronder:**
 
 Voor live webinars:  
-**[Probeer WebinarGeek](https://demodernenomaden.nl/go/webinargeek)**
+**[Probeer WebinarGeek](/go/webinargeek)**
 
 Voor geautomatiseerde webinars:  
-[**Probeer WebinarKit Automated**](https://demodernenomaden.nl/go/webinarkit)
+[**Probeer WebinarKit Automated**](/go/webinarkit)
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -779,6 +779,6 @@ Voor geautomatiseerde webinars:
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

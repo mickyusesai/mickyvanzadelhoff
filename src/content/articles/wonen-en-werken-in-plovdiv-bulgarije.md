@@ -1,6 +1,6 @@
 ---
 title: "Wonen en werken in Plovdiv in Bulgarije – Tips voor de digital nomad"
-description: ""
+description: "Wil jij wonen en werken in Plovdiv? Dan volgt hier een lijst met tips voor de digital nomad. Bulgarije bouwt langzaam aan een mooier land. Het…"
 date: 2018-11-07
 updated: 2022-01-27
 category: "digitalenomaden"
@@ -10,7 +10,7 @@ draft: false
 featuredImage: "/images/migrated/wonen-en-werken-in-plovdiv-e1541601239426.webp"
 ---
 
-Wil jij wonen en werken in Plovdiv? Dan volgt hier een lijst met tips voor de [digital nomad](https://demodernenomaden.nl/digitalenomaden/digitale-nomaden/). Bulgarije bouwt langzaam aan een mooier land. Het communisme is nog merkbaar op veel plekken, maar dit trekt momenteel bij. De stad Plovdiv, de oudste stad van Europa, is erg interessant om te verblijven als digital nomad. Bulgarije is geen rijk land en gebruikt nog steeds zijn eigen munt, de Lev. Het leven is hierdoor ook goedkoop in Plovdiv en kent veel mogelijkheden.
+Wil jij wonen en werken in Plovdiv? Dan volgt hier een lijst met tips voor de [digital nomad](/blog/digitalenomaden/digital-nomad-worden/). Bulgarije bouwt langzaam aan een mooier land. Het communisme is nog merkbaar op veel plekken, maar dit trekt momenteel bij. De stad Plovdiv, de oudste stad van Europa, is erg interessant om te verblijven als digital nomad. Bulgarije is geen rijk land en gebruikt nog steeds zijn eigen munt, de Lev. Het leven is hierdoor ook goedkoop in Plovdiv en kent veel mogelijkheden.
 
 Er zijn ook redelijk wat internationale zaakjes en casino’s.  Dit zorgt ervoor dat er door nog redelijk wat Bulgaren Engels wordt gesproken. Dit is veel makkelijker communiceren dan weer eens je Google Translate erbij pakken.
 
@@ -36,7 +36,7 @@ Een fijne plek om te werken vond ik het Art Cafe. Dit café bevindt zich in de u
 
 ## **2\. Basquiat Café & Boutique**
 
-Een ander heerlijk café is Basquiat Café & Boutique. Ook dit café doet er vooral toe door het gezellige interieur. De gele muur straalt warmte uit en de schilderijen geven altijd weer wat creatieve impulsen. Het café wordt door veel digital nomads online als zeer goed beoordeeld; het doet mensen denken aan [Berlijn](https://demodernenomaden.nl/plaatsen/wonen-en-werken-in-berlijn-duitsland/), ze hebben blijkbaar ontzettend goede koffie en er zijn vaker live concertjes. Dat laatste kan dus weleens leiden tot een leuke afsluiter van de werkdag.
+Een ander heerlijk café is Basquiat Café & Boutique. Ook dit café doet er vooral toe door het gezellige interieur. De gele muur straalt warmte uit en de schilderijen geven altijd weer wat creatieve impulsen. Het café wordt door veel digital nomads online als zeer goed beoordeeld; het doet mensen denken aan [Berlijn](/blog/digitalenomaden/wonen-en-werken-in-berlijn-duitsland/), ze hebben blijkbaar ontzettend goede koffie en er zijn vaker live concertjes. Dat laatste kan dus weleens leiden tot een leuke afsluiter van de werkdag.
 
 ## **3\. Cat and Mouse Coworking**
 
@@ -92,6 +92,6 @@ Plovdiv heeft historie, cultuur, aangenaam eten, vaak warm weer en heel erg snel
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

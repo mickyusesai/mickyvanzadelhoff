@@ -1,6 +1,6 @@
 ---
 title: "Een hoofdstuk uit mijn nooit gepubliceerde boek"
-description: ""
+description: "Hier lees je het hoofdstuk ‘Levensklok’ uit mijn boek ‘Neuk Het Systeem’. Goed om te weten wellicht, is dat ik dat boek nooit het uitgebracht. Daar…"
 date: 2020-06-16
 updated: 2020-06-16
 category: "tips"

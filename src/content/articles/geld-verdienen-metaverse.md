@@ -1,6 +1,6 @@
 ---
 title: "Geld verdienen met de Metaverse – 8 Manieren"
-description: ""
+description: "Ideeën om geld te verdienen met de Metaverse zijn zeer talrijk en daarom hebben we ze in dit artikel op een rijtje gezet. Maar eerst, wat bedoelen we…"
 date: 2022-09-12
 updated: 2023-01-19
 category: "web3"
@@ -32,7 +32,7 @@ Er zijn veel verschillende Metaverses en deze hebben allemaal hun eigen currenci
 
 Hierdoor zijn veel Metaverses (niet allemaal) een soort op zichzelf staande economie waarin geld kan worden verdient en uitgegeven. **Zie het als een land met een eigen valuta**, zo hebben veel Metaverses ook hun eigen munteenheid.
 
-Afhankelijk van de populariteit van een specifieke Metaverse zal de prijs van de daarbij horende cryptocurrency flink bewegen ten opzichte van de euro. Hier geld mee verdienen kan dus door zo’n [Metaverse crypto](https://demodernenomaden.nl/web3/metaverse-crypto/) in te kopen en later (als een Metaverse groeit) te verkopen. Houdt hierbij wel rekening met de tokenomics van een cryptomunt en doe altijd zelf onderzoek.
+Afhankelijk van de populariteit van een specifieke Metaverse zal de prijs van de daarbij horende cryptocurrency flink bewegen ten opzichte van de euro. Hier geld mee verdienen kan dus door zo’n [Metaverse crypto](/blog/web3/metaverse-crypto/) in te kopen en later (als een Metaverse groeit) te verkopen. Houdt hierbij wel rekening met de tokenomics van een cryptomunt en doe altijd zelf onderzoek.
 
 Crypto kopen doe je veelal via een crypto exchange. De grootste in Nederland is [Bitvavo](/go/bitvavo). Qua Metaverse crypto hebben zij **Decentraland, The Sandbox, Enjin, Aavegotchi** en **Axie Infinity**.
 
@@ -44,7 +44,7 @@ Crypto kopen doe je veelal via een crypto exchange. De grootste in Nederland is 
 
 Een tijdje geleden kocht ik zelf land in een Metaverse. Enerzijds **als investering**, maar tegelijk ook omdat er wellicht leuke ideeën zijn om **dit land te gebruiken voor mijn bedrijf**.
 
-Metaverse landbezit werkt als volgt. Veelal heeft een Metaverse een van te voren vastgestelde hoeveelheid land beschikbaar als [NFTs](https://demodernenomaden.nl/web3/nft-guide/). Hiermee kun jij eigenaar worden van zo’n stukje land en deze gebruiken om bijvoorbeeld **een winkel te openen, events te organiseren, een beleving te maken of virtueel samen te komen met business partners**.
+Metaverse landbezit werkt als volgt. Veelal heeft een Metaverse een van te voren vastgestelde hoeveelheid land beschikbaar als [NFTs](/blog/web3/nft-guide/). Hiermee kun jij eigenaar worden van zo’n stukje land en deze gebruiken om bijvoorbeeld **een winkel te openen, events te organiseren, een beleving te maken of virtueel samen te komen met business partners**.
 
 Het is volledig aan jou om te bepalen wat je met dit stukje land wil doen als jij de NFT bezit.
 
@@ -72,7 +72,7 @@ Denk aan een district met ‘**wearable shops**‘ waar je iedere winkel apart v
 
 Wanneer mensen naar jouw virtuele omgeving komen is geld verdienen in de Metaverse eigenlijk een piece of cake. Behalve directe belangstelling vanuit bedrijven om er een soort winkel te openen, kan het voor diezelfde bedrijven ook aantrekkelijk zijn **om er advertenties te tonen** op billboards.
 
-Er zijn al Metaverses die deze vorm van **monetization** aanbieden. Dat is erg makkelijk, een beetje zoals je met [een eigen Youtube kanaal](https://demodernenomaden.nl/online-geld-verdienen/youtube-kanaal-beginnen/) ervoor kan kiezen om advertenties toe te staan, kan dit ook in sommige Metaverses.
+Er zijn al Metaverses die deze vorm van **monetization** aanbieden. Dat is erg makkelijk, een beetje zoals je met [een eigen Youtube kanaal](/blog/online-geld-verdienen/youtube-kanaal-beginnen/) ervoor kan kiezen om advertenties toe te staan, kan dit ook in sommige Metaverses.
 
 ## 5\. Play2Earn, Learn2Earn, Build2Earn etc.
 

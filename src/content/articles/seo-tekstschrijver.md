@@ -1,6 +1,6 @@
 ---
 title: "De SEO tekstschrijver bestaat NIET meer – Hoe nu verder?"
-description: ""
+description: "Waarschijnlijk kom je op dit artikel terecht doordat je zocht op het zoekwoord ‘SEO tekstschrijver’. Dat komt niet doordat ik als tekstschrijver zo…"
 date: 2019-10-07
 updated: 2022-02-20
 category: "ondernemen"
@@ -12,7 +12,7 @@ featuredImage: "/images/migrated/seo-tekstschrijver.webp"
 
 Waarschijnlijk kom je op dit artikel terecht doordat je zocht op het zoekwoord ‘SEO tekstschrijver’. Dat komt niet doordat ik als tekstschrijver zo voortvarend SEO heb toegepast maar heeft andere redenen. Het beroep SEO tekstschrijver is in de laatste jaren irrelevant geworden en overbodig. Daarom ga ik in dit artikel in op hoe je wél bovenaan in Google komt met jouw webteksten.
 
-[**Bovenaan komen in Google? Hiervoor kun je professionals inschakelen. Klik hier om te zien wat zij voor jou kunnen betekenen. >>**](https://demodernenomaden.nl/go/fiverr-seo-expert)
+[**Bovenaan komen in Google? Hiervoor kun je professionals inschakelen. Klik hier om te zien wat zij voor jou kunnen betekenen. >>**](/go/fiverr-seo-expert)
 
 ## Waarom is de SEO tekstschrijver uitgerangeerd?
 
@@ -20,9 +20,9 @@ Er zijn meerdere redenen waarom een SEO tekstschrijver is uitgerangeerd. Om te b
 
 ## Bovenaan in Google zonder SEO tekstschrijver
 
-Hoog komen in Google gaat tegenwoordig zonder SEO tekstschrijver. De tijden zijn namelijk veranderd. Als je tegenwoordig bovenaan wilt komen in Google zul je waardevolle teksten moeten schrijven. Zit je op een concurrerend zoekwoord? Dan moet je waardevollere [webteksten schrijven](https://demodernenomaden.nl/ondernemen/webteksten-schrijven/) dan je concurrent. Om je een voorbeeld te geven…
+Hoog komen in Google gaat tegenwoordig zonder SEO tekstschrijver. De tijden zijn namelijk veranderd. Als je tegenwoordig bovenaan wilt komen in Google zul je waardevolle teksten moeten schrijven. Zit je op een concurrerend zoekwoord? Dan moet je waardevollere [webteksten schrijven](/blog/ondernemen/webteksten-schrijven/) dan je concurrent. Om je een voorbeeld te geven…
 
-Voor een klant schreef ik een artikel over thema feesten. Het doel daarvan was zo veel mogelijk potentiële klanten te trekken voor zijn website. Het onderwerp ‘thema feesten’ was echter niet onderbelicht. Veel andere websites hadden hier al pagina’s over (die verdacht veel leken op iets dat geschreven was door een SEO tekstschrijver). Ik moest dus een artikel schrijven dat waardevoller was dan de SEO teksten van de concurrent. Ik publiceerde een informatief artikel met 43 thema’s. Het resultaat? Binnen één maand stonden we bovenaan. We krijgen zo’n 6.000 bezoekers per maand via dat ene zoekwoord; themafeesten (zoek maar eens op, geheid dat je mijn artikel bovenaan vind). Dat was geen resultaat van een SEO tekstschrijver, maar van [een blogger die rekening houd met SEO](https://demodernenomaden.nl/go/fiverr-blogger).
+Voor een klant schreef ik een artikel over thema feesten. Het doel daarvan was zo veel mogelijk potentiële klanten te trekken voor zijn website. Het onderwerp ‘thema feesten’ was echter niet onderbelicht. Veel andere websites hadden hier al pagina’s over (die verdacht veel leken op iets dat geschreven was door een SEO tekstschrijver). Ik moest dus een artikel schrijven dat waardevoller was dan de SEO teksten van de concurrent. Ik publiceerde een informatief artikel met 43 thema’s. Het resultaat? Binnen één maand stonden we bovenaan. We krijgen zo’n 6.000 bezoekers per maand via dat ene zoekwoord; themafeesten (zoek maar eens op, geheid dat je mijn artikel bovenaan vind). Dat was geen resultaat van een SEO tekstschrijver, maar van [een blogger die rekening houd met SEO](/go/fiverr-blogger).
 
 ## De nieuwe manier voor meer vindbaarheid
 
@@ -38,7 +38,7 @@ Naar mijn idee is dat de beste manier die Google kan hanteren. Geen oneerlijke e
 
 Zo wordt de website waar je nu op zit door zo’n 50.000 mensen per maand bezocht. Deze mensen komen binnen via waardevolle artikelen. Je zou kunnen zeggen dat waarde bieden in de vorm van content, het ‘nieuwe SEO teksten schrijven’ is. Ook daar komt SEO om de hoek. Maar het is meer bijzaak dan hoofdzaak.
 
-Wil je zelf ook aan de slag met een zakelijk blog om hoger te scoren in Google? [Kijk op Fiverr voor een blogger en ga voor snel resultaat](https://demodernenomaden.nl/go/fiverr-blogger)!
+Wil je zelf ook aan de slag met een zakelijk blog om hoger te scoren in Google? [Kijk op Fiverr voor een blogger en ga voor snel resultaat](/go/fiverr-blogger)!
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -46,6 +46,6 @@ Wil je zelf ook aan de slag met een zakelijk blog om hoger te scoren in Google? 
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

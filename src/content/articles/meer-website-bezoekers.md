@@ -1,6 +1,6 @@
 ---
 title: "Meer website bezoekers – Hoe ik van 0 naar 50.000 bezoekers per maand ging"
-description: ""
+description: "Meer website bezoekers krijgen, dat wilde mij tot vorig jaar maar niet lukken. Ik had mijn website opgezet over een leven als digital nomad. Op de…"
 date: 2018-09-07
 updated: 2023-01-03
 category: "ondernemen"
@@ -10,13 +10,13 @@ draft: false
 featuredImage: "/images/migrated/IMG_20180811_174035-e1536326848572.webp"
 ---
 
-Meer website bezoekers krijgen, dat wilde mij tot vorig jaar maar niet lukken. Ik had [mijn website](https://demodernenomaden.nl/) opgezet over een [leven als digital nomad](https://demodernenomaden.nl/digitalenomaden/digitale-nomaden/). Op de website plaatste ik artikelen en bood ik mijn diensten aan als [webdesigner](https://demodernenomaden.nl/webdesign/) en [trainer](https://demodernenomaden.nl/training-word-digitale-nomade/). Er was alleen een ding wat me enorm tegenzat. De eerste maanden kreeg ik hooguit drie bezoekers per dag via organische kanalen als Google. Maar hier had ik natuurlijk niets aan, hier ging het massa is kassa principe niet voor op.
+Meer website bezoekers krijgen, dat wilde mij tot vorig jaar maar niet lukken. Ik had [mijn website](/) opgezet over een [leven als digital nomad](/blog/digitalenomaden/digital-nomad-worden/). Op de website plaatste ik artikelen en bood ik mijn diensten aan als webdesigner en trainer. Er was alleen een ding wat me enorm tegenzat. De eerste maanden kreeg ik hooguit drie bezoekers per dag via organische kanalen als Google. Maar hier had ik natuurlijk niets aan, hier ging het massa is kassa principe niet voor op.
 
 > Ik moest dus wat bedenken om meer website bezoekers te krijgen maar had, omdat het een startend bedrijf betreft, niet het geld om daar dik voor te adverteren. Het moest dus eigenlijk gewoon gratis.
 
 Nu, 12 maanden verder, heeft diezelfde website 10.000 gratis bezoekers per maand! Ik ben dus in 12 maanden van praktisch 0 naar duizenden bezoekers per maand gegaan. Hoe ik dat heb bereikt en welke stappen daarvoor nodig waren, daar gaan we het in dit artikel over hebben. Het is namelijk voor iedere website mogelijk om zoveel gratis bezoekers per maand te krijgen en daarmee een gigantische groep potentiële klanten aan je te binden.
 
-Meer website bezoekers betekent namelijk dat er meer mensen zijn aan wie jij je product en dienst kan aanraden of [leads kunt genereren](https://demodernenomaden.nl/ondernemen/leads-genereren-mailinglijst/). Of wanneer je doet aan dingen als [affiliate marketing](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/), dat je gewoonweg meer [geld verdient met jouw website](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-website/).
+Meer website bezoekers betekent namelijk dat er meer mensen zijn aan wie jij je product en dienst kan aanraden of [leads kunt genereren](/blog/ondernemen/leads-genereren-mailinglijst/). Of wanneer je doet aan dingen als [affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/), dat je gewoonweg meer [geld verdient met jouw website](/blog/online-geld-verdienen/geld-verdienen-met-website/).
 
 ## **Meer website bezoekers krijgen begon bij één belangrijk inzicht**
 
@@ -32,11 +32,11 @@ Het werd dan ook tijd dat ik zou stoppen met een beetje links en een beetje rech
 
 Mijn doelgroep zijn mensen die locatie onafhankelijk willen werken en daarmee de wereld rond willen reizen. Voor deze doelgroep besloot ik de volgende artikelen te gaan schrijven:
 
-*   [Hoe je aan klanten komt met het schijven van een e-mail](https://demodernenomaden.nl/onlinemarketing/acquisitie-mail-voorbeeld/)
-*   [Hoe je vrienden maakt op reis](https://demodernenomaden.nl/tips/mensen-ontmoeten-op-reis/)
-*   [Alle manieren om online geld te verdienen](https://demodernenomaden.nl/digitalenomaden/online-geld-verdienen/)
-*   [Wat is een digital nomad en hoe word je er een](https://demodernenomaden.nl/digitalenomaden/digitale-nomaden/)
-*   [Alle digital nomad banen opgesomd](https://demodernenomaden.nl/digitalenomaden/digital-nomad-banen/)
+*   [Hoe je aan klanten komt met het schijven van een e-mail](/blog/ondernemen/acquisitie-mail-voorbeeld1/)
+*   [Hoe je vrienden maakt op reis](/blog/tips/mensen-ontmoeten-op-reis/)
+*   [Alle manieren om online geld te verdienen](/blog/online-geld-verdienen/online-geld-verdienen/)
+*   [Wat is een digital nomad en hoe word je er een](/blog/digitalenomaden/digital-nomad-worden/)
+*   [Alle digital nomad banen opgesomd](/blog/digitalenomaden/digital-nomad-banen/)
 
 En zo nog 100 andere ideeën voor artikelen. Een trucje dat mij hierbij heel erg hielp is Google zelf. Wanneer je op Google één woord in typt geeft Google al suggesties naar dingen die rondom dat onderwerp worden gezocht. Dit hielp mij erg om meer relevante zoektermen en dus artikelen te bedenken. Het ging er hier dan ook vooral om, om gewoon zoveel mogelijk te bedenken. Ook te zoeken naar de hoekjes van wat relevant kan zijn voor mijn doelgroep. Een echte divergerende brainstorm dus.
 
@@ -90,6 +90,6 @@ Ook zie ik dat mijn nieuwe artikelen veel sneller zijn gaan ranken. Als ik nu ie
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

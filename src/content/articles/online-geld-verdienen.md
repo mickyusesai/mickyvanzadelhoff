@@ -1,6 +1,6 @@
 ---
 title: "31x Manieren om online geld te verdienen [2023 Guide]"
-description: ""
+description: "Op zoek naar alle manieren om online geld te verdienen? Dan zit je hier goed! Zelf reis ik al zes jaar de wereld over als digital nomad. Ik doe mijn…"
 date: 2018-02-24
 updated: 2022-12-19
 category: "online-geld-verdienen"
@@ -10,7 +10,7 @@ draft: false
 featuredImage: "/images/migrated/online-geld-verdienen-betrouwbare-manieren-1.webp"
 ---
 
-Op zoek naar alle **manieren om online geld te verdienen**? Dan zit je hier goed! Zelf reis ik al zes jaar de wereld over als [digital nomad](https://demodernenomaden.nl/over-mij/). Ik doe mijn werk op mijn laptop en kan dat doen vanaf waar dan ook ter wereld.
+Op zoek naar alle **manieren om online geld te verdienen**? Dan zit je hier goed! Zelf reis ik al zes jaar de wereld over als [digital nomad](/over/). Ik doe mijn werk op mijn laptop en kan dat doen vanaf waar dan ook ter wereld.
 
 **Online geld verdienen** vind ik geweldig. Het geeft je de mogelijkheid om vanuit huis te werken, geen 9-to-5 te leven en zelf je vakanties te bepalen. Het enige wat je nodig hebt om online geld te verdienen is een **laptop, Wifi en stopcontact**. Heb je dat? Dan kunnen we aan de slag!
 
@@ -36,7 +36,7 @@ Hieronder ga ik in op de betrouwbare manieren om online geld te verdienen. **Doo
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
 
@@ -44,19 +44,19 @@ Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige
 
 ![Geld verdienen met website](/images/migrated/geld-verdienen-met-website.webp "geld-verdienen-met-website")
 
-Een **website of blog** is een goede manier om online geld te verdienen. Je kunt hiermee vele kanten op. **Iedereen kan tegenwoordig [een blog maken](https://demodernenomaden.nl/ondernemen/blog-beginnen-starten-stappenplan/)**.
+Een **website of blog** is een goede manier om online geld te verdienen. Je kunt hiermee vele kanten op. **Iedereen kan tegenwoordig [een blog maken](/blog/ondernemen/blog-beginnen-starten-stappenplan/)**.
 
-Zeker met een webbouwer zoals **WordPress** is dat zo gedaan. Je registreert jouw domeinnaam en WordPress hosting eenvoudig bij [Cloud86](https://demodernenomaden.nl/go/cloud86) en kunt binnen no-time aan de slag.
+Zeker met een webbouwer zoals **WordPress** is dat zo gedaan. Je registreert jouw domeinnaam en WordPress hosting eenvoudig bij [Cloud86](/go/cloud86) en kunt binnen no-time aan de slag.
 
 Wanneer je een eigen website maakt kun je dit doen over iets waar je gepassioneerd over bent. Bezoekers komen vervolgens op jouw website terecht via Google (_zo ben jij hier ook gekomen toch?_).
 
 **Dat zijn gratis websitebezoekers** en daarmee kun jij geld verdienen.
 
-> Geld verdienen met een website kan door; **advertenties, advertorials, affiliate marketing, een goed lopende website te verkopen, Google Adsense, bedrijfsvermeldingen of door jouw eigen product of dienst erop aan te bieden, zoals in een [webshop](https://demodernenomaden.nl/online-geld-verdienen/eigen-webshop-beginnen/).**
+> Geld verdienen met een website kan door; **advertenties, advertorials, affiliate marketing, een goed lopende website te verkopen, Google Adsense, bedrijfsvermeldingen of door jouw eigen product of dienst erop aan te bieden, zoals in een [webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/).**
 
 Er zijn mogelijkheden zat voor een inkomen met jouw eigen website! Zo verdien ik immers ook mijn geld ;).
 
-Wil je weten hoe je zelf aan de slag gaat met een eigen blog? Ik heb een gratis training gemaakt waarin ik je stap voor stap meeneem in het proces. Je leert daarin een blog opzetten en maakt hier vervolgens een verdienmodel van. Je volgt de gratis training [hier](https://demodernenomaden.nl/gratis/).
+Wil je weten hoe je zelf aan de slag gaat met een eigen blog? Ik heb een gratis training gemaakt waarin ik je stap voor stap meeneem in het proces. Je leert daarin een blog opzetten en maakt hier vervolgens een verdienmodel van. Je volgt de gratis training [hier](/blog/ondernemen/blog-beginnen-starten-stappenplan/).
 
 Wat je vaak ziet bij websites is dat ze **meerdere methodes tegelijk toepassen** om online geld te verdienen. Zo zal je op mijn website eigen producten, affiliate marketing, advertenties en advertorials tegenkomen.
 
@@ -68,7 +68,7 @@ Over affiliate marketing hebben we het straks, maar eerst even iets over Google 
 
 Je hoeft je slechts bij Google Adsense **aan te melden** en dit aan jouw website te koppelen. Vervolgens ontvang je geld per keer dat er op een van de advertenties wordt geklikt.
 
-Belangrijk om hierbij te weten is dat je [veel bezoekers](https://demodernenomaden.nl/ondernemen/meer-website-bezoekers/) nodig hebt op je website. Zomaar een website starten en wachten tot het geld binnenstroomt zal niet werken.
+Belangrijk om hierbij te weten is dat je [veel bezoekers](/blog/ondernemen/meer-website-bezoekers/) nodig hebt op je website. Zomaar een website starten en wachten tot het geld binnenstroomt zal niet werken.
 
 Ga dus actief aan de slag met waardevolle content zodat mensen jouw website kunnen vinden én willen bezoeken. Op mijn eigen blog vind je inmiddels **meer dan honderd uitgebreide artikelen** waar ik mensen op het internet een antwoord bied op een vraag. “Hoe kun je online geld verdienen?” bijvoorbeeld.
 
@@ -78,7 +78,7 @@ Ga dus actief aan de slag met waardevolle content zodat mensen jouw website kunn
 
 Affiliate marketing is een **interessante en relatief nieuwe manier** om online geld te verdienen.
 
-Zelf pas ik **affiliate marketing** veelvuldig toe. Deze vorm van marketing zorgt ervoor dat ik [passieve inkomsten](https://demodernenomaden.nl/online-geld-verdienen/passief-inkomen-genereren/) heb.
+Zelf pas ik **affiliate marketing** veelvuldig toe. Deze vorm van marketing zorgt ervoor dat ik [passieve inkomsten](/blog/online-geld-verdienen/passief-inkomen-genereren/) heb.
 
 Het gebeurt regelmatig dat ik ’s ochtends mijn laptop open en een melding heb ontvangen met daarin nieuwe affiliate verdiensten (zo’n €5000,- per maand inmiddels). Best ludiek, want ik lag op dat moment gewoon te slapen!
 
@@ -92,7 +92,7 @@ Een commissie bij affiliate marketing kan **oplopen tot 50% van de verkoopprijs*
 
 Die linkjes kun je plaatsen op jouw website, blog, Instagram pagina, Youtube kanaal, Facebook pagina of in een e-mail. Het maakt eigenlijk niet uit waar, zolang iemand er maar op kan klikken, kun jij er geld mee verdienen!
 
-Wanneer je een website, blog of ander platform hebt om affiliate links op te plaatsen, dien je je aan te melden bij een van de duizenden [affiliate programma´s](https://demodernenomaden.nl/ondernemen/affiliate-programma/).
+Wanneer je een website, blog of ander platform hebt om affiliate links op te plaatsen, dien je je aan te melden bij een van de duizenden [affiliate programma´s](/blog/ondernemen/affiliate-programma/).
 
 Die programma’s zijn bedoelt voor **het koppelen van publishers en affiliates**.
 
@@ -104,7 +104,7 @@ Dat gaat met **een trackingcode die verborgen is in de affiliate link**. Zo weet
 
 > Bekende affiliate programma’s (en netwerken) in Nederland zijn **Tradetracker, Paypro, Plug&Pay, Daisycon en het partnerprogramma van Bol.com**.
 > 
-> Je meld je eenvoudig aan en kunt wanneer je een platform hebt, direct starten met online geld verdienen. [\> meer over affiliate marketing lees je hier](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/)
+> Je meld je eenvoudig aan en kunt wanneer je een platform hebt, direct starten met online geld verdienen. [\> meer over affiliate marketing lees je hier](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/)
 
 Essentieel bij affiliate marketing is dat je **een grote following** hebt of **een website met veel bezoekers**. Dat vergroot de kans op succes. Simpel gezegd kun je stellen dat hoe meer followers of bezoekers je hebt, hoe meer geld je verdient.
 
@@ -114,7 +114,7 @@ Hoewel affiliate commissies ontvangen leuk is, kun je er ook voor kiezen om affi
 
 Stel bijvoorbeeld dat je zelf een online product hebt, dan kun je dit op een affiliate platform plaatsen. Andere mensen met drukbezochte websites kunnen dit product dan in ruil voor een commissie voor jou promoten. **Weer een manier om online geld te verdienen ;).**
 
-**[Wil je affiliate marketing net als ik toepassen op een eigen blog of Youtube kanaal? Volg dan deze beginnerstraining.](https://demodernenomaden.nl/go/affiliate-marketing-revolutie)**
+**[Wil je affiliate marketing net als ik toepassen op een eigen blog of Youtube kanaal? Volg dan deze beginnerstraining.](/go/affiliate-marketing-revolutie)**
 
 ## 3\. Online geld verdienen met crypto
 
@@ -130,15 +130,15 @@ Bovenstaande kan je letterlijk op dagelijkse basis doen en doordat crypto flink 
 
 Waar je bij het traden van crypto wellicht denkt aan nulletjes en eentjes is dat tegenwoordig al lang niet meer zo ingewikkeld.
 
-Ook jij kunt **[een account aanmaken op Bitvavo](https://demodernenomaden.nl/go/bitvavo)** en vandaag nog beginnen met handelen. Via [deze link](https://demodernenomaden.nl/go/bitvavo) betaal je voor het traden van crypto zelfs geen handelskosten.
+Ook jij kunt **[een account aanmaken op Bitvavo](/go/bitvavo)** en vandaag nog beginnen met handelen. Via [deze link](/go/bitvavo) betaal je voor het traden van crypto zelfs geen handelskosten.
 
 ![Mijn crypto portfolio op Bitvavo](/images/migrated/mijn-crypto-portfolio-op-bitvavo-1.webp "Mijn crypto portfolio op Bitvavo")
 
-Let wel op… Want aan traden zitten altijd risico’s verbonden. Deze risico’s kun je minimaliseren met bepaalde technieken. Als je daar meer over wilt weten raad ik je aan om [dit artikel over geld verdienen met crypto](https://demodernenomaden.nl/online-geld-verdienen/handelen-in-crypto-valuta/) te lezen.
+Let wel op… Want aan traden zitten altijd risico’s verbonden. Deze risico’s kun je minimaliseren met bepaalde technieken. Als je daar meer over wilt weten raad ik je aan om [dit artikel over geld verdienen met crypto](/blog/web3/handelen-in-crypto-valuta/) te lezen.
 
 Ook zijn twee collega’s van mij volop actief in de cryptomarkt. Zij verhandelen daar al jaren cryptomunten en ontdekken zo nu en dan **een nieuwe cryptoparel** welke tot wel honderden keren over de kop kan gaan. Dit zijn hele kleine cryptomunten met grote groeipotentie, dat is dus vooral leuk voor de lange termijn!
 
-> Gezien hun enthousiasme over cryptomunten geven ze daar ook gratis trainingen over. [Deze kun je hier volgen](https://demodernenomaden.nl/go/crypto-training/). In de training koop je al gelijk je eerste cryptomunt voor één euro. Een prima starter denk ik zo! Of ga aan de slag met de **[Money Mastery](https://demodernenomaden.nl/online-geld-verdienen/crypto-masterclass-review-allesovercrypto-patrick-suiker-derek-westra/)**, de nummer één training over crypto in Nederland.
+> Gezien hun enthousiasme over cryptomunten geven ze daar ook gratis trainingen over. [Deze kun je hier volgen](/go/crypto-training). In de training koop je al gelijk je eerste cryptomunt voor één euro. Een prima starter denk ik zo! Of ga aan de slag met de **[Money Mastery](/blog/review/money-mastery-review-allesovercrypto-patrick-suiker-derek-westra/)**, de nummer één training over crypto in Nederland.
 
 ## **4\. NFTs flippen en geld verdienen met de Metaverse**
 
@@ -152,9 +152,9 @@ En ja, ook daar kan je geld mee verdienen. Zo komen er steeds meer nieuwskoppen 
 
 ![NFT geld verdienen Beeple](/images/migrated/nft-geld-verdienen-beeple-1.webp "nft-geld-verdienen-beeple (1)")
 
-Geld verdienen met NFT’s kan kort gezegd op twee manieren. De eerste is door **jouw eigen NFT’s uit te brengen**, bijvoorbeeld als je een beetje goed bent met design. De tweede is om **populaire** [NFT’s te kopen en voor meer te verkopen](https://demodernenomaden.nl/go/nft-secrets-gratis). Hoe dat allemaal werkt lees je in dit artikel: [Geld verdienen met NFT’s – Volledig uitleg](https://demodernenomaden.nl/online-geld-verdienen/nft-uitleg/).
+Geld verdienen met NFT’s kan kort gezegd op twee manieren. De eerste is door **jouw eigen NFT’s uit te brengen**, bijvoorbeeld als je een beetje goed bent met design. De tweede is om **populaire** [NFT’s te kopen en voor meer te verkopen](/go/nft-secrets-gratis). Hoe dat allemaal werkt lees je in dit artikel: [Geld verdienen met NFT’s – Volledig uitleg](/blog/web3/nft-uitleg/).
 
-Een beetje opvolgend aan NFT’s is de nieuwste trend; **de Metaverse**. Dit is een soort digitale wereld. Er zijn inmiddels al velen [Metaverse crypto](https://demodernenomaden.nl/web3/metaverse-crypto/) en manieren om hier geld mee te verdienen zijn eindeloos. Kijk maar eens naar onderstaande lijstje:
+Een beetje opvolgend aan NFT’s is de nieuwste trend; **de Metaverse**. Dit is een soort digitale wereld. Er zijn inmiddels al velen [Metaverse crypto](/blog/web3/metaverse-crypto/) en manieren om hier geld mee te verdienen zijn eindeloos. Kijk maar eens naar onderstaande lijstje:
 
 1.  Investeren in Metaverse crypto
 2.  Metaverse makelaar worden
@@ -165,7 +165,7 @@ Een beetje opvolgend aan NFT’s is de nieuwste trend; **de Metaverse**. Dit is 
 7.  Werken in de Metaverse
 8.  Wearables ontwerpen
 
-Wil je meer weten over hoe je geld verdient met de Metaverse? Bekijk dan [dit uitgebreide artikel over de verdienmodellen in de Metaverse](https://demodernenomaden.nl/web3/geld-verdienen-metaverse/).
+Wil je meer weten over hoe je geld verdient met de Metaverse? Bekijk dan [dit uitgebreide artikel over de verdienmodellen in de Metaverse](/blog/web3/geld-verdienen-metaverse/).
 
 ## **5\. Instagram, Youtube, Tiktok en Facebook als verdienmodel**
 
@@ -175,17 +175,17 @@ Wie denkt dat sociale media als Instagram, Youtube, Tiktok en Facebook alleen be
 
 De basis om hier inkomen uit te halen is in ieder geval altijd hetzelfde. Je hebt een groot aantal **actieve volgers** nodig op een medium voor je er iets uit kan halen.
 
-Denk hierbij aan een ondergrens van 50.000 volgers op Instagram, 10.000 abonnees op Youtube of 50.000 pagina likes op Facebook. Bij die aantallen wordt het interessant! Al kun je ook als ‘mirco influencer’ beginnen. Vooral belangrijk is dat je volgers actief zijn en zich in een [specifieke niche](https://demodernenomaden.nl/ondernemen/blog-niches/) bevinden.
+Denk hierbij aan een ondergrens van 50.000 volgers op Instagram, 10.000 abonnees op Youtube of 50.000 pagina likes op Facebook. Bij die aantallen wordt het interessant! Al kun je ook als ‘mirco influencer’ beginnen. Vooral belangrijk is dat je volgers actief zijn en zich in een [specifieke niche](/blog/ondernemen/blog-niches/) bevinden.
 
 Als je zo’n volgers base hebt dan kun je starten met online geld verdienen. Dit doe je door bijvoorbeeld **advertenties van bedrijven** op jouw account toe te staan of een **review voor een bedrijf** te maken. Ook hier kun je wederom met **affiliate marketing** inkomsten uithalen.
 
 Wil je hier het fijne van weten? Klik dan hieronder op het medium waar jij je op focust ->
 
-[– Geld verdienen met Instagram](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-instagram/)
+[– Geld verdienen met Instagram](/blog/online-geld-verdienen/geld-verdienen-met-instagram-2/)
 
-[– Geld verdienen met Youtube](https://demodernenomaden.nl/online-geld-verdienen/youtube/)
+[– Geld verdienen met Youtube](/blog/online-geld-verdienen/youtube/)
 
-[– Geld verdienen met Facebook](https://demodernenomaden.nl/online-geld-verdienen/facebook/)
+[– Geld verdienen met Facebook](/blog/online-geld-verdienen/facebook/)
 
 > Andere manieren om geld te verdienen met sociale media zijn **paid memberships (Youtube), partnerships, een eigen product of dienst, donaties, Google Adsense en branding**. De basis is altijd hetzelfde; dat je een bepaalde following hebt.
 
@@ -201,7 +201,7 @@ Vaak verdien je daarmee **rond de €1000,-** per maand per klant.
 
 Als je een talenknobbel hebt dan is **online teksten vertalen** wat voor jou.
 
-Het vertalen van teksten kan veel opleveren en het is **eenvoudig om aan opdrachten te komen**. Daar zijn [verschillende vertaalplatforms](https://demodernenomaden.nl/online-geld-verdienen/online-vertalen/) voor.
+Het vertalen van teksten kan veel opleveren en het is **eenvoudig om aan opdrachten te komen**. Daar zijn [verschillende vertaalplatforms](/blog/online-geld-verdienen/online-vertalen/) voor.
 
 Essentieel is dat je **twee talen volledig beheerst** en in staat bent kwalitatief te vertalen. Dat kan gaan om het vertalen van **webteksten, artikelen of het vertalen van een boek**.
 
@@ -219,7 +219,7 @@ Goed om te weten bij deze methode om online geld te verdienen is dat je verdiens
 
 Online marketing is een goede manier om online geld te verdienen. Het is voor het grootste deel uit te voeren vanachter een laptop.
 
-[Geld verdienen als online marketeer](https://demodernenomaden.nl/online-geld-verdienen/online-marketing/) wil zeggen dat je bedrijven helpt **advertentie campagnes op te zetten, sociale media beheert of dat je je bezig houdt met Search Engine Optimalisation (SEO, zoekmachineoptimalisatie)**.
+[Geld verdienen als online marketeer](/blog/online-geld-verdienen/online-marketing/) wil zeggen dat je bedrijven helpt **advertentie campagnes op te zetten, sociale media beheert of dat je je bezig houdt met Search Engine Optimalisation (SEO, zoekmachineoptimalisatie)**.
 
 Het komt erop neer dat jij bedrijven helpt om aan klanten te komen. De extra omzet die dat oplevert is voor veel bedrijven een goede reden om jou als online marketeer flink wat geld te geven.
 
@@ -237,7 +237,7 @@ Je kunt jezelf specialiseren in onder andere:
 *   **SEO (zoekmachineoptimalisatie)**
 *   **Growth hacking**
 *   **SEA (Google advertenties)**
-*   **[E-mail marketing](https://demodernenomaden.nl/ondernemen/e-mail-marketing/)**
+*   **[E-mail marketing](/blog/ondernemen/e-mail-marketing/)**
 *   **Influencer marketing**
 *   **Conversie optimalisatie**
 
@@ -249,7 +249,7 @@ En zo zijn er nog tal van richtingen! Eigenlijk is het vakgebied oneindig. Kies 
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
 
@@ -271,7 +271,7 @@ Een e-book hoeft geen roman te zijn van 80.000 woorden. Sterker nog, de best ver
 
 Denk er bijvoorbeeld aan om een e-book te schrijven over afvallen, positief denken of mediteren voor beginners. Met een e-book kunnen mensen relatief snel specifieke kennis vergaren.
 
-> Mijn eigen [e-book over het digital nomad bestaan](https://demodernenomaden.nl/digital-nomad-boek/) heeft 40.000 woorden en is daarmee erg aan de lange kant. Er was simpelweg teveel over te vertellen om het korter uit te geven.
+> Mijn eigen [e-book over het digital nomad bestaan](/boek/) heeft 40.000 woorden en is daarmee erg aan de lange kant. Er was simpelweg teveel over te vertellen om het korter uit te geven.
 
 Wanneer je een e-book schrijft kun je deze verkopen via een **platform als Bol.com** (een Nederlandse partij die je daarbij kan helpen is Pumbo). Of je verkoopt jouw e-book via Google Boeken.
 
@@ -311,13 +311,13 @@ Ben je ergens heel erg goed in? Vast wel! Dan kun jij anderen helpen door **jouw
 
 Je maakt een videotraining over een **specifiek onderwerp** en gaat hier diep op in. Vervolgens vind je studenten die jouw videotraining willen volgen en zo verdien jij online geld.
 
-Het mooie aan een videotraining is dat dit een [passief inkomen](https://demodernenomaden.nl/online-geld-verdienen/passief-inkomen-genereren/) op kan leveren. Wanneer de videotraining eenmaal is gemaakt kun je het proces van de student volledig automatiseren. Je kunt dus steeds nieuwe studenten aantrekken zonder een nieuwe training te hoeven maken. **Tel uit je winst**.
+Het mooie aan een videotraining is dat dit een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/) op kan leveren. Wanneer de videotraining eenmaal is gemaakt kun je het proces van de student volledig automatiseren. Je kunt dus steeds nieuwe studenten aantrekken zonder een nieuwe training te hoeven maken. **Tel uit je winst**.
 
 > Maak je geen zorgen over de filmkant rondom jouw videotraining. Het allerbelangrijkst is dat de inhoud goed zit, de techniek komt daarbij pas op de tweede plaats.
 
-**Het verkopen van jouw eigen videotraining** doe je eenvoudig via een van de vele platforms die daarvoor zijn bedoelt. Houdt er daarbij wel rekening mee dat deze platforms (zoals Udemy) vaak grove commissies rekenen tot de helft van de verkoopprijs. Als je het wat meer zelfstandig wilt verkopen via bijvoorbeeld jouw eigen website, dan kun je een videotraining gemakkelijk opzetten met [The Huddle](https://demodernenomaden.nl/go/huddle). Dit is een Nederlandse partij waar je alle tools binnen handbereik hebt inclusief een eigen online community!
+**Het verkopen van jouw eigen videotraining** doe je eenvoudig via een van de vele platforms die daarvoor zijn bedoelt. Houdt er daarbij wel rekening mee dat deze platforms (zoals Udemy) vaak grove commissies rekenen tot de helft van de verkoopprijs. Als je het wat meer zelfstandig wilt verkopen via bijvoorbeeld jouw eigen website, dan kun je een videotraining gemakkelijk opzetten met [The Huddle](/go/huddle). Dit is een Nederlandse partij waar je alle tools binnen handbereik hebt inclusief een eigen online community!
 
-Zelf verkoop ik op deze website ook [een eigen videotraining over hoe je van bloggen een business maakt](https://demodernenomaden.nl/yes/). Een interessant project dat al honderden mensen heeft geholpen.
+Zelf verkoop ik op deze website ook [een eigen videotraining over hoe je van bloggen een business maakt](/). Een interessant project dat al honderden mensen heeft geholpen.
 
 ## **12\. Verkopen op Bol.com**
 
@@ -333,13 +333,13 @@ Hoe je er geld mee verdient zit als volgt.
 4\. Bol.com regelt de verkoop en vangen daar een commissie voor.  
 ****5\. Jij krijgt betaald per verkoop.**
 
-Bij het [verkopen via Bol.com](https://demodernenomaden.nl/ondernemen/verkopen-op-bol-com/) heb je zelf geen magazijn nodig. Alles is te regelen op afstand en dat maakt het ook zo relaxt. Wil je meer weten over verkopen op Bol.com? Ik schreef er [dit artikel](https://demodernenomaden.nl/ondernemen/verkopen-op-bol-com/) over.
+Bij het [verkopen via Bol.com](/blog/ondernemen/verkopen-op-bol-com/) heb je zelf geen magazijn nodig. Alles is te regelen op afstand en dat maakt het ook zo relaxt. Wil je meer weten over verkopen op Bol.com? Ik schreef er [dit artikel](/blog/ondernemen/verkopen-op-bol-com/) over.
 
 Het is niet de meest eenvoudige manier om een online inkomen te vergaren, maar wel iets wat je rustig stap voor stap kunt opbouwen. Een product dat eenmaal goed verkoopt, hoef je niet zoveel meer voor te doen. Dus zie je dat veel mensen **die dit verdienmodel aanpakken** er dan een product bijnemen en zo stap voor stap uitbouwen.
 
 ## **13\. Doe klusjes op een platform als Fiverr of Upwork**
 
-![It's Fiverr review. How to find your perfect freelancers?](/images/migrated/fiverr.webp "Fiverr")
+<!-- TODO: image missing after migration: fiverr.webp -->
 
 Kan je goed **designen, copywriten of wat dan ook?** Via een platform als Fiverr kun je jezelf als freelancer aanmelden om opdrachten te krijgen.
 
@@ -351,7 +351,7 @@ Zelf ken ik iemand die op deze manier in het werk als **virtual assistent** is g
 
 Denk aan het **beantwoorden van e-mails**, **inplannen van afspraken** en soms het **organiseren van activiteiten**.
 
-Het voordeel van dit soort freelance werk is dat het je ook in aanraking laat komen met [remote jobs](https://demodernenomaden.nl/digitalenomaden/digital-nomad-banen/). Zo zijn er mensen die na een opdracht fulltime voor een bedrijf gaan werken, veelal blijft dit dan **werk dat je op afstand via het internet kan doen**.
+Het voordeel van dit soort freelance werk is dat het je ook in aanraking laat komen met [remote jobs](/blog/digitalenomaden/digital-nomad-banen/). Zo zijn er mensen die na een opdracht fulltime voor een bedrijf gaan werken, veelal blijft dit dan **werk dat je op afstand via het internet kan doen**.
 
 ## **14\. Verkoop stockfoto´s**
 
@@ -371,9 +371,9 @@ Het enige wat je hoeft te doen is je **aan te melden bij enkele stockfoto websit
 
 Content gaat steeds sneller, **zo ook videocontent**. Per seconde worden er honderden uren aan video geüpload en dat vraagt om video-editers die dat kunnen bewerken.
 
-Natuurlijk moet je je dan wel [verdiepen in Adobe Premiere](https://demodernenomaden.nl/go/adobe-premiere-pro-boek) (editing software), maar video editing is voor iedereen vanuit huis aan te leren. Daarbij betaald deze skill zichzelf dubbel en dwars uit.
+Natuurlijk moet je je dan wel [verdiepen in Adobe Premiere](/go/adobe-premiere-pro-boek) (editing software), maar video editing is voor iedereen vanuit huis aan te leren. Daarbij betaald deze skill zichzelf dubbel en dwars uit.
 
-Leren video editen kun je doen met een hele dure cursus. Al moet ik stellen dat [dit e-book](https://demodernenomaden.nl/go/adobe-premiere-pro-boek) je ook goed op weg helpt. Vul dat aan met wat zoeken op Youtube en je kunt editen als een semi pro.
+Leren video editen kun je doen met een hele dure cursus. Al moet ik stellen dat [dit e-book](/go/adobe-premiere-pro-boek) je ook goed op weg helpt. Vul dat aan met wat zoeken op Youtube en je kunt editen als een semi pro.
 
 Zelf heb ik deze skill geleerd door gewoon eigen video’s te gaan editen. Dat ik daarbij af en toe vragen kon stellen aan een expert was erg handig!
 
@@ -381,13 +381,13 @@ Zelf heb ik deze skill geleerd door gewoon eigen video’s te gaan editen. Dat i
 
 ![Whitepress advertorials](/images/migrated/advertorials-whitepress-geld-verdienen.webp "advertorials-whitepress-geld-verdienen")
 
-Wellicht heb je nog nooit van [Whitepress of advertorials](https://demodernenomaden.nl/online-geld-verdienen/whitepress-geld-verdienen-advertorials/) gehoord, maar het principe is simpel. Wanneer je een eigen blog of website hebt met veel bezoekers, kun je ruimte aan adverteerders verkopen. Deze ruimte wordt vervolgens ingevuld door een advertorial. Dat is een advertentie in de vorm van een artikel.
+Wellicht heb je nog nooit van [Whitepress of advertorials](/blog/online-geld-verdienen/whitepress-geld-verdienen-advertorials/) gehoord, maar het principe is simpel. Wanneer je een eigen blog of website hebt met veel bezoekers, kun je ruimte aan adverteerders verkopen. Deze ruimte wordt vervolgens ingevuld door een advertorial. Dat is een advertentie in de vorm van een artikel.
 
-Wanneer je zelf [een blog hebt opgezet](https://demodernenomaden.nl/ondernemen/blog-beginnen-starten-stappenplan/) kun je je aanmelden bij een programma als [Whitepress](https://demodernenomaden.nl/go/whitepress) en via daar kunnen bedrijven jou vinden en artikelen bestellen. Verdiensten zijn **tussen de 200,- en 5000,- euro per plaatsing**. Dat bedrag is afhankelijk van de kwaliteit en het aantal bezoekers van jouw website.
+Wanneer je zelf [een blog hebt opgezet](/blog/ondernemen/blog-beginnen-starten-stappenplan/) kun je je aanmelden bij een programma als [Whitepress](/go/whitepress) en via daar kunnen bedrijven jou vinden en artikelen bestellen. Verdiensten zijn **tussen de 200,- en 5000,- euro per plaatsing**. Dat bedrag is afhankelijk van de kwaliteit en het aantal bezoekers van jouw website.
 
 ## Hoe je succesvol werkt aan een online inkomen
 
-![](/images/migrated/digital-nomad-mick-van-zadelhoff-malta-1.webp "digital-nomad-mick-van-zadelhoff-malta (1)")
+![](/images/micky/digital-nomad-mick-van-zadelhoff-malta-1.webp "digital-nomad-mick-van-zadelhoff-malta (1)")
 
 Natuurlijk zou je direct **een manier kunnen kiezen** om online geld te verdienen en aan de slag te gaan. Maar vaak is het beter om eerst eens te kijken naar wat voor jou het beste zou werken. **Dit is namelijk voor iedereen verschillend**.
 
@@ -399,17 +399,17 @@ Via de website waarop je nu zit verdien ik zo’n **€5000,- per maand via blog
 
 ### Gratis trainingen over online geld verdienen
 
-Lijkt bloggen, affiliate marketing of een eigen website jou ook wat? Zorg dan dat je meedoet met de [GRATIS training over het opzetten van een professioneel blog’](https://demodernenomaden.nl/gratis/). Daar ga ik volledig de diepte in op dit verdienmodel ;). Of kijk of **een van de andere gratis trainingen** die voor jou interessant zijn.
+Lijkt bloggen, affiliate marketing of een eigen website jou ook wat? Zorg dan dat je meedoet met de [GRATIS training over het opzetten van een professioneel blog’](/blog/ondernemen/blog-beginnen-starten-stappenplan/). Daar ga ik volledig de diepte in op dit verdienmodel ;). Of kijk of **een van de andere gratis trainingen** die voor jou interessant zijn.
 
-> ### [**Jouw eigen professionele blog opzetten**](https://demodernenomaden.nl/gratis/)
+> ### [**Jouw eigen professionele blog opzetten**](/blog/ondernemen/blog-beginnen-starten-stappenplan/)
 > 
-> Leer hoe je een blog opzet en daar geld mee verdient. Ga aan de slag richting passief inkomen. [\> Ga naar training](https://demodernenomaden.nl/gratis/)
+> Leer hoe je een blog opzet en daar geld mee verdient. Ga aan de slag richting passief inkomen. [\> Ga naar training](/blog/ondernemen/blog-beginnen-starten-stappenplan/)
 
-> ### [**Handel in cryptomunten**](https://demodernenomaden.nl/go/crypto-training/)
+> ### [**Handel in cryptomunten**](/go/crypto-training)
 > 
-> Leer hoe jij geld kan verdienen met het verhandelen van cryptomunten. [\> Ga naar training](https://demodernenomaden.nl/go/crypto-training/)
+> Leer hoe jij geld kan verdienen met het verhandelen van cryptomunten. [\> Ga naar training](/go/crypto-training)
 
-> ### [**NFTs flippen voor winst**](https://demodernenomaden.nl/go/crypto-training/)
+> ### [**NFTs flippen voor winst**](/go/crypto-training)
 > 
 > Leer NFT projecten te vinden die in waarde gaan stijgen. Koop goedkoop in en maak winst met NFTs. [\> Ga naar training](/go/nft-secrets)
 
@@ -429,11 +429,11 @@ Voor iedere manier om online geld te verdienen verschilt het of er een investeri
 
 > In plaats van duizenden euro’s in te moeten leggen, investeer je online vaak vooral je kostbare tijd.
 
-Verder ligt het volledig aan de manier die je kiest, maar zonder geld kom je heel ver. Ik heb zelf ook maar **minimaal geld geïnvesteerd** toen ik begon met mijn eigen blog. De enige echte kosten waren de [hosting van mijn website bij Cloud86](https://demodernenomaden.nl/go/cloud86).
+Verder ligt het volledig aan de manier die je kiest, maar zonder geld kom je heel ver. Ik heb zelf ook maar **minimaal geld geïnvesteerd** toen ik begon met mijn eigen blog. De enige echte kosten waren de [hosting van mijn website bij Cloud86](/go/cloud86).
 
 Mocht je denken geld kwijt te gaan zijn, kijk dan altijd eerst in je netwerk, er is altijd wel iemand die een website kan bouwen, een training kan filmen, je e-book kan designen etc.
 
-Verder is het online ook vaak zo dat je pas geld uitgeeft als je geld verdient. Stel bijvoorbeeld dat je doet aan [affiliate marketing](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) (_samengevat is dat het op basis van commissie producten verkopen_), dan heb je pas kosten (en opbrengsten) als je een product voor de affiliate hebt verkocht.
+Verder is het online ook vaak zo dat je pas geld uitgeeft als je geld verdient. Stel bijvoorbeeld dat je doet aan [affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) (_samengevat is dat het op basis van commissie producten verkopen_), dan heb je pas kosten (en opbrengsten) als je een product voor de affiliate hebt verkocht.
 
 ## Online geld verdienen expert tips
 
@@ -443,7 +443,7 @@ Dan nog wat tips die ik je mee zou willen geven. Om me heen zie ik het namelijk 
 
 Natuurlijk heb ik dit een beetje overdreven geformuleerd, maar online geld verdienen is vaak **het pad van de lange adem**. Het is echt niet zo dat je vandaag een cursus maakt en deze morgen 100x verkoopt. Daar gaat moeite in zitten en al doende leert men. Helaas wordt er online wel vaak gedaan alsof het allemaal simpel is, maar vergis je daar zeker niet in.
 
-> Neem jezelf en je plannen serieus en kies voor een strategie op de lange termijn. Zeker [wanneer je wilt werken aan een passief online inkomen](https://demodernenomaden.nl/online-geld-verdienen/passief-inkomen-genereren/) is een lange termijn plan datgene dat ervoor zorgt dat je over één jaar nooit meer hoeft om te kijken naar je financiën.
+> Neem jezelf en je plannen serieus en kies voor een strategie op de lange termijn. Zeker [wanneer je wilt werken aan een passief online inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/) is een lange termijn plan datgene dat ervoor zorgt dat je over één jaar nooit meer hoeft om te kijken naar je financiën.
 
 ### 2\. Werk toe naar een passief online inkomen
 
@@ -451,7 +451,7 @@ Dit is het grootste voordeel van online je geld verdienen. Het feit dat je kunt 
 
 ### 3\. Ken de basis van online marketing
 
-Veelal komt online marketing om de hoek kijken. Je moet namelijk weten hoe je iets kunt verkopen via het internet. Hoe kom je bijvoorbeeld het beste over en hoe kun je anderen overtuigen? Zorg dat je de basis kent van [online marketing](https://demodernenomaden.nl/online-geld-verdienen/online-marketing/) om van jouw manier om online geld te verdienen een succes te maken. Veel mensen die ik zelf ontmoet op reis hebben ook een training of opleiding gevolgd voordat ze online succesvol werden.
+Veelal komt online marketing om de hoek kijken. Je moet namelijk weten hoe je iets kunt verkopen via het internet. Hoe kom je bijvoorbeeld het beste over en hoe kun je anderen overtuigen? Zorg dat je de basis kent van [online marketing](/blog/online-geld-verdienen/online-marketing/) om van jouw manier om online geld te verdienen een succes te maken. Veel mensen die ik zelf ontmoet op reis hebben ook een training of opleiding gevolgd voordat ze online succesvol werden.
 
 ### 4\. Vraag anderen je te helpen
 
@@ -465,7 +465,7 @@ Een beetje onder het mom, als ik het kan, dan kan jij het zeker! **Online succes
 
 Als ik terug kijk en ik zie wat ik er allemaal voor heb teruggekregen dan heb ik **geen moment spijt van de inzet die ik heb getoond**. Succes!
 
-[**Wil je net als ik geld verdienen met bloggen en affiliate marketing? Volg dan mijn gratis online training over de ‘De 5 Simpele Stappen Naar Jouw Eigen Professionele Blog’.**](https://demodernenomaden.nl/gratis/)
+[**Wil je net als ik geld verdienen met bloggen en affiliate marketing? Volg dan mijn gratis online training over de ‘De 5 Simpele Stappen Naar Jouw Eigen Professionele Blog’.**](/blog/ondernemen/blog-beginnen-starten-stappenplan/)
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -473,6 +473,6 @@ Als ik terug kijk en ik zie wat ik er allemaal voor heb teruggekregen dan heb ik
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

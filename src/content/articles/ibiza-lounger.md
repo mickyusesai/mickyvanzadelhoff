@@ -1,6 +1,6 @@
 ---
 title: "Investering op Ibiza gaat fout! – Mijn grootste blunder als ondernemer"
-description: ""
+description: "Dit is een blog over mijn Ibiza Lounger Project. Ik importeerde tweehonderd van deze air loungers uit China met het doel ze te verkopen op Ibiza. Maar…"
 date: 2019-09-19
 updated: 2020-04-16
 category: "tips"
@@ -12,7 +12,7 @@ featuredImage: "/images/migrated/ibiza-lounger-bob-strand-relaxen.webp"
 
 Dit is een blog over mijn Ibiza Lounger Project. Ik importeerde tweehonderd van deze air loungers uit China met het doel ze te verkopen op Ibiza. Maar dat ging volledig fout! Welkom bij een verhaal over falen (en opstaan).
 
-[**Dit blog is een bewerkte versie van een hoofdstuk uit mijn boek ‘Digital nomad – Verhalen en lessen uit een vrij leven’, welke je hier gratis kunt lezen.**](https://demodernenomaden.nl/verhalen-en-lessen-uit-een-vrij-leven-digital-nomad/)
+[**Dit blog is een bewerkte versie van een hoofdstuk uit mijn boek ‘Digital nomad – Verhalen en lessen uit een vrij leven’, welke je hier gratis kunt lezen.**](/boek/)
 
 ## Hier ontstond het idee voor de Ibiza Lounger
 

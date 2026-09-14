@@ -1,6 +1,6 @@
 ---
 title: "Sporten op reis – Hoe ik fit blijf als digital nomad"
-description: ""
+description: "Of je nu voor een week op vakantie gaat of een jaar lang op reis, wanneer je gewent bent te sporten is het natuurlijk wel lekker dit ook op reis te…"
 date: 2018-05-04
 updated: 2022-12-28
 category: "digitalenomaden"
@@ -10,7 +10,7 @@ draft: false
 featuredImage: "/images/migrated/sport-op-reis-e1525453687610.webp"
 ---
 
-Of je nu voor een week op vakantie gaat of een jaar lang op reis, wanneer je gewent bent te sporten is het natuurlijk wel lekker dit ook op reis te blijven doen. Zelf [reis ik inmiddels al een jaar als digitale nomade](https://demodernenomaden.nl/digitalenomaden/digitale-nomaden/) en vind het dan belangrijk fit en in vorm te blijven. Echter was dit aan het begin wel even zoeken, ik was telkens op een andere plek en had natuurlijk geen wereldwijd sportschool abonnement. Gelukkig kreeg ik wat tips van mijn vader, die zelf een sportschool heeft gehad en personal training geeft, en ging het sporten op reis me goed af. Ik sport ook op reis 3 keer per week, en afhankelijk van de plek doe ik dat op een andere manier voor de afwisseling, ik deel hier de mogelijkheden die ik zelf gebruik.
+Of je nu voor een week op vakantie gaat of een jaar lang op reis, wanneer je gewent bent te sporten is het natuurlijk wel lekker dit ook op reis te blijven doen. Zelf [reis ik inmiddels al een jaar als digitale nomade](/blog/digitalenomaden/digital-nomad-worden/) en vind het dan belangrijk fit en in vorm te blijven. Echter was dit aan het begin wel even zoeken, ik was telkens op een andere plek en had natuurlijk geen wereldwijd sportschool abonnement. Gelukkig kreeg ik wat tips van mijn vader, die zelf een sportschool heeft gehad en personal training geeft, en ging het sporten op reis me goed af. Ik sport ook op reis 3 keer per week, en afhankelijk van de plek doe ik dat op een andere manier voor de afwisseling, ik deel hier de mogelijkheden die ik zelf gebruik.
 
 # 1\. Sporten in de speeltuin
 
@@ -20,7 +20,7 @@ Wanneer je wilt weten of e een calisthenics park bij jou in de buurt is, kun je 
 
 # 2\. Gewichten meenemen om te sporten op reis is wat zwaar…
 
-Zelf reis ik vaak rond met een busje. Om te voorkomen dat mijn busje zwaar beladen is met allemaal gewichten om te sporten op reis, heb ik standaard een ander attribuut mee. Het is een soort band die je kunt gebruiken voor tal van krachtoefeningen. Ze noemen het een [TRX band](https://demodernenomaden.nl/go/trx-pro-van-bol), maar als je mij een beetje kent weet je dat ik zelf kies voor [de merkloze variant](https://demodernenomaden.nl/go/suspension-trx-van-bol) (is 7x zo goedkoop). Het voordeel aan de band is dat die niets weegt en je hem overal mee naartoe kan nemen. Met deze band gebruik je namelijk je lichaam als trainingsgewicht. Op de foto zie je me in actie met dat merkloze ding. Leuk is ook dat je hem dus mee kan nemen om op het strand te trainen, moet je alleen nog even een paal zoeken om hem aan te monteren.
+Zelf reis ik vaak rond met een busje. Om te voorkomen dat mijn busje zwaar beladen is met allemaal gewichten om te sporten op reis, heb ik standaard een ander attribuut mee. Het is een soort band die je kunt gebruiken voor tal van krachtoefeningen. Ze noemen het een [TRX band](/go/trx-pro-van-bol), maar als je mij een beetje kent weet je dat ik zelf kies voor [de merkloze variant](/go/suspension-trx-van-bol) (is 7x zo goedkoop). Het voordeel aan de band is dat die niets weegt en je hem overal mee naartoe kan nemen. Met deze band gebruik je namelijk je lichaam als trainingsgewicht. Op de foto zie je me in actie met dat merkloze ding. Leuk is ook dat je hem dus mee kan nemen om op het strand te trainen, moet je alleen nog even een paal zoeken om hem aan te monteren.
 
 ![](/images/migrated/sporten-op-reis.webp "sporten-op-reis")
 
@@ -40,6 +40,6 @@ Joggen kun je natuurlijk overal doen. Zeker op reis is dit een leuke bezigheid. 
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

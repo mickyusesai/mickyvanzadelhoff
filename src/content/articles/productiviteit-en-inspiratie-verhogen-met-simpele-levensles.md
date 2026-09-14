@@ -1,6 +1,6 @@
 ---
 title: "Je productiviteit en inspiratie extreem verhogen met één simpele levensles"
-description: ""
+description: "Ik kom inmiddels uit een periode waarin ik enorm veel moest doen. Soms gaf dat mij stress en ik wist dan niet goed hoe ik daarmee om moest gaan. Ik…"
 date: 2017-11-30
 updated: 2021-01-25
 category: "tips"

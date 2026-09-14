@@ -1,6 +1,6 @@
 ---
 title: "Crypto kopen met iDEAL in 2024 – Stappenplan"
-description: ""
+description: "Voordat we beginnen met de actiepunten om crypto te kopen met iDEAL wil ik je graag nog op een paar dingen wijzen, zodat we er zeker van kunnen zijn…"
 date: 2022-05-25
 updated: 2024-01-18
 category: "web3"
@@ -24,13 +24,13 @@ Tevens is de crypto exchange de plek waar je jouw **crypto wallet** hebt. Zie di
 
 Voordat je crypto gaat kopen met iDEAL is het goed om te weten **welke crypto je wilt kopen**. Mijn advies daarbij, begin met een klein bedrag en kijk gewoon even hoe het gaat. Bij veel exchanges kun je al vanaf €1,- investeren in cryptomunten.
 
-**De grootste cryptomunten zijn Bitcoin en Ethereum**. Deze gaan al lang mee en zijn daarmee een veiligere investering dan de 6000 andere geregistreerde crypto munten. Voor die laatste zal je toch echt even moeten onderzoeken of je daarin wilt investeren. Tips daarvoor vind je [hier](https://demodernenomaden.nl/web3/handelen-in-crypto-valuta/).
+**De grootste cryptomunten zijn Bitcoin en Ethereum**. Deze gaan al lang mee en zijn daarmee een veiligere investering dan de 6000 andere geregistreerde crypto munten. Voor die laatste zal je toch echt even moeten onderzoeken of je daarin wilt investeren. Tips daarvoor vind je [hier](/blog/web3/handelen-in-crypto-valuta/).
 
 Goed, nu we dat hebben besproken is het tijd voor **het crypto kopen met iDEAL stappenplan**!
 
 ## Stap 1: Kies een crypto exchange (met iDEAL)
 
-Allereerst moeten we ons gaan aanmelden bij een van de [vele crypto exchanges](https://demodernenomaden.nl/web3/beste-crypto-exchange/). Het liefst dan natuurlijk wel een waar je met **iDEAL en Bancontact** crypto kunt kopen. Op volgorde van populariteit zijn dat:
+Allereerst moeten we ons gaan aanmelden bij een van de [vele crypto exchanges](/blog/web3/beste-crypto-exchange/). Het liefst dan natuurlijk wel een waar je met **iDEAL en Bancontact** crypto kunt kopen. Op volgorde van populariteit zijn dat:
 
 [![Crypto kopen met iDEAL op Bitvavo](/images/migrated/crypto-kopen-met-ideal-op-bitvavo-1.webp)](/go/bitvavo)
 
@@ -110,7 +110,7 @@ Wanneer je de crypto hebt gekocht staan deze in jouw wallet in jouw account. Bij
 
 Vroeger werd het sterk afgeraden om jouw crypto op een crypto exchange te laten staan. Toch zijn de meningen hierover tegenwoordig verandert.
 
-De Nederlandse exchanges op deze pagina staan allemaal **onder toezicht van de Nederlandsche bank**. Verder hebben ze hun zaakjes netjes op orde. Als je daar meer over wilt weten, lees dan mijn [Bitvavo review](https://demodernenomaden.nl/review/bitvavo-review-crypto/).
+De Nederlandse exchanges op deze pagina staan allemaal **onder toezicht van de Nederlandsche bank**. Verder hebben ze hun zaakjes netjes op orde. Als je daar meer over wilt weten, lees dan mijn [Bitvavo review](/blog/review/bitvavo-review-crypto/).
 
 Mocht je erg grote hoeveelheden crypto bezitten dan kun je er ook voor kiezen om deze van de exchange af te halen en ze zelf te bewaren op een offline crypto wallet. **Dit is een soort USB stick** waar alleen jij de code van weet. Maar goed, ook daar kleven uiteraard risico’s aan.
 
@@ -126,5 +126,5 @@ Hierbij koop je telkens een beetje crypto tegen steeds weer een andere prijs. Di
 
 Tot zover dit stappenplan over crypto kopen met iDEAL. Hopelijk is het allemaal gelukt, daarmee **wil ik je welkom heten in de crypto space!** Wil je meer leren over crypto currencies, dan zijn er enkele artikelen die ik je graag aanraad:
 
-*   [Manieren om geld te verdienen met crypto](https://demodernenomaden.nl/web3/handelen-in-crypto-valuta/)
-*   [Web 3 uitgelegd + Crypto, NFTs en de Metaverse](https://demodernenomaden.nl/web3/web-3-decentralisatie/)
+*   [Manieren om geld te verdienen met crypto](/blog/web3/handelen-in-crypto-valuta/)
+*   [Web 3 uitgelegd + Crypto, NFTs en de Metaverse](/blog/web3/web-3-decentralisatie/)

@@ -1,0 +1,27 @@
+---
+import { NAV, SITE } from '../config/site';
+const year = new Date().getFullYear();
+---
+<footer class="mt-20 border-t border-line bg-paper">
+  <div class="mx-auto grid max-w-6xl gap-8 px-5 py-12 text-sm text-muted md:grid-cols-3">
+    <div>
+      <p class="font-semibold text-ink">{SITE.name}</p>
+      <p class="mt-2 max-w-xs">{SITE.tagline}. Voorheen De Moderne Nomaden.</p>
+    </div>
+    <nav aria-label="Voettekst">
+      <ul class="grid gap-1">
+        {NAV.map((item) => (
+          <li><a href={item.href} class="hover:text-accent">{item.label}</a></li>
+        ))}
+        <li><a href="/privacy/" class="hover:text-accent">Privacy</a></li>
+        <li><a href="/rss.xml" class="hover:text-accent">RSS</a></li>
+      </ul>
+    </nav>
+    <div class="grid gap-1">
+      <a href={`mailto:${SITE.email}`} class="hover:text-accent">{SITE.email}</a>
+      <a href={SITE.whatsappUrl} class="hover:text-accent" rel="noopener">WhatsApp {SITE.whatsapp}</a>
+      <p>KVK {SITE.kvk}</p>
+      <p class="mt-2">© {year} {SITE.name}</p>
+    </div>
+  </div>
+</footer>

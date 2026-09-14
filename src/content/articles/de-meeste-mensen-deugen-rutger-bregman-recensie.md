@@ -1,6 +1,6 @@
 ---
 title: "Recensie: De Meest Mensen Deugen van Rutger Bregman"
-description: ""
+description: "Een review/recensie over het boek ‘De Meeste Mensen Deugen’."
 date: 2019-09-21
 updated: 2021-02-12
 category: "tips"
@@ -10,11 +10,11 @@ draft: false
 featuredImage: "/images/migrated/de-meeste-mensen-deugen-rutger-bregman-review.webp"
 ---
 
-Een review/recensie over [het boek ‘De Meeste Mensen Deugen’](https://demodernenomaden.nl/go/rutger-bregman-de-meeste-mensen-deugen-boek).
+Een review/recensie over [het boek ‘De Meeste Mensen Deugen’](/go/rutger-bregman-de-meeste-mensen-deugen-boek).
 
 Wellicht ben ik wat bevooroordeeld. Als trouw lezer van de Correspondent heb ik al vaak in de keuken van Rutger Bregman mogen kijken. Maar na het lezen van ‘De Meeste Mensen Deugen’ bleek dat journalistieke werk slechts het topje van de ijsberg. In deze recensie ga ik in op wat ik van het boek vind en wat het me heeft gebracht.
 
-Allereerst handig om even te weten vanuit welk perspectief ik Rutger Bregman’s nieuwe werk ben gaan lezen. Ik reis al jaren de wereld over als [digital nomad](https://demodernenomaden.nl/digitalenomaden/digital-nomad-banen/) en werk dus terwijl ik aan het reizen ben. Met al die reizen zie je veel. Veel goeds uiteraard. Maar ook wordt je vaak verrast door een wat mindere kans van de mens. Ik heb het over plekken die zo gecommercialiseerd zijn dat écht menselijk contact onmogelijk is. Over plekken met een historie vol massa extincties. Plekken die je negatief verbazen.
+Allereerst handig om even te weten vanuit welk perspectief ik Rutger Bregman’s nieuwe werk ben gaan lezen. Ik reis al jaren de wereld over als [digital nomad](/blog/digitalenomaden/digital-nomad-banen/) en werk dus terwijl ik aan het reizen ben. Met al die reizen zie je veel. Veel goeds uiteraard. Maar ook wordt je vaak verrast door een wat mindere kans van de mens. Ik heb het over plekken die zo gecommercialiseerd zijn dat écht menselijk contact onmogelijk is. Over plekken met een historie vol massa extincties. Plekken die je negatief verbazen.
 
 Ik ben het boek ‘De Meeste Mensen Deugen’ dan ook gaan lezen met een sprankeltje hoop, een hoop dat Rutger Bregman mij zou overtuigen van het goede.
 
@@ -36,4 +36,4 @@ Wanneer je het boek zelf gaat lezen zul je merken dat je in sommige situaties de
 
 ## Mijn recensie over De Meeste Mensen Deugen
 
-‘De Meeste Mensen Deugen’ is een nieuwe geschiedenis van de mensheid. Het haalt de waarheid boven tafel en was voor mij zeer makkelijk weg te lezen omdat het wordt onderbouwd met mooie verhalen. Geen moeilijk taalgebruik, maar gewoon begrijpelijk. Ik zou het boek dan ook aanraden als er interesse is in psychologie, filosofie of antropologie. Zowel de optimist als de pessimist. Het biedt een nieuwe realistische kijk op de wereld en die kun je als mens terugbrengen tot je alledaags handelen. Tot zover mijn recensie over ‘De Meeste Mensen Deugen’. Het boek zelf kun je [hier bestellen](https://demodernenomaden.nl/go/rutger-bregman-de-meeste-mensen-deugen-boek).
+‘De Meeste Mensen Deugen’ is een nieuwe geschiedenis van de mensheid. Het haalt de waarheid boven tafel en was voor mij zeer makkelijk weg te lezen omdat het wordt onderbouwd met mooie verhalen. Geen moeilijk taalgebruik, maar gewoon begrijpelijk. Ik zou het boek dan ook aanraden als er interesse is in psychologie, filosofie of antropologie. Zowel de optimist als de pessimist. Het biedt een nieuwe realistische kijk op de wereld en die kun je als mens terugbrengen tot je alledaags handelen. Tot zover mijn recensie over ‘De Meeste Mensen Deugen’. Het boek zelf kun je [hier bestellen](/go/rutger-bregman-de-meeste-mensen-deugen-boek).

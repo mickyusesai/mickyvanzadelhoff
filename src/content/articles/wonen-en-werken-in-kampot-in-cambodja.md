@@ -1,6 +1,6 @@
 ---
 title: "Wonen en werken in Kampot in Cambodja – Tips voor de digital nomad"
-description: ""
+description: "Het was best wel even zoeken online, voor ik als zelf als digital nomad de plek had gevonden waar ik wilde verblijven in Cambodja. Ik was er nooit…"
 date: 2018-11-29
 updated: 2022-01-27
 category: "digitalenomaden"
@@ -10,7 +10,7 @@ draft: false
 featuredImage: "/images/migrated/100144090_s-e1543467780556.webp"
 ---
 
-Het was best wel even zoeken online, voor ik als zelf als [digital nomad](https://demodernenomaden.nl/digitalenomaden/digitale-nomaden/) de plek had gevonden waar ik wilde verblijven in Cambodja. Ik was er nooit geweest en moest het dus hebben van de informatie op het internet. Wel kwam ik er al snel achter dat je in Cambodja op meer moet letten dan of een plek wel Wifi heeft. Vandaar dit artikel over mijn verblijf in Kampot in Cambodja en hoe ik daar als digital nomad terecht kwam.
+Het was best wel even zoeken online, voor ik als zelf als [digital nomad](/blog/digitalenomaden/digital-nomad-worden/) de plek had gevonden waar ik wilde verblijven in Cambodja. Ik was er nooit geweest en moest het dus hebben van de informatie op het internet. Wel kwam ik er al snel achter dat je in Cambodja op meer moet letten dan of een plek wel Wifi heeft. Vandaar dit artikel over mijn verblijf in Kampot in Cambodja en hoe ik daar als digital nomad terecht kwam.
 
 # Een eiland in Cambodja is waarschijnlijk niet de plek voor een digital nomad
 
@@ -64,6 +64,6 @@ Cambodja en in het bijzonder Kampot is dus een goede plek voor de budget digital
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

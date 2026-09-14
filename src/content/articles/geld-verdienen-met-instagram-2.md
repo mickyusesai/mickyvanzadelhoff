@@ -1,6 +1,6 @@
 ---
 title: "Geld verdienen met Instagram in 2023 [Stappenplan]"
-description: ""
+description: "Deze manieren werken voor wie een Instagram account heeft en deze graag wil monetizen, maar zijn ook zeer zinvol voor ondernemers die een Instagram…"
 date: 2018-04-22
 updated: 2022-12-19
 category: "online-geld-verdienen"
@@ -117,7 +117,7 @@ Wanneer je op zoek bent naar ideeën voor niches, dan vind je hieronder wat voor
     
 *   Zelfontwikkeling
     
-*   [**\> Zie 101+ niches**](https://demodernenomaden.nl/ondernemen/blog-niches/)
+*   [**\> Zie 101+ niches**](/blog/ondernemen/blog-niches/)
     
 
 Het afbakenen van jouw doelgroep helpt je uiteindelijk om **goed betalende adverteerders te vinden voor jouw Instagram kanaal**. Met een specifieke doelgroep is je account meer waard voor de adverteerder. Zo kun je met minder volgers meer geld verdienen. Engagement genereren, daar gaat het om!
@@ -132,7 +132,7 @@ Zo weten mensen namelijk, wanneer ze jouw account tegenkomen, wat ze van je kunn
 
 ![Instagram kanaal thema](/images/migrated/instagram-kanaal-thema-1.webp "Instagram kanaal thema")
 
-Best vet toch! Als je zelf ook zo’n feel wilt creëren voor jouw Instagram account dan kun je dit eenvoudig doen via [Canva](https://demodernenomaden.nl/go/canva). Je kunt daar met een [gratis account](https://demodernenomaden.nl/go/canva) al best ver komen ;). In onderstaande video wordt het stap voor stap uitgelegd.
+Best vet toch! Als je zelf ook zo’n feel wilt creëren voor jouw Instagram account dan kun je dit eenvoudig doen via [Canva](/go/canva). Je kunt daar met een [gratis account](/go/canva) al best ver komen ;). In onderstaande video wordt het stap voor stap uitgelegd.
 
 Voor content kun je kiezen uit een combinatie van **foto’s, filmpjes, quotes, give-aways, memes, vragen, before en after, review van een klant, product test, tutorial, behind-the-scenes** en noem maar op. Er is genoeg om te delen!
 
@@ -142,7 +142,7 @@ Een business maken op Instagram doe je niet zomaar. Voordat je er geld mee kan v
 
 Denk aan een Instagram kanaal over een stad in Nederland. **Ook al heb je dan maar 1.000 volgers**, je bent wel relevant voor bedrijven uit die stad omdat jouw doelgroep zo specifiek is.
 
-Je kan de grote van [influencers](https://demodernenomaden.nl/online-geld-verdienen/influencer-worden/) in de volgende categorieën verdelen:
+Je kan de grote van [influencers](/blog/online-geld-verdienen/influencer-worden/) in de volgende categorieën verdelen:
 
 *   ### Mega influencer
     
@@ -167,7 +167,7 @@ Je kan de grote van [influencers](https://demodernenomaden.nl/online-geld-verdie
 
 Als je net een **nieuw Instagram kanaal** begint, dan doe je er goed aan om familie en vrienden **te vragen je te volgen**. Je moet immers ergens beginnen en wilt dat je account al wat interactie heeft.
 
-Heb je al [een eigen bedrijf](https://demodernenomaden.nl/ondernemen/eigen-bedrijf-starten/) kijk dan eens of je via jouw mailinglijst of klantenbestand jouw eerste volgers bij elkaar kan schrapen. Een Instagram icoontje op de website doet het dan ook altijd goed! Eventueel kun je hier ook een leuke **give-away** aan koppelen voor de eerste 1000 volgers.
+Heb je al [een eigen bedrijf](/blog/ondernemen/eigen-bedrijf-starten/) kijk dan eens of je via jouw mailinglijst of klantenbestand jouw eerste volgers bij elkaar kan schrapen. Een Instagram icoontje op de website doet het dan ook altijd goed! Eventueel kun je hier ook een leuke **give-away** aan koppelen voor de eerste 1000 volgers.
 
 ### Meer volgers krijgen op Instagram
 
@@ -206,12 +206,12 @@ Manieren waarmee je kwalitatieve volgers krijgt, zijn de volgende:
 
 ## **Stap 4: Kies jouw Instagram verdienmodel**
 
-Nu je de volgers hebt op Instagram of in ieder geval weet hoe je die kan krijgen, is het tijd om te kijken hoe je hier geld mee kunt verdienen. Ik ga hierbij in op 3 verschillende manieren; geld verdienen met een eigen product/dienst/Instagram shopping, affiliate marketing en als social [influencer](https://demodernenomaden.nl/online-geld-verdienen/influencer-worden/). Let’s go!
+Nu je de volgers hebt op Instagram of in ieder geval weet hoe je die kan krijgen, is het tijd om te kijken hoe je hier geld mee kunt verdienen. Ik ga hierbij in op 3 verschillende manieren; geld verdienen met een eigen product/dienst/Instagram shopping, affiliate marketing en als social [influencer](/blog/online-geld-verdienen/influencer-worden/). Let’s go!
 
 1.  ### Eigen product of dienst + Instagram shopping
     
 
-Instagram wordt vaak gebruikt door bedrijven **om hun eigen producten of diensten te promoten**. Misschien heb jij zelf ook wel iets of kun je anders iets maken. Denk aan een [e-book](https://demodernenomaden.nl/online-geld-verdienen/e-book/), [videocursus](https://demodernenomaden.nl/online-geld-verdienen/videotraining/) of volledige [webshop](https://demodernenomaden.nl/online-geld-verdienen/eigen-webshop-beginnen/).
+Instagram wordt vaak gebruikt door bedrijven **om hun eigen producten of diensten te promoten**. Misschien heb jij zelf ook wel iets of kun je anders iets maken. Denk aan een [e-book](/blog/online-geld-verdienen/e-book/), [videocursus](/blog/online-geld-verdienen/videotraining/) of volledige [webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/).
 
 Met het Instagram account kun je engagement creëren om dit vervolgens te gebruiken om jouw product of dienst te promoten in je foto’s en video’s. Bijvoorbeeld door een product te testen, te laten zien hoe je het hebt gemaakt of mensen mee te nemen in het maakproces zelf. **Promotie hoeft niet altijd opzichtig te zijn**.
 
@@ -221,20 +221,20 @@ Als jij zelf ook kennis bezit die anderen verder helpt, is een **online kennis p
 
 Om producten te verkopen kun je eenvoudig een **eigen webshop starten**. Je hoeft daarvoor geen codekennis te hebben en in veel gevallen zelfs niet eens eigen producten of een magazijn waar deze in zijn opgeslagen.
 
-Dit kun je namelijk eenvoudig [opzetten via Shopify](https://demodernenomaden.nl/go/shopify). Daar hebben ze functies voor print-on-demand zodat je bijvoorbeeld shirts met jouw merklogo kan laten drukken zodra deze worden besteld. Je hoeft dan geen rekening te houden met voorraad én jouw producten worden al direct door Shopify verzonden.
+Dit kun je namelijk eenvoudig [opzetten via Shopify](/go/shopify). Daar hebben ze functies voor print-on-demand zodat je bijvoorbeeld shirts met jouw merklogo kan laten drukken zodra deze worden besteld. Je hoeft dan geen rekening te houden met voorraad én jouw producten worden al direct door Shopify verzonden.
 
 Daarnaast zijn er nog tal van opties om producen van andere leveranciers in jouw webshop te plaatsen. In andere woorden, **een eigen webshop starten is net zo simpel als het starten van een Instagram kanaal** ;).
 
-[Begin direct jouw eigen webshop](https://demodernenomaden.nl/go/shopify)
+[Begin direct jouw eigen webshop](/go/shopify)
 
-Tof aan [Shopify](https://demodernenomaden.nl/go/shopify) is dat je dit ook eenvoudig kunt linken met **Instagram Shopping**. Dit is de functie van Instagram die je de mogelijkheid biedt om bepaalde items in jouw foto’s **direct door te laten linken** naar jouw webshop!
+Tof aan [Shopify](/go/shopify) is dat je dit ook eenvoudig kunt linken met **Instagram Shopping**. Dit is de functie van Instagram die je de mogelijkheid biedt om bepaalde items in jouw foto’s **direct door te laten linken** naar jouw webshop!
 
 2.  ### Geld verdienen met Affiliate marketing
     
 
 Heb je geen eigen product of dienst? Dan ligt het voor de hand om te kijken **wat je van iemand anders kan verkopen**.
 
-Je promoot dan de producten van een andere partij en krijgt een percentage van de opbrengst wanneer iemand dit koopt. Zelf promoot ik op deze website ook producten van andere partijen via affiliate marketing zoals het boek ‘[Lees dit als je beroemd wilt worden op Instagram](https://demodernenomaden.nl/go/boek-lees-dit-als-je-beroemd-wilt-worden-op-instagram)‘.
+Je promoot dan de producten van een andere partij en krijgt een percentage van de opbrengst wanneer iemand dit koopt. Zelf promoot ik op deze website ook producten van andere partijen via affiliate marketing zoals het boek ‘[Lees dit als je beroemd wilt worden op Instagram](/go/boek-lees-dit-als-je-beroemd-wilt-worden-op-instagram)‘.
 
 Wanneer jij nu op die link klikt en het boek koopt, herkent Bol.com dat ik je het product heb aangeraden en krijg ik daar 8% commissie over. Dit werkt via een speciale **tracking link** waarin wordt aangegeven dat ik de nieuwe klant heb aangebracht. De magie van het internet!
 
@@ -244,15 +244,15 @@ Dat werkt als volgt. Jij meldt je aan bij een affiliate programma van een bedrij
 
 Zelf kun je op deze manier **relevante producten promoten** met jouw Instagram account en daar geld mee verdienen.
 
-Je hoeft je slechts aan te melden bij een van de vele [affiliate programma’s](https://demodernenomaden.nl/ondernemen/affiliate-programma/) om te beginnen. **Mocht affiliate marketing nog nieuw voor je zijn**, dan weet ik zeker dat [deze goedkope cursus](https://demodernenomaden.nl/go/affiliate-marketing-revolutie) je goed op weg helpt. Daar zul je geen spijt van krijgen; voor mij ging er echt een wereld open!
+Je hoeft je slechts aan te melden bij een van de vele [affiliate programma’s](/blog/ondernemen/affiliate-programma/) om te beginnen. **Mocht affiliate marketing nog nieuw voor je zijn**, dan weet ik zeker dat [deze goedkope cursus](/go/affiliate-marketing-revolutie) je goed op weg helpt. Daar zul je geen spijt van krijgen; voor mij ging er echt een wereld open!
 
-En ja, als je via [deze link](https://demodernenomaden.nl/go/affiliate-marketing-revolutie) de affiliate cursus aanschaft krijg ik daar inderdaad een kleine commissie voor. Goed, je begrijpt het principe. **Bedankt!**
+En ja, als je via [deze link](/go/affiliate-marketing-revolutie) de affiliate cursus aanschaft krijg ik daar inderdaad een kleine commissie voor. Goed, je begrijpt het principe. **Bedankt!**
 
 > Het lijkt er vaak op dat succesvol geld verdienen met affiliate marketing voor maar weinig mensen is weggelegd. Vaak komt dit doordat Instagrammers gewoonweg geen marketing specialisten zijn en daardoor niet slagen in de affiliate kant ervan.
 > 
 > Zelf verdien ik nu rond de 5000,- euro per maand (passief) aan affiliate marketing, alleen dan met mijn eigen blog. In onderstaand artikel duik ik dieper in mijn eigen ervaring daarmee.
 > 
-> [Lees dit artikel over mijn ervaring met affiliate marketing](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/)
+> [Lees dit artikel over mijn ervaring met affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/)
 
 3.  ### Word een social influencer op Instagram
     
@@ -263,7 +263,7 @@ Stel dat de doelgroep van jouw Instagram account millennials is, dan is dit inte
 
 Alweer, **niet te pusherig promoten** want je kunt op een fatsoenlijke manier het product van een bedrijf voorbij laten komen. Om passende producten te vinden die jij kunt promoten heb je ook bemiddelingsbureaus. Zij kunnen voor jou de match vinden tussen het bedrijf en jouw Instagram account.
 
-Afhankelijk van het soort product dat je promoot [als influencer](https://demodernenomaden.nl/online-geld-verdienen/influencer-worden/) en het aantal volgers dat je hebt kun je hier best wat geld voor vragen. Een indicatie van wat je per ‘**branded post**‘ kunt vragen vind je hieronder.
+Afhankelijk van het soort product dat je promoot [als influencer](/blog/online-geld-verdienen/influencer-worden/) en het aantal volgers dat je hebt kun je hier best wat geld voor vragen. Een indicatie van wat je per ‘**branded post**‘ kunt vragen vind je hieronder.
 
 #fusion-chart-2 .fusion-chart-legend-wrap li:nth-child(1) span{color: #ffffff;}
 
@@ -275,7 +275,7 @@ Afhankelijk van het soort product dat je promoot [als influencer](https://demode
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
 
@@ -285,7 +285,7 @@ Instagram veranderd constant. Sommige functies komen erop en gaan vervolgens wee
 
 ### 1\. Link sticker
 
-Via Instagram stories kun je gebruik maken van de ‘link sticker’ om te verwijzen naar een website of naar [jouw Shopify webshop](https://demodernenomaden.nl/go/shopify) ;).
+Via Instagram stories kun je gebruik maken van de ‘link sticker’ om te verwijzen naar een website of naar [jouw Shopify webshop](/go/shopify) ;).
 
 ![Instagram link sticker](/images/migrated/instagram-link-sticker-1.webp "Instagram link sticker")
 
@@ -307,7 +307,7 @@ Hier had je eerst allemaal externe tools voor, maar tegenwoordig kun je binnen I
 
 –
 
-De mogelijkheden van Instagram en in de brede zin social media zijn enorm. Daarom wil ik je graag een tip geven. Kijk uit dat je niet op teveel paarden tegelijk wedt. Om nou je **Insta page, [Youtube kanaal](https://demodernenomaden.nl/online-geld-verdienen/youtube/), Youtube Stories, Insta Stories, Facebook Verhalen, Youtube membership, Instagram video en [Facebook Page](https://demodernenomaden.nl/online-geld-verdienen/facebook/)** allemaal bij te houden is wat te veel werk.
+De mogelijkheden van Instagram en in de brede zin social media zijn enorm. Daarom wil ik je graag een tip geven. Kijk uit dat je niet op teveel paarden tegelijk wedt. Om nou je **Insta page, [Youtube kanaal](/blog/online-geld-verdienen/youtube/), Youtube Stories, Insta Stories, Facebook Verhalen, Youtube membership, Instagram video en [Facebook Page](/blog/online-geld-verdienen/facebook/)** allemaal bij te houden is wat te veel werk.
 
 Elk medium vereist zijn **eigen soort content**. Denk aan korte versus lange video’s, staand versus liggend en tekst versus beeld. Je kunt dus niet overal hetzelfde posten. Kies er daarom een paar specifiek uit waar je mee aan de slag wilt en zet daar vol op in. Beter één heel goed en actief kanaal, dan tal van inactieve socials.
 
@@ -317,7 +317,7 @@ Elk medium vereist zijn **eigen soort content**. Denk aan korte versus lange vid
 
 Tevens zal je misschien verleid worden **tot het kopen van volgers, likes of andere middelen die je account doen groeien**. Doe dat niet. Geheid dat je een penalty krijgt en je je account verliest. Tevens geven neppe volgers geen waarde aan je account omdat adverteerders er niets aan hebben.
 
-**Geld verdienen met Instagram** is een lange weg, maar niet onmogelijk. Zorg dat je naar Instagram kunt kijken vanuit een online marketing blik en je maakt een goede kans. Of je nu geld wilt verdienen met [een eigen webshop](https://demodernenomaden.nl/online-geld-verdienen/eigen-webshop-beginnen/), adverteerders of [affiliate marketing](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/), ik wens je alle succes!
+**Geld verdienen met Instagram** is een lange weg, maar niet onmogelijk. Zorg dat je naar Instagram kunt kijken vanuit een online marketing blik en je maakt een goede kans. Of je nu geld wilt verdienen met [een eigen webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/), adverteerders of [affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/), ik wens je alle succes!
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -325,6 +325,6 @@ Tevens zal je misschien verleid worden **tot het kopen van volgers, likes of and
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

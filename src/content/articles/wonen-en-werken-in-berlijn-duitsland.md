@@ -1,6 +1,6 @@
 ---
 title: "Wonen en werken in Berlijn in Duitsland – Tips voor de digital nomad"
-description: ""
+description: "Berlijn, de stad van techno, hippe start-ups en een vrije levensstijl. Klinkt als een ideale plek voor digital nomads, maar is dat ook zo? In dit…"
 date: 2018-11-05
 updated: 2022-01-27
 category: "digitalenomaden"
@@ -82,6 +82,6 @@ Dus, al bij al kunnen we zeggen dat Berlijn een heerlijke stad kan zijn om te wo
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

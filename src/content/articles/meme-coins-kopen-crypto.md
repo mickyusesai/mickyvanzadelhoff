@@ -1,6 +1,6 @@
 ---
 title: "Hoe koop je kleine meme-coins die x10 of x100 kunnen gaan?"
-description: ""
+description: "Ik heb soms enorme winsten geboekt, zoals 15.000% (150x). Maar ik ben ook heel vaak opgelicht. Hier zijn mijn belangrijkste inzichten voor het kopen…"
 date: 2025-01-23
 updated: 2025-02-03
 category: "web3"
@@ -16,7 +16,7 @@ Ik heb soms enorme winsten geboekt, zoals 15.000% (150x). Maar ik ben ook heel v
 
 ### **Platforms voor het kopen van meme-coins**
 
-Er zijn veel [crypto exchanges](https://demodernenomaden.nl/web3/beste-crypto-exchange/) welke je misschien wel kent waar je met iDEAL crypto kan kopen. Bekende exchanges in Nederland zijn bijvoorbeeld [Finst](https://demodernenomaden.nl/review/finst-crypto-exchange/) en [Bitvavo](https://demodernenomaden.nl/review/bitvavo-review-crypto/). Echter, als je een meme-coin wilt kopen die nog veel groeipotentieel heeft, zal deze waarschijnlijk nog niet op een exchange staan. Deze koop je meestal zo:
+Er zijn veel [crypto exchanges](/blog/web3/beste-crypto-exchange/) welke je misschien wel kent waar je met iDEAL crypto kan kopen. Bekende exchanges in Nederland zijn bijvoorbeeld [Finst](/blog/review/finst-crypto-exchange/) en [Bitvavo](/blog/review/bitvavo-review-crypto/). Echter, als je een meme-coin wilt kopen die nog veel groeipotentieel heeft, zal deze waarschijnlijk nog niet op een exchange staan. Deze koop je meestal zo:
 
 1.  **Stort SOL in je wallet** – Ik gebruik Phantom ([download eenvoudig de mobiele app](/go/phantom)).
 2.  **Vind de coin die je wilt kopen en kopieer het “coinadres”.**
@@ -63,7 +63,7 @@ _Wij hebben **geen** **affiliatie** met dit project. Wees je bewust van de risic
 
 De meeste mensen kiezen voor de eerste strategie, in de hoop op 100x. Maar de meeste van deze coins falen binnen de eerste paar uur. Om hierin te slagen, moet je in enorm veel meme coins investeren in de hoop dat er één groot wordt, en constant de grafieken volgen. Het is ontzettend tijdrovend.
 
-De tweede strategie, **minder extreem gokken**, gaat over investeren in meer gevestigde coins in de range van 1M-5M market cap met de potentie om door te groeien naar 50-100M. Dit is een betrouwbaardere manier om [geld te verdienen met crypto](https://demodernenomaden.nl/web3/handelen-in-crypto-valuta/) zonder constant bang te zijn voor een plotselinge crash.
+De tweede strategie, **minder extreem gokken**, gaat over investeren in meer gevestigde coins in de range van 1M-5M market cap met de potentie om door te groeien naar 50-100M. Dit is een betrouwbaardere manier om [geld te verdienen met crypto](/blog/web3/handelen-in-crypto-valuta/) zonder constant bang te zijn voor een plotselinge crash.
 
 ### Criteria voor de beste meme-coins
 

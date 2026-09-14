@@ -1,6 +1,6 @@
 ---
 title: "Mailing maken en versturen – Stappenplan [E-mail marketing]"
-description: ""
+description: "Wil je een mailing maken en versturen? Je hebt de mailcontacten verzamelt en bent klaar om jouw mailing op te stellen. Dus nu vraag je je…"
 date: 2020-10-27
 updated: 2023-01-02
 category: "ondernemen"
@@ -14,11 +14,11 @@ Wil je een **mailing maken en versturen**? Je hebt de mailcontacten verzamelt en
 
 In dit **stappenplan** neem ik je mee in hoe ik zelf een mailing maak. Of het doel nou is om mensen te **informeren** of iets te **verkopen**.
 
-Dit artikel over e-mailmarketing kan erg handig zijn als je in 2023 wilt starten met je mailing. [Lees hier meer voorbeelden.](https://demodernenomaden.nl/ondernemen/e-mail-marketing/)
+Dit artikel over e-mailmarketing kan erg handig zijn als je in 2023 wilt starten met je mailing. [Lees hier meer voorbeelden.](/blog/ondernemen/e-mail-marketing/)
 
 Doorloop de stappen en ga aan de slag met jouw eigen mailing
 
-[**Wil je jouw email marketing liever uitbesteden? Bij Fiverr vind je hier betaalbare opties voor die direct voor je aan de slag kunnen. >>**](https://demodernenomaden.nl/go/fiverr-email-marketing)
+[**Wil je jouw email marketing liever uitbesteden? Bij Fiverr vind je hier betaalbare opties voor die direct voor je aan de slag kunnen. >>**](/go/fiverr-email-marketing)
 
 ## Wat is een mailing?
 
@@ -28,7 +28,7 @@ We hebben het hier dus **niet** over één persoon, maar over één e-mail die j
 
 ## Waarom zou je een mailing maken?
 
-[E-mailmarketing](https://demodernenomaden.nl/ondernemen/e-mail-marketing/) is nog altijd booming. Zoals de Amerikanen het zouden zeggen: “**The money is in the list**”.
+[E-mailmarketing](/blog/ondernemen/e-mail-marketing/) is nog altijd booming. Zoals de Amerikanen het zouden zeggen: “**The money is in the list**”.
 
 Er is geen ontkennen aan dat bij **zowel B2B als B2C** mailings een groot onderdeel uitmaken van de marketing.
 
@@ -72,9 +72,9 @@ Als je de doelgroep **als één persoon hebt gedefinieerd**, kunnen we door naar
 
 Heb je al een mailinglijst? **Top!**
 
-Heb je deze nog niet? Dan kun je eens kijken naar [de verschillende manieren om leads te genereren voor jouw mailinglijst](https://demodernenomaden.nl/ondernemen/leads-genereren-mailinglijst/).
+Heb je deze nog niet? Dan kun je eens kijken naar [de verschillende manieren om leads te genereren voor jouw mailinglijst](/blog/ondernemen/leads-genereren-mailinglijst/).
 
-Als je al een mailinglijst hebt, is het van belang deze in te voeren in een marketingmail programma zoals [Enormail](https://demodernenomaden.nl/go/enormail).
+Als je al een mailinglijst hebt, is het van belang deze in te voeren in een marketingmail programma zoals [Enormail](/go/enormail).
 
 Dat doe je door jouw Kladblok of Excel adressenbestand te **exporteren als CSV**.
 
@@ -98,7 +98,7 @@ Later bij het typen van de mailing gebruik je dan de code **{%name%}**. [Enormai
 
 Als **jouw contactenlijst gereed is** kunnen we door naar de volgende stap voor het maken van jouw mailing.
 
-Ik raad je ten zeerste aan om [dit artikel over het genereren van leads te lezen](https://demodernenomaden.nl/ondernemen/leads-genereren-mailinglijst/). Het kan je helpen met de meest voorkomende vragen hierover.
+Ik raad je ten zeerste aan om [dit artikel over het genereren van leads te lezen](/blog/ondernemen/leads-genereren-mailinglijst/). Het kan je helpen met de meest voorkomende vragen hierover.
 
 ## Stap 4: De mailing schrijven
 
@@ -157,7 +157,7 @@ Goed gedaan! Tijd voor de evaluatie.
 
 Evaluatie kan nooit kwaad, ook niet als het gaat over jouw mailing. Kijk daarom eens bij de statistieken. **Is jouw mail goed geopend?**
 
-De resultaten zoals je die hieronder ziet zijn beschikbaar voor iedereen die mailings verzend met Enormail. [Je kunt het hier 30 dagen GRATIS uitproberen.](https://demodernenomaden.nl/go/enormail)
+De resultaten zoals je die hieronder ziet zijn beschikbaar voor iedereen die mailings verzend met Enormail. [Je kunt het hier 30 dagen GRATIS uitproberen.](/go/enormail)
 
 ![](/images/migrated/resultaten-mailing-enormail.webp "resultaten-mailing-enormail")
 
@@ -167,19 +167,19 @@ Een van de redenen kan zijn dat je in de spambox bent beland. Een andere reden k
 
 In dat laatste geval doe je er goed aan om dezelfde mail met een andere titel/onderwerpregel nogmaals te versturen in de vorm van een **‘follow-up mailing’**.
 
-Je verzendt dezelfde e-mail dan alleen richting de ontvangers die de eerste e-mail niet hebben geopend. Deze functie vind je bij [Enormail](https://demodernenomaden.nl/go/enormail).
+Je verzendt dezelfde e-mail dan alleen richting de ontvangers die de eerste e-mail niet hebben geopend. Deze functie vind je bij [Enormail](/go/enormail).
 
-U kunt uw ervaring drastisch evalueren door software voor e-mailmarketing te gebruiken, [klik hier om voorbeelden te lezen.](https://demodernenomaden.nl/ondernemen/e-mail-marketing/)
+U kunt uw ervaring drastisch evalueren door software voor e-mailmarketing te gebruiken, [klik hier om voorbeelden te lezen.](/blog/ondernemen/e-mail-marketing/)
 
 # Conclusie mailing maken
 
 Een mailing maken kan iedereen en hoeft zeker niet moeilijk te zijn. Een **goede mailing** kan ervoor zorgen dat jouw business **nieuwe klanten aantrekt of leads omzet in verkoop**.
 
-Het kan een uitdaging zijn om de weg te vinden om een mailinglijst te maken en loyale leads aan te trekken. Onderzoek hoe u leads naar uw mailinglijst trekt, [dit artikel kan u daarbij helpen.](https://demodernenomaden.nl/ondernemen/leads-genereren-mailinglijst/)
+Het kan een uitdaging zijn om de weg te vinden om een mailinglijst te maken en loyale leads aan te trekken. Onderzoek hoe u leads naar uw mailinglijst trekt, [dit artikel kan u daarbij helpen.](/blog/ondernemen/leads-genereren-mailinglijst/)
 
-Wanneer je vaker mailingen wilt gaan maken kun je ook kiezen voor een autoresponder. Meer daarover vind je in mijn uitgebreide artikel over [e-mail marketing](https://demodernenomaden.nl/ondernemen/e-mail-marketing/).
+Wanneer je vaker mailingen wilt gaan maken kun je ook kiezen voor een autoresponder. Meer daarover vind je in mijn uitgebreide artikel over [e-mail marketing](/blog/ondernemen/e-mail-marketing/).
 
-[**Als je meer wilt weten over het maken van goede mailings, kijk dan eens in mijn handboek over het schrijven van zeer winstgevende acquisitie mails. Daarin ga ik in 50 pagina’s diep in op alles rondom e-mail marketing.**](https://demodernenomaden.nl/masterclass-acquisitie-mail/)
+**Als je meer wilt weten over het maken van goede mailings, kijk dan eens in mijn handboek over het schrijven van zeer winstgevende acquisitie mails. Daarin ga ik in 50 pagina’s diep in op alles rondom e-mail marketing.**
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -187,6 +187,6 @@ Wanneer je vaker mailingen wilt gaan maken kun je ook kiezen voor een autorespon
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

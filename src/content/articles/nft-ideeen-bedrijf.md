@@ -1,6 +1,6 @@
 ---
 title: "Dit kun je als bedrijf met NFTs – 23 Ideeën en voorbeelden"
-description: ""
+description: "NFTs komen in tal van hypes voorbij. Mainstream media praten erover en de gewone mens heeft er wel eens wat over gehoord. Misschien ken je zelfs wel…"
 date: 2022-06-07
 updated: 2023-01-02
 category: "web3"
@@ -150,7 +150,7 @@ Het verzamelen van speelkaarten is niets van vroeger, maar kan ook gewoon digita
 
 ![Digitaal land kopen in de Metaverse](/images/migrated/digitaal-land-kopen.webp "Digitaal land kopen in de Metaverse")
 
-Oké, dit is niet iets wat je als bedrijf zomaar even opzet, maar mag onder de NFTs zeker niet ontbreken; **digitaal land**. De digital land boom is allang een feit, want **wie wil er nu niet een schaars stukje land in een van de vele Metaverses?** Op zo’n stukje land, dat jouw eigendom is door de gekoppelde NFT, ben je vrij om zelf iets te bouwen. Tevens zie je veel bedrijven die daar winkels openen. Het ultieme [web 3.0](https://demodernenomaden.nl/web3/web-3-decentralisatie/)!
+Oké, dit is niet iets wat je als bedrijf zomaar even opzet, maar mag onder de NFTs zeker niet ontbreken; **digitaal land**. De digital land boom is allang een feit, want **wie wil er nu niet een schaars stukje land in een van de vele Metaverses?** Op zo’n stukje land, dat jouw eigendom is door de gekoppelde NFT, ben je vrij om zelf iets te bouwen. Tevens zie je veel bedrijven die daar winkels openen. Het ultieme [web 3.0](/blog/web3/web-3-decentralisatie/)!
 
 ## 16\. Jouw herinneringen als POAP
 

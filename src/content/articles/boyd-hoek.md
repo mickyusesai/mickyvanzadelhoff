@@ -1,6 +1,6 @@
 ---
 title: "Boyd Hoek – Wie is het en is hij betrouwbaar?"
-description: ""
+description: "Boyd Hoek zijn naam komt steeds vaker voorbij. Ik zie continu zijn advertenties op met name Youtube en Instagram. Veelal in video praat hij dan…"
 date: 2019-11-15
 updated: 2023-01-02
 category: "review"
@@ -22,9 +22,9 @@ Ik zal je in dit artikel meenemen in die bevindingen én de reactie/mailwisselin
 
 ## Wie is Boyd Hoek en wat biedt hij aan?
 
-Eerst even naar de basis rondom Boyd Hoek. Ik kende hem primair van zijn advertenties op Youtube en Instagram. In die advertenties spreekt hij over de voordelen van een **eigen Social Media Marketing Bureau (SMMB)** en nodigt hij je uit om [zijn gratis webinar](https://demodernenomaden.nl/go/smmb-masterclass) bij te wonen. In zijn webinar verteld Boyd Hoek zijn verhaal en beschrijft hij zijn verdienmodel uitgebreid. Hij legt je uit hoe je aan die tienduizend euro per maand kunt komen en wat daar allemaal achter zit. Voor wie op zoek is naar online verdienmodellen, kan [het webinar kijken](https://demodernenomaden.nl/go/smmb-masterclass) een echte verademing zijn. Er zijn natuurlijk al tal van webinars over online geld verdienen, maar het verdienmodel dat Boyd Hoek bespreekt is toch net even anders.
+Eerst even naar de basis rondom Boyd Hoek. Ik kende hem primair van zijn advertenties op Youtube en Instagram. In die advertenties spreekt hij over de voordelen van een **eigen Social Media Marketing Bureau (SMMB)** en nodigt hij je uit om [zijn gratis webinar](/go/smmb-masterclass) bij te wonen. In zijn webinar verteld Boyd Hoek zijn verhaal en beschrijft hij zijn verdienmodel uitgebreid. Hij legt je uit hoe je aan die tienduizend euro per maand kunt komen en wat daar allemaal achter zit. Voor wie op zoek is naar online verdienmodellen, kan [het webinar kijken](/go/smmb-masterclass) een echte verademing zijn. Er zijn natuurlijk al tal van webinars over online geld verdienen, maar het verdienmodel dat Boyd Hoek bespreekt is toch net even anders.
 
-Aan het einde van het webinar vraagt Boyd Hoek je om zijn SMMB Masterclass te volgen zodat je zelf ook die tienduizend euro per maand kunt gaan verdienen. Dat is een [betaalde training (lees hier mijn review daarover)](https://demodernenomaden.nl/online-geld-verdienen/smmb-masterclass-review/), maar daarover later meer.
+Aan het einde van het webinar vraagt Boyd Hoek je om zijn SMMB Masterclass te volgen zodat je zelf ook die tienduizend euro per maand kunt gaan verdienen. Dat is een betaalde training (lees hier mijn review daarover), maar daarover later meer.
 
 > Buiten de advertenties en het webinar van Boyd Hoek vind je hem vooral op zijn eigen Youtube kanaal (+/- 10,4K abonnees) en Instagram pagina (+/- 8,5K volgers). Op zijn Youtube kanaal vind je vooral uitleg video’s over zijn werk, zijn Instagram pagina is dan weer wat meer persoonlijk.
 
@@ -38,11 +38,11 @@ Boyd Hoek zijn verdienmodel is, kort samengevat, het creëren en beheren van Fac
 
 Even terug naar het begin. Ik vond Boyd Hoek dus **NIET betrouwbaar** over komen en had daar zo mijn redenen voor. Want als je op Google zijn naam intypt kom je waarschijnlijk vooral dit artikel tegen en zijn eigen Youtube video’s. Ik wil het daarom met je hebben over de redenen waarom ik Boyd Hoek onbetrouwbaar over vond komen en hoe daarop is gereageerd.
 
-[**Wil je zelf weten wie Boyd Hoek is? Bekijk dan zijn gratis webinar. Daarin deelt hij open en eerlijk zijn verhaal en legt hij je uit hoe je zelf tienduizend euro per maand kunt verdienen met SMMB. :)**](https://demodernenomaden.nl/go/smmb-masterclass)
+[**Wil je zelf weten wie Boyd Hoek is? Bekijk dan zijn gratis webinar. Daarin deelt hij open en eerlijk zijn verhaal en legt hij je uit hoe je zelf tienduizend euro per maand kunt verdienen met SMMB. :)**](/go/smmb-masterclass)
 
 ## Is Boyd Hoek een SCAM?
 
-Er waren meerdere redenen waarom ik Boyd Hoek onbetrouwbaar vond, maar ik stel hiermee **niet dat Boyd Hoek een SCAM is**. Doordat ik in contact was gekomen met Boyd Hoek en zijn community manager Jeff, heb ik mijn bevindingen namelijk bijgesteld. We hebben daarover mailcontact gehad en ik heb de mogelijkheid gekregen om een kijkje te nemen binnen [de SMMB Masterclass](https://demodernenomaden.nl/online-geld-verdienen/smmb-masterclass-review/) (een zeer volledige training als je het mij vraagt). Daarom som ik hieronder de redenen op waarom ik Boyd Hoek onbetrouwbaar over vond komen mét daarbij de weerlegging daarvan. Zo hoop ik jou een eerlijk beeld te geven van de training zodat je weet of deze voor jou het volgen waard is.
+Er waren meerdere redenen waarom ik Boyd Hoek onbetrouwbaar vond, maar ik stel hiermee **niet dat Boyd Hoek een SCAM is**. Doordat ik in contact was gekomen met Boyd Hoek en zijn community manager Jeff, heb ik mijn bevindingen namelijk bijgesteld. We hebben daarover mailcontact gehad en ik heb de mogelijkheid gekregen om een kijkje te nemen binnen de SMMB Masterclass (een zeer volledige training als je het mij vraagt). Daarom som ik hieronder de redenen op waarom ik Boyd Hoek onbetrouwbaar over vond komen mét daarbij de weerlegging daarvan. Zo hoop ik jou een eerlijk beeld te geven van de training zodat je weet of deze voor jou het volgen waard is.
 
 ### **1\. Kleine zichtbaarheid**
 
@@ -58,11 +58,11 @@ Buiten de Instagram plaatjes en dure villa kon ik niet echt bewijs vinden van Bo
 
 _Later ben ik in contact gekomen met een aantal van de marketingklanten van Boyd Hoek. Zij hebben mij video reviews gestuurd met daarin de resultaten van die samenwerking. Deze waren legitiem._ _Ook heeft Boyd Hoek in zijn video’s een aantal afschriften laten zien die zijn successen onderbouwen. Ik veranderde van scepticus in razend enthousiast._
 
-**[Wil jij zelf beginnen met het opzetten van een Social Media Marketing Bureau om op die manier veel online geld te verdienen? Volg dan dit webinar en kijk of het iets voor jou is.](https://demodernenomaden.nl/go/smmb-masterclass)**
+**[Wil jij zelf beginnen met het opzetten van een Social Media Marketing Bureau om op die manier veel online geld te verdienen? Volg dan dit webinar en kijk of het iets voor jou is.](/go/smmb-masterclass)**
 
 ## Waarom je met een SMMB duizenden euro’s per maand kunt verdienen
 
-De grote vraag voor mij aan het begin was hoe het kan dat **Boyd Hoek tienduizenden euro’s verdient** met zijn eigen Social Media Marketing Bureau. Het antwoord daarop is mij inmiddels duidelijk geworden na het volgen van zijn [SMMB Masterclass](https://demodernenomaden.nl/online-geld-verdienen/smmb-masterclass-review/). Het verdienmodel van Boyd Hoek is om Facebook en Instagram advertenties op te zetten voor bedrijven. Deze advertenties leveren veel nieuwe klanten op voor de bedrijven die Boyd Hoek helpt, maand na maand. Omdat die advertenties lang doorlopen kan Boyd Hoek daar steeds weer opnieuw geld mee verdienen.
+De grote vraag voor mij aan het begin was hoe het kan dat **Boyd Hoek tienduizenden euro’s verdient** met zijn eigen Social Media Marketing Bureau. Het antwoord daarop is mij inmiddels duidelijk geworden na het volgen van zijn SMMB Masterclass. Het verdienmodel van Boyd Hoek is om Facebook en Instagram advertenties op te zetten voor bedrijven. Deze advertenties leveren veel nieuwe klanten op voor de bedrijven die Boyd Hoek helpt, maand na maand. Omdat die advertenties lang doorlopen kan Boyd Hoek daar steeds weer opnieuw geld mee verdienen.
 
 Die bedrijven betalen Boyd Hoek tussen de duizend en tweeduizend euro per maand voor die advertenties **omdat ze klanten opleveren**. Op zich is het niet heel moeilijk om dat soort funnels voor bedrijven op te zetten, als je maar weet waar je mee bezig bent. Je kunt dus gemakkelijk meerdere klanten tegelijk hebben met je eigen Social Media Marketing Bureau. Zo komt een schaalbaar inkomen plots wel heel erg dichtbij.
 
@@ -70,7 +70,7 @@ Die bedrijven betalen Boyd Hoek tussen de duizend en tweeduizend euro per maand 
 
 Met mijn eerste indruk zat ik er dus naast ;). Het verdienmodel is één van de manieren om veel online geld te verdienen.
 
-**[Wil jij ook 10k per maand verdienen met jouw eigen SMMB? Volg dan dit gratis webinar.](https://demodernenomaden.nl/go/smmb-masterclass)**
+**[Wil jij ook 10k per maand verdienen met jouw eigen SMMB? Volg dan dit gratis webinar.](/go/smmb-masterclass)**
 
 ## Over de SMMB Masterclass
 
@@ -95,7 +95,7 @@ In totaal bestaat de SMMB Masterclass uit zo’n 36 lessen (in 2021). Sommigen m
 
 ![](/images/migrated/smmb-masterclass-boyd-hoek-interface.webp "smmb-masterclass-boyd-hoek-interface")
 
-**[Wil je zelf de cursus aanschaffen? Dan kan dat via deze speciale kortingspagina.](https://demodernenomaden.nl/go/smmb-masterclass) Al raad ik je persoonlijk wel aan om eerst [het webinar van Boyd Hoek te volgen](https://demodernenomaden.nl/go/smmb-masterclass). Zo weet je zeker dat zijn verdienmodel iets voor jou is.**
+**[Wil je zelf de cursus aanschaffen? Dan kan dat via deze speciale kortingspagina.](/go/smmb-masterclass) Al raad ik je persoonlijk wel aan om eerst [het webinar van Boyd Hoek te volgen](/go/smmb-masterclass). Zo weet je zeker dat zijn verdienmodel iets voor jou is.**
 
 ## Conclusie over Boyd Hoek en zijn SMMB Masterclass
 
@@ -111,11 +111,11 @@ De SMMB Masterclass is legitiem en is een manier voor ondernemende mensen die on
 
 Ik ben blij dat Boyd Hoek en zijn team mij een inzage hebben gegeven in de masterclass en daarmee mijn artikel van negatief/kritisch naar een eerlijke review hebben kunnen tillen. Ik raad de training aan voor iedereen die klaar is om online geld te verdienen.
 
-**[Wil je zelf een eigen SMMB opzetten, dan kun je hier gratis Boyd Hoek zijn webinar volgen.](https://demodernenomaden.nl/go/smmb-masterclass)**
+**[Wil je zelf een eigen SMMB opzetten, dan kun je hier gratis Boyd Hoek zijn webinar volgen.](/go/smmb-masterclass)**
 
 **Of…**
 
-[**Start direct met de SMMB Masterclass via deze speciale kortingslink.**](https://demodernenomaden.nl/go/smmb-masterclass)
+[**Start direct met de SMMB Masterclass via deze speciale kortingslink.**](/go/smmb-masterclass)
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -123,6 +123,6 @@ Ik ben blij dat Boyd Hoek en zijn team mij een inzage hebben gegeven in de maste
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

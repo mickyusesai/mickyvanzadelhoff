@@ -1,0 +1,26 @@
+---
+import { CATEGORY_LABELS } from '../config/site';
+import { articlePath, formatDate, type Article } from '../lib/articles';
+
+interface Props { article: Article; }
+const { article } = Astro.props;
+const { title, description, category, date, updated, featuredImage } = article.data;
+---
+<article class="grid gap-3">
+  {featuredImage && (
+    <a href={articlePath(article)} class="block overflow-hidden rounded-lg bg-line" tabindex="-1" aria-hidden="true">
+      <img src={featuredImage} alt="" loading="lazy" decoding="async" class="aspect-[16/9] w-full object-cover" />
+    </a>
+  )}
+  <div class="grid gap-1">
+    <p class="text-xs uppercase tracking-wide text-muted">
+      <a href={`/blog/${category}/`} class="hover:text-accent">{CATEGORY_LABELS[category] ?? category}</a>
+      <span aria-hidden="true"> · </span>
+      <time datetime={(updated ?? date).toISOString()}>{formatDate(updated ?? date)}</time>
+    </p>
+    <h3 class="text-lg font-semibold leading-snug">
+      <a href={articlePath(article)} class="hover:text-accent">{title}</a>
+    </h3>
+    <p class="text-sm text-muted">{description}</p>
+  </div>
+</article>

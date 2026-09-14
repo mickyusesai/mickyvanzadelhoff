@@ -1,6 +1,6 @@
 ---
 title: "Solana (SOL) kopen met iDEAL en Bancontact in 2024 – Stappenplan"
-description: ""
+description: "In 2024 blijft de wereld van cryptocurrency zich ontwikkelen met een ongekende snelheid. In deze dynamische markt heeft Solana (SOL) zich onderscheiden…"
 date: 2024-01-18
 updated: 2024-01-18
 category: "web3"

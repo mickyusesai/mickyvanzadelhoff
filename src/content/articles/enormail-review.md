@@ -1,6 +1,6 @@
 ---
 title: "Enormail – Nuttige e-mail marketing software? [Review]"
-description: ""
+description: "Ik maak al jaren gebruik van Enormail en ben er razend enthousiast over. Vandaar dat het tijd werd voor een review over deze e-mail marketing software…"
 date: 2019-09-26
 updated: 2023-01-03
 category: "review"
@@ -10,11 +10,11 @@ draft: false
 featuredImage: "/images/migrated/enormail-e-mail-marketing-review.webp"
 ---
 
-Ik maak al jaren gebruik van **Enormail** en ben er razend enthousiast over. Vandaar dat het tijd werd voor een **review over deze e-mail marketing software**. Enormail heeft mij namelijk geholpen om een grote following op te bouwen met mijn bedrijf [De Moderne Nomaden](https://demodernenomaden.nl) en genereert op de automatische piloot inkomsten.
+Ik maak al jaren gebruik van **Enormail** en ben er razend enthousiast over. Vandaar dat het tijd werd voor een **review over deze e-mail marketing software**. Enormail heeft mij namelijk geholpen om een grote following op te bouwen met mijn bedrijf [De Moderne Nomaden](/) en genereert op de automatische piloot inkomsten.
 
 In deze review over Enormail ga ik in op waarom ik het programma gebruik, de tips, de tops en waarom ik het aan zou raden. Ook leg ik uit hoe je zelf succesvol met Enormail aan de slag kunt gaan.
 
-**[\> Zelf beginnen met Enormail](https://demodernenomaden.nl/go/enormail)**
+**[\> Zelf beginnen met Enormail](/go/enormail)**
 
 ## Wat is Enormail?
 
@@ -22,17 +22,17 @@ In deze review over Enormail ga ik in op waarom ik het programma gebruik, de tip
 
 Behalve voor mailings en het beheren van contacten heeft Enormail sinds 2019 ook een functie om formulieren te maken. Normaal moest je mensen via bijvoorbeeld Contact Form 7 (bij WordPress) zich laten inschrijven voor je nieuwsbrief of mailinglijst.
 
-Inmiddels heeft Enormail zelf een functie om opt-in pagina’s en formulieren te maken. Mensen laten daar hun e-mail achter en komen automatisch in jouw [mailinglijst](https://demodernenomaden.nl/ondernemen/mailinglijst-groeien/). Vervolgens kun je ze geautomatiseerd e-mails laten verzenden via een autoresponder. Je hoeft de mails alleen nog maar zelf te typen ?.
+Inmiddels heeft Enormail zelf een functie om opt-in pagina’s en formulieren te maken. Mensen laten daar hun e-mail achter en komen automatisch in jouw [mailinglijst](/blog/ondernemen/leads-genereren-mailinglijst/). Vervolgens kun je ze geautomatiseerd e-mails laten verzenden via een autoresponder. Je hoeft de mails alleen nog maar zelf te typen ?.
 
 ![](/images/migrated/enormail-opt-in-formulier-1.webp "enormail-opt-in-formulier")
 
 ## Waarvoor gebruik je Enormail?
 
-Enormail kun je gebruiken wanneer je werkelijk alles rondom mailings wilt gaan automatiseren. Op mijn website melden maandelijks zo’n 2000 mensen zich aan op mijn mailinglijst. Dat doen zij door een van mijn gratis e-books te downloaden ([deze bijvoorbeeld](https://demodernenomaden.nl/digital-nomad-boek/)). Zij komen dan terecht in een funnel met daarin 30 mailtjes die verspreid over 150 dagen worden verstuurd. In de meeste van die mails geef ik gratis content, in andere promoot ik een van mijn trainingen. De mailings van Enormail verkopen dus letterlijk voor mij zonder dat ik er zelf actief tussen hoef te zitten.
+Enormail kun je gebruiken wanneer je werkelijk alles rondom mailings wilt gaan automatiseren. Op mijn website melden maandelijks zo’n 2000 mensen zich aan op mijn mailinglijst. Dat doen zij door een van mijn gratis e-books te downloaden ([deze bijvoorbeeld](/boek/)). Zij komen dan terecht in een funnel met daarin 30 mailtjes die verspreid over 150 dagen worden verstuurd. In de meeste van die mails geef ik gratis content, in andere promoot ik een van mijn trainingen. De mailings van Enormail verkopen dus letterlijk voor mij zonder dat ik er zelf actief tussen hoef te zitten.
 
 Ook kun je Enormail gebruiken om je mailinglijst te segmenteren zodat iedereen de mail ontvangt die voor hem of haar het meest relevant is. Achteraf heb je daarbij altijd een enorme berg statistiek om uit op te maken hoe geslaagd een mailing is geweest.
 
-Zie bijvoorbeeld hieronder de statistiek van een [acquisitie mail](https://demodernenomaden.nl/onlinemarketing/acquisitie-mail-voorbeeld/) die ik voor een van mijn klanten had opgesteld. Die statistiek vinden mijn klanten geweldig en is enorm handig ter optimalisatie. Zo zet ik altijd onderaan mijn mail een link naar een webpagina of artikel. Met Enormail kan ik zien of mensen daarop hebben geklikt, en zelfs wie daarop heeft geklikt. Interessante informatie voor verdere opvolging dus ?.
+Zie bijvoorbeeld hieronder de statistiek van een [acquisitie mail](/blog/ondernemen/acquisitie-mail-voorbeeld1/) die ik voor een van mijn klanten had opgesteld. Die statistiek vinden mijn klanten geweldig en is enorm handig ter optimalisatie. Zo zet ik altijd onderaan mijn mail een link naar een webpagina of artikel. Met Enormail kan ik zien of mensen daarop hebben geklikt, en zelfs wie daarop heeft geklikt. Interessante informatie voor verdere opvolging dus ?.
 
 ![](/images/migrated/resultaten-mailing-enormail.webp "resultaten-mailing-enormail")
 
@@ -50,7 +50,7 @@ Dan zijn er nog een paar functies binnen Enormail waar ik echt laaiend enthousia
 
 **De follow-up functie** is er zo een. Die zorgt ervoor dat je een mail nog een keer kunt verzenden naar mensen die de eerste mail niet hebben geopend. Dit doe je dan bijvoorbeeld met een andere titel en hoppa, er zijn weer nieuwe mensen die de mail openen zonder dat ze het gevoel hebben gespamd te worden. Ideaal om nog even een beetje conversie erbij te smokkelen. Het is een functie waar ik mijn acquisitie klanten ook enorm enthousiast mee maak. Velen begrijpen niet eens dat dat kan, zo’n follow-up.
 
-> Ik verdien mijn geld voor een groot deel met [het schrijven van acquisitie mails](https://demodernenomaden.nl/onlinemarketing/acquisitie-mail-voorbeeld/) voor bedrijven. Dan is _het belangrijk dat je aan het bedrijf het effect van een mail aan kunt tonen en het effect kunt maximaliseren._
+> Ik verdien mijn geld voor een groot deel met [het schrijven van acquisitie mails](/blog/ondernemen/acquisitie-mail-voorbeeld1/) voor bedrijven. Dan is _het belangrijk dat je aan het bedrijf het effect van een mail aan kunt tonen en het effect kunt maximaliseren._
 
 Dan heb je ook nog de opt-in functie die ik eerder al besprak. Deze is zo gemaakt dat je **eenvoudig** met drag en drop een eigen opt-in formulier kunt aanmaken. Ideaal, want normaal heb je hier een derde betaalde plugin voor nodig en moet je moeilijk doen met koppelingen.
 
@@ -70,7 +70,7 @@ Ook zijn er mogelijkheden bijgekomen waarmee je tags kunt geven aan gebruikers d
 
 Handig als je een lezer specifieke content wilt verzenden. Veel bedrijven hebben namelijk meerdere doelgroepen. Op deze manier kun je hen in de mailinglijst filteren zodat je daadwerkelijk dat stuurt wat aansluit. Geen mailtjes over vrouwenschoenen aan mannen dus ;).
 
-**[Is Enormail het programma voor jou? Je meld je hier eenvoudig aan voor een gratis proefperiode.](https://demodernenomaden.nl/go/enormail)**
+**[Is Enormail het programma voor jou? Je meld je hier eenvoudig aan voor een gratis proefperiode.](/go/enormail)**
 
 ## De domeinauthentificatie bij Enormail
 
@@ -92,17 +92,17 @@ Die koppeling met mijn Opt-in wheel zit er dus niet in. Tegelijk zijn er wel vee
 
 Ook buiten webhooks heeft Enormail een aantal directe koppelingen waar je **0,0% technische kennis voor nodig hebt**. In dat lijstje vind je onder andere 123 Contactform, WordPress, WishList, Facebook (lead forms), Huddle, Phoenix, Magento en het welbekende Zapier.
 
-**Met die laatste kun je [jouw Enormail account](https://demodernenomaden.nl/go/enormail) koppelen aan letterlijk alle apps op het internet. Daar geen zorgen over dus ;).**
+**Met die laatste kun je [jouw Enormail account](/go/enormail) koppelen aan letterlijk alle apps op het internet. Daar geen zorgen over dus ;).**
 
 ## Speciale aanbieding review Enormail
 
-Omdat ik zelf klant ben van Enormail kan ik jou de pakketten die zij hebben met korting aanbieden. Zo is het Mammoet account dat zij hebben normaal 60,- euro per maand, maar kan ik dit aanbieden voor 45,- euro per maand zolang je lid bent ?. Wees dus geen dief van je eigen portemonnee. Gebruik maken van die korting kan door [hier te klikken](https://demodernenomaden.nl/go/enormail).
+Omdat ik zelf klant ben van Enormail kan ik jou de pakketten die zij hebben met korting aanbieden. Zo is het Mammoet account dat zij hebben normaal 60,- euro per maand, maar kan ik dit aanbieden voor 45,- euro per maand zolang je lid bent ?. Wees dus geen dief van je eigen portemonnee. Gebruik maken van die korting kan door [hier te klikken](/go/enormail).
 
 Er is ook een goedkopere variant, maar daarmee kun je maar 2500 contacten hebben. Voor een beetje een bedrijf is dat al snel veel te weinig. Zeker wanneer je gebruik gaat maken van de opt-in formulieren.
 
 # Aan de slag met Enormail
 
-Oké, stel je hebt een Enormail account aangemaakt ([met 30 dagen gratis proefversie](https://demodernenomaden.nl/go/enormail))… Dan is het nu tijd om jouw account op de juiste manier in te stellen en mailcontacten te verkrijgen.
+Oké, stel je hebt een Enormail account aangemaakt ([met 30 dagen gratis proefversie](/go/enormail))… Dan is het nu tijd om jouw account op de juiste manier in te stellen en mailcontacten te verkrijgen.
 
 ## Stap 1: Afzender e-mail adres toevoegen
 
@@ -208,7 +208,7 @@ Enormail zal je nu vragen of je de mail nu of op een later tijdstip wilt verzend
 
 Oké, tot zover. Ik zou je nog tal van dingen uit kunnen leggen over de Enormail autoresponder en de formulieren voor het structureel uitbouwen van jouw contactenlijst. Het ding is alleen, dat doen zij zelf al enorm goed. Ga gewoon naar de Enormail helpdesk en vind alle info die je nodig hebt.
 
-**[Enormail](https://enormail.eu?ref=YFhynSSLyz) is mijn favoriete e-mail marketing software en jij kunt deze [GRATIS voor 30 dagen uitproberen](https://demodernenomaden.nl/go/enormail). Niets te verliezen toch? Succes!**
+**[Enormail](https://enormail.eu?ref=YFhynSSLyz) is mijn favoriete e-mail marketing software en jij kunt deze [GRATIS voor 30 dagen uitproberen](/go/enormail). Niets te verliezen toch? Succes!**
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -216,6 +216,6 @@ Oké, tot zover. Ik zou je nog tal van dingen uit kunnen leggen over de Enormail
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

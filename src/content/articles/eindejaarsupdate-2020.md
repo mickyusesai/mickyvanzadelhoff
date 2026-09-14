@@ -1,6 +1,6 @@
 ---
 title: "In 2020 werd mijn inkomen 100% passief (eindejaarsupdate)"
-description: ""
+description: "Natuurlijk was 2020 een bijzonder jaar. Voor De Moderne Nomaden betekende het een flinke koerswijziging ten opzichte van de eerste plannen. Het…"
 date: 2020-12-30
 updated: 2022-01-05
 category: "tips"
@@ -10,23 +10,23 @@ draft: false
 featuredImage: "/images/migrated/20201113_154812-1-scaled.webp"
 ---
 
-Natuurlijk was 2020 een bijzonder jaar. Voor [De Moderne Nomaden](https://demodernenomaden.nl) betekende het een flinke koerswijziging ten opzichte van de eerste plannen. Het eindresultaat is dat ik inmiddels naar **100% passief inkomen** ben gegaan en daar wil ik het in dit blog graag met je over hebben.
+Natuurlijk was 2020 een bijzonder jaar. Voor [De Moderne Nomaden](/) betekende het een flinke koerswijziging ten opzichte van de eerste plannen. Het eindresultaat is dat ik inmiddels naar **100% passief inkomen** ben gegaan en daar wil ik het in dit blog graag met je over hebben.
 
 Een kijkje in de keuken!
 
 ## Naar 100% passief inkomen met affiliate marketing
 
-Begin 2020 was ik actief met [affiliate marketing](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) en mijn online diensten als webdesigner en marketeer bij een DJ verhuur bedrijf.
+Begin 2020 was ik actief met [affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) en mijn online diensten als webdesigner en marketeer bij een DJ verhuur bedrijf.
 
 Toen corona om de hoek kwam kijken vielen mijn online diensten vrijwel volledig weg. Dat terwijl die takken van sport mij vaak de **zekerheid en stabiliteit** hadden geboden qua inkomen.
 
-Ik voelde me onzeker over mijn financiën. Op dat moment zat ik [vast in Thailand in het paradijs](https://demodernenomaden.nl/tips/digital-nomad-thailand-covid-19/) en vroeg ik me af hoe ik dit op afstand aan zou gaan pakken.
+Ik voelde me onzeker over mijn financiën. Op dat moment zat ik [vast in Thailand in het paradijs](/blog/tips/digital-nomad-thailand-covid-19/) en vroeg ik me af hoe ik dit op afstand aan zou gaan pakken.
 
 **Ik besloot tot een koerswijziging.**
 
-Wat nou als ik volledig stop online diensten te leveren en gewoon 100% inzet op een [passief inkomen](https://demodernenomaden.nl/online-geld-verdienen/passief-inkomen-genereren/) via affiliate marketing?
+Wat nou als ik volledig stop online diensten te leveren en gewoon 100% inzet op een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/) via affiliate marketing?
 
-Ik verdiende op dat moment pakweg 1200,- per maand met affiliate linkjes in mijn artikelen, af en toe had ik een uitschieter naar boven. Echt zeker van een prima inkomen was ik allerminst. Toch gokte ik erop en besloot **tientallen andere [affiliate programma’s](https://demodernenomaden.nl/ondernemen/affiliate-programma/) uit te proberen** en te kijken wat ik teweeg kon brengen.
+Ik verdiende op dat moment pakweg 1200,- per maand met affiliate linkjes in mijn artikelen, af en toe had ik een uitschieter naar boven. Echt zeker van een prima inkomen was ik allerminst. Toch gokte ik erop en besloot **tientallen andere [affiliate programma’s](/blog/ondernemen/affiliate-programma/) uit te proberen** en te kijken wat ik teweeg kon brengen.
 
 Dat resulteerde in **18 nieuwe artikelen en tal van mislukkingen**.
 
@@ -42,7 +42,7 @@ Maar de 5 die geld opleveren blijken een schot in de roos te zijn. Zo is mijn sa
 
 Ik merk plots dat het harde werken aan mijn blog resultaat oplevert. Met maandelijks zo’n 50.000 bloglezers kan ik plots een volwaardig inkomen verdienen. En wat gek blijft is dat **dit inkomen volledig passief is**.
 
-Buiten dit passieve inkomen ben ik vanwege corona dit jaar ook gestart met de videotraining [Van Blog Naar Business](https://demodernenomaden.nl/yes/). Een online training voor wie met [bloggen](https://demodernenomaden.nl/online-geld-verdienen/bloggen/) (en affiliate marketing) geld wil verdienen. Waanzinnig leuk om te doen en een prima manier om nog wat bij te verdienen.
+Buiten dit passieve inkomen ben ik vanwege corona dit jaar ook gestart met de videotraining [Van Blog Naar Business](/). Een online training voor wie met [bloggen](/blog/online-geld-verdienen/bloggen/) (en affiliate marketing) geld wil verdienen. Waanzinnig leuk om te doen en een prima manier om nog wat bij te verdienen.
 
 ## Rustige kerst en grootse plannen voor 2021
 

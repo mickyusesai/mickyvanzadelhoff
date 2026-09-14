@@ -1,6 +1,6 @@
 ---
 title: "Alternatieve depressie behandeling – Meer doen in plaats van minder"
-description: ""
+description: "Ik heb er een tijdje over nagedacht of ik dit artikel over een alternatieve depressie behandeling wel moet schrijven. Ik ben geen psycholoog of…"
 date: 2019-02-27
 updated: 2020-11-01
 category: "tips"
@@ -10,13 +10,13 @@ draft: false
 featuredImage: "/images/migrated/DSC00958.webp"
 ---
 
-Ik heb er een tijdje over nagedacht of ik dit artikel over een alternatieve depressie behandeling wel moet schrijven. Ik ben geen psycholoog of neurowetenschapper, maar een wereldburger die op dit moment [van Nederland naar India fietst](https://journeyofconnection.com). Ik heb zelf [drie maanden een depressie gehad](https://demodernenomaden.nl/persoonlijk/depressie/) en ben hier sterk uitgekomen en **dankbaar** voor de ervaring.
+Ik heb er een tijdje over nagedacht of ik dit artikel over een alternatieve depressie behandeling wel moet schrijven. Ik ben geen psycholoog of neurowetenschapper, maar een wereldburger die op dit moment [van Nederland naar India fietst](https://journeyofconnection.com). Ik heb zelf [drie maanden een depressie gehad](/blog/tips/depressie/) en ben hier sterk uitgekomen en **dankbaar** voor de ervaring.
 
 In dit artikel wil ik mijn grootste lessen delen omdat ik denk dat mijn manier van kijken naar een depressie anders is dan de modaal. Ik kan daarmee niet zeggen dat dit voor jou de oplossing is, maar als je een millennial bent die in een depressie terecht is gekomen door vermoedelijk een tekort aan zingeving, teveel aan keuzes, sociale onzekerheid of het jezelf opleggen van teveel druk, is dit op zijn minst een verfrissende visie op een alternatieve behandeling van depressie. Ik deel daarom graag mijn verhaal.
 
 ## **Waarom werd ik depressief?**
 
-Het was begin 2018, ik reisde al zo’n acht maanden overal naartoe als [digital nomad](https://demodernenomaden.nl/digitalenomaden/digitale-nomaden/). Dat wil zeggen, [ik werkte digitaal](https://demodernenomaden.nl/digitalenomaden/digital-nomad-banen/) vanachter mijn laptop en kon op die manier zijn waar ik wilde. Ik zag vele landen (de teller staat op 38) en ontmoette bizar veel mensen. Vaak zat ik met mijn laptop op het strand of in een hip koffiezaakje te werken en sloot ik de dag af met een cocktail in de hand al pratend met mijn medereizigers. Het perfecte leven voor een hippie die niet van plan is op een kantoor te eindigen.
+Het was begin 2018, ik reisde al zo’n acht maanden overal naartoe als [digital nomad](/blog/digitalenomaden/digital-nomad-worden/). Dat wil zeggen, [ik werkte digitaal](/blog/digitalenomaden/digital-nomad-banen/) vanachter mijn laptop en kon op die manier zijn waar ik wilde. Ik zag vele landen (de teller staat op 38) en ontmoette bizar veel mensen. Vaak zat ik met mijn laptop op het strand of in een hip koffiezaakje te werken en sloot ik de dag af met een cocktail in de hand al pratend met mijn medereizigers. Het perfecte leven voor een hippie die niet van plan is op een kantoor te eindigen.
 
 Waar de eerste maanden van mijn reizen mij enorm gelukkig maakte, voelde ik daarna plots een tekortkoming. Ik voelde mij ongelukkig op het paradijselijke strand van Thailand. Ik dacht dat het aan de plek lag en reisde nog wat door. Totdat ik eenmaal in Marokko een keiharde realiteitsklap kreeg. Ik barstte in tranen uit en voor de drie maanden die volgden was dat dagelijkse de situatie. Ik huilde uit puur ongeluk en wist niet waardoor.
 

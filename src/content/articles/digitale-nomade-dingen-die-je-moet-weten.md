@@ -1,6 +1,6 @@
 ---
 title: "Tien dingen die je als digital nomad moet weten"
-description: ""
+description: "NOTE: Onderstaande blog is als gastblog geplaatst bij Money You."
 date: 2017-12-25
 updated: 2022-01-27
 category: "digitalenomaden"
@@ -12,17 +12,17 @@ featuredImage: "/images/migrated/lop-buri-thailand-zonnebloem-berg.webp"
 
 _NOTE: Onderstaande blog is als gastblog geplaatst bij Money You._
 
-Als online marketeer en oprichter van [De Moderne Nomaden](https://demodernenomaden.nl) verdient [Mick van Zadelhoff](https://demodernenomaden.nl/over-mij/) (23) geld terwijl hij reist, en inspireert hij anderen om hetzelfde te doen. Met 34 landen op de teller mag hij zichzelf een doorgewinterde [digital nomad](https://demodernenomaden.nl/digitalenomaden/digital-nomad-worden/) noemen. Maar de lifestyle gaat niet altijd over rozen. Vandaag deelt hij tien dingen die digital nomads je niet snel vertellen, maar er onlosmakelijk bij horen.
+Als online marketeer en oprichter van [De Moderne Nomaden](/) verdient [Mick van Zadelhoff](/over/) (23) geld terwijl hij reist, en inspireert hij anderen om hetzelfde te doen. Met 34 landen op de teller mag hij zichzelf een doorgewinterde [digital nomad](/blog/digitalenomaden/digital-nomad-worden/) noemen. Maar de lifestyle gaat niet altijd over rozen. Vandaag deelt hij tien dingen die digital nomads je niet snel vertellen, maar er onlosmakelijk bij horen.
 
 ## **1\. Afleiding, afleiding… waar ging dit artikel ook alweer over?**
 
 Tijdens het reizen is er overal wel iets te ontdekken. Je ziet alleen maar moois om je heen en maakt overal nieuwe vrienden die wel houden van een biertje. Wanneer je normaal reist zeg je waarschijnlijk nergens “nee” tegen, maar als digital nomad moet je soms wel en leer je dit woord in alle talen kennen. Want: zonder werk, geen reis. En dan kan afleiding cruciaal zijn.
 
-Zelf ga ik afleiding te lijf door een deel van de tijd een meer afgelegen verblijf te boeken. Denk aan een hotel in een levenloze stad. Puur om de concentratie voor een paar dagen weer echt op mijn [online werk](https://demodernenomaden.nl/digitalenomaden/digital-nomad-banen/) te zetten. Een andere optie is natuurlijk om vroeg in de ochtend te werken, zodat je de rest van de dag tijd overhoudt voor leuke dingen. Maar daar ben ik dan weer wat minder goed in.
+Zelf ga ik afleiding te lijf door een deel van de tijd een meer afgelegen verblijf te boeken. Denk aan een hotel in een levenloze stad. Puur om de concentratie voor een paar dagen weer echt op mijn [online werk](/blog/digitalenomaden/digital-nomad-banen/) te zetten. Een andere optie is natuurlijk om vroeg in de ochtend te werken, zodat je de rest van de dag tijd overhoudt voor leuke dingen. Maar daar ben ik dan weer wat minder goed in.
 
 ## **2\. Eenzaamheid en het syndroom van de korte vriendschap**
 
-Soms ben ik wel een half jaar [alleen aan het reizen](https://demodernenomaden.nl/tips/alleen-reizen-wereld-voordelen-en-nadelen/). Natuurlijk, ik maak genoeg vrienden. Maar deze vriendschappen zijn meestal kort en krachtig. Om die reden moet je voor het digital nomad bestaan wel écht iemand zijn die ook goed op zichzelf kan zijn.
+Soms ben ik wel een half jaar [alleen aan het reizen](/blog/tips/alleen-reizen-wereld-voordelen-en-nadelen/). Natuurlijk, ik maak genoeg vrienden. Maar deze vriendschappen zijn meestal kort en krachtig. Om die reden moet je voor het digital nomad bestaan wel écht iemand zijn die ook goed op zichzelf kan zijn.
 
 Zelf merk ik dit met name wanneer ik écht iets heel vets meemaak, en dit heel graag met iemand wil delen. En dan is het lastig als je niemand om je heen hebt die daar ook maar iets van begrijpt. Op dat soort momenten kan ik me aardig alleen voelen.
 
@@ -30,11 +30,11 @@ Zelf merk ik dit met name wanneer ik écht iets heel vets meemaak, en dit heel g
 
 Wil je er weer even aan herinnerd worden waarom leren hoofdrekenen op de basisschool de moeite waard was? Reis dan de wereld over. Je komt met zoveel verschillende valuta in aanraking dat hoofdrekenen een tak van sport wordt. Het blijft toch altijd even wennen om in een nieuw land weer een andere som te gebruiken. Niet zo gek dus als je in de eerste dagen vaak makkelijker wordt opgelicht door een taxichauffeur dan wanneer je ergens langer verblijft.
 
-Tip: wissel je lokale valuta altijd in het land zelf weer terug voor een internationale valuta. Zo kun je Servische Dinars bijvoorbeeld nergens anders inruilen dan in [Servië](https://demodernenomaden.nl/digitalenomaden/wonen-en-werken-in-novi-sad-servie/) zelf. Niemand heeft mij dit van te voren verteld en zo heb ik inmiddels al een tas vol aan internationaal geld waar ik niets meer mee kan. Oeps!
+Tip: wissel je lokale valuta altijd in het land zelf weer terug voor een internationale valuta. Zo kun je Servische Dinars bijvoorbeeld nergens anders inruilen dan in [Servië](/blog/digitalenomaden/wonen-en-werken-in-novi-sad-servie/) zelf. Niemand heeft mij dit van te voren verteld en zo heb ik inmiddels al een tas vol aan internationaal geld waar ik niets meer mee kan. Oeps!
 
 ## **4\. Reis als een slak, niet als een tijger**
 
-Vroeger op reis wilde ik in zo min mogelijk tijd zoveel mogelijk zien. Herkenbaar? Dan raad ik je aan om die gedachte als digital nomad vooral uit je hoofd te zetten. Zowel het [reizen en het werken](https://demodernenomaden.nl/digitalenomaden/reizen-en-werken-combineren/) vereisen veel van je tijd, energie en hersencapaciteit.
+Vroeger op reis wilde ik in zo min mogelijk tijd zoveel mogelijk zien. Herkenbaar? Dan raad ik je aan om die gedachte als digital nomad vooral uit je hoofd te zetten. Zowel het [reizen en het werken](/blog/digitalenomaden/reizen-en-werken-combineren/) vereisen veel van je tijd, energie en hersencapaciteit.
 
 Om je goed te concentreren tijdens het werken, is het daarom slimmer om ook echt de tijd te nemen voor je reis. Probeer niet te overhaasten of teveel dingen in te weinig tijd te doen. En als het goed is heb je die luxe ook. In mijn geval ligt de terugkeer naar Nederland niet vast en heb ik in principe alle tijd en ruimte om te gaan en staan waar ik wil.
 
@@ -50,7 +50,7 @@ Als we Marco Borsato mogen geloven, bestaat afscheid nemen niet. Maar hoe vaker 
 
 ## **7\. Overgewaardeerd maar niet altijd begrepen**
 
-In de [korte periodes dat ik terug ben in Nederland](https://demodernenomaden.nl/tips/overgerespecteerd-en-totaal-onbegrepen/) spreek ik vaak veel mensen. Ze vragen dan honderduit naar mijn manier van leven en vinden het geweldig. Leuk natuurlijk, maar voor mij niet altijd begrijpelijk. Het is een levensstijl waar ik voor heb gekozen en ik werk net zo hard voor mijn geld, al dan niet harder, als ik in Nederland zou doen. Voor mij is dit heel normaal. Maar niet iedereen begrijpt dit. Soms krijg ik wel eens de vraag “hoe was je vakantie?”. Voor de duidelijkheid, dat is het dus niet.
+In de [korte periodes dat ik terug ben in Nederland](/blog/tips/overgerespecteerd-en-totaal-onbegrepen/) spreek ik vaak veel mensen. Ze vragen dan honderduit naar mijn manier van leven en vinden het geweldig. Leuk natuurlijk, maar voor mij niet altijd begrijpelijk. Het is een levensstijl waar ik voor heb gekozen en ik werk net zo hard voor mijn geld, al dan niet harder, als ik in Nederland zou doen. Voor mij is dit heel normaal. Maar niet iedereen begrijpt dit. Soms krijg ik wel eens de vraag “hoe was je vakantie?”. Voor de duidelijkheid, dat is het dus niet.
 
 ## **8\. Ontdekken wie je bent (of je nu wil of niet)**
 
@@ -62,9 +62,9 @@ Zonder twijfel mijn grootste irritatie. Als digital nomad — de naam zegt h
 
 ## **10\. De wereld is klein, maar niet zó klein**
 
-Het moeilijkste voor mij is denk ik wel dat mijn vriendin in Slowakije woont. Ouders en familie steeds voor een paar maanden moeten missen is te doen. Maar een [lange afstandsrelatie](https://demodernenomaden.nl/tips/lange-afstandsrelatie-buitenland/) hebben is niet bepaald handig op reis. Toch schijnt zelfs dat, met uitvindingen als Skype, nog te werken. Het zal je verbazen waar je mee leert te werken als je kiest voor het leven van een digital nomad. Het komt met z’n ups and downs. Maar voor mij blijft het een levensstijl waar ik volop van kan genieten. Ik zou het dan ook zonder twijfel zeker aanraden.
+Het moeilijkste voor mij is denk ik wel dat mijn vriendin in Slowakije woont. Ouders en familie steeds voor een paar maanden moeten missen is te doen. Maar een [lange afstandsrelatie](/blog/tips/lange-afstandsrelatie-buitenland/) hebben is niet bepaald handig op reis. Toch schijnt zelfs dat, met uitvindingen als Skype, nog te werken. Het zal je verbazen waar je mee leert te werken als je kiest voor het leven van een digital nomad. Het komt met z’n ups and downs. Maar voor mij blijft het een levensstijl waar ik volop van kan genieten. Ik zou het dan ook zonder twijfel zeker aanraden.
 
-**[Nieuwsgierig naar mijn verhaal over het leven als digital nomad? Hier vind je gratis mijn boek ‘Verhalen en lessen uit een vrij leven – Digital Nomad’.](https://demodernenomaden.nl/verhalen-en-lessen-uit-een-vrij-leven-digital-nomad/)**
+**[Nieuwsgierig naar mijn verhaal over het leven als digital nomad? Hier vind je gratis mijn boek ‘Verhalen en lessen uit een vrij leven – Digital Nomad’.](/boek/)**
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -72,6 +72,6 @@ Het moeilijkste voor mij is denk ik wel dat mijn vriendin in Slowakije woont. Ou
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

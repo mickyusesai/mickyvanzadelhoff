@@ -1,0 +1,22 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { SITE } from '../config/site';
+---
+<Layout title="Contact" description="Vragen over een AI-workshop of hulp nodig? Mail of app Micky van Zadelhoff. Binnen 24 uur antwoord.">
+  <section class="mx-auto max-w-3xl px-5 py-12">
+    <h1 class="text-4xl font-bold tracking-tight">Contact opnemen</h1>
+    <p class="mt-4 max-w-prose text-lg text-muted">
+      Heb je vragen over de AI-workshops of kun je mijn hulp ergens bij gebruiken? Je mag me een mailtje sturen of appen. Hoe dan ook, <strong class="text-ink">binnen 24 uur</strong> krijg je van mij een antwoord ;).
+    </p>
+    <div class="mt-8 flex flex-wrap gap-3">
+      <a href={SITE.whatsappUrl} rel="noopener" class="rounded-md bg-accent px-5 py-3 font-semibold text-white hover:bg-accent-dark">WhatsApp {SITE.whatsapp}</a>
+      <a href={`mailto:${SITE.email}`} class="rounded-md border border-line bg-white px-5 py-3 font-semibold hover:border-accent hover:text-accent">{SITE.email}</a>
+    </div>
+    <dl class="mt-12 grid gap-2 text-sm text-muted">
+      <div class="flex gap-3"><dt class="w-24 font-semibold text-ink">Naam</dt><dd>{SITE.name}</dd></div>
+      <div class="flex gap-3"><dt class="w-24 font-semibold text-ink">KVK</dt><dd>{SITE.kvk}</dd></div>
+      <div class="flex gap-3"><dt class="w-24 font-semibold text-ink">LinkedIn</dt><dd><a href={SITE.linkedin} rel="noopener" class="text-accent">Micky van Zadelhoff</a></dd></div>
+    </dl>
+    <!-- TODO Micky: vestigingsadres tonen? (decision D8 noemt er geen) -->
+  </section>
+</Layout>

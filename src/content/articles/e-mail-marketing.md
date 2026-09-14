@@ -1,6 +1,6 @@
 ---
 title: "E-mail Marketing in 2023 – Volledig Stappenplan + Voorbeelden"
-description: ""
+description: "We gaan het hebben over wat e-mail marketing is, wat de voordelen zijn en doorlopen een gehele e-mail marketingstrategie vanaf de e-mail marketing…"
 date: 2020-10-31
 updated: 2023-01-02
 category: "ondernemen"
@@ -22,7 +22,7 @@ In dit stappenplan leer je:
 
 Zelf zit ik al jaren diep in de e-mail marketing en heb alles volledig geautomatiseerd. Dat zorgt voor enorm veel automatische omzet vanuit de mailinglijst. Deze en andere strategieën doorlopen we, maar eerst, waar hebben we het eigenlijk over?
 
-**[Besteed je e-mail marketing liever uit? Dan vind je op Fiverr mensen die dit proces van begin tot eind voor jou kunnen regelen! >>](https://demodernenomaden.nl/go/fiverr-email-marketing)**
+**[Besteed je e-mail marketing liever uit? Dan vind je op Fiverr mensen die dit proces van begin tot eind voor jou kunnen regelen! >>](/go/fiverr-email-marketing)**
 
 ## Wat is e-mail marketing?
 
@@ -62,7 +62,7 @@ Om massaal mailings te verzenden moet je gebruikmaken van **e-mail marketing sof
 
 De voordelen van e-mail marketing software zijn dat je massaal mails kunt verzenden, deze persoonlijk kunt maken, op kunt maken en statistiek in kunt zien. Je hebt dan bijvoorbeeld inzicht in wie de mails hebben geopend en of er op een link in de e-mail is geklikt (super handige info, geloof me!).
 
-Wat betreft e-mail marketing software is er genoeg om te kiezen. **Al is er vanuit de Nederlandse markt maar eentje actief, namelijk [Enormail](https://demodernenomaden.nl/go/enormail)**. Dat is ook mijn eigen e-mail marketing software en deze raad ik je graag aan.
+Wat betreft e-mail marketing software is er genoeg om te kiezen. **Al is er vanuit de Nederlandse markt maar eentje actief, namelijk [Enormail](/go/enormail)**. Dat is ook mijn eigen e-mail marketing software en deze raad ik je graag aan.
 
 ![E-mail marketing software Enormail](/images/migrated/e-mail-marketing-software-enormail.webp "e-mail-marketing-software-enormail")
 
@@ -72,11 +72,11 @@ Wat betreft e-mail marketing software is er genoeg om te kiezen. **Al is er vanu
 *   Geweldige tools voor automatisering van jouw mailings.
 *   Binnen Enormail maak jij jouw eigen opt-in formulieren via waar mensen zich gemakkelijk in kunnen schrijven, je hebt daarvoor dus geen externe software nodig.
 *   Persoonlijk ben ik ook fan van de follow-up functie, via waar je een e-mail opnieuw kunt versturen naar iedereen die de eerste mail niet heeft geopend (conversiebreker).
-*   **[Gratis 30 dagen proefversie om het uit te proberen](https://demodernenomaden.nl/go/enormail).**
+*   **[Gratis 30 dagen proefversie om het uit te proberen](/go/enormail).**
 
 Goed, je zult je dus sowieso aan moeten melden bij een e-mail marketing software aanbieder. Bij Enormail is dit de eerste maand gratis. Je kunt het dus altijd even uitproberen.
 
-[Probeer Enormail 30 dagen gratis](https://demodernenomaden.nl/go/enormail)
+[Probeer Enormail 30 dagen gratis](/go/enormail)
 
 ![Enormail gratis uitproberen](/images/migrated/enormail-gratis-uitproberen.webp "enormail-gratis-uitproberen")
 
@@ -96,13 +96,13 @@ Om mailings te verzenden en verkopen te genereren heb je eerst **een mailinglijs
 
 > ### Als je al een mailinglijst hebt
 > 
-> Het zou kunnen dat je al een mailinglijst hebt. In dat geval kun je deze bij Enormail eenvoudig importeren door er een CSV bestand van te maken. Om dat te doen exporteer je jouw mailinglijst vanuit Excel of Kladblok naar csv. Hoe dat in zijn werk gaat [lees je hier](https://demodernenomaden.nl/ondernemen/mailing-maken-versturen/).
+> Het zou kunnen dat je al een mailinglijst hebt. In dat geval kun je deze bij Enormail eenvoudig importeren door er een CSV bestand van te maken. Om dat te doen exporteer je jouw mailinglijst vanuit Excel of Kladblok naar csv. Hoe dat in zijn werk gaat [lees je hier](/blog/ondernemen/mailing-maken-versturen/).
 
 **Wanneer je nog geen mailinglijst hebt** vol waardevolle e-mail adressen, is de eerste stap van jouw e-mail marketing strategie om deze te gaan verzamelen.
 
 **Daar zijn tal van manieren voor.**
 
-De eerste en meest voor de hand liggende strategie, is **het plaatsen van een opt-in formulier op jouw website**. Hier heeft [Enormail](https://demodernenomaden.nl/go/enormail) zelf een functie voor.
+De eerste en meest voor de hand liggende strategie, is **het plaatsen van een opt-in formulier op jouw website**. Hier heeft [Enormail](/go/enormail) zelf een functie voor.
 
 Om daar gebruik van te maken is het van belang om **eerst een contactenlijst aan te maken**. Hierin worden de contacten die zich via het formulier aanmelden later geplaatst.
 
@@ -140,15 +140,15 @@ Makkelijker is echter om gebruik te maken van de landingspagina link. Naar deze 
 
 Mensen komen dan terecht bij het opt-in formulier en wanneer zij zich inschrijven zie jij **een extra contact op jouw mailinglijst**.
 
-> Veel leads genereren voor jouw mailinglijst is een sport op zich. Vandaar dat ik daar een [apart artikel](https://demodernenomaden.nl/ondernemen/leads-genereren-mailinglijst/) aan heb gewijd. Daarin vind je [32 manieren om leads te genereren](https://demodernenomaden.nl/ondernemen/leads-genereren-mailinglijst/).
+> Veel leads genereren voor jouw mailinglijst is een sport op zich. Vandaar dat ik daar een [apart artikel](/blog/ondernemen/leads-genereren-mailinglijst/) aan heb gewijd. Daarin vind je [32 manieren om leads te genereren](/blog/ondernemen/leads-genereren-mailinglijst/).
 
-Als je jouw [**lead generatie**](https://demodernenomaden.nl/ondernemen/leads-genereren-mailinglijst/) hebt afgerond kun je door met de volgende stap. Daarin gaan we aan de slag met het maken van een autoresponder.
+Als je jouw [**lead generatie**](/blog/ondernemen/leads-genereren-mailinglijst/) hebt afgerond kun je door met de volgende stap. Daarin gaan we aan de slag met het maken van een autoresponder.
 
 ## Stap 3: Mailings en de automatisering via de autoresponder
 
 Het is tijd voor **het schrijven van jouw eerste mailing**. Belangrijk om daarbij te weten is dat je twee opties hebt.
 
-Je kunt een mail schrijven en deze inplannen voor verzending aan jouw mailinglijst. In dit geval schrijf je de mail en verzend je deze één keer. Als dat je plan is, dan vind je daar alles over in mijn artikel over [een mailing maken en versturen](https://demodernenomaden.nl/ondernemen/mailing-maken-versturen/).
+Je kunt een mail schrijven en deze inplannen voor verzending aan jouw mailinglijst. In dit geval schrijf je de mail en verzend je deze één keer. Als dat je plan is, dan vind je daar alles over in mijn artikel over [een mailing maken en versturen](/blog/ondernemen/mailing-maken-versturen/).
 
 Een andere optie die je hebt is **het maken van een autoresponder**. Hierbij schrijf je ook een mailing, maar wordt deze verstuurd naar mensen die zich inschrijven op de mailinglijst. Dit is het **geautomatiseerde** gedeelte.
 
@@ -168,9 +168,9 @@ Hier kun je nu **jouw nieuwe autoresponder toevoegen** en deze **koppelen aan de
 
 Als je de autoresponder hebt aangemaakt kun je berichten toe gaan voegen en deze inplannen op basis van een dag en tijdstip. Maar net wat voor jou nodig is.
 
-Zelf heb ik bijvoorbeeld ook een andere autoresponder lopen met **7 lessen over het starten van een blog**. Mensen schrijven zich in via [deze pagina](https://demodernenomaden.nl/gratis/) en ontvangen dan iedere dag één les in de mailbox. Meld jezelf er gerust aan als je nieuwsgierig bent ;).
+Zelf heb ik bijvoorbeeld ook een andere autoresponder lopen met **7 lessen over het starten van een blog**. Mensen schrijven zich in via [deze pagina](/blog/ondernemen/blog-beginnen-starten-stappenplan/) en ontvangen dan iedere dag één les in de mailbox. Meld jezelf er gerust aan als je nieuwsgierig bent ;).
 
-De laatste mail is een mail waarin ik een aanbod doe voor mijn betaalde training [Van Blog Naar Business 2.0](https://demodernenomaden.nl/van-blog-naar-business-masterclass/).
+De laatste mail is een mail waarin ik een aanbod doe voor mijn betaalde training [Van Blog Naar Business 2.0](/).
 
 ![Autoresponder beheren](/images/migrated/autoresponder-beheren.webp "autoresponder-beheren")
 
@@ -198,13 +198,13 @@ Als je niet weet waar je over moet schrijven, kijk dan eens of onderstaande voor
 
 Er zijn tal van manieren om jouw autoresponder succesvol in te zetten. Kijk welke manier bij jou past en ga door naar de volgende stap!
 
-**Op zoek naar belangrijke tips voor het schrijven van e-mails? [Check dit artikel.](https://demodernenomaden.nl/ondernemen/mailing-maken-versturen/)**
+**Op zoek naar belangrijke tips voor het schrijven van e-mails? [Check dit artikel.](/blog/ondernemen/mailing-maken-versturen/)**
 
 ## Stap 4: Evalueren van jouw e-mail marketing
 
 Misschien heeft jouw e-mail marketing strategie nu al honderden klanten opgeleverd. In de meeste gevallen is het echter zo dat je aan het begin **nog even de juiste draai moet vinden**.
 
-Ga eens kijken naar hoeveel mensen jouw opt-in pagina hebben bezocht en hoeveel mensen zich hebben ingeschreven. Is dit percentage onder de 30%? Dan is het hard nodig om hier wat optimalisatie in te doen. Kijk dan bijvoorbeeld eens of je **iets kleins, gratis weg kunt geven in ruil voor een e-mail adres** of probeer een van [de 32 manieren die in dit artikel worden uitgelegd](https://demodernenomaden.nl/ondernemen/leads-genereren-mailinglijst/).
+Ga eens kijken naar hoeveel mensen jouw opt-in pagina hebben bezocht en hoeveel mensen zich hebben ingeschreven. Is dit percentage onder de 30%? Dan is het hard nodig om hier wat optimalisatie in te doen. Kijk dan bijvoorbeeld eens of je **iets kleins, gratis weg kunt geven in ruil voor een e-mail adres** of probeer een van [de 32 manieren die in dit artikel worden uitgelegd](/blog/ondernemen/leads-genereren-mailinglijst/).
 
 **Worden jouw mails goed verstuurd en zit het met de inschrijvingen prima?**
 
@@ -220,11 +220,11 @@ Hier kun je nu zien hoeveel mensen de mails hebben geopend, hoeveel er op links 
 
 E-mail marketing zou ik nog het makkelijkst beschrijven als een spel voor volwassenen. Het is veel **trial and error**. Nieuwe dingen proberen wordt vaak beloond.
 
-E-mails schrijven kan lastig zijn. Je kunt de schrijftips volgen die ik in [dit artikel over mailings](https://demodernenomaden.nl/ondernemen/mailing-maken-versturen/) heb beschreven. Die helpen je alvast op weg ;).
+E-mails schrijven kan lastig zijn. Je kunt de schrijftips volgen die ik in [dit artikel over mailings](/blog/ondernemen/mailing-maken-versturen/) heb beschreven. Die helpen je alvast op weg ;).
 
-Volg [de manieren om leads te genereren](https://demodernenomaden.nl/ondernemen/leads-genereren-mailinglijst/), bekijk je statistieken en kijk wat werkt, specifiek voor jouw product en jouw branche. Een beetje afkijken bij de concurrentie kan trouwens ook nooit kwaad.
+Volg [de manieren om leads te genereren](/blog/ondernemen/leads-genereren-mailinglijst/), bekijk je statistieken en kijk wat werkt, specifiek voor jouw product en jouw branche. Een beetje afkijken bij de concurrentie kan trouwens ook nooit kwaad.
 
-[**Als je aan de slag gaat met e-mail marketing raad ik het je van harte aan om een gratis account aan te maken bij Enormail. Deze Nederlandse e-mail marketing software geeft ondernemers de kans om aan de hand van e-mail de omzet te verhogen. > Start nu**](https://demodernenomaden.nl/go/enormail)
+[**Als je aan de slag gaat met e-mail marketing raad ik het je van harte aan om een gratis account aan te maken bij Enormail. Deze Nederlandse e-mail marketing software geeft ondernemers de kans om aan de hand van e-mail de omzet te verhogen. > Start nu**](/go/enormail)
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -232,6 +232,6 @@ Volg [de manieren om leads te genereren](https://demodernenomaden.nl/ondernemen/
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

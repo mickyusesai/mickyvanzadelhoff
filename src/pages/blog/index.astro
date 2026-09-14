@@ -1,0 +1,23 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { CATEGORY_LABELS, HIDDEN_FROM_LISTINGS } from '../../config/site';
+import { getListedArticles } from '../../lib/articles';
+
+const articles = await getListedArticles();
+const categories = Object.entries(CATEGORY_LABELS).filter(([c]) => !HIDDEN_FROM_LISTINGS.includes(c));
+---
+<Layout title="Blog" description="Ruim 170 artikelen over ondernemen, online geld verdienen, werken en reizen als digital nomad en persoonlijke verhalen van Micky van Zadelhoff.">
+  <section class="mx-auto max-w-6xl px-5 py-12">
+    <h1 class="text-4xl font-bold tracking-tight">Blog</h1>
+    <p class="mt-2 max-w-prose text-muted">Alles wat ik sinds 2017 schreef op De Moderne Nomaden, nu hier. Eerlijk, persoonlijk en praktisch.</p>
+    <nav aria-label="Categorieën" class="mt-6 flex flex-wrap gap-2 text-sm">
+      {categories.map(([slug, label]) => (
+        <a href={`/blog/${slug}/`} class="rounded-full border border-line px-3 py-1 hover:border-accent hover:text-accent">{label}</a>
+      ))}
+    </nav>
+    <div class="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+      {articles.map((a) => <ArticleCard article={a} />)}
+    </div>
+  </section>
+</Layout>

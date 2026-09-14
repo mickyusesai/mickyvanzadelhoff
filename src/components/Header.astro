@@ -1,0 +1,25 @@
+---
+import { NAV, SITE } from '../config/site';
+const current = Astro.url.pathname;
+const isActive = (href: string) => (href === '/' ? current === '/' : current.startsWith(href));
+---
+<header class="border-b border-line bg-paper">
+  <div class="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-4 px-5 py-4">
+    <a href="/" class="text-lg font-semibold tracking-tight">{SITE.name}</a>
+    <nav aria-label="Hoofdmenu">
+      <ul class="flex flex-wrap gap-x-5 gap-y-2 text-sm">
+        {NAV.map((item) => (
+          <li>
+            <a
+              href={item.href}
+              aria-current={isActive(item.href) ? 'page' : undefined}
+              class:list={['hover:text-accent', isActive(item.href) ? 'font-semibold text-accent' : 'text-ink']}
+            >
+              {item.label}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  </div>
+</header>

@@ -1,6 +1,6 @@
 ---
 title: "Wonen en werken in Parijs in Frankrijk – Tips voor de digital nomad"
-description: ""
+description: "Wonen en werken in Parijs als digital nomad, hoe is dat eigenlijk? We reizen we af naar de stad van de liefde. Al lange tijd wilde ik graag eens Parijs…"
 date: 2018-11-06
 updated: 2022-01-27
 category: "digitalenomaden"
@@ -10,7 +10,7 @@ draft: false
 featuredImage: "/images/migrated/wonen-en-werken-in-parijs-e1541539684522.webp"
 ---
 
-Wonen en werken in Parijs als [digital nomad](https://demodernenomaden.nl/digitalenomaden/digitale-nomaden/), hoe is dat eigenlijk? We reizen we af naar de stad van de liefde. Al lange tijd wilde ik graag eens Parijs bezoeken, de Eiffeltoren zien en mijn buik vullen met zachte, luchtige croissantjes die net uit de oven komen. Uiteindelijk bleek het zeker te bevallen. Vooral de kunst- en cultuur nomaden onder ons zullen genieten van dit artistieke stadje, met een rijke historie.
+Wonen en werken in Parijs als [digital nomad](/blog/digitalenomaden/digital-nomad-worden/), hoe is dat eigenlijk? We reizen we af naar de stad van de liefde. Al lange tijd wilde ik graag eens Parijs bezoeken, de Eiffeltoren zien en mijn buik vullen met zachte, luchtige croissantjes die net uit de oven komen. Uiteindelijk bleek het zeker te bevallen. Vooral de kunst- en cultuur nomaden onder ons zullen genieten van dit artistieke stadje, met een rijke historie.
 
 Parijs is echter wel een dure stad om te wonen als digital nomad. Ook heb ik vaak te maken gehad met Franse arrogantie. Al is dat misschien ook iets typisch voor grote westerse steden. Zo lang je maar genoeg mensen spreekt, vindt je de juiste mensen om je netwerk uit te breiden. Daarnaast is Parijs zo’n typische stad die nooit slaapt, waar altijd iets te beleven is. Deze levendigheid creëert een innovatieve en creatieve vibe, die wonen en werken als digital nomad er een stuk makkelijker maakt.
 
@@ -94,6 +94,6 @@ Parijs is een interessante, bruisende stad. Echter, is de stad heel druk en aan 
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

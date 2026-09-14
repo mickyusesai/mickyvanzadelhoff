@@ -1,6 +1,6 @@
 ---
 title: "Online marketing voor de slotenmaker – Zo krijg je klanten"
-description: ""
+description: "Meer klanten als slotenmaker? Zo zet je online marketing in: van vindbaarheid in Google tot een website die aanvragen oplevert."
 date: 2018-04-17
 updated: 2021-01-31
 category: "ondernemen"
@@ -10,7 +10,7 @@ draft: false
 featuredImage: "/images/migrated/marokko-fez-digital-nomad-e1524325208345.webp"
 ---
 
-### Slotenmakers hebben het niet erg makkelijk. In de markt zijn namelijk veel oplichters actief, dit maakt het voor de goedwillenden in de branche lastig. De kosten voor een klik op Adwords (_Google Advertenties_) stijgen **tot boven de 25 euro** en hier kun je als slotenmaker nooit winst op behalen. De vraag is dus **hoe je als slotenmaker je [online marketing](https://demodernenomaden.nl/online-geld-verdienen/online-marketing/) zo kunt regelen** dat het voor jou werkt en je website wel klanten en dus geld oplevert.
+### Slotenmakers hebben het niet erg makkelijk. In de markt zijn namelijk veel oplichters actief, dit maakt het voor de goedwillenden in de branche lastig. De kosten voor een klik op Adwords (_Google Advertenties_) stijgen **tot boven de 25 euro** en hier kun je als slotenmaker nooit winst op behalen. De vraag is dus **hoe je als slotenmaker je [online marketing](/blog/online-geld-verdienen/online-marketing/) zo kunt regelen** dat het voor jou werkt en je website wel klanten en dus geld oplevert.
 
 ### Ik ben zelf aan de slag geweest voor een slotenmaker in Utrecht en vertel je graag alles wat ik heb geleerd. Daarom in dit artikel tips die gelden voor vrijwel iedere slotenmaker die online succesvoller wil worden.
 
@@ -22,7 +22,7 @@ featuredImage: "/images/migrated/marokko-fez-digital-nomad-e1524325208345.webp"
 
 ### Voor mensen die zoeken naar een slotenmaker omdat ze zijn buitengesloten, is de kans 99% zeker dat ze een slotenmaker gaan zoeken via hun mobiel. Ze hebben tenslotte geen laptop bij de hand. Wanneer de website van een slotenmaker **niet** op mobiel is ingericht doordat deze bijvoorbeeld niet **responsive** (_automatisch aanpassende layout op basis van mobiel, tablet of desktop gebruik_) is, daar heeft de persoon in kwestie dan niets aan.
 
-### Behalve dat je de persoon zo niet kunt helpen zorgt een niet responsive website er ook voor dat je laag geplaatst wordt in de zoekresultaten van Google. Qua **[ranking](https://demodernenomaden.nl/ondernemen/meer-website-bezoekers/)** ga je het zonder mobiele website dus niet redden. Je wordt dus minder goed gevonden.
+### Behalve dat je de persoon zo niet kunt helpen zorgt een niet responsive website er ook voor dat je laag geplaatst wordt in de zoekresultaten van Google. Qua **[ranking](/blog/ondernemen/meer-website-bezoekers/)** ga je het zonder mobiele website dus niet redden. Je wordt dus minder goed gevonden.
 
 ### **Website sneller maken**
 
@@ -80,8 +80,8 @@ featuredImage: "/images/migrated/marokko-fez-digital-nomad-e1524325208345.webp"
 
 ### Wil je meer klanten via je online kanalen als slotenmaker? Dan kan ik een marketingscan maken specifiek voor jouw website. Ik vertel je dan alles waar op jouw website beter op te scoren valt en hoe je met jouw bedrijf online meer klanten aantrekt. De scan is vrijblijvend, ik reken eerlijke prijzen en ben een gezellige jongen al zeg ik het zelf. :)
 
-### Je kunt me gemakkelijk mailen via info@demodernenomaden.nl, berichten met een Whatsappje (+31 6 81081589) of [contacten via de contactpagina](/contact).
+### Je kunt me gemakkelijk mailen via mickyvz@live.nl, berichten met een Whatsappje (+31 6 81081589) of [contacten via de contactpagina](/contact).
 
-![digital nomad](/images/migrated/digitale-nomade-mick-van-zadelhoff-1.webp "digitale-nomade-mick-van-zadelhoff (1)")
+<!-- TODO: image missing after migration: digitale-nomade-mick-van-zadelhoff-1.webp -->
 
 [Contact Mick](/contact)

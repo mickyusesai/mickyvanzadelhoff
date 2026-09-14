@@ -1,6 +1,6 @@
 ---
 title: "Gratis op trainingsweek via Erasmus Plus, zo gaat dat!"
-description: ""
+description: "Je kent Erasmus Plus waarschijnlijk van de studiebeurzen en dat soort dingen. Waar Erasmus Plus minder bekend om staat zijn de trainingsweken die zij…"
 date: 2017-11-29
 updated: 2022-12-19
 category: "tips"
@@ -18,7 +18,7 @@ Praktisch gezien kan iedereen met een Europees paspoort meedoen aan die training
 
 ## Mijn ervaring met Erasmus Plus trainingen
 
-Als ik terugblik op [ervaringen die ik heb opgedaan](https://demodernenomaden.nl/tips/stoppen-school-studie-en-echt-gaan-leven/), kom ik tot de conclusie dat mijn Erasmus Plus trainingsweken daar een belangrijk onderdeel van zijn. Maar steeds als ik anderen erover vertel, hebben ze geen flauw idee waarover ik het heb.
+Als ik terugblik op [ervaringen die ik heb opgedaan](/blog/tips/stoppen-school-studie-en-echt-gaan-leven/), kom ik tot de conclusie dat mijn Erasmus Plus trainingsweken daar een belangrijk onderdeel van zijn. Maar steeds als ik anderen erover vertel, hebben ze geen flauw idee waarover ik het heb.
 
 **Gratis op reis. Hoe dan? Gefinancierde trainingsweken. Hoe dan?**
 
@@ -30,7 +30,7 @@ Een internationale training of jongerenuitwisseling van Erasmus Plus is een door
 
 In deze week komen allemaal mensen uit verschillende nationaliteiten samen, veelal Europeanen. De trainingsweken worden vanuit het Europees Fonds gesubsidieerd en hebben als doel de Europese mobiliteit te bevorderen. Daarbij heeft iedere training op zich **een eigen leerdoel**.
 
-Zelf ben ik naar trainingen geweest op het gebied van **integratie, [digital nomads](https://demodernenomaden.nl/digitalenomaden/digital-nomad-worden/), mobiliteit, muziek affectie, [online ondernemen](https://demodernenomaden.nl/digitalenomaden/digital-nomad-banen/), non-formeel leren en klimaat**. De onderwerpen verschillen dus erg van elkaar en er is voor iedereen wel iets interessants om zich in te verdiepen.
+Zelf ben ik naar trainingen geweest op het gebied van **integratie, [digital nomads](/blog/digitalenomaden/digital-nomad-worden/), mobiliteit, muziek affectie, [online ondernemen](/blog/digitalenomaden/digital-nomad-banen/), non-formeel leren en klimaat**. De onderwerpen verschillen dus erg van elkaar en er is voor iedereen wel iets interessants om zich in te verdiepen.
 
 ## Erasmus Plus trainingen zijn maatschappelijk georiënteerd
 
@@ -52,7 +52,7 @@ _© Erasmus Plus Trainingsweek Roemenië_
 
 ## Waarom zou je meedoen aan een Erasmus Plus training?
 
-Buiten dat je veel leert is de Erasmus Plus training voor veel dingen goed. Mijn Engelse spreekkunsten zijn hierdoor enorm verbeterd en ik heb prachtige [mensen ontmoet](https://demodernenomaden.nl/tips/mensen-ontmoeten-op-reis/) uit **meer dan 25 Europese landen**.
+Buiten dat je veel leert is de Erasmus Plus training voor veel dingen goed. Mijn Engelse spreekkunsten zijn hierdoor enorm verbeterd en ik heb prachtige [mensen ontmoet](/blog/tips/mensen-ontmoeten-op-reis/) uit **meer dan 25 Europese landen**.
 
 Het is de manier om uit je comfortzone te stappen en een leuke, leerzame tijd te hebben. En ja, dat die tijd dan ook nog volledig wordt vergoed maakt het ook nog eens laagdrempelig om mee te doen.
 
@@ -80,4 +80,4 @@ Uiteraard kun je ook zonder kennissen deelnemen. Je kunt dan op zoek naar een Er
 
 Deze trainingen hebben mijzelf enorm **veel kennis en internationale vriendschappen** opgeleverd. Zelfs mijn toenmalige vriendin had ik op deze manier ontmoet. Het zijn bijzondere weken, en wanneer je er de juiste inzet toont, haal je er onvergetelijke ervaringen uit. Ik wens je veel succes en vooral plezier op je eerste Erasmus Plus training! :)
 
-Wil je meer weten over mijn ervaring met een Erasmus Plus training, dan vind je in mijn gratis boek ‘Verhalen en lessen uit een vrij leven – Digital Nomad’ een hoofstuk waarin ik in het diepste detail inga op een trainingsweek over vluchtelingen. **[Je download het boek hier](https://demodernenomaden.nl/verhalen-en-lessen-uit-een-vrij-leven-digital-nomad/)**.
+Wil je meer weten over mijn ervaring met een Erasmus Plus training, dan vind je in mijn gratis boek ‘Verhalen en lessen uit een vrij leven – Digital Nomad’ een hoofstuk waarin ik in het diepste detail inga op een trainingsweek over vluchtelingen. **[Je download het boek hier](/boek/)**.

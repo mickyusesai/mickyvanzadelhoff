@@ -1,119 +1,105 @@
 ---
-title: "Over Mick"
+title: "Over Micky"
+description: "Micky van Zadelhoff: AI-trainer, ondernemer, schrijver en digital nomad. Over fietsen naar Turkije, De Moderne Nomaden en de grootste blunder als ondernemer."
 date: 2017-04-10
 slug: "over-mij"
 lang: "nl"
 ---
 
-# Micky van Zadelhoff
+## Digital nomad, AI-trainer & luchtkasteelarchitect
 
-## Digital nomad, blogger & luchtkasteelarchitect
+Ik ben Micky, geboren als millennial en jarenlang levend als digital nomad. Vanuit telkens een andere plek deed ik mijn werk als blogger, business bouwer, trainer en liefdespartner. Dat laatste is natuurlijk niet écht werk te noemen ;).
 
-### Ik ben Micky, geboren als millennial en levende als digital nomad. Vanuit telkens een andere plek doe ik mijn werk als blogger, business bouwer, trainer en liefdespartner. Dat laatste is natuurlijk niet écht werk te noemen ;). Tegenwoordig houdt ik mij vooral bezig met het ondersteunen van online ondernemers, mental health support en verdiep ik me in de tech space.
+Tegenwoordig train ik bedrijven in het werken met AI, organiseer ik Europese Erasmus+ projecten over AI-onderwijs en bouw ik zelf met AI. Zo bouwde ik [EasyReimburse](https://easyreimburse.ai/): een web-app die laat zien hoe je met AI iets neerzet dat een hele branche uren werk bespaart.
+<!-- TODO Micky: één zin over wat EasyReimburse precies doet en voor wie. -->
 
-# Micky van Zadelhoff
+![Micky van Zadelhoff](/images/micky/mick.webp "Micky van Zadelhoff")
 
-## Digital nomad, blogger & luchtkasteelarchitect
+## Even voorstellen…
 
-### Ik ben Micky, geboren als millennial en levende als digital nomad. Vanuit telkens een andere plek doe ik mijn werk als blogger, business bouwer, trainer en liefdespartner. Dat laatste is natuurlijk niet écht werk te noemen ;). Tegenwoordig houdt ik mij vooral bezig met het ondersteunen van online ondernemers, mental health support en verdiep ik me in de tech space.
+Ik stel me graag netjes aan je voor. Om dat te doen deel ik drie kleine verhaaltjes.
 
-### **Ik kwam al langs bij:**
+### Het gekste wat ik heb gedaan
 
-[![](/images/migrated/nrc-handelsblad.webp)](#pers)
+Ik ben van Nederland naar Turkije gefietst terwijl ik wild kampeerde in een tent. Belangrijke details: ik had vooraf geen fietservaring en we vertrokken in het midden van de Europese winter. Als er iets is wat ik op die reis heb geleerd, dan is het wat de **roes van een overlevingsinstinct** is en hoe behulpzaam mensen wel niet zijn. We kregen enorm veel gratis van mensen die zelf van een dubbeltje moeten leven. Het inspireerde me om zelf ook meer gratis te doen. Zo probeer ik met mijn kennis en ervaring een steentje bij te dragen.
 
-[![](/images/migrated/Nu-nl-logo-1.webp)](#pers)
+Wil je meer weten over mijn fietsavonturen en het leven als locatieonafhankelijk ondernemer? In [mijn gratis boek](/boek/) komen best wat avonturen voorbij :).
 
-[![Vice logo](/images/migrated/Vice_Logo.webp)](#pers)
+### Het tofste wat ik heb gedaan
 
-[![](/images/migrated/algemeen-dagblad.webp)](#pers)
+Beginnen met De Moderne Nomaden is zonder twijfel het tofste. Persoonlijk heb ik al 1000 mensen mogen helpen richting een leven als digital nomad en via mijn mailinglijst mocht ik jarenlang wekelijks 10.000 mensen inspireren.
 
-[![Funx Logo](/images/migrated/funx-logo.webp)](#pers)
+Ooh, en de ruim 170 artikelen die je op deze website vindt, werden op het hoogtepunt maandelijks zo'n 50.000 keer gelezen. Een flinke dosis aan (gratis, ja écht) inspiratie. Alles staat nu hier, op mijn eigen naam.
 
-[![](/images/migrated/flow-logo.webp)](#pers)
+### Het lompste wat ik heb gedaan
 
-![Interviews Mick van Zadelhoff](/images/migrated/interviews-mick-van-zadelhoff.webp "interviews-mick-van-zadelhoff")
+Ik dacht in een zomer dat het een goed idee zou zijn om 'air loungers' te verkopen op Ibiza. Dus ik importeerde er 200 vanuit China. In dat proces ging letterlijk alles mis. Iets met vergunningen, Spaans bedrijvenregister en importrechten… Het liep enorm in de kosten, met als resultaat dat er 165 'Ibiza Loungers' naar een goed doel zijn gegaan. Ik voelde me echt blunderen op dat moment, maar heb er ook iets van geleerd…
 
-# Even voorstellen…
+**"Geld is een bijkomstigheid van ondernemen, niet de drijfveer…"**
 
-Ik stel me graag netjes aan je voor. Om dat te doen deel ik drie kleine verhaaltjes…
+[Lees het hele verhaal van de Ibiza-blunder](/blog/tips/ibiza-lounger/)
 
-## **Het gekste wat ik heb gedaan**
+## Erasmus+
 
-Ik ben van Nederland naar Turkije gefietst terwijl ik wild kampeerde in een tent. Belangrijke details; ik had vooraf geen fietservaring en we vertrokken in het midden van de Europese winter. Als er iets is wat ik die reis heb geleerd dan is het wat de **roes van een overlevingsinstinct** is en hoe behulpzaam mensen wel niet zijn. We kregen enorm veel gratis van mensen die zelf van een dubbeltje moeten leven. Het inspireerde me om zelf ook meer gratis te doen. Zo probeer ik met mijn kennis en ervaring een steentje bij te dragen.
+Naast de workshops ben ik organisator en facilitator van Erasmus+ projecten: Europese projecten over AI-onderwijs. Het laatste project was in Litouwen, met dertig docenten uit heel Europa. Een week lang ontwikkelden we samen lesmodules die leerlingen helpen de risico's én de kansen van AI te begrijpen.
 
-Wil je meer weten over mijn fietsavonturen en het leven als locatie onafhankelijk ondernemer? In [mijn gratis te downloaden boek](https://demodernenomaden.nl/digital-nomad-boek/) komen best wat avonturen voorbij :).
+## Koffie?
 
-## **Het tofste wat ik heb gedaan**
+Wil je een bakje koffie doen of een keertje bellen, [neem dan contact met me op](/contact/). Doe dit in het bijzonder met vragen over AI-workshops, ondernemen en het leven als digital nomad. Ik kijk ernaar uit!
 
-Beginnen met [De Moderne Nomaden](https://demodernenomaden.nl/) is zonder twijfel het tofste. Persoonlijk heb ik al 1000 mensen mogen helpen richting een leven als digital nomad. Via mijn mailinglijst mag ik daarbij wekelijks 10.000 mensen inspireren.
+Groeten,
+Micky van Zadelhoff
 
-Ooh, en die 122 artikelen die je op mijn website vindt, worden maandelijks zo’n 50.000 keer gelezen. Een flinke dosis aan (gratis, ja écht) inspiratie.
+_Leuk quotje: "Nobody realizes that some people expend tremendous energy merely to be normal."_
 
-## **Het lompste wat ik heb gedaan**
+## Micky in het 'nieuws'
 
-Ik dacht in een zomer dat het een goed idee zou zijn om ‘air loungers’ te verkopen op Ibiza. Dus ik importeerde er 200 vanuit China. In dat proces ging letterlijk alles mis. Iets met vergunningen, Spaans bedrijvenregister en importrechten… Het liep enorm in de kosten met als resultaat dat er nu nog altijd 165 ‘Ibiza Loungers’ naar een goed doel zijn gegaan. Ik voelde me echt blunderen op dat moment, maar heb er ook iets van geleerd…
+![Interviews met Micky van Zadelhoff](/images/micky/interviews-mick-van-zadelhoff.webp "Interviews met Micky van Zadelhoff")
 
-**“Geld is een bijkomstigheid van ondernemen, niet de drijfveer…”**
+### NRC
 
-–
+[![NRC: wat doet de coronacrisis met de digitale nomade](/images/migrated/nrc-digitale-nomaden-corona.webp)](https://www.nrc.nl/nieuws/2020/07/22/wat-doet-de-coronacrisis-met-de-digitale-nomade-a4006732)
 
-Wil je een bakje koffie doen of een keertje bellen, [neem dan contact met me op](/contact). Doe dit in het bijzonder met vragen omtrent trainingen, online marketing en digital nomads. Ik kijk ernaar uit!
+### Vice
 
-Groeten,  
-Mick van Zadelhoff
+[![Vice interview met Micky van Zadelhoff](/images/migrated/vice-interview-mick-van-zadelhoff.webp)](https://www.vice.com/nl/article/v7ekx8/stoppen-met-studie-slim)
 
-GRATIS BOEK: [boek over mijn digital nomad bestaan](https://demodernenomaden.nl/digital-nomad-boek/)
+### Nu.nl
 
-_Leuk quotje: “Nobody realizes that some people expend tremendous energy merely to be normal.”_
+[![Nu.nl: geld verdienen zonder ervoor te werken](/images/migrated/passief.webp)](https://www.nu.nl/geldzaken/6148047/geld-verdienen-zonder-ervoor-te-werken-zo-doe-je-dat.html)
 
-![](/images/migrated/mick-van-zadelhoff-de-moderne-nomaden-achtergrond-mobiel.webp "mick-van-zadelhoff-de-moderne-nomaden-achtergrond-mobiel")
+### Algemeen Dagblad
 
-# Mick in het ‘nieuws’
+[![AD: als moderne nomade naar India](/images/migrated/ad-als-moderne-nomade-naar-india.webp)](https://www.ad.nl/dordrecht/als-moderne-nomaden-naar-india-het-avontuur-begint-daar-waar-je-niet-weet-waar-het-eindigt~ab2e26bf/)
 
-## **NRC**
+### Flow Magazine
 
-[![](/images/migrated/nrc-digitale-nomaden-corona.webp)](https://www.nrc.nl/nieuws/2020/07/22/wat-doet-de-coronacrisis-met-de-digitale-nomade-a4006732)
+[![Flow Magazine: Nederlandse jongens fietsen van Nederland naar India](/images/migrated/flow-magazine-nederlandse-jongens-fietsen-van-nederland-naar-india.webp)](https://www.flowmagazine.nl/doen/deze-nederlandse-jongens-fietsen-van-nederland-naar-india.html)
 
-## **Vice**
+### Radio FunX
 
-[![Vice interview Mick van Zadelhoff](/images/migrated/vice-interview-mick-van-zadelhoff.webp)](https://www.vice.com/nl/article/v7ekx8/stoppen-met-studie-slim)
+[![FunX interview met Micky van Zadelhoff](/images/migrated/mick-van-zadelhoff-funx.webp)](https://www.funx.nl/fragmenten/tannaz/f9ea03c1-e754-46c7-bc5f-8040d939aa33/2021-09-14-stoppen-met-zijn-opleiding-is-de-beste-keuze-die-mick-ooit-heeft-gemaakt)
 
-## **Nu.nl**
+### NPO Radio 1
 
-[![](/images/migrated/passief.webp)](https://www.nu.nl/geldzaken/6148047/geld-verdienen-zonder-ervoor-te-werken-zo-doe-je-dat.html)
+![NPO Radio 1 podcast](/images/migrated/npo-radio-1-podcast.webp "NPO Radio 1 podcast")
 
-## **Algemeen Dagblad**
+### Klein Wonen Magazine
 
-[![](/images/migrated/ad-als-moderne-nomade-naar-india.webp)](https://www.ad.nl/dordrecht/als-moderne-nomaden-naar-india-het-avontuur-begint-daar-waar-je-niet-weet-waar-het-eindigt~ab2e26bf/)
+[![Klein Wonen Magazine over het digital nomad boek](/images/migrated/klein-wonen-magazine-digital-nomad-mick-boek.webp)](https://www.kleinwonenmagazine.nl/winkel/magazine/editie-6/)
 
-## **Flow Magazine**
+### Werkenvanuithetbuitenland.nl
 
-[![](/images/migrated/flow-magazine-nederlandse-jongens-fietsen-van-nederland-naar-india.webp)](https://www.flowmagazine.nl/doen/deze-nederlandse-jongens-fietsen-van-nederland-naar-india.html)
+[![Interview op werkenvanuithetbuitenland.nl](/images/migrated/werkenvanuithetbuitenland-interview.webp)](https://werkenvanuithetbuitenland.nl/interview-met-mick-van-zadelhof-van-de-moderne-nomaden/)
 
-## **Radio FunX**
+### Moneyou Create
 
-[![Mick van Zadelhoff FunX interview](/images/migrated/mick-van-zadelhoff-funx.webp)](https://www.funx.nl/fragmenten/tannaz/f9ea03c1-e754-46c7-bc5f-8040d939aa33/2021-09-14-stoppen-met-zijn-opleiding-is-de-beste-keuze-die-mick-ooit-heeft-gemaakt)
+[![Moneyou Create: tien dingen die digital nomads je niet vertellen](/images/migrated/money-you-medium-mick-van-zadelhoff.webp)](https://medium.com/moneyou-create/tien-dingen-die-digital-nomads-je-niet-vertellen-4da305ce5f9b)
 
-## **NPO Radio 1**
+### Ikbenopreis.nl
 
-![](/images/migrated/npo-radio-1-podcast.webp "npo-radio-1-podcast")
+[![Interview op ikbenopreis.nl](/images/migrated/ik-ben-op-reis-mick-van-zadelhoff.webp)](https://www.ikbenopreis.nl/interview-mick/)
 
-## **Klein Wonen Magazine**
+### Girlonthemove.nl
 
-[![](/images/migrated/klein-wonen-magazine-digital-nomad-mick-boek.webp)](https://www.kleinwonenmagazine.nl/winkel/magazine/editie-6/)
-
-## **Werkenvanuithetbuitenland.nl**
-
-[![Werken vanuit het buitenland interview](/images/migrated/werkenvanuithetbuitenland-interview.webp)](https://werkenvanuithetbuitenland.nl/interview-met-mick-van-zadelhof-van-de-moderne-nomaden/)
-
-## **Moneyou Create**
-
-[![](/images/migrated/money-you-medium-mick-van-zadelhoff.webp)](https://medium.com/moneyou-create/tien-dingen-die-digital-nomads-je-niet-vertellen-4da305ce5f9b)
-
-## **Ikbenopreis.nl**
-
-[![](/images/migrated/ik-ben-op-reis-mick-van-zadelhoff.webp)](https://www.ikbenopreis.nl/interview-mick/)
-
-## **Girlonthemove.nl**
-
-[![](/images/migrated/girl-on-the-move-mick-van-zadelhoff.webp)](https://www.girlonthemove.nl/mick-van-zadelhoff/)
+[![Interview op girlonthemove.nl](/images/migrated/girl-on-the-move-mick-van-zadelhoff.webp)](https://www.girlonthemove.nl/mick-van-zadelhoff/)

@@ -1,6 +1,6 @@
 ---
 title: "Mensen ontmoeten op reis – Welke manieren zijn er allemaal?"
-description: ""
+description: "Allereerst, dit artikel is niet heilig. Mensen ontmoeten op reis is namelijk voor iedereen anders en ik kan je daar geen letterlijk handboek voor…"
 date: 2018-07-29
 updated: 2022-12-28
 category: "tips"
@@ -10,7 +10,7 @@ draft: false
 featuredImage: "/images/migrated/youth-exchange-mensen-ontmoeten-op-reis-e1532858440641.webp"
 ---
 
-Allereerst, dit artikel is niet heilig. Mensen ontmoeten op reis is namelijk **voor iedereen anders** en ik kan je daar geen letterlijk handboek voor geven. Wel kan ik je helpen met het delen van mijn ervaring. In mijn eerste jaar dat ik op reis ben geweest als [digital nomad](https://demodernenomaden.nl/digitalenomaden/digitale-nomaden/) was mensen ontmoeten namelijk iets wat steeds weer terug kwam. Steeds wanneer ik op een nieuwe plek was, ontmoette ik nieuwe mensen of moest ik mijzelf daartoe zetten. Want zeg nou zelf, om al die reizen helemaal alleen te doen is wellicht wat saai… Daarom bij deze de **10 verschillende manieren** die leiden tot al mijn nieuwe vrienden wanneer ik [alleen op reis](https://demodernenomaden.nl/tips/alleen-reizen-wereld-voordelen-en-nadelen/) ben.
+Allereerst, dit artikel is niet heilig. Mensen ontmoeten op reis is namelijk **voor iedereen anders** en ik kan je daar geen letterlijk handboek voor geven. Wel kan ik je helpen met het delen van mijn ervaring. In mijn eerste jaar dat ik op reis ben geweest als [digital nomad](/blog/digitalenomaden/digital-nomad-worden/) was mensen ontmoeten namelijk iets wat steeds weer terug kwam. Steeds wanneer ik op een nieuwe plek was, ontmoette ik nieuwe mensen of moest ik mijzelf daartoe zetten. Want zeg nou zelf, om al die reizen helemaal alleen te doen is wellicht wat saai… Daarom bij deze de **10 verschillende manieren** die leiden tot al mijn nieuwe vrienden wanneer ik [alleen op reis](/blog/tips/alleen-reizen-wereld-voordelen-en-nadelen/) ben.
 
 ## **1\. Nieuwe mensen ontmoeten in een hostel**
 
@@ -26,7 +26,7 @@ Dit vereist wel wat sociale vaardigheden vanuit jouzelf, maar Free City Tours ge
 
 ## **4\. Buiten sporten op reis in een Calisthanics Park**
 
-Ja ik zelf houd erg van sporten. [Ik sport dan ook veel op reis](https://demodernenomaden.nl/digitalenomaden/sporten-op-reis/). Dit doe ik veelal in sportparken buiten en grappig genoeg levert dat me vaak ook connecties op. Je bent tenslotte toch met meerdere mensen actief bezig en dit creëert een band. Voor de sportieveling dus een goede manier om op natuurlijke wijze een band te scheppen.
+Ja ik zelf houd erg van sporten. [Ik sport dan ook veel op reis](/blog/digitalenomaden/sporten-op-reis/). Dit doe ik veelal in sportparken buiten en grappig genoeg levert dat me vaak ook connecties op. Je bent tenslotte toch met meerdere mensen actief bezig en dit creëert een band. Voor de sportieveling dus een goede manier om op natuurlijke wijze een band te scheppen.
 
 ## **5\. Mensen ontmoeten op reis in de karaoke bar**
 
@@ -34,7 +34,7 @@ Een super simpele manier om nieuwe vrienden te ontmoeten is in een karaoke bar. 
 
 ## **6\. Doe mee aan een youth exchange**
 
-Deze optie wijkt enigszins af van het onderwerp maar ik wil hem toch met je delen. Als het gaat om nieuwe mensen ontmoeten op reis is dit met stipt de manier die mij de meeste échte vrienden heeft opgeleverd. Meedoen aan een youth exchange of trainingsweek is voor mij de manier voor het leggen van internationale contacten. Vaak, tijdens mijn reizen, bezoek ik die mensen dan nog eens wanneer ik in de buurt ben en leer hun vrienden weer kennen, eh voilá, een hoop nieuwe mensen ontmoet op reis. Om exact te weten wat een youth exchange of trainingsweek is, kijk je even bij [dit artikel](https://demodernenomaden.nl/tips/erasmus-plus-training/).
+Deze optie wijkt enigszins af van het onderwerp maar ik wil hem toch met je delen. Als het gaat om nieuwe mensen ontmoeten op reis is dit met stipt de manier die mij de meeste échte vrienden heeft opgeleverd. Meedoen aan een youth exchange of trainingsweek is voor mij de manier voor het leggen van internationale contacten. Vaak, tijdens mijn reizen, bezoek ik die mensen dan nog eens wanneer ik in de buurt ben en leer hun vrienden weer kennen, eh voilá, een hoop nieuwe mensen ontmoet op reis. Om exact te weten wat een youth exchange of trainingsweek is, kijk je even bij [dit artikel](/blog/tips/erasmus-plus-training/).
 
 ## **7\. Mensen ontmoeten op reis bij de lokale hangplek**
 
@@ -46,7 +46,7 @@ Of je nu bij een local op de bank gaat slapen of gewoon iemand uit die stad wil 
 
 ## **9\. Werk samen op een coworking**
 
-Wanneer je niet alleen reist maar ook nog eens werkt op reis met je [digital nomad baan](https://demodernenomaden.nl/digitalenomaden/digital-nomad-banen/), dan kan een coworking een goede manier zijn om gelijkgestemden te ontmoeten. Op zo’n gezamenlijk kantoor spreekt het namelijk voor zich dat je kennis en verhalen uitwisselt.
+Wanneer je niet alleen reist maar ook nog eens werkt op reis met je [digital nomad baan](/blog/digitalenomaden/digital-nomad-banen/), dan kan een coworking een goede manier zijn om gelijkgestemden te ontmoeten. Op zo’n gezamenlijk kantoor spreekt het namelijk voor zich dat je kennis en verhalen uitwisselt.
 
 ## **10\. Ga daten via Tinder**
 

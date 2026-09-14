@@ -1,6 +1,6 @@
 ---
 title: "Digital nomad jobs & vacatures – 38x Locatie onafhankelijk werk in 2024"
-description: ""
+description: "Digital nomad banen zijn populair en liggen dus niet bepaalt voor het oprapen. Immers, meer mensen willen graag reizen terwijl ze werken. Daarom ga ik…"
 date: 2018-05-23
 updated: 2024-02-07
 category: "digitalenomaden"
@@ -16,7 +16,7 @@ Digital nomad banen zijn populair en liggen dus niet bepaalt voor het oprapen. I
 
 ![Digital Nomad Jobs en Vacatures](/images/migrated/digital-nomad-jobs-en-vacatures.webp "Digital Nomad Jobs en Vacatures")
 
-[Zelf leef ik al 6 jaar als digital nomad](https://demodernenomaden.nl/over-mij/) en verdien mijn geld als online ondernemer. Veelal is dit een passief inkomen vanuit [affiliate marketing](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) en soms is dit actief werk als content marketeer. Vanuit die ervaring en gesprekken met andere digital nomads bespreek ik de mogelijkheden die er voor jou zijn. Ik zal mijn top 10 digital nomad jobs voor in 2024 uitgebreid bespreken en daarna kort ingaan op **tal van andere mogelijkheden die er zijn**. Succes!
+[Zelf leef ik al 6 jaar als digital nomad](/over/) en verdien mijn geld als online ondernemer. Veelal is dit een passief inkomen vanuit [affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) en soms is dit actief werk als content marketeer. Vanuit die ervaring en gesprekken met andere digital nomads bespreek ik de mogelijkheden die er voor jou zijn. Ik zal mijn top 10 digital nomad jobs voor in 2024 uitgebreid bespreken en daarna kort ingaan op **tal van andere mogelijkheden die er zijn**. Succes!
 
 ## Wat verdien je met digital nomad banen?
 
@@ -112,9 +112,9 @@ Je hebt nu in ieder geval een idee **bij welke digital nomad banen de kans op ee
 
 ### Actief en passief inkomen
 
-Veel digital nomads die ik tegenkom hebben niet slechts één inkomstenbron. Veelal combineren ze actief werk met een andere manier van [online geld verdienen](https://demodernenomaden.nl/online-geld-verdienen/online-geld-verdienen/).
+Veel digital nomads die ik tegenkom hebben niet slechts één inkomstenbron. Veelal combineren ze actief werk met een andere manier van [online geld verdienen](/blog/online-geld-verdienen/online-geld-verdienen/).
 
-Denk aan een [passief inkomen](https://demodernenomaden.nl/online-geld-verdienen/passief-inkomen-genereren/) door **een videotraining te verkopen, rendement te krijgen op aandelen, affiliate marketing of advertentie inkomsten vanuit een Youtube kanaal**.
+Denk aan een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/) door **een videotraining te verkopen, rendement te krijgen op aandelen, affiliate marketing of advertentie inkomsten vanuit een Youtube kanaal**.
 
 Deze manieren van inkomen kunnen prima naast elkaar bestaan en zorgen simpelweg voor nog meer vrijheid.
 
@@ -130,7 +130,7 @@ Wanneer je als digital nomad een baan of inkomsten in Nederland verdient maar de
 
 Zelf heb ik best veel door Oost-Europa gereisd met een Nederlands inkomen. Keer op keer kwam ik erachter dat de kosten voor mijn levensonderhoud **met minder dan €1500,- per maand** werden gedekt. En dan heb ik het dus over al mijn kosten. Nu is dat in Nederland ook wel denkbaar, maar het laat toch maar even zien dat reizen niet duur hoeft te zijn :).
 
-**[Wil je precies weten hoe ik het zelf heb aangepakt? In mijn 174 pagina tellende boek vind je mijn gehele verhaal. Je download deze hier gratis >>](https://demodernenomaden.nl/digital-nomad-boek/)**
+**[Wil je precies weten hoe ik het zelf heb aangepakt? In mijn 174 pagina tellende boek vind je mijn gehele verhaal. Je download deze hier gratis >>](/boek/)**
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -138,15 +138,15 @@ Zelf heb ik best veel door Oost-Europa gereisd met een Nederlands inkomen. Keer 
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
 
 # Top 10 banen voor digital nomads in 2024
 
-Hieronder vind je de **top 10 digital nomad jobs**. Dat zijn ze uiteraard niet allemaal, maar dit zijn wel de banen die ik het meest voorbij zie komen bij mensen die [reizen en werken combineren](https://demodernenomaden.nl/digitalenomaden/reizen-en-werken-combineren/).
+Hieronder vind je de **top 10 digital nomad jobs**. Dat zijn ze uiteraard niet allemaal, maar dit zijn wel de banen die ik het meest voorbij zie komen bij mensen die [reizen en werken combineren](/blog/digitalenomaden/reizen-en-werken-combineren/).
 
-Als jij [digital nomad wilt worden](https://demodernenomaden.nl/digitalenomaden/digital-nomad-worden/) kan je daarvoor binnen deze banen de inspiratie vinden. Daarbij is het goed om te weten dat door corona destijds veel werk is gedigitaliseerd. Opties zijn er nu in overvloed!
+Als jij [digital nomad wilt worden](/blog/digitalenomaden/digital-nomad-worden/) kan je daarvoor binnen deze banen de inspiratie vinden. Daarbij is het goed om te weten dat door corona destijds veel werk is gedigitaliseerd. Opties zijn er nu in overvloed!
 
 ### Deze jobs gaan we bespreken
 
@@ -165,15 +165,15 @@ Als jij [digital nomad wilt worden](https://demodernenomaden.nl/digitalenomaden/
 
 ![Je eigen videotraining als digital nomad inkomen](/images/migrated/videotraining-digital-nomad-inkomen-1.webp "Je eigen videotraining als digital nomad inkomen")
 
-Voor deze eerste digital nomad baan moet je vooral iets hebben waar je goed in bent. Of het nu gaat om muziekinstrumenten maken uit afval, acrylverf schilderen, zingen als een nachtegaal of het gebruiken van Adobe Premiere Pro voor reisvideo’s. Jij kan er als online trainer mee aan de slag en er [een online cursus over maken](https://demodernenomaden.nl/online-geld-verdienen/videotraining/).
+Voor deze eerste digital nomad baan moet je vooral iets hebben waar je goed in bent. Of het nu gaat om muziekinstrumenten maken uit afval, acrylverf schilderen, zingen als een nachtegaal of het gebruiken van Adobe Premiere Pro voor reisvideo’s. Jij kan er als online trainer mee aan de slag en er [een online cursus over maken](/blog/online-geld-verdienen/videotraining/).
 
 Op de **online cursussen markt** komt letterlijk alles voorbij. Het opzetten kost uiteraard wat tijd, maar er is altijd wel iemand die jouw kennis zou willen beheersen en het delen daarvan is dus geld waard.
 
-Tof aan een eigen online cursus is, dat wanneer jij rondreist als digital nomad, je een [passief inkomen](https://demodernenomaden.nl/online-geld-verdienen/passief-inkomen-genereren/) kunt verdienen met de verkoop ervan. Omdat je de cursus maar één keer hoeft te maken is het daarbij een lekker schaalbaar product, je kan het immers zo vaak verkopen als je wilt, **zonder extra werk te hebben aan de cursus zelf**.
+Tof aan een eigen online cursus is, dat wanneer jij rondreist als digital nomad, je een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/) kunt verdienen met de verkoop ervan. Omdat je de cursus maar één keer hoeft te maken is het daarbij een lekker schaalbaar product, je kan het immers zo vaak verkopen als je wilt, **zonder extra werk te hebben aan de cursus zelf**.
 
 > Bij een online cursus kun je eraan denken een combinatie te maken van **video, audio, tekst, info graphics, afbeeldingen, live webinars en opdrachten.**
 
-Over het maken van een goede online cursus is online veel te vinden. Om het jezelf makkelijk te maken zijn er Nederlandse programma’s zoals [Huddle](https://demodernenomaden.nl/go/huddle). Daar bouw je gemakkelijk jouw eigen cursus inclusief community. Je hebt hiervoor dus **geen technische kennis** nodig.
+Over het maken van een goede online cursus is online veel te vinden. Om het jezelf makkelijk te maken zijn er Nederlandse programma’s zoals [Huddle](/go/huddle). Daar bouw je gemakkelijk jouw eigen cursus inclusief community. Je hebt hiervoor dus **geen technische kennis** nodig.
 
 Het maken kost je uiteraard veel tijd, je wilt tenslotte wel het onderste uit de kan halen. Maar wanneer je cursus eenmaal af is en online staat kan het je goede inkomsten opleveren. Ik zie dan ook veel digital nomads **die een eigen online training aanbieden**.
 
@@ -191,11 +191,11 @@ Vaak zie ik dat bedrijven zich liever niet bezig houden met al dat adverteren. W
 
 Een expert op online advertising is dus altijd welkom. Zo hoeft het bedrijf niet onnodig geld te verspillen aan dure inefficiënte advertentiecampagnes.
 
-> Toen ik zelf op zoek ging naar klanten voor online advertenties was dit een ‘**piece of cake**‘. Ik heb toen een lijstje gemaakt met de e-mailadressen van bedrijven uit één specifieke branche. Naar deze lijst heb ik een [acquisitie mail](https://demodernenomaden.nl/ondernemen/acquisitie-mail-voorbeeld1/) gestuurd. De eerste mailing leverde al 7 klanten op die maandelijks allemaal €500,- gingen betalen! Dat maakt het een digital nomad baan waarmee je snel kunt starten ;).
+> Toen ik zelf op zoek ging naar klanten voor online advertenties was dit een ‘**piece of cake**‘. Ik heb toen een lijstje gemaakt met de e-mailadressen van bedrijven uit één specifieke branche. Naar deze lijst heb ik een [acquisitie mail](/blog/ondernemen/acquisitie-mail-voorbeeld1/) gestuurd. De eerste mailing leverde al 7 klanten op die maandelijks allemaal €500,- gingen betalen! Dat maakt het een digital nomad baan waarmee je snel kunt starten ;).
 
 Facebook en Google advertising instellen is gelukkig niet zoveel werk als je weet wat je doet. Wanneer jij de advertenties eenmaal voor de klant hebt ingesteld, loopt de advertentie vanzelf en **verdient de klant hier geld mee omdat zij meer producten verkoopt.** Jij kunt hier dan wat (wellicht op commissiebasis) van mee snoepen.
 
-Om met online advertenties geld te verdienen moet je wel weten waarover je het hebt. Verdiep je daarom goed in de stof, hier is online erg veel over te vinden. Soms kan het ook helpen om daarin een marketing cursus te volgen die je door alle stappen heen loodst. Probeer bijvoorbeeld [deze gratis spoedcursus online marketing](https://demodernenomaden.nl/go/imu-spoedcursus).
+Om met online advertenties geld te verdienen moet je wel weten waarover je het hebt. Verdiep je daarom goed in de stof, hier is online erg veel over te vinden. Soms kan het ook helpen om daarin een marketing cursus te volgen die je door alle stappen heen loodst. Probeer bijvoorbeeld [deze gratis spoedcursus online marketing](/go/imu-spoedcursus).
 
 Zo’n cursus helpt je om niet alleen de skills van een adverteerder onder de knie te krijgen, maar ook om te begrijpen hoe je zelf aan goed betalende klanten komt.
 
@@ -203,19 +203,19 @@ Zo’n cursus helpt je om niet alleen de skills van een adverteerder onder de kn
 
 ![Digital nomads op eiland](/images/migrated/digital-nomads-op-eiland-1.webp "Digital nomads op eiland")
 
-Even een korte inleiding. [Copywriting](https://demodernenomaden.nl/ondernemen/content-marketing/) is het schrijven van content met als doel **meer publiciteit en verkoop te genereren**.
+Even een korte inleiding. [Copywriting](/blog/ondernemen/content-marketing/) is het schrijven van content met als doel **meer publiciteit en verkoop te genereren**.
 
 In de praktijk komt dit neer op het schrijven van artikelen voor bedrijven. Denk hierbij aan een **blog, product beschrijving, persbericht, advertentie of landingspagina**.
 
 Het meest voor de hand liggende voor een digital nomad inkomen is vaak het **bloggen voor een bedrijf**. Je schrijft dan artikelen voor op de website van het bedrijf.
 
-Het maken en plaatsen van dit soort _content_ op de klant zijn website zorgt ervoor dat [de website beter zichtbaar wordt in Google](https://demodernenomaden.nl/ondernemen/meer-website-bezoekers/) (SEO). Die zichtbaarheid vertaalt zich weer in meer organische bezoekers op de website en dus meer potentiële klanten. **Die schrijfkunsten van jou zijn dus geld waard**.
+Het maken en plaatsen van dit soort _content_ op de klant zijn website zorgt ervoor dat [de website beter zichtbaar wordt in Google](/blog/ondernemen/meer-website-bezoekers/) (SEO). Die zichtbaarheid vertaalt zich weer in meer organische bezoekers op de website en dus meer potentiële klanten. **Die schrijfkunsten van jou zijn dus geld waard**.
 
 > Ik schreef zelf artikelen voor een bedrijf en publiceerde deze op hun website. Omdat ik de artikelen kwalitatief in elkaar steek komen deze hoog terecht in Google en leveren vele extra bezoekers op. Maand in, maand uit. Het bedrijf waarvoor ik dat deed is [Allround DJ Service](https://allrounddjservice.nl/). Kijk gerust eens op [hun blog](https://allrounddjservice.nl/blog/) om te zien hoe ik dat zoal heb aangepakt ;).
 
 In de regel kun je stellen dat een langer artikel meer geld waard is voor het bedrijf en jij er dus meer mee kunt verdienen. Zoals je hebt gemerkt blog ik ook voor mijn eigen website (waar je nu bent).
 
-Dit heeft al geresulteerd in **50.000 mensen die maandelijks op mijn website komen** en mijn artikelen lezen. Ook voor jezelf is [bloggen een manier om online geld te verdienen](https://demodernenomaden.nl/online-geld-verdienen/bloggen/).
+Dit heeft al geresulteerd in **50.000 mensen die maandelijks op mijn website komen** en mijn artikelen lezen. Ook voor jezelf is [bloggen een manier om online geld te verdienen](/blog/online-geld-verdienen/bloggen/).
 
 Om je een idee te geven hoeveel je kunt vragen voor de content die je schrijft voor een bedrijf zou ik uitgaan van minimaal **20 cent per woord excl. BTW**. Als je een mooi portfolio hebt, kun je wellicht meer vragen.
 
@@ -249,7 +249,7 @@ Wellicht denk je nu dat het een hele hoop werk is maar dat valt vaak nog best we
 
 Zo zal het e-book _‘Hoe ga je om met een burn-out als alleenstaande moeder’_ het waarschijnlijk beter doen dan _‘Hoe ga je om met een burn-out’_. De eerste variant spreekt de doelgroep namelijk specifiek aan waar de tweede variant dat niet doet. Daarbij heeft de tweede variant véél meer concurrentie en is deze daardoor moeilijker te verkopen. **Hoe specifieker hoe beter**, zeker wanneer je op de Engelstalige markt opereert en dus nog meer concurrentie kan verwachten.
 
-Wanneer je een [e-book hebt geschreven en gepubliceerd](https://demodernenomaden.nl/online-geld-verdienen/e-book/) is het tijd om deze te gaan verkopen. Omdat een e-book zich niet vanzelf verkoopt is het belangrijk om een goede strategie te hebben. Een veel gehoorde tactiek is om het e-book eerst gratis weg te geven in ruil voor reviews op het door jou gekozen verkoopplatform. Hiermee kom je hoger in de zoekresultaten en zullen meer mensen jouw e-book vinden en dus kopen.
+Wanneer je een [e-book hebt geschreven en gepubliceerd](/blog/online-geld-verdienen/e-book/) is het tijd om deze te gaan verkopen. Omdat een e-book zich niet vanzelf verkoopt is het belangrijk om een goede strategie te hebben. Een veel gehoorde tactiek is om het e-book eerst gratis weg te geven in ruil voor reviews op het door jou gekozen verkoopplatform. Hiermee kom je hoger in de zoekresultaten en zullen meer mensen jouw e-book vinden en dus kopen.
 
 De voorwaarde is dan natuurlijk wel dat je een platform of social media pagina hebt met genoeg bezoekers, anders is er automatisch niemand geïnteresseerd in wat jij aanbiedt. En de voorwaarde, **je moet natuurlijk wel ergens écht verstand van hebben als je het e-book zelf schrijft**. Rotzooi is er al genoeg ;).
 
@@ -257,7 +257,7 @@ De voorwaarde is dan natuurlijk wel dat je een platform of social media pagina h
 
 ![Online docent](/images/migrated/online-docent-1.webp "Online docent")
 
-Heb je jezelf wel eens voor de klas zien staan? Wellicht niet. Gelukkig kun je tegenwoordig doceren vanuit alle plekken op de wereld, gewoon via Skype, Zoom of andere soorten [webinar software](https://demodernenomaden.nl/ondernemen/webinar-software-review/).
+Heb je jezelf wel eens voor de klas zien staan? Wellicht niet. Gelukkig kun je tegenwoordig doceren vanuit alle plekken op de wereld, gewoon via Skype, Zoom of andere soorten [webinar software](/blog/ondernemen/webinar-software-review/).
 
 Natuurlijk moet er dan wel iets zijn waar je verstand van hebt, maar vaak weet je meer dan je denkt. Denk bijvoorbeeld aan het doceren van Engels online. Via platforms als Preply en Italki vind je gemakkelijk je eerste studenten.
 
@@ -265,19 +265,19 @@ Natuurlijk moet er dan wel iets zijn waar je verstand van hebt, maar vaak weet j
 
 Wanneer je wilt doceren als digital nomad baan kan het erg helpen wanneer je al enkele studenten in Nederland ondersteunt. Om online het vertrouwen te winnen van de partijen die jou moeten gaan betalen, kan soms wat lastig zijn. Vaak zie je dan ook **dat digital nomads die doceren offline zijn begonnen**.
 
-Je zou er ook voor kunnen kiezen om het online doceren te combineren met bijvoorbeeld Engelse les geven in Taiwan. Maar meer daarover vind je in een artikel geweid aan [banen die je op de bestemmingen zelf kunt doen](https://demodernenomaden.nl/digitalenomaden/reizen-en-werken-combineren/).
+Je zou er ook voor kunnen kiezen om het online doceren te combineren met bijvoorbeeld Engelse les geven in Taiwan. Maar meer daarover vind je in een artikel geweid aan [banen die je op de bestemmingen zelf kunt doen](/blog/digitalenomaden/reizen-en-werken-combineren/).
 
 ## **7\. Dropshipping als werk voor een digital nomad bestaan**
 
 ![Dropshipping business opzetten](/images/migrated/dropshipping-business-opzetten-1.webp "Dropshipping business opzetten")
 
-Een erg populair verdienmodel onder digital nomads: dropshipping. Dropshipping houdt in dat je producten verkoopt aan klanten (hoeven niet je eigen producten te zijn) **zonder zelf de distributie te hoeven verzorgen**. Je hebt dus de lusten van een [webshop](https://demodernenomaden.nl/online-geld-verdienen/eigen-webshop-beginnen/), maar niet de lasten van het op tijd moeten leveren van de producten (en een magazijn etc.)
+Een erg populair verdienmodel onder digital nomads: dropshipping. Dropshipping houdt in dat je producten verkoopt aan klanten (hoeven niet je eigen producten te zijn) **zonder zelf de distributie te hoeven verzorgen**. Je hebt dus de lusten van een [webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/), maar niet de lasten van het op tijd moeten leveren van de producten (en een magazijn etc.)
 
 Wat jij doet is dus puur de producten vermarkten en verkopen. Dit kun je doen door je eigen webwinkel te starten via Shopify, of een van de andere 1000 mogelijkheden op dit gebied. Daarbij gebruik je dan een applicatie als Oberlo (distributie) en op deze manier **houd je je alleen bezig met het verkopen van de producten**.
 
-> Wanneer je dropshipping gaat doen kun je dit behalve via een eigen webshop ook een soort van doen via een platform als Bol.com. Dan hoef je zelfs voor de verkoop niet heel veel meer te doen dan een lagere prijs rekenen dan je concurrent. Maar [verkopen op Bol.com](https://demodernenomaden.nl/ondernemen/verkopen-op-bol-com/) is nog een vak apart. Je besteedt dan ook de logistiek en het magazijn aan hen uit.
+> Wanneer je dropshipping gaat doen kun je dit behalve via een eigen webshop ook een soort van doen via een platform als Bol.com. Dan hoef je zelfs voor de verkoop niet heel veel meer te doen dan een lagere prijs rekenen dan je concurrent. Maar [verkopen op Bol.com](/blog/ondernemen/verkopen-op-bol-com/) is nog een vak apart. Je besteedt dan ook de logistiek en het magazijn aan hen uit.
 
-Als dropshipper ben je vooral bezig met het verkopen van producten. Dit kan dan weer op vele verschillende manieren worden gedaan en het succes van jouw dropshipping business hangt dan ook volledig af van jouw [online marketing](https://demodernenomaden.nl/online-geld-verdienen/online-marketing/) skills. Hier als een nono instappen acht ik dan ook weinig succesvol.
+Als dropshipper ben je vooral bezig met het verkopen van producten. Dit kan dan weer op vele verschillende manieren worden gedaan en het succes van jouw dropshipping business hangt dan ook volledig af van jouw [online marketing](/blog/online-geld-verdienen/online-marketing/) skills. Hier als een nono instappen acht ik dan ook weinig succesvol.
 
 > Note tussendoor: Online marketing is eigenlijk voor bijna iedere digital nomad een must have skill. Want wat je ook gaat doen, je zult jezelf toch moeten weten te verkopen.
 
@@ -293,7 +293,7 @@ Waar je ook bent, **als je meer dan 1 taal kent** is deze digital nomad job well
 
 Je spreekt dan met je klant een bedrag af per 100 woorden en kunt op iedere locatie op de wereld **aan de slag met het vertalen van teksten**.
 
-Ga uit van **een gemiddelde van 10 euro per 100 woorden**. De snelheid waarmee jij kunt vertalen bepaald hier dus het uurtarief. Dat maakt [geld verdienen met online vertalen](https://demodernenomaden.nl/online-geld-verdienen/online-vertalen/) dus wel echt een uurtje factuurtje baan.
+Ga uit van **een gemiddelde van 10 euro per 100 woorden**. De snelheid waarmee jij kunt vertalen bepaald hier dus het uurtarief. Dat maakt [geld verdienen met online vertalen](/blog/online-geld-verdienen/online-vertalen/) dus wel echt een uurtje factuurtje baan.
 
 Belangrijk is dat je op zijn minst twee talen **perfect spreekt en schrijft**. Je directe concurrent is namelijk Google translate en die wordt steeds beter in het op een juiste manier vertalen van teksten. Voorkom dus dat je overbodig bent.
 
@@ -319,7 +319,7 @@ Wanneer je dus echt **locatie onafhankelijk** aan de slag wilt als video editor,
 
 ![Social media manager](/images/migrated/social-media-manager-1.webp "Social media manager")
 
-**Social media rules!** Veel bedrijven hechten waarde aan hun sociale reputatie, en terecht. Een goede online zichtbaarheid op social media zorgt namelijk voor meer betrokken klanten en volgers. Het zorgt dus voor meer verkoop en brengt daarmee geld in het laatje. Of het nu gaat om [Instagram](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-instagram/), Twitter, [Facebook](https://demodernenomaden.nl/online-geld-verdienen/facebook/) of [Youtube](https://demodernenomaden.nl/online-geld-verdienen/youtube/), op al deze sociale media heeft een bedrijf baat bij een goede strategie die wordt uitgevoerd.
+**Social media rules!** Veel bedrijven hechten waarde aan hun sociale reputatie, en terecht. Een goede online zichtbaarheid op social media zorgt namelijk voor meer betrokken klanten en volgers. Het zorgt dus voor meer verkoop en brengt daarmee geld in het laatje. Of het nu gaat om [Instagram](/blog/online-geld-verdienen/geld-verdienen-met-instagram-2/), Twitter, [Facebook](/blog/online-geld-verdienen/facebook/) of [Youtube](/blog/online-geld-verdienen/youtube/), op al deze sociale media heeft een bedrijf baat bij een goede strategie die wordt uitgevoerd.
 
 Tegelijk zitten bedrijven niet te springen om hun social media zelf bij te houden, zelf zijn ze namelijk bezig met andere bedrijfstaken. Ze besteden het dus graag uit aan iemand zoals jij!
 
@@ -333,7 +333,7 @@ Zo kun jij vanaf waar dan ook ter wereld hun social media beheren. Leuk aan deze
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
 
@@ -345,9 +345,9 @@ Wanneer je weet hoe je jezelf online kunt verkopen liggen er overal mogelijkhede
 
 ![Digital nomad werk](/images/migrated/digital-nomad-werk-1.webp "Digital nomad werk")
 
-Veel digital nomads hebben een hand vol met digital nomad banen en bouwen daarnaast nog aan een passief inkomen. Zelf heb ik inmiddels veel inkomsten uit tal van [affiliate programma’s](https://demodernenomaden.nl/ondernemen/affiliate-programma/) via de artikelen op deze website. Dat is een [passief inkomen](https://demodernenomaden.nl/online-geld-verdienen/passief-inkomen-genereren/) wat maand bij maand groeit en er inmiddels al voor heeft gezorgd **dat ik niet actief hoef te werken**.
+Veel digital nomads hebben een hand vol met digital nomad banen en bouwen daarnaast nog aan een passief inkomen. Zelf heb ik inmiddels veel inkomsten uit tal van [affiliate programma’s](/blog/ondernemen/affiliate-programma/) via de artikelen op deze website. Dat is een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/) wat maand bij maand groeit en er inmiddels al voor heeft gezorgd **dat ik niet actief hoef te werken**.
 
-**Wil je weten hoe ik het zelf heb aangepakt? Dan vind je in [mijn boek](https://demodernenomaden.nl/digital-nomad-boek/) het hele verhaal! Je kunt hem gratis downloaden.**
+**Wil je weten hoe ik het zelf heb aangepakt? Dan vind je in [mijn boek](/boek/) het hele verhaal! Je kunt hem gratis downloaden.**
 
 ## **Digital nomad vacatures**
 
@@ -405,7 +405,7 @@ Wanneer je actief bent op LinkedIn kan je dit platform ook inzetten om werk te v
 
 Voor wie digital nomad wil worden en online werk zoekt is er genoeg te kiezen. De wereld digitaliseert snel en dat maakt dat er steeds meer aanbod is in online werk.
 
-Vaak zie je dat digital nomads binnen meerdere vakgebieden tegelijkertijd [online geld verdienen](https://demodernenomaden.nl/online-geld-verdienen/online-geld-verdienen/). Dat kan zowel als freelancer als in loondienst. Gebruik de platforms in dit artikel en je kunt gelijk van start.
+Vaak zie je dat digital nomads binnen meerdere vakgebieden tegelijkertijd [online geld verdienen](/blog/online-geld-verdienen/online-geld-verdienen/). Dat kan zowel als freelancer als in loondienst. Gebruik de platforms in dit artikel en je kunt gelijk van start.
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -413,6 +413,6 @@ Vaak zie je dat digital nomads binnen meerdere vakgebieden tegelijkertijd [onlin
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

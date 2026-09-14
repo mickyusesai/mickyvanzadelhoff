@@ -1,6 +1,6 @@
 ---
 title: "Gewoontes veranderen, hoe doe je dat?"
-description: ""
+description: "Aan de slag gaan met gewoontes waar je eigenlijk vanaf wil of jezelf nieuwe gewoontes aanleren."
 date: 2018-03-31
 updated: 2021-01-31
 category: "tips"
@@ -30,7 +30,7 @@ Dit is mijn lijstje te veranderen of toe te voegen gewoontes:
 
 *   **Sterk verminderen alcohol gebruik**
 
-Ik reis veel de wereld rond en kom dan altijd in situaties waar mensen het normaal vinden om een aantal biertjes te drinken. Echter vanwege [mijn leven als digitale nomade](https://demodernenomaden.nl/persoonlijk/stoppen-school-studie-en-echt-gaan-leven/) zit ik altijd in die situaties en is het niet even een vakantie. Het maakt dat ik door de tijd heen teveel ben gaan drinken.
+Ik reis veel de wereld rond en kom dan altijd in situaties waar mensen het normaal vinden om een aantal biertjes te drinken. Echter vanwege [mijn leven als digitale nomade](/blog/tips/stoppen-school-studie-en-echt-gaan-leven/) zit ik altijd in die situaties en is het niet even een vakantie. Het maakt dat ik door de tijd heen teveel ben gaan drinken.
 
 *   **Vegetarisch eten**
 

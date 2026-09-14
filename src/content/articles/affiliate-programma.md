@@ -1,6 +1,6 @@
 ---
 title: "14 Beste affiliate programma’s en netwerken in Nederland [2023]"
-description: ""
+description: "Op zoek naar affiliate programma’s in Nederland om online geld te verdienen? Het vinden van een goed affiliate programma of netwerk kan een flinke klus…"
 date: 2019-10-02
 updated: 2023-02-06
 category: "ondernemen"
@@ -10,13 +10,13 @@ draft: false
 featuredImage: "/images/migrated/affiliate-marketing-programma-netwerken-1.webp"
 ---
 
-Op zoek naar **affiliate programma’s** in Nederland om online geld te verdienen? Het vinden van een goed affiliate programma of netwerk kan een flinke klus zijn. Lukraak zoeken naar producten om te promoten op jouw website, [mailinglijst](https://demodernenomaden.nl/ondernemen/mailinglijst-groeien/) of social media kanaal is namelijk niet altijd even makkelijk. Er zijn er zoveel (ook in Nederland en België) dat je soms door de bomen het bos niet ziet.
+Op zoek naar **affiliate programma’s** in Nederland om online geld te verdienen? Het vinden van een goed affiliate programma of netwerk kan een flinke klus zijn. Lukraak zoeken naar producten om te promoten op jouw website, [mailinglijst](/blog/ondernemen/leads-genereren-mailinglijst/) of social media kanaal is namelijk niet altijd even makkelijk. Er zijn er zoveel (ook in Nederland en België) dat je soms door de bomen het bos niet ziet.
 
 Nu kun je je natuurlijk gewoon bij alle affiliate programma’s aanmelden en experimenteren, maar dat heb ik al voor je gedaan, bespaar jezelf dus gerust de moeite. Meer dan de helft van de programma’s lever niets op…
 
 Dit artikel is primair bedoelt **voor de publishers** (ook wel promoters genoemd) maar ook als affiliate zelf zul je hier je inspiratie vinden. Die termen worden overigens nog al eens door elkaar gehaald, dus als je denkt, HUH!?, dan zou ik gewoon verder lezen.
 
-Wil je begrijpen hoe je goed geld kunt verdienen met affiliate marketing? Nicole verdient meer dan €2000,- per maand on-the-side met affiliate marketing en legt in haar cursus haarfijn uit hoe jij jezelf succesvol door affiliate land navigeert! Met de code **succesmetaffiliatemarketing10** krijg je zelfs 10% korting ;)_._ [Je vind de cursus hier >>](https://demodernenomaden.nl/go/affiliate-succes)
+Wil je begrijpen hoe je goed geld kunt verdienen met affiliate marketing? Nicole verdient meer dan €2000,- per maand on-the-side met affiliate marketing en legt in haar cursus haarfijn uit hoe jij jezelf succesvol door affiliate land navigeert! Met de code **succesmetaffiliatemarketing10** krijg je zelfs 10% korting ;)_._ [Je vind de cursus hier >>](/go/affiliate-succes)
 
 ## Affiliate programma of affiliate netwerk?
 
@@ -46,7 +46,7 @@ Ik bespreek hier alle affiliate programma’s waarmee ik zelf ervaring heb. Ik g
 
 ![Tradetracker affiliate platform](/images/migrated/tradetracker-affiliate-platform-1.webp "Tradetracker affiliate platform")
 
-[Tradetracker](https://demodernenomaden.nl/go/tradetracker) is een affiliate netwerk met vele affiliate programma’s. Ze hebben zo’n **1668 affiliate programma’s** voor je klaar staan (in 2023). Zij hebben daarmee het grootste aanbod van Nederland.
+[Tradetracker](/go/tradetracker) is een affiliate netwerk met vele affiliate programma’s. Ze hebben zo’n **1668 affiliate programma’s** voor je klaar staan (in 2023). Zij hebben daarmee het grootste aanbod van Nederland.
 
 Deze programma’s variëren enorm van elkaar. Je kunt samenwerken met grote partijen zoals mijndomein.nl of met tal van feestwinkels. De grootste drie categorieën bij Tradetracker zijn ‘Wonen, huis en tuin’, ‘Reizen en vakantie’ en ‘Mode en sieraden’. Inzicht krijgen in welke categorieën Tradetracker allemaal heeft? Deze vind je hieronder:
 
@@ -88,11 +88,11 @@ Sport en recreatie (139)
 Warenhuizen (24)  
 Wonen, huis en tuin (365)
 
-[\> Aanmelden als publisher bij Tradetracker](https://demodernenomaden.nl/go/tradetracker)
+[\> Aanmelden als publisher bij Tradetracker](/go/tradetracker)
 
 Zeker is dat je er altijd wel producten vind die relevant zijn voor jou om te promoten. Het is dan ook een must om je hier aan te melden als je wilt beginnen met affiliate marketing.
 
-[Aanmelden Tradetracker](https://demodernenomaden.nl/go/tradetracker)
+[Aanmelden Tradetracker](/go/tradetracker)
 
 ## 
 
@@ -100,13 +100,13 @@ Zeker is dat je er altijd wel producten vind die relevant zijn voor jou om te pr
 
 ![Paypro Affiliate Programma](/images/migrated/paypro-affiliate-programma-1.webp "Paypro Affiliate Programma")
 
-Een ander affiliate netwerk is [PayPro](https://demodernenomaden.nl/go/paypro-affiliate). Maar zij hebben dan weer een hele andere insteek dan Tradetracker. PayPro is namelijk in de basis een betalingsdienstverlener, maar besloot om hun klanten te helpen met het promoten door een affiliate netwerk op te starten.
+Een ander affiliate netwerk is [PayPro](/go/paypro-affiliate). Maar zij hebben dan weer een hele andere insteek dan Tradetracker. PayPro is namelijk in de basis een betalingsdienstverlener, maar besloot om hun klanten te helpen met het promoten door een affiliate netwerk op te starten.
 
 Ik maak zelf veel gebruik van PayPro en hun affiliate opties. PayPro affiliate producten zijn met name online producten zoals e-books en online cursussen. Het voordeel daarvan is dat de producten die zij publishers aanbieden, **hoge commissies** hebben. Het is onvergelijkbaar met andere netwerken.
 
 Commissies kunnen oplopen **tot 50% van de verkoopprijs**. Dat heeft te maken met het feit dat digitale producten een grote marge hebben. Er zijn immers geen grote kosten die moeten worden gemaakt door de verkoper. De grootste kostenpost is vaak vooral de marketing, of de affiliate commissie dus.
 
-[Aanmelden PayPro](https://demodernenomaden.nl/go/paypro-affiliate)
+[Aanmelden PayPro](/go/paypro-affiliate)
 
 ## 
 
@@ -114,11 +114,11 @@ Commissies kunnen oplopen **tot 50% van de verkoopprijs**. Dat heeft te maken me
 
 ![Bitvavo affiliate programma](/images/migrated/bitvavo-affiliate-programma-1.webp "Bitvavo affiliate programma")
 
-Dit affiliate programma van [Bitvavo](https://demodernenomaden.nl/go/bitvavo) heeft mij zelf best veel opgeleverd in de verschillende bull cycles van de cryptomarkt. Telkens wanneer iemand die zich via mijn link heeft aangemeld, [crypto verhandelt](https://demodernenomaden.nl/web3/handelen-in-crypto-valuta/), krijg ik daarover een **kleine commissie**.
+Dit affiliate programma van [Bitvavo](/go/bitvavo) heeft mij zelf best veel opgeleverd in de verschillende bull cycles van de cryptomarkt. Telkens wanneer iemand die zich via mijn link heeft aangemeld, [crypto verhandelt](/blog/web3/handelen-in-crypto-valuta/), krijg ik daarover een **kleine commissie**.
 
 Dit is levert in het begin niet zoveel op omdat het om **percentages van percentages** gaat. Toch merk je dat op termijn de verdiensten steeds verder oplopen naarmate je meer mensen aanbrengt. Om je aan te melden voor het affiliate programma van Bitvavo hoef je alleen maar een (gratis) account op Bitvavo aan te maken.
 
-[Aanmelden Bitvavo](https://demodernenomaden.nl/go/bitvavo)
+[Aanmelden Bitvavo](/go/bitvavo)
 
 ## 
 
@@ -126,9 +126,9 @@ Dit is levert in het begin niet zoveel op omdat het om **percentages van percent
 
 ![Pictory AI app](/images/migrated/pictory-ai-app-1.webp "Pictory AI app")
 
-Affiliate programma’s voor software doen het vaak goed, al helemaal voor [AI software](https://demodernenomaden.nl/ondernemen/ai-tools-lijst/)! Pictory is er daar eentje van. Met deze applicatie kun je eenvoudig video’s editen zodat je ze voor meerdere social media kanalen kunt gebruiken. Een makkelijk via affiliate marketing te promoten tool voor content creators. Om aan de slag te gaan, hoef je slechts een [gratis account aan te maken op Pictory](https://demodernenomaden.nl/go/pictory).
+Affiliate programma’s voor software doen het vaak goed, al helemaal voor [AI software](/blog/ondernemen/ai-tools-lijst/)! Pictory is er daar eentje van. Met deze applicatie kun je eenvoudig video’s editen zodat je ze voor meerdere social media kanalen kunt gebruiken. Een makkelijk via affiliate marketing te promoten tool voor content creators. Om aan de slag te gaan, hoef je slechts een [gratis account aan te maken op Pictory](/go/pictory).
 
-[Aanmelden Pictory](https://demodernenomaden.nl/go/pictory)
+[Aanmelden Pictory](/go/pictory)
 
 ## 5\. Cloud86 – Beste affiliate programma voor webhosting
 
@@ -138,7 +138,7 @@ Zonder twijfel **het beste affiliate programma dat ik heb kunnen vinden voor het
 
 Cloud86 daarentegen is een **Nederlandse hosting partij** die hoogwaardige service levert én ook nog eens zijn affiliate partners goed vergoed. Om te beginnen met het promoten van Cloud86 moet je wel eerst klant van hen zijn, maar geloof me, daar krijg je geen spijt van!
 
-[Aanmelden Cloud86](https://demodernenomaden.nl/go/cloud86)
+[Aanmelden Cloud86](/go/cloud86)
 
 ## 
 
@@ -146,13 +146,13 @@ Cloud86 daarentegen is een **Nederlandse hosting partij** die hoogwaardige servi
 
 ![Awin wereldwijd affiliate netwerk](/images/migrated/awin-wereldwijd-affiliate-netwerk-1.webp "Awin wereldwijd affiliate netwerk")
 
-[Awin](https://demodernenomaden.nl/go/awin1) **is een gigantisch affiliate netwerk** dat internationaal opereert. Omdat ze een aparte Nederlandse afdeling hebben is er enorm veel te halen. Om je een idee te geven van het formaat. Internationaal zijn er **ruim 20.000 adverteerders aangesloten**. Als je op zoek bent naar iets om te promoten, ga je dat hier dus **zeker vinden**.
+[Awin](/go/awin1) **is een gigantisch affiliate netwerk** dat internationaal opereert. Omdat ze een aparte Nederlandse afdeling hebben is er enorm veel te halen. Om je een idee te geven van het formaat. Internationaal zijn er **ruim 20.000 adverteerders aangesloten**. Als je op zoek bent naar iets om te promoten, ga je dat hier dus **zeker vinden**.
 
 Uniek aan Awin is dat ze de publisher (blogger) echt proberen te helpen om **zoveel mogelijk affiliate commissies** binnen te halen. Partijen die bij Awin zijn aangesloten zijn onder andere **De Bijenkorf, Perrysport, Vodafone, HEMA verzekeringen en de FBTO**.
 
 Om je aan te melden bij het Awin affiliate netwerk vragen ze je 5,- euro borg te betalen. Deze krijg je later weer terug bij je eerste uitbetaling.
 
-[Aanmelden Awin](https://demodernenomaden.nl/go/awin1)
+[Aanmelden Awin](/go/awin1)
 
 ## 
 
@@ -160,11 +160,11 @@ Om je aan te melden bij het Awin affiliate netwerk vragen ze je 5,- euro borg te
 
 ![Bol.com affiliate marketing](/images/migrated/bol-com-affiliate-marketing-1.webp "Bol.com affiliate marketing")
 
-Het partnerprogramma van [Bol.com](https://demodernenomaden.nl/go/bol-affiliate) is vaak het eerste affiliate programma waarmee [blogs](https://demodernenomaden.nl/online-geld-verdienen/bloggen/) op het internet in aanraking komen. Bol.com heeft zo’n 36.000.000 \[zesendertig miljoen\] artikelen en die zijn (bijna) allemaal te promoten via het affiliate programma. Niet zo gek dus dat mensen zich hier aanmelden. Met zoveel keuze is er immers **altijd wel iets dat aansluit** op jouw medium.
+Het partnerprogramma van [Bol.com](/go/bol-affiliate) is vaak het eerste affiliate programma waarmee [blogs](/blog/online-geld-verdienen/bloggen/) op het internet in aanraking komen. Bol.com heeft zo’n 36.000.000 \[zesendertig miljoen\] artikelen en die zijn (bijna) allemaal te promoten via het affiliate programma. Niet zo gek dus dat mensen zich hier aanmelden. Met zoveel keuze is er immers **altijd wel iets dat aansluit** op jouw medium.
 
 De commissies bij Bol.com variëren **tussen de 3% en 8%**. Op zich niet zoveel, maar goed om te weten is dat wanneer iemand jouw Bol.com affiliate link gebruikt, het niet uitmaakt wat deze persoon koopt in de webshop (in de komende 7 dagen). Zo promoot ik zelf met name boeken via Bol.com maar krijg ik net zo vaak commissies van mensen die laptops kopen. De cookie blijft namelijk 7 dagen geldig voor de gehele catalogus. Dat gaat dus al gelijk om veel meer geld dan een paar euro.
 
-[Aanmelden Bol.com](https://demodernenomaden.nl/go/bol-affiliate)
+[Aanmelden Bol.com](/go/bol-affiliate)
 
 ## 
 
@@ -188,7 +188,7 @@ Als affiliate kun jij al deze services van freelancers promoten en daarnaartoe l
 
 Buiten de services van freelancers kun je via dit affiliate programma ook **online courses** en Fiverr workspace promoten.
 
-[Aanmelden Fiverr](https://demodernenomaden.nl/go/fiverr-affiliate)
+[Aanmelden Fiverr](/go/fiverr-affiliate)
 
 ## 10\. Linkshare – Groot internationaal platform
 
@@ -212,9 +212,9 @@ Voor iedereen die **veel met sport doet** kan het affiliate programma van Decath
 
 ![Plug&Pay Affiliate Software](/images/migrated/plug-and-pay-affiliate-software-1.webp "Plug&Pay Affiliate Software")
 
-Een soort zelfde platform als het eerder genoemde PayPro. Bij [Plug&Pay](https://demodernenomaden.nl/go/plugandpay) kunnen bedrijven **betaalpagina** en **affiliate software pakketten** afnemen. Deze software kun jij direct promoten, maar je kunt wanneer je een account bij hun hebt, ook de producten van tal van andere ondernemers promoten die op het netwerk zijn aangesloten. Op de affiliate marktplaats zijn inmiddels zo’n **500 online producten** **en cursussen** te vinden met hoge affiliate vergoedingen.
+Een soort zelfde platform als het eerder genoemde PayPro. Bij [Plug&Pay](/go/plugandpay) kunnen bedrijven **betaalpagina** en **affiliate software pakketten** afnemen. Deze software kun jij direct promoten, maar je kunt wanneer je een account bij hun hebt, ook de producten van tal van andere ondernemers promoten die op het netwerk zijn aangesloten. Op de affiliate marktplaats zijn inmiddels zo’n **500 online producten** **en cursussen** te vinden met hoge affiliate vergoedingen.
 
-[Aanmelden Plug&Pay](https://demodernenomaden.nl/go/plugandpay)
+[Aanmelden Plug&Pay](/go/plugandpay)
 
 ## 13\. Wehkamp – Passende acties, merken en producten voor jouw doelgroep
 
@@ -228,11 +228,11 @@ Dit affiliate programma is vergelijkbaar met die van Bol.com. Het ligt er eigenl
 
 ![Affiliate Enormail](/images/migrated/affiliate-enormail-1.webp "Affiliate Enormail")
 
-[Enormail](https://demodernenomaden.nl/review/enormail-review/) is een marketing mailprogramma dat ik al jaren gebruik. Ik raadde het wel eens aan anderen aan en kwam er toen pas achter dat ik daar ook commissie op kan verdienen.
+[Enormail](/blog/review/enormail-review/) is een marketing mailprogramma dat ik al jaren gebruik. Ik raadde het wel eens aan anderen aan en kwam er toen pas achter dat ik daar ook commissie op kan verdienen.
 
 Ze hebben een affiliate programma met een standaard van 30% commissie. Het mooie hiervan is, dat dit aanhoud zolang de klant lid blijft van Enormail. En gezien het een marketing mailprogramma betreft, zal dat vaak best wel lang zijn. Je kunt dus iedere maand geld verdienen aan één klik.
 
-[Aanmelden Enormail](https://demodernenomaden.nl/go/enormail)
+[Aanmelden Enormail](/go/enormail)
 
 # Overlapping affiliate programma’s en netwerken
 
@@ -248,9 +248,9 @@ Op die eerste manier zorg je ervoor dat je verwijzing naar een affiliate natuurl
 
 Vaak heb ik al gezien dat wanneer affiliate programma’s via affiliate netwerken lopen de commissies een stuk schaarser zijn dan wanneer de affiliate partij een eigen programma aanbiedt. Dat laatste betekent aanmelden bij heel veel websites, maar levert je bij actieve promotie **veel meer commissie** op.
 
-Voor wie net **begint met affiliate marketing** raad ik aan om eerst [dit artikel te lezen](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) en te starten met relatief laagdrempelige **affiliate programma’s zoals [Tradetracker](https://demodernenomaden.nl/go/tradetracker).**
+Voor wie net **begint met affiliate marketing** raad ik aan om eerst [dit artikel te lezen](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) en te starten met relatief laagdrempelige **affiliate programma’s zoals [Tradetracker](/go/tradetracker).**
 
-Wil je begrijpen hoe je goed geld kunt verdienen met affiliate marketing? Nicole verdient meer dan €2000,- per maand on-the-side met affiliate marketing en legt in haar cursus haarfijn uit hoe jij jezelf succesvol door affiliate land navigeert! Met de code **succesmetaffiliatemarketing10** krijg je zelfs 10% korting ;)_._ [Je vind de cursus hier >>](https://demodernenomaden.nl/go/affiliate-succes)
+Wil je begrijpen hoe je goed geld kunt verdienen met affiliate marketing? Nicole verdient meer dan €2000,- per maand on-the-side met affiliate marketing en legt in haar cursus haarfijn uit hoe jij jezelf succesvol door affiliate land navigeert! Met de code **succesmetaffiliatemarketing10** krijg je zelfs 10% korting ;)_._ [Je vind de cursus hier >>](/go/affiliate-succes)
 
 **Succes in affiliate land!**
 
@@ -260,6 +260,6 @@ Wil je begrijpen hoe je goed geld kunt verdienen met affiliate marketing? Nicole
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

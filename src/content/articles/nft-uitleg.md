@@ -1,6 +1,6 @@
 ---
 title: "Geld verdienen met NFT’s – Volledige uitleg"
-description: ""
+description: "Als die je is ontgaan, heb je misschien wel meegekregen dat ‘de eerste tweet ooit verstuurd’, door de maker van Twitter, voor bijna drie miljoen als…"
 date: 2021-12-26
 updated: 2023-01-02
 category: "web3"
@@ -18,11 +18,11 @@ Als die je is ontgaan, heb je misschien wel meegekregen dat ‘_de eerste tweet 
 
 Zo zijn er nog tal van voorbeelden.
 
-Leuk al dat geld, maar ik kan me goed voorstellen dat je nu denkt, “Waar gaat dit allemaal over?”. Daarom bespreken we in dit artikel wat een NFT is, waarom deze voor zoveel geld worden verkocht en hoe jij op deze hype mee kunt liften en er **zelf geld mee kunt verdienen**. Daarbij zoomen we ook in op de verschillende NFT marktplaatsen en wat deze technologie en daarmee [web 3.0](https://demodernenomaden.nl/web3/web-3-decentralisatie/) ons in de toekomst kan brengen.
+Leuk al dat geld, maar ik kan me goed voorstellen dat je nu denkt, “Waar gaat dit allemaal over?”. Daarom bespreken we in dit artikel wat een NFT is, waarom deze voor zoveel geld worden verkocht en hoe jij op deze hype mee kunt liften en er **zelf geld mee kunt verdienen**. Daarbij zoomen we ook in op de verschillende NFT marktplaatsen en wat deze technologie en daarmee [web 3.0](/blog/web3/web-3-decentralisatie/) ons in de toekomst kan brengen.
 
 Laten we bij het begin beginnen 😉.
 
-[**Wil je leren hoe je geld verdient met het flippen van NFT’s? Kijk dan eens deze gratis training >>**](https://demodernenomaden.nl/go/nft-secrets-gratis)
+[**Wil je leren hoe je geld verdient met het flippen van NFT’s? Kijk dan eens deze gratis training >>**](/go/nft-secrets-gratis)
 
 # 1\. Wat is een NFT?
 
@@ -30,7 +30,7 @@ NFT staat voor **non-fungible token**. In correct Nederlands; **niet-verwisselba
 
 Een NFT is **een vorm van crypto welke niet kan worden gekopieerd**. Je kan het zien als een kunstcollectie van originele kunst. Elk kunstwerk in de collectie is anders en krijgt een andere waarde toegewezen.
 
-Net zoals bij ‘echte’ kunst, kunnen NFT’s worden verkocht, maar in plaats van met euro’s, betaal je met [cryptocurrency](https://demodernenomaden.nl/online-geld-verdienen/handelen-in-crypto-valuta/). Het verschil is dat deze transactie wordt **bijgehouden op de blockchain**. Daar wordt geregistreerd wie de NFT en dus het kunstwerk bezit.
+Net zoals bij ‘echte’ kunst, kunnen NFT’s worden verkocht, maar in plaats van met euro’s, betaal je met [cryptocurrency](/blog/web3/handelen-in-crypto-valuta/). Het verschil is dat deze transactie wordt **bijgehouden op de blockchain**. Daar wordt geregistreerd wie de NFT en dus het kunstwerk bezit.
 
 > De blockchain is een manier om gespreid (gedecentraliseerd) digitale gegevens op te slaan. Zie het als een **grote database** die verdeeld is over miljoenen computers zodat **niemand** zelfstandig de informatie in de database kan aanpassen.
 
@@ -52,7 +52,7 @@ Dat er veel kopers zijn voor NFT’s heeft meerdere redenen. Veelal vinden koper
 
 Belangrijk om bij NFT’s te begrijpen is dat je wanneer je een NFT koopt, wel officieel de eigenaar bent, maar dat de afbeelding/video nog altijd op **andere plekken op het internet kan en mag staan**. Je bent dan wel de eigenaar, maar niet de houder van de copyrights. Een beetje zoals je foto’s van schilderijen en standbeelden tegenkomt op het internet.
 
-Als je **[online geld wilt verdienen](https://demodernenomaden.nl/online-geld-verdienen/online-geld-verdienen/) met NFT´s** zijn er twee manieren. De eerste is door **[NFT´s te kopen en te verkopen](https://demodernenomaden.nl/go/nft-secrets-gratis)**. De tweede is door simpelweg **je eigen kunst als NFT te verkopen**. Laten we beginnen bij die eerste.
+Als je **[online geld wilt verdienen](/blog/online-geld-verdienen/online-geld-verdienen/) met NFT´s** zijn er twee manieren. De eerste is door **[NFT´s te kopen en te verkopen](/go/nft-secrets-gratis)**. De tweede is door simpelweg **je eigen kunst als NFT te verkopen**. Laten we beginnen bij die eerste.
 
 ![NFT training](/images/migrated/Future-proof-Business-1-e1645006633208.webp "NFT training")
 
@@ -68,7 +68,7 @@ Nu je begrijpt wat een NFT waarde geeft, begrijp je ook dat deze van waarde kan 
 
 > **Heb jij een NFT voor 2000 dollar gekocht, maar verkoop je deze een week later voor 3000 dollar, dan heb je zomaar even 1000 dollar winst gemaakt. Daar moeten dan alleen nog even de kosten van het netwerk ([gas fees](https://desynt.io/pay-less-gas-fees-minting-selling-nfts/)) af.**
 
-Om geld te verdienen met het kopen en verkopen van NFT’s is het vooral belangrijk om te begrijpen [welke NFT’s de **potentie hebben om in waarde te stijgen**](https://demodernenomaden.nl/go/nft-secrets-gratis). Dit vereist [NFT research](https://demodernenomaden.nl/web3/nft-project-research-onderzoeken-flippen/).
+Om geld te verdienen met het kopen en verkopen van NFT’s is het vooral belangrijk om te begrijpen [welke NFT’s de **potentie hebben om in waarde te stijgen**](/go/nft-secrets-gratis). Dit vereist [NFT research](/blog/web3/nft-project-research-onderzoeken-flippen/).
 
 Voordat we kijken naar hoe je goede NFT projecten vind, is het eerst goed om te weten hoe je überhaupt **een NFT koopt**. Onderstaande video kan je daarbij op weg helpen, of volg de stappen die compact onder de video staan beschreven.
 
@@ -76,7 +76,7 @@ Voordat we kijken naar hoe je goede NFT projecten vind, is het eerst goed om te 
 
 1.  [Maak een Metamask wallet](https://metamask.io/). Dit kan je zien als **jouw digitale portemonnee** waarin jouw NFT wordt opgeslagen wanneer je deze aanmaakt. Dit is tevens de opslag voor jouw Ethereum.
 2.  Wanneer je jouw wallet up and running hebt kan je hiermee [jouw OpenSea account aanmaken](https://opensea.io/).
-3.  Maak Ethereum over naar jouw MetaMask wallet. Doe dit vanuit een crypto exchange zoals [Bitvavo](https://demodernenomaden.nl/online-geld-verdienen/bitvavo-review-crypto/) waar je [crypto kunt kopen met iDEAL](https://demodernenomaden.nl/web3/crypto-kopen-met-ideal-stappenplan/) of koop direct Ethereum met je creditcard en Apple Pay.
+3.  Maak Ethereum over naar jouw MetaMask wallet. Doe dit vanuit een crypto exchange zoals [Bitvavo](/blog/review/bitvavo-review-crypto/) waar je [crypto kunt kopen met iDEAL](/blog/web3/crypto-kopen-met-ideal-stappenplan/) of koop direct Ethereum met je creditcard en Apple Pay.
 4.  Zoek op OpenSea.io een NFT die je wilt kopen en **voldoe de transactie inclusief gas fees**.
 5.  Wanneer de NFT gekocht is en deze in je wallet staat, kan je deze op OpenSea.io weer **te koop aanbieden voor een hoger bedrag**.
 
@@ -92,9 +92,9 @@ Andere **manieren om NFT’s te kopen** zijn via een veiling of bij een NFT drop
 
 > **NFT drop**
 > 
-> Hierbij draait het vaak om collectibles. Een verzameling van soms wel 10.000 NFT’s welke door een code worden gecreëerd. Vooraf weet je niet wat je krijgt, maar kan je slechts een NFT minten en hopen dat je een zeldzame collectible te pakken hebt welke je voor meer geld kunt doorverkopen (op een [NFT marktplaats](https://demodernenomaden.nl/web3/nft-guide/#marktplaats-kiezen)).
+> Hierbij draait het vaak om collectibles. Een verzameling van soms wel 10.000 NFT’s welke door een code worden gecreëerd. Vooraf weet je niet wat je krijgt, maar kan je slechts een NFT minten en hopen dat je een zeldzame collectible te pakken hebt welke je voor meer geld kunt doorverkopen (op een [NFT marktplaats](/blog/web3/nft-guide/#marktplaats-kiezen)).
 
-Als je begrijpt hoe je NFT’s koopt en verkoopt is het moment daar om goede NFT projecten te vinden die de potentie hebben **om flink te stijgen in waarde**. Een [NFT onderzoek](https://demodernenomaden.nl/web3/nft-project-research-onderzoeken-flippen/). Hierbij zijn er een aantal dingen waar je op moet letten:
+Als je begrijpt hoe je NFT’s koopt en verkoopt is het moment daar om goede NFT projecten te vinden die de potentie hebben **om flink te stijgen in waarde**. Een [NFT onderzoek](/blog/web3/nft-project-research-onderzoeken-flippen/). Hierbij zijn er een aantal dingen waar je op moet letten:
 
 *   Wie is de maker van de NFT? Is deze populair en heeft deze andere succesvolle NFT projecten gelanceerd?
 *   Wat zegt je gevoel over dit project? Is het iets dat je wilt supporten en denk je dat anderen er ook zo instaan?
@@ -107,7 +107,7 @@ Als je begrijpt hoe je NFT’s koopt en verkoopt is het moment daar om goede NFT
 
 Met al deze vragen in het achterhoofd kan je jouw zoektocht naar een NFT beginnen. Een plek waar je dan in ieder geval wilt gaan kijken is Twitter. Dit zal je een idee geven van of er wat rondgaat over het NFT project.
 
-Geld verdienen met het flippen van NFT’s heb ik zelf geleerd in [NFT Secrets van Mitchel van Duuren](https://demodernenomaden.nl/go/nft-secrets). Daarin leer je **strategieën voor het vinden van NFT projecten** die de potentie hebben om veel in waarde te stijgen. Lees ook zeker eens [mijn review over NFT Secrets](https://demodernenomaden.nl/ondernemen/nft-secrets-review-mitchel-van-duuren/).
+Geld verdienen met het flippen van NFT’s heb ik zelf geleerd in [NFT Secrets van Mitchel van Duuren](/go/nft-secrets). Daarin leer je **strategieën voor het vinden van NFT projecten** die de potentie hebben om veel in waarde te stijgen. Lees ook zeker eens [mijn review over NFT Secrets](/blog/review/nft-secrets-review-mitchel-van-duuren/).
 
 Tijdens deze cursus deelt Mitchel exact hoe het hem lukt om tienduizenden euro’s te verdienen met NFT’s. Zijn cursisten (bij het schrijven van dit artikel zijn dit er zo’n 2300) **boeken vrij snel succes**. Sommigen zelfs al binnen één dag. In de community delen we die flips en dat zag er alleen vandaag al zo uit:
 
@@ -115,13 +115,13 @@ Tijdens deze cursus deelt Mitchel exact hoe het hem lukt om tienduizenden euro�
 
 Dat is echt bizar toch? De prijzen die hier worden genoemd zijn trouwens in **Ethereum (+/- 1000,- euro)**. Reken maar uit je winst ;).
 
-Soms zitten er bij de community van [NFT Secrets](https://demodernenomaden.nl/go/nft-secrets) ook echt uitschieters die met het flippen van NFT’s echt ongelooflijke winsten pakken.
+Soms zitten er bij de community van [NFT Secrets](/go/nft-secrets) ook echt uitschieters die met het flippen van NFT’s echt ongelooflijke winsten pakken.
 
 ![Succesvolle flips NFT Secrets](/images/migrated/succesvolle-flips-nft-secrets-discord-1-scaled.webp "succesvolle-flips-nft-secrets-discord (1)")
 
 Die 25 ETH waar deze deelneemster het over heeft is **zo’n €25.000,-**. Niet slecht voor een paar maanden.
 
-Als je eens wilt kijken of deze manier van geld verdienen ook wat voor jou is, dan raad ik je graag aan om [deze gratis workshop van Mitchel van Duuren](https://demodernenomaden.nl/go/nft-secrets-gratis) te volgen. Daarin geeft hij voorbeelden van **zijn eigen NFT flips**.
+Als je eens wilt kijken of deze manier van geld verdienen ook wat voor jou is, dan raad ik je graag aan om [deze gratis workshop van Mitchel van Duuren](/go/nft-secrets-gratis) te volgen. Daarin geeft hij voorbeelden van **zijn eigen NFT flips**.
 
 # 4\. Je eigen NFT uitbrengen
 
@@ -161,7 +161,7 @@ Mensen kopen dan ook vaak plaatjes zonder te weten welk plaatje ze uiteindelijk 
 
 Als je jouw eerste NFT gaat uitbrengen begin je waarschijnlijk gewoon met een plaatje dat je tof vind. Hoe je van dit plaatje vervolgens een NFT maakt, vertel ik je in de volgende stap!
 
-Zoek je nog naar andere ideeën **om als bedrijf iets met NFTs te doen?** [Hier vind je tal van NFT voorbeelden van bedrijven](https://demodernenomaden.nl/web3/nft-ideeen-bedrijf/).
+Zoek je nog naar andere ideeën **om als bedrijf iets met NFTs te doen?** [Hier vind je tal van NFT voorbeelden van bedrijven](/blog/web3/nft-ideeen-bedrijf/).
 
 ## Stap 2: Van kunst naar NFT
 
@@ -173,7 +173,7 @@ Zo zijn er in de NFT wereld tal van ontwikkelingen gaande om het jou makkelijk t
 
 Wanneer je niet veel technische kennis in huis hebt en geen eigen smart contract wilt maken, kan je dit jouw NFT maken via een **NFT market place**. Dit is een plek waar NFT’s te koop worden aangeboden. Veel van deze marktplaatsen maken het voor jou mogelijk om zelf een NFT en bijbehorend smart contract te maken. Dat laatste is belangrijk omdat het zo daadwerkelijk op de blockchain komt te staan.
 
-Oké, dat zijn misschien een hoop nieuwe termen. **Geen zorgen**. De praktijk is best wel simpel! De [grootste NFT market places](https://demodernenomaden.nl/web3/nft-guide/#marktplaats-kiezen) per blockchain zijn:
+Oké, dat zijn misschien een hoop nieuwe termen. **Geen zorgen**. De praktijk is best wel simpel! De [grootste NFT market places](/blog/web3/nft-guide/#marktplaats-kiezen) per blockchain zijn:
 
 ![Logo Opensea](/images/migrated/Logomark-Blue.webp "Logo Opensea")
 
@@ -185,7 +185,7 @@ Solsea.io – NFT market place voor het Solana netwerk. Deze is nog volop in ont
 
 ![Binance Smart Chain](/images/migrated/p-2.webp "Binance Smart Chain NFT Marketplace")
 
-Binance Smart Chain – NFT market place voor het Binance netwerk. [Binance](https://demodernenomaden.nl/online-geld-verdienen/binance-review-crypto-exchange/) is de grootste crypto exchange ter wereld en heeft daarmee veel potentie voor de toekomst.
+Binance Smart Chain – NFT market place voor het Binance netwerk. [Binance](/blog/review/binance-review-crypto-exchange/) is de grootste crypto exchange ter wereld en heeft daarmee veel potentie voor de toekomst.
 
 ![CNFT](/images/migrated/ZrBiIWfJLE.webp "CNFT Cardano NFT")
 
@@ -199,7 +199,7 @@ Mijn advies is simpel. Ga voor de grootste market place met de laagste kosten. *
 
 1.  [Maak een Metamask wallet](https://metamask.io/). Dit kan je zien als **jouw digitale portemonnee** waarin jouw NFT wordt opgeslagen wanneer je deze aanmaakt. Dit is tevens de opslag voor jouw Ethereum.
 2.  Wanneer je jouw wallet up and running hebt kan je hiermee **[jouw OpenSea account aanmaken](https://opensea.io/)**.
-3.  Voordat je jouw NFT creëert (mint) is het belangrijk dat er op jouw wallet al wat Ethereum staat om de **gas fees** te voldoen. Maak deze over via [jouw favoriete crypto exchange](https://demodernenomaden.nl/ondernemen/beste-crypto-exchange/) of vanuit je offline wallet (als je die al hebt). Wanneer je jouw NFT maakt via Polygon hoef je bij OpenSea géén gas fees te betalen. Zeker voor een eerste keer is dit een goede optie!
+3.  Voordat je jouw NFT creëert (mint) is het belangrijk dat er op jouw wallet al wat Ethereum staat om de **gas fees** te voldoen. Maak deze over via [jouw favoriete crypto exchange](/blog/web3/beste-crypto-exchange/) of vanuit je offline wallet (als je die al hebt). Wanneer je jouw NFT maakt via Polygon hoef je bij OpenSea géén gas fees te betalen. Zeker voor een eerste keer is dit een goede optie!
 4.  Wanneer je bent ingelogd op OpenSea **maak je eenvoudig jouw eigen NFT door op ‘Create’ te klikken** en de afbeelding of video te uploaden. Vul vervolgens wat gegevens in zoals de naam en beschrijving.
 5.  Houdt er rekening mee dat je op OpenSea kan **kiezen voor de Ethereum en Polygon blockchain**. Wees je er hierbij van bewust dat de gas fees (kosten die je betaald om de NFT in de blockchain vast te leggen) van Ethereum in de honderden dollars kunnen lopen, terwijl deze bij Polygon (bijna) niets zijn. **Voor jouw eerste NFT zal de Polygon blockchain volstaan**.
 
@@ -263,8 +263,8 @@ Ga jarenlang experimenteren OF leer met de NFT In-Company training binnen één 
 
 Voor wie nieuw is in de NFT game voelt het allemaal wat overweldigend. Logisch ook, het is allemaal volledig nieuw, maar dat geeft je gelijk **een groot voordeel**!
 
-Wanneer ik nu aan iemand uitleg dat ik een eigen **NFT project** ben begonnen snappen ze er vaak helemaal niets van. Ik moet dan zelfs nog uitleggen [wat een blockchain is](https://demodernenomaden.nl/online-geld-verdienen/handelen-in-crypto-valuta/). Het ding is; dat maakt niet uit. Hoe het er nu naar uit ziet zijn de NFT’s er om te blijven en zullen deze net als de Bitcoin vroeg of laat omarmd worden. **Nu op deze trend meeliften is dan ook een beetje alsof je Bitcoin kocht in 2012**.
+Wanneer ik nu aan iemand uitleg dat ik een eigen **NFT project** ben begonnen snappen ze er vaak helemaal niets van. Ik moet dan zelfs nog uitleggen [wat een blockchain is](/blog/web3/handelen-in-crypto-valuta/). Het ding is; dat maakt niet uit. Hoe het er nu naar uit ziet zijn de NFT’s er om te blijven en zullen deze net als de Bitcoin vroeg of laat omarmd worden. **Nu op deze trend meeliften is dan ook een beetje alsof je Bitcoin kocht in 2012**.
 
-Daarbij komt dat je het natuurlijk ook niet binnen één keer hoeft te begrijpen. Koop gewoon eens een goedkope NFT en kijk hoe het allemaal in zijn werk gaat. Zo leer je het snelst! Of volg net als ik [deze training van Mitchel van Duuren](https://demodernenomaden.nl/go/nft-secrets). Zo voorkom je beginnersfouten.
+Daarbij komt dat je het natuurlijk ook niet binnen één keer hoeft te begrijpen. Koop gewoon eens een goedkope NFT en kijk hoe het allemaal in zijn werk gaat. Zo leer je het snelst! Of volg net als ik [deze training van Mitchel van Duuren](/go/nft-secrets). Zo voorkom je beginnersfouten.
 
 **Succes met jouw NFT avontuur!**

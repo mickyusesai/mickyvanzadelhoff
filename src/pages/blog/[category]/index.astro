@@ -1,0 +1,32 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import ArticleCard from '../../../components/ArticleCard.astro';
+import { CATEGORIES } from '../../../content.config';
+import { CATEGORY_LABELS } from '../../../config/site';
+import { getPublishedArticles } from '../../../lib/articles';
+
+export async function getStaticPaths() {
+  return CATEGORIES.map((category) => ({ params: { category } }));
+}
+const { category } = Astro.params;
+const label = CATEGORY_LABELS[category] ?? category;
+const articles = (await getPublishedArticles()).filter((a) => a.data.category === category);
+const descriptions: Record<string, string> = {
+  ondernemen: 'Praktische artikelen over ondernemen, marketing, acquisitie en AI voor ondernemers.',
+  digitalenomaden: 'Alles over werken en reizen combineren: bestemmingen, jobs, belasting en het echte leven als digital nomad.',
+  'online-geld-verdienen': 'Eerlijke gidsen over online geld verdienen: affiliate marketing, bloggen, YouTube, webshops en meer.',
+  web3: 'Crypto, NFTs en web3 uitgelegd, inclusief reviews van Nederlandse exchanges.',
+  tips: 'Persoonlijke verhalen en lessen uit een vrij leven.',
+  review: 'Eerlijke reviews van tools, cursussen en diensten die ik zelf gebruikte.',
+};
+---
+<Layout title={`${label} – Blog`} description={descriptions[category]}>
+  <section class="mx-auto max-w-6xl px-5 py-12">
+    <p class="text-sm"><a href="/blog/" class="text-accent">Blog</a></p>
+    <h1 class="mt-2 text-4xl font-bold tracking-tight">{label}</h1>
+    <p class="mt-2 max-w-prose text-muted">{descriptions[category]}</p>
+    <div class="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+      {articles.map((a) => <ArticleCard article={a} />)}
+    </div>
+  </section>
+</Layout>

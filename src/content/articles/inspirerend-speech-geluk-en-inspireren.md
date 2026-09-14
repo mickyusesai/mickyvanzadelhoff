@@ -1,6 +1,6 @@
 ---
 title: "Inspirerend Jezelf – Een speech over geluk en inspireren"
-description: ""
+description: "Ik werd uitgenodigd door mijn oude opleiding, Communicatie op Fontys Hogescholen. Ze vroegen mij om te komen vertellen over mijn leven als digital…"
 date: 2018-01-28
 updated: 2021-01-30
 category: "tips"
@@ -10,7 +10,7 @@ draft: false
 featuredImage: "/images/migrated/presentatie-fontys-digitale-nomade.webp"
 ---
 
-Ik werd uitgenodigd door mijn oude opleiding, Communicatie op Fontys Hogescholen. Ze vroegen mij om te komen vertellen over mijn [leven als digital nomad](https://demodernenomaden.nl/digitalenomaden/digital-nomad-worden/) en daarmee huidige studenten te inspireren.
+Ik werd uitgenodigd door mijn oude opleiding, Communicatie op Fontys Hogescholen. Ze vroegen mij om te komen vertellen over mijn [leven als digital nomad](/blog/digitalenomaden/digital-nomad-worden/) en daarmee huidige studenten te inspireren.
 
 Ik besloot mijn presentatie te richten op de gevoelsmatige kwestie waar ik als digital nomad mee moest dealen. Een inspirerende speech volgde. Bekijk hem hieronder, of lees hem onder de video.
 
@@ -26,7 +26,7 @@ Inmiddels ben ik 35 landen verder. Honderden vriendschappen, spirituele verdiepi
 
 Wat anderhalf jaar geleden kritiek was, is nu een compliment. Wat toen een fout was is nu mijn bestaan. Wat toen een droom was is nu werkelijkheid. Wat toen mijn onzekerheid was, is nu andermans inspiratie.
 
-Ik leef tegenwoordig als digitale nomade. Ik reis de wereld over met mijn bedrijf en ik [werk online](https://demodernenomaden.nl/digitalenomaden/digital-nomad-banen/). Ik heb geen grenzen meer en geloof dat alles mogelijk is. De wereld is mijn thuis geworden, met een laptop in een backpack.
+Ik leef tegenwoordig als digitale nomade. Ik reis de wereld over met mijn bedrijf en ik [werk online](/blog/digitalenomaden/digital-nomad-banen/). Ik heb geen grenzen meer en geloof dat alles mogelijk is. De wereld is mijn thuis geworden, met een laptop in een backpack.
 
 Ik voel me ontsnapt aan het systeem, aan de maatschappelijke druk en de eisen. Ik voel me ontsnapt aan de gedachte, dat je naar anderen moet luisteren. Die anderen hadden namelijk niet altijd gelijk. Soms, zaten ze er zelfs volledig naast.
 
@@ -52,11 +52,11 @@ Mijn keuze om te gaan leven als werkende reiziger was daarmee een keuze geworden
 
 Ik heb daarvan geleerd dat voor jezelf kiezen, puur betekent, dat anderen wel even kunnen wachten. Het betekent niet dat je ze achterlaat. Het betekent dat je eerst zelf de inspiratie zoekt om deze later in meervoud te delen.
 
-Ik moest wat met dit inzicht. En besloot daarom al mijn ervaringen, inspiratie en inzichten te gaan delen. Ik creëerde een platform: [De Moderne Nomaden](https://demodernenomaden.nl). Via dit online platform deel ik anno nu alles wat ik leer over mezelf en over de wereld.
+Ik moest wat met dit inzicht. En besloot daarom al mijn ervaringen, inspiratie en inzichten te gaan delen. Ik creëerde een platform: [De Moderne Nomaden](/). Via dit online platform deel ik anno nu alles wat ik leer over mezelf en over de wereld.
 
-Het platform heeft als doel anderen te inspireren ook die keuze voor zichzelf te maken door te gaan [reizen en werken](https://demodernenomaden.nl/digitalenomaden/reizen-en-werken-combineren/). En ik ben dan ook erg enthousiast als ik kan vertellen dat ik deze zomer de eerste trainingen geef om mensen met die stap te ondersteunen.
+Het platform heeft als doel anderen te inspireren ook die keuze voor zichzelf te maken door te gaan [reizen en werken](/blog/digitalenomaden/reizen-en-werken-combineren/). En ik ben dan ook erg enthousiast als ik kan vertellen dat ik deze zomer de eerste trainingen geef om mensen met die stap te ondersteunen.
 
-Anderen inspireren is een nieuwe obsessie voor me geworden. Of het nu via een training is, via een platform of via [mijn eerste boek](https://demodernenomaden.nl/verhalen-en-lessen-uit-een-vrij-leven-digital-nomad/) welke ik dit jaar uit breng. Het is wat mij oprecht gelukkig maakt en daarom wil ik het volgende aan iedereen meegeven.
+Anderen inspireren is een nieuwe obsessie voor me geworden. Of het nu via een training is, via een platform of via [mijn eerste boek](/boek/) welke ik dit jaar uit breng. Het is wat mij oprecht gelukkig maakt en daarom wil ik het volgende aan iedereen meegeven.
 
 Bedenk je bij je volgende keuze, dat een keuze voor jezelf, geen middelvinger is maar een verrijking voor anderen. Wees wie je wilt zijn en ga je eigen dromen achterna. Wanneer je doet wat je gelukkig maakt ben je de meest inspirerende persoon op aarde.
 

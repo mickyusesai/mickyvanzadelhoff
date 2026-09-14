@@ -1,6 +1,6 @@
 ---
 title: "Gastblog: Waarom ik de digital nomad lifestyle zo fijn vind"
-description: ""
+description: "Ongeveer anderhalf jaar geleden zei ik mijn baan op en ging ik op reis. Een reis van oorspronkelijk drie maanden, maar waar nooit een einde aan kwam…"
 date: 2018-06-24
 updated: 2022-12-28
 category: "digitalenomaden"
@@ -18,7 +18,7 @@ Ik geef je in deze gastblog drie redenen waarom ik de Digital Nomad lifestyle zo
 
 ## **Ultieme vrijheid**
 
-Het is een inkoppertje, maar als [Digital Nomad](https://demodernenomaden.nl/digitalenomaden/digitale-nomaden/) heb je de ultieme vrijheid. Gaan en staan waar je maar wilt.
+Het is een inkoppertje, maar als [Digital Nomad](/blog/digitalenomaden/digital-nomad-worden/) heb je de ultieme vrijheid. Gaan en staan waar je maar wilt.
 
 > Wil je ergens langer blijven? Dan doe je dat. Valt een locatie tegen? Dan vertrek je toch?
 

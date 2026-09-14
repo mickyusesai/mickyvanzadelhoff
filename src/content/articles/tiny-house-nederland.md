@@ -1,6 +1,6 @@
 ---
 title: "Een tiny house, waarom zou je daarin willen wonen?"
-description: ""
+description: "Vanwege mijn vaste column in Klein Wonen Magazine, het magazine in Nederland over tiny houses, voelde ik de behoefte hier een keer over te gaan…"
 date: 2018-09-06
 updated: 2021-02-12
 category: "tips"
@@ -10,7 +10,7 @@ draft: false
 featuredImage: "/images/migrated/tiny-house-in-bollenveld-e1536314746801.webp"
 ---
 
-Vanwege mijn vaste column in [Klein Wonen Magazine](http://www.kleinwonenmagazine.nl/), het magazine in Nederland over tiny houses, voelde ik de behoefte hier een keer over te gaan schrijven. Mede omdat ik veel mensen om mij heen hoor die de term leren kennen en mensen die daadwerkelijk bezig zijn met het zetten van stappen om in zo’n tiny house te gaan wonen. Het lijkt er dan ook op dat het type mens dat in een tiny house wilt wonen, nog best eens overeen kan komen met het type mens dat wil [leven als digital nomad](https://demodernenomaden.nl/digitalenomaden/digital-nomad-banen/).
+Vanwege mijn vaste column in [Klein Wonen Magazine](http://www.kleinwonenmagazine.nl/), het magazine in Nederland over tiny houses, voelde ik de behoefte hier een keer over te gaan schrijven. Mede omdat ik veel mensen om mij heen hoor die de term leren kennen en mensen die daadwerkelijk bezig zijn met het zetten van stappen om in zo’n tiny house te gaan wonen. Het lijkt er dan ook op dat het type mens dat in een tiny house wilt wonen, nog best eens overeen kan komen met het type mens dat wil [leven als digital nomad](/blog/digitalenomaden/digital-nomad-banen/).
 
 Maar waarom willen mensen in een ruimte wonen die amper groter is dan mijn eigen busje. Zelf reis ik ook best wel rond en leef dan voor enkele dagen écht in mijn busje. Maar een heel bestaan opbouwen in amper 6 vierkante meter lijkt me wat heftig. Gelukkig zijn tiny houses net iets groter, maar het daagde me uit om op onderzoek te gaan. Allereerst, wat word gezien als een tiny house? Laat ik daarmee beginnen, dan gaan we het daarna hebben over wat voor tiny house bewoners overwegingen zijn om zo te leven.
 
@@ -26,7 +26,7 @@ _©Klein Wonen Magazine_
 
 Een grappig gegeven van veel tiny houses is dat je deze kunt verplaatsen. Vaak word de tiny house bijvoorbeeld helemaal niet gebouwd op de plek waar deze uiteindelijk staat. Vaak word deze gebouwd in een loods en dan later verplaatst naar een stuk grond dat de gemeente aan tiny house bezitters ter beschikking stelt.
 
-> Sommige tiny houses hebben letterlijk wielen. Eigenlijk zijn dat dus een soort stacaravans, maar dan vaak zelf gemaakt. Wel super handig natuurlijk, want verhuizen is hierdoor in een paar uurtjes gedaan. Hier is dan misschien al de eerste overeenkomst met het [digital nomad bestaan](https://demodernenomaden.nl/digitalenomaden/digitale-nomaden/), dat je ook met een tiny house, dan wel langzaam, rond zou kunnen trekken.
+> Sommige tiny houses hebben letterlijk wielen. Eigenlijk zijn dat dus een soort stacaravans, maar dan vaak zelf gemaakt. Wel super handig natuurlijk, want verhuizen is hierdoor in een paar uurtjes gedaan. Hier is dan misschien al de eerste overeenkomst met het [digital nomad bestaan](/blog/digitalenomaden/digital-nomad-worden/), dat je ook met een tiny house, dan wel langzaam, rond zou kunnen trekken.
 
 # **Redenen om in een tiny house te wonen**
 
@@ -46,7 +46,7 @@ Tiny houses worden veelal duurzaam en zelfvoorzienend opgezet om op die manier z
 
 ## **3\. Minimalisme**
 
-Joshua en Ryan schreven er al over in hun [boek Minimalism](https://demodernenomaden.nl/go/minimalism-boek). Simpel gezegd het hebben van weinig spullen. Alleen die spullen hebben waar je waarde aan hecht. Dat wil zeggen dat wanneer je in een tiny house gaat wonen, je veel weg zou moeten doen. Er is geen ruimte voor en dus wordt het kiezen. Wat zijn nou die dingen die belangrijk voor je zijn? Het hebben van weinig spullen voelt voor veel mensen ontlastend en daar kan ik me heel goed wat bij voorstellen.
+Joshua en Ryan schreven er al over in hun [boek Minimalism](/go/minimalism-boek). Simpel gezegd het hebben van weinig spullen. Alleen die spullen hebben waar je waarde aan hecht. Dat wil zeggen dat wanneer je in een tiny house gaat wonen, je veel weg zou moeten doen. Er is geen ruimte voor en dus wordt het kiezen. Wat zijn nou die dingen die belangrijk voor je zijn? Het hebben van weinig spullen voelt voor veel mensen ontlastend en daar kan ik me heel goed wat bij voorstellen.
 
 De enige spullen die ik zelf heb zijn de spullen in mijn busje. Ik vind het heerlijk dat ik niet meer nodig heb. En die oven handschoenen die ik voor mijn vorige verjaardag kreeg… Ja, ik heb dus geen oven, dus die geef ik dan weer aan iemand anders in plaats van dat ik ze bewaar. Wanneer ik ze dan ooit nodig heb, komt er wel weer iets op mijn pad.
 

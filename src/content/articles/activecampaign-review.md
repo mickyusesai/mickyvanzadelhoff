@@ -1,6 +1,6 @@
 ---
 title: "Activecampaign review. De beste digitale marketingsoftware in 2023?"
-description: ""
+description: "Als je mijn blog al een tijdje volgt, weet je waarschijnlijk dat ik heel veel verschillende tools voor e-mailbeheer en e-mailautomatisering heb…"
 date: 2022-02-21
 updated: 2023-01-02
 category: "review"
@@ -14,7 +14,7 @@ featuredImage: ""
 
 Activecampaign. Wat is het?
 
-Als je mijn blog al een tijdje volgt, weet je waarschijnlijk dat ik heel veel verschillende tools voor e-mailbeheer en e-mailautomatisering heb gebruikt. In mijn artikelen over [Email Marketing in 2023](https://demodernenomaden.nl/ondernemen/e-mail-marketing/) en [Mailing stappenplan creëren](https://demodernenomaden.nl/ondernemen/mailing-maken-versturen/) zul je zien dat ik alles uitleg met Enormail als voorbeeld. Dat is een tool voor het maken van e-mailmarketing mailings voor bedrijven en blogs. Deze tool is nog steeds nuttig voor veel van mijn collega’s en klanten. Als leestip geef ik je dan ook mijn [Enormail review](https://demodernenomaden.nl/ondernemen/enormail-review/), het perfecte moment om het te lezen is als je overweegt om je aan te melden voor het gebruik ervan, of als je nu al je mailing doet met behulp van deze softwaretool.
+Als je mijn blog al een tijdje volgt, weet je waarschijnlijk dat ik heel veel verschillende tools voor e-mailbeheer en e-mailautomatisering heb gebruikt. In mijn artikelen over [Email Marketing in 2023](/blog/ondernemen/e-mail-marketing/) en [Mailing stappenplan creëren](/blog/ondernemen/mailing-maken-versturen/) zul je zien dat ik alles uitleg met Enormail als voorbeeld. Dat is een tool voor het maken van e-mailmarketing mailings voor bedrijven en blogs. Deze tool is nog steeds nuttig voor veel van mijn collega’s en klanten. Als leestip geef ik je dan ook mijn [Enormail review](/blog/review/enormail-review/), het perfecte moment om het te lezen is als je overweegt om je aan te melden voor het gebruik ervan, of als je nu al je mailing doet met behulp van deze softwaretool.
 
 > Er zijn echter ook andere goede tools te vinden. Want Enormail is voor bepaalde doeleinden een goed hulpmiddel, maar ik kwam erachter dat steeds meer mensen in mijn omgeving het hadden over **Activecampaign.**
 
@@ -23,7 +23,7 @@ Als je mijn blog al een tijdje volgt, weet je waarschijnlijk dat ik heel veel ve
 **Activecampaign** is een tool voor e-mailautomatisering voor kleine en middelgrote bedrijven en ondernemers die hun digitale product of zelfs een evenement proberen te promoten.  
 Op dit moment is Activecampaign zonder enige twijfel een vrij populaire tool. Er zijn meer dan 150k+ bedrijven die deze tool gebruiken in elke branche, inclusief verschillende B2C- en B2B-ondernemingen en ondernemers.
 
-![Activecampaign is de automatiseringstool voor e-mailmarketing](/images/migrated/activecampaign1-1.webp "Activecampaign is de automatiseringstool voor e-mailmarketing")
+<!-- TODO: image missing after migration: activecampaign1-1.webp -->
 
 ### Wat is er zo anders aan Activecampaign?
 
@@ -40,7 +40,7 @@ Omdat het UI-ontwerp van Activecampaign zo intuïtief en uitgebreid is dat je jo
 
 Er zijn echter ook enkele nadelen aan Activecampaign die ik verderop in dit artikel zal bespreken.
 
-> Als je nog niet weet hoe je je mailings of e-mailmarketingstrategie moet opzetten, raad ik je aan om eerst in de basis te duiken met behulp van mijn [artikel](https://demodernenomaden.nl/ondernemen/e-mail-marketing/) daarover. Of lees dit [artikel](https://demodernenomaden.nl/ondernemen/mailing-maken-versturen/).  
+> Als je nog niet weet hoe je je mailings of e-mailmarketingstrategie moet opzetten, raad ik je aan om eerst in de basis te duiken met behulp van mijn [artikel](/blog/ondernemen/e-mail-marketing/) daarover. Of lees dit [artikel](/blog/ondernemen/mailing-maken-versturen/).  
 > In dit artikel besloot ik me namelijk alleen te focussen op de voor- en nadelen van Activecampaign en wie deze tool goed zou kunnen gebruiken.
 
 ## Wat zijn de functies van Activecampaign? Past het bij mijn blog?

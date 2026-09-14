@@ -1,6 +1,6 @@
 ---
 title: "Online marketing voor de hovenier, hoe krijg je meer aanvragen en klanten via de website?"
-description: ""
+description: ".al-fb-beforeafter-1 .twentytwenty-before-label:before { content: \"Voor\"; } .al-fb-beforeafter-1 .twentytwenty-after-label:before { content: \"Na\"; }…"
 date: 2018-04-30
 updated: 2019-10-06
 category: "ondernemen"
@@ -60,8 +60,8 @@ featuredImage: "/images/migrated/20171212_172236-e1525261267847.webp"
 
 ### Om die reden hoor ik graag van je, wanneer je het gevoel hebt dat jouw website, jou ook meer zou kunnen opleveren. Dan kunnen we vrijblijvend bespreken waar de problemen en kansen liggen. Ik kijk ernaar uit.
 
-### Je kunt me gemakkelijk mailen via info@demodernenomaden.nl, berichten met een Whatsappje (+31 6 81081589) of [contacten via de contactpagina](/contact).
+### Je kunt me gemakkelijk mailen via mickyvz@live.nl, berichten met een Whatsappje (+31 6 81081589) of [contacten via de contactpagina](/contact).
 
-![digital nomad](/images/migrated/digitale-nomade-mick-van-zadelhoff-1.webp "digitale-nomade-mick-van-zadelhoff (1)")
+<!-- TODO: image missing after migration: digitale-nomade-mick-van-zadelhoff-1.webp -->
 
 [Contact Mick](/contact)

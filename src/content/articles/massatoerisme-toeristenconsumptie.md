@@ -1,6 +1,6 @@
 ---
 title: "Massatoerisme – De irritatie van massa’s toeristen"
-description: ""
+description: "Het wordt toch tijd om een keertje over massatoerisme te schrijven. Moeilijk is dat wel. Ik besef me namelijk dat ik zelf net zo goed een onderdeel van…"
 date: 2020-10-12
 updated: 2020-10-12
 category: "digitalenomaden"
@@ -10,7 +10,7 @@ draft: false
 featuredImage: "/images/migrated/cappedocie-luchtballon-massatoerisme.webp"
 ---
 
-Het wordt toch tijd om een keertje over **massatoerisme** te schrijven. Moeilijk is dat wel. Ik besef me namelijk dat ik zelf net zo goed een onderdeel van het probleem ben als de eventuele oplossing. Tegelijk zijn thema’s als **massatoerisme en toeristenconsumptie** in een [leven als digital nomad](https://demodernenomaden.nl/digitalenomaden/digital-nomad-worden/) onvermijdelijk. Zelf reis en werk ik simultaan en dan kom je ook wel eens op plaatsen terecht waarvan je denkt, is dat nou echt nodig?
+Het wordt toch tijd om een keertje over **massatoerisme** te schrijven. Moeilijk is dat wel. Ik besef me namelijk dat ik zelf net zo goed een onderdeel van het probleem ben als de eventuele oplossing. Tegelijk zijn thema’s als **massatoerisme en toeristenconsumptie** in een [leven als digital nomad](/blog/digitalenomaden/digital-nomad-worden/) onvermijdelijk. Zelf reis en werk ik simultaan en dan kom je ook wel eens op plaatsen terecht waarvan je denkt, is dat nou echt nodig?
 
 Ik neem je in dit artikel graag mee in mijn bevindingen op massatoerisme welke volledig op persoonlijke ervaring berusten. Wellicht heb je er zelf een gedachte over, schroom niet om die met mij te delen.
 
@@ -48,4 +48,4 @@ De conclusie die ik zelf heb getrokken is dat toeristische bestemmingen slechts 
 
 **Reizen zonder massatoerisme** heb je zelf in de hand. Natuurlijk voelt het eng om eens iets te bezoeken waar niemand het over heeft, maar ervaring leert dat daar de echte reiservaringen naar voren komen. Succes met jouw toekomstige reizen en laten we hopen dat we elkaar niet weer in Venetië tegen het lijf lopen. ;)
 
-_Dit artikel is geschreven op basis van mijn eerste vier jaar als digital nomad. Een manier van leven waarbij je online werken en reizen combineert. Veel komt voort uit mijn ervaringen tijdens een fietstocht van Nederland naar Turkije waarbij we de mooiste verhalen meemaakte, deze kun je terugvinden in mijn gratis te downloaden boek: **[Digital nomad – Verhalen en lessen uit een vrij leven](https://demodernenomaden.nl/digital-nomad-boek/)**._
+_Dit artikel is geschreven op basis van mijn eerste vier jaar als digital nomad. Een manier van leven waarbij je online werken en reizen combineert. Veel komt voort uit mijn ervaringen tijdens een fietstocht van Nederland naar Turkije waarbij we de mooiste verhalen meemaakte, deze kun je terugvinden in mijn gratis te downloaden boek: **[Digital nomad – Verhalen en lessen uit een vrij leven](/boek/)**._

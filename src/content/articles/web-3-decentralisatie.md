@@ -1,6 +1,6 @@
 ---
 title: "Web 3 uitgelegd + AI, Crypto, NFTs en de Metaverse"
-description: ""
+description: "Wat is web 3? Stel je een decentraal internet voor waar het niet de grote tech bedrijven zijn zoals Google en Meta die het internet beheren, maar jij…"
 date: 2022-05-21
 updated: 2023-01-31
 category: "web3"
@@ -30,7 +30,7 @@ Het wordt dan ook wel het web van **read-only** genoemd. Veelal gekenmerkt door 
 
 Web 2 is het internet dat jij en ik kennen en gebruiken. Hierbij consumeer je niet alleen informatie, **maar deel je deze ook zelf**.
 
-Dat kan door een foto te delen op Instagram, een video op Youtube of doordat je schrijft op [een eigen blog](https://demodernenomaden.nl/ondernemen/blog-beginnen-starten-stappenplan/) (= kort voor weblog). Het delen van informatie is voor iedereen toegankelijk geworden. Zo dragen we allemaal bij aan het internet van deze tijd, in plaats van alleen toegang te hebben tot de informatie van anderen.
+Dat kan door een foto te delen op Instagram, een video op Youtube of doordat je schrijft op [een eigen blog](/blog/ondernemen/blog-beginnen-starten-stappenplan/) (= kort voor weblog). Het delen van informatie is voor iedereen toegankelijk geworden. Zo dragen we allemaal bij aan het internet van deze tijd, in plaats van alleen toegang te hebben tot de informatie van anderen.
 
 **Dit begon met het platform Wikipedia**. Hier kunnen gebruikers zelf informatie toevoegen en de informatie van anderen controleren en bewerken.
 
@@ -38,7 +38,7 @@ Dat kan door een foto te delen op Instagram, een video op Youtube of doordat je 
 
 Verder is het grote verschil met web 1, dat bij web 2 **veel informatie wordt aangepast aan de gebruiker**. Denk aan een advertentie op Instagram die specifiek jij ziet omdat het voor jou interessant is. Niet altijd dan, maar je snapt wat ik bedoel. In web 2 veranderd de consument van gebruiker naar deelnemer op het internet.
 
-Dit wordt dan ook het web van **read and write only** genoemd. Iedereen heeft nu de kans om eenvoudig dingen te delen. Tools zoals social media en WordPress maken dat mogelijk. Je kunt nu simpel een eigen [Youtube kanaal maken](https://demodernenomaden.nl/online-geld-verdienen/youtube-kanaal-beginnen/) en beginnen met het delen van content.
+Dit wordt dan ook het web van **read and write only** genoemd. Iedereen heeft nu de kans om eenvoudig dingen te delen. Tools zoals social media en WordPress maken dat mogelijk. Je kunt nu simpel een eigen [Youtube kanaal maken](/blog/online-geld-verdienen/youtube-kanaal-beginnen/) en beginnen met het delen van content.
 
 Terugkijkend op deze ontwikkelingen is het boeiend om te zien **hoe web 2 de vrijheid van meningsuiting een flinke impuls heeft gegeven**.
 
@@ -54,7 +54,7 @@ Veel tussenpartijen worden weggelaten, het is een soort bye bye Facebook feestje
 
 **Decentralisatie** kom je dan op.
 
-Super mooi natuurlijk, maar hoe ziet dat er in de praktijk dan uit? Gaan we voor web 3 straks met zijn allen proberen een Youtube te maken? Nou, nee niet echt. Wel kunnen we met zijn allen voor een deel **eigenaarschap krijgen over zo’n platform**, bijvoorbeeld door [NFTs](https://demodernenomaden.nl/web3/nft-guide/). Om op de verschillende aspecten in te zoomen, bespreken we hieronder de vijf pijlers van web 3.
+Super mooi natuurlijk, maar hoe ziet dat er in de praktijk dan uit? Gaan we voor web 3 straks met zijn allen proberen een Youtube te maken? Nou, nee niet echt. Wel kunnen we met zijn allen voor een deel **eigenaarschap krijgen over zo’n platform**, bijvoorbeeld door [NFTs](/blog/web3/nft-guide/). Om op de verschillende aspecten in te zoomen, bespreken we hieronder de vijf pijlers van web 3.
 
 ### 1\. Semantisch web
 
@@ -66,7 +66,7 @@ In het **Semantic Web** is het de bedoeling dat Google ook zonder zo’n overzic
 
 Onze web 2 favoriet Wikipedia is hier trouwens al mee bezig. Zij werken aan een semantisch Wikipedia waarin informatie uit verschillende bronnen wordt gecombineerd om een specifieke zoekopdracht juist te beantwoorden. Het resultaat is dan dus **een artikel dat nooit geschreven is.**
 
-Wat je sinds 2023 ziet is een enorme opkomst van het semantisch web met AI tools als [ChatGPT](https://demodernenomaden.nl/ondernemen/chat-gpt-ai-voor-ondernemers/). Deze bot genereert al antwoorden die zijn gegenereerd door een combinatie van tal van verschillende bronnen.
+Wat je sinds 2023 ziet is een enorme opkomst van het semantisch web met AI tools als [ChatGPT](/blog/ondernemen/chat-gpt-ai-voor-ondernemers/). Deze bot genereert al antwoorden die zijn gegenereerd door een combinatie van tal van verschillende bronnen.
 
 ### 2\. Kunstmatige intelligentie (AI)
 
@@ -80,22 +80,22 @@ Allemaal om te bewijzen dat je geen robot bent. Maar dat dus niet alleen, deze i
 
 Bij web 3 speelt kunstmatige intelligentie een gigantische rol. Dat is simpelweg **omdat de grotere hoeveelheid aan data verwerkt moet worden** en we daar als mens de handen vol mee zouden hebben.
 
-Zoiets als die plaatjes van Google heeft zich nu omgezet in [AI tools](https://demodernenomaden.nl/ondernemen/ai-tools-lijst/) die letterlijk uit het niets een afbeelding of foto kunnen genereren. Kunstmatige intelligentie heeft dit jaar echt een grote sprong vooruit gemaakt. Kijk maar eens naar deze lijst met toepassingen:
+Zoiets als die plaatjes van Google heeft zich nu omgezet in [AI tools](/blog/ondernemen/ai-tools-lijst/) die letterlijk uit het niets een afbeelding of foto kunnen genereren. Kunstmatige intelligentie heeft dit jaar echt een grote sprong vooruit gemaakt. Kijk maar eens naar deze lijst met toepassingen:
 
-*   **[LongShot.ai](https://demodernenomaden.nl/go/longshot):** Hier komen volledige blogs uitrollen.
-*   **[Looka](https://demodernenomaden.nl/go/looka)**: AI design tool voor logo en huisstijl.
-*   [**Synthesia**](https://demodernenomaden.nl/go/synthesia): Bespaar tijd door video’s te maken met AI.
-*   [**Ocoya**](https://demodernenomaden.nl/go/ocoya): Social media management op de automatische piloot.
-*   [**Sembly AI**](https://demodernenomaden.nl/go/sembly): Transcriberen en notuleren bij vergaderingen.
-*   [**Murf AI**](https://demodernenomaden.nl/go/murf-ai): Van tekst naar mensechte spraak.
-*   [**Browse AI**](https://demodernenomaden.nl/go/browse-ai): Onderzoekt jouw concurrentie hun websites.
-*   [**ChatBot**](https://demodernenomaden.nl/go/chatbot-com): Een als mens voelende chatbot op jouw website.
-*   [**Pictory**](https://demodernenomaden.nl/go/pictory): AI die videocontent maakt voor jouw socials.
-*   [**SmartWriter**](https://demodernenomaden.nl/go/smartwriter): Gepersonaliseerde LinkedIN berichten laten schrijven en versturen.
-*   [**Originality**](https://demodernenomaden.nl/go/originality): App die checkt of teksten door een AI geschreven zijn.
-*   [**Pencil**](https://demodernenomaden.nl/go/trypencil): Converterende social media advertenties maken met AI.
-*   [**CopyMonkey**](https://demodernenomaden.nl/go/copymonkey): E-commerce productbeschrijvingen laten schrijven.
-*   [**Podcastle**](https://demodernenomaden.nl/go/podcastle): Professionele podcasts opnemen zonder dure apparatuur.
+*   **[LongShot.ai](/go/longshot):** Hier komen volledige blogs uitrollen.
+*   **[Looka](/go/looka)**: AI design tool voor logo en huisstijl.
+*   [**Synthesia**](/go/synthesia): Bespaar tijd door video’s te maken met AI.
+*   [**Ocoya**](/go/ocoya): Social media management op de automatische piloot.
+*   [**Sembly AI**](/go/sembly): Transcriberen en notuleren bij vergaderingen.
+*   [**Murf AI**](/go/murf-ai): Van tekst naar mensechte spraak.
+*   [**Browse AI**](/go/browse-ai): Onderzoekt jouw concurrentie hun websites.
+*   [**ChatBot**](/go/chatbot-com): Een als mens voelende chatbot op jouw website.
+*   [**Pictory**](/go/pictory): AI die videocontent maakt voor jouw socials.
+*   [**SmartWriter**](/go/smartwriter): Gepersonaliseerde LinkedIN berichten laten schrijven en versturen.
+*   [**Originality**](/go/originality): App die checkt of teksten door een AI geschreven zijn.
+*   [**Pencil**](/go/trypencil): Converterende social media advertenties maken met AI.
+*   [**CopyMonkey**](/go/copymonkey): E-commerce productbeschrijvingen laten schrijven.
+*   [**Podcastle**](/go/podcastle): Professionele podcasts opnemen zonder dure apparatuur.
 
 ### 3\. Web 3 is driedimensionaal
 
@@ -123,11 +123,11 @@ Nu zijn we dit door de tijd heen met zijn allen normaal gaan vinden, maar hoe no
 
 In web 3 gaat dit volledig veranderen, zo is het idee. Je wordt dan zelf **mede-eigenaar van een verdienmodel**. In de perfecte situatie zou jij zelf mogen bepalen of je jouw data ter beschikking wil stellen aan adverteerders. Deze adverteerders moeten vervolgens aan jou betalen om je een advertentie te laten zien.
 
-Een andere vorm om mede-eigenaar te zijn van een verdienmodel kan bijvoorbeeld door het beheren van bepaalde [crypto](https://demodernenomaden.nl/web3/handelen-in-crypto-valuta/) waar je rendement op ontvangt (staking). Zie dit als een aandeel binnen een bedrijf. Dit kan ook door deel te nemen aan een **Decentralized Autonomous Organization (DAO)**. Dit is een autonoom bedrijf waar de beslissingen worden genomen door iedereen die eraan deelneemt door een deel van de crypto te bezitten.
+Een andere vorm om mede-eigenaar te zijn van een verdienmodel kan bijvoorbeeld door het beheren van bepaalde [crypto](/blog/web3/handelen-in-crypto-valuta/) waar je rendement op ontvangt (staking). Zie dit als een aandeel binnen een bedrijf. Dit kan ook door deel te nemen aan een **Decentralized Autonomous Organization (DAO)**. Dit is een autonoom bedrijf waar de beslissingen worden genomen door iedereen die eraan deelneemt door een deel van de crypto te bezitten.
 
 ### 5\. Community
 
-Als je naar [NFTs](https://demodernenomaden.nl/web3/nft-uitleg/) kijkt, dan is het gedecentraliseerde idee daarachter vaak dat het de community is die een NFT trendy maakt. Iets wat jij bezit is dus iets dat je zelf promoot. Stel dat je mede mini **eigenaar bent** van een social media platform, dan is de kans groot dat dit de social media is waar je ook je vrienden naartoe stuurt.
+Als je naar [NFTs](/blog/web3/nft-uitleg/) kijkt, dan is het gedecentraliseerde idee daarachter vaak dat het de community is die een NFT trendy maakt. Iets wat jij bezit is dus iets dat je zelf promoot. Stel dat je mede mini **eigenaar bent** van een social media platform, dan is de kans groot dat dit de social media is waar je ook je vrienden naartoe stuurt.
 
 Dit gedecentraliseerde idee is anders dan bij wat nu veelal centraal is. Denk aan een merk als Gucci. **De waarde van zo’n tas wordt hoog gehouden door het merk zelf**.
 
@@ -151,13 +151,13 @@ Makkelijker om te investeren en te profiteren van de groei van web 3 is via spec
 
 ![Metaverse Digital Land Boom](/images/migrated/metaverse-digital-land-boom-1.webp "Metaverse Digital Land Boom")
 
-Wat NFTs betreft kun je denken aan de **digital land boom** die plaatsvind. De stukken land in de verschillende [Metaverses](https://demodernenomaden.nl/web3/geld-verdienen-metaverse/) wordt flink verhandelt omdat veel mensen denken dat deze in toekomst veel waard worden vanwege de schaarse hoeveelheid die beschikbaar is.
+Wat NFTs betreft kun je denken aan de **digital land boom** die plaatsvind. De stukken land in de verschillende [Metaverses](/blog/web3/geld-verdienen-metaverse/) wordt flink verhandelt omdat veel mensen denken dat deze in toekomst veel waard worden vanwege de schaarse hoeveelheid die beschikbaar is.
 
-Een andere manier om te investeren in web 3 is door onderdeel te worden van een DAO of door [Metaverse crypto](https://demodernenomaden.nl/web3/metaverse-crypto/) en [AI crypto](https://demodernenomaden.nl/web3/ai-crypto-kunstmatige-intelligentie/) te bezitten.
+Een andere manier om te investeren in web 3 is door onderdeel te worden van een DAO of door [Metaverse crypto](/blog/web3/metaverse-crypto/) en [AI crypto](/blog/web3/ai-crypto-kunstmatige-intelligentie/) te bezitten.
 
 > Let op: De hierboven genoemde crypto zijn géén koopadvies. Ik geef geen financieel advies en wil dat ook niet geven. Ze zijn vooral benoemd als inspiratie om je een idee te geven van de mogelijkheden. ;)
 
-Wil je weten hoe je als bedrijf in kunt zetten op Web 3.0? Bekijk dan eens [deze voorbeelden van hoe bedrijven NFTs gebruiken](https://demodernenomaden.nl/web3/nft-ideeen-bedrijf/).
+Wil je weten hoe je als bedrijf in kunt zetten op Web 3.0? Bekijk dan eens [deze voorbeelden van hoe bedrijven NFTs gebruiken](/blog/web3/nft-ideeen-bedrijf/).
 
 ## Conclusie web 3
 
@@ -167,4 +167,4 @@ Zeker is in ieder geval dat deze ontwikkelingen in razend tempo gaan en adoptie 
 
 Tot zover onze duik in web 1, 2 en 3. Hopelijk heb je nu een beter idee van wat ons te wachten staat en vooral ook **wat de kansen zijn voor web 3**.
 
-Hierover leren of weten hoe je zelf geld kunt verdienen met web 3? Lees dan mijn [artikelen over crypto en NFTs](https://demodernenomaden.nl/category/web3/).
+Hierover leren of weten hoe je zelf geld kunt verdienen met web 3? Lees dan mijn [artikelen over crypto en NFTs](/blog/web3/).

@@ -1,6 +1,6 @@
 ---
 title: "Webteksten schrijven – Schrijven voor het internet als een pro"
-description: ""
+description: "Bezig met het schrijven van webteksten? Dat is niet zomaar iets. Het internet is als een volle zandbak (met meer dan 1,7 miljard websites) waarin je…"
 date: 2019-10-05
 updated: 2022-02-20
 category: "ondernemen"
@@ -12,7 +12,7 @@ featuredImage: "/images/migrated/webteksten-schrijven.webp"
 
 Bezig met het schrijven van webteksten? Dat is niet zomaar iets. Het internet is als een volle zandbak (met meer dan 1,7 miljard websites) waarin je probeert op te vallen. Goede webteksten zijn daar het middel voor. Wetende dat maar liefs 55% van de mensen een website al binnen 15 seconden weer verlaat kun je eigenlijk niet om de essentie van webteksten heen. Een goede webtekst moet de aandacht namelijk al binnen een paar seconde hebben gepakt als je wilt dat de website bezoeker de tekst uitleest. Daarom vind je in dit artikel tips voor het schrijven van webteksten.
 
-**[Het schrijven van webteksten liever uitbesteden? Op Fiverr vind je tal van professionals die dit snel voor jou kunnen doen. >>](https://demodernenomaden.nl/go/fiverr-websteksten-schrijven)**
+**[Het schrijven van webteksten liever uitbesteden? Op Fiverr vind je tal van professionals die dit snel voor jou kunnen doen. >>](/go/fiverr-websteksten-schrijven)**
 
 ## 1\. Ken je doelgroep
 
@@ -76,13 +76,13 @@ Wat wil je dat de lezer na het lezen van de tekst gaat doen? Zorg dat je daarnaa
 
 ## 9\. Pro tip: verkoopteksten schrijven
 
-Verkoopteksten zijn weer net wat anders dan gewone webteksten. Ze hebben een andere opbouw. Vaak begin je dan met het probleem wat je gaat oplossen voor de klant. Dat is een proces van behoefte creëren. Dat versterk je met consequenties en daarna verkoop je pas je product. Voor het onderdeel webteksten schrijven gaat dat net wat ver, maar wanneer je online wat verkoopt is het wel essentieel. Daarom verwijs ik je graag door naar mijn [artikel over het schrijven van verkoopteksten](https://demodernenomaden.nl/onlinemarketing/verkooptekst-schrijven-voorbeeld/).
+Verkoopteksten zijn weer net wat anders dan gewone webteksten. Ze hebben een andere opbouw. Vaak begin je dan met het probleem wat je gaat oplossen voor de klant. Dat is een proces van behoefte creëren. Dat versterk je met consequenties en daarna verkoop je pas je product. Voor het onderdeel webteksten schrijven gaat dat net wat ver, maar wanneer je online wat verkoopt is het wel essentieel. Daarom verwijs ik je graag door naar mijn [artikel over het schrijven van verkoopteksten](/blog/ondernemen/verkooptekst-schrijven-voorbeeld/).
 
 ## Conclusie webteksten schrijven
 
 Webteksten schrijven wordt soms gezien als een vak apart maar is zeker iets wat iedereen zou moeten kunnen. Je moet het jezelf vooral niet te moeilijk maken. Niet te moeilijk denken. Vaak is een tekst in spreektaal juist exact datgene dat werkt. Alle succes en veel schrijfplezier!
 
-[**Wil je het schrijven van webteksten liever uitbesteden? Dan vind je hier een goed betaalbare optie. >>**](https://demodernenomaden.nl/go/fiverr-websteksten-schrijven)
+[**Wil je het schrijven van webteksten liever uitbesteden? Dan vind je hier een goed betaalbare optie. >>**](/go/fiverr-websteksten-schrijven)
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -90,6 +90,6 @@ Webteksten schrijven wordt soms gezien als een vak apart maar is zeker iets wat 
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

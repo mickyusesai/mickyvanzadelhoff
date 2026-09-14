@@ -1,6 +1,6 @@
 ---
 title: "Slapen in een tent in de winter in de kou – 8 tips om het warm te krijgen"
-description: ""
+description: "Met koud weer in een tent slapen is niet voor iedereen weggelegd. Het brengt hoe dan ook een bepaald level van discomfort met zich mee. Zeker wanneer…"
 date: 2019-02-02
 updated: 2022-01-08
 category: "tips"

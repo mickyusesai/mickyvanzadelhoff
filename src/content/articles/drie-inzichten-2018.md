@@ -1,6 +1,6 @@
 ---
 title: "Mijn drie inzichten uit 2018 die ik graag met je deel"
-description: ""
+description: "Het afgelopen jaar was een prachtige rollercoaster voor me, maar ik kan je wel vertellen dat ik op het moment erg geniet van die rit. Het heeft me…"
 date: 2018-12-24
 updated: 2018-12-24
 category: "tips"

@@ -1,6 +1,6 @@
 ---
 title: "Verkopen op Bol.com – Zo ga je aan de slag van import tot verkoop"
-description: ""
+description: "In dit artikel ga ik in op verschillende fases in dat proces. Eerst zal ik bespreken hoe je weet wat voor producten goed verkopen op Bol.com…"
 date: 2019-10-14
 updated: 2022-12-19
 category: "ondernemen"
@@ -16,7 +16,7 @@ In dit artikel ga ik in op verschillende fases in dat proces. Eerst zal ik bespr
 
 Ook geef ik je tips voor **als je al een eigen webshop hebt** met producten en deze eenvoudig op Bol.com wilt zetten.
 
-**[Wil je helemaal all-in gaan en alles te weten komen over verkopen op Bol.com? Dan vind je in dit GRATIS e-book de vijf stappen om te doorlopen. >>](https://demodernenomaden.nl/go/bol-com-verkopen-e-book)**
+**[Wil je helemaal all-in gaan en alles te weten komen over verkopen op Bol.com? Dan vind je in dit GRATIS e-book de vijf stappen om te doorlopen. >>](/go/bol-com-verkopen-e-book)**
 
 ## Over Bol.com
 
@@ -38,9 +38,9 @@ Een KVK nummer kan iedereen krijgen, maar een goed product vinden waarvan je wee
 
 Maar daarover straks meer…
 
-Om te starten zal je eerst een [verkoopaccount](https://demodernenomaden.nl/go/partner-bol) aan moeten maken bij Bol.com.
+Om te starten zal je eerst een [verkoopaccount](/go/partner-bol) aan moeten maken bij Bol.com.
 
-> _Het grote verschil met [een eigen webshop](https://demodernenomaden.nl/online-geld-verdienen/eigen-webshop-beginnen/), is dat je bij Bol.com niet zelf de klanten hoeft te vinden voor jouw product. Jouw product wordt opgenomen in een grote database waarbij je moet kunnen tonen dat je concurrerend bent of onderscheidend. Bezoekers zijn er al genoeg, je moet dus alleen kunnen laten zien waarom jouw product beter of goedkoper is dan die van jouw concurrenten. Want dat is een ander verschil met een eigen webshop, bij Bol.com worden de producten van de concurrent naast die van jou getoond._
+> _Het grote verschil met [een eigen webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/), is dat je bij Bol.com niet zelf de klanten hoeft te vinden voor jouw product. Jouw product wordt opgenomen in een grote database waarbij je moet kunnen tonen dat je concurrerend bent of onderscheidend. Bezoekers zijn er al genoeg, je moet dus alleen kunnen laten zien waarom jouw product beter of goedkoper is dan die van jouw concurrenten. Want dat is een ander verschil met een eigen webshop, bij Bol.com worden de producten van de concurrent naast die van jou getoond._
 
 **Voordelen om te verkopen via Bol.com** zijn er genoeg! Zo heb je direct een bereik van maarliefs 13 miljoen klanten, hoef je alleen te betalen als je daadwerkelijk producten verkoopt, heb je geen opstartkosten en kun je altijd terugvallen op de ondersteuning en hulp van Bol.com.
 
@@ -64,9 +64,9 @@ Je dient over een klantenservice te beschikken waar klanten binnen 24 uur antwoo
 
 **Wanneer je aan deze voorwaarden voldoet kun je volwaardig aan de slag. Dan is het tijd om producten te gaan vinden om te verkopen.**
 
-[![E-book verkopen op Bol.com stappenplan](/images/migrated/e-book-verkopen-op-bol-com-stappenplan.webp)](https://demodernenomaden.nl/go/bol-com-verkopen-e-book)
+[![E-book verkopen op Bol.com stappenplan](/images/migrated/e-book-verkopen-op-bol-com-stappenplan.webp)](/go/bol-com-verkopen-e-book)
 
-[Wil je meer begeleiding bij je hoe je begint te verkopen op Bol.com? Download dan dit gratis e-book en je wordt stap voor stap meegenomen. >>](https://demodernenomaden.nl/go/bol-com-verkopen-e-book)
+[Wil je meer begeleiding bij je hoe je begint te verkopen op Bol.com? Download dan dit gratis e-book en je wordt stap voor stap meegenomen. >>](/go/bol-com-verkopen-e-book)
 
 ## Producten vinden om te verkopen op Bol.com
 
@@ -74,7 +74,7 @@ Je dient over een klantenservice te beschikken waar klanten binnen 24 uur antwoo
 
 Dit om het risico bij de verkoop straks te minimaliseren en een blamage te voorkomen. Je wilt immers voorkomen dat je een product aanbiedt waar geen vraag naar is.
 
-Zelf heb ik daar wel eens een foutje ingemaakt… [Lees dit artikel](https://demodernenomaden.nl/tips/ibiza-lounger/)
+Zelf heb ik daar wel eens een foutje ingemaakt… [Lees dit artikel](/blog/tips/ibiza-lounger/)
 
 Goed marktonderzoek doen bij Bol.com kan als volgt. Probeer het volgens **de winkelwagen methode**.
 
@@ -128,7 +128,7 @@ Dat is handig, want zo kun jij jouw versie van het product **onderscheidend make
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
 
@@ -156,7 +156,7 @@ Zoek naar een leverancier die aan jouw voorwaarden voldoet. Niet alleen op basis
 
 ### Webshop koppelen met Bol.com
 
-**Wanneer je al een webshop hebt** en deze wilt koppelen aan Bol.com kan het goed zijn om daar [een expert voor in te schakelen](https://demodernenomaden.nl/go/fiverr-bol-expert). Dit zijn dingen die maar beter gelijk goed kunnen gaan.
+**Wanneer je al een webshop hebt** en deze wilt koppelen aan Bol.com kan het goed zijn om daar [een expert voor in te schakelen](/go/fiverr-bol-expert). Dit zijn dingen die maar beter gelijk goed kunnen gaan.
 
 Zo zijn er manieren om live informatie over jou catalogus en voorraad te koppelen aan Bol.com. Een Bol Expert kan je daarmee helpen.
 
@@ -200,15 +200,15 @@ De kans dat je **grote fouten gaat maken** als je begint met een eigen e-commerc
 
 **Denk aan een foute levering, een kapot product, veel retourzendingen, niet zichtbaar zijn in de Bol.com zoekresultaten, geen conversiegerichte product beschrijving of een tegenvallend aantal verkopen…**
 
-Dat kan frustrerend zijn voor velen en is waarschijnlijk ook de reden dat niet iedere Nederlander al een succesvolle Bol.com business heeft opgezet. Het mag dan een relatief eenvoudig [online verdienmodel](https://demodernenomaden.nl/online-geld-verdienen/online-geld-verdienen/) zijn, het vereist wel dat je de mentaliteit hebt van een ondernemer.
+Dat kan frustrerend zijn voor velen en is waarschijnlijk ook de reden dat niet iedere Nederlander al een succesvolle Bol.com business heeft opgezet. Het mag dan een relatief eenvoudig [online verdienmodel](/blog/online-geld-verdienen/online-geld-verdienen/) zijn, het vereist wel dat je de mentaliteit hebt van een ondernemer.
 
-Kan je niet wachten om **aan de slag te gaan met jouw eigen Bol.com business**, maar wil je tegelijk ervaren ondersteuning om de duurste fouten te voorkomen? Dan vind je in [**dit cursus en coaching pakket**](https://demodernenomaden.nl/go/bol-com-cursus-en-coaching) alles wat je nodig hebt om succesvol geld te verdienen.
+Kan je niet wachten om **aan de slag te gaan met jouw eigen Bol.com business**, maar wil je tegelijk ervaren ondersteuning om de duurste fouten te voorkomen? Dan vind je in [**dit cursus en coaching pakket**](/go/bol-com-cursus-en-coaching) alles wat je nodig hebt om succesvol geld te verdienen.
 
-[![Cursus coaching bol.com](/images/migrated/cursus-coaching-bol-com.webp)](https://demodernenomaden.nl/go/bol-com-cursus-en-coaching)
+[![Cursus coaching bol.com](/images/migrated/cursus-coaching-bol-com.webp)](/go/bol-com-cursus-en-coaching)
 
-[Bekijk Bol.com cursus](https://demodernenomaden.nl/go/bol-com-cursus-en-coaching)
+[Bekijk Bol.com cursus](/go/bol-com-cursus-en-coaching)
 
-Altijd handig als iemand met de juiste ervaring jou mee kan nemen! Mocht je een cursus direct wat te veel van het goede vinden, dan kun je ook gratis eerst [zijn stappenplan downloaden](https://demodernenomaden.nl/go/bol-com-verkopen-e-book) voor het beginnen van jouw Bol.com business!
+Altijd handig als iemand met de juiste ervaring jou mee kan nemen! Mocht je een cursus direct wat te veel van het goede vinden, dan kun je ook gratis eerst [zijn stappenplan downloaden](/go/bol-com-verkopen-e-book) voor het beginnen van jouw Bol.com business!
 
 ## Affiliate marketing en Bol.com
 
@@ -218,17 +218,17 @@ Dit houd in dat ik via mijn website **alle producten op Bol.com kan promoten en 
 
 **Wanneer jouw product op Bol.com verschijnt kan een blogger deze dus gaan promoten**. Handig om aan het begin jouw verkoop wat op te schroeven!
 
-[Affiliate marketing](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) is al direct mogelijk, het enige wat je hoeft te doen als je dit als tool wilt gebruiken, is zelf bloggers te contacten met de vraag of jouw product interessant is om in hun blog te vermelden in ruil voor **commissies via Bol.com**.
+[Affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) is al direct mogelijk, het enige wat je hoeft te doen als je dit als tool wilt gebruiken, is zelf bloggers te contacten met de vraag of jouw product interessant is om in hun blog te vermelden in ruil voor **commissies via Bol.com**.
 
 ## Conclusie verkopen op Bol.com
 
 Mijn conclusie uit dit artikel is dat iedereen zou kunnen verkopen op Bol.com. Althans iedereen, eigenlijk alleen mensen die begrijpen wat ondernemen is en aan de slag willen.
 
-Het is een interessante manier om [een passief inkomen op te bouwen](https://demodernenomaden.nl/online-geld-verdienen/passief-inkomen-genereren/) wanneer alles loopt en het is zeker voor de starter een **laagdrempelige manier** om te verkopen. Dit omdat je de marketing aan Bol.com uitbesteed en daar zelf dus niet actief mee bezig hoeft te zijn.
+Het is een interessante manier om [een passief inkomen op te bouwen](/blog/online-geld-verdienen/passief-inkomen-genereren/) wanneer alles loopt en het is zeker voor de starter een **laagdrempelige manier** om te verkopen. Dit omdat je de marketing aan Bol.com uitbesteed en daar zelf dus niet actief mee bezig hoeft te zijn.
 
 Wel moet ik de kanttekening maken dat dit artikel een korte samenvatting is van de stappen die je doorloopt. Je zou er in feite een heel boek over kunnen schrijven. Onderweg zijn er veel obstakels die je moet weten te overwinnen.
 
-Daarom raad ik eenieder die wil gaan verkopen op Bol.com graag aan om zich erin te verdiepen. **Van import tot verkoop**. Dat kun je doen met [dit gratis e-book](https://demodernenomaden.nl/go/bol-com-verkopen-e-book) of met [deze uitgebreide cursus](https://demodernenomaden.nl/go/bol-com-cursus-en-coaching).
+Daarom raad ik eenieder die wil gaan verkopen op Bol.com graag aan om zich erin te verdiepen. **Van import tot verkoop**. Dat kun je doen met [dit gratis e-book](/go/bol-com-verkopen-e-book) of met [deze uitgebreide cursus](/go/bol-com-cursus-en-coaching).
 
 **Kijk altijd of je klein kunt beginnen en breid dan verder uit, zo loop je het minste risico! Succes.**
 
@@ -238,6 +238,6 @@ Daarom raad ik eenieder die wil gaan verkopen op Bol.com graag aan om zich erin 
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

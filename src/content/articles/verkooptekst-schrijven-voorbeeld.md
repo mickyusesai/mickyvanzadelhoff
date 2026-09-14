@@ -1,6 +1,6 @@
 ---
 title: "Voorbeeld verkooptekst + Hoe schrijf je er zelf een?"
-description: ""
+description: "Hoe schrijf je nou een goede verkooptekst? Om je dat gemakkelijk te maken vind je in dit artikel voorbeelden van succesvolle verkoopteksten die ik heb…"
 date: 2018-07-23
 updated: 2022-01-27
 category: "ondernemen"
@@ -14,11 +14,11 @@ Hoe schrijf je nou een goede verkooptekst? Om je dat gemakkelijk te maken vind j
 
 ## **1\. Hoe je begint met een verkooptekst schrijven**
 
-Het is essentieel om te weten wat je gaat verkopen en aan wie. Wanneer je doelgroep wat jonger is en informeel, doe je er goed aan dit ook als een schrijfstijl aan te nemen. Of het nu gaat om een tekst op een webpagina of om bijvoorbeeld een [acquisitiemail](https://demodernenomaden.nl/onlinemarketing/acquisitie-mail-voorbeeld/), dit is altijd de eerste stap. Op die manier zal de doelgroep zich meer verbonden voelen met jou als verkoper. Sta er dus zeker even bij stil voor wie jouw product bedoelt is en bedenk of je deze met ‘jij’ of ‘u’ aanspreekt en of er in de tekst ruimte is voor bijvoorbeeld humor.
+Het is essentieel om te weten wat je gaat verkopen en aan wie. Wanneer je doelgroep wat jonger is en informeel, doe je er goed aan dit ook als een schrijfstijl aan te nemen. Of het nu gaat om een tekst op een webpagina of om bijvoorbeeld een [acquisitiemail](/blog/ondernemen/acquisitie-mail-voorbeeld1/), dit is altijd de eerste stap. Op die manier zal de doelgroep zich meer verbonden voelen met jou als verkoper. Sta er dus zeker even bij stil voor wie jouw product bedoelt is en bedenk of je deze met ‘jij’ of ‘u’ aanspreekt en of er in de tekst ruimte is voor bijvoorbeeld humor.
 
 ## **2\. Ga op zoek naar welke oplossing je verkoopt**
 
-Een goede verkooptekst verteld niet alleen over het product of de dienst die je levert. Sterker nog, dit is maar een klein onderdeel van je verkooptekst. Het grootste onderdeel dat je mee zou moeten nemen bij het schrijven van een verkooptekst is het probleem dat jouw product of dienst oplost. Het is dus belangrijk om dit te achterhalen. Door het probleem te noemen dat je aanpakt geef je een ‘reden’ om jouw product of dienst af te nemen. Bezoekers die de verkooptekst lezen voelen zich daardoor veel meer aangesproken het probleem aan te pakken. Met dit in het achterhoofd kun je zien hoe dit in de onderstaande voorbeeldtekst is aangepakt. Specifiek in een markt voor [trainingen](https://demodernenomaden.nl/jouw-mogelijkheden/) of kennis is dit relevant.
+Een goede verkooptekst verteld niet alleen over het product of de dienst die je levert. Sterker nog, dit is maar een klein onderdeel van je verkooptekst. Het grootste onderdeel dat je mee zou moeten nemen bij het schrijven van een verkooptekst is het probleem dat jouw product of dienst oplost. Het is dus belangrijk om dit te achterhalen. Door het probleem te noemen dat je aanpakt geef je een ‘reden’ om jouw product of dienst af te nemen. Bezoekers die de verkooptekst lezen voelen zich daardoor veel meer aangesproken het probleem aan te pakken. Met dit in het achterhoofd kun je zien hoe dit in de onderstaande voorbeeldtekst is aangepakt. Specifiek in een markt voor trainingen of kennis is dit relevant.
 
 > **Voorbeeld verkooptekst 1: Slotenmakers training  
 > **“In 95% van de gevallen worden sloten en deuren op een verkeerde manier geopend. Bijvoorbeeld voor klanten van een bouwbedrijf, woningstichting, politie, justitie en een slotenmaker. Dit is zonde want wanneer u een slot op een verkeerde wijze opent ontstaat er veel schade bij de klant (en die mag u vaak betalen). Soms kan de hele deur zelfs direct naar het oud vuil. Het gebruiken van amateuristische technieken kost daarbij ook nog veel tijd en het maakt het openen van een deur een dure bezigheid. Klanten krijgen hierdoor minder vertrouwen in het bedrijf en zullen minder snel terug komen… Zonde!
@@ -52,7 +52,7 @@ Dan is het tijd om helemaal aan het einde van de tekst de lezer uit te nodigen o
 
 Al met al zul je zien dat een goede verkooptekst het aantal verkopen gigantisch doet stijgen. Het is dan ook zeker de moeite waard om daar goed voor te gaan zitten en de verkooptekst te testen op hoeveel deze verkoopt.
 
-Wil je zelf zeker zijn van goede verkoopteksten op bijvoorbeeld je website maar schrijf je deze liever niet zelf? Zoals je hebt gezien schrijf ik graag voor andere bedrijven om zo meer verkopen te realiseren. Thats my passion! Wanneer je het wilt uitbesteden, schroom dan niet mij te [contacten](https://demodernenomaden.nl/contact/) per mail (info@demodernenomaden.nl) of telefoon (+31 6 81081589, Whatsapp).
+Wil je zelf zeker zijn van goede verkoopteksten op bijvoorbeeld je website maar schrijf je deze liever niet zelf? Zoals je hebt gezien schrijf ik graag voor andere bedrijven om zo meer verkopen te realiseren. Thats my passion! Wanneer je het wilt uitbesteden, schroom dan niet mij te [contacten](/contact/) per mail (mickyvz@live.nl) of telefoon (+31 6 81081589, Whatsapp).
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -60,6 +60,6 @@ Wil je zelf zeker zijn van goede verkoopteksten op bijvoorbeeld je website maar 
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

@@ -1,6 +1,6 @@
 ---
 title: "Eigen bedrijf starten – Zo begin je als ondernemer"
-description: ""
+description: "Een eigen bedrijf starten? Dat is niet zomaar iets en daar komt best wel wat bij kijken. Oké een inschrijving bij de kamer van koophandel is één ding…"
 date: 2019-09-27
 updated: 2023-01-03
 category: "ondernemen"
@@ -101,6 +101,6 @@ En om het nog even samen te vatten, de stappen waar je rekening mee moet houden 
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
