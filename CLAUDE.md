@@ -1,5 +1,9 @@
 # mickyvanzadelhoff.com — Project Brief for Claude Code
 
+> **Start here every session:** read `docs/MIGRATION-PLAN.md` (phases, status, decisions) and
+> `docs/content-inventory.md` (per-article action list). Update the plan's status and decision log
+> before ending a session.
+
 ## Who is Micky van Zadelhoff
 Personal brand site for **Micky van Zadelhoff** (note: Micky, not Mick).
 Micky is a digital nomad, entrepreneur, author, AI trainer, and Erasmus+ coordinator.
