@@ -5,11 +5,18 @@ import WorkshopCard from '../components/WorkshopCard.astro';
 import PressStrip from '../components/PressStrip.astro';
 import Blobs from '../components/Blobs.astro';
 import { getCollection } from 'astro:content';
+import { SITE } from '../config/site';
 import { getListedArticles } from '../lib/articles';
 
 const workshops = (await getCollection('workshops', ({ data }) => !data.draft)).sort((a, b) => a.data.order - b.data.order);
 const recent = (await getListedArticles()).slice(0, 6);
 const headline = ['Hoi,', 'ik', 'ben', 'Micky.', 'Ik', 'help', 'bedrijven'];
+const stats = [
+  ['42', 'landen gewerkt en gereisd'],
+  ['1000+', 'mensen geholpen richting een vrij leven'],
+  ['170+', 'artikelen sinds 2017'],
+  ['50.000', 'keer gelezen per maand, op het hoogtepunt'],
+];
 ---
 <Layout
   title="Micky van Zadelhoff – AI-workshops voor bedrijven"
@@ -17,13 +24,13 @@ const headline = ['Hoi,', 'ik', 'ben', 'Micky.', 'Ik', 'help', 'bedrijven'];
 >
   <section class="relative overflow-hidden">
     <Blobs />
-    <div class="wrap grid items-center gap-12 py-14 md:grid-cols-[6fr_5fr] md:py-20">
+    <div class="wrap relative z-10 grid items-center gap-12 py-14 md:grid-cols-[6fr_5fr] md:py-20">
       <div class="grid gap-6">
         <p class="eyebrow animate-rise">AI-trainer · ondernemer · schrijver</p>
-        <h1 class="text-[40px] font-extrabold leading-[1.02] tracking-tight sm:text-[54px] lg:text-[64px]">
-          {headline.map((w, i) => <span class="hero-word" style={`--i:${i}`}>{w} </span>)}
-          <span class="hero-word" style="--i:7"><span class="highlight">écht</span> </span>
-          {['aan', 'de', 'slag', 'met', 'AI.'].map((w, i) => <span class="hero-word" style={`--i:${i + 8}`}>{w} </span>)}
+        <h1 class="text-[40px] font-bold leading-[1.02] tracking-[-0.03em] sm:text-[54px] lg:text-[66px]">
+          {headline.map((w, i) => <span class="hero-word" style={`--i:${i}`}>{w}</span>)}
+          <span class="hero-word" style="--i:7"><span class="highlight">écht</span></span>
+          {['aan', 'de', 'slag', 'met', 'AI.'].map((w, i) => <span class="hero-word" style={`--i:${i + 8}`}>{w}</span>)}
         </h1>
         <p class="max-w-prose text-lg leading-relaxed text-muted animate-rise [animation-delay:.6s] sm:text-xl">
           Geen abstracte praatjes, maar workshops waarin jouw team zelf ontdekt en bouwt. Van een introductie in drie uur tot een week waarin we samen een automatisering neerzetten die direct tijd bespaart.
@@ -34,6 +41,7 @@ const headline = ['Hoi,', 'ik', 'ben', 'Micky.', 'Ik', 'help', 'bedrijven'];
         </div>
       </div>
       <div class="relative mx-auto w-full max-w-[460px] animate-rise [animation-delay:.3s]">
+        <div class="beam" aria-hidden="true"></div>
         <div class="absolute inset-0 translate-x-4 translate-y-4 rounded-[46%_54%_40%_60%/50%_40%_60%_50%] border-2 border-ink bg-violet"></div>
         <img src="/images/micky/mick-van-zadelhoff-de-moderne-nomaden.webp" alt="Micky van Zadelhoff" width="1200" height="956"
              class="relative aspect-square w-full rounded-[46%_54%_40%_60%/50%_40%_60%_50%] border-2 border-ink object-cover" />
@@ -45,14 +53,42 @@ const headline = ['Hoi,', 'ik', 'ben', 'Micky.', 'Ik', 'help', 'bedrijven'];
 
   <PressStrip />
 
-  <section class="wrap py-16 sm:py-24">
-    <div class="reveal grid gap-3">
-      <p class="eyebrow">In-company</p>
-      <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">Twee workshops, één doel: dat jouw team AI zelf kan inzetten.</h2>
-      <p class="max-w-prose text-muted">Eerst zien wat er kan. Dan bouwen wat jullie nodig hebben.</p>
+  <section class="band-dark relative overflow-hidden">
+    <div aria-hidden="true" class="pointer-events-none absolute inset-0 z-0 overflow-hidden">
+      <div class="orb right-[6%] top-10 h-20 w-20 animate-drift [--orb-a:#D4F75B] [--orb-b:#8FBF1C] [--orb-c:#33470C] sm:h-28 sm:w-28"></div>
+      <div class="orb left-[3%] bottom-16 h-12 w-12 animate-drift-slow [--orb-a:#C4B5FD] [--orb-b:#6D28D9] [--orb-c:#2E1065] sm:h-16 sm:w-16"></div>
+      <div class="absolute -right-32 -top-32 h-96 w-96 rounded-full bg-violet/30 blur-3xl"></div>
     </div>
-    <div class="mt-10 grid gap-8 md:grid-cols-2">
-      {workshops.map((w, i) => <WorkshopCard workshop={w} variant={i === 1 ? 'violet' : 'light'} delay={i + 1} />)}
+    <div class="wrap relative z-10 py-16 sm:py-24">
+      <div class="reveal grid gap-3">
+        <p class="eyebrow">In-company</p>
+        <h2 class="max-w-3xl text-3xl font-bold tracking-tight sm:text-[44px] sm:leading-[1.08]">Twee workshops, één doel: dat jouw team AI <span class="text-lime">zelf</span> kan inzetten.</h2>
+        <p class="max-w-prose text-white/70">Eerst zien wat er kan. Dan bouwen wat jullie nodig hebben.</p>
+      </div>
+      <div class="mt-10 grid gap-8 md:grid-cols-2">
+        {workshops.map((w, i) => <WorkshopCard workshop={w} variant={i === 1 ? 'violet' : 'light'} delay={i + 1} />)}
+      </div>
+      <dl class="reveal mt-14 grid gap-6 border-t border-white/15 pt-8 sm:grid-cols-4" data-delay="2">
+        {stats.map(([n, label]) => (
+          <div class="grid gap-1">
+            <dt class="font-display text-3xl font-bold text-lime sm:text-4xl">{n}</dt>
+            <dd class="text-sm text-white/70">{label}</dd>
+          </div>
+        ))}
+      </dl>
+    </div>
+  </section>
+
+  <section class="wrap py-16 sm:py-24">
+    <div class="reveal grid items-center gap-10 md:grid-cols-[2fr_3fr]">
+      <img src="/images/micky/mick.webp" alt="Micky van Zadelhoff in een fauteuil, met een banaan als telefoon" width="1200" height="1200" loading="lazy"
+           class="sticker w-full max-w-sm justify-self-center object-cover md:justify-self-start" />
+      <div class="grid gap-4">
+        <p class="eyebrow">Over Micky</p>
+        <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">Digital nomad, AI-trainer en luchtkasteelarchitect.</h2>
+        <p class="max-w-prose text-lg text-muted">Ik fietste van Nederland naar Turkije, bouwde De Moderne Nomaden uit tot een blog met tienduizenden lezers per maand en verloor een zomer aan 200 opblaasstoelen op Ibiza. Sinds een paar jaar help ik bedrijven met AI, en bouw ik er zelf mee: <a href="https://easyreimburse.ai/" rel="noopener" class="font-bold text-violet underline decoration-lime decoration-[3px] underline-offset-2">EasyReimburse</a> brengt reiskostendeclaraties voor Erasmus+ projecten van weken naar minuten.</p>
+        <a href="/over/" class="btn btn-ghost w-fit">Lees mijn verhaal</a>
+      </div>
     </div>
   </section>
 
@@ -70,19 +106,6 @@ const headline = ['Hoi,', 'ik', 'ben', 'Micky.', 'Ik', 'help', 'bedrijven'];
   </section>
 
   <section class="wrap py-16 sm:py-24">
-    <div class="reveal grid items-center gap-10 md:grid-cols-[2fr_3fr]">
-      <img src="/images/micky/mick.webp" alt="Micky van Zadelhoff in een fauteuil, met een banaan als telefoon" width="1200" height="1200" loading="lazy"
-           class="sticker w-full max-w-sm justify-self-center object-cover md:justify-self-start" />
-      <div class="grid gap-4">
-        <p class="eyebrow">Over Micky</p>
-        <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">Digital nomad, AI-trainer en luchtkasteelarchitect.</h2>
-        <p class="max-w-prose text-lg text-muted">Ik fietste van Nederland naar Turkije, bouwde De Moderne Nomaden uit tot een blog met tienduizenden lezers per maand en verloor een zomer aan 200 opblaasstoelen op Ibiza. Sinds een paar jaar help ik bedrijven met AI, en bouw ik er zelf mee.</p>
-        <a href="/over/" class="btn btn-ghost w-fit">Lees mijn verhaal</a>
-      </div>
-    </div>
-  </section>
-
-  <section class="wrap pb-8">
     <div class="reveal flex flex-wrap items-end justify-between gap-4">
       <div class="grid gap-2">
         <p class="eyebrow">Blog</p>
@@ -92,6 +115,21 @@ const headline = ['Hoi,', 'ik', 'ben', 'Micky.', 'Ik', 'help', 'bedrijven'];
     </div>
     <div class="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
       {recent.map((a, i) => <ArticleCard article={a} delay={(i % 3) + 1} />)}
+    </div>
+  </section>
+
+  <section class="wrap pb-4">
+    <div class="reveal sticker relative overflow-hidden bg-lime p-8 sm:p-12">
+      <div aria-hidden="true" class="absolute inset-y-0 right-0 hidden w-[38%] bg-ink [clip-path:polygon(28%_0,100%_0,100%_100%,0_100%)] md:block"></div>
+      <div aria-hidden="true" class="orb right-[9%] top-1/2 hidden h-20 w-20 -translate-y-1/2 animate-drift [--orb-a:#D4F75B] [--orb-b:#8FBF1C] [--orb-c:#33470C] md:block"></div>
+      <div class="relative z-10 grid max-w-2xl gap-4">
+        <h2 class="text-3xl font-bold tracking-tight sm:text-[40px] sm:leading-[1.08]">Klaar om je team écht met AI te laten werken?</h2>
+        <p class="max-w-prose text-ink/80">Een appje is genoeg. In een kort gesprek kijken we wat voor jouw team het meeste oplevert.</p>
+        <div class="flex flex-wrap gap-3">
+          <a href={SITE.whatsappUrl} rel="noopener" class="btn btn-primary">Plan een gesprek</a>
+          <a href={`mailto:${SITE.email}`} class="btn btn-ghost">Mail {SITE.email}</a>
+        </div>
+      </div>
     </div>
   </section>
 </Layout>

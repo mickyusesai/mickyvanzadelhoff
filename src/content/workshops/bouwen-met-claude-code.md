@@ -50,7 +50,9 @@ Documentatie, onderhoud en een plan voor de volgende automatisering. Vanaf vanda
 
 ## Wat er bijvoorbeeld uit kan komen
 
-[EasyReimburse](https://easyreimburse.ai/) is een web-app die ik zelf op deze manier met AI bouwde. Het laat zien wat er mogelijk is als je AI niet alleen gebruikt om te schrijven, maar om iets neer te zetten dat een hele branche uren werk bespaart.
+[EasyReimburse](https://easyreimburse.ai/) is een web-app die ik zelf op deze manier met AI bouwde. Erasmus+ coördinatoren waren weken kwijt aan reiskostendeclaraties: tickets verzamelen, bedragen overtypen, wisselkoersen opzoeken, alles controleren. Nu uploaden deelnemers hun tickets via een link, leest AI de routes, data en bedragen uit, controleert een tweede AI het dossier en rolt er met één klik een auditrapport voor het Nationaal Agentschap uit. Van weken naar minuten, zo'n 90% minder tijd. Gebouwd omdat ik het zelf nodig had, en inmiddels gebruikt door organisaties in heel Europa.
+
+Wat EasyReimburse voor Erasmus+ doet, bouwen we in deze week voor jullie proces.
 
 ## Praktisch
 

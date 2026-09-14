@@ -11,7 +11,7 @@ const { Content } = await render(page);
 <Layout title={page.data.title} description={page.data.description ?? ''} image="/images/micky/mick-van-zadelhoff-de-moderne-nomaden.webp">
   <section class="relative overflow-hidden">
     <Blobs />
-    <div class="wrap grid items-center gap-10 py-14 md:grid-cols-[3fr_2fr] sm:py-20">
+    <div class="wrap relative z-10 grid items-center gap-10 py-14 md:grid-cols-[3fr_2fr] sm:py-20">
       <div class="grid gap-5">
         <p class="eyebrow animate-rise">Over Micky</p>
         <h1 class="text-[40px] font-extrabold leading-[1.02] tracking-tight animate-rise [animation-delay:.1s] sm:text-[58px]">Micky van Zadelhoff</h1>
