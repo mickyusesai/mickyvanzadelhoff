@@ -65,7 +65,7 @@ Daarmee ben je in staat om in hoge kwaliteit jouw online seminar of marketingboo
 
 Laten we kijken naar de **beste webinar software aanbieders voor 2023**.
 
-## 1\. WebinarGeek
+## 1. WebinarGeek
 
 ### Nederlandse webinar software van wereldklasse ([GRATIS uitproberen](/go/webinargeek-trial))
 
@@ -114,17 +114,17 @@ Uniek aan WebinarGeek is de **hybride webinar mogelijkheid** waarbij je een comb
 
 ## Prijzen
 
-**[\> Basic](/go/webinargeek-prijzen)  
+**[› Basic](/go/webinargeek-prijzen)  
 **Met maandelijks €39,- is dit een van de goedkoopste en meest complete webinar software pakketten die je gaat vinden. Hiervoor kun je gebruikmaken van alle benodigde webinar functies. De enige beperking hierbij is dat de webinars maximaal 2 uur kunnen duren met 50 kijkers en 1 presentator.
 
-**[\> Premium](/go/webinargeek-prijzen)**  
+**[› Premium](/go/webinargeek-prijzen)**  
 Voor dit premiumpakket betaal je slechts een tientje per maand meer en kom je uit op €49,-. Hiervoor krijg je alle basis functies plus de mogelijkheid voor automated webinars en tal van marketing integraties. Met het premium pakket kun je webinars geven van maximaal 8 uur met 125 kijkers en 10 presentatoren.
 
 **Bij alle pakketten van WebinarGeek zit een [14 dagen GRATIS trial](/go/webinargeek-trial). De trial is zonder verplichtingen en verloopt automatisch na 14 dagen. Organiseer in die tijd net zoveel webinars als je wilt.**
 
 [Probeer WebinarGeek GRATIS](/go/webinargeek-trial)
 
-## 2\. WebinarKit
+## 2. WebinarKit
 
 ### Beste automated webinar software ([automated webinars](/go/webinarkit))
 
@@ -175,10 +175,10 @@ Webinarkit breidt steeds meer uit met **nieuwe functies** waarvan ik keer op kee
 
 ## Prijzen
 
-**[\> Automated webinar software](/go/webinarkit)**  
+**[› Automated webinar software](/go/webinarkit)**  
 Eenmalig $597 voor de basisfuncties voor het organiseren van een automated webinar. Hiermee kun je al direct aan de slag als marketeer voor als je een webinar gebruikt in je sales funnel.
 
-**[\> WebinarKit Live](/go/webinarkit-live)**  
+**[› WebinarKit Live](/go/webinarkit-live)**  
 $49 per maand voor jouw live webinars. Alle benodigde functies van live webinar software zijn hier inbegrepen.
 
 **Bij alle pakketten van WebinarKit zit een 14 dagen niet goed geld terug garantie inbegrepen en je kunt de software altijd 7 dagen lang voor slechts $1 uitproberen.**
@@ -187,7 +187,7 @@ $49 per maand voor jouw live webinars. Alle benodigde functies van live webinar 
 
 [Probeer WebinarKit (live)](/go/webinarkit-live)
 
-## 3\. Livestorm
+## 3. Livestorm
 
 ### Perfect voor online trainingen en meetings ([gratis basisversie](/go/get-livestorm))
 
@@ -239,7 +239,7 @@ Er zijn ook mogelijkheden om uit te breiden naar meer live attendees bij het web
 
 [Probeer Livestorm](/go/get-livestorm)
 
-## 4\. Webinarninja
+## 4. Webinarninja
 
 ### Beste webinar software voor online coaches en trainers ([14 dagen gratis trial](/go/get-webinarninja))
 
@@ -299,7 +299,7 @@ Ook WebinarNinja heeft een [gratis proefperiode van 14 dagen](/go/get-webinarnin
 
 [Probeer WebinarNinja](/go/get-webinarninja)
 
-## 5\. Easywebinar
+## 5. Easywebinar
 
 ### Gebruiksvriendelijke webinar software ([gratis 14 dagen trial](/go/get-easywebinar))
 
@@ -340,7 +340,7 @@ Via Youtube Live (welke je aan EasyWebinar kunt koppelen) kun je altijd een onbe
 
 [Probeer Easywebinar](/go/get-easywebinar)
 
-## 6\. Demio
+## 6. Demio
 
 ### Webinar software met marketing tools ([14 dagen gratis trial](/go/get-demio))
 
@@ -374,7 +374,7 @@ Demio heeft een gratis proefperiode van 14 dagen. Zo kun je gerust alle opties i
 
 [Probeer Demio](/go/get-demio)
 
-## 7\. GoToWebinar
+## 7. GoToWebinar
 
 ### Webinar software voor grote organisaties
 
@@ -414,7 +414,7 @@ Bij GoToWebinar hebben ze **vier verschillende opties**. Houd er rekening mee da
 
 [Probeer GoToWebinar](/go/gotomeeting)
 
-## 8\. LiveWebinar
+## 8. LiveWebinar
 
 ### De webinar software voor zekerheid
 
@@ -454,7 +454,7 @@ Houd er rekening mee dat je met het Pro Plan geen opslag krijgt bij LiveWebinar.
 
 [Probeer LiveWebinar](/go/livewebinar)
 
-## 9\. My Own Conference
+## 9. My Own Conference
 
 ### Goede webinar software voor kleine groepen
 
@@ -491,7 +491,7 @@ Ook kun je My Own Conference gratis gebruiken, alleen dan is de duur van het web
 
 [Probeer My Own Conference](/go/myownconference)
 
-## 10\. ClickMeeting
+## 10. ClickMeeting
 
 ### Extra geschikt voor leerdoeleinden en educatie
 
@@ -527,7 +527,7 @@ Ook kun je ClickMeeting gratis uitproberen. Bij de gratis optie heb je echter ma
 
 [Probeer ClickMeeting](/go/clickmeeting)
 
-## 11\. GetResponse
+## 11. GetResponse
 
 ### Uitstekende e-mail marketing software integraties
 
@@ -563,7 +563,7 @@ Voor wie al gebruik maakt van GetResponse voor zijn e-mail marketing is dit de i
 
 [Probeer GetResponse](/go/getresponse)
 
-## 12\. Webinarjam
+## 12. Webinarjam
 
 ### Marketing webinar software ([14 dagen trial voor $1](/go/get-webinarjam))
 
@@ -618,7 +618,7 @@ $999 per jaar ($83,25 per maand). Hiermee kun je een business draaien die zeer a
 
 [Probeer Webinarjam](/go/get-webinarjam)
 
-## 13\. Everwebinar
+## 13. Everwebinar
 
 ### Voor evergreen/automatische webinars ([14 dagen trial voor $1](/go/get-everwebinar))
 
@@ -665,11 +665,11 @@ Als we zo kijken naar de (naar mijn mening) beste webinar software, vraag je je 
 
 **Persoonlijk gaat mijn voorkeur uit naar [WebinarGeek](/go/webinargeek). Je kunt deze webinar software [hier](/go/webinargeek) gratis uitproberen.**
 
-# De voordelen van een webinar
+## De voordelen van een webinar
 
 Er zijn vele voordelen van het geven van een webinar ten opzicht van een seminar. Ik zet ze hier voor je op een rijtje.
 
-## 1\. Webinars zijn kostenefficiënt
+## 1. Webinars zijn kostenefficiënt
 
 Waar je bij een seminar waarschijnlijk een zaal zou moeten afhuren inclusief catering, kun je het bij een webinar wat simpeler houden. Met goede software, wat (betaalbare) geluidsapparatuur en de webcam van jouw laptop kom je al een heel eind.
 
@@ -686,29 +686,29 @@ De kosten voor het geven van een webinar zitten hem dus vooral in de webinar sof
 
 Dat is in geen zinnen te vergelijken met de kosten die een offline seminar met zich meebrengen.
 
-## 2\. Het vergroten van je bereik
+## 2. Het vergroten van je bereik
 
 Waar in een zaal maar een beperkt aantal mensen past, is dit online vele malen meer. Natuurlijk hebben veel webinar software aanbieders een max op het aantal deelnemers (vaak tussen de 100 en 1000), maar een webinar kun je vaak kosteloos herhalen.
 
 Zeker wanneer je een geautomatiseerd webinar laat draaien met bijvoorbeeld [WebinarKit Automated](/go/webinarkit) kun je oneindig veel mensen bereiken. Er zijn voorbeelden van mensen die **per dag zo’n 200 kijkers hebben** (op de Nederlandse markt) op hun automated webinar. Deze hebben ze slechts één keer hoeven geven en wordt daarna herhaald.
 
-## 3\. Perfect voor lead opvolging
+## 3. Perfect voor lead opvolging
 
 Wanneer je een webinar inzet als onderdeel van de [sales funnel](https://bedrijvenconsultant.nl/sales-funnel/) kan dit een groot verschil maken. Het gebeurt niet vaak dat je meer dan een uur de volledige aandacht krijgt van je potentiële klant.
 
 En precies die aandacht kan ervoor zorgen dat je veel makkelijker verkoopt aan een al bestaande doelgroep. Denk er bijvoorbeeld eens aan om een webinar te organiseren voor mensen die al zijn ingeschreven op jouw [mailinglijst](/blog/ondernemen/leads-genereren-mailinglijst/), maar nog geen klant zijn.
 
-## 4\. Ideaal voor lead generatie
+## 4. Ideaal voor lead generatie
 
 Een gratis online training of webinar organiseren kan nieuwe mensen aantrekken richting jouw bedrijf. Promoot zo’n webinar bijvoorbeeld op Facebook en krijg nieuwe e-mail adressen van deze mensen.
 
 Een webinar is de ideale kennismaking met een nieuwe doelgroep. Of eigenlijk kunnen we het ook een shortcut noemen om met die nieuwe doelgroep binnen no-time te binden.
 
-# Tips voor het organiseren van een webinar
+## Tips voor het organiseren van een webinar
 
 Tot slot wil ik graag nog enkele tips delen rondom het organiseren van een webinar. Hier zijn een aantal tips die je wellicht **handig vind om te weten**!
 
-## 1\. De duur van jouw webinar
+## 1. De duur van jouw webinar
 
 Een webinar **hoeft zeker niet kort te zijn**. Als online seminar is het juist dé tool om langer in contact te zijn met jouw doelgroep.
 
@@ -724,7 +724,7 @@ Wanneer in de introductie iemand eerst een half uur over zichzelf zit te praten 
 
 Mijn sterkste advies hierbij is om **een aantal waardevolle dingen te delen**, maar vooral niet teveel. Zorg ervoor dat deelnemers in staat zijn om aan de slag te gaan met jouw informatie, maar ‘**overload**‘ hen niet.
 
-## 2\. Gebruik jouw webinar statistiek
+## 2. Gebruik jouw webinar statistiek
 
 Na het geven van een webinar heb je bij vrijwel alle webinar software de beschikking over **statistieken**. Gebruik deze.
 
@@ -742,7 +742,7 @@ De sign up rate van jouw webinar zou ongeveer op de **35%** moeten liggen. Bij h
 
 Is jouw show up rate lager? Kijk dan eens of je in de e-mail funnel wat **urgentie** toe kunt voegen of een **extra herinnering** met waarom mensen het webinar moeten volgen.
 
-## 3\. Houd de aandacht van deelnemers vast
+## 3. Houd de aandacht van deelnemers vast
 
 Stel dat je een webinar organiseert en dat je alles op alles zet om mensen te laten deelnemen. Dat op zich is al een **flink proces**.
 
@@ -773,12 +773,6 @@ Voor live webinars:
 Voor geautomatiseerde webinars:  
 [**Probeer WebinarKit Automated**](/go/webinarkit)
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

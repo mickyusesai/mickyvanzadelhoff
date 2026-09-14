@@ -16,11 +16,11 @@ Aan de slag gaan met gewoontes waar je eigenlijk vanaf wil of jezelf nieuwe gewo
 
 Daarom wil ik het daar deze blog eens met je over hebben, over hoe ik op een dag besluit om met al die slechte gewoontes te stoppen en goede gewoontes te starten.
 
-## **Bewustwording van je gewoontes voor je ze verandert**
+## Bewustwording van je gewoontes voor je ze verandert
 
 Allereerst moet ik in kaart krijgen welke gewoontes ik heb die ik niet wil. Dit is nog best moeilijk. Ik kom er namelijk achter dat ik sommige gewoontes voor mezelf aan het goed praten ben. Ik doe alsof ik achter die gewoonte sta omdat het er nou eenmaal bij hoort en ik er toch niet vanaf kan komen. Ik heb dus geaccepteerd dat de gewoonte bij mij hoort, zonder te bedenken dat ik dat nog altijd zelf in de hand kan hebben. Ik probeer mezelf tenslotte vanuit het meest positieve licht te bekijken. Het zou namelijk ook raar voelen te zeggen, dat iets wat ik doe, iets is waar ik zelf niet achter sta toch? Ik moet dus vooral eerlijk zijn tegen mezelf.
 
-## **Weten aan welke gewoontes je wil werken**
+## Weten aan welke gewoontes je wil werken
 
 Dan is het tijd te bedenken welke gewoontes je daadwerkelijk wilt gaan veranderen en je te bedenken welke moeilijke dingen daarbij komen kijken en hoe je dat dan gaat verwezenlijken.
 
@@ -48,21 +48,21 @@ Ik sta op met het lezen van berichtjes op mijn telefoon en erger mij daaraan. Ik
 
 Ja een beetje een gekke wellicht. Maar ik poets mijn tanden 1x per dag, en vergeet of vermijd de tweede keer altijd. En dat terwijl ik wel witte tanden wil, aai… Aan de slag dus!
 
-## **De gewoontes die je wilt veranderen formuleren**
+## De gewoontes die je wilt veranderen formuleren
 
 Zorg ervoor dat de reden om je gewoontes te veranderen duidelijk is. Schrijf die redenen voor jezelf op. Voor mij voelt dit onderdeel heel erg raar. Want het is dan alsof je jezelf stom vind dat je dat nog niet hebt veranderd. Maar daar zet ik me dan maar even overheen. Ook kies ik ervoor niets af te bouwen maar gewoon direct over te gaan op de nieuwe lifestyle.
 
-## **Zoek je motivatie, laat je coachen**
+## Zoek je motivatie, laat je coachen
 
 Je weet nu waarom je je gewoontes wil veranderen en dat is mooi. Dat is namelijk een onderdeel van je motivatie. Echter, is het nog niet compleet, dit zijn namelijk alleen maar intrinsieke factoren. Om die reden heb ik zelf mijn zusjes gevraagd om me te coachen. Ze weten welke gewoontes ik wil veranderen en hebben inzicht in mijn motivatie. Mocht ik ergens merken dat ik verzwak van motivatie kan ik ze altijd bellen. Ook is het natuurlijk een goede sociale druk. Je wilt tenslotte niet falen in de ogen van je eigen familie.
 
-## **Documenteer hoe het proces je afgaat**
+## Documenteer hoe het proces je afgaat
 
 Ook al stop je binnen een keer met al je oude gewoontes en volg je je nieuwe. Het is wel een langer proces waar je doorheen gaat. Je moet namelijk alert blijven op het niet terug vallen in de oude gewoontes. Dit doe ik zelf door dagelijks bij te houden hoe het proces me afgaat. Wat voel ik, ervaar ik en waar liggen de gevaren op de loer.
 
 > Documenteren van je vorderingen helpt je erg om inzicht te krijgen in je sterktes en zwaktes.
 
-## **Hoe het proces van gewoontes veranderen mij afgaat**
+## Hoe het proces van gewoontes veranderen mij afgaat
 
 Ik kan onmogelijk zeggen ‘hoe het proces mij afging’, een gewoonte verandering wil je namelijk voor de rest van je leven toch? Maar voor nu ben ik positief gesteld. Ik ben de 1e maand gepasseerd en voel me fit en levend. Ik documenteer iedere dag (in mijn dagboek) en zie de dagen simpeler worden.
 

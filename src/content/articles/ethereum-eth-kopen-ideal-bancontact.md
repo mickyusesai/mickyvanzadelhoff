@@ -26,7 +26,7 @@ Het kernconcept dat Ethereum onderscheidt, is het slimme contract. Dit zijn zelf
 
 Gebaseerd op deze technologie, ondersteunt Ethereum ook dApps. Dit zijn applicaties die draaien op een gedecentraliseerd netwerk, in tegenstelling tot één enkele computer. Ze kunnen variëren van games en gedecentraliseerde financiële systemen tot complexe databasetoepassingen en meer, allemaal zonder dat er een centrale autoriteit nodig is.
 
-## Hier **koop je Ethereum (ETH) met iDEAL en Bancontact**
+## Hier koop je Ethereum (ETH) met iDEAL en Bancontact
 
 In 2024 is de toegang tot cryptocurrency eenvoudiger dan ooit, vooral voor degenen in Nederland en België dankzij betaalmethoden zoals iDEAL en Bancontact. Wanneer je op zoek bent naar een platform om Ethereum te kopen, springen twee namen eruit: [Bitvavo](/go/bitvavo) en Finst. Beide bieden de mogelijkheid om ETH te kopen met deze lokale betaalmethoden, maar ze hebben elk hun unieke kenmerken.
 
@@ -34,7 +34,7 @@ In 2024 is de toegang tot cryptocurrency eenvoudiger dan ooit, vooral voor degen
 
 [![Crypto kopen met iDEAL op Bitvavo](/images/migrated/crypto-kopen-met-ideal-op-bitvavo-1.webp)](/go/bitvavo)
 
-### 1\. Bitvavo
+### 1. Bitvavo
 
 Grootste van de Benelux met zeer lage handelskosten.
 
@@ -47,7 +47,7 @@ Grootste van de Benelux met zeer lage handelskosten.
 
 [![Finst Crypto Kopen](/images/migrated/finst-crypto-kopen-2.webp)](/go/blox)
 
-### 2\. Finst
+### 2. Finst
 
 Mogelijkheid tot investeren in bundels.
 

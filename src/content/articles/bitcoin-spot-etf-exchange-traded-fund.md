@@ -36,11 +36,11 @@ Op 10 januari 2024 keurde de Amerikaanse Securities and Exchange Commission (SEC
 
 De goedkeuring van deze ETF’s ging niet zonder slag of stoot. Er was sprake van verwarring en chaos, met name rondom een gecompromitteerd social media account van de SEC en voortijdige aankondigingen. Uiteindelijk werden de ETF’s echter wel goedgekeurd, wat een significante stap voorwaarts betekende.
 
-## **De beste NL Exchanges om te investeren in crypto**
+## De beste NL Exchanges om te investeren in crypto
 
 ![Finst Crypto Kopen](/images/migrated/finst-crypto-kopen-2.webp "Finst Crypto Kopen")
 
-### 1\. Finst
+### 1. Finst
 
 Goedkoopste exchange. Mogelijkheid tot investeren in bundels.
 
@@ -55,7 +55,7 @@ of [lees Finst review](/blog/review/finst-crypto-exchange/)
 
 ![Bitvavo affiliate programma](/images/migrated/bitvavo-affiliate-programma-1.webp "Bitvavo affiliate programma")
 
-### 2\. Bitvavo
+### 2. Bitvavo
 
 Grootste crypto exchange van de Benelux met veel crypto.
 

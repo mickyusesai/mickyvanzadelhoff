@@ -28,12 +28,6 @@ Natuurlijk ga je niet alleen naar Lapland om te werken. In je vrije uren kun je 
 
 Kemi is een kustplaats in Lapland. Wel is het heel wat anders dan de meeste kustplaatsen. In plaats van zon, zee en strand vind je er namelijk bevroren golven. Ook kun je er een historisch museum, kunstgalerij en kerk bezoeken. Daarnaast wordt er elk jaar een groot sneeuwkasteel gebouwd. Ben jij op zoek naar een mooie plek om te werken en vakantie te vieren? Check dan zeker een van de plaatsen in Lapland!
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

@@ -24,7 +24,7 @@ Solana is meer dan alleen een cryptocurrency; het is een revolutionair blockchai
 
 Wat Solana echt onderscheidt, is zijn vermogen om een grote verscheidenheid aan toepassingen te ondersteunen, van gedecentraliseerde financiën (DeFi) tot non-fungible tokens (NFT’s). Gelanceerd in maart 2020, is SOL snel gegroeid en is het een van de top 10 cryptocurrencies geworden qua marktkapitalisatie. Met een levendig ecosysteem en een groeiende gemeenschap, blijft Solana zichzelf positioneren als een belangrijke speler in de cryptocurrency-markt van 2024.
 
-## Hier **koop je Solana (SOL) met iDEAL en Bancontact**
+## Hier koop je Solana (SOL) met iDEAL en Bancontact
 
 In 2024 is de toegang tot cryptocurrency eenvoudiger dan ooit, vooral voor degenen in Nederland en België dankzij betaalmethoden zoals iDEAL en Bancontact. Wanneer je op zoek bent naar een platform om Solana te kopen, springen twee namen eruit: [Bitvavo](/go/bitvavo) en Finst. Beide bieden de mogelijkheid om SOL te kopen met deze lokale betaalmethoden, maar ze hebben elk hun unieke kenmerken.
 
@@ -32,7 +32,7 @@ In 2024 is de toegang tot cryptocurrency eenvoudiger dan ooit, vooral voor degen
 
 [![Crypto kopen met iDEAL op Bitvavo](/images/migrated/crypto-kopen-met-ideal-op-bitvavo-1.webp)](/go/bitvavo)
 
-### 1\. Bitvavo
+### 1. Bitvavo
 
 Grootste van de Benelux met zeer lage handelskosten.
 
@@ -45,7 +45,7 @@ Grootste van de Benelux met zeer lage handelskosten.
 
 [![Finst Crypto Kopen](/images/migrated/finst-crypto-kopen-2.webp)](/go/blox)
 
-### 2\. Finst
+### 2. Finst
 
 Mogelijkheid tot investeren in bundels.
 

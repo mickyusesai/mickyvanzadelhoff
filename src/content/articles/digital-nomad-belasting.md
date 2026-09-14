@@ -34,12 +34,6 @@ Daar staat tegenover dat ik buitenlandse kosten niet aftrek bij de Nederlandse b
 
 Probeer niet te zoeken naar dingen die er niet zijn. Je zult geen letterlijke regels in het wetboek vinden die de situatie van digital nomads beschrijft. Iedereen kiest dus voor zijn eigen structuur die past bij zijn of haar situatie. Het belangrijkst is in ieder geval dat je je door de wirwar aan mogelijkheden niet laat tegenhouden om zelf [een leven als digital nomad te starten](/blog/digitalenomaden/digital-nomad-banen/). Het betalen van digital nomad belasting is daarmee vaak niets anders dan de situatie van een ‘normaal’ iemand. Gewoon je kwartaalaangifte en aangifte inkomstenbelasting doen, dan komt het wel goed!
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

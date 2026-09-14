@@ -24,7 +24,7 @@ Oké, eerst even naar wat dat dan precies inhoud, zo’n Unique Selling Point. E
 
 En waar jij waarschijnlijk naar op zoek bent is naar hoe je dat in één zinnetje uit kunt leggen. Het liefst zo creatief mogelijk. Anders onderscheid je jezelf alsnog niet. Maar voordat we daarmee aan de slag gaan, eerst nog even dit model van Neil Patel.
 
-![](/images/migrated/unique-selling-point-uitleg.webp "unique-selling-point-uitleg")
+![Unique selling point uitleg](/images/migrated/unique-selling-point-uitleg.webp "unique-selling-point-uitleg")
 
 Wat in dit model interessant is, zijn vooral het vinkje en het vraagteken. Daarvoor is de Unique Selling Point bedoelt. Om aan een potentiële klant duidelijk te maken dat jij echt wel anders bent. Maar dat lukt niet altijd…
 
@@ -130,12 +130,6 @@ USP’s worden veel gebruikt binnen de communicatie van een bedrijf, wellicht da
 
 Zo kom je er wel, succes!
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

@@ -48,7 +48,7 @@ Drie redenen om van e-mail marketing jouw belangrijkste vorm van promotie te mak
 
 E-mail marketing is de makkelijkste en meest efficiënte manier om online verkopen te realiseren. **De highway naar conversie**. Let’s do this!
 
-## **E-mail marketing stappenplan**
+## E-mail marketing stappenplan
 
 Goed, we weten nu wat e-mail marketing is en waarom jij daarmee aan de slag moet gaan. Daarvoor hoef je slechts onderstaande **vier stappen** te volgen!
 
@@ -106,9 +106,9 @@ De eerste en meest voor de hand liggende strategie, is **het plaatsen van een op
 
 Om daar gebruik van te maken is het van belang om **eerst een contactenlijst aan te maken**. Hierin worden de contacten die zich via het formulier aanmelden later geplaatst.
 
-![](/images/migrated/contacten-enormail.webp "contacten-enormail")
+![Contacten enormail](/images/migrated/contacten-enormail.webp "contacten-enormail")
 
-![](/images/migrated/contacten-nieuwe-mailinglijst.webp "contacten-nieuwe-mailinglijst")
+![Contacten nieuwe mailinglijst](/images/migrated/contacten-nieuwe-mailinglijst.webp "contacten-nieuwe-mailinglijst")
 
 Doe dit door in te loggen op Enormail. Ga naar in het hoofdmenu naar **contacten** en klik op **nieuwe mailinglijst**.
 
@@ -216,7 +216,7 @@ Hier kun je nu zien hoeveel mensen de mails hebben geopend, hoeveel er op links 
 
 **Op basis van deze statistieken kun je weer verder aan de slag met de optimalisatie.**
 
-## **Conclusie e-mail marketing**
+## Conclusie e-mail marketing
 
 E-mail marketing zou ik nog het makkelijkst beschrijven als een spel voor volwassenen. Het is veel **trial and error**. Nieuwe dingen proberen wordt vaak beloond.
 
@@ -226,12 +226,6 @@ Volg [de manieren om leads te genereren](/blog/ondernemen/leads-genereren-mailin
 
 [**Als je aan de slag gaat met e-mail marketing raad ik het je van harte aan om een gratis account aan te maken bij Enormail. Deze Nederlandse e-mail marketing software geeft ondernemers de kans om aan de hand van e-mail de omzet te verhogen. > Start nu**](/go/enormail)
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

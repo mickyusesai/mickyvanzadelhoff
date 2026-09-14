@@ -22,9 +22,9 @@ Maar, inderdaad, Siteground is niet de goedkoopste aanbieder van webhosting. Lat
 
 [**TIP: Maak je het jezelf liever makkelijk? Vind dan iemand op Fiverr om een WordPress website voor jou te maken >>**](/go/fiverr-wordpress-website-maken)
 
-![](/images/migrated/Untitled1-1.webp "Untitled1 (1)")
+![Untitled1](/images/migrated/Untitled1-1.webp "Untitled1 (1)")
 
-## **1\. Siteground hosting mogelijkheden**
+## 1. Siteground hosting mogelijkheden
 
 Siteground komt van oorsprong uit Bulgarije, waar het in 2004 is opgericht. Inmiddels is het uitgegroeid naar een webhost met **6 gigantische data-centers (waarvan eentje in Nederland)** op 4 verschillende continenten en meer dan **190 CDN locaties wereldwijd**.
 
@@ -32,7 +32,7 @@ Ze zijn de beste hosting voor een WordPress website en bieden tal van gratis mog
 
 Siteground biedt tal van mogelijkheden op het basic plan en tal van extra’s op de wat meer prijzige opties.
 
-![](/images/migrated/datacenter-1-e1612007158569.webp "datacenter (1)")
+![Datacenter](/images/migrated/datacenter-1-e1612007158569.webp "datacenter (1)")
 
 De lijst met mogelijkheden voor Siteground hosting is bijzonder uitgebreid:
 
@@ -98,7 +98,7 @@ Nu zijn er veel hosting aanbieders die veel mogelijkheden hebben. Echter leveren
 
 ![siteground features](/images/migrated/tools-1.webp "tools")
 
-## **2\. Siteground uptime, snelheid en laadtijd** 
+## 2. Siteground uptime, snelheid en laadtijd
 
 De laadtijd van een website is een van de belangrijkste aspecten als het gaat om gebruikerservaring.
 
@@ -110,11 +110,11 @@ Uit verschillende testjes over een periode van 12 maanden blijkt dat de gemiddel
 
 Bij Siteground staat snelheid bovenaan de lijst van belangrijke onderdelen. Dat zie je dan ook terug in de verschillende gebruikerservaringen. Een van de redenen daarvoor is de Siteground Optimizer, welke bij ieder pakket is inbegrepen. Zie de screenshots hieronder.
 
-![](/images/migrated/twee1-1.webp "twee1 (1)")
+![Twee1](/images/migrated/twee1-1.webp "twee1 (1)")
 
-![](/images/migrated/twee2-1.webp "twee2 (1)")
+![Twee2](/images/migrated/twee2-1.webp "twee2 (1)")
 
-![](/images/migrated/twee3-1.webp "twee3 (1)")
+![Twee3](/images/migrated/twee3-1.webp "twee3 (1)")
 
 **Uptime**
 
@@ -122,9 +122,9 @@ Een ander belangrijke factor voor de prestaties van jouw website is de ‘uptime
 
 Je kunt je voorstellen dat een website die eruit ligt sowieso geen conversie oplevert. Mensen komen dan waarschijnlijk op zo’n saaie standaard witte pagina terecht. Daarbij zorgt een lage uptime er ook voor dat je Google ranking omlaag gaat. Dit omdat je website simpelweg minder betrouwbaar is.
 
-![](/images/migrated/hrank-1.webp "hrank (1)")
+![Hrank](/images/migrated/hrank-1.webp "hrank (1)")
 
-![](/images/migrated/speed-1.webp "speed (1)")
+![Speed](/images/migrated/speed-1.webp "speed (1)")
 
 De uptime bij Siteground is dus 99,98%. Daarmee ben je er zeker van dat jouw website er niet plotseling uit komt te liggen. Op Siteground kun je dus bouwen en ervan uitgaan dat het goed zit.
 
@@ -136,23 +136,23 @@ Dat die uptime zo hoog is komt met name door technologische oplossingen:
 *   De verschillende klantaccounts zijn geïsoleerd van elkaar.
 *   Het ingebouwde monitor systeem checkt de servers iedere halve seconde en voorkomt errors zonder dat daar een mens aan te pas komt.
 
-## **3\. Veiligheid en support bij Siteground**
+## 3. Veiligheid en support bij Siteground
 
 Voor de veiligheid van jouw content en gegevens en die van jouw websitebezoekers zijn er tal van mogelijkheden binnen Sitergound. Ze grijpen meerdere facetten aan om preventief op te treden tegen cyberaanvallen.
 
-### **SSL Certificaat**
+### SSL Certificaat
 
 Om te beginnen zit er bij ieder pakket een SSL certificaat zonder bijkomende kosten. Wanneer je jouw website bij Siteground host kun je daarbij direct gemakkelijk jouw SSL activeren via het dashboard. Alle data die via jouw website verzonden wordt is vervolgens encrypted en kan dus niet door derden worden ingezien. Dit is ook een belangrijk onderdeel voor jouw Google ranking en zorgt ervoor dat je in ieder geval op veiligheid niet wordt afgestraft in de zoekresultaten.
 
-### **Realtime server checks**
+### Realtime server checks
 
 Verder kun je voor de veiligheid van jouw website rekenen op continue server checks. Iedere halve seconde doorloopt een bot de verschillende servers om te kijken naar problemen. Waar nodig worden deze direct verholpen of gaat er iemand van Siteground aan de slag.
 
-### **Kunstmatige intelligentie tegen bots**
+### Kunstmatige intelligentie tegen bots
 
 Bots kunnen website overbelasten of spam versturen via jouw contactformulier. Dit wil je uiteraard voorkomen. Daarom heeft Siteground een oplossing in de vorm van kunstmatige intelligentie. Met deze AI anti-bot functie worden alle onbevoegde bots preventief aangepakt zodat deze geen nadelige gevolgen heeft voor jouw website.
 
-### **WordPress monitoring**
+### WordPress monitoring
 
 Tot slot heb je nog een constante monitoring van kwetsbaarheden voor de mensen die het WordPress CMS gebruiken. Sowieso kun je een WordPress website al met één klik op knop installeren bij Siteground, maar verder krijg je dus ook beschikking over tools als anti-spam, IP’s blokkeren en de HackAlert plugin. Veiligheid voorop!
 
@@ -160,7 +160,7 @@ Doordat de account bij Siteground gescheiden zijn, ben je er daarbij zeker van d
 
 ![siteground security tools](/images/migrated/secur-1.webp "siteground")
 
-### **Support Siteground**
+### Support Siteground
 
 Buiten beveiliging is het ook belangrijk dat je kunt rekenen op een betrouwbare en actieve support. Gelukkig zit dat bij Siteground helemaal goed. Je hebt tal van mogelijkheden om 24/7/365 een oplossing te vinden voor eventuele hostingproblemen. Een belangrijke service als je erg afhankelijk bent van een goed draaiende website.
 
@@ -168,9 +168,9 @@ Manieren om contact op te nemen met de Siteground support zijn er genoeg. Dit re
 
 Het supportteam van Siteground bestaat uit zo’n 200 professionals. Dit maakt het voor hen mogelijk om dag en nacht waar dan ook ter wereld te reageren. Belangrijk om hierbij te vermelden is wel dat de support in het Engels geleverd wordt. Om je een idee te geven van hoe die support door klanten wordt gewaardeerd vind je hieronder een reactie.
 
-![](/images/migrated/twee4-1.webp "twee4 (1)")
+![Twee4](/images/migrated/twee4-1.webp "twee4 (1)")
 
-## **4\. Siteground prijzen en pakketten** 
+## 4. Siteground prijzen en pakketten
 
 Siteground is niet de goedkoopste website hosting op de markt. Als je daarnaar zoekt zou ik zeker even naar [Webreus](/blog/review/cloud86-webhosting-review/) doorverwijzen ;).
 
@@ -194,7 +194,7 @@ De verschillende pakketten zijn StartUp, GrowBig en GoGeek en deze zien er als v
 
 €13,99 per maand voor een onbeperkt aantal websites, 40 GB SSD opslag, gratis SSL, alle basisfuncties, backup opslag, ingebouwd caching systeem voor snelheid, staging (als je jouw website wilt kopiëren), supersnelle PHP en prioriteitssupport.
 
-## **5\. Voordelen en nadelen van Siteground**
+## 5. Voordelen en nadelen van Siteground
 
 Net als iedere andere hosting aanbieder heeft ook Siteground zo zijn voor- en nadelen.
 
@@ -202,43 +202,43 @@ Met alle voordelen die in dit artikel al voorbij zijn gekomen weet je er waarsch
 
                Voordelen
 
-**\>** Gratis onbeperkt verkeer naar jouw website
+**›** Gratis onbeperkt verkeer naar jouw website
 
-**\>** Goede beveiliging, gratis SSL en additioneel SSH
+**›** Goede beveiliging, gratis SSL en additioneel SSH
 
-**\>** Onbeperkt aantal websites vanaf GrowBig pakket
+**›** Onbeperkt aantal websites vanaf GrowBig pakket
 
-**\>** Website migratie inbegrepen en WP Migrator
+**›** Website migratie inbegrepen en WP Migrator
 
-**\>** CloudFare CDN is gratis beschikbaar
+**›** CloudFare CDN is gratis beschikbaar
 
-**\>** GoogleCloud data centers (waaronder ook die in Nederland)
+**›** GoogleCloud data centers (waaronder ook die in Nederland)
 
-**\>** E-mail en webshop functionaliteiten
+**›** E-mail en webshop functionaliteiten
 
-**\>** 24/7/365 support desk
+**›** 24/7/365 support desk
 
-**\>** Een van de snelste laadtijden op de markt
+**›** Een van de snelste laadtijden op de markt
 
-**\>** Dagelijkse back-ups mogelijk
+**›** Dagelijkse back-ups mogelijk
 
-**\>** Onbeperkt aantal mailboxen en databases
+**›** Onbeperkt aantal mailboxen en databases
 
-**\>** 30 dagen niet-goed-geld-terug garantie
+**›** 30 dagen niet-goed-geld-terug garantie
 
-**\>** Hosting mogelijkheden voor WordPress, webshop en website
+**›** Hosting mogelijkheden voor WordPress, webshop en website
 
               Nadelen
 
-**\>** Siteground is betaalbaar, maar niet de goedkoopste in de markt
+**›** Siteground is betaalbaar, maar niet de goedkoopste in de markt
 
-**\>** Domeinregistratie is niet bij de pakketten inbegrepen
+**›** Domeinregistratie is niet bij de pakketten inbegrepen
 
-**\>** Beperkte SSD opslag, zelfs in het grootste pakket
+**›** Beperkte SSD opslag, zelfs in het grootste pakket
 
-**\>** Geen Nederlandstalige klantenservice
+**›** Geen Nederlandstalige klantenservice
 
-## **6\. Conclusie Siteground review**
+## 6. Conclusie Siteground review
 
 Zonder twijfel durf ik te stellen dat Siteground een geweldige host is met een goede prijs-kwaliteit verhouding. Ze bieden beveiliging van een hoge standaard en zijn koploper op het gebied van snelheid en innovatie.
 

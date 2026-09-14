@@ -58,7 +58,7 @@ Het is de manier om uit je comfortzone te stappen en een leuke, leerzame tijd te
 
 Ook is het een **mooie gelegenheid om een nieuwe Europees land te verkennen**. Onderdeel van de training is altijd één dag waarbij je erop uitgaat in de omgeving.
 
-![](/images/migrated/erasmus-plus-trainingsweek-in-malaga-e1524324495241.webp "erasmus-plus-trainingsweek-in-malaga")
+![Erasmus plus trainingsweek in malaga](/images/migrated/erasmus-plus-trainingsweek-in-malaga-e1524324495241.webp "erasmus-plus-trainingsweek-in-malaga")
 
 _© Erasmus Plus Trainingsweek Spanje_
 

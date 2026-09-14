@@ -24,7 +24,7 @@ Een Youth Exchange; het klinkt toch een beetje alsof je met een groep kinderen o
 
 Niets was echter minder waar. De groep was gevarieerd en bestond uit deelnemers tussen de 19 en 29 jaar uit landen als **Litouwen, Oekraïne, Turkije, Griekenland en Nederland**. Met een groep van zo’n vijftig personen gingen we in deze week de verbinding met onszelf, de ander en de natuur vinden.
 
-![](/images/migrated/20221009_081912-1-scaled.webp "20221009_081912 (1)")
+![20221009 081912](/images/migrated/20221009_081912-1-scaled.webp "20221009_081912 (1)")
 
 In de uitgestrekte bossen van Zweden namen we deel aan workshops over **meditatie, ademhaling, bosbaden, ijsbaden, meditatieve dans en enkele zweverige ceremonies**. De avonden vulden we met een kampvuur, culturele dansen en saunasessies.
 
@@ -32,7 +32,7 @@ Het liet mij verbinden met enkele deelnemers uit de groep. En het was al direct 
 
 Bij een workshop later in de week gingen we blind het bos in, begeleid door twee van onze mede deelnemers. Dit blind zijn in het bos, bood kansen om beter te ruiken, te horen, te voelen en (soms) te proeven. Ook gaf het een mooi vertrouwen aan elkaar. Hierdoor kon ik de natuur echt even ervaren hoe deze is. Zonder oordeel.
 
-![](/images/migrated/20221008_205837-1-scaled.webp "20221008_205837 (1)")
+![20221008 205837](/images/migrated/20221008_205837-1-scaled.webp "20221008_205837 (1)")
 
 ## Wat ik heb geleerd
 

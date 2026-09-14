@@ -20,11 +20,10 @@ In deze markt liggen gigantische kansen als je er vroeg bij bent. En een spoiler
 
 [**Weet je niet wat NFT’s zijn en wil je eerst een gratis training bekijken? Via deze link kan je de gratis training van Mitchel van Duuren volgen >>**](/go/nft-secrets-gratis)
 
-_In deze review zitten affiliate links. Als je iets aanschaft via de linkjes krijg ik daarvoor in ruil een kleine commissie zonder extra kosten voor jou. Geen zorgen, ik raad je dat aan waar ik zelf in geloof en bied je graag een [**onweerstaanbaar aanbod**](#deal) (deze vind je later in de review)._
+_In deze review zitten affiliate links. Als je iets aanschaft via de linkjes krijg ik daarvoor in ruil een kleine commissie zonder extra kosten voor jou. Geen zorgen, ik raad je dat aan waar ik zelf in geloof en bied je graag een **onweerstaanbaar aanbod** (deze vind je later in de review)._
 
-×
 
-# Waar gaat NFT Secrets over?
+## Waar gaat NFT Secrets over?
 
 In [NFT Secrets](/go/nft-secrets) leer je hoe je NFT’s vind die snel in waarde kunnen stijgen. Je leert hoe je deze koopt en verkoopt met winst. Tijdens de cursus worden tal van strategieën gedeeld **die Mitchel van Duuren zelf gebruikt om succesvol NFT’s te flippen**.
 
@@ -34,9 +33,9 @@ Deze cursus gaat dus niet over hoe je jouw eigen NFT project lanceert! Het is ec
 
 Leuk is dat je direct na de cursus al jouw eerste NFT kan kopen en verkopen. Dat is dan ook de reden dat de **succesverhalen van deelnemers** zich opstapelen. In de **Discord groep** waarin je wordt toegelaten na aanschaf worden al die successen gedeeld. Daar gebeurt het regelmatig dat mensen duizenden euro’s verdienen per NFT flip.
 
-**[\> Beginnen met NFT Secrets](/go/nft-secrets)**
+**[› Beginnen met NFT Secrets](/go/nft-secrets)**
 
-# Wie is Mitchel van Duuren?
+## Wie is Mitchel van Duuren?
 
 Zijn naam kwam mij ook nog onbekend voor, maar toen ik wat over hem opzocht, bedacht ik me dat ik hem wel eens voorbij heb zien komen (daar kom ik zo op terug). De NFT space is pas de laatste trend waar Mitchel van Duuren op is gesprongen.
 
@@ -58,7 +57,7 @@ Publicaties waar je Mitchel van Duuren verder van kan kennen zijn die in **Linda
 
 ![Mitchel van Duuren in Linda Magazine](/images/migrated/B-INY7uCEAApOKz-1.webp "Mitchel van Duuren in Linda Magazine")
 
-# Resultaten van deelnemers
+## Resultaten van deelnemers
 
 Natuurlijk is het leuk voor Mitchel van Duuren **dat hij zelf tienduizenden euro’s kan verdienen** met het flippen van NFT’s. Toch maakt dit voor jou geen verschil.
 
@@ -92,15 +91,15 @@ Om te begrijpen hoe NFT Secrets van Mitchel van Duuren je kan helpen om van deze
 
 **[Wil je direct beginnen met NFT Secrets en geld gaan verdienen met het flippen van NFT’s? Via deze link kan je direct aan de slag!](/go/nft-secrets)**
 
-# Modules NFT Secrets
+## Modules NFT Secrets
 
 Het NFT Secrets programma heeft 6 modules + Q&A met in totaal 35 lessen. Genoeg om van te leren dus. Hieronder zal ik op iedere module ingaan en bespreken wat je in ieder onderdeel leert en wat mij is opgevallen.
 
-## Module 1: Voorbereiding
+### Module 1: Voorbereiding
 
 ![NFT secrets voorbereiding](/images/migrated/NFT-secrets-voorbereiding.webp "NFT-secrets-voorbereiding")
 
-### **Lessen module 1 van NFT Secrets**
+#### Lessen module 1 van NFT Secrets
 
 1.  Huishoudelijke Mededelingen (17:27)
 2.  Afkortingen (11:22)
@@ -115,11 +114,11 @@ In deze module krijg je een idee van de NFT markt in zijn geheel. Je leert de ba
 
 Daarbij is het gelijk een inleiding in de grootste market place voor NFT’s, namelijk **OpenSea.io**. Zelf werd ik van deze module al helemaal warm om te gaan traden. Het punt is namelijk dat je er nog **enorm vroeg bij bent** als je nu in NFT’s gaat handelen en dat legt Mitchel van Duuren uit aan de hand van tal van voorbeelden. Die voorbeelden waren overigens wel alweer een beetje verouderd, maar dat is vooral omdat deze markt **iedere week andere hoogtepunten kent**.
 
-## Module 2: Research
+### Module 2: Research
 
 ![NFT Secrets module research](/images/migrated/NFT-secrets-research-mitchel-van-duuren.webp "NFT-secrets-research-mitchel-van-duuren")
 
-### **Lessen module 2 van NFT Secrets**
+#### Lessen module 2 van NFT Secrets
 
 1.  Kenmerken Goed Project (23:27)
 2.  Speel Om Niet Te Verliezen (36:45)
@@ -136,11 +135,11 @@ Ik kwam hier onder andere de extensie **SuperSea** tegen. Deze was voor mij nog 
 
 Klein minpuntje is dat bij één van deze video’s het geluid maar aan één kant is opgenomen, die dus maar zonder headphones geluisterd. Al met al heb je na deze module genoeg informatie **om je eigen research te doen** en kan je eigenlijk niet wachten om die eerste NFT’s te gaan kopen.
 
-## Module 3: NFT’s Kopen
+### Module 3: NFT’s Kopen
 
 ![NFT Secrets module NFT's kopen](/images/migrated/NFT-secrets-kopen-mitchel-van-duuren.webp "NFT-secrets-kopen-mitchel-van-duuren")
 
-### **Lessen module 3 van NFT Secrets**
+#### Lessen module 3 van NFT Secrets
 
 1.  Gas Fee Timing (6:48)
 2.  Tools (6:57)
@@ -155,11 +154,11 @@ NFT’s kopen is meer dan gewoon op een knopje klikken. Om dit allemaal zo goed 
 
 In dit onderdeel wordt ook besproken waarom sommige NFT’s binnen een collectie **meer waard zijn dan anderen** en hoe jij op het juiste moment inkoopt om deze met winst te verkopen. Ook het moment van kopen komt hierbij aan bod.
 
-## Module 4: NFT’s Verkopen
+### Module 4: NFT’s Verkopen
 
 ![NFT Secrets module verkopen](/images/migrated/NFT-secrets-verkopen-van-nfts-mitchel-van-duuren.webp "NFT-secrets-verkopen-van-nfts-mitchel-van-duuren")
 
-### **Lessen module 4 van NFT Secrets**
+#### Lessen module 4 van NFT Secrets
 
 1.  Verkopen van NFT’s (11:38)
 2.  Biedingen (3:32)
@@ -171,11 +170,11 @@ Een belangrijk aspect dat hier wordt besproken is met name om **niet te gretig t
 
 Verder gaat Mitchel van Duuren nog in op de gas fees en hoe je hier slim mee omgaat. Je leert **voor welke onderdelen je allemaal gas fees betaald** en hoe je dingen kan bundelen om minder van deze kosten te betalen.
 
-## Module 5: Hodlen
+### Module 5: Hodlen
 
 ![NFT Secrets module Hodlen](/images/migrated/NFT-secrets-hodl-staken-mitchel-van-duuren.webp "NFT-secrets-hodl-staken-mitchel-van-duuren")
 
-### **Lessen module 5 van NFT Secrets**
+#### Lessen module 5 van NFT Secrets
 
 1.  Staken van een NFT (24:39)
 
@@ -183,11 +182,11 @@ HODL staat voor **Hold On Dear Life**. Het is een term die in de crypto opkwam w
 
 Ook in NFT’s is dit mogelijk en kan je geld verdienen door deze te staken. Je krijgt dan een soort **rente op jouw NFT**. In de video van deze module uit NFT Secrets leer je exact hoe en bij welke NFT’s je dat kan doen. Het enige nadeel aan deze video is dat **het staken van NFT’s zo nieuw is**, dat hier waarschijnlijk nog veel aan zal veranderen. Voor nu houd ik het zelf dus nog even bij NFT’s flippen.
 
-## Module 6: NFT Secrets Versie 1
+### Module 6: NFT Secrets Versie 1
 
 ![NFT Secrets versie 1](/images/migrated/NFT-secrets-versie1-mitchel-van-duuren.webp "NFT-secrets-versie1-mitchel-van-duuren")
 
-### **Lessen module 6 van NFT Secrets**
+#### Lessen module 6 van NFT Secrets
 
 1.  Huishoudelijke Mededelingen (11:35)
 2.  Een Metamask Wallet Aanmaken (19:30)
@@ -202,11 +201,11 @@ Toch kan het geen kwaad om ook deze video’s eens te bekijken, al zijn sommigen
 
 [Begin direct met NFT Secrets](/go/nft-secrets)
 
-# NFT Secrets + Gratis NFT
+## NFT Secrets + Gratis NFT
 
 NFT Secrets is vooral bedoelt om NFT’s te flippen, maar grappig is dat ik er ook andere informatie uit heb gehaald. Zo had ik zelf al een NFT project genaamd Metabunkers.
 
-![](/images/migrated/metabunkers-website-1.webp "metabunkers-website (1)")
+![Metabunkers website](/images/migrated/metabunkers-website-1.webp "metabunkers-website (1)")
 
 Mede door de cursus heb ik nu een nieuwe manier van kijken naar dit project. Ik heb het idee **dat ik beter begrijp waarom mensen NFT’s kopen** en waar je dus als verkoper op moet letten. Een enorm leerzame ervaring om deze wereld eens van de andere kant te bekijken.
 
@@ -214,14 +213,14 @@ Het maakt dat dit NFT project echt naar een hoger niveau is gegaan! Op basis van
 
 Wat we ook hebben gedaan, is een geweldige samenwerking tot stand gebracht met NFT Secrets waar jij gebruik van kunt maken. Mocht je echt vlammend van start willen gaan met jouw NFT avontuur.
 
-# **Exclusieve Deal:  
+## Exclusieve Deal:
 ****Gratis NFT bij NFT Secrets**
 
 Beginnen met NFTs is exciting! Waarom zou je dan niet gelijk goed van start gaan door gebruik te maken van een exclusieve deal die je **alleen** op deze pagina kan vinden.
 
 Voordat ik je vertel wat je extra kan krijgen, is het belangrijk om te weten dat je hier **NIETS** extra voor betaald.
 
-![](/images/migrated/gratis-nft-deal-nft-secrets.webp "gratis-nft-deal-nft-secrets")
+![Gratis nft deal nft secrets](/images/migrated/gratis-nft-deal-nft-secrets.webp "gratis-nft-deal-nft-secrets")
 
 Met NFT Secrets krijg je behalve een uitgebreide training om NFTs te flippen, ook een **gratis Metabunkers NFT** (_twv. €150,-_) in jouw crypto wallet! Daarmee heb je direct jouw eerste waardevolle NFT welke je kunt verkopen of hodlen totdat die meer waard is.
 
@@ -241,7 +240,7 @@ Ik heb een kopie van je _factuur_ (met zichtbare datum van aankoop) nodig om je 
 
 Na deze stappen komt de gratis Metabunkers NFT zo snel mogelijk jouw kant op!
 
-# Proefles van NFT Secrets
+## Proefles van NFT Secrets
 
 Heb je [deze gratis workshop](/go/nft-secrets-gratis) van Mitchel van Duuren al gevolgd? Dit is een mooie introductie in de NFT space om te begrijpen waar het om draait. Hierin laat hij een aantal voorbeelden zien van zijn NFT flips.
 
@@ -251,7 +250,7 @@ Na de gratis training begrijp je **hoe het komt dat NFT’s zoveel waard worden*
 
 Je zal zelf vast ook gemerkt hebben dat wanneer je iets over NFT’s verteld tegen je omgeving, niemand weet waar je het over hebt. Hoe vaak ik dit zelf nu al wel niet heb uitgelegd. Het idee wat ik met Mitchel deel is dat dit in de toekomst heel anders gaat zijn. Hetzelfde als dat nu **iedereen wel weet wat een Bitcoin is**.
 
-# Conclusie NFT Secrets review
+## Conclusie NFT Secrets review
 
 Ik zou liegen als ik zou zeggen dat NFT Secrets de meest volledige cursus is die ik ooit heb gevolgd. Toch vond ik hem wel **enorm waardevol**. Het ding is namelijk dat NFT’s zo nieuw zijn, dat zo’n cursus nooit alle vragen kan beantwoorden. Veelal omdat die vragen nog niet te beantwoorden zijn.
 

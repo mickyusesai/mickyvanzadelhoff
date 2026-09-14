@@ -18,7 +18,7 @@ In dit artikel vind je **tips voor het maken van een E-book**, hoe je deze promo
 
 ![E-book schrijven](/images/migrated/e-book-schrijven-1.webp "e-book-schrijven")
 
-## 1\. Kies een specifiek onderwerp en niche voor je E-book
+## 1. Kies een specifiek onderwerp en niche voor je E-book
 
 Wie gaat jouw E-book straks lezen? Dit zou een vraag moeten zijn waar je al voordat je begint met schrijven over nadenkt. Het helpt je namelijk om de juiste **tone-of-voice** te vinden.
 
@@ -26,7 +26,7 @@ Daarbij geldt hoe specifieker die doelgroep is, hoe makkelijker het achteraf is 
 
 Mocht je je nou afvragen of jouw onderwerp goed is, of je bent simpelweg op zoek naar inspiratie, dan heb ik een interessant artikel voor je met daarin [101 blog niches](/blog/ondernemen/blog-niches/). Geheid dat je daar ook iets specifieks voor jouw E-book vind.
 
-## 2\. De lengte van je E-book (schrijven)
+## 2. De lengte van je E-book (schrijven)
 
 Een E-book over een specifiek onderwerp hoeft echt geen roman te worden van 200 pagina’s. Dan zou je namelijk **zo’n 50.000 woorden** moeten schrijven en dat is voor veel onderwerpen gewoonweg veel te veel.
 
@@ -44,7 +44,7 @@ Veelal betaal je daar zo’n 10 cent per woord voor, afhankelijk van het onderwe
 
 Als ik zelf naar een ghostwriter zoek, **dan doe ik dat op [Fiverr](/go/fiverr)**. Daar vind je enorm veel ghostwriters inclusief enkelen die voor de Nederlandstalige markt E-books schrijven. Vanaf slechts een paar tientjes heb je al een eigen E-book!
 
-## 3\. Het design van je e-book
+## 3. Het design van je e-book
 
 Nu je een E-book hebt geschreven welke gericht is op een specifieke doelgroep moet er nog iets gebeuren; **een aantrekkelijke voorkant/kaft**.
 
@@ -56,7 +56,7 @@ Dit gaat voor een groot deel je succes bepalen. Zorg er in ieder geval voor dat 
 
 Ben je slecht in design? Dan kun je dit [uitbesteden via Fiverr](/go/fiverr-ebook-design). Daar helpen ze je ook direct om er zo’n mooie mockup bij te maken zoals op het plaatje hierboven, handig voor de promotie later.
 
-## 4\. Promoten van je E-book via een platform als Bol.com (verkopen)
+## 4. Promoten van je E-book via een platform als Bol.com (verkopen)
 
 Er zijn vele manieren om je E-book online te promoten. Natuurlijk kun je zelf een heel online platform bouwen en het daarop aanbieden maar dit is voor velen niet bepaald gemakkelijk.
 
@@ -88,7 +88,7 @@ Je zou aan jouw e-book een [affiliate programma](/blog/ondernemen/affiliate-prog
 
 Zelf heb ik dit succesvol toegepast met mijn eigen E-book. Het merendeel van de verkopen kwam uiteindelijk via affiliates. Ik deed dit met het affiliate netwerk [Paypro](/blog/online-geld-verdienen/paypro/).
 
-## 5\. Een E-book gebruiken als marketing middel
+## 5. Een E-book gebruiken als marketing middel
 
 Zelf verkoop ik mijn E-book tegenwoordig niet, maar gebruik ik deze [als weggever](/boek/). Op deze manier geef ik een gratis waarde aan mijn **potentiële klanten**.
 
@@ -96,12 +96,6 @@ Ik gebruik een E-book dan als middel om kennis te maken en iets te geven aan een
 
 **Voor nu veel succes met het maken en publiceren van jouw eigen E-book**!
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

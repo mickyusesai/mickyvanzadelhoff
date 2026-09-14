@@ -47,7 +47,7 @@ Er zijn echter ook enkele nadelen aan Activecampaign die ik verderop in dit arti
 
 Er zijn tal van functies die uw marketing kunnen verbeteren. Door het aantal functies in het aanbod lijken ze ver vooruit te lopen op andere marketingplatforms die ik eerder heb gebruikt.
 
-#### [E-mail marketing toepassingen](#d19a249264f4a7737)
+#### E-mail marketing toepassingen
 
 1.  E-mail ontwerp platform en ontwerp dashboard. ActiveCampaign heeft ongeveer 125 ontworpen e-mailsjablonen die je nu kunt gebruiken. Alle sjablonen kunnen worden ingesteld voor B2B- en B2C-segmenten, zien er geavanceerd uit en zijn gebaseerd op HTML.
 2.  Interface voor analyse van de leverbaarheid van e-mail en conversie.
@@ -55,7 +55,7 @@ Er zijn tal van functies die uw marketing kunnen verbeteren. Door het aantal fun
 4.  Gepersonaliseerde e-mails op basis van leadactiviteit.
 5.  E-mail autoresponders, getriggerde en gerichte e-mailinstellingen.
 
-#### [Marketing Automatisering toepassingen](#8760cc284a0a90fb6)
+#### Marketing Automatisering toepassingen
 
 1.  Systematische automatisering en tracking van e-mailopvolging door een lead.
 2.  Geautomatiseerde outreach naar de meest betrokken leads
@@ -64,30 +64,30 @@ Er zijn tal van functies die uw marketing kunnen verbeteren. Door het aantal fun
 5.  Functie voor het bijhouden van events
 6.  Integratie met de social media en Facebook-advertenties voor het aanpassen van een customer journey
 
-#### [Sales automatisering (funnels) en CRM toepassingen](#2bbc65ace1fc6e49e)
+#### Sales automatisering (funnels) en CRM toepassingen
 
 1.  CRM-integratie en automatische updates van contactpersonen voor leads, waaronder het onderzoeken van de geschiedenis van een lead
 2.  Contact en leads scoren voor betere customer analitics  
     Efficiëntietesten van de sales funnel
 3.  Integraties met Calendly, Facebook, Zendesk, Unbounce
 
-#### [Web content personalisering toepassingen](#288a03f358f874eb2)
+#### Web content personalisering toepassingen
 
 1.  Dashboard voor personalisatie van webcontent op basis van uw doelgroep (ingesteld door tags via Dashboard)
 2.  WordPress-integraties
 
-#### [Live chat toepassingen & chatbot](#7e79d7c7492bf5211)
+#### Live chat toepassingen & chatbot
 
 1.  SMS-marketingfuncties waaronder afspraakherinneringen, levering van bevestigings- of couponcodes, verkoopmeldingen (functies voor aan- en afmelden via sms)
 2.  Website berichten instellen
 3.  Live chatbot-integratie op elke website. Inclusief automatische updates in CRM-systeem
 
-#### [Whatsapp publiek toepassingen](#045c6b695e203ccf9)
+#### Whatsapp publiek toepassingen
 
 1.  Creatie van gerichte en gepersonaliseerde Whatsapp-berichten
 2.  Whatsapp live-ondersteuningsfunctie
 
-#### [Gratis data overzetten](#f3b15de5e227e1ac7)
+#### Gratis data overzetten
 
 Activecampaign kan je contactendatabase overzetten en andere zaken voor je regelen zoals:
 

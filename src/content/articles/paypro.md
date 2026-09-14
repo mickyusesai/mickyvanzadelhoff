@@ -68,7 +68,7 @@ Via deze kanalen delen zij links (met tracking code) van affiliate producten. Wa
 
 Snap je hem nog? Hier een plaatje dat affiliate marketing beter beschrijft. Of lees [dit artikel over geld verdienen met affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/).
 
-![](/images/migrated/affiliate-marketing-infographic.webp "affiliate-marketing-infographic")
+![Affiliate marketing infographic](/images/migrated/affiliate-marketing-infographic.webp "affiliate-marketing-infographic")
 
 Wat belangrijk is bij affiliate marketing is dat iedereen elkaar kan vertrouwen. Een publisher gaat immers geen product promoten als die daar **niets mee kan verdienen**. Om dat vertrouwen op te bouwen is **een derde partij** zo belangrijk. In dit geval PayPro.
 
@@ -131,12 +131,6 @@ Als **betalingsdienstverlener** werkt PayPro prima en is het super makkelijk op 
 
 [**Begin zelf te verkopen op PayPro >>**](/go/paypro)
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

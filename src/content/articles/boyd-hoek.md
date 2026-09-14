@@ -28,7 +28,7 @@ Aan het einde van het webinar vraagt Boyd Hoek je om zijn SMMB Masterclass te vo
 
 > Buiten de advertenties en het webinar van Boyd Hoek vind je hem vooral op zijn eigen Youtube kanaal (+/- 10,4K abonnees) en Instagram pagina (+/- 8,5K volgers). Op zijn Youtube kanaal vind je vooral uitleg video’s over zijn werk, zijn Instagram pagina is dan weer wat meer persoonlijk.
 
-![](/images/migrated/boyd-hoek.webp "boyd-hoek")
+![Boyd hoek](/images/migrated/boyd-hoek.webp "boyd-hoek")
 
 Verder valt er online over Boyd Hoek te vinden dat die **vroegtijdig schoolverlater** is, graag in Ibiza rondhangt en dat die pas 20 jaar oud is. Verder woont hij op Bali in een villa en is **vanaf begin 2018** begonnen met zijn eigen Social Media Marketing Bureau. Je zou dus kunnen stellen dat hij zijn eigen marketing business in no-time heeft opgezet.
 
@@ -44,7 +44,7 @@ Even terug naar het begin. Ik vond Boyd Hoek dus **NIET betrouwbaar** over komen
 
 Er waren meerdere redenen waarom ik Boyd Hoek onbetrouwbaar vond, maar ik stel hiermee **niet dat Boyd Hoek een SCAM is**. Doordat ik in contact was gekomen met Boyd Hoek en zijn community manager Jeff, heb ik mijn bevindingen namelijk bijgesteld. We hebben daarover mailcontact gehad en ik heb de mogelijkheid gekregen om een kijkje te nemen binnen de SMMB Masterclass (een zeer volledige training als je het mij vraagt). Daarom som ik hieronder de redenen op waarom ik Boyd Hoek onbetrouwbaar over vond komen mét daarbij de weerlegging daarvan. Zo hoop ik jou een eerlijk beeld te geven van de training zodat je weet of deze voor jou het volgen waard is.
 
-### **1\. Kleine zichtbaarheid**
+### 1. Kleine zichtbaarheid
 
 Voor iemand die een social media marketing bureau heeft en daar tienduizend euro per maand mee verdient, vond ik zijn zichtbaarheid wat karig. Hij had niet eens een eigen website (buiten zijn funnel/landingspagina). Ik kon dus **nergens** de daadwerkelijke diensten vinden die hij aanbiedt.
 
@@ -52,7 +52,7 @@ _Later heb ik van Boyd Hoek begrepen dat hij zijn marketingklanten primair benad
 
 _Daarbij had hij wel een marketingbedrijf genaamd Digital Presence maar heeft hij deze inmiddels niet meer. De reden daarvoor is dat Boyd Hoek zich volledig is gaan focussen op het helpen van anderen met het opzetten van een eigen SMMB. Belangrijk om hierbij te begrijpen is dat goedbetalende klanten (+/- 2000 euro per maand) logischer zijn binnen te halen met persoonlijke sales calls dan via een website._
 
-### **2\. Geen legitiem bewijs van succes**
+### 2. Geen legitiem bewijs van succes
 
 Buiten de Instagram plaatjes en dure villa kon ik niet echt bewijs vinden van Boyd Hoek zijn succes. Er was geen beeld van goedlopende marketing klanten die tevreden waren met zijn diensten.
 
@@ -93,7 +93,7 @@ Verder vind je in de SMMB Masterclass ook nog manieren om je business later op t
 
 In totaal bestaat de SMMB Masterclass uit zo’n 36 lessen (in 2021). Sommigen met een duur van één uur, sommigen wat korter. De cursus wordt regelmatig geüpdate om deze actueel te houden. Want hoewel dit verdienmodel nog lang geen einde kent, is er altijd wel nieuwe waardevolle informatie die je niet wilt missen.
 
-![](/images/migrated/smmb-masterclass-boyd-hoek-interface.webp "smmb-masterclass-boyd-hoek-interface")
+![Smmb masterclass boyd hoek interface](/images/migrated/smmb-masterclass-boyd-hoek-interface.webp "smmb-masterclass-boyd-hoek-interface")
 
 **[Wil je zelf de cursus aanschaffen? Dan kan dat via deze speciale kortingspagina.](/go/smmb-masterclass) Al raad ik je persoonlijk wel aan om eerst [het webinar van Boyd Hoek te volgen](/go/smmb-masterclass). Zo weet je zeker dat zijn verdienmodel iets voor jou is.**
 
@@ -117,12 +117,6 @@ Ik ben blij dat Boyd Hoek en zijn team mij een inzage hebben gegeven in de maste
 
 [**Start direct met de SMMB Masterclass via deze speciale kortingslink.**](/go/smmb-masterclass)
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

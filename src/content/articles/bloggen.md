@@ -20,7 +20,7 @@ Of je nu al een blog hebt of [een blog gaat starten](/blog/ondernemen/blog-begin
 
 De meeste **manieren om geld te verdienen met bloggen** werken op de lange termijn, maar er zijn ook manieren om deze week al te starten. Voordat we die doorlopen, kijken we eerst naar de basis en hoe jij **veel lezers op je blog kunt krijgen**.
 
-## **Wat is een blog?**
+## Wat is een blog?
 
 Misschien ietwat overdreven om deze vraag te beantwoorden, maar het woord blog stamt af van **weB LOG**. Dus geen papieren dagboek, maar het online plaatsen van verhalen. Het idee is dat op een blog om de zoveel tijd nieuwe posts verschijnen. Het is dus niet statisch, maar veelal iets dat wordt bijgehouden. Anders is het gewoon een [website](/blog/online-geld-verdienen/geld-verdienen-met-website/) ;).
 
@@ -32,17 +32,17 @@ Bloggen is dus iets dat je consistent doet. Maar de term ‘blog’ wordt ook va
 > 
 > Zelf gebruik ik daarvoor het Nederlandse [Cloud86](/go/cloud86) omdat die snel en uitermate geschikt zijn voor WordPress blogs. Wil je weten hoe je zelf jouw blog opzet? Met mijn [GRATIS videoreeks](/blog/ondernemen/blog-beginnen-starten-stappenplan/) staat jouw blog **binnen 20 minuten** online.
 
-## **Populaire blogonderwerpen**
+## Populaire blogonderwerpen
 
 Als je jezelf wilt onderscheiden dan is het beste topic voor je blog ‘jezelf’. Echter zal dat niet altijd het onderwerp zijn waar je makkelijk geld mee verdient. Het is immers niet zeker of er veel mensen geïnteresseerd zijn in wat jij zoal doet in het dagelijks leven (no hard feelings). Gelukkig zijn er tal van onderwerpen om over te bloggen.
 
-> De meest populaire onderwerpen om geld te verdienen met bloggen zijn **reizen, crypto, beauty en fashion, make-up, gezondheid, technologie, klimaat en lifestyle**. [\> Bekijk hier 101+ blog niches ideeën](/blog/ondernemen/blog-niches/)
+> De meest populaire onderwerpen om geld te verdienen met bloggen zijn **reizen, crypto, beauty en fashion, make-up, gezondheid, technologie, klimaat en lifestyle**. [› Bekijk hier 101+ blog niches ideeën](/blog/ondernemen/blog-niches/)
 
 Als je succesvol geld wilt verdienen met bloggen, dan doe je er goed aan om iets te kiezen wat je leuk vindt en **waar je affiniteit mee hebt**. Dat merken de lezers namelijk ook :).
 
 De blog waar je nu bent is een combinatie van mijn passie en iets over mezelf. Je vindt er artikelen over [mijn leven als digital nomad](/over/) en over online ondernemen.
 
-## **Hier komen de lezers voor jouw blog vandaan**
+## Hier komen de lezers voor jouw blog vandaan
 
 Ik denk even aan de vele reizigers die ik ontmoet die verslag doen van hun reizen op hun eigen blog. Zij schrijven dan over dingen als ‘De 10 leukste restaurantjes voor Nederlanders in Bangkok’ of ‘Culturele geheimen in Rome’. Met dit soort blogs krijgen zij GRATIS [lezers via Google](/blog/ondernemen/meer-website-bezoekers/).
 
@@ -78,7 +78,7 @@ Zelf vind ik dit het stomste deel van heel het bloggen, maar ook ik kom er niet 
 
 Laatst kocht ik linkjes via [een Nederlanse partij](/go/fiverr-backlinks) die flink wat websites beheert om vanuit naar mijn blog te verwijzen. Het zorgde ervoor **dat mijn domeinautoriteit omhoog schoot van 23 naar 46**! Omdat ik blij ben met die service en het resultaat, raad ik hem graag aan je aan. [Klik hier](/go/fiverr-backlinks) om zelf Nederlandse backlinks te kopen naar jouw blog.
 
-## **Zo kom je aan meer en meer bloglezers**
+## Zo kom je aan meer en meer bloglezers
 
 Wanneer je gaat bloggen en met lezers je geld wilt verdienen is het essentieel om te bedenken **hoe die lezers op jouw blog terecht komen**.
 
@@ -94,11 +94,11 @@ Zo gaat deze blog zelf over ‘geld verdienen met een blog’, via Google komen 
 
 Mijn advies is om eerst vol passie te starten met je eigen blog voordat je bezig gaat zijn met de financiële kant. Aan het begin valt er gewoonweg niets mee te verdienen (op één uitzondering na, die bespreek ik zo). **Focus je nu liever op het maken van kwalitatieve content**.
 
-# **Manieren om geld te verdienen met bloggen**
+## Manieren om geld te verdienen met bloggen
 
 Als je bezoekers hebt op je blog, kun je daar geld mee verdienen. Alle manieren leg ik je hieronder uit. Kijk welke manier past bij jouw onderwerp om er het meeste succes in te behalen.
 
-## 1\. Geld verdienen met bloggen via Google Adsense
+## 1. Geld verdienen met bloggen via Google Adsense
 
 ![geld verdienen met een blog via Google Adsense](/images/migrated/google-adsense-geld-verdienen-blog-1.webp "geld verdienen met een blog via Google Adsense")
 
@@ -112,19 +112,11 @@ Aan de andere kant; wanneer Google een advertentie voor een pizza interessant vi
 
 Als gemiddelde opbrengst kun je er in ieder geval vanuit gaan dat je **per 1000 bezoekers op je blog, zo rond de 3 euro verdient**. Misschien lijkt dat nu niet veel, maar als jij een tijdloze blog schrijft, zijn dit inkomsten die je, zolang je blog online staat, blijft houden. Je bouwt met een blog dus ook aan een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/). :)
 
-![training-ai-kunstmatige-intelligentie-in-company](/images/migrated/training-ai-kunstmatige-intelligentie-in-company-2.webp "training-ai-kunstmatige-intelligentie-in-company")
 
-### **Training AI op locatie 2024**
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
-De wereld waarin we werken veranderd ontzettend snel. Breng jezelf en jouw team op de hoogte van de laatste ontwikkelingen en leer **hoe AI tools zoals ChatGPT en Gemini zijn in te zetten voor productiviteit, (werk)geluk en succes!**
 
-Duur: 3 uur  
-Investering: 950,- ex BTW  
-Formaat: Tot 30 deelnemers
-
-[Contact voor meer info](/contact/)
-
-## 2\. Geld verdienen met affiliate marketing op je blog
+## 2. Geld verdienen met affiliate marketing op je blog
 
 ![Affiliate marketing op blog](/images/migrated/affiliate-marketing-op-blog-1.webp "Affiliate marketing op blog")
 
@@ -138,7 +130,7 @@ Anders dan bij Google Adsense kies je nu zelf welk product je gaat verkopen en k
 
 Je sluit je aan bij een [affiliate programma](/blog/ondernemen/affiliate-programma/) van bijvoorbeeld een grote webshop en kiest dan relevante producten of diensten uit die je wilt gaan promoten. Vervolgens krijg je een **unieke link met trackingcode** die jij op je blog plaatst. Daarmee wordt getraceerd of een verkoop bij jou als blogger vandaan komt.
 
-![](/images/migrated/affiliate-marketing-infographic.webp "affiliate-marketing-infographic")
+![Affiliate marketing infographic](/images/migrated/affiliate-marketing-infographic.webp "affiliate-marketing-infographic")
 
 De commissies voor affiliate marketing kunnen hoog oplopen en dit heeft bij mij dan ook de voorkeur ten opzichte van Google Adsense. Afhankelijk van de partij **varieert de commissie tussen de 3% tot 50%** van de totale verkoopprijs. Veelal zit de grootste commissie op digitale producten.
 
@@ -157,9 +149,9 @@ Hoe dan ook, er zijn tal van valkuilen waar mensen instappen **wanneer ze aan de
 
 Zelf verdien ik op dit moment €3000,- per maand **via alleen affiliate marketing**. De reden waarom ik er zo een fan van ben, is omdat ik ook wanneer ik even niet aan het werk ben, dit geld binnen blijft komen. Zie hieronder een random overzicht van mijn affiliate inkomsten uit één maand!
 
-![](/images/migrated/affiliate-marketing-revolutie-resultaten.webp "affiliate-marketing-revolutie-resultaten")
+![Affiliate marketing revolutie resultaten](/images/migrated/affiliate-marketing-revolutie-resultaten.webp "affiliate-marketing-revolutie-resultaten")
 
-## 3\. Geld verdienen door te bloggen voor bedrijven
+## 3. Geld verdienen door te bloggen voor bedrijven
 
 ![Bloggen voor bedrijven](/images/migrated/bloggen-voor-bedrijven-1.webp "Bloggen voor bedrijven")
 
@@ -201,14 +193,3 @@ Mijn voorkeur voor geld verdienen met bloggen gaat uit naar affiliate marketing 
 
 Ik wens je alle succes met het geld verdienen met bloggen. Hou vol en haak niet af. Dan ben jij uiteindelijk **de persoon die het laatste lacht**. Want als je eenmaal een flinke partij lezers hebt op je blog, dan komt het geld iedere maand opnieuw binnen.
 
-![training-ai-kunstmatige-intelligentie-in-company](/images/migrated/training-ai-kunstmatige-intelligentie-in-company-2.webp "training-ai-kunstmatige-intelligentie-in-company")
-
-### **Training AI op locatie 2024**
-
-De wereld waarin we werken veranderd ontzettend snel. Breng jezelf en jouw team op de hoogte van de laatste ontwikkelingen en leer **hoe AI tools zoals ChatGPT en Gemini zijn in te zetten voor productiviteit, (werk)geluk en succes!**
-
-Duur: 3 uur  
-Investering: 950,- ex BTW  
-Formaat: Tot 30 deelnemers
-
-[Contact voor meer info](/contact/)

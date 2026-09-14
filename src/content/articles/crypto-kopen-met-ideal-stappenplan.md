@@ -34,7 +34,7 @@ Allereerst moeten we ons gaan aanmelden bij een van de [vele crypto exchanges](/
 
 [![Crypto kopen met iDEAL op Bitvavo](/images/migrated/crypto-kopen-met-ideal-op-bitvavo-1.webp)](/go/bitvavo)
 
-### 1\. Bitvavo
+### 1. Bitvavo
 
 Grootste van de Benelux met zeer lage handelskosten.
 
@@ -47,7 +47,7 @@ Grootste van de Benelux met zeer lage handelskosten.
 
 [![Finst Crypto Kopen](/images/migrated/finst-crypto-kopen-2.webp)](/go/blox)
 
-### 2\. Finst
+### 2. Finst
 
 Mogelijkheid tot investeren in bundels.
 

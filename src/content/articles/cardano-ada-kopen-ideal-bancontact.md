@@ -24,7 +24,7 @@ Cardano, opgericht door Charles Hoskinson, een van de mede-oprichters van Ethere
 
 Wat Cardano onderscheidt, is de nadruk op peer-reviewed wetenschappelijk onderzoek en duurzaamheid, waardoor het netwerk schaalbaar, veilig en energiezuinig is. ADA, de native token van Cardano, fungeert als een middel voor waardeoverdracht en stelt houders in staat om transactiekosten te betalen en te stemmen over toekomstige netwerk-upgrades.
 
-## Hier **koop je Cardano (ADA) met iDEAL en Bancontact**
+## Hier koop je Cardano (ADA) met iDEAL en Bancontact
 
 In 2024 is de toegang tot cryptocurrency eenvoudiger dan ooit, vooral voor degenen in Nederland en België dankzij betaalmethoden zoals iDEAL en Bancontact. Wanneer je op zoek bent naar een platform om Cardano te kopen, springen twee namen eruit: [Bitvavo](/go/bitvavo) en Finst. Beide bieden de mogelijkheid om ADA te kopen met deze lokale betaalmethoden, maar ze hebben elk hun unieke kenmerken.
 
@@ -32,7 +32,7 @@ In 2024 is de toegang tot cryptocurrency eenvoudiger dan ooit, vooral voor degen
 
 [![Crypto kopen met iDEAL op Bitvavo](/images/migrated/crypto-kopen-met-ideal-op-bitvavo-1.webp)](/go/bitvavo)
 
-### 1\. Bitvavo
+### 1. Bitvavo
 
 Grootste van de Benelux met zeer lage handelskosten.
 
@@ -45,7 +45,7 @@ Grootste van de Benelux met zeer lage handelskosten.
 
 [![Finst Crypto Kopen](/images/migrated/finst-crypto-kopen-2.webp)](/go/blox)
 
-### 2\. Finst
+### 2. Finst
 
 Mogelijkheid tot investeren in bundels.
 

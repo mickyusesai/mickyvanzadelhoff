@@ -22,7 +22,7 @@ Hedera is een publiek gedistribueerd grootboek dat gebruikmaakt van de hashgraph
 
 Hedera wordt gebruikt in diverse toepassingen, waaronder betalingen, DeFi-applicaties, NFT’s, gedecentraliseerde identiteit en duurzaamheid. Het is ook opmerkelijk dat Hedera wordt gebruikt door Reality+, een bedrijf dat digitale verzamelobjecten, games en metaverse-ervaringen voor wereldwijde merken ontwikkelt, wat de veelzijdigheid van Hedera benadrukt.
 
-## Hier **koop je** Hedera (HBAR) **met iDEAL en Bancontact**
+## Hier koop je Hedera (HBAR) met iDEAL en Bancontact
 
 Als je geïnteresseerd bent in het kopen van Hedera, zijn er twee prominente platforms die je moet overwegen: [Finst](/go/finst) en [Bitvavo](/go/bitvavo). Beide platforms bieden de mogelijkheid om Hedera (HBAR) met iDEAL of Bancontact te kopen.
 
@@ -30,11 +30,11 @@ Finst staat bekend om zijn lage handelskosten, wat het een kostenefficiënte keu
 
 Bitvavo, aan de andere kant, biedt een breed scala aan cryptocurrencies, waaronder Hedera (HBAR), en staat bekend om zijn gebruiksgemak. Het platform is ontworpen om het kopen en verkopen van crypto’s zo eenvoudig mogelijk te maken, zelfs voor degenen die nieuw zijn in de wereld van cryptocurrency.
 
-## **De beste NL Exchanges om te investeren in crypto**
+## De beste NL Exchanges om te investeren in crypto
 
 ![Finst Crypto Kopen](/images/migrated/finst-crypto-kopen-2.webp "Finst Crypto Kopen")
 
-### 1\. Finst
+### 1. Finst
 
 Goedkoopste exchange. Mogelijkheid tot investeren in bundels.
 
@@ -49,7 +49,7 @@ of [lees Finst review](/blog/review/finst-crypto-exchange/)
 
 ![Bitvavo affiliate programma](/images/migrated/bitvavo-affiliate-programma-1.webp "Bitvavo affiliate programma")
 
-### 2\. Bitvavo
+### 2. Bitvavo
 
 Grootste crypto exchange van de Benelux met veel crypto.
 

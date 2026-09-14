@@ -32,6 +32,7 @@ Net als met andere crypto munten kun je ook in deze projecten gemakkelijk invest
 
 Zoals altijd: [geld verdienen met crypto](/blog/web3/handelen-in-crypto-valuta/) brengt risico’s met zich mee. Maar met de juiste strategie en het juiste platform kun je ook enorme kansen benutten.
 
+<!-- TODO: verify this data is still current (meme-coin promo, Pikamoon pick "begin 2025", MEXC) -->
 ## Klaar om de volgende 100x meme-coin sensatie te ontdekken? 🚀
 
 Duik in de wereld van meme-coins en grijp potentieel enorme winsten! Maar hoe koop je die veelbelovende tokens **voordat** ze op de grote exchanges verschijnen? 🤯
@@ -63,19 +64,19 @@ De toekomst van kunstmatige intelligentie en crypto ziet er rooskleurig uit. De 
 
 De makkelijkste manier om dit te doen is **door AI crypto op te nemen in jouw portfolio**. Je koopt de crypto eenvoudig via een **[Nederlandse](/go/finst) [crypto](/go/finst) [exchange zoals Finst](/go/finst)** en houdt deze daar of op een eigen crypto wallet vast. De crypto exchanges waar je de AI crypto in dit artikel kunt kopen zijn:
 
-### [1\.](/go/finst) [Finst](/go/finst)
+### [1.](/go/finst) [Finst](/go/finst)
 
 Veilige en goedkoopste Nederlandse Crypto Exchange. een account aanmaken is eenvoudig en vanwege de Proof of Reserve (PoR) is crypto bewaren op het platform ook een goede optie. Crypto kopen doe je eenvoudig met iDEAL en Bancontact.
 
 [Maak account aan op Finst](/go/finst)
 
-### [2\. Bitvavo](/go/bitvavo)
+### [2. Bitvavo](/go/bitvavo)
 
 Dit is een zeer eenvoudig te gebruiken Nederlandse exchange waar je met iDEAL en Bancontact crypto kunt kopen. Hier zijn een aantal van de grotere AI crypto beschikbaar
 
 [Maak account aan op Bitvavo](/go/bitvavo)
 
-### [3\. MEXC](/go/mexc)
+### [3. MEXC](/go/mexc)
 
 Voor de wat kleinere AI crypto kom ik zelf bij MEXC terecht. Dit is een zeer grote internationale exchange die wat moeilijker te gebruiken is voor beginners omdat je niet met iDEAL geld kan storten. Het heeft een gigantisch aanbod aan (kleine en grote) crypto.
 
@@ -83,26 +84,26 @@ Voor de wat kleinere AI crypto kom ik zelf bij MEXC terecht. Dit is een zeer gro
 
 ## AI crypto top 18
 
-[1\. The Graph (GRT)](#grt)  
-[2\. Artificial Superintelligence Alliance (ASI)](#ASI)  
-[3\. Bittensor (TAO)](#TAO)  
-[4\. Numeraire (NMR)](#nmr)  
-[5\. Phala Network (PHA)](#pha)  
-[6\. iExec RLC (RLC)](#rlc)  
-[7\. Cortex (CTXC)](#ctxc)  
-[8\. Velas (VLX)](#ghst)  
-[9\. Render Network (RENDER)](#RENDER)  
-[10\. Delysium (AGI)](#AGI)  
-[11\. Oraichain (ORAI)](#orai)  
-[12\. Vectorspace AI (VXV)](#vxv)  
-[13\. Covalent (CQT)](#cqt)  
-[14\. Meme Kombat (MK)](#mk)  
-[15\. eTukTuk (TUK)](#tuk)  
-[16\. yPredict.ai (YPRED)](#ypred)  
-[17\. Artificial Liquid Intelligence (ALI)](#ali)  
-[18\. DeepBrain Chain (DBC)](#dbc)
+1\. The Graph (GRT)  
+2\. Artificial Superintelligence Alliance (ASI)  
+3\. Bittensor (TAO)  
+4\. Numeraire (NMR)  
+5\. Phala Network (PHA)  
+6\. iExec RLC (RLC)  
+7\. Cortex (CTXC)  
+8\. Velas (VLX)  
+9\. Render Network (RENDER)  
+10\. Delysium (AGI)  
+11\. Oraichain (ORAI)  
+12\. Vectorspace AI (VXV)  
+13\. Covalent (CQT)  
+14\. Meme Kombat (MK)  
+15\. eTukTuk (TUK)  
+16\. yPredict.ai (YPRED)  
+17\. Artificial Liquid Intelligence (ALI)  
+18\. DeepBrain Chain (DBC)
 
-## 1\. The Graph (GRT)
+## 1. The Graph (GRT)
 
 [Koop op Finst](/go/finst)
 
@@ -114,9 +115,9 @@ In plaats van zelf eindeloos data op te moeten zoeken, biedt The Graph ontwikkel
 
 The Graph heeft in 2024 verdere groei doorgemaakt, met name in het verbeteren van de integratie en functionaliteit van gedecentraliseerde applicaties (dApps). De GRT-token blijft cruciaal voor het ondersteunen van dit snelgroeiende ecosysteem.
 
-[\> Koop The Graph op Finst](/go/finst)
+[› Koop The Graph op Finst](/go/finst)
 
-## 2\. Artificial Superintelligence Alliance (ASI)
+## 2. Artificial Superintelligence Alliance (ASI)
 
 [Koop op Finst](/go/finst)
 
@@ -130,9 +131,9 @@ ASI combineert **autonome agents, AI-dienstenmarktplaatsen en veilige data-uitwi
 
 De **$ASI token** vormt het hart van dit ecosysteem en symboliseert de missie van de alliantie: technologie **toegankelijker, democratischer en veiliger maken**. Investeren in ASI betekent niet alleen profiteren van de groeiende AI-markt, maar ook bijdragen aan een beweging die de toekomst van technologie herdefinieert.
 
-[\> Koop Artificial](/go/finst) [Superintelligence](/go/finst) [Alliance op Finst](/go/finst)
+[› Koop Artificial](/go/finst) [Superintelligence](/go/finst) [Alliance op Finst](/go/finst)
 
-## 3\. Bittensor (TAO)
+## 3. Bittensor (TAO)
 
 [Koop op Finst](/go/finst)
 
@@ -146,9 +147,9 @@ De native token, **TAO**, wordt gebruikt als stimulans voor netwerkdeelnemers om
 
 In 2024 heeft Bittensor aanzienlijke aandacht gekregen van **durfkapitalisten**, met investeringen van onder andere Polychain, dat naar verluidt ongeveer **$200 miljoen in TAO-tokens** bezit. Deze investeringen onderstrepen het groeiende vertrouwen in Bittensor’s potentieel om de toekomst van kunstmatige intelligentie te transformeren.
 
-[\> Koop Bittensor](/go/finst) [op](/go/finst) [Finst](/go/finst)
+[› Koop Bittensor](/go/finst) [op](/go/finst) [Finst](/go/finst)
 
-## 4\. Numeraire (NMR)
+## 4. Numeraire (NMR)
 
 [Koop op Finst](/go/finst)
 
@@ -164,9 +165,9 @@ Wat Numeraire echt bijzonder maakt, is het mechanisme van staking en burning. Ge
 
 In 2025 blijft Numeraire zijn positie versterken als pionier op het gebied van AI-gedreven hedgefondsbeheer.. Het NMR-token blijft datawetenschappers motiveren om AI-modellen te ontwikkelen die cruciaal zijn voor de beleggingsstrategieën van Numerai.
 
-[\> Koop Numeraire op Finst](/go/finst)
+[› Koop Numeraire op Finst](/go/finst)
 
-## 5\. Phala Network (PHA)
+## 5. Phala Network (PHA)
 
 [Koop op Finst](/go/finst)
 
@@ -180,9 +181,9 @@ In 2024 heeft Phala Network zijn positie versterkt door de introductie van de AI
 
 Phala Network heeft zijn reputatie in 2024 versterkt als een veilig en vertrouwelijk computernetwerk, essentieel voor de bescherming van gevoelige data in AI-berekeningen. De PHA-token speelt een belangrijke rol in het ecosysteem, met name in governance en netwerkbeveiliging.
 
-[\> Koop Phala Network op Finst](/go/finst)
+[› Koop Phala Network op Finst](/go/finst)
 
-## 6\. iExec RLC (RLC)
+## 6. iExec RLC (RLC)
 
 [Koop op Bitvavo](/go/bitvavo)
 
@@ -196,9 +197,9 @@ In 2024 heeft iExec zijn positie in de sector van gedecentraliseerde cloud compu
 
 In 2025 blijft iExec RLC een sleutelspeler in gedecentraliseerde cloud computing, met een focus op het verstrekken van rekenkracht voor AI-toepassingen. Het RLC-token faciliteert transacties binnen het iExec-ecosysteem en stimuleert de ontwikkeling van gedecentraliseerde applicaties
 
-[\> Koop iExec RLC op Bitvavo](/go/bitvavo)
+[› Koop iExec RLC op Bitvavo](/go/bitvavo)
 
-## 7\. Cortex (CTXC)
+## 7. Cortex (CTXC)
 
 [Koop op MEXC](/go/mexc)
 
@@ -212,9 +213,9 @@ In 2024 heeft Cortex zijn positie versterkt door de lancering van **een kernsuit
 
 Cortex zal zich in 2025 verder ontwikkelen als platform dat AI-modellen op de blockchain mogelijk maakt. CTXC blijft een integraal onderdeel van het ecosysteem, waarbij het wordt gebruikt voor transacties en interacties binnen het Cortex-netwerk.
 
-[\> Koop Cortex op MEXC](/go/mexc)
+[› Koop Cortex op MEXC](/go/mexc)
 
-## 8\. Velas (VLX)
+## 8. Velas (VLX)
 
 [Koop op MEXC](/go/mexc)
 
@@ -230,9 +231,9 @@ Ze gebruiken daarbij wat ze zelf noemen **Arificial Intuition Delegated Proof of
 
 Velas heeft zich in 2024 onderscheiden als een van de snellere en schaalbare blockchain-platforms, met verbeterde functionaliteiten en efficiëntie in smart contract-uitvoeringen. VLX speelt een centrale rol in het netwerk voor transacties en deelname aan het consensusmechanisme.
 
-[\> Koop Velas op MEXC](/go/mexc)
+[› Koop Velas op MEXC](/go/mexc)
 
-## 9\. Render Network (RENDER)
+## 9. Render Network (RENDER)
 
 [Koop op MEXC](/go/mexc)
 
@@ -246,13 +247,13 @@ In 2024 heeft Render Network aanzienlijke vooruitgang geboekt door **de introduc
 
 De **RENDER** token speelt een cruciale rol binnen het ecosysteem en wordt gebruikt voor het faciliteren van transacties tussen GPU-aanbieders en -afnemers.
 
-[\> Koop Render op MEXC](/go/mexc)
+[› Koop Render op MEXC](/go/mexc)
 
-## 10\. Delysium (AGI)
+## 10. Delysium (AGI)
 
 [Koop op MEXC](/go/mexc)
 
-![](/images/migrated/Delysium-smaller.webp "Delysium")
+![Delysium](/images/migrated/Delysium-smaller.webp "Delysium")
 
 **Delysium** (AGI) is een innovatief Web3 videogameproject dat kunstmatige intelligentie (AI) integreert om **een virtuele wereld te creëren waarin mensen en AI wezens naast elkaar bestaan** op de blockchain.
 
@@ -262,9 +263,9 @@ De native token, **AGI**, fungeert als het utility-token binnen het Delysium-eco
 
 In 2024 heeft Delysium aanzienlijke vooruitgang geboekt door de lancering van nieuwe gamefuncties en AI-integraties, wat heeft geleid tot een groeiende gebruikersbasis en verhoogde betrokkenheid binnen de community.
 
-[\> Koop Delysium op MEXC](/go/mexc)
+[› Koop Delysium op MEXC](/go/mexc)
 
-## 11\. Oraichain (ORAI)
+## 11. Oraichain (ORAI)
 
 [Koop op MEXC](/go/mexc)
 
@@ -276,9 +277,9 @@ Oraichain fungeert als een **AI-oracle**, wat betekent dat het externe gegevens 
 
 Oraichain blijft in 2025 pionieren als de eerste AI-gedreven oracle voor cryptocurrencies, en heeft zijn integratie binnen diverse gebieden zoals DeFi, NFT’s, identiteit, en collectieve intelligentie uitgebreid. **ORAI heeft zich verder ontwikkeld als een essentiële schakel** in de bouw van Web3-applicaties met unieke AI-orakels​
 
-[\> Koop Oraichain op MEXC](/go/mexc)
+[› Koop Oraichain op MEXC](/go/mexc)
 
-## 12\. Vectorspace AI (VXV)
+## 12. Vectorspace AI (VXV)
 
 [Koop op MEXC](/go/mexc)
 
@@ -290,9 +291,9 @@ In 2024 heeft Vectorspace AI zijn positie versterkt door samenwerkingen met voor
 
 De VXV-token speelt een cruciale rol binnen het ecosysteem van Vectorspace AI. Gebruikers hebben deze tokens nodig om toegang te krijgen tot premium datasets en AI-diensten, wat de voortdurende ontwikkeling en verfijning van AI- en machine learning-modellen stimuleert.
 
-[\> Koop Vectorspace AI op MEXC](/go/mexc)
+[› Koop Vectorspace AI op MEXC](/go/mexc)
 
-## 13\. Covalent (CQT)
+## 13. Covalent (CQT)
 
 [Koop op MEXC](/go/mexc)
 
@@ -302,22 +303,8 @@ De VXV-token speelt een cruciale rol binnen het ecosysteem van Vectorspace AI. G
 
 De **CXT token** speelt een cruciale rol binnen het Covalent ecosysteem. Gebruikers hebben deze token nodig om toegang te krijgen tot diepgaande en uitgebreide blockchain-gegevens, wat essentieel is voor AI analyses en besluitvorming. Daarnaast wordt CXT gebruikt voor staking en governance binnen het netwerk, waardoor houders kunnen deelnemen aan belangrijke beslissingen en bijdragen aan de beveiliging van het platform.
 
-[\> Koop Covalent op MEXC](/go/mexc)
+[› Koop Covalent op MEXC](/go/mexc)
 
-## Klaar om de volgende 100x meme-coin sensatie te ontdekken? 🚀
-
-Duik in de wereld van meme-coins en grijp potentieel enorme winsten! Maar hoe koop je die veelbelovende tokens **voordat** ze op de grote exchanges verschijnen? 🤯
-
-**Volg deze simpele stappen:**
-
-1.  Open een account op dé crypto exchange voor kleine munten; [MEXC](/go/mexc)
-2.  Stort je funds op je MEXC account (bijv. USDT of Cardano) of gebruik Moonpay om met euro crypto te kopen.
-3.  Ga op jacht naar de nieuwste meme-coins: Doe je onderzoek en vind die verborgen pareltjes met x10 of zelfs x100 potentieel! (onze meme-coin pick voor begin 2025 is [PIKAMOON](https://www.pikamoon.io/))
-4.  Koop de meme coin en fingers crossed! 🤞
-
-**Let op:** Investeer alleen wat je kunt missen. Meme-coins zijn volatiel en risicovol. Doe altijd je eigen onderzoek!
-
-**Ready? [Maak je account op MEXC](/go/mexc) en check onze favoriete meme-coin Pikamoon!**
 
 ![pikamoon-kopen](/images/migrated/pikamoon-kopen-1.webp "pikamoon-kopen")
 
@@ -329,7 +316,7 @@ Onze meme-coin pick voor begin 2025! Deze hebben we uitgekozen omdat het behalve
 
 _Wij hebben **geen** **affiliatie** met dit project. Wees je bewust van de risico’s die met meme-coins gepaard gaan. Je kunt je inleg verliezen._
 
-## 14\. Pepe Unchained (PEPU)
+## 14. Pepe Unchained (PEPU)
 
 [Koop op MEXC](/go/mexc)
 
@@ -343,9 +330,9 @@ In 2024 heeft Pepe Unchained aanzienlijke vooruitgang geboekt door het ophalen v
 
 De **PEPU token** speelt een centrale rol binnen het ecosysteem van Pepe Unchained. Houders kunnen deelnemen aan stakingmechanismen met een jaarlijks terugkerende opbrengst (APY).
 
-[\> Koop PEPU op MEXC](/go/mexc)
+[› Koop PEPU op MEXC](/go/mexc)
 
-## 15\. eTukTuk (TUK)
+## 15. eTukTuk (TUK)
 
 [Koop op MEXC](/go/mexc)
 
@@ -357,9 +344,9 @@ Het project heeft tot doel traditionele, **vervuilende tuktuks te vervangen door
 
 In 2024 heeft eTukTuk aanzienlijke vooruitgang geboekt door tijdens de presalefase **2,5 miljoen dollar** op te halen. Maar, slechts enkele maanden later is nu de huidige waardering van eTukTuk is juist weer laag, en kent nog maar een market cap van grofweg 90.000 euro. Ondanks dat is het project nog wel actief. De toekomst van het project hangt af van de uitvoering van zijn plannen en de acceptatie van zijn diensten in de doelmarkten.
 
-[\> Koop TUK op MEXC](/go/mexc)
+[› Koop TUK op MEXC](/go/mexc)
 
-## 16\. yPredict.ai (YPRED)
+## 16. yPredict.ai (YPRED)
 
 [Koop op MEXC](/go/mexc)
 
@@ -371,9 +358,9 @@ Het platform biedt real-time **handelssignalen, sentimentanalyse, technische ana
 
 Het **YPRED token** wordt gebruikt binnen dit ecosysteem voor toegang tot geavanceerde functies en diensten, en biedt unieke stakingsbeloningen aan tokenhouders.
 
-[\> Koop YPRED op MEXC](/go/mexc)
+[› Koop YPRED op MEXC](/go/mexc)
 
-## 17\. Artificial Liquid Intelligence (ALI)
+## 17. Artificial Liquid Intelligence (ALI)
 
 [Koop op MEXC](/go/mexc)
 
@@ -383,13 +370,13 @@ Het **YPRED token** wordt gebruikt binnen dit ecosysteem voor toegang tot geavan
 
 De ALI Utility Token is de **native ERC-20 utility token** van het AI Protocol, die wordt gebruikt voor governance, regulering en transacties binnen het AI-ecosysteem. Het biedt toegang tot AI-systemen zoals CharacterGPT, maakt de creatie van iNFT’s mogelijk en ondersteunt de evolutie van hun intelligentie.
 
-[\> Koop Artificial Liquid Intelligence op MEXC](/go/mexc)
+[› Koop Artificial Liquid Intelligence op MEXC](/go/mexc)
 
-## 18\. DeepBrain Chain (DBC)
+## 18. DeepBrain Chain (DBC)
 
 [Koop op MEXC](/go/mexc)
 
-![](/images/migrated/deepbrain-chain-kunstmatige-intelligentie-crypto-1.webp "deepbrain-chain-kunstmatige-intelligentie-crypto (1)")
+![Deepbrain chain kunstmatige intelligentie crypto](/images/migrated/deepbrain-chain-kunstmatige-intelligentie-crypto-1.webp "deepbrain-chain-kunstmatige-intelligentie-crypto (1)")
 
 **DeepBrain Chain (DBC)** is een AI computingplatform dat de Polkadot Substrate infrastructuur gebruikt. Het project richt zich op het aanbieden van **high performance computing oplossingen** die AI-gedreven zijn, met een breed scala aan toepassingen waaronder cloud computing, gaming, farmaceutische diensten en visuele rendering.
 
@@ -397,4 +384,4 @@ Het platform heeft zijn ecosysteem uitgebreid met partnerschappen met bedrijven 
 
 DBC gebruikt blockchaintechnologie om een **efficiënte, kosteneffectieve en gedecentraliseerde benadering van AI-computing** te bieden. Het is ontworpen om te voldoen aan de groeiende vraag naar AI computingbronnen, terwijl het zorgt voor lagere kosten en verbeterde prestaties voor gebruikers.
 
-[\> Koop DeepBrain Chain op MEXC](/go/mexc)
+[› Koop DeepBrain Chain op MEXC](/go/mexc)

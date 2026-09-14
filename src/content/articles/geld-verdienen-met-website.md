@@ -18,9 +18,9 @@ Zelf [reis ik inmiddels al vijf jaar de wereld rond als digital nomad](/over/). 
 
 Wanneer je geld wilt verdienen met een website, moet je natuurlijk eerst een website hebben. Mijn eigen website is gehost bij Cloud86 en in [deze review](/blog/review/cloud86-webhosting-review/) leg ik je graag uit waarom jij dat ook zou moeten doen :).
 
-# **1\. Geld verdienen met website via Google Adsense**
+## 1. Geld verdienen met website via Google Adsense
 
-Dit is de simpelste manier om te starten met geld verdienen via je website. Google Adsense is interessant voor iedereen die net begint met zijn website tot aan mensen die al veel bezoekers (**\>10.000 p/maand**) hebben. Hoe meer bezoekers je op je website hebt hoe meer deze manier oplevert. Al werkt dat praktisch gezien bij alle manieren zo, zolang de bezoekers maar relevant zijn.
+Dit is de simpelste manier om te starten met geld verdienen via je website. Google Adsense is interessant voor iedereen die net begint met zijn website tot aan mensen die al veel bezoekers (**›10.000 p/maand**) hebben. Hoe meer bezoekers je op je website hebt hoe meer deze manier oplevert. Al werkt dat praktisch gezien bij alle manieren zo, zolang de bezoekers maar relevant zijn.
 
 > Google Adsense is een manier om advertenties op je website te plaatsen van derde partijen. Het grote voordeel is dat Google de adverteerder voor jou uitzoekt. Hierdoor weet je zeker dat de relevantie van de advertentie voor de bezoeker groot is en er vaak op wordt geklikt (=meer inkomsten).
 > 
@@ -42,7 +42,7 @@ Met Google Adsense kan bijna iedereen geld verdienen met zijn website. Gelukkig 
 
 **Gemiddelde Pay Per Click (PPC): €0,20**
 
-# **2\. Affiliate marketing om geld te verdienen met je website**
+## 2. Affiliate marketing om geld te verdienen met je website
 
 Tevens een best wel simpele manier om geld te verdienen met jouw website. Maar deze manier levert je wel meer op. Bij affiliate marketing krijg je namelijk niet betaald per keer dat iemand klikt op je advertenties, maar **per keer dat iemand iets koopt** (Pay Per Sale).
 
@@ -62,7 +62,7 @@ Ook wanneer ik even niets op mijn website plaats blijven er bezoekers komen en b
 
 **[Wil jij ook online geld verdienen en bouwen aan een passief inkomen? Volg mijn GRATIS training ‘De 5 Simpele Stappen Naar Jouw Eigen Winstgevende Blog’.](/blog/ondernemen/blog-beginnen-starten-stappenplan/)**
 
-[![](/images/migrated/affiliate-marketing-infographic.webp)](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/)
+[![Affiliate marketing infographic](/images/migrated/affiliate-marketing-infographic.webp)](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/)
 
 Het meest bekende en simpel te implementeren affiliate programma is die van Bol.com. Zij verkopen een groot scala aan producten en zijn daarom interessant om naartoe te verwijzen. De commissie ligt er tussen de 3% en 10%. Denk hierbij aan lage percentages voor dingen als een telefoon en aan hoge percentages bij online producten zoals een e-book.
 
@@ -72,7 +72,7 @@ Affiliate marketing is **dé manier om geld te verdienen met jouw website** wann
 
 Zorg er dus voor dat je alle ins en outs begrijpt en deze toepast. Zelf verdien ik inmiddels ruim 3000,- euro per maand met affiliate marketing maar dat ging niet helemaal vanzelf. Veel vallen en opstaan vooral. In **[mijn GRATIS training](/blog/ondernemen/blog-beginnen-starten-stappenplan/)** leg ik er alles over uit en vertel ik hoe jij een succes kunt maken van affiliate marketing.
 
-# **3\. Advertenties plaatsen op je website om geld te verdienen**
+## 3. Advertenties plaatsen op je website om geld te verdienen
 
 Je kunt natuurlijk ook gewoon betaald krijgen per advertentie op je website. Dit kan bijvoorbeeld wanneer er bedrijven zijn die dusdanig veel aansluiten bij jouw doelgroep dat ze graag op jouw website willen adverteren.
 
@@ -86,7 +86,7 @@ Wanneer je een goed bezochte website hebt, heb je dan waarschijnlijk al je eerst
 
 Moeilijk is vaak om te bepalen wat je voor een advertentie op jouw website kunt vragen. Per adverteerder zou ik een gemiddelde inschatten van 100,- euro p/maand voor 10.000 bezoekers. Maar het zal ook erg liggen aan het percentage van de bezoekers dat op de banner of advertentie klikt. Om dat te weten zul je je moeten verdiepen in Google Analytics, de statistieken zijn tenslotte wel allemaal aanwezig. :)
 
-# **4\. Geld verdienen met jouw website door advertorials toe te staan**
+## 4. Geld verdienen met jouw website door advertorials toe te staan
 
 Wanneer jouw website met name een blog betreft kan het interessant zijn om advertorials toe staan. Dat wil zeggen; **een gesponsorde blogpost**.
 
@@ -102,7 +102,7 @@ Voor advertorials kun je ongeveer hetzelfde vragen als voor advertenties. Wannee
 
 Het vinden van bedrijven voor advertorials werkt hetzelfde als bij het zoeken naar adverteerders. Je kunt relevante bedrijven mailen of ze een advertorial willen op jouw website en je kunt op je website een kopje ‘samenwerken’ plaatsen met daarin jouw aanbod.
 
-# **5\. Geld verdienen met bedrijfsvermeldingen op jouw website**
+## 5. Geld verdienen met bedrijfsvermeldingen op jouw website
 
 Dit is bijna dezelfde strategie als adverteerders maar net iets anders vormgegeven. In de setting van bedrijfsvermeldingen laat je bedrijven **een bedrijfsvermelding plaatsen op jouw website**.
 
@@ -116,7 +116,7 @@ Zeker wanneer je dit groot aanpakt en je veel bedrijven vermeld op je website ka
 
 **[Zoek je naar manieren om online geld te verdienen? Volg mijn GRATIS training over ‘De 5 Simpele Stappen Naar Jouw Eigen Winstgevende Blog’.](/blog/ondernemen/blog-beginnen-starten-stappenplan/)**
 
-# **6\. Geld verdienen met je eigen product of dienst**
+## 6. Geld verdienen met je eigen product of dienst
 
 Voor wie echt geld wilt verdienen met website, kun je het beste een eigen product verkopen. Dan is je website dus meer een [webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/) ;). Een eigen product bedenken hoeft lang niet zo moeilijk te zijn als je zou denken.
 
@@ -124,11 +124,11 @@ Een product kan namelijk ook gewoon een e-book zijn. Of je gaat aan de slag met 
 
 > Het grote voordeel aan het verkopen van je eigen product in plaats van die van iemand anders is dat je van niemand anders afhankelijk bent. Tevens hoef je de opbrengst niet te delen en verdien je er dus meer aan. Genoeg redenen dus om aan de slag te gaan met jouw eigen product (of dienst) en deze via jouw website te verkopen.
 > 
-> [\> Lees hier alles over het starten van een webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/)
+> [› Lees hier alles over het starten van een webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/)
 
 Zelf verkocht ik op mijn website bijvoorbeeld mijn boek. Interessant om te weten is wellicht dat ik dat boek pas heb gepubliceerd toen ik genoeg bezoekers op mijn website had. Anders zou ik het boek aan niemand kunnen verkopen.
 
-# **7\. Geld verdienen door je website te verkopen**
+## 7. Geld verdienen door je website te verkopen
 
 Geld verdienen met jouw website, kan natuurlijk ook gewoon door een website te verkopen. Hier zie ik zelf alleen niet zoveel in. **Tenzij je website honderd duizenden bezoekers** heeft, zul je er niet zoveel voor krijgen.
 
@@ -136,7 +136,7 @@ Het ligt er daarbij maar net aan in welke branche je zit en hoe goed de website 
 
 De vraag is dan alleen waarom je hem zou verkopen en je er niet gewoon zelf geld mee zou gaan verdienen. Met bovengenoemde manieren moet dat je toch zeker lukken! ;)
 
-# **8\. Geld krijgen voor een publicatie**
+## 8. Geld krijgen voor een publicatie
 
 Toen ik zelf begon aan mijn website en daarbij behorende blog had ik niet verwacht dat dit een verdienmodel zou zijn. Maar ik krijg regelmatig mailtjes van bedrijven die linkjes willen plaatsen op mijn website tussen een artikel. De reden hiervoor; dit is goed voor hun eigen ranking in Google.
 
@@ -144,18 +144,12 @@ Voor zo’n linkje betaald een bedrijf bij een veel bezochte website al snel 200
 
 **[Deze en andere manieren om geld te verdienen met een website of blog bespreek ik ook in mijn GRATIS online training daarover.](/blog/ondernemen/blog-beginnen-starten-stappenplan/)**
 
-# **Iedereen kan geld verdienen met een website**
+## Iedereen kan geld verdienen met een website
 
 Ik ben van mening dat iedereen geld kan verdienen met een website. Natuurlijk is het iets wat zich op zou moeten bouwen omdat je niet vanaf dag één al duizenden bezoekers hebt.
 
 Maar wanneer je doorzet en je een beetje in de materie verdiept kun je grote sprongen maken. Het mooiste aan geld verdienen met een website, vind ik vooral dat dat is wat [mijn leefstijl als digital nomad](/over/) mogelijk maakt. Door mijn website kan ik locatie onafhankelijk geld verdienen en de wereld over reizen.
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

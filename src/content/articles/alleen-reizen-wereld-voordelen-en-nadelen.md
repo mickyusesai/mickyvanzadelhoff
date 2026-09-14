@@ -14,7 +14,7 @@ Als digital nomad **reisde ik vaak alleen** totdat ik een vriendin kreeg. Die er
 
 Als je veel kan reizen, bijvoorbeeld doordat je reizen en werken combineert als [digital nomad](/blog/digitalenomaden/digital-nomad-worden/), dan zul je begrijpen dat er niet altijd iemand is om met je mee te gaan. Alleen reizen is dus zeker niet altijd een keuze, maar soms ook gewoon ‘hoe het gaat’.
 
-## **Jezelf beter leren kennen op reis**
+## Jezelf beter leren kennen op reis
 
 Laten we maar gelijk met het allergrootste voordeel beginnen van alleen reizen. Je leert jezelf steeds weer beter kennen. Ook na een jaar reizen in mijn eentje bleef het me verbazen. Er zijn altijd dingen over jezelf te leren. Alleen zijn biedt **alle tijd om na te denken** en zo hier en daar wat te [filosoferen over het leven](/blog/tips/spirituele-groei-en-inzicht/). Het gaat even om niemand anders, maar gewoon om jezelf. Je zult veel momenten ervaren dat je écht de tijd hebt om na te denken en daar leer je van.
 
@@ -24,7 +24,7 @@ Zo merkte ik dat toen ik samen ging reizen veel van mijn spontane ontmoetingen o
 
 **[Ik heb mijn verhaal als digital nomad opgeschreven in het boek ‘Verhalen en lessen uit een vrij leven – Digital nomad’, deze kun je hier gratis downloaden.](/boek/)**
 
-## **Je maakt snel vrienden als je alleen reist**
+## Je maakt snel vrienden als je alleen reist
 
 Alleen reizen betekent natuurlijk niet dat je helemaal alleen bent. Door alleen te reizen [ontmoet je juist heel veel mensen](/blog/tips/mensen-ontmoeten-op-reis/). Verblijf maar eens alleen in een hostel of loop in een vreemde stad. Je ontmoet je nieuwe vrienden overal. Juist het feit dat je alleen bent maakt deze ontmoeting makkelijk. Al helemaal wanneer de ander ook alleen reist.
 
@@ -32,19 +32,19 @@ Zo heb je snel je reisvrienden gemaakt. Een nadeel aan reisvrienden is vaak wel 
 
 Naar mate ik meer ben gaan reizen werd het voor mij makkelijker om direct de diepte in te gaan. Een gesprek mag dan wel beginnen met hoe iemand heet en waar die vandaan komt, je kunt gelijk doorvragen naar iets wat je interessant vindt. Voor je het weet zit je te bediscussiëren hoe het macro politieke klimaat veranderd.
 
-## **Gaan en staan waar je wil**
+## Gaan en staan waar je wil
 
 Iedere dag is precies zoals jij het wilt. Wanneer je alleen reist is er niemand anders die beslist wat jij gaat doen dan jijzelf. Je kunt dus precies doen waar jij gelukkig van wordt. Je hoeft namelijk geen rekening te houden met anderen en dit voelt vaak heerlijk bevrijdend.
 
 Wel erken ik hierbij dat [wanneer je na een lange reis terug komt](/blog/tips/overgerespecteerd-en-totaal-onbegrepen/) dit onderdeel moeilijk is. Plots verwachten mensen namelijk weer wél dat je rekening met hen houd. Begrijpelijk ook ;).
 
-## **Eenzaamheid en alleen reizen**
+## Eenzaamheid en alleen reizen
 
 Hier zal je in het begin van je reis waarschijnlijk geen last van hebben. Maar wanneer je langer alleen reist kan eenzaamheid of heimwee opkomen. Je bent namelijk zo op jezelf aangewezen. Zelf vind ik dit het aller naarste gevoel. Vanwege de afstand tussen jou en de mensen van wie je houd, voelt het soms **alsof je helemaal alleen op de wereld staat**.
 
 De beste remedie hiervoor is wellicht door je geliefden (of [lange afstandsrelatie](/blog/tips/lange-afstandsrelatie-buitenland/)) even te bellen. Dit werkt voor mij altijd erg goed, dus daarvoor mijn grote dank aan de uitvinding videobellen. Maar tegelijk heeft die eenzaamheid soms ook iets heel moois. Zo confronteert het je met iets dat eng is, maar wat je wel kan overwinnen. Ook maakt het de contacten met geliefden intenser als je weer terugkomt, zo is mijn beleving.
 
-## **Niemand begrijpt wat je meemaakt op reis**
+## Niemand begrijpt wat je meemaakt op reis
 
 Vaak hoor je dat als mensen na een langere tijd alleen reizen terug komen in hun thuisland, ze zich minder goed begrepen voelen. Anderen begrijpen namelijk niet zomaar wat jij op jezelf allemaal hebt meegemaakt. Zij waren er niet bij.
 
@@ -52,7 +52,7 @@ Dat gevoel is soms wat pijnlijk. Alles wat je hebt gedaan was namelijk puur voor
 
 Wat uiteraard helpt is als je je reisverhalen met iemand kan bespreken die ook veel reist. Dan zijn er al snel ervaringen die overeenkomen qua gevoel. Je kunt elkaar dan beter begrijpen.
 
-## **Kosten van alleen reizen**
+## Kosten van alleen reizen
 
 Alleen reizen is duurder dan reizen met iemand anders. Hotelkamers bijvoorbeeld zijn vrijwel altijd ingericht om er met zijn tweeën te overnachten. Samen kun je daar dus geld op besparen, wat je alleen niet kan. Een oplossing hiervoor is door wanneer je alleen reist met name te overnachten in hostels. Mocht je wel een eigen kamer willen, dan moet je toch echt rekenen op wat extra kosten.
 

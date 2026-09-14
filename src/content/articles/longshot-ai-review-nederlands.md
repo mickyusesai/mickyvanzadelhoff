@@ -45,17 +45,9 @@ Uiteraard heeft deze AI copywriting tool ook **alle functies** die je graag zou 
 *   **Explain Like I’m 5:** Je raad het al, deze functie maakt eens stuk tekst leesbaar voor iedereen. Dit was voor mijzelf in het bijzonder handig toen ik crypto gerelateerde artikelen aan het schrijven was.
 *   **Reviews:** Niet heel ethisch als je het mij vraagt, maar deze AI kan reviews genereren voor jouw bedrijf die geschreven lijken door échte mensen.
 
-![training-ai-kunstmatige-intelligentie-in-company](/images/migrated/training-ai-kunstmatige-intelligentie-in-company-2.webp "training-ai-kunstmatige-intelligentie-in-company")
 
-### **Training AI op locatie 2024**
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
-De wereld waarin we werken veranderd ontzettend snel. Breng jezelf en jouw team op de hoogte van de laatste ontwikkelingen en leer **hoe AI tools zoals ChatGPT en Gemini zijn in te zetten voor productiviteit, (werk)geluk en succes!**
-
-Duur: 3 uur  
-Investering: 950,- ex BTW  
-Formaat: Tot 30 deelnemers
-
-[Contact voor meer info](/contact/)
 
 ## Zo gebruik je LongShot in het Nederlands
 

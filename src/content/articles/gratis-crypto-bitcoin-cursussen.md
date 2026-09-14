@@ -14,7 +14,7 @@ Crypto is trending, maar hoe zit het precies met al die blockchain en wallets? A
 
 Wellicht dus dat je op zoek bent naar de **beste crypto cursus** om van te leren. Daarom bespreken we in dit blog gratis crypto en Bitcoin trainingen in Nederland en België. De beste naar mijn mening is [de cursus van](/go/get-crypto-masterclass) [AllesOverCrypto](/go/get-crypto-masterclass).
 
-# Wat maakt een goede crypto cursus?
+## Wat maakt een goede crypto cursus?
 
 Eerst even dit. Over **cryptocurrencies** is best veel te vinden op het internet. Zo heb ik op mijn eigen blog al [dit artikel over geld verdienen met crypto traden](/blog/web3/handelen-in-crypto-valuta/), maar zijn er ook tientallen Nederlandstalige platforms bomvol verdiepende informatie.
 
@@ -26,9 +26,9 @@ Trouwens als je crypto wilt gaan traden doe je dit het eenvoudigst met het Neder
 
 Goed, dat gezegd hebbende kunnen we kijken naar **de 3 beste gratis crypto cursussen**.
 
-# Gratis crypto cursussen
+## Gratis crypto cursussen
 
-## 1\. AllesOverCrypto – Bitcoin en cryptomunten training
+## 1. AllesOverCrypto – Bitcoin en cryptomunten training
 
 ![Allesovercrypto - gratis training](/images/migrated/Allesovercrypto-gratis-training.webp "Allesovercrypto – gratis training")
 
@@ -38,7 +38,7 @@ Buiten [deze](/go/get-crypto-masterclass) [gratis](/go/get-crypto-masterclass) [
 
 [AllesOverCrypto gratis training](/go/get-crypto-masterclass)
 
-## 2\. Madelon Vos – ‘Minicursus Bitcoin & Technische Analyse’ (en ‘Bitcoin Bullmarkt Bundel’)
+## 2. Madelon Vos – ‘Minicursus Bitcoin & Technische Analyse’ (en ‘Bitcoin Bullmarkt Bundel’)
 
 ![Madelon Vos - Gratis Content](/images/migrated/Madelon-Vos-Gratis-Content.webp "Madelon Vos – Gratis Content")
 
@@ -52,9 +52,9 @@ Zoals ik al zei, de gratis cursussen dienen als opstapje naar de betaalde (uitge
 
 [Madelon Vos gratis training](/go/madelonvos)
 
-## 3\. CryptoCommunity – Crypto kopen training
+## 3. CryptoCommunity – Crypto kopen training
 
-![](/images/migrated/CryptoCommunity.webp "CryptoCommunity")
+![Cryptocommunity](/images/migrated/CryptoCommunity.webp "CryptoCommunity")
 
 Cryptocommunity gaat inmiddels al wat langer mee. Zij bieden al enkele jaren trainingen in het handelen met crypto’s. Gelukkig hoef je daar nog geen cryptonair voor te zijn. Ze hebben ook gratis masterclasses op hun website staan onder het kopje ’trainingen’.
 
@@ -62,11 +62,11 @@ Je kunt deze trainingen het beste zien als **een spoedcursus voor de Bitcoinwere
 
 [CryptoCommunity gratis training](/go/cryptocommunity)
 
-## **De beste NL Exchanges om te investeren in crypto**
+## De beste NL Exchanges om te investeren in crypto
 
 ![Finst Crypto Kopen](/images/migrated/finst-crypto-kopen-2.webp "Finst Crypto Kopen")
 
-### 1\. Finst
+### 1. Finst
 
 Goedkoopste exchange. Mogelijkheid tot investeren in bundels.
 
@@ -81,7 +81,7 @@ of [lees Finst review](/blog/review/finst-crypto-exchange/)
 
 ![Bitvavo affiliate programma](/images/migrated/bitvavo-affiliate-programma-1.webp "Bitvavo affiliate programma")
 
-### 2\. Bitvavo
+### 2. Bitvavo
 
 Grootste crypto exchange van de Benelux met veel crypto.
 
@@ -94,13 +94,13 @@ Grootste crypto exchange van de Benelux met veel crypto.
 
 of [lees Bitvavo review](/blog/review/bitvavo-review-crypto/)
 
-# Gratis versus betaalde crypto trainingen
+## Gratis versus betaalde crypto trainingen
 
 Voor de introductie kun je prima terecht bij een **gratis training over crypto**. Wel is het zo dat als je echt goed wilt worden in bijvoorbeeld het lezen van grafieken, het handig kan zijn om een betaalde training aan te schaffen. Deze informatie en vaardigheid moet actueel zijn en vereist meer ingewikkelde technieken welke je niet in een gratis training terugvindt.
 
 Ga tegelijkertijd zeker niet direct in op een 2000 euro aanbod voor een crypto training. Het kan geen kwaad om eerst wat eigen onderzoek te doen en je in de basis te verdiepen. Daarbij is het natuurlijk ook belangrijk om te weten of de stijl van de trainer je genoeg aanspreekt.
 
-# Conclusie gratis crypto en Bitcoin cursussen
+## Conclusie gratis crypto en Bitcoin cursussen
 
 Op het internet is veel te vinden. Buiten de verschillende gratis crypto cursussen die worden aangeboden, zijn er ook tal van blogs vol waardevolle informatie. Echter, wat handig is aan een cursus is dat deze je in de juiste volgorde meeneemt en ervoor zorgt dat je niets over het hoofd ziet.
 

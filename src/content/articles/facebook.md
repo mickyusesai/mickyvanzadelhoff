@@ -26,7 +26,7 @@ Mocht je je dan ook afvragen wat dat vijfde logo is in de afbeelding hierboven, 
 
 In dit artikel ga ik in op hoe je geld kunt verdienen met **jouw eigen Facebook pagina of groep**, evenals hoe je geld kunt verdienen **met Facebook in het algemeen**. Zo kun je bijvoorbeeld ook geld verdienen met het opzetten van Facebook ads voor bedrijven ;).
 
-## 1\. Geld verdienen met je eigen Facebook pagina
+## 1. Geld verdienen met je eigen Facebook pagina
 
 De meest voor de hand liggende manier waarop mensen geld verdienen via Facebook is met een eigen pagina. Dat is dan vaak een pagina die het nodige bereik heeft **binnen een bepaalde doelgroep**.
 
@@ -65,17 +65,11 @@ Merk je **dat jouw posts een slecht bereik hebben**, terwijl je wel veel volgers
 *   Gebruik Facebook groepen om meer mensen met jouw pagina in contact te brengen
     
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
-
-## 2\. Geld verdienen met je eigen Facebook groep
+## 2. Geld verdienen met je eigen Facebook groep
 
 Facebook groepen zijn geniaal. Ik gebruik ze **regelmatig** om dingen rondom mijzelf te promoten en dat werkt goed. Zo postte ik in tientallen Facebook groepen een bericht over een fietstocht die ik maakte van Nederland naar Turkije.
 
@@ -113,7 +107,7 @@ Het mooiste van dit alles; **de opstartkosten zijn laag**. Je kunt met de knop h
 
 [Maak een webshop met Shopify](/go/shopify)
 
-## 3\. Geld verdienen met affiliate marketing
+## 3. Geld verdienen met affiliate marketing
 
 Bedrijven benaderen voor gesponsorde posts of zelf een webshop opzetten is voor veel mensen simpelweg te veel werk. Daarom is het goed om te weten dat er ook een andere manier is waar je al direct mee aan de slag kunt; **affiliate marketing**.
 
@@ -121,7 +115,7 @@ Zelf pas ik [affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met
 
 Om hiermee aan de slag te gaan moet je jezelf aansluiten bij [een affiliate programma](/blog/ondernemen/affiliate-programma/) zodat je een aan jou unieke link kunt krijgen. Deze **affiliate link** plaatst, wanneer iemand daarop klikt, een cookie in de browser. Hierdoor wordt geregistreerd dat jij die persoon het product of de dienst hebt aangeraden.
 
-![](/images/migrated/affiliate-marketing-infographic.webp "affiliate-marketing-infographic")
+![Affiliate marketing infographic](/images/migrated/affiliate-marketing-infographic.webp "affiliate-marketing-infographic")
 
 Het aantal bedrijven met een affiliate programma is eindeloos. Tegenwoordig werkt het dan ook om gewoon eerst te kijken naar welke diensten of producten je zelf gebruikt. Zoek naar dat bedrijf op Google met **het woord ‘affiliate’** erbij en je zult zien dat ze in veel gevallen **een eigen partnerpagina** hebben waarop jij je kunt aanmelden.
 
@@ -139,7 +133,7 @@ Als je direct goed **aan slag wil met affiliate marketing** dan raad ik je graag
 
 [**Leren hoe je geld verdient met affiliate marketing? Deze cursus legt het haarfijn uit!**](/go/affiliate-marketing-revolutie)
 
-## 4\. Facebook advertenties voor bedrijven
+## 4. Facebook advertenties voor bedrijven
 
 Iets waar ik zelf bekend mee ben is het aanmaken van Facebook advertenties voor bedrijven. Als je weet wat je doet zit hier een gigantische bron van inkomsten in. **Een advertentie opzetten kost namelijk niet veel tijd** maar kan een bedrijf (en dus jou) veel geld opleveren.
 
@@ -155,17 +149,8 @@ Ik heb best wat voorbeelden voorbij zien komen van mensen die door te adverteren
 
 Vanwege de concurrentie die in dit werkveld ontstaan is zijn er nu ook veel partijen **die garanties geven** aan bedrijven. Denk aan een minimum aantal leads dat door de advertenties wordt gegenereerd. Wordt dat aantal niet behaald, dan hoef je als bedrijf simpelweg niet te betalen. Handig als jij zeker bent van je zaak!
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
-
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
-
-## 5\. Facebook management doen voor bedrijven
+## 5. Facebook management doen voor bedrijven
 
 Bedrijven willen vaak ‘iets doen’ met Facebook maar weten gewoonweg niet wat en hoe. Ze willen hun Facebook planning dan ook graag uitbesteden zodat ze weten dat het goed wordt gedaan.
 
@@ -195,12 +180,3 @@ Om een voorbeeld te noemen. Geef jouw Facebook volgers in ruil voor hun e-mail a
 
 Succes met Facebook!
 
-#### _GRATIS Digital Nomad Boek_
-
-## **Dé inspiratie voor een vrij leven**
-
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

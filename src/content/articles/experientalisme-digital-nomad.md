@@ -14,7 +14,7 @@ Heel vaak schop ik zelf tegen dingen als materialisme. Het hechten van waarde aa
 
 Maar voordat ik nu alle materialisten met de grond gelijk maak roep ik mezelf even terug. Want ik mag dan wel leven met minimale materie, maar bevind ik mij niet in een hele andere ratrace? Namelijk die van het **experientalisme**. Eentje, die net als materialisme altijd maar meer en meer wilt. Ditmaal zijn het alleen niet de spullen, maar de ervaringen waarvan je meer en meer wilt.
 
-# Experientalisme, de ratrace van digital nomads
+## Experientalisme, de ratrace van digital nomads
 
 Hoewel mensen juist gaan [reizen en werken](/blog/digitalenomaden/reizen-en-werken-combineren/) om de ratrace te ontspringen kan het goed zijn dat juist [de digital nomad leefstijl](/blog/digitalenomaden/digital-nomad-worden/) een nieuwe ratrace veroorzaakt. Mensen tellen hun bestemmingen alsof het troffees zijn en daarmee lijkt dat de nieuwe rang om te vergelijken. Hoe meer ervaringen, hoe meer status. Maar ook dit is natuurlijk een oneindige cirkel. Er zal altijd iemand zijn die op meer plekken is geweest dan jij en er zal altijd iemand zijn die nog net iets avontuurlijker reist. Er zal gewoonweg altijd iets beters zijn.
 
@@ -24,7 +24,7 @@ De grootste visuele uiting van de experientalistische maatschappij is te vinden 
 
 Maar dat brengt dus het volgende gevaar met zich mee. Waar ik als millennial zit te schoppen tegen het materialisme van de vorige generatie, maak ik zelf deel uit van de generatie die een nieuwe vorm van materialisme heeft opgezet. Het gevaar is dat iedereen die reizen en werken wilt gebruiken om de ratrace te ontsnappen, zomaar in een nieuwe ratrace terecht kan komen. Net als bij spullen kopen, is het ook bij reizen kopen dus waanzinnig essentieel om dit puur voor jezelf te doen en niet voor anderen. Daar ging ik zelf één keer groot de fout in.
 
-# Thailand, wil ik daar wel zijn?
+## Thailand, wil ik daar wel zijn?
 
 Zo neem ik je mee naar mijn reis door Thailand. Ik had op dat moment al erg veel gereisd door Oost Europese landen. Omdat ik alleen nog maar in Europa was geweest leek het mij leuk een keer verder te reizen. Over Thailand hoorde ik enorm veel. Het staat toch bekend als hét backpackers oord van de wereld.
 
@@ -40,7 +40,7 @@ Ik besefte mij daardoor dat al die ervaringen van mensen die mij over Thailand h
 
 > Om een of andere vage reden doet iedereen dat met een backpack terwijl Italië word bezocht met een koffer. De reden hiervoor, geen flauw idee maar enigszins tekenend is het wel. Misschien een bepaald verlangen naar avontuur? Het verlangen om de ervaring ‘Backpacken in Azië’ toe te voegen aan het experientalistische lijstje?
 
-# Experientalisme niet laten leiden
+## Experientalisme niet laten leiden
 
 Wanneer je dingen voor een ander doet in plaats van voor jezelf voelen deze altijd minder goed. Anderen zien de wereld namelijk door andere ogen en kunnen vaak niet kijken vanuit jouw perspectief. Het verzamelen van ervaringen is niets mis mee zolang je het maar voor jezelf doet. Al is dat met het verzamelen van spullen natuurlijk niet veel anders. Uiteindelijk is de hamvraag: “Zou je het ook doen als je het met niemand zou mogen delen?”, als je wilt weten of je iets voor jezelf doet. En als je daar maar vaak genoeg ja op kunt antwoorden lijkt het mij allemaal nog wel gezond.
 

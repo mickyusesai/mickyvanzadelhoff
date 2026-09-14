@@ -24,7 +24,7 @@ Laten we bij het begin beginnen 😉.
 
 [**Wil je leren hoe je geld verdient met het flippen van NFT’s? Kijk dan eens deze gratis training >>**](/go/nft-secrets-gratis)
 
-# 1\. Wat is een NFT?
+## 1. Wat is een NFT?
 
 NFT staat voor **non-fungible token**. In correct Nederlands; **niet-verwisselbare token**. Oké.
 
@@ -40,7 +40,7 @@ Qua digitale kunst kan je denken aan een **foto, plaatje, video, 3D model, digit
 
 ![NFT Mona Lisa Shiba Photoshop](/images/migrated/photoshop-versie-mona-lisa-nft-1.webp "photoshop-versie-mona-lisa-nft (1)")
 
-# 2\. Wat geeft een NFT waarde?
+## 2. Wat geeft een NFT waarde?
 
 Net zoals bij fysieke kunst wordt de waarde van een NFT bepaald door **wat een gek ervoor geeft**. Ook wordt de prijs flink opgedreven door **vraag en aanbod**.
 
@@ -56,13 +56,13 @@ Als je **[online geld wilt verdienen](/blog/online-geld-verdienen/online-geld-ve
 
 ![NFT training](/images/migrated/Future-proof-Business-1-e1645006633208.webp "NFT training")
 
-### **Als bedrijf aan de slag met NFTs?**
+#### Als bedrijf aan de slag met NFTs?
 
 Ga jarenlang experimenteren OF leer met de NFT In-Company training binnen één dag alles wat je nodig hebt. Wij maken bedrijven Web 3.0 ready!
 
 [NFT In-Company](https://desynt.io/nft-incompany/)
 
-# 3\. Geld verdienen met het kopen en verkopen van NFT’s
+## 3. Geld verdienen met het kopen en verkopen van NFT’s
 
 Nu je begrijpt wat een NFT waarde geeft, begrijp je ook dat deze van waarde kan veranderen. Allemaal een kwestie van vraag en aanbod.
 
@@ -123,7 +123,7 @@ Die 25 ETH waar deze deelneemster het over heeft is **zo’n €25.000,-**. Niet
 
 Als je eens wilt kijken of deze manier van geld verdienen ook wat voor jou is, dan raad ik je graag aan om [deze gratis workshop van Mitchel van Duuren](/go/nft-secrets-gratis) te volgen. Daarin geeft hij voorbeelden van **zijn eigen NFT flips**.
 
-# 4\. Je eigen NFT uitbrengen
+## 4. Je eigen NFT uitbrengen
 
 Stel je bent designer en bent van plan om **digitale kunst** te creëren. Of je hebt kunst en wilt deze digitaliseren. Dan zijn NFT’s een uitkomst. Het maakt het mogelijk om met ontwerpen veel **meer geld te verdienen** dan dat voorheen mogelijk was. Zeker als je zelf al wat bereik (volgers op social media etc.) hebt opgebouwd liggen hier kansen.
 
@@ -139,7 +139,7 @@ Voor het gemak neem ik je mee in een NFT project dat ik samen met een groep vrie
 
 ![nft-metabunkers](/images/migrated/metabunkers-logo-zwart-groot.webp "metabunkers-logo-zwart-groot")
 
-## Stap 1: De kunst
+### Stap 1: De kunst
 
 Wanneer je iets als een NFT wilt verkopen moet dit een afbeelding, GIF, video of 3D model zijn. Dit kan letterlijk zo simpel zijn als een gekleurde vierkant. Toch zal je begrijpen dat een vierkantje wellicht wat moeilijk te verkopen is, wie wil dat immers hebben?
 
@@ -163,7 +163,7 @@ Als je jouw eerste NFT gaat uitbrengen begin je waarschijnlijk gewoon met een pl
 
 Zoek je nog naar andere ideeën **om als bedrijf iets met NFTs te doen?** [Hier vind je tal van NFT voorbeelden van bedrijven](/blog/web3/nft-ideeen-bedrijf/).
 
-## Stap 2: Van kunst naar NFT
+### Stap 2: Van kunst naar NFT
 
 Veel mensen zijn bang dat het allemaal super technisch en moeilijk wordt. Maar zoals het eigenlijk met iedere technologie zit, hoef je ook hier niet volledig te begrijpen hoe het werkt. Als je maar weet **hoe je er gebruik van kan maken**.
 
@@ -207,7 +207,7 @@ Je hebt jouw eerste eigen NFT gemaakt. Gefeliciteerd!
 
 Toch zal je zien dat er **niet** gelijk kopers klaar staan om jouw NFT voor duizenden euro’s over te nemen. Er worden **miljoenen NFT’s gemaakt** en daaruit naar voren komen kost moeite. Laten we daarom kijken naar manieren om jouw NFT te promoten.
 
-## Stap 3: Jouw NFT promoten
+### Stap 3: Jouw NFT promoten
 
 **Marketing** is de belangrijkste stap om van een NFT project een succes te maken. Natuurlijk hoor je vaak de projecten voorbij komen die voor belachelijke bedragen worden verkocht, maar zelf zoiets opzetten is zo makkelijk nog niet.
 
@@ -215,7 +215,7 @@ Wanneer je een NFT hebt gemaakt is het dus tijd om de promotie te starten. Of ei
 
 Dat begint allemaal bij een goed verhaal. Is het gewoon een plaatje dat je verkoopt of zit er meer achter? Wanneer je een NFT verkoopt, **verkoop je in feite het verhaal** dat erachter zit. Bij Metabunkers hebben wij daarom letterlijk een verhaal geschreven dat onze fans bind.
 
-#### [Voorbeeld: Verhaal Metabunkers](#b168b5f98adb6993f)
+##### Voorbeeld: Verhaal Metabunkers
 
 Imagina you’re at home trying to wind down from another long day. You just had dinner and the radio is still playing in the background. When you head to the kitchen to do the dishes, you hear this **obnoxious breaking-news bulletin** on the radio. The reporter is warning everyone for a **martian invasion**.
 
@@ -253,13 +253,13 @@ Probeer je constant in de ander te verplaatsen. Waarom zou iemand jouw NFT kopen
 
 ![NFT training](/images/migrated/Future-proof-Business-1-e1645006633208.webp "NFT training")
 
-### **Als bedrijf aan de slag met NFTs?**
+#### Als bedrijf aan de slag met NFTs?
 
 Ga jarenlang experimenteren OF leer met de NFT In-Company training binnen één dag alles wat je nodig hebt. Wij maken bedrijven Web 3.0 ready!
 
 [NFT In-Company](https://desynt.io/nft-incompany/)
 
-# 5\. Conclusie NFT’s
+## 5. Conclusie NFT’s
 
 Voor wie nieuw is in de NFT game voelt het allemaal wat overweldigend. Logisch ook, het is allemaal volledig nieuw, maar dat geeft je gelijk **een groot voordeel**!
 

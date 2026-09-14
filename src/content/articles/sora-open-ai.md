@@ -22,17 +22,9 @@ Sora is een [AI-model](/blog/ondernemen/ai-tools-lijst/) voor tekst-naar-video, 
 
 “Sora kan complexe scènes genereren met meerdere personages, specifieke bewegingstypes en nauwkeurige details over het onderwerp en de achtergrond,” legt OpenAI uit in een blogpost die deze week is gepubliceerd, waarin meer video’s werden vrijgegeven. “Het model begrijpt niet alleen wat de gebruiker vraagt in de opdracht, maar ook hoe die dingen in de fysieke wereld bestaan.”
 
-![training-ai-kunstmatige-intelligentie-in-company](/images/migrated/training-ai-kunstmatige-intelligentie-in-company-2.webp "training-ai-kunstmatige-intelligentie-in-company")
 
-### **Training AI op locatie 2024**
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
-De wereld waarin we werken veranderd ontzettend snel. Breng jezelf en jouw team op de hoogte van de laatste ontwikkelingen en leer **hoe AI tools zoals ChatGPT en Gemini zijn in te zetten voor productiviteit, (werk)geluk en succes!**
-
-Duur: 3 uur  
-Investering: 950,- ex BTW  
-Formaat: Tot 30 deelnemers
-
-[Contact voor meer info](/contact/)
 
 ## Wie kan Sora gebruiken?
 
@@ -70,14 +62,3 @@ De technologie werkt op een vergelijkbare manier als de GPT-familie van taalmode
 
 OpenAI heeft Sora gevoed met video’s en afbeeldingen als data-eenheden – of “patches”. “Door te verenigen hoe we gegevens representeren,” zegt OpenAI, “kunnen we diffusietransformers trainen op een breder scala aan visuele gegevens dan voorheen mogelijk was, met verschillende duur, resoluties en beeldverhoudingen.”
 
-![training-ai-kunstmatige-intelligentie-in-company](/images/migrated/training-ai-kunstmatige-intelligentie-in-company-2.webp "training-ai-kunstmatige-intelligentie-in-company")
-
-### **Training AI op locatie 2024**
-
-De wereld waarin we werken veranderd ontzettend snel. Breng jezelf en jouw team op de hoogte van de laatste ontwikkelingen en leer **hoe AI tools zoals ChatGPT en Gemini zijn in te zetten voor productiviteit, (werk)geluk en succes!**
-
-Duur: 3 uur  
-Investering: 950,- ex BTW  
-Formaat: Tot 30 deelnemers
-
-[Contact voor meer info](/contact/)

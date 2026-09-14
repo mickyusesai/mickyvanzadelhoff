@@ -24,15 +24,15 @@ Een kerncomponent van UMA is de Data Verification Mechanism (DVM), een orakelsys
 
 Wat UMA verder uniek maakt, is de focus op het creëren van synthetische tokens. Deze tokens zijn onderpand-gesteunde ERC-20 tokens waarvan de waarde fluctueert op basis van de referentie-index van het token. Dit stelt gebruikers in staat om te handelen in activa zoals goud of aandelen zonder daadwerkelijk de onderliggende activa te bezitten.
 
-## Hier **koop je Uma (UMA) met iDEAL en Bancontact**
+## Hier koop je Uma (UMA) met iDEAL en Bancontact
 
 Voor het kopen van UMA met iDEAL of Bancontact kun je terecht bij verschillende crypto exchanges. Twee prominente platforms zijn [Finst](/go/finst) en [Bitvavo](/go/bitvavo). Finst valt op door zijn lage handelskosten en gebruiksgemak, terwijl Bitvavo bekend staat om zijn uitgebreide aanbod.
 
-## **De beste NL Exchanges om te investeren in crypto**
+## De beste NL Exchanges om te investeren in crypto
 
 ![Finst Crypto Kopen](/images/migrated/finst-crypto-kopen-2.webp "Finst Crypto Kopen")
 
-### 1\. Finst
+### 1. Finst
 
 Goedkoopste exchange. Mogelijkheid tot investeren in bundels.
 
@@ -47,7 +47,7 @@ of [lees Finst review](/blog/review/finst-crypto-exchange/)
 
 ![Bitvavo affiliate programma](/images/migrated/bitvavo-affiliate-programma-1.webp "Bitvavo affiliate programma")
 
-### 2\. Bitvavo
+### 2. Bitvavo
 
 Grootste crypto exchange van de Benelux met veel crypto.
 

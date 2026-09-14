@@ -12,7 +12,7 @@ featuredImage: "/images/migrated/novi-sad-e1534191180962.webp"
 
 Novi Sad, hoe is het om daar te [wonen en werken als digitile nomade](/blog/digitalenomaden/digital-nomad-worden/)? Best wel chill kan ik je zeggen. Ik heb er een maand geleefd en vertel je graag over mijn ervaringen. Van het sluiten van vriendschappen, tot de praktische zaken als waar vandaan ik werk. Hoe dan ook, deze stad in het noorden van Servië blijft mij verbazen!
 
-## **Vrienden maken aan de rivier in Novi Sad**
+## Vrienden maken aan de rivier in Novi Sad
 
 Ik was al een paar keer in Novi Sad geweest en dat was dan ook de reden dat ik ervoor koos om er dit keer een maand te blijven. De uitdaging zou nu vooral zijn om er [daadwerkelijk vrienden te maken](/blog/tips/mensen-ontmoeten-op-reis/). En dan bedoel ik geen kortstondige vriendschappen met andere reizigers, maar gewoon vriendschappen met mensen die daar wonen. Hierin werd ik dan ook positief verrast!
 
@@ -20,9 +20,9 @@ Iemand vertelde mij dat het ’s avonds erg gezellig was aan de rivier. Hier kom
 
 Trouwens een andere plek die dient als lokale chill spot is de ‘Fish Market’, pal onder het centrum, locals weten wat je bedoelt ;).
 
-![](/images/migrated/vrienden-maken-in-novi-sad.webp "vrienden-maken-in-novi-sad")
+![Vrienden maken in novi sad](/images/migrated/vrienden-maken-in-novi-sad.webp "vrienden-maken-in-novi-sad")
 
-## **Werken vanuit een koffiebar in Novi Sad, maar welke?!**
+## Werken vanuit een koffiebar in Novi Sad, maar welke?!
 
 Nu ik mijn vrienden had gemaakt was het tijd om ook mijn [digital nomad job](/blog/digitalenomaden/digital-nomad-banen/) te blijven doen. Als digitale nomade moet je immers je [geld blijven verdienen](/blog/online-geld-verdienen/online-geld-verdienen/). Een pluspunt. Heel veel geld hoeft dat niet te zijn. Novi Sad is namelijk erg goedkoop (net als de rest van Servië). Maar daar kom ik zo nog op terug!
 
@@ -30,7 +30,7 @@ In ieder geval besloot ik om mijn werkzaamheden niet te doen vanuit een co-worki
 
 Een andere plek waar ik me nog wat meer welkom voelde (door de awesome gastheer), was Alley Café. Je zal er niet veel anderen tegenkomen, maar het was er erg gezellig en deze plek bevind zich in hartje centrum!
 
-## **Leuke dingen doen in de zomer in Novi Sad**
+## Leuke dingen doen in de zomer in Novi Sad
 
 Omdat ik er in de zomer was en het dan erg warm is (tot 40 graden) kon het geen kwaad af en toe verkoeling te zoeken. Hier zijn in de stad zelf eigenlijk twee plekken voor.
 
@@ -42,15 +42,15 @@ Verder is de stad met name in de avond levendig. Tot een uur of 12 zie je gezinn
 
 ![Novi Sad at night](/images/migrated/novi-sad-centrum-wonen-en-werken.webp "novi-sad-centrum-wonen-en-werken")
 
-## **Wonen in Novi Sad in een appartement**
+## Wonen in Novi Sad in een appartement
 
 Voor 330,- euro inclusief alles had ik mijn appartement in Servië. Daarmee had ik zeker niet de beste deal gesloten, maar wel de meest simpele. Ik regelde mijn appartement namelijk gewoon via Airbnb en daarmee was alles geregeld. Een appartement in Novi Sad zou ook veel goedkoper kunnen als je weet waar je moet zijn (maar dat wist ik dus niet).
 
-## **Servisch eten proberen betekent vooral veel vlees**
+## Servisch eten proberen betekent vooral veel vlees
 
 Verder merkte ik dat ik door de prijzen in de stad eigenlijk bijna niet heb gekookt. Het was het me gewoonweg niet waard en de kwaliteit van het eten is op veel plekken goed. Wanneer je de smaak van Novi Sad wilt leren kennen zal je echt aan het vlees moeten. Denk hierbij vooral aan lokale gerechten als Cevapi (uitspraak: tsjévapie) en Pljeskavica (uitspraak: pjeeskavietsa). Daarna zul je zeker vol zitten :).
 
-## **Wat kost dat eigenlijk, wonen en werken in Novi Sad?**
+## Wat kost dat eigenlijk, wonen en werken in Novi Sad?
 
 Vaak zijn mensen best benieuwd naar de prijzen, dus vandaar dat ik ook de kosten van alles even op zal sommen in onze welbekende euro’s.
 
@@ -62,16 +62,10 @@ Toegang open lucht zwembad: €3,00
 Toegang stads strand: €0,50  
 Servische simkaart 3GB: €3,00
 
-## **Conclusie: Leven als digitale nomade in Novi Sad is geweldig!**
+## Conclusie: Leven als digitale nomade in Novi Sad is geweldig!
 
 Ik heb er extreem van genoten. Het feit dat de stad weinig toerisme kent maakt dat ik snel contact kon leggen met de warmhartige locals. De prijzen in Novi Sad zijn relatief laag en het centrum is prachtig. Er is erg veel leven in de stad en dat deed me goed. Ik zal er dan ook zeker nog eens terug komen, maar misschien dat ik dan wel ietsje langer blijf, we will see!
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

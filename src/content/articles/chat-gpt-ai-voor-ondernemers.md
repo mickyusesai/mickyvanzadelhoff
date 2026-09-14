@@ -32,69 +32,60 @@ Goed om te weten is dat Chat GPT slechts één van de apps is die is gebouwd op 
 
 Wil je gebruikmaken van kunstmatige intelligentie (AI) voor het schrijven van jouw blog content, e-book, video scripts of web teksten? Ga dan aan de slag met LongShot.ai. Je kunt het [**hier**](/go/longshot) voor 1$ uitproberen.
 
-×
 
 ## 12 Manieren om Chat GPT in te zetten als bedrijf
 
 Leuk zo’n kunstmatige intelligentie, maar wat kunnen wij daar als ondernemer mee? Hieronder heb ik Chat GPT **12 ideeën laten genereren**. Die eerste zal je dus vast niet verbazen ;).
 
-### 1\. Blogs schrijven
+### 1. Blogs schrijven
 
 Je kunt Chat GPT blogs voor jou laten schrijven. Daar komen niet zozeer kant-en-klare volwaardige artikelen uitrollen, maar het is zeker een manier om **inspiratie voor goede content** op te doen. Dat is goed voor jouw [content marketing strategie](/blog/ondernemen/content-marketing/). Wil je wél een AI die zo goed als kant-en-klare artikelen genereert, check dan eens [LongShot.ai](/go/longshot)
 
-### 2\. Automatische antwoorden
+### 2. Automatische antwoorden
 
 Je kunt AI gebruiken om een chatbot te maken voor bijvoorbeeld [jouw eigen webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/). Daarin kun je de veel gestelde vragen **automatisch laten beantwoorden** door een robot. Een AI applicatie die je hiervoor kunt gebruiken is [ChatBot](/go/chatbot-com).
 
-### 3\. Social media content
+### 3. Social media content
 
 Ik ken al mensen die deze AI inzetten **om content te creëren** voor Twitter, [Instagram](/blog/online-geld-verdienen/geld-verdienen-met-instagram-2/) en [Facebook](/blog/online-geld-verdienen/facebook/). Het is best makkelijk om de **tone-of-voice** aan te geven en zo geschikte posts te laten bedenken. Een AI tool die zich specifiek richt op content voor social media is [Ocoya](/go/ocoya).
 
-### 4\. Product aanbevelingen
+### 4. Product aanbevelingen
 
 Laat de AI **relevante producten aanraden** wanneer iemand iets in een webshop wil bestellen. De bot kan hier prima zien welke producten relevant zijn.
 
-### 5\. E-mail
+### 5. E-mail
 
 Automatiseer sommige antwoorden van je e-mail met Chat GPT. Niet al je mailcontact vereist menselijke communicatie en deze kan dus ook worden gedaan door een robot. Ook handig voor de optimalisatie van jouw [e-mail marketing](/blog/ondernemen/e-mail-marketing/). Je kunt Chat GPT namelijk ook een [acquisitie mail](/blog/ondernemen/acquisitie-mail-voorbeeld1/) laten opstellen volgens het AIDA model.
 
-### 6\. Sollicitaties
+### 6. Sollicitaties
 
 Stel je voor dat je door 100 CV’s moet bladeren voor een sollicitatieronde. Dan zou je ook aan de AI kunnen vragen om deze voor jou door te kijken op zoek naar relevante skillsets.
 
-### 7\. Generatie van leads
+### 7. Generatie van leads
 
 Zoals de kunstmatige intelligentie door CV’s kan bladeren, zo kan deze dat ook door potentiële leads, voor jouw B2B promotie bijvoorbeeld. Wil je dus [leads genereren](/blog/ondernemen/leads-genereren-mailinglijst/), dan kun je deze AI inzetten voor het eerste contact. Met [Smartwriter](/go/smartwriter) kun je zelfs gepersonaliseerde LinkedIN berichten laten versturen ;).
 
-![training-ai-kunstmatige-intelligentie-in-company](/images/migrated/training-ai-kunstmatige-intelligentie-in-company-2.webp "training-ai-kunstmatige-intelligentie-in-company")
 
-### **Training AI op locatie 2024**
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
-De wereld waarin we werken veranderd ontzettend snel. Breng jezelf en jouw team op de hoogte van de laatste ontwikkelingen en leer **hoe AI tools zoals ChatGPT en Gemini zijn in te zetten voor productiviteit, (werk)geluk en succes!**
 
-Duur: 3 uur  
-Investering: 950,- ex BTW  
-Formaat: Tot 30 deelnemers
-
-[Contact voor meer info](/contact/)
-
-### 8\. Afspraken maken
+### 8. Afspraken maken
 
 Als je een bedrijf hebt dat afspraken met klanten maakt (bijvoorbeeld een schoonheidssalon of een tandarts), kun je chat GPT inzetten om online afspraken te maken via een chatbot.
 
-### 9\. Facturatie
+### 9. Facturatie
 
 Je kunt AI gebruiken om automatisch **facturen op te stellen** op basis van een bepaald soort input die jij geeft.
 
-### 10\. Samenvatten
+### 10. Samenvatten
 
 Gebruik Chat GPT om een lang document binnen enkele seconden samen te vatten. Dit kan handig zijn als je door veel verschillende rapporten heen moet kijken om conclusies te trekken en te weten **wat er in grote lappen tekst eigenlijk staat**.
 
-### 11\. Ideeën opdoen
+### 11. Ideeën opdoen
 
 Zoek je naar een **creatief idee**? Dan kun je Chat GPT eenvoudig ideeën voor je laten bedenken. Een beetje zoals dit lijstje is samengesteld kun je dit ook met andere dingen doen. Houd er hierbij rekening mee; dat hoe specifieker jouw vraag is, hoe beter het antwoord!
 
-### 12\. SEO en titels
+### 12. SEO en titels
 
 Zoek je naar een **goede klikbare titel** voor jouw artikel of Youtube video? Dan kun je deze eenvoudig door Chat GPT laten genereren. Of beter gezegd, je kunt eenvoudig tientallen titels laten genereren en kiest zelf vervolgens de beste uit.
 
@@ -133,14 +124,3 @@ Veel van het werk dat we zelf eerst deden, kan nu door een AI worden gedaan. Je 
 
 Wil je het schrijven van blog content, web teksten of hele e-books uitbesteden? [Probeer dan voor 1$ de AI app LongShot.ai](/go/longshot) en kom er als vanzelf achter wat die intelligente robots voor je kunnen doen ;).
 
-![training-ai-kunstmatige-intelligentie-in-company](/images/migrated/training-ai-kunstmatige-intelligentie-in-company-2.webp "training-ai-kunstmatige-intelligentie-in-company")
-
-### **Training AI op locatie 2024**
-
-De wereld waarin we werken veranderd ontzettend snel. Breng jezelf en jouw team op de hoogte van de laatste ontwikkelingen en leer **hoe AI tools zoals ChatGPT en Gemini zijn in te zetten voor productiviteit, (werk)geluk en succes!**
-
-Duur: 3 uur  
-Investering: 950,- ex BTW  
-Formaat: Tot 30 deelnemers
-
-[Contact voor meer info](/contact/)

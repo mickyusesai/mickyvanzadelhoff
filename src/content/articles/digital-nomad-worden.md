@@ -20,7 +20,7 @@ Het is voor mij een avontuurlijke levensstijl die zich niet beperkt tot cocktail
 
 **We duiken in wat een digital nomad in essentie is, wat voor locatie onafhankelijk werk er mogelijk is, hoe je aan toffe bestemmingen komt, de kosten, praktische zaken, welke tools handig zijn en ik geef je tips om er een succes van te maken. Pak er dus een lekkere kop koffie bij, dan gaan we aan de slag!**
 
-## 1\. Wat bedoelen we eigenlijk met digital nomads?
+## 1. Wat bedoelen we eigenlijk met digital nomads?
 
 **Een digital nomad is iemand die locatie onafhankelijk werkt op het internet. Ze leven al reizend over de wereld.** Een beetje hoe de nomaden dat ver in onze geschiedenis deden op zoek naar voedsel, al zijn we nu vaker op zoek naar werkende Wifi ;). We zijn nomaden in een digitaal tijdperk.
 
@@ -58,7 +58,7 @@ Redenen dat er steeds meer digital nomads zijn, lijken niet zo moeilijk te vinde
 
 **Daarbij heb je nog de economische voordelen die je hebt als Nederlandse digital nomad** in het veelal goedkopere buitenland. En je hebt alle digital nomad blogs online die de digital nomad lifestyle aanmoedigen. Genoeg te vinden om de community te doen groeien.
 
-## 2\. Locatie onafhankelijk werken met deze jobs
+## 2. Locatie onafhankelijk werken met deze jobs
 
 Een digital nomad worden. **Utopisch!** Maar niet onmogelijk. Of eigenlijk, digital nomad worden is zo moeilijk niet. Het is simpeler dan succesvol carrière maken op de Nederlandse markt als je het mij vraagt. Om digital nomad te worden **hoef je namelijk niet een gigantisch bedrijf op te zetten**. Je moet vooral genoeg online verdienen, om die vrijheid te ervaren.
 
@@ -221,17 +221,11 @@ Het nadeel is wel dat voordat je allemaal [affiliate programma’s](/blog/ondern
 
 Voor wie snel digital nomad wil worden met een eigen bedrijf is de simpelste manier om een skill aan te bieden die je al beheerst, zoals webdesign, marketing of vertaler. **Heb je nog geen digitale skill die je aan kunt bieden, dan lijkt de weg naar virtual assistent het snelst**.
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
-
-## 3\. Digital nomad bestemmingen
+## 3. Digital nomad bestemmingen
 
 Natuurlijk kan je als digital nomad overal ter wereld leven, op enkele beperkingen na. **Met een Nederlands paspoort is het mogelijk om pakweg 174 landen te bezoeken**. De wereld ligt dus aan je voeten.
 
@@ -245,7 +239,7 @@ Zelf kies ik ervoor om werk en een vrij leven zo goed mogelijk te combineren. He
 
 Laten we een kijkje nemen op de 5 populairste digital nomad bestemmingen wereldwijd. Daarbij zal je zien dat sommige bestemmingen vooral in de zomer in trek zijn en anderen in de winter.
 
-### 1\. Gran Canaria
+### 1. Gran Canaria
 
 ![Gran Canaria Digital Nomads](/images/migrated/gran-canaria-digital-nomad-1.webp "Gran Canaria Digital Nomads")
 
@@ -264,7 +258,7 @@ Je vind hier alles wat je nodig hebt in een warm aangenaam klimaat het hele jaar
 
 Ook de andere Canarische eilanden **Tenerife en Fuerta Venture** zijn daarbij goede digital nomad bestemmingen.
 
-### 2\. Chiang Mai
+### 2. Chiang Mai
 
 ![Chiang Mai voor digital nomads](/images/migrated/chaing-mai-voor-digital-nomads-1.webp "Chiang Mai voor digital nomads")
 
@@ -283,7 +277,7 @@ Deze stad in het Noorden van Thailand biedt alles wat een digital nomad nodig he
 
 Uitstapjes die je vanuit Chiang Mai kan doen zijn eindeloos. Het noordelijk gelegen hippie dorp Pai bijvoorbeeld. Wat ik zelf aan Chiang Mai zo leuk vond was dat ik er voor nog geen €100,- per maand **een prima scooter kon huren**. Zo heb ik vele tripjes gemaakt in de regio!
 
-### 3\. Belgrado
+### 3. Belgrado
 
 ![Belgrado voor digital nomads](/images/migrated/belgrado-voor-digital-nomad-1.webp "Belgrado voor digital nomads")
 
@@ -302,7 +296,7 @@ En voor de feestbeesten onder ons. Deze stad heeft een geweldig uitgaansleven, m
 
 Zelf ben ik vaker verbleven in de stad boven Belgrado, namelijk [Novi Sad](/blog/digitalenomaden/wonen-en-werken-in-novi-sad-servie/). Ik vermaakte me daar prima en het is er wat rustiger (en goedkoper) dan in de hoofdstad.
 
-### 4\. Antalya
+### 4. Antalya
 
 ![Antalya voor digital nomads](/images/migrated/antalya-kust-digital-nomads-1.webp "Antalya voor digital nomads")
 
@@ -321,7 +315,7 @@ Oké toegegeven, het internet in deze plaats in Zuid-Turkije is erg slecht. Daar
 
 Daarbij komt natuurlijk al het lekkers van de Turkse keuken en hebben wij zelf ook wel eens voor de lol een paar dagen all-inclusive geboekt **als vakantie van al dat locatie onafhankelijk werken**.
 
-### 5\. Miami
+### 5. Miami
 
 ![Miami voor digital nomads](/images/migrated/miami-beach-voor-digital-nomads-1.webp "Miami voor digital nomads")
 
@@ -338,7 +332,7 @@ Dan nog even een plek om het contrast met de rest aan te geven. Miami. Wie houdt
 
 Het ding is alleen, het is er enorm duur. Als digital nomad ben je hier net zo duur uit als in centrum Amsterdam. Daardoor is het zeker niet voor iedereen interessant. Ook al heeft het wel alle faciliteiten die je je kan wensen.
 
-### 6\. Workations
+### 6. Workations
 
 ![Business Bootcamp Italië](/images/migrated/DSC01014-1.webp "Business Bootcamp Italië")
 
@@ -367,7 +361,7 @@ Mocht je naar andere bestemmingen zoeken en benieuwd zijn naar prijzen en ervari
 
 **De keuze voor een bestemming is erg persoonlijk** en hangt volledig af van waar jij je fijn bij voelt. Gelukkig maar dat alles mogelijk is.
 
-## 4\. Kosten van een digital nomad
+## 4. Kosten van een digital nomad
 
 Een leven als digital nomad is in veel gevallen goedkoper dan een leven in Nederland. Zeker met de **explosieve huizenmarkt** ben je in Nederland enorm veel kwijt aan vaste lasten. Dit is in veel andere landen niet het geval. Voor het geld van een Nederlands appartement kun je in Thailand al een kleine villa huren.
 
@@ -423,7 +417,7 @@ Persoonlijk ben ik niet zo’n grote fan van dit soort plekken, al ligt het er e
 
 Een grote reden om wel in een co-working space aan de slag te gaan zal het netwerk zijn. Je vind hier vaak andere digital nomads en op zo’n plek **kun je elkaar laagdrempelig ontmoeten**.
 
-## 5\. Digital nomads belasting en inschrijving
+## 5. Digital nomads belasting en inschrijving
 
 Mijn mail stroomt vaak over met **vragen rondom belasting en inschrijving voor digital nomads**. Begrijpelijk. Veel mensen vragen zich af wat ze te wachten staat.
 
@@ -455,11 +449,11 @@ In andere woorden. **Wanneer je minder dan 8 maanden per jaar reist**, doe je er
 
 Voor individueel advies rondom belastingen en inschrijvingen bel je met het [KVK adviesteam](https://www.kvk.nl/adviesteam/), niet met mij. Ik heb hier in het verleden te vaak vragen over gekregen en moet simpelweg toegeven, ik ben geen juridisch consultant, haha.
 
-## 6\. Dit heb je nodig als digital nomad
+## 6. Dit heb je nodig als digital nomad
 
 Er is een viertal eigenschappen die je als digital nomad (naar mijn idee) nodig hebt om succesvol te zijn. Natuurlijk heeft iedereen zijn eigen kracht en vind iedereen zijn eigen weg, maar deze **4 eigenschappen** kom ik vrijwel bij iedere digital nomad tegen die ik ontmoet.
 
-### 1\. Ondernemend karakter
+### 1. Ondernemend karakter
 
 Digital nomads hebben over het algemeen een erg ondernemend karakter en dat is belangrijk. Je moet er namelijk zelf voor zorgen dat je klanten krijgt en bezig blijft met [manieren om je geld te verdienen](/blog/online-geld-verdienen/online-geld-verdienen/).
 
@@ -471,7 +465,7 @@ Wanneer je geen geld meer verdient moet je je leven als digital nomad onderbreke
 
 Onderschat daarbij ook niet de tijd die het kost om reizen in te plannen. **Er moeten altijd dingen geregeld worden** als je voor langere tijd weggaat, ervan houden om dingen met beide handen aan te pakken is dan een must.
 
-### 2\. Discipline en avontuur
+### 2. Discipline en avontuur
 
 Tijdens het reizen is er uiteraard veel afleiding, overal is wel wat te ontdekken. Het vergt soms **een flinke dosis discipline** om toch aan de slag te gaan.
 
@@ -483,19 +477,19 @@ Mijn advies om die discipline vast te houden is allereerst door te beseffen waar
 
 Daarnaast kun je jouw week inplannen in werk en vakantiedagen. Net als in het echte leven, haha. Wat voor de een werkt, werkt voor de ander minder, maar **een beetje routine binnen een hectische levensstijl** is helemaal niets om je voor te schamen.
 
-### 3\. Voorkeur voor slow travel
+### 3. Voorkeur voor slow travel
 
 Veel digital nomads reizen erg langzaam. Dit moet eigenlijk ook wel omdat er anders helemaal **geen tijd meer is om die laptop te openen**. In het begin ging ik hier zelf mee in de fout, omdat ik gewend was te reizen met een einddatum. Je wilt dan zo veel mogelijk gezien hebben in een zo kort mogelijke tijd.
 
 Als digital nomad is de tijd om te ontdekken oneindig en is snel reizen niet fijn. Je zal niet de eerste zijn [die daardoor overprikkeld raakt](/blog/digitalenomaden/burn-out-als-digitale-nomade/). Het klinkt natuurlijk wel stoer, als je het afgelopen jaar in 40 landen bent geweest, maar in de praktijk ben je dan eigenlijk vooral gesloopt en wazig over wat je precies hebt meegemaakt. **Een beetje balans is ook als digital nomad een goed plan**.
 
-![](/images/migrated/mick-van-zadelhoff-in-macedonie-1.webp "mick-van-zadelhoff-in-macedonie (1)")
+![Mick van zadelhoff in macedonie](/images/migrated/mick-van-zadelhoff-in-macedonie-1.webp "mick-van-zadelhoff-in-macedonie (1)")
 
 Zelf bracht mijn eerste jaar als digital nomad mij in een **depressie**. Dat klinkt voor mij zwak om toe te geven, maar de waarheid is dat ik er op dat moment zelf niet mee om kon gaan. Vooral **het imago van digital nomads** speelde daarbij een rol. Ik wilde laten zien aan anderen hoe geweldig het was en hoeveel plekken ik wel niet bezocht en hoeveel mensen ik wel niet ontmoette.
 
 De vijf jaar daarna heb ik het heel anders aangepakt. Ik heb het hele idee van ‘iets moeten bewijzen’ overboord gegooid en ben gaan kijken wat ik voor mezelf nou echt fijn vind. Daar kwam uit dat het best comfortabel is om zes maanden per jaar in Nederland te zijn en de andere helft in het buitenland. **Dat is mijn balans en die is voor iedereen anders**.
 
-### 4\. Je bent veel op jezelf aangewezen
+### 4. Je bent veel op jezelf aangewezen
 
 Net als met [alleen reizen](/blog/tips/alleen-reizen-wereld-voordelen-en-nadelen/) is het digital nomad leven **soms eenzaam**. Ik vind dat prima, maar iedereen heeft hier natuurlijk zijn eigen gedachtes over. Een remedie hierop is om **langer op één plek te verblijven** zodat je ook daadwerkelijk vrienden maakt. Ook zie je wel eens koppels die samen het leven als digital nomad oppakken, dat kan natuurlijk ook en maakt het naar mijn idee dubbel zo leuk!
 
@@ -505,7 +499,7 @@ Je moet er in ieder geval op letten dat een leven als digital nomad bij jou past
 
 **Of bekijk de video hieronder, waarin ik inga op de vraag, ‘digital nomad zijn, wat doet dat met je?’**
 
-## 7\. Bruikbare tools voor digital nomads
+## 7. Bruikbare tools voor digital nomads
 
 Er zijn veel platforms en andere digital nomads die je kunnen helpen om het leven als digital nomad te realiseren. Mijn eigen platform ([De Moderne Nomaden](/)) is er eentje van, maar er zijn er uiteraard meer, je vind ze hier!
 
@@ -523,7 +517,7 @@ Er zijn veel platforms en andere digital nomads die je kunnen helpen om het leve
 
 [**Internations**](https://www.internations.org) – Een platform bedoelt om andere mensen die internationaal werken te ontmoeten.
 
-## 8\. Conclusie digital nomad worden
+## 8. Conclusie digital nomad worden
 
 Iets nieuws proberen is altijd spannend. Een veelgehoorde reactie als je tegen anderen verteld over **jouw digital nomad plannen**, is vaak dat het onmogelijk is. Of je krijgt allemaal vragen waar je nu het antwoord nog niet op weet. Geloof me, je bent niet de eerste die dat overkomt.
 
@@ -531,12 +525,3 @@ De stap om digital nomad te worden en de wereld over te reizen is er eentje die 
 
 Vind je het leuk om tips te ontvangen en digital nomad te worden, [download dan gratis mijn boek](/boek/) en **we stay in touch**! Mijn doel is om zoveel mogelijk mensen te inspireren om deze manier van leven uit te proberen. **Op jouw vrijheid!**
 
-#### _GRATIS Digital Nomad Boek_
-
-## **Dé inspiratie voor een vrij leven**
-
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

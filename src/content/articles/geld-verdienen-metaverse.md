@@ -24,7 +24,7 @@ De mogelijkheden voor een Metaverse zijn eindeloos, zeker nu de lijst aan versch
 
 Het is dan ook niet gek dat er qua **mogelijkheden om geld te verdienen** veel op je afkomt in de Metaverse. In dit artikel bespreken we de verschillende ideeën om geld te verdienen met de Metaverse.
 
-## 1\. Investeren in Metaverse crypto
+## 1. Investeren in Metaverse crypto
 
 ![Metaverse crypto currencies](/images/migrated/metaverse-crypto-currencies-1.webp "Metaverse crypto currencies")
 
@@ -38,7 +38,7 @@ Crypto kopen doe je veelal via een crypto exchange. De grootste in Nederland is 
 
 [Gratis account aanmaken Bitvavo](/go/bitvavo)
 
-## 2\. De Metaverse makelaar
+## 2. De Metaverse makelaar
 
 ![Land kopen in de Metaverse](/images/migrated/nexbites-metaverse-virtual-land-prices-sandbox-decentraland-1.webp "Land kopen in de Metaverse")
 
@@ -50,7 +50,7 @@ Het is volledig aan jou om te bepalen wat je met dit stukje land wil doen als ji
 
 Omdat de vraag naar deze stukken land soms groot is en er slechts een beperkt aantal aanwezig zijn, zie je ook veel mensen **die land kopen, een tijd bewaren en deze dan weer verkopen voor een hogere prijs**. Verder zou je ook direct geld kunnen verdienen in de Metaverse door jouw stuk land te verhuren aan een andere ondernemer. Huisjes melken zeg maar, alleen dan digitaal.
 
-## 3\. Architect in een virtuele omgeving
+## 3. Architect in een virtuele omgeving
 
 ![Metaverse architect](/images/migrated/metaverse-architect-1-scaled.webp "Metaverse architect")
 
@@ -62,7 +62,7 @@ Vaak kun je dit doen met al bestaande schetsen van een gebouw. Al wordt er ook v
 
 **De vraag naar architecten voor de Metaverse zal de komende jaren toenoemen** en zeker is dat het niet zo moeilijk hoeft te zijn om iets moois te ontwerpen. Daarbij voelt het toch een beetje als ‘gamen’ wanneer je digitaal aan het bouwen bent. Best een leuke job!
 
-## 4\. Virtuele real estate verhuren
+## 4. Virtuele real estate verhuren
 
 ![Virtuele real estate verhuren](/images/migrated/shopping-street-decentraland.webp "Virtuele real estate verhuren")
 
@@ -74,7 +74,7 @@ Wanneer mensen naar jouw virtuele omgeving komen is geld verdienen in de Metaver
 
 Er zijn al Metaverses die deze vorm van **monetization** aanbieden. Dat is erg makkelijk, een beetje zoals je met [een eigen Youtube kanaal](/blog/online-geld-verdienen/youtube-kanaal-beginnen/) ervoor kan kiezen om advertenties toe te staan, kan dit ook in sommige Metaverses.
 
-## 5\. Play2Earn, Learn2Earn, Build2Earn etc.
+## 5. Play2Earn, Learn2Earn, Build2Earn etc.
 
 ![Play2earn Axie Infinity](/images/migrated/play2earn-1.webp "Play2earn Axie Infinity")
 
@@ -86,7 +86,7 @@ Er is alleen vaak één probleem met deze spellen. Om geld te verdienen met het 
 
 Hoe concepten als **Play2Earn, Learn2Earn en Build2Earn** zich in de toekomst gaan ontwikkelen moeten we nog zien.
 
-## 6\. Organiseer een event in de Metaverse
+## 6. Organiseer een event in de Metaverse
 
 ![Metaverse event organiseren](/images/migrated/metaverse-event-1.webp "Metaverse event organiseren")
 
@@ -94,7 +94,7 @@ Het werd plots echt een ding toen Snoop Dogg feesten begon te organiseren in de 
 
 Dit en alle andere soort events die je kunt bedenken, worden allemaal in de Metaverse georganiseerd. Zo’n **organisatie is makkelijker** dan in het echt. Al moet je natuurlijk nog wel alle mensen bij elkaar krijgen, tickets verkopen, een programma maken en een goede virtuele venue vinden.
 
-## 7\. Werken in de Metaverse
+## 7. Werken in de Metaverse
 
 ![Presentatie Metaverse event](/images/migrated/presentatie-metaverse-event-1.webp "Presentatie Metaverse event")
 
@@ -104,7 +104,7 @@ Dat is dan ook niet wat we in dit artikel bedoelen wanneer we het hebben over we
 
 Dit kan zijn doordat je bijvoorbeeld werkt als artiest, host voor een event, presentator, verkoper in een Metaverse winkel en tal van andere service beroepen waarbij menselijk contact handig is.
 
-## 8\. Wearables ontwerpen
+## 8. Wearables ontwerpen
 
 ![Digital fashion Metaverse](/images/migrated/digital-fashion-metaverse-1-scaled.webp "Digital fashion Metaverse")
 

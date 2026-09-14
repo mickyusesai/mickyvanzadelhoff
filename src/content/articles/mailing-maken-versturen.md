@@ -34,7 +34,7 @@ Er is geen ontkennen aan dat bij **zowel B2B als B2C** mailings een groot onderd
 
 De reden daarvoor is dat mailings heel persoonlijk overkomen omdat ze binnen de privé omgeving van de ontvanger gelezen kunnen worden. Je doet er dan ook goed aan om de mailing **persoonlijk te maken** jezelf te gedragen als ‘gast’ in de ontvanger zijn mailbox.
 
-# Stappenplan mailing maken
+## Stappenplan mailing maken
 
 Goed, de basis hebben we. Tijd om onze mailing te maken!
 
@@ -84,13 +84,13 @@ Vervolgens **maak je een mailinglijst/contactenlijst** aan in jouw marketing mai
 
 Bij Enormail doe je dit door in het menu op ‘**Contacten**’ te klikken en vervolgens op ‘**Nieuwe mailinglijst**’.
 
-![](/images/migrated/contacten-enormail.webp "contacten-enormail")
+![Contacten enormail](/images/migrated/contacten-enormail.webp "contacten-enormail")
 
-![](/images/migrated/contacten-nieuwe-mailinglijst.webp "contacten-nieuwe-mailinglijst")
+![Contacten nieuwe mailinglijst](/images/migrated/contacten-nieuwe-mailinglijst.webp "contacten-nieuwe-mailinglijst")
 
 **Upload daar jouw CSV bestand.** Vervolgens zal Enormail vragen of je de gegevens wilt koppelen. Doe dit ook zeker.
 
-![](/images/migrated/importeren-csv-enormail.webp "importeren-csv-enormail")
+![Importeren csv enormail](/images/migrated/importeren-csv-enormail.webp "importeren-csv-enormail")
 
 Wanneer jij in jouw **adressenbestand** behalve een e-mail adres ook de naam hebt van een contactpersoon, kun je jouw mailing personaliseren. Ook wanneer je deze naar duizenden mensen tegelijk stuurt.
 
@@ -106,27 +106,27 @@ De beste tip die ik je kan geven, is dat je een mailing gaat schrijven **alsof h
 
 Om de mailing te schrijven ga je in Enormail naar **Mailingen** en klik je op **Nieuwe Mailing.**
 
-![](/images/migrated/standaard-mailing-enormail.webp "standaard-mailing-enormail")
+![Standaard mailing enormail](/images/migrated/standaard-mailing-enormail.webp "standaard-mailing-enormail")
 
 Kies vervolgens voor de **Standaard mailing** en je kunt beginnen met schrijven. Enkele tips die je daarbij mee kunt nemen vind je hieronder.
 
-### **1\. Maak je mailing niet te lang en zeker niet te kort**
+### 1. Maak je mailing niet te lang en zeker niet te kort
 
 Dat mensen geen tijd hebben om lange mails te lezen is nergens op gebaseerd. Ik heb vaak genoeg acquisitie mails gestuurd naar een koud publiek, welke meer dan een A4-tje lang waren. De resultaten waren prima. Bedenk je vooral dat mensen geen tijd hebben voor onzin en zorg ervoor dat de inhoud van jouw mailing waarde toevoegt.
 
-### **2\. Promoot niet alleen een product of dienst**
+### 2. Promoot niet alleen een product of dienst
 
 Wanneer je iets wilt verkopen in jouw mailing, dan doe je er goed aan om niet alleen jouw product of dienst te promoten. Wat je vooral ook moet doen, is vertellen wat mensen daaraan hebben. Waarom hebben ze jou nodig? Geef een antwoord op die vraag door bijvoorbeeld het probleem te beschrijven dat je voor hen oplost.
 
-### **3\. Zorg voor een leesbare mailing**
+### 3. Zorg voor een leesbare mailing
 
 Maak gebruik van veel enters en maak belangrijke stukken dikgedrukt. Dit vergroot de leesbaarheid. Probeer tegelijkertijd extravagante opmaak van een mailing te vermijden en kies liever voor een ‘plain’ e-mail. De reden daarvoor is dat dit al direct een stuk persoonlijker overkomt.
 
-### **4\. Vergeet de call-to-action niet**
+### 4. Vergeet de call-to-action niet
 
 Als jouw mail het doel heeft om mensen iets te laten doen, zorg er dan voor dat dit duidelijk is. Voeg een call-to-action meerdere malen toe in jouw mailing. Bijvoorbeeld aan het einde én in de ps regel.
 
-### **5\. Blijf uit de spambox**
+### 5. Blijf uit de spambox
 
 Er zijn tal van redenen waarom mailings in de spambox belanden. Deze gaan we hier niet allemaal bespreken, maar er zijn enkele dingen om rekening mee te houden.
 
@@ -149,7 +149,7 @@ Beter is om jouw mailing (als het om B2B gaat) op een dinsdag, woensdag of donde
 
 **Verstuur je mailing direct of plan deze in voor een later tijdstip**.
 
-![](/images/migrated/verzenden-mailing-enormail.webp "verzenden-mailing-enormail")
+![Verzenden mailing enormail](/images/migrated/verzenden-mailing-enormail.webp "verzenden-mailing-enormail")
 
 Goed gedaan! Tijd voor de evaluatie.
 
@@ -159,7 +159,7 @@ Evaluatie kan nooit kwaad, ook niet als het gaat over jouw mailing. Kijk daarom 
 
 De resultaten zoals je die hieronder ziet zijn beschikbaar voor iedereen die mailings verzend met Enormail. [Je kunt het hier 30 dagen GRATIS uitproberen.](/go/enormail)
 
-![](/images/migrated/resultaten-mailing-enormail.webp "resultaten-mailing-enormail")
+![Resultaten mailing enormail](/images/migrated/resultaten-mailing-enormail.webp "resultaten-mailing-enormail")
 
 Mocht het openingspercentage erg slecht zijn, dan kan dat aan meerdere dingen liggen.
 
@@ -171,7 +171,7 @@ Je verzendt dezelfde e-mail dan alleen richting de ontvangers die de eerste e-ma
 
 U kunt uw ervaring drastisch evalueren door software voor e-mailmarketing te gebruiken, [klik hier om voorbeelden te lezen.](/blog/ondernemen/e-mail-marketing/)
 
-# Conclusie mailing maken
+## Conclusie mailing maken
 
 Een mailing maken kan iedereen en hoeft zeker niet moeilijk te zijn. Een **goede mailing** kan ervoor zorgen dat jouw business **nieuwe klanten aantrekt of leads omzet in verkoop**.
 
@@ -181,12 +181,6 @@ Wanneer je vaker mailingen wilt gaan maken kun je ook kiezen voor een autorespon
 
 **Als je meer wilt weten over het maken van goede mailings, kijk dan eens in mijn handboek over het schrijven van zeer winstgevende acquisitie mails. Daarin ga ik in 50 pagina’s diep in op alles rondom e-mail marketing.**
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

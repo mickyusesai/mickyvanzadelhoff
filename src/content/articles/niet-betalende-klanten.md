@@ -12,21 +12,21 @@ featuredImage: "/images/migrated/niet-betalende-klanten.webp"
 
 Niet betalende klanten, als webdesigner kreeg ik er laatst voor het eerst mee te maken. In dit artikel ga ik in op een case van een niet betalende klant van mij. Ik ben een sociaal ondernemer en doe veel zaken op basis van vertrouwen, contracten vind ik maar niets. Het was laatst pas voor het eerst dat ik daar de nadelen van ondervond. Met het delen van mijn ervaring kan ik even mijn ei kwijt over deze 1300,- misgelopen euro’s ;).
 
-## **PERSOON wilde een website voor zijn slotenmakersbedrijf**
+## PERSOON wilde een website voor zijn slotenmakersbedrijf
 
 PERSOON contacte mij enkele maanden geleden. Hij werkte bij justitie op dat moment en wilde slotenmaker worden. In ons eerste telefoongesprek refereerde hij aan de malafide slotenmakers in de markt en dat hij het zelf goed wil doen. Hij was op zoek naar iemand die zijn website kon maken en met [de kennis die ik daarover op mijn eigen website heb](/blog/ondernemen/online-marketing-slotenmaker/) was voor hem de keuze snel gemaakt.
 
-## **De aanbetalingsfactuur werd niet voldaan**
+## De aanbetalingsfactuur werd niet voldaan
 
 Ik ben vervolgens aan de slag gegaan met de website en stuurde hem de aanbetalingsfactuur (50%). Deze factuur zou hij direct overmaken, maar na een vraag van mij na een week, zei hij dat die dat zou doen wanneer zijn volgende loon werd gestort. Achteraf had ik bij dat punt al moeten zeggen dat ik niet aan de website kon beginnen zonder dat hij de aanbetaling zou voldoen. Maar vertrouwend als ik was ben ik toen wel aan de slag gegaan.
 
-## **De uiterste betaal datum verstreek meerdere malen**
+## De uiterste betaal datum verstreek meerdere malen
 
 Bij het aankomen van de uiterste betaaldatum die hij noemde heb ik hem gecontact met de vraag waar mijn geld bleef. Hij kwam met een nieuwe excuus voor uitstel. De website was inmiddels al bijna voldaan. PERSOON bleef mij tussendoor met regelmaat vragen stellen over de website en aanpassingen. Omdat hij een nieuwe datum had beloofd om te betalen heb ik die aanpassingen gedaan. We hadden best goed contact en naar zijn eigen zeggen was PERSOON ook erg tevreden over de samenwerking. Hij was blij met de website en vond mij een goede webdesigner.
 
 Na verval van de volgende betaaldatum werd ik enorm sceptisch. Het product was namelijk al vrijwel opgeleverd, maar de aanbetaling was nog steeds niet voldaan. PERSOON noemde een nieuwe datum en zei dat die dan het volledige bedrag in één keer over zou maken (aanbetaling + eindfactuur). En dit ging zo nog even door.
 
-## **Beloftes voor de betalingen die PERSOON aan mij deed**
+## Beloftes voor de betalingen die PERSOON aan mij deed
 
 Hieronder refereer ik naar een lijstje met data waarop hij een nieuwe betaaldatum afsprak. Ik heb de spelfouten er voor de leesbaarheid een klein beetje uitgehaald.
 
@@ -42,17 +42,17 @@ Hieronder refereer ik naar een lijstje met data waarop hij een nieuwe betaaldatu
 > **21 mei (en dit alweer dinsdag):** De mensen maken het morgen over. Op mij. Factuur staat en ze mailde dat ze morgen mijn kosten overmaken naar mij, dan stuur ik het door naar jou maat.  
 > **23 mei (en dit alweer overmorgen):** Ze hebben het overgemaakt, morgen heb jij het. De ouderen hebben de transactie gedaan ik heb Het vanavond of morgen vroeg dan maak ik het over naar jou en stuur ik je een screenshot. Ga het nu storten.
 
-## **PERSOON heeft structureel tegen mij gelogen**
+## PERSOON heeft structureel tegen mij gelogen
 
 De rest van het verhaal bespaar ik je. Maar op de 25e mei was mijn vertrouwen gebroken. Zo’n twee maanden na de aanbetalingsfactuur, anderhalve maand na oplevering, is de aanbetaling nog steeds niet voldaan. PERSOON heeft structureel tegen mij gelogen en daar zou ik hem maar mee moeten confronteren. Ik had zelf geen ervaring met niet betalende klanten, werk altijd op goed vertrouwen, en had daardoor ook niet heel veel recht om in te staan. Ik had hem bijvoorbeeld geen officiële herinneringen gestuurd en dergelijken. Ik vertrouwde erop dat hij het geld bij een nieuw genoemde datum over zou maken, maar dat vertrouwen was op een gegeven moment dus volledig gebroken.
 
 Hierop heb ik besloten dat ik mijn geld waarschijnlijk toch niet zou krijgen en heb ik PERSOON geconfronteerd met onder andere zijn beloftes en de rest van de leugens die hij vertelde. Zo bleek namelijk dat hij helemaal nog geen klant had gehad als slotenmaker waarvan die geld zou krijgen. Zo bleek dat die helemaal geen afrekening kreeg van justitie. Praktisch was het merendeel van wat hij zei gelogen en heb ik mijn tijd zitten verdoen.
 
-## **Ik confronteer hem met zijn gedrag**
+## Ik confronteer hem met zijn gedrag
 
 De confrontatie ging allereerst via een spraak memo en daarna per telefoon. De transcriptie van de spraak memo vind je hieronder.
 
-#### [Transcript van spraak memo richting PERSOON](#c3edda1e5f0bcb05a)
+### Transcript van spraak memo richting PERSOON
 
 Come on, je kunt jezelf zo toch niet serieus nemen. Zeg maar, kinderen krijgen een kans, tweede kans, derde kans, maar jij zegt nu gewoon recht in mijn gezicht dat praktisch gezien alles wat je tot nu toe hebt gezegd, een soort van is gelogen. Dat je geen klanten hebt gehad, dat je geen geld krijgt van justitie, je hebt volgens mij niet eens bij justitie gewerkt. Het is voor mij gewoon een opsomming van leugens. En het ding voor mij is, ik heb de berichtjes van mij even doorgestuurd aan mijn boekhouder en wij moesten er gewoon om lachen. Het is gewoon echt lachwekkend hoe onwetend je kunt zijn over hoe je een onderneming kan opzetten. Dat je niet begrijpt dat dat niet een normale manier is van hoe je met anderen om gaat in het zakelijke gebeuren.
 
@@ -66,26 +66,26 @@ Ik haal je website offline. Ik vind dit erg jammer maar ik ga me er niet meer me
 
 Dus ook niet als je de 15e juni geld overmaakt. Dit vertrouwen wat je mij geeft, als je dat ook aan je klanten geeft, dat wordt huilen, dus daar gaan we niet aan beginnen. Ik hoop dat je jezelf bedenkt en iets gaat doen wat bij je past, maar ik denk niet dat dit jouw weg is. Nou, de groeten, succes met wat je gaat doen en dan hoeven we elkaar dus ook niet meer te spreken.
 
-## **PERSOON vraagt wederom om uitstel van betaling**
+## PERSOON vraagt wederom om uitstel van betaling
 
 PERSOON antwoordde nog met een verzoek voor een nieuwe betaaldatum. Daar ben ik niet op in gegaan omdat ik mij voorgelogen voel door deze niet betalende klant. De website is inmiddels offline gehaald.
 
 Na het bericht van PERSOON hebben we nog even gebeld. Telefonisch heb ik hetzelfde besproken als in de spraak memo. PERSOON werd niet boos maar schoot steeds in de verdediging. Veel dingen in dat gesprek vielen bij mij erg verkeerd. Bij het bieden van de optie om de website offline te halen totdat er is betaald, zei hij dat die daar over na moest denken. Hij heeft het schijnbaar nog niet helemaal begrepen en zocht gewoon naar een ander onnozel uitstel van betaling.
 
-## **Wat ik heb geleerd van mijn niet betalende klant**
+## Wat ik heb geleerd van mijn niet betalende klant
 
 Het eerste wat ik hieruit heb geleerd is dat mijn onderbuikgevoel allang wist dat het zo ging lopen en ik daar dus beter naar had moeten luisteren. Ook al was ik dan al gestart met zijn website. Op dat moment begonnen dingen al raar te lopen. Zeker toen PERSOON me een berichtje stuurde met de vraag of ik iets via thuisbezorgd kon bestellen voor zijn zoon omdat die geen internetbankieren had. Ik ben daar toen niet op in gegaan maar deze vraag riep heel veel argwaan op. Dat is niet iets wat je vraagt aan je webdesigner. Maar omdat ik toen al bezig was met de website ben ik toen niet gestopt met het maken van de website.
 
 Het tweede ding dat ik heb geleerd is niet zozeer hoe belangrijk het sturen van officiële herinneringen is, maar vooral hoe belangrijk het is om geen stappen te zetten alvorens er een aanbetaling is voldaan. Dan heb je namelijk altijd nog iets in handen om mee te dreigen mocht het moeilijk lopen. Nu sta ik volledig met lege handen. Ik heb 40 uur voor niets gewerkt en een kleine investering uitgegeven aan een template en hostingpartij.
 
-## **Conclusie niet betalende klanten**
+## Conclusie niet betalende klanten
 
 Al met al ben ik trots op hoe ik PERSOON heb geconfronteerd en heb ik er wat uit geleerd. Niet betalende klanten geven veel negativiteit binnen je bedrijf en persoonlijke leven en dat is zonde. Laten we in ieder geval hopen dat het nooit meer zo hoeft te gaan. Daar wordt iedereen beter van. En wat betreft PERSOON zelf, hoop ik dat de oplichting bij deze ene situatie blijft.
 
-#### GRATIS training
+### GRATIS training
 
-## **Maak Jouw Eigen Professionele Blog In 5 Simpele Stappen (GRATIS)**
+## Maak Jouw Eigen Professionele Blog In 5 Simpele Stappen (GRATIS)
 
-Voor iedereen die een **professionele blog** op wilt zetten, maar niet weet hoe te beginnen. In de training zet je **jouw eigen blog online** en ga je aan de slag met het krijgen van lezers. [\> Bekijk training](/blog/ondernemen/blog-beginnen-starten-stappenplan/)
+Voor iedereen die een **professionele blog** op wilt zetten, maar niet weet hoe te beginnen. In de training zet je **jouw eigen blog online** en ga je aan de slag met het krijgen van lezers. [› Bekijk training](/blog/ondernemen/blog-beginnen-starten-stappenplan/)
 
-![](/images/migrated/training-de-moderne-nomaden.webp "training-de-moderne-nomaden")
+![Training de moderne nomaden](/images/migrated/training-de-moderne-nomaden.webp "training-de-moderne-nomaden")

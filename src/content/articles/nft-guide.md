@@ -22,23 +22,23 @@ Eén ding is zeker: **NFTs zijn hier en gaan voorlopig niet meer weg**. Het gaat
 
 _\*Deze NFT guide is ook in het Engels geplaatst op ons platform [Desynt.io](https://desynt.io). Een NFT training en media platform voor bedrijven._
 
-1.  [Wat is een NFT](#wat-is-een-nft)
-2.  [Waar komen NFTs vandaan?](#waar-komen-nfts-vandaan)
-3.  [Hoe koop je een NFT?](#hoe-koop-je-een-nft)
+1.  Wat is een NFT
+2.  Waar komen NFTs vandaan?
+3.  Hoe koop je een NFT?
     
-    *   [Stap #1 Kies een NFT Marktplaats](#nft-marktplaats)
+    *   Stap #1 Kies een NFT Marktplaats
     
-    *   [Stap #2 Geld kopen (of hoe je dat zegt)](#crypto-wallet)
+    *   Stap #2 Geld kopen (of hoe je dat zegt)
     
-    *   [Stap #3 Curatie in de NFT Space](#curatie)
-4.  [Hoe maak je een NFT?](#hoe-maak-je-een-nft)
-    *   [Stap #1 Kies een Blockchain](#blockchain-kiezen)
-    *   [Stap #2 Kies een Marktplaats](#marktplaats-kiezen)
-    *   [Stap #3 Smart Contracts](#smart-contracts)
+    *   Stap #3 Curatie in de NFT Space
+4.  Hoe maak je een NFT?
+    *   Stap #1 Kies een Blockchain
+    *   Stap #2 Kies een Marktplaats
+    *   Stap #3 Smart Contracts
 
 ![Southpark NFT grap](data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27480%27%20height%3D%27262%27%20viewBox%3D%270%200%20480%20262%27%3E%3Crect%20width%3D%27480%27%20height%3D%27262%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E "Southpark NFT grap")
 
-# Wat is een NFT?
+## Wat is een NFT?
 
 Een goede vraag om eerst te beantwoorden. Kunst is vaak de eerste associatie die mensen hebben met NFTs. Je hebt zelf waarschijnlijk ook weleens gehoord van digitale kunstwerken die voor magistrale bedragen worden verkocht.
 
@@ -80,7 +80,7 @@ Verzamelaars, handelaren en kunstliefhebbers lijken de eerste groepen die zich c
 
 ![Gekke walvissen NFT collectie](/images/migrated/gekke-walvissen-collectie-nft.webp "Gekke walvissen NFT collectie")
 
-# Waar komen NFTs vandaan?
+## Waar komen NFTs vandaan?
 
 Om beter te begrijpen wat NFTs zijn en welke mogelijkheden ze ons geven, moeten we weten hoe deze blockchain technologie zich heeft ontwikkeld.
 
@@ -90,15 +90,15 @@ Het mag duidelijk zijn dat ‘geld verdienen met memes’ niet de reden was voor
 
 NFTs, die ook gebouwd zijn op blockchains, doen precies dit. **Ze maken het gebruik van contracten veiliger, transparanter en democratischer.** Hoe, daar komen we later op terug, maar laten we eens kijken naar de helden die onze toekomst vormden.
 
-1.  **[De Whitepaper over Colored Coins](#coloredcoins)**
-2.  **[Quantum](#quantum)**
-3.  **[Counterparty](#counterparty)**
-4.  **[De Geboorte van CryptoPunks](#cryptopunks)**
-5.  **[CryptoKitties](#cryptokitties)**
-6.  **[De Mainstream](#mainstream)**
-7.  **[The Man. The Myth. The Beeple.](#beeple)**
+1.  **De Whitepaper over Colored Coins**
+2.  **Quantum**
+3.  **Counterparty**
+4.  **De Geboorte van CryptoPunks**
+5.  **CryptoKitties**
+6.  **De Mainstream**
+7.  **The Man. The Myth. The Beeple.**
 
-### **1\. De Whitepaper over Colored Coins**
+### 1. De Whitepaper over Colored Coins
 
 Laten we terugspoelen naar 2012. Het was drie jaar nadat de eerste Bitcoin zonlicht heeft gezien. De prijs was nog gelijk aan een pakje sigaretten (inmiddels beiden to the moon geschoten trouwens). En niemand kende Bitcoin echt, behalve de kijkers van [The Good Wife](https://www.imdb.com/title/tt2148561/). Dit was het moment waarop mensen zich begonnen te beseffen dat Bitcoin meer zou kunnen zijn dan slechts een loze nieuwe valuta.
 
@@ -112,7 +112,7 @@ Wat hij in het kort voorstelde was dit: Een Bitcoin (of welke andere cryptomunt 
 
 **_En zo gebeurde het…_**
 
-### **2\. Quantum**
+### 2. Quantum
 
 Het was anderhalf jaar nadat Rosenfeld zijn woorden de wereld in had geslingerd, toen de eerste NFT ook daadwerkelijk werd geregistreerd. Het was tijdens de piek van de Tumblr cultuur, waarbij een enorme community van fans en artiesten afbeeldingen en video’s met elkaar deelden. Van esthetisch uitziende porno tot aan artistieke werken. En, **één van die artiesten die je tegenkwam op Tumblr was Kevin McCoy.**
 
@@ -128,7 +128,7 @@ Kevin, die dus voornamelijk werkte als digitaal kunstenaar, werd zo gekoppeld aa
 
 **Quantum is later verkocht op een Sotheby’s veiling voor 1,5 miljoen dollar.**
 
-### **3\. Counterparty**
+### 3. Counterparty
 
 **‘Gekleurde munten’**, zoals Rosenfeld ze noemde, waren nu daadwerkelijk een ding. Na een bescheiden kennismaking met onze wereld, zagen we al snel dat dit een relatie is om warm te houden. In hetzelfde jaar dat ‘Quantum’ evolueerde tot NFT startten drie Amerikaanse developers ‘Counterparty’, een bedrijf dat zich richt op het uitbreiden van de mogelijkheden van Bitcoin.
 
@@ -166,7 +166,7 @@ De immense reis die het stukje code had afgelegd was eindelijk het benoemen waar
 
 **En zo gebeurde het…**
 
-### **4\. De geboorte van CryptoPunks**
+### 4. De geboorte van CryptoPunks
 
 ![Cryptopunks NFT](/images/migrated/cryptopunks-nft.webp "Cryptopunks NFT")
 
@@ -198,7 +198,7 @@ Zij hebben door dit mega succes niet allen bijgedragen aan de adoptie van NFTs. 
 
 De code van de CryptoPunks bleek potentie te hebben en vormde uiteindelijk het fundament voor een nieuwe token: de ERC-721. Dit is de uiteindelijke token die bijna iedereen gebruikt voor NFTs. Deze maakte het namelijk mogelijk om een uniek item te registreren.
 
-### **5\. CryptoKitties**
+### 5. CryptoKitties
 
 Punkrockers zijn leuk. Ten minste, vind ik. Toch zijn er dingen die mensen nog veel liever zien dan dat. **Waar is het internet op gebouwd en heeft YouTube bestaansrecht gegeven**?
 
@@ -222,7 +222,7 @@ De drukte zorgde er alleen voor dat het netwerk van Metamask al snel overbelast 
 
 Okay, er is nog veel meer te vertellen, maar laten we dat voor een ander artikel bewaren. Waar je misschien wel in geïnteresseerd bent, is de prijs van die katjes. Nou, **die prijzen lopen inmiddels soms al op tot de €100.000 euro.**
 
-### **6\. De mainstream**
+### 6. De mainstream
 
 hbaxugwqlucjwejlebf… _(zo klinkt doorspoelen ten minste in mijn hoofd)_
 
@@ -242,7 +242,7 @@ Zo verdiende Grimes, zangeres en producer (en ex-vriendin van Elon Musk), bijna 
 
 Waarom NFTs nu ineens de roem kreeg die altijd al verdiende, weet ik niet. Wellicht dat het iets heeft te maken met de man die geschiedenis maakte als digitaal artiest. Ontmoet Beeple.
 
-### **7\. The Man. The Myth. The Beeple.**
+### 7. The Man. The Myth. The Beeple.
 
 Deze man is hard. Even geen grap. **Beeple, die eigenlijk Mike Winkelmann heet, maakte al dertien jaar lang elke dag een digitaal kunstwerk.** Sommigen van die werken verkocht hij voor een kleine 100 dollar, maar de meesten stonden gewoon ergens online in de hoop dat het aandacht trekt.
 
@@ -254,13 +254,13 @@ Toen iemand hem vertelde over NFTs _(na die dertien jaar keihard werken dus)_ 
 
 ![NFT training](/images/migrated/Future-proof-Business-1-e1645006633208.webp "NFT training")
 
-### **Als bedrijf aan de slag met NFTs?**
+### Als bedrijf aan de slag met NFTs?
 
 Ga jarenlang experimenteren OF leer met de NFT In-Company training binnen één dag alles wat je nodig hebt. Wij maken bedrijven Web 3.0 ready!
 
 [NFT In-Company](https://desynt.io/nft-incompany/)
 
-# Hoe koop je een NFT?
+## Hoe koop je een NFT?
 
 **En waarom ben jij nog geen miljonair?!**
 
@@ -280,15 +280,15 @@ Het kopen van een NFT kent vooral een paar extra stappen die je moet kennen. Kij
 
 Binnen een paar stappen kun je zelf aan de slag. Je moet…
 
-1.  [**Een marktplaats kiezen**](#nft-marktplaats)
-2.  [**Je digitale portemonnee vullen**](#crypto-wallet)
-3.  **[NFTs cureren](#curatie)**
+1.  **Een marktplaats kiezen**
+2.  **Je digitale portemonnee vullen**
+3.  **NFTs cureren**
 
 _Wat je moet weten voor we beginnen: [het flippen van NFTs](/blog/web3/nft-project-research-onderzoeken-flippen/) is nooit zonder risico. Je kunt een keer investeren in het verkeerde project. Misschien zelfs een scam. Maar durf jij het aan, ben je bereidt wat geld te investeren en te leren gedurende de weg? Dan kunnen we flinke stappen maken naar een inkomen waar jij wel graag je bed voor uitkomt._
 
 ![Seel me this pen NFT wolf of wallstreet](/images/migrated/sell-me-this-pen-nft-wolf-of-wallstreet.webp "Seel me this pen NFT wolf of wallstreet")
 
-## **Stap #1: Een marktplaats kiezen**
+## Stap #1: Een marktplaats kiezen
 
 Er zijn al best wat NFT marktplaatsen uit de grond gestampt. Deze hebben allemaal hun eigen kenmerken en soorten tokens die ze ondersteunen. **Het is belangrijk dat we onze behoeftes en interesses in kaart brengen, zodat we daarna kunnen uitzoeken welke marktplaats daarbij aansluit.**
 
@@ -314,12 +314,12 @@ In het belang van deze handleiding richten we ons op de twee dominerende categor
 
 _Maar, ik ga heel eerlijk zijn. Het is goed om een NFT project onder de loep te leggen, maar qua marktplaats zou ik dit vooral laten. Uiteindelijk gaat het om doen en gedurende de weg te leren. Ik ga hieronder een lijstje maken van enkele marktplaatsen, die allemaal een kenmerkend verschil hebben ten opzichte van elkaar. Er zijn nog veel meer plekken voor NFTs, maar die hebben verder allemaal een profiel die overeenkomt met een van de onderstaande._
 
-1.  [OpenSea](#opensea)
-2.  [SuperRare](#superrare)
-3.  [SolSea](#solsea)
-4.  [Objkt](#objkt)
+1.  OpenSea
+2.  SuperRare
+3.  SolSea
+4.  Objkt
 
-### 1\. OpenSea NFT marktplaats
+### 1. OpenSea NFT marktplaats
 
 ![OpenSea NFT marktplaats](/images/migrated/opensea-nft-marktplaats.webp "OpenSea NFT marktplaats")
 
@@ -343,7 +343,7 @@ Deze blockchains zijn gebouwd op Ethereum, maar **sneller en zonder transactieko
 
 OpenSea kun je zien als een soort multiculturele samenleving. **Het heeft inmiddels zoveel verschillende gebruikers**. Er is voort iedereen iets te vinden binnen zijn of haar prijsklasse. Dit zorgt voor engagement, meer handelsvolume en dus meer groei.
 
-### 2\. SuperRare NFT marktplaats
+### 2. SuperRare NFT marktplaats
 
 ![SuperRare NFT Marktplaats](/images/migrated/superrare-nft-marktplaats.webp "SuperRare NFT Marktplaats")
 
@@ -359,7 +359,7 @@ Deze commissie is een stuk hoger dan bij andere platforms, maar zeker het overwe
 
 **SuperRare is, net als OpenSea, gebouwd op Ethereum.** Het heeft daarom ook te maken met de functionaliteiten van die blockchain. SuperRare maakt het namelijk ook niet mogelijk om kunst te listen die op een andere blockchain staat dan Ethereum. Ook layer 2 chains, zoals Polygon en Klaytn, niet. **Dit betekent dat je op dit platform altijd te maken hebt met de transactiekosten van Ethereum.**
 
-### 3\. SolSea NFT marktplaats
+### 3. SolSea NFT marktplaats
 
 ![SolSea NFT marktplaats](/images/migrated/solsea-nft-marktplaats.webp "SolSea NFT marktplaats")
 
@@ -373,7 +373,7 @@ Solana is nog wel iets minder groot binnen de huidige NFT markt (2023), maar ver
 
 Het gaat er nu om hoe Solana zich positioneert ten opzichte van Ethereum en zijn broertjes. Ze timmeren hard aan de weg en proberen daadwerkelijk innovatie te drijven. Ook zie je steeds meer NFT influencers die voor deze blockchain kiezen. Zij zullen allemaal Solana NFTs gaan promoten om de prijs op te voeren. Dus, wellicht is dit wel een erg goede optie, want je kunt er nog bij zijn voor de bul run op Solana begint.
 
-### 4\. Objkt NFT Marktplaats
+### 4. Objkt NFT Marktplaats
 
 ![Objkt NFT marktplaats](/images/migrated/objkt-nft-marktplaats.webp "Objkt NFT marktplaats")
 
@@ -393,7 +393,7 @@ Beeple’s ‘Crossroads’ werd verkocht voor 6,6 mln dollar
 
 Vandaag gebruik ik als voorbeeld OpenSea. Dit is de meest gebruikte marktplaats voor NFTs. Als je dit proces eens hebt doorlopen, snap je (waarschijnlijk) ook hoe je gebruik kunt maken van andere marktplaatsen.
 
-## **Stap #2 Je digitale portemonnee vullen**
+## Stap #2 Je digitale portemonnee vullen
 
 **Om een NFT te kopen heb je crypto nodig.** Zo betaal je op OpenSea met Ethereum. Betaal je op SolSea, uiteraard, met Solana. You get the deal. Deze munten gebruik je met behulp van een wallet, een digitale portemonnee. Elke blockchain heeft in principe een eigen wallet.
 
@@ -427,7 +427,7 @@ Maar wacht…
 
 We zijn nog niet helemaal klaar met deze handleiding. Er zijn namelijk nog een paar dingen die je moet weten voor je zelfstandig op avontuur kan. **Want niemand heeft zin in hoge transactiekosten, scams en NFTs die waarde verliezen.**
 
-## **Stap #3 NFTs cureren**
+## Stap #3 NFTs cureren
 
 **Allright. We hebben de NFT universe betreden. Het is time to flip.** 
 
@@ -545,19 +545,19 @@ Time to…
 
 ![NFTs flippen](/images/migrated/nfts-flippen.webp "NFTs flippen")
 
-# Hoe maak je een NFT?
+## Hoe maak je een NFT?
 
 **Je wilt je eigen NFTs maken.** Super! Je kan namelijk zo veel met NFTs. Om maar een paar voorbeelden te noemen.
 
-![](https://desynt.io/wp-content/uploads/2022/01/Screenshot-2022-01-07-at-18.18.49-1024x642.png)
+![Screenshot 2022 01 07 at 18.18.49](https://desynt.io/wp-content/uploads/2022/01/Screenshot-2022-01-07-at-18.18.49-1024x642.png)
 
 **Je bent een (digitaal) kunstenaar en zoekt een manier om geld te kunnen verdienen met je eigen werk. (Niet alleen maar commerciële klussen.)**
 
-![](https://desynt.io/wp-content/uploads/2022/01/Screenshot-2022-01-07-at-18.18.49-1024x642.png)
+![Screenshot 2022 01 07 at 18.18.49](https://desynt.io/wp-content/uploads/2022/01/Screenshot-2022-01-07-at-18.18.49-1024x642.png)
 
 **Misschien sta je op het punt je eigen event te hosten en wil je NFTs gebruiken als tickets.**
 
-![](https://desynt.io/wp-content/uploads/2022/01/Screenshot-2022-01-07-at-18.18.49-1024x642.png)
+![Screenshot 2022 01 07 at 18.18.49](https://desynt.io/wp-content/uploads/2022/01/Screenshot-2022-01-07-at-18.18.49-1024x642.png)
 
 **Of zoek je een vorm van acces cards voor je eigen exclusive members club.**
 
@@ -565,11 +565,11 @@ Nogmaals, er is zo veel mogelijk ([check ook zeker alle ideeën om als bedrijf N
 
 Er zijn alleen een paar dingen waar we over na zullen moeten denken. Je moet straks namelijk:
 
-1.  **[Een geschikte blockchain kiezen](#blockchain-kiezen)**
-2.  **[Een marktplaats kiezen waar je in gelooft en die compatible is met onze blockchain](#marktplaats-kiezen)**
-3.  **[Bedenken of we zelf een smart contract gaan schrijven (geloof me, dat kun je makkelijk leren) of we de tools gebruiken die onze marktplaats biedt](#smart-contracts)**
+1.  **Een geschikte blockchain kiezen**
+2.  **Een marktplaats kiezen waar je in gelooft en die compatible is met onze blockchain**
+3.  **Bedenken of we zelf een smart contract gaan schrijven (geloof me, dat kun je makkelijk leren) of we de tools gebruiken die onze marktplaats biedt**
 
-## **Stap #1: Blockchain kiezen**
+## Stap #1: Blockchain kiezen
 
 **Voordat we een NFT gaan maken, moeten we beslissen welke blockchain het beste bij onze behoeften past.** Zo is Ethereum gewoon duur om te gebruiken (transactiekosten zijn vaak rond de 100 euro), is Solana veel minder slecht voor het klimaat dan veel andere chains en heeft Cardano nog vrijwel geen fanbase (je wilt wel aan iemand kunnen verkopen).
 
@@ -579,13 +579,13 @@ Okay. Waar gaan we naar kijken bij het beoordelen van een blockchain:
 2.  **Transactiesnelheid**
 3.  **Veiligheid**
 
-### 1\. Mint- en transactiekosten
+### 1. Mint- en transactiekosten
 
 De kosten zijn belangrijk om bij stil te staan. Voor ‘minten’, ofwel registreren van je NFT op de blockchain, betaal je gas fees. Dit zijn de kosten voor de energie die je verbruikt op het netwerk. Het is goed om te weten dat iemand voor elke toekomstige transactie ook gas fees betaald. Het kan namelijk nogal energie intensief zijn om een smart contract over te brengen naar iemand anders.
 
 ![NFT gas fees minten](/images/migrated/nft-gas-fees-minten-1-1.webp "NFT gas fees minten")
 
-### 2\. Transactiesnelheid
+### 2. Transactiesnelheid
 
 **Snelheid is belangrijk voor het succes van een blockchain.** Dit moet alleen niet ten koste gaan van andere belangrijke factoren, zoals transactiekosten of veiligheid. De snelheid wordt door een paar dingen bepaald. Die snelheid wordt grotendeels bepaald door het consensus mechanisme, de manier waarop de blockchain transacties registreert.
 
@@ -601,7 +601,7 @@ Je hebt dus verschillende consensus mechanismen. De bekendste en meest gebruikte
 
 Zoals je misschien kan gokken is de transactiesnelheid van Proof of Stake een stuk sneller dan Proof of Work, en is het daarnaast ook milieuvriendelijker.
 
-### 3\. Veiligheid
+### 3. Veiligheid
 
 Moet ik dit echt zeggen. Ik denk het niet, maar…
 
@@ -617,20 +617,20 @@ Een **hard fork** is ook mogelijk. Dit gebeurt als het netwerk het niet eens is 
 
 Voor nu zou ik vooral niet te lang nadenken over dit alles. Het belangrijkste is om te experimenteren. Om te experimenteren zou één ding voornamelijk handig zijn: weinig kosten. Daarom is Ethereum een slechte keuze en zullen we eerder willen uitwijken naar een layer 2 oplossing, zoals Polygon.
 
-## **Blockchains vergelijken**
+## Blockchains vergelijken
 
 Hieronder vind je een overzicht van mogelijke blockchains om je NFT op te maken.
 
-1.  **[Ethereum](#ethereum)**
-2.  **[Polygon](#polygon)**
-3.  **[Solana](#solana)**
-4.  **[Cardano](#cardano)**
-5.  **[WAX](#wax)**
-6.  **[Binance Smart Chain](#binance)**
-7.  **[Flow](#flow)**
-8.  **[Algorand](#algorand)**
+1.  **Ethereum**
+2.  **Polygon**
+3.  **Solana**
+4.  **Cardano**
+5.  **WAX**
+6.  **Binance Smart Chain**
+7.  **Flow**
+8.  **Algorand**
 
-### **1\. Ethereum**
+### 1. Ethereum
 
 ![Ethereum Blockchain](/images/migrated/ethereum-blockchain.webp "Ethereum Blockchain")
 
@@ -650,7 +650,7 @@ Uiteindelijk zou je je moeten afvragen in welke mate je hierom wilt geven als be
 
 Let op: Solidity, de programmeertaal gemaakt voor Ethereum, is best flexibel. Door deze brede toepasbaarheid en mogelijkheden kun je snel steekjes laten vallen bij het programmeren van je smart contract. Verderop in dit artikel leg ik je er meer over uit onder het kopje ‘Smart Contracts’.
 
-### **2\. Polygon**
+### 2. Polygon
 
 ![Polygon NFT](/images/migrated/polygon-nft.webp "Polygon NFT")
 
@@ -672,7 +672,7 @@ In plaats van Ethereums Proof of Work mechanisme maakt Polygon wel gebruikt van 
 
 Daarnaast motiveert Polygon developers om bugs uit het systeem te halen, door bijvoorbeeld 2 miljoen te geven aan onze hacker op het witte paard.
 
-### **3\. Solana**
+### 3. Solana
 
 ![Solana blockchain](/images/migrated/solana-blockchain.webp "Solana blockchain")
 
@@ -696,7 +696,7 @@ Toch is solana bereid te werken aan de risico’s, en doen ze er steeds meer aan
 
 Solana neemt daarentegen wel toe in populariteit binnen de NFT markt. Het is dan ook geen gekke optie om te overwegen voor je eigen NFT projecten. Nogmaals, ik wil je gewoon vertellen dat het slim is om een blockchain uit te kiezen die goed aanvoelt. Misschien is er wel een marktplaats waarmee je je makkelijk identificeert. Kies die en begin met experimenteren. Op het moment dat je tonnen, of zelfs miljoenen, verdient moeten we de opties misschien nog eens overwegen.
 
-### **4\. Cardano**
+### 4. Cardano
 
 ![Cardano Blockchain](/images/migrated/cardano-blockchain.webp "Cardano Blockchain")
 
@@ -718,7 +718,7 @@ Zoals Solana en Polygon gebruikt ook Cardano een Proof of Stake mechanisme. Dit 
 
 Het Ouroboros protocol van Cardano zorgt voor ‘verifiable secureness’, zegt Cardano zelf.
 
-### **5\. Wax**
+### 5. Wax
 
 ![Wax blockchain](/images/migrated/wax-blockchain.webp "Wax blockchain")
 
@@ -734,7 +734,7 @@ Qua kosten is WAX erg aardig voor ons. Zij rekenen namelijk 2% transactiekosten 
 
 WAX noemt zichzelf de veiligste blockchain. Ik vertrouw zulke grote woorden nooit. Toch lijkt het verdomd lastig om berichten te vinden van hacks en bugs. Af en toe kom ik een artikel tegen over WAX powered games die te maken krijgen met bijvoorbeeld bots. Dit is alleen niet aan de blockchain maar aan de game developer om op te lossen. Het lijkt dat WAX het nog goed doet op dit gebied. Dat is erg positief gezien ze al bestaan sinds 2017.
 
-### **6\. Binance Smart Chain**
+### 6. Binance Smart Chain
 
 ![Binance Smart Chain](/images/migrated/binance-smart-chain.webp "Binance Smart Chain")
 
@@ -750,7 +750,7 @@ Binance heeft zijn tegenslagen gehad. Zoals elke blockchain eigenlijk. Binance s
 
 Hoe dan ook beweert BSC zelf dat de blockchain en het algoritme waarop het opereert veilig zijn. Zij zeggen dat er geen bekende kwetsbaarheid of ‘aanval vectoren’ zijn die misbruikt kunnen worden op de blockchain zelf. Gezien het gebrek aan berichten over dit soort veiligheidslekken op BSC klinkt dat als een terechte bewering.
 
-### **7\. Flow**
+### 7. Flow
 
 ![Flow blockchain](/images/migrated/flow-blockchain.webp "Flow blockchain")
 
@@ -770,7 +770,7 @@ Er is uitzonderlijk weinig te vinden over veiligheidslekken op Flow. Dit zal te 
 
 Dapper Labs ontwierp tevens Cadence, de programmeertaal waarmee je smart contracts kunt schrijven voor op de Flow blockchain. Om veiligheid verder te optimaliseren nodigden ze developers uit om smart contracts te hacken. Zo maakte je kans op $2500 dollar.
 
-### **8\. Algorand**
+### 8. Algorand
 
 ![Algorand Blockchain](/images/migrated/algorand-blockchain.webp "Algorand Blockchain")
 
@@ -840,7 +840,7 @@ Wil je toch zelf een smart contract maken? Dan zou ik de video’s aanraden van�
 
 ![NFT training](/images/migrated/Future-proof-Business-1-e1645006633208.webp "NFT training")
 
-### **Als bedrijf aan de slag met NFTs?**
+### Als bedrijf aan de slag met NFTs?
 
 Ga jarenlang experimenteren OF leer met de NFT In-Company training binnen één dag alles wat je nodig hebt. Wij maken bedrijven Web 3.0 ready!
 

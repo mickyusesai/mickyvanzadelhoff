@@ -56,7 +56,7 @@ Veel tussenpartijen worden weggelaten, het is een soort bye bye Facebook feestje
 
 Super mooi natuurlijk, maar hoe ziet dat er in de praktijk dan uit? Gaan we voor web 3 straks met zijn allen proberen een Youtube te maken? Nou, nee niet echt. Wel kunnen we met zijn allen voor een deel **eigenaarschap krijgen over zo’n platform**, bijvoorbeeld door [NFTs](/blog/web3/nft-guide/). Om op de verschillende aspecten in te zoomen, bespreken we hieronder de vijf pijlers van web 3.
 
-### 1\. Semantisch web
+### 1. Semantisch web
 
 Wat heeft Google nodig om een overzicht te geven van alle technologische ontwikkelingen in 2023? Vandaag de dag hebben ze daarvoor nog **een webpagina** nodig met daarop een lijst met alle technologische ontwikkelingen in 2023.
 
@@ -68,7 +68,7 @@ Onze web 2 favoriet Wikipedia is hier trouwens al mee bezig. Zij werken aan een 
 
 Wat je sinds 2023 ziet is een enorme opkomst van het semantisch web met AI tools als [ChatGPT](/blog/ondernemen/chat-gpt-ai-voor-ondernemers/). Deze bot genereert al antwoorden die zijn gegenereerd door een combinatie van tal van verschillende bronnen.
 
-### 2\. Kunstmatige intelligentie (AI)
+### 2. Kunstmatige intelligentie (AI)
 
 **Kunstmatige intelligentie** is al geruime tijd in opkomst en wordt steeds vaker toegepast met steeds betere functionaliteiten. Denk aan **het herkennen van de context** van afbeeldingen en video’s.
 
@@ -97,7 +97,7 @@ Zoiets als die plaatjes van Google heeft zich nu omgezet in [AI tools](/blog/ond
 *   [**CopyMonkey**](/go/copymonkey): E-commerce productbeschrijvingen laten schrijven.
 *   [**Podcastle**](/go/podcastle): Professionele podcasts opnemen zonder dure apparatuur.
 
-### 3\. Web 3 is driedimensionaal
+### 3. Web 3 is driedimensionaal
 
 Het internet is plat. Websites zijn 2D en daar bleef het tot nu toe bij. Binnen web 3 mogen we veel meer 3D verwachten. In de praktijk komt dit vaak neer op technologie zoals **Virtual Reality (VR)** en **Artificial Reality (AR)**.
 
@@ -113,7 +113,7 @@ Bedenk daar een **AI shop assistent** bij en kledingmaten die in jouw avatar zij
 
 Zoals je hierboven kunt zien, dit is dus géén echte winkel, maar een winkel die H&M heeft geopend in de Metaverse. **Welkom in web 3**!
 
-### 4\. Shareholders en crypto
+### 4. Shareholders en crypto
 
 Wanneer je social media gebruikt is dit veelal gratis. Al staat daar wel tegenover **dat jouw data wordt gebruikt om advertenties te verkopen**. Je betaalt dus in feite met jouw gegevens.
 
@@ -125,7 +125,7 @@ In web 3 gaat dit volledig veranderen, zo is het idee. Je wordt dan zelf **mede-
 
 Een andere vorm om mede-eigenaar te zijn van een verdienmodel kan bijvoorbeeld door het beheren van bepaalde [crypto](/blog/web3/handelen-in-crypto-valuta/) waar je rendement op ontvangt (staking). Zie dit als een aandeel binnen een bedrijf. Dit kan ook door deel te nemen aan een **Decentralized Autonomous Organization (DAO)**. Dit is een autonoom bedrijf waar de beslissingen worden genomen door iedereen die eraan deelneemt door een deel van de crypto te bezitten.
 
-### 5\. Community
+### 5. Community
 
 Als je naar [NFTs](/blog/web3/nft-uitleg/) kijkt, dan is het gedecentraliseerde idee daarachter vaak dat het de community is die een NFT trendy maakt. Iets wat jij bezit is dus iets dat je zelf promoot. Stel dat je mede mini **eigenaar bent** van een social media platform, dan is de kans groot dat dit de social media is waar je ook je vrienden naartoe stuurt.
 
@@ -137,7 +137,7 @@ In een ultiem web 3 zijn het de gebruikers zelf die de waarde van een merk of pl
 
 ![NFT training](/images/migrated/Future-proof-Business-1-e1645006633208.webp "NFT training")
 
-### **Als bedrijf aan de slag met NFTs?**
+### Als bedrijf aan de slag met NFTs?
 
 Ga jarenlang experimenteren OF leer met de NFT In-Company training binnen één dag alles wat je nodig hebt. Wij maken bedrijven Web 3.0 ready!
 

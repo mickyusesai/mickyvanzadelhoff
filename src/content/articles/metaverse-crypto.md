@@ -32,6 +32,7 @@ Investeerders hoeven daarmee ook niet per se in de Metaverse actief te zijn om d
 
 Het is één van de manieren om te **investeren in de Metaverse**. En vaak is het ook die crypto die je nodig hebt om bijvoorbeeld een virtueel stuk land of voorwerp te kopen.
 
+<!-- TODO: verify this data is still current (meme-coin promo, Pikamoon pick "begin 2025", MEXC) -->
 ## Klaar om de volgende 100x meme-coin sensatie te ontdekken? 🚀
 
 Duik in de wereld van meme-coins en grijp potentieel enorme winsten! Maar hoe koop je die veelbelovende tokens **voordat** ze op de grote exchanges verschijnen? 🤯
@@ -59,30 +60,30 @@ _Wij hebben **geen** **affiliatie** met dit project. Wees je bewust van de risic
 
 ## Metaverse crypto top 22
 
-[1\. Decentraland (MANA)](#mana)  
-[2\. The Sandbox (SAND)](#sand)  
-[3\. Apecoin (APE)](#ape)  
-[4\. Axie Infinity (AXS)](#axs)  
-[5\. Enjin (ENJ)](#enj)  
-[6\. Gala Games (GALA)](#gala)  
-[7\. My Neighbor Alice (ALICE)](#alice)  
-[8\. Aavegotchi (GHST)](#ghst)  
-[9\. Flow Blockchain (FLOW)](#flow)  
-[10\. Wemix (WEMIX)](#wemix)  
-[11\. NetVRK (NTVRK)](#ntvrk)  
-[12\. Highstreet (HIGH)](#high)  
-[13\. Floki Inu (FLOKI)](#floki)  
-[14\. Metahero (HERO)](#hero)  
-[15\. Terra Virtua Kolect (TVK)](#tvk)  
-[16\. Epik Prime (EPIK)](#epik)  
-[17\. Rfox (RFOX)](#rfox)  
-[18\. Blocktopia (BLOK)](#blok)  
-[19\. Render Network (RNDR)](#rndr)  
-[20\. Star Atlas (ATLAS)](#atlas)  
-[21\. Alien Worlds (TLM)](#tlm)  
-[22\. Cornucopias (COPI)](#copi)
+1\. Decentraland (MANA)  
+2\. The Sandbox (SAND)  
+3\. Apecoin (APE)  
+4\. Axie Infinity (AXS)  
+5\. Enjin (ENJ)  
+6\. Gala Games (GALA)  
+7\. My Neighbor Alice (ALICE)  
+8\. Aavegotchi (GHST)  
+9\. Flow Blockchain (FLOW)  
+10\. Wemix (WEMIX)  
+11\. NetVRK (NTVRK)  
+12\. Highstreet (HIGH)  
+13\. Floki Inu (FLOKI)  
+14\. Metahero (HERO)  
+15\. Terra Virtua Kolect (TVK)  
+16\. Epik Prime (EPIK)  
+17\. Rfox (RFOX)  
+18\. Blocktopia (BLOK)  
+19\. Render Network (RNDR)  
+20\. Star Atlas (ATLAS)  
+21\. Alien Worlds (TLM)  
+22\. Cornucopias (COPI)
 
-## 1\. Decentraland (MANA)
+## 1. Decentraland (MANA)
 
 [Koop op Finst](/go/finst)
 
@@ -94,9 +95,9 @@ Als kern van dit digitale universum fungeert de **MANA-valuta**, waarmee land en
 
 Met een sterke nadruk op de gemeenschap en de mogelijkheid tot creatieve expressie biedt Decentraland een unieke, gedecentraliseerde ervaring binnen de wereld van de Metaverse.
 
-[\> Koop deze Metaverse crypto op Finst](/go/finst)
+[› Koop deze Metaverse crypto op Finst](/go/finst)
 
-## 2\. The Sandbox (SAND)
+## 2. The Sandbox (SAND)
 
 [Koop op Finst](/go/finst)
 
@@ -106,9 +107,9 @@ The Sandbox is een dynamisch Metaverse-platform op de Ethereum-blockchain, waar 
 
 Dit platform moedigt creativiteit en innovatie aan door gebruikers in staat te stellen hun eigen spellen, digitale activa en ervaringen te bouwen met behulp van **voxel-technologie**. Het streeft ernaar een gedecentraliseerd alternatief te bieden voor traditionele spellen, met een focus op eigendom en economische kansen binnen de digitale wereld.
 
-[\> Koop deze Metaverse crypto op Finst](/go/finst)
+[› Koop deze Metaverse crypto op Finst](/go/finst)
 
-## 3\. Apecoin (APE)
+## 3. Apecoin (APE)
 
 [Koop op Finst](/go/finst)
 
@@ -116,9 +117,9 @@ Dit platform moedigt creativiteit en innovatie aan door gebruikers in staat te s
 
 **ApeCoin** is een ERC-20 governance- en utility-token dat de kern vormt van het APE-ecosysteem, gericht op het empoweren van een gedecentraliseerde gemeenschap in de voorhoede van web3. Het dient meerdere doeleinden binnen het ecosysteem, waaronder governance, waarbij ApeCoin-houders kunnen deelnemen aan de **ApeCoin DAO** voor besluitvorming; een unificatiemiddel voor uitgaven binnen het ecosysteem; toegang tot exclusieve inhoud en ervaringen; en als een stimulans voor ontwikkelaars om APE te integreren in hun projecten. ApeCoin benadrukt gemeenschapsgeleide initiatieven en culturele vooruitgang in de metaverse.
 
-[\> Koop deze Metaverse crypto op Finst](/go/finst)
+[› Koop deze Metaverse crypto op Finst](/go/finst)
 
-## 4\. Axie Infinity (AXS)
+## 4. Axie Infinity (AXS)
 
 [Koop op Finst](/go/finst)
 
@@ -128,9 +129,9 @@ Met meer dan een kwart miljoen dagelijkse spelers is **Axie Infinity** een vrij 
 
 Aan hoeveel AXS je kunt verdienen met het spelen van de game zit al vrij snel een max. Daarbij is het goed om te weten dat je voor het spelen van de game ook 3 NFTs nodig hebt genaamd Axies. Beginnen is dus zeker niet gratis.
 
-[\> Koop deze Metaverse crypto op Finst](/go/finst)
+[› Koop deze Metaverse crypto op Finst](/go/finst)
 
-## 5\. Enjin (ENJ)
+## 5. Enjin (ENJ)
 
 [Koop op Finst](/go/finst)
 
@@ -140,9 +141,9 @@ Aan hoeveel AXS je kunt verdienen met het spelen van de game zit al vrij snel ee
 
 Op het **Enjin** platform kunnen gebruikers virtuele items kopen, verkopen en opslaan. De digitale wallet kun je verbinden met games om jouw in-game items te gebruiken. De Metaverse crypto ENJ wordt gebruikt voor de transacties. Enjin is dus geen Metaverse op zichzelf, maar fungeert als onderdeel van de infrastructuur.
 
-[\> Koop deze Metaverse crypto op Finst](/go/finst)
+[› Koop deze Metaverse crypto op Finst](/go/finst)
 
-## 6\. Gala Games (GALA)
+## 6. Gala Games (GALA)
 
 [Koop op Finst](/go/finst)
 
@@ -150,9 +151,9 @@ Op het **Enjin** platform kunnen gebruikers virtuele items kopen, verkopen en op
 
 **Gala Games** geeft gamers de controle over hun game ervaring. Spelers kunnen er NFTs bezitten, kopen en verkopen met verschillende in-game functionaliteiten. De games zijn gratis om te spelen, zonder memberships of verplichte fees. Samen met het gigantische Epic Games lanceerde Gala Games het spel Grit. In deze battle game kun je strijden voor NFT trading cards.
 
-[\> Koop deze Metaverse crypto op Finst](/go/finst)
+[› Koop deze Metaverse crypto op Finst](/go/finst)
 
-## 7\. My Neighbor Alice (ALICE)
+## 7. My Neighbor Alice (ALICE)
 
 [Koop op Finst](/go/finst)
 
@@ -162,9 +163,9 @@ Op het **Enjin** platform kunnen gebruikers virtuele items kopen, verkopen en op
 
 Dit spel combineert traditionele game-ervaringen met **gedecentraliseerde financiën (DeFi) en non-fungible tokens (NFT’s)**, waardoor spelers echte eigendomsrechten hebben over hun in-game items en land. Het biedt een toegankelijke introductie tot de wereld van blockchain en crypto, gericht op het bouwen van een sterke, interactieve gemeenschap.
 
-[\> Koop deze Metaverse crypto op Finst](/go/finst)
+[› Koop deze Metaverse crypto op Finst](/go/finst)
 
-## 8\. Aavegotchi (GHST)
+## 8. Aavegotchi (GHST)
 
 [Koop op Bitvavo](/go/bitvavo)
 
@@ -172,9 +173,9 @@ Dit spel combineert traditionele game-ervaringen met **gedecentraliseerde financ
 
 **Aavegotchi** is een crypto collectibles game. Spaar ze allemaal! De spelers kunnen verschillende NFT avatars bezitten welke zij kunnen staken in de Aavegotchi Metaverse. Hiermee verdienen zij de GHST tokens. Aavegotchi is daarmee een spel dat de mogelijkheden van Decentralized Finance met NFTs combineert. De Aavegotchi’s zelf zijn pixelachtige geesten welke beter (lees: meer waard) kunnen worden door het spelen van onder andere mini-games.
 
-[\> Koop deze Metaverse crypto op Bitvavo](/go/bitvavo)
+[› Koop deze Metaverse crypto op Bitvavo](/go/bitvavo)
 
-## 9\. Flow Blockchain (FLOW)
+## 9. Flow Blockchain (FLOW)
 
 [Koop op Bitvavo](/go/bitvavo)
 
@@ -182,9 +183,9 @@ Dit spel combineert traditionele game-ervaringen met **gedecentraliseerde financ
 
 **Flow** is een efficiënte blockchain die helpt om apps, games en digital assets te ondersteunen. Privacy en veiligheid zijn daarbij het uitgangspunt. De blockchain biedt verschillende tools en support aan voor developers en is specifiek ontworpen voor crypto games en NFTs.
 
-[\> Koop deze Metaverse crypto op Bitvavo](/go/bitvavo)
+[› Koop deze Metaverse crypto op Bitvavo](/go/bitvavo)
 
-## 10\. Wemix (WEMIX)
+## 10. Wemix (WEMIX)
 
 [Koop op Kucoin](/go/kucoin)
 
@@ -192,9 +193,9 @@ Dit spel combineert traditionele game-ervaringen met **gedecentraliseerde financ
 
 **Wemix** is een blockchain platform dat is ontworpen voor gaming. Je vind er tal van Play2Earn strategie spellen die in veel gevallen ook nog eens met elkaar zijn verbonden. Wemix is nog vrij nieuw en heeft daarmee een zeer lage market cap als je deze vergelijkt met bovenstaande Metaverse crypto.
 
-[\> Koop deze Metaverse crypto op Kucoin](/go/kucoin)
+[› Koop deze Metaverse crypto op Kucoin](/go/kucoin)
 
-## 11\. Netvrk (NTVRK)
+## 11. Netvrk (NTVRK)
 
 [Koop op Kucoin](/go/kucoin)
 
@@ -202,9 +203,9 @@ Dit spel combineert traditionele game-ervaringen met **gedecentraliseerde financ
 
 **Netvrk** is een Metaverse waar mensen hun eigen virtuele wereld kunnen bouwen. Je kunt er afspreken met vrienden en tevens geld verdienen door te participeren. De Netvrk token kun je gebruiken om virtuele assets aan te schaffen zoals land, huizen en auto’s. Ook is er de mogelijkheid om op jouw stuk grond advertentieruimte toe te staan, hiervoor in ruil kun je dan [passief inkomen genereren](/blog/online-geld-verdienen/passief-inkomen-genereren/).
 
-[\> Koop deze Metaverse crypto op Kucoin](/go/kucoin)
+[› Koop deze Metaverse crypto op Kucoin](/go/kucoin)
 
-## 12\. Highstreet (HIGH)
+## 12. Highstreet (HIGH)
 
 [Koop op Binance](/go/binance)
 
@@ -212,9 +213,9 @@ Dit spel combineert traditionele game-ervaringen met **gedecentraliseerde financ
 
 Deze Metaverse kun je met Virtual Reality betreden! Als je binnen **Highstreet** een stuk virtueel land bezit dan kun je deze verhuren of zelfs belastingen heffen aan retailers die zich daar vestigen. Deze retailers kunnen daar zowel virtuele als in-game items verkopen.
 
-[\> Koop deze Metaverse crypto op Binance](/go/binance)
+[› Koop deze Metaverse crypto op Binance](/go/binance)
 
-## 13\. Floki Inu (FLOKI)
+## 13. Floki Inu (FLOKI)
 
 [Koop op Bitget](/go/bitget)
 
@@ -222,9 +223,9 @@ Deze Metaverse kun je met Virtual Reality betreden! Als je binnen **Highstreet**
 
 **Floki Inu** is vernoemd naar de bekende meme coin Shiba Inu. Deze crypto is gecreëerd door de community en heeft inmiddels drie projecten op gang gebracht. Namelijk Valhalla (Metaverse game), FlokiPlaces (NFT marketplace) en Floki University.
 
-[\> Koop deze Metaverse crypto op Bitget](/go/bitget)
+[› Koop deze Metaverse crypto op Bitget](/go/bitget)
 
-## 14\. Metahero (HERO)
+## 14. Metahero (HERO)
 
 [Koop op Kucoin](/go/kucoin)
 
@@ -232,9 +233,9 @@ Deze Metaverse kun je met Virtual Reality betreden! Als je binnen **Highstreet**
 
 **Metahero** probeert de brug te slaan tussen de echte wereld en de virtuele wereld. Dit doen ze met het zogenoemde ‘metascanning’. Daarbij worden real-life objecten in 3D gescand zodat deze kunnen worden geplaatst in de Metaverse. Die objecten zijn te koop op hun eigen 3D NFT marketplace en staan bekend om de zeer hoge kwaliteit.
 
-[\> Koop deze Metaverse crypto op Kucoin](/go/kucoin)
+[› Koop deze Metaverse crypto op Kucoin](/go/kucoin)
 
-## 15\. Terra Virtua Kolect (TVK)
+## 15. Terra Virtua Kolect (TVK)
 
 [Koop op Kucoin](/go/kucoin)
 
@@ -242,9 +243,9 @@ Deze Metaverse kun je met Virtual Reality betreden! Als je binnen **Highstreet**
 
 Bij de **Terra Virtua Kolect** kun je jouw eigen virtuele fancave maken. Het idee is dat je daar meerdere soorten (3D) NFTs in kan plaatsen. Jouw collectibles dus. Ze ondersteunen zowel VR als AR en geven je de mogelijkheid om bijvoorbeeld te racen met jouw eigen NFT auto. Uiteraard gaat dit allemaal samen met een eigen NFT marktplaats.
 
-[\> Koop deze Metaverse crypto op Kucoin](/go/kucoin)
+[› Koop deze Metaverse crypto op Kucoin](/go/kucoin)
 
-## 16\. Epik Prime (EPIK)
+## 16. Epik Prime (EPIK)
 
 [Koop op Kucoin](/go/kucoin)
 
@@ -252,9 +253,9 @@ Bij de **Terra Virtua Kolect** kun je jouw eigen virtuele fancave maken. Het ide
 
 **Epik Prime** creëert voor de AAA game bedrijven in-game NFT marktplaatsen en items. Deze traditionele game bedrijven worden zo geïntroduceerd aan [Web 3](/blog/web3/web-3-decentralisatie/) en blockchain technologie. De Epikverse bestaat uit een netwerk aan games, VR spaces en Metaverses welke met elkaar communiceren.
 
-[\> Koop deze Metaverse crypto op Kucoin](/go/kucoin)
+[› Koop deze Metaverse crypto op Kucoin](/go/kucoin)
 
-## 17\. Rfox (RFOX)
+## 17. Rfox (RFOX)
 
 [Koop op Kucoin](/go/kucoin)
 
@@ -262,9 +263,9 @@ Bij de **Terra Virtua Kolect** kun je jouw eigen virtuele fancave maken. Het ide
 
 De **RFOX** Metaverse focust zich met name op retail, entertainment en media. Denk hierbij aan een nieuwe vorm van e-commerce in een virtuele omgeving. Dit allemaal ondersteund met een VR beleving die toegankelijk moet zijn. Dus niet alleen voor de tech nerds. De looks van deze Metaverse zijn veelal realistisch, alsof er een digitaal kopie is gemaakt van de echte wereld.
 
-[\> Koop deze Metaverse crypto op Kucoin](/go/kucoin)
+[› Koop deze Metaverse crypto op Kucoin](/go/kucoin)
 
-## 18\. Bloktopia (BLOK)
+## 18. Bloktopia (BLOK)
 
 [Koop op Kucoin](/go/kucoin)
 
@@ -272,9 +273,9 @@ De **RFOX** Metaverse focust zich met name op retail, entertainment en media. De
 
 **Bloktopia** is een gedecentraliseerde Metaverse gebouwd op de Polygon blockchain. De Metaverse bestaat uit een wolkenkrabber van 21 verdiepingen hoog, refererend naar de 21 miljoen Bitcoin die er zijn. In Bloktopia kan men leren over de basis en technische kant van crypto. Ook kun je er spellen spelen en virtueel real-estate bezitten.
 
-[\> Koop deze Metaverse crypto op Kucoin](/go/kucoin)
+[› Koop deze Metaverse crypto op Kucoin](/go/kucoin)
 
-## 19\. Render Network (RNDR)
+## 19. Render Network (RNDR)
 
 [Koop op Kucoin](/go/kucoin)
 
@@ -282,9 +283,9 @@ De **RFOX** Metaverse focust zich met name op retail, entertainment en media. De
 
 **Render Network** is zoals de naam al doet vermoeden geen Metaverse op zichzelf. Wat ze wel doen; ze bieden GPU aan voor Metaverses en andere applicaties. Dit doen ze gedecentraliseerd en daarmee zijn ze naar eigen zeggen stukken goedkoper dan traditionele aanbieders van computerkracht. De RNDR tokens worden verdient door de aanbieder van de GPU.
 
-[\> Koop deze Metaverse crypto op Kucoin](/go/kucoin)
+[› Koop deze Metaverse crypto op Kucoin](/go/kucoin)
 
-## 20\. Star Atlas (ATLAS)
+## 20. Star Atlas (ATLAS)
 
 [Koop op Bitget](/go/bitget)
 
@@ -292,9 +293,9 @@ De **RFOX** Metaverse focust zich met name op retail, entertainment en media. De
 
 **Star Atlas** is een spel waarin jij de ontdekkingsreiziger bent door de ruimte. Je kunt er met jouw eigen customized ruimteschip ronddwalen. De ATLAS token staat op de Solana blockchain en is daarmee snel en veilig. Met deze Metaverse crypto kun je virtueel land, een ruimteschip, bemanning en tools kopen.
 
-[\> Koop deze Metaverse crypto op Bitget](/go/bitget)
+[› Koop deze Metaverse crypto op Bitget](/go/bitget)
 
-## 21\. Alien Worlds (TLM)
+## 21. Alien Worlds (TLM)
 
 [Koop op Kucoin](/go/kucoin)
 
@@ -302,9 +303,9 @@ De **RFOX** Metaverse focust zich met name op retail, entertainment en media. De
 
 **Alien Worlds** is een blockchain based game waar spelers elkaar kunnen uitdagen voor een battle. Dit is aan de hand van speelkaarten welke worden uitgegeven als NFT. Op het moment van schrijven is Alien Worlds de grootste gedecentraliseerde game in de markt.
 
-[\> Koop deze Metaverse crypto op Kucoin](/go/kucoin)
+[› Koop deze Metaverse crypto op Kucoin](/go/kucoin)
 
-## 22\. Cornucopias (COPI)
+## 22. Cornucopias (COPI)
 
 [Koop op Kucoin](/go/kucoin)
 
@@ -312,7 +313,7 @@ De **RFOX** Metaverse focust zich met name op retail, entertainment en media. De
 
 **Cornucopias** is een Metaverse met verschillende werelden, allemaal in een ander thema. Denk aan paradijselijke eilanden en het wilde westen. In deze werelden kun je gratis avonturen beleven. Voor bedrijven is het interessant omdat ze hier land of een van de speciale custom domes kunnen bezitten. Daarmee kunnen zij bijvoorbeeld een digitale ontmoetingsplaats creëren voor hun community.
 
-[\> Koop deze Metaverse crypto op Kucoin](/go/kucoin)
+[› Koop deze Metaverse crypto op Kucoin](/go/kucoin)
 
 ## Hoe investeer je in Metaverse crypto?
 
@@ -322,32 +323,18 @@ Of de virtuele real estate markt zo booming blijft is natuurlijk maar de vraag. 
 
 Investeren in de Metaverse en specifiek in Metaverse crypto is dus risicovol en vraagt om een goede spreiding tussen de verschillende kanshebbers. Om te beginnen met **het kopen van Metaverse crypto** hoef je niet veel meer te doen dan een account te maken op een exchange. Daarvoor gebruik ik zelf vooral de drie onderstaande crypto exchanges.
 
-### [1\. Finst](/go/finst)
+### [1. Finst](/go/finst)
 
 Gebruiksvriendelijke Nederlandse exchange met laagste handelskosten. Hier [koop je crypto met iDEAL of Bancontact](/go/finst) en kun je het veilig bewaren vanwege de Proof of Reserve (PoR).
 
-### [2\. Bitvavo](/blog/review/bitvavo-review-crypto/)
+### [2. Bitvavo](/blog/review/bitvavo-review-crypto/)
 
 Dit is een zeer eenvoudig te gebruiken Nederlandse exchange waar je met iDEAL crypto kunt kopen. Hier zijn een aantal van de grotere Metaverse crypto beschikbaar.
 
-### [3\. Kucoin](/go/kucoin)
+### [3. Kucoin](/go/kucoin)
 
 Voor de wat kleinere Metaverses kom ik zelf bij Kucoin terecht. Dit is een zeer grote internationale exchange die wat moeilijker te gebruiken is voor beginners, maar met een gigantisch aanbod aan crypto.
 
-## Klaar om de volgende 100x meme-coin sensatie te ontdekken? 🚀
-
-Duik in de wereld van meme-coins en grijp potentieel enorme winsten! Maar hoe koop je die veelbelovende tokens **voordat** ze op de grote exchanges verschijnen? 🤯
-
-**Volg deze simpele stappen:**
-
-1.  Open een account op dé crypto exchange voor kleine munten; [MEXC](/go/mexc)
-2.  Stort je funds op je MEXC account (bijv. USDT of Cardano) of gebruik Moonpay om met euro crypto te kopen.
-3.  Ga op jacht naar de nieuwste meme-coins: Doe je onderzoek en vind die verborgen pareltjes met x10 of zelfs x100 potentieel! (onze meme-coin pick voor begin 2025 is [PIKAMOON](https://www.pikamoon.io/))
-4.  Koop de meme coin en fingers crossed! 🤞
-
-**Let op:** Investeer alleen wat je kunt missen. Meme-coins zijn volatiel en risicovol. Doe altijd je eigen onderzoek!
-
-**Ready? [Maak je account op MEXC](/go/mexc) en check onze favoriete meme-coin Pikamoon!**
 
 ![pikamoon-kopen](/images/migrated/pikamoon-kopen-1.webp "pikamoon-kopen")
 

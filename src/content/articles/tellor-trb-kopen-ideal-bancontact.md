@@ -24,7 +24,7 @@ Wat TRB onderscheidt, is zijn focus op beveiliging en decentralisatie. Deelnemer
 
 In de praktijk wordt Tellor gebruikt door diverse financiële en niet-financiële dApps (gedecentraliseerde applicaties) voor betrouwbare en transparante datafeeds. Bijvoorbeeld, in DeFi-projecten, waar de prijs van activa real-time en nauwkeurig moet zijn, speelt Tellor een vitale rol.
 
-## Hier **koop je Tellor (TRB) met iDEAL en Bancontact**
+## Hier koop je Tellor (TRB) met iDEAL en Bancontact
 
 Voor de aankoop van TRB met iDEAL of Bancontact zijn er verschillende platforms beschikbaar, met [Bitvavo](/go/bitvavo) en [Finst](/go/finst) als prominente opties. Beide platforms bieden een gebruiksvriendelijke interface, maar Bitvavo onderscheidt zich met zijn uitzonderlijke gebruiksgemak en klantvriendelijke benadering.
 
@@ -32,7 +32,7 @@ Bitvavo, een toonaangevende crypto exchange in Europa, biedt een intuïtieve erv
 
 [![Crypto kopen met iDEAL op Bitvavo](/images/migrated/crypto-kopen-met-ideal-op-bitvavo-1.webp)](/go/bitvavo)
 
-### 1\. Bitvavo
+### 1. Bitvavo
 
 Grootste van de Benelux met zeer lage handelskosten.
 
@@ -45,7 +45,7 @@ Grootste van de Benelux met zeer lage handelskosten.
 
 [![Finst Crypto Kopen](/images/migrated/finst-crypto-kopen-2.webp)](/go/blox)
 
-### 2\. Finst
+### 2. Finst
 
 Mogelijkheid tot investeren in bundels.
 
