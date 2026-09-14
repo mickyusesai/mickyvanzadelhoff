@@ -1,6 +1,6 @@
 ---
 title: "Influencer worden – Stappenplan en hoe je geld verdient [2023]"
-description: ""
+description: "Influencer worden? Geld verdienen met je Instagram pagina of Youtube kanaal. Het is de droom van veel mensen. Veel volgers hebben en een positieve…"
 date: 2019-09-30
 updated: 2023-01-03
 category: "online-geld-verdienen"
@@ -12,7 +12,7 @@ featuredImage: "/images/migrated/influencer-worden.webp"
 
 Influencer worden? Geld verdienen met je Instagram pagina of Youtube kanaal. Het is de droom van veel mensen. Veel volgers hebben en een positieve impact achterlaten. Je bent dan een influencer!
 
-Laatst werd ik zelf geconfronteerd met de vraag of ik een influencer was. Ik moest daar even over nadenken. Dus ik vroeg, ‘heb ik op wat voor manier dan ook een impact gemaakt op jouw leven?’. Ja, was het antwoord. Best wel een grote impact hoor ik ook vaak, [met alle artikelen die ik schrijf](https://demodernenomaden.nl/artikelen/) die mensen verder helpen (zo’n 50.000 bezoekers per maand). Dus ik ben schijnbaar een influencer…
+Laatst werd ik zelf geconfronteerd met de vraag of ik een influencer was. Ik moest daar even over nadenken. Dus ik vroeg, ‘heb ik op wat voor manier dan ook een impact gemaakt op jouw leven?’. Ja, was het antwoord. Best wel een grote impact hoor ik ook vaak, met alle artikelen die ik schrijf die mensen verder helpen (zo’n 50.000 bezoekers per maand). Dus ik ben schijnbaar een influencer…
 
 Maar wanneer je zelf influencer wilt worden zit je waarschijnlijk te denken aan de grote Instagrammers en Youtubers. En daar gaat dit artikel over. Ik zal bespreken hoe je zelf een influencer wordt, waar je rekening mee moet houden en hoe influencers hun geld verdienen.
 
@@ -30,7 +30,7 @@ Vroeger, niet heel lang geleden, kon je gewoon een camera op je leven zetten, vi
 
 Het is dan ook om die reden dat je extra je best zult moeten doen om je te onderscheiden van de massa. Er zijn zoveel influencers dat je er met een normaal saai leven echt niet meer uitspringt. Je zult dus iets unieks moeten hebben of richting een specifieke doelgroep moeten communiceren. In de marketing noemen we dat een niche ?.
 
-Om dat even uit te leggen. De website waarop je je nu bevind is voor mensen die willen leven als [digital nomad](https://demodernenomaden.nl/digitalenomaden/digital-nomad-banen/) (combinatie van werken en reizen). Dat is de ‘niche’ van deze website. Een niche is dus letterlijk een afgebakende doelgroep en dat is belangrijk. Zoals marketeers wel eens zeggen, als je aan iedereen verkoopt, verkoop je aan niemand.
+Om dat even uit te leggen. De website waarop je je nu bevind is voor mensen die willen leven als [digital nomad](/blog/digitalenomaden/digital-nomad-banen/) (combinatie van werken en reizen). Dat is de ‘niche’ van deze website. Een niche is dus letterlijk een afgebakende doelgroep en dat is belangrijk. Zoals marketeers wel eens zeggen, als je aan iedereen verkoopt, verkoop je aan niemand.
 
 Wanneer je influencer wilt worden zul je zelf een niche uit moeten kiezen waarop je je gaat focussen. Om maar wat niches van influencers in Nederland te noemen…
 
@@ -89,7 +89,7 @@ Maar bij die samenwerkingen met bedrijven blijft het niet. Er zijn nog vele ande
 
 ### Affiliate marketing
 
-Influencers linken door naar producten of diensten. Als een volger via die link het product of de dienst afneemt krijgt de influencer hier een commissie voor. [\> Lees meer over affiliate marketing](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/)
+Influencers linken door naar producten of diensten. Als een volger via die link het product of de dienst afneemt krijgt de influencer hier een commissie voor. [\> Lees meer over affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/)
 
 ### Merchandise
 
@@ -97,7 +97,7 @@ Influencers kunnen merchandise van zichzelf verkopen. Denk aan de kledinglijn va
 
 ### Eigen online product
 
-Sommige influencers beginnen ook met het verkopen van een eigen e-book of [videocursus](https://demodernenomaden.nl/online-geld-verdienen/videotraining/).
+Sommige influencers beginnen ook met het verkopen van een eigen e-book of [videocursus](/blog/online-geld-verdienen/videotraining/).
 
 ### Spreker op evenementen
 

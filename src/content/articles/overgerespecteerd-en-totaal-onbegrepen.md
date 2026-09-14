@@ -1,6 +1,6 @@
 ---
 title: "Thuis komen na lange reisperiode; je niet meer kunnen inleven"
-description: ""
+description: "In deze beginperiode als digital nomad was het voor mij tijd om weer terug naar Nederland te gaan, voor even."
 date: 2017-07-18
 updated: 2021-01-20
 category: "tips"
@@ -10,7 +10,7 @@ draft: false
 featuredImage: "/images/migrated/received_1504684462887495-e1510890015363.webp"
 ---
 
-In deze beginperiode als [digital nomad](https://demodernenomaden.nl/digitalenomaden/digital-nomad-worden/) was het voor mij tijd om weer terug naar Nederland te gaan, voor even.
+In deze beginperiode als [digital nomad](/blog/digitalenomaden/digital-nomad-worden/) was het voor mij tijd om weer terug naar Nederland te gaan, voor even.
 
 Ik voel me **overgerespecteerd én totaal onbegrepen**. Ik heb het over dat gevoel wanneer je na een flinke poos reizen terug komt in je **natuurlijke habitat**. Ik ben weer terug in Nederland voor een week. Ik doe hier twee DJ boekingen en tussendoor wat andere werkzaamheden om mijn pad op de juiste manier te kunnen vervolgen.
 
@@ -20,11 +20,11 @@ Maar dat anders zien van dingen, maakt dat anderen er bij mij compleet naast lij
 
 Dat gevoel van onbegrip begint bij vragen als “**Hoe was je vakantie?**“.
 
-Op zichzelf lijkt dit een hele gewone vraag maar voor mij schiet deze tekort aan het doel waarmee ik reis. Dit [alleen reizen](https://demodernenomaden.nl/tips/alleen-reizen-wereld-voordelen-en-nadelen/) is namelijk geen vakantie. Gezien het woord vakantie niet gelinkt wordt met een [spirituele zoektocht](https://demodernenomaden.nl/tips/spirituele-groei-en-inzicht/), persoonlijke ontwikkeling en een inspiratie zijn voor anderen. Een vraag die ik wel waardeer; interesse is altijd fijn, alleen voor mij moeilijk is om te beantwoorden.
+Op zichzelf lijkt dit een hele gewone vraag maar voor mij schiet deze tekort aan het doel waarmee ik reis. Dit [alleen reizen](/blog/tips/alleen-reizen-wereld-voordelen-en-nadelen/) is namelijk geen vakantie. Gezien het woord vakantie niet gelinkt wordt met een [spirituele zoektocht](/blog/tips/spirituele-groei-en-inzicht/), persoonlijke ontwikkeling en een inspiratie zijn voor anderen. Een vraag die ik wel waardeer; interesse is altijd fijn, alleen voor mij moeilijk is om te beantwoorden.
 
 Een andere vraag is vaak “**Wat ga je doen als je weer écht terug gaat naar Nederland?**“.
 
-Deze vraag zit een inzicht dat ik heb gehad dan weer een beetje in de weg. Ik ben namelijk gaan geloven dat het doel van het leven voor mezelf niet langer is om gelukkig te worden, maar om gelukkig te zijn in het moment. Dat probeer ik dan ook erg te leven, door gewoon van het moment te genieten en [mensen te ontmoeten op reis](https://demodernenomaden.nl/tips/mensen-ontmoeten-op-reis/).
+Deze vraag zit een inzicht dat ik heb gehad dan weer een beetje in de weg. Ik ben namelijk gaan geloven dat het doel van het leven voor mezelf niet langer is om gelukkig te worden, maar om gelukkig te zijn in het moment. Dat probeer ik dan ook erg te leven, door gewoon van het moment te genieten en [mensen te ontmoeten op reis](/blog/tips/mensen-ontmoeten-op-reis/).
 
 Een toekomstbeeld vorm ik niet zo sterk. Ook weet ik nog niet of Nederland mijn eindbestemming zal zijn, het kan alle kanten op! :)
 
@@ -34,7 +34,7 @@ Op reis ontmoette ik met name gelijkgezinden. Dit waren mensen die precies dat d
 
 > Kiezen voor je eigen geluk bleek een keuze te zijn die waardevol is voor anderen.
 
-[Kiezen voor je eigen geluk](https://demodernenomaden.nl/tips/inspirerend-speech-geluk-en-inspireren/) lijkt soms een egoïstische keuze. In het leven ben ik altijd geneigd geweest van waarde voor anderen te zijn. Mijn doelen waren vanuit daar opgebouwd omdat ik dat gewoonweg belangrijk vond. Met die stappen was ik vaak van waarde voor anderen maar ik voelde mij daarmee niet compleet voldaan.
+[Kiezen voor je eigen geluk](/blog/tips/inspirerend-speech-geluk-en-inspireren/) lijkt soms een egoïstische keuze. In het leven ben ik altijd geneigd geweest van waarde voor anderen te zijn. Mijn doelen waren vanuit daar opgebouwd omdat ik dat gewoonweg belangrijk vond. Met die stappen was ik vaak van waarde voor anderen maar ik voelde mij daarmee niet compleet voldaan.
 
 De dingen die ik deed waren niet volledig de dingen die ik zelf wilde doen. Echter, nu ik de **egoïstische keuze** heb gemaakt om te gaan reizen en alleen voor eigen geluk te kiezen gebeurt het volgende. Ik ben op reis waardevoller geweest voor mensen dan ooit tevoren. Puur door precies datgene te doen wat mijzelf gelukkig maakt. Dit is dus precies iets waar ik alleen achter kon komen door die stap te zetten en ik geloof er inmiddels heilig in, dat bij volgende stappen ik die intuïtie ga volgen.
 
@@ -44,4 +44,4 @@ Verder geloof ik dat wanneer je durft te falen, je echt vooruit komt. Soms besef
 
 Tot slot vind ik het prachtig om te zien hoe ieder zijn eigen ding doet. En hoop ik dat we samen kunnen genieten van het simpelste maar allermooiste gevoel in het leven: liefde.
 
-**[Wil je mijn verhaal lezen over de weg die ik als digital nomad heb bewandeld. Download dan hier gratis mijn boek ‘Verhalen en lessen uit een vrij leven – Digital nomad’.](https://demodernenomaden.nl/verhalen-en-lessen-uit-een-vrij-leven-digital-nomad/)**
+**[Wil je mijn verhaal lezen over de weg die ik als digital nomad heb bewandeld. Download dan hier gratis mijn boek ‘Verhalen en lessen uit een vrij leven – Digital nomad’.](/boek/)**

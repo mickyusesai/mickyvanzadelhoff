@@ -1,6 +1,6 @@
 ---
 title: "Koude acquisitie – Hét stappenplan voor meer klanten"
-description: ""
+description: "Koude acquisitie is niet datgene waar menig ondernemer warm voor loopt. Het koud bellen of mailen van klanten brengt vaak toch best wat druk met zich…"
 date: 2019-08-03
 updated: 2022-01-27
 category: "ondernemen"
@@ -20,7 +20,7 @@ Laten we beginnen bij het begin. Koude acquisitie is het benaderen van potentië
 
 De in dit artikel besproken vormen van koude acquisitie zijn de acquisitie mails en acquisitie calls.
 
-[**Wil je professioneel aan de slag met het schrijven van jouw acquisitie mail? In dit handboek vind je het meest uitgebreide stappenplan.**](https://demodernenomaden.nl/masterclass-acquisitie-mail/)
+**Wil je professioneel aan de slag met het schrijven van jouw acquisitie mail? In dit handboek vind je het meest uitgebreide stappenplan.**
 
 ## Waarom vinden veel mensen koude acquisitie zo verschrikkelijk?
 
@@ -82,7 +82,7 @@ Dan is het belangrijk om te begrijpen dat je ook een probleem kunt benadrukken o
 
 Het kunnen benoemen van het probleem is een belangrijk onderdeel van het laten slagen van koude acquisitie. Wanneer je geen probleem hebt dat je oplost, doe je er goed aan verder te zoeken of een probleem te bedenken.
 
-[**Ga je aan de slag met een eigen acquisitie mail? Make it count! Gebruik mijn e-book masterclass en maak een 10K+ acquisitie mail.**](https://demodernenomaden.nl/masterclass-acquisitie-mail/)
+**Ga je aan de slag met een eigen acquisitie mail? Make it count! Gebruik mijn e-book masterclass en maak een 10K+ acquisitie mail.**
 
 ## Stap 2: Laat je expertise zien wanneer je koude acquisitie doet
 
@@ -124,7 +124,7 @@ Bij telefonische acquisitie geld hier eigenlijk hetzelfde. Kijk naar hoe je de g
 
 ## Veelgemaakte fouten in koude acquisitie
 
-Om met succes aan koude acquisitie te doen zal je veel ‘trial and error’ moeten doorstaan. Het kan dan ook vaak geen kwaad om voor dit onderdeel [mijn handboek te gebruiken](https://demodernenomaden.nl/masterclass-acquisitie-mail/).
+Om met succes aan koude acquisitie te doen zal je veel ‘trial and error’ moeten doorstaan. Het kan dan ook vaak geen kwaad om voor dit onderdeel mijn handboek te gebruiken.
 
 Houd rekening met de volgende valkuilen en punten. Ik kom ze té vaak tegen, dus deel ze graag met je.
 
@@ -140,9 +140,9 @@ Houd rekening met de volgende valkuilen en punten. Ik kom ze té vaak tegen, dus
 *   Bedenk welke bezwaren er spelen en hoe je deze kunt weerleggen.
 *   Gebruik de drie keer ja strategie.
 *   Maak duidelijk wat de vervolgstap voor de prospect is.
-*   Gebruik een professioneel marketing mailprogramma zoals [Enormail](https://demodernenomaden.nl/ondernemen/enormail-review/) voor goede statistiek.
+*   Gebruik een professioneel marketing mailprogramma zoals [Enormail](/blog/review/enormail-review/) voor goede statistiek.
 
-[**Ga professioneel aan de slag met jouw eigen koude acquisitie mail met mijn handboek. Je vind er de exacte strategie voor het schrijven van jouw kaskraker.**](https://demodernenomaden.nl/masterclass-acquisitie-mail/)
+**Ga professioneel aan de slag met jouw eigen koude acquisitie mail met mijn handboek. Je vind er de exacte strategie voor het schrijven van jouw kaskraker.**
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -150,6 +150,6 @@ Houd rekening met de volgende valkuilen en punten. Ik kom ze té vaak tegen, dus
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

@@ -1,6 +1,6 @@
 ---
 title: "PayPro – Wat het is en wat kun je ermee? + Ervaringen"
-description: ""
+description: "PayPro is mijn vaste partner in meerdere zaken. Veelal komen mensen bij PayPro terecht omdat ze horen dat daar goede affiliate producten te vinden zijn…"
 date: 2019-09-30
 updated: 2023-01-02
 category: "online-geld-verdienen"
@@ -26,7 +26,7 @@ In de basis is PayPro een **betalingsdienstverlener**. Dat wil zeggen dat ze nie
 
 Ze zijn daarin slechts bemiddelend en zorgen dat **jouw klanten kunnen betale**n met Ideal, creditcard, Paypal en nog 9 andere betalingsopties. Handig…
 
-Wat het uniek maakt is dat ze behalve betalingen, ook een handje kunnen helpen **bij de promotie en verkoop**. Binnen PayPro kun je namelijk [affiliate marketing](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) als module activeren. Dat wil zeggen dat partners aan de andere kant (publishers) van PayPro aan de slag gaan met het promoten van jouw product tegen **een commissie per verkoop**.
+Wat het uniek maakt is dat ze behalve betalingen, ook een handje kunnen helpen **bij de promotie en verkoop**. Binnen PayPro kun je namelijk [affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) als module activeren. Dat wil zeggen dat partners aan de andere kant (publishers) van PayPro aan de slag gaan met het promoten van jouw product tegen **een commissie per verkoop**.
 
 Dat laatste werkt uiteraard ook andersom. Al zo’n **25.000 publishers** hebben zich aangemeld om producten van mensen die zijn aangesloten bij PayPro, te promoten. Zij promoten de producten in ruil voor een commissie en daar valt voor veel mensen (ook voor mij) geld te verdienen.
 
@@ -54,7 +54,7 @@ Ook makkelijk is dat ze **niet alleen Ideal accepteren**. Natuurlijk is dat de m
 *   Klarna
 *   Sepa
 
-Dat zijn best belangrijke dingen, want ik weet zeker dat als betalingen alleen mogelijk waren via creditcard of Paypal, ik op klanten zou moeten inleveren. **Niet iedereen beschikt hier namelijk over**. Paypro is tevens ook te koppelen met jouw [webshop](https://demodernenomaden.nl/online-geld-verdienen/eigen-webshop-beginnen/).
+Dat zijn best belangrijke dingen, want ik weet zeker dat als betalingen alleen mogelijk waren via creditcard of Paypal, ik op klanten zou moeten inleveren. **Niet iedereen beschikt hier namelijk over**. Paypro is tevens ook te koppelen met jouw [webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/).
 
 Nieuwere mogelijkheden die PayPro heeft is om klanten te laten **betalen in termijnen** en om een **1-click-upsell** toe te voegen aan je betaalpagina. Die laatste is het digitale equivalent voor een kassakoopje.
 
@@ -62,23 +62,23 @@ Nieuwere mogelijkheden die PayPro heeft is om klanten te laten **betalen in term
 
 Voordat ik naar de volgende twee opties ga waar ik PayPro voor gebruik, eerst nog even **een introductie in de affiliate marketing**.
 
-[Affiliate marketing](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) is een vorm van marketing waarbij publishers tegen een commissie (per verkoop) producten promoten van affiliates. Publishers hebben dan bijvoorbeeld een goed gelezen blog ([Jouw blog beginnen? Lees eerst dit!](https://demodernenomaden.nl/ondernemen/blog-beginnen-starten-stappenplan/)), veel bekeken Youtube kanaal of een Instagram pagina met veel volgers.
+[Affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) is een vorm van marketing waarbij publishers tegen een commissie (per verkoop) producten promoten van affiliates. Publishers hebben dan bijvoorbeeld een goed gelezen blog ([Jouw blog beginnen? Lees eerst dit!](/blog/ondernemen/blog-beginnen-starten-stappenplan/)), veel bekeken Youtube kanaal of een Instagram pagina met veel volgers.
 
 Via deze kanalen delen zij links (met tracking code) van affiliate producten. Wanneer een volger of bezoeker daarop klikt en het product binnen een afgesproken termijn afneemt, ontvangt de publisher **een commissie** en handelt de affiliate de verkoop af.
 
-Snap je hem nog? Hier een plaatje dat affiliate marketing beter beschrijft. Of lees [dit artikel over geld verdienen met affiliate marketing](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/).
+Snap je hem nog? Hier een plaatje dat affiliate marketing beter beschrijft. Of lees [dit artikel over geld verdienen met affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/).
 
 ![](/images/migrated/affiliate-marketing-infographic.webp "affiliate-marketing-infographic")
 
 Wat belangrijk is bij affiliate marketing is dat iedereen elkaar kan vertrouwen. Een publisher gaat immers geen product promoten als die daar **niets mee kan verdienen**. Om dat vertrouwen op te bouwen is **een derde partij** zo belangrijk. In dit geval PayPro.
 
-PayPro dient hier als [affiliate netwerk](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) en houdt met cookies bij wie wat **promoot en verkoopt**. Daarmee is het waterdicht voor alle partijen.
+PayPro dient hier als [affiliate netwerk](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) en houdt met cookies bij wie wat **promoot en verkoopt**. Daarmee is het waterdicht voor alle partijen.
 
 Tot zover de intro voor affiliate marketing. Laten we kijken naar hoe je beide kanten gebruikt om geld te verdienen of te ondernemen.
 
 ## Publisher op PayPro
 
-Al jaren terug had ik een **goed lopend blog**; [De Moderne Nomaden](https://demodernenomaden.nl). Op deze website staan tal van artikelen over digital nomads en online ondernemen. Al die informatie staat daar echter niet voor niets. Zo’n 50.000 bezoekers per maand komen naar mijn website en ik vond het destijds zonde dat daar niets mee gebeurde. De website was een soort **uit de hand gelopen hobby**.
+Al jaren terug had ik een **goed lopend blog**; [De Moderne Nomaden](/). Op deze website staan tal van artikelen over digital nomads en online ondernemen. Al die informatie staat daar echter niet voor niets. Zo’n 50.000 bezoekers per maand komen naar mijn website en ik vond het destijds zonde dat daar niets mee gebeurde. De website was een soort **uit de hand gelopen hobby**.
 
 Het was toen dat ik PayPro tegenkwam. Ik had er ooit eens van gehoord via een bekende en besloot het uit te proberen **als publisher in de affiliate marketing**. Ik [meldde mij aan bij PayPro](/go/paypro) en kon direct aan de slag met promoten.
 
@@ -88,8 +88,8 @@ Handig was dat veel producten van affiliates in het netwerk van PayPro, digitale
 
 PayPro heeft enkele honderden affiliate producten in de catalogus. Daarbij moet wel gezegd worden, dat slechts zo’n twintig producten écht goed te verkopen zijn. Enkele producten die ik zelf vanuit PayPro heb gepromoot zijn:
 
-*   [Affiliate Marketing Revolutie](https://demodernenomaden.nl/go/affiliate-marketing-revolutie)
-*   [Crypto Masterclass](https://demodernenomaden.nl/go/crypto-training/) (dit zijn vrienden van me ;))
+*   [Affiliate Marketing Revolutie](/go/affiliate-marketing-revolutie)
+*   [Crypto Masterclass](/go/crypto-training) (dit zijn vrienden van me ;))
 
 Ze hebben ook veel producten in de gezondheidshoek, over afvallen en online gitaarlessen. Overeenkomstig is dat het in bijna alle gevallen om een online product gaat en de commissies hoger zijn dan bij welk ander affiliate netwerk dan ook.
 
@@ -137,6 +137,6 @@ Als **betalingsdienstverlener** werkt PayPro prima en is het super makkelijk op 
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

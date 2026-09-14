@@ -1,6 +1,6 @@
 ---
 title: "Geld verdienen met online vertalen in 2023"
-description: ""
+description: "Een ideale bron van inkomsten als je graag de wereld over reist of vanuit huis werkt. Dat er geld valt te verdienen met online vertalen heb ik al…"
 date: 2018-04-22
 updated: 2023-01-03
 category: "online-geld-verdienen"
@@ -36,7 +36,7 @@ Een online vertaler verdient daarmee zo’n **50,- euro per uur**. Al kun je nat
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
 
@@ -58,7 +58,7 @@ In principe is Upwork een veel breder platform voor freelancers waar je veel mee
 
 Wanneer je liever zelf bepaalt voor wie je vertaalt en meer geld wilt verdienen met online vertalen kan het goed zijn om zelf bedrijven te benaderen. Op die manier kun je je eigen tarieven rekenen.
 
-Denk bijvoorbeeld aan een website waar je op kwam maar die vol stond met spelfouten of verkeerde vertalingen. [Benader dat bedrijf dan met een acquisitie mail](https://demodernenomaden.nl/onlinemarketing/acquisitie-mail-voorbeeld/) en leg uit hoe jij kunt helpen. Je zal niet de eerste zijn die op deze manier aan klanten komt ;).
+Denk bijvoorbeeld aan een website waar je op kwam maar die vol stond met spelfouten of verkeerde vertalingen. [Benader dat bedrijf dan met een acquisitie mail](/blog/ondernemen/acquisitie-mail-voorbeeld1/) en leg uit hoe jij kunt helpen. Je zal niet de eerste zijn die op deze manier aan klanten komt ;).
 
 ## 4\. Wees zichtbaar en benader je netwerk
 
@@ -86,6 +86,6 @@ Als online vertaler zul je dus kwalitatief werk moeten afleveren om het verschil
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

@@ -1,6 +1,6 @@
 ---
 title: "NFT Secrets programma [2023 Review] – Mitchel van Duuren"
-description: ""
+description: "Geld verdienen met het ‘flippen’ van NFT’s? In deze review over NFT Secrets van Mitchel van Duuren vertel ik je alles over zijn programma en hoe deze…"
 date: 2022-01-07
 updated: 2023-01-18
 category: "review"
@@ -10,7 +10,7 @@ draft: false
 featuredImage: "/images/migrated/Untitled-2-1-1.webp"
 ---
 
-Geld verdienen met het ‘flippen’ van NFT’s? In deze **review over NFT Secrets van Mitchel van Duuren** vertel ik je alles over [zijn programma](https://demodernenomaden.nl/go/nft-secrets) en hoe deze cursus jou kan helpen om winstgevende NFT trades te maken.
+Geld verdienen met het ‘flippen’ van NFT’s? In deze **review over NFT Secrets van Mitchel van Duuren** vertel ik je alles over [zijn programma](/go/nft-secrets) en hoe deze cursus jou kan helpen om winstgevende NFT trades te maken.
 
 In NFT Secrets leer je over de NFT markt in het algemeen, doe je research om waardevolle NFT projecten te vinden en ga je vervolgens aan de slag met kopen en verkopen. **Alles met als doel om een NFT voor weinig te kopen en voor meer te verkopen**.
 
@@ -18,7 +18,7 @@ In NFT Secrets leer je over de NFT markt in het algemeen, doe je research om waa
 
 In deze markt liggen gigantische kansen als je er vroeg bij bent. En een spoiler; **je bent er nog vroeg bij!** In deze review bespreken we wie Mitchel van Duuren is, wat de cursus inhoud en welke resultaten je zoal mag verwachten. Laten we bij het begin beginnen.
 
-[**Weet je niet wat NFT’s zijn en wil je eerst een gratis training bekijken? Via deze link kan je de gratis training van Mitchel van Duuren volgen >>**](https://demodernenomaden.nl/go/nft-secrets-gratis)
+[**Weet je niet wat NFT’s zijn en wil je eerst een gratis training bekijken? Via deze link kan je de gratis training van Mitchel van Duuren volgen >>**](/go/nft-secrets-gratis)
 
 _In deze review zitten affiliate links. Als je iets aanschaft via de linkjes krijg ik daarvoor in ruil een kleine commissie zonder extra kosten voor jou. Geen zorgen, ik raad je dat aan waar ik zelf in geloof en bied je graag een [**onweerstaanbaar aanbod**](#deal) (deze vind je later in de review)._
 
@@ -26,7 +26,7 @@ _In deze review zitten affiliate links. Als je iets aanschaft via de linkjes kri
 
 # Waar gaat NFT Secrets over?
 
-In [NFT Secrets](https://demodernenomaden.nl/go/nft-secrets) leer je hoe je NFT’s vind die snel in waarde kunnen stijgen. Je leert hoe je deze koopt en verkoopt met winst. Tijdens de cursus worden tal van strategieën gedeeld **die Mitchel van Duuren zelf gebruikt om succesvol NFT’s te flippen**.
+In [NFT Secrets](/go/nft-secrets) leer je hoe je NFT’s vind die snel in waarde kunnen stijgen. Je leert hoe je deze koopt en verkoopt met winst. Tijdens de cursus worden tal van strategieën gedeeld **die Mitchel van Duuren zelf gebruikt om succesvol NFT’s te flippen**.
 
 ![NFT Secrets Programma](/images/migrated/NFT-secrets-programma.webp "NFT-secrets-programma")
 
@@ -34,7 +34,7 @@ Deze cursus gaat dus niet over hoe je jouw eigen NFT project lanceert! Het is ec
 
 Leuk is dat je direct na de cursus al jouw eerste NFT kan kopen en verkopen. Dat is dan ook de reden dat de **succesverhalen van deelnemers** zich opstapelen. In de **Discord groep** waarin je wordt toegelaten na aanschaf worden al die successen gedeeld. Daar gebeurt het regelmatig dat mensen duizenden euro’s verdienen per NFT flip.
 
-**[\> Beginnen met NFT Secrets](https://demodernenomaden.nl/go/nft-secrets)**
+**[\> Beginnen met NFT Secrets](/go/nft-secrets)**
 
 # Wie is Mitchel van Duuren?
 
@@ -44,7 +44,7 @@ Zijn naam kwam mij ook nog onbekend voor, maar toen ik wat over hem opzocht, bed
 
 Hij is al 12 jaar ondernemer en heeft **meerdere successen op zijn naam staan**. Zo is hij eigenaar van ondernemer.nl waarmee hij ondernemers helpt om sneller te groeien. Verder heeft hij samengewerkt met John van den Heuvel aan een natuurstenenbedrijf, zat die in de voedingssupplementen en heeft die een eigen webshop voor boodschappen.
 
-Daarbij zal het je wellicht ook zijn opgevallen dat Mitchel iets met domeinnamen deed. Zo heeft hij de domeinnaam **meal.com** gekocht voor maar liefs 1 miljoen dollar en bezit hij de heerlijke Nederlandse domeinnaam **ondernemer.nl**. Op die website vind je tevens [het NFT Secrets programma](https://demodernenomaden.nl/go/nft-secrets).
+Daarbij zal het je wellicht ook zijn opgevallen dat Mitchel iets met domeinnamen deed. Zo heeft hij de domeinnaam **meal.com** gekocht voor maar liefs 1 miljoen dollar en bezit hij de heerlijke Nederlandse domeinnaam **ondernemer.nl**. Op die website vind je tevens [het NFT Secrets programma](/go/nft-secrets).
 
 Mitchel zijn ervaring is dus een heel stuk **breder dan alleen maar NFT’s**. Waarom zou je denken? Waarschijnlijk heeft dit te maken met een bepaalde ondernemende mindset die helpt om snel op nieuwe trends te anticiperen.
 
@@ -86,11 +86,11 @@ Dat had ik namelijk ook.
 
 De reden daarvoor is dat NFT’s nieuw zijn en daardoor erg volatiel. Omdat prijzen van NFT’s ook nog eens in crypto zijn, zou je kunnen stellen dat ze zelfs **dubbel volatiel** zijn als de prijs van Ethereum op en neer beweegt.
 
-Niemand weet **wat zo’n plaatje van een pinguïn over tien jaar waard is**. Het enige wat we nu weten is dat we aan het begin staan van een tijdperk waarin NFT’s wellicht een grote rol gaan spelen. Denk aan alle ontwikkelingen in de **crypto, metaverse en [web 3](https://demodernenomaden.nl/web3/web-3-decentralisatie/)**. Het is daarom dat NU een logisch moment is om met NFT’s te beginnen. Nu kan jij namelijk nog bij de eerste groep mensen horen die überhaupt weten [wat een NFT is](https://demodernenomaden.nl/online-geld-verdienen/nft-uitleg/).
+Niemand weet **wat zo’n plaatje van een pinguïn over tien jaar waard is**. Het enige wat we nu weten is dat we aan het begin staan van een tijdperk waarin NFT’s wellicht een grote rol gaan spelen. Denk aan alle ontwikkelingen in de **crypto, metaverse en [web 3](/blog/web3/web-3-decentralisatie/)**. Het is daarom dat NU een logisch moment is om met NFT’s te beginnen. Nu kan jij namelijk nog bij de eerste groep mensen horen die überhaupt weten [wat een NFT is](/blog/web3/nft-uitleg/).
 
 Om te begrijpen hoe NFT Secrets van Mitchel van Duuren je kan helpen om van deze trend te profiteren, duiken we hieronder in de verschillende modules waar de cursus je toegang tot geeft.
 
-**[Wil je direct beginnen met NFT Secrets en geld gaan verdienen met het flippen van NFT’s? Via deze link kan je direct aan de slag!](https://demodernenomaden.nl/go/nft-secrets)**
+**[Wil je direct beginnen met NFT Secrets en geld gaan verdienen met het flippen van NFT’s? Via deze link kan je direct aan de slag!](/go/nft-secrets)**
 
 # Modules NFT Secrets
 
@@ -200,7 +200,7 @@ De NFT space verandert continu. Het is dan ook daarom dat binnen de cursus, ook 
 
 Toch kan het geen kwaad om ook deze video’s eens te bekijken, al zijn sommigen wat lang. Het is wel **een fijne manier** om de opgedane kennis uit de rest van de training te herhalen. Wat ik in de rest van de training nog niet had gezien, maar wat in deze module wel voorbij komt is de **relatie tussen de Ethereum prijs en de NFT waarde**.
 
-[Begin direct met NFT Secrets](https://demodernenomaden.nl/go/nft-secrets)
+[Begin direct met NFT Secrets](/go/nft-secrets)
 
 # NFT Secrets + Gratis NFT
 
@@ -227,11 +227,11 @@ Met NFT Secrets krijg je behalve een uitgebreide training om NFTs te flippen, oo
 
 Grijp hier jouw **gratis NFT** (_twv. €150,-_), we hebben nog **[9](https://opensea.io/collection/metabunkers)** (van de 20) NFTS beschikbaar voor deze actie en daar kun jij als early adopter je voordeel mee doen! Deze deal krijg je als je via onderstaande knop NFT Secrets aanschaft.
 
-[Begin met NFT Secrets](https://demodernenomaden.nl/go/nft-secrets)
+[Begin met NFT Secrets](/go/nft-secrets)
 
 Om aanspraak te maken op de Gratis NFT Deal, moet je ervoor zorgen dat je je aankoop van NFT Secrets doet via een van de links op deze pagina. Alleen als een klik via mijn link leidt tot jouw aankoop, zal ik beloond worden met een affiliate commissie door NFT Secrets en ALLEEN dan kun jij de gratis Metabunkers NFT krijgen.
 
-Ik heb een kopie van je _factuur_ (met zichtbare datum van aankoop) nodig om je aankoop te bevestigen. Verstuur deze met het _wallet adres_ waarop jij de NFT wilt ontvangen naar info@demodernenomaden.nl en ontvang binnen één week jouw gratis NFT in jouw wallet! Moeite met wallets? Geen zorgen, in NFT Secrets wordt dit in de eerste lessen uitgebreid besproken.
+Ik heb een kopie van je _factuur_ (met zichtbare datum van aankoop) nodig om je aankoop te bevestigen. Verstuur deze met het _wallet adres_ waarop jij de NFT wilt ontvangen naar mickyvz@live.nl en ontvang binnen één week jouw gratis NFT in jouw wallet! Moeite met wallets? Geen zorgen, in NFT Secrets wordt dit in de eerste lessen uitgebreid besproken.
 
 **Als je er 100% zeker van wilt zijn dat je de gratis NFT zult krijgen:**
 
@@ -243,11 +243,11 @@ Na deze stappen komt de gratis Metabunkers NFT zo snel mogelijk jouw kant op!
 
 # Proefles van NFT Secrets
 
-Heb je [deze gratis workshop](https://demodernenomaden.nl/go/nft-secrets-gratis) van Mitchel van Duuren al gevolgd? Dit is een mooie introductie in de NFT space om te begrijpen waar het om draait. Hierin laat hij een aantal voorbeelden zien van zijn NFT flips.
+Heb je [deze gratis workshop](/go/nft-secrets-gratis) van Mitchel van Duuren al gevolgd? Dit is een mooie introductie in de NFT space om te begrijpen waar het om draait. Hierin laat hij een aantal voorbeelden zien van zijn NFT flips.
 
 ![Gratis les NFT Secrets](/images/migrated/gratis-training-nft-secrets-1.webp "gratis-training-nft-secrets (1)")
 
-Na de gratis training begrijp je **hoe het komt dat NFT’s zoveel waard worden** en ook waarom jij hier nu nog zo vroeg bij bent. Volgens Mitchel zitten we in de **early adopters fase** en ligt er daarom nog heel veel groei in het vooruitschiet. Iets waar jij je voordeel mee kan doen door nu [met het flippen van NFT’s te beginnen](https://demodernenomaden.nl/go/nft-secrets).
+Na de gratis training begrijp je **hoe het komt dat NFT’s zoveel waard worden** en ook waarom jij hier nu nog zo vroeg bij bent. Volgens Mitchel zitten we in de **early adopters fase** en ligt er daarom nog heel veel groei in het vooruitschiet. Iets waar jij je voordeel mee kan doen door nu [met het flippen van NFT’s te beginnen](/go/nft-secrets).
 
 Je zal zelf vast ook gemerkt hebben dat wanneer je iets over NFT’s verteld tegen je omgeving, niemand weet waar je het over hebt. Hoe vaak ik dit zelf nu al wel niet heb uitgelegd. Het idee wat ik met Mitchel deel is dat dit in de toekomst heel anders gaat zijn. Hetzelfde als dat nu **iedereen wel weet wat een Bitcoin is**.
 
@@ -263,4 +263,4 @@ De review van NFT Secrets eindig ik dan ook graag met dat ik deze cursus ten zee
 
 Ik wens je enorm veel succes met **jouw NFT avontuur** en wellicht spreken we elkaar in de Discord!
 
-[**Vandaag nog jouw eerste succesvolle NFT flip? Begin nu met NFT Secrets en ‘ride the wave’ >>**](https://demodernenomaden.nl/go/nft-secrets)
+[**Vandaag nog jouw eerste succesvolle NFT flip? Begin nu met NFT Secrets en ‘ride the wave’ >>**](/go/nft-secrets)

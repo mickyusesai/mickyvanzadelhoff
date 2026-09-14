@@ -1,6 +1,6 @@
 ---
 title: "Hoe vind je goede NFTs? Zo research je een NFT project"
-description: ""
+description: "Voor wie geld wilt verdienen met NFTs is de meest toegankelijke manier vaak om NFTs te flippen. Je koopt een NFT in voor een lage prijs en verkoopt…"
 date: 2022-05-22
 updated: 2022-05-23
 category: "web3"
@@ -28,7 +28,7 @@ De succesvolle NFT flips, die zien we het meest, bekijk deze bijvoorbeeld eens u
 
 ![Resultaten NFT Secrets Mitchel van Duuren](/images/migrated/resultaten-nft-secrets-van-mitchel-van-duuren.webp "resultaten-nft-secrets-van-mitchel-van-duuren")
 
-Als je bij dit artikel terecht bent gekomen, dan ga ik ervan uit dat je al weet dat NFTs verhandeld worden met crypto, veelal met **Ethereum**. De basis daarvan beschrijf ik in [dit artikel over geld verdienen met NFTs](https://demodernenomaden.nl/web3/nft-uitleg/).
+Als je bij dit artikel terecht bent gekomen, dan ga ik ervan uit dat je al weet dat NFTs verhandeld worden met crypto, veelal met **Ethereum**. De basis daarvan beschrijf ik in [dit artikel over geld verdienen met NFTs](/blog/web3/nft-uitleg/).
 
 ## NFT project research (8 stappen)
 
@@ -80,7 +80,7 @@ Met de floor price wordt de goedkoopste NFT uit de collectie bedoelt die te koop
 
 Dus stel dat je de goedkoopste NFT uit deze collectie koopt en die voor 1.0 ETH wil verkopen. **Hoeveel verkopen duurt het dan voordat de floor price gestegen is van 0.444 ETH naar 1.0 ETH?**
 
-Hiervoor gebruiken we een methode die ik uit de **[cursus NFT Secrets](/go/nft-secrets)** heb geleerd, lees gerust mijn [review over NFT Secrets](https://demodernenomaden.nl/review/nft-secrets-review-mitchel-van-duuren/).
+Hiervoor gebruiken we een methode die ik uit de **[cursus NFT Secrets](/go/nft-secrets)** heb geleerd, lees gerust mijn [review over NFT Secrets](/blog/review/nft-secrets-review-mitchel-van-duuren/).
 
 Dit kun je berekenen door in de collectie de prijs van laag naar hoog te zetten en een minimumprijs van 1.0 ETH te selecteren zoals ik heb gedaan in onderstaande afbeelding.
 
@@ -94,9 +94,9 @@ Natuurlijk is dit model niet waterdicht, maar het geeft je wel inzicht in een **
 
 ### 5\. De website van het NFT project
 
-Oké, dit is niet super [web 3](https://demodernenomaden.nl/web3/web-3-decentralisatie/), maar als je op de vorige stappen positief bent uitgekomen, dan is het tijd om te kijken naar de website van het NFT project. Online zichtbaarheid zegt een hoop over de NFT en helpt je om het verdere onderzoek te doen.
+Oké, dit is niet super [web 3](/blog/web3/web-3-decentralisatie/), maar als je op de vorige stappen positief bent uitgekomen, dan is het tijd om te kijken naar de website van het NFT project. Online zichtbaarheid zegt een hoop over de NFT en helpt je om het verdere onderzoek te doen.
 
-Een goede check hier kan alvast zijn **om de naam van het NFT project op Google in te voeren**. Kun je ze op die manier niet vinden, dan moet je je afvragen of het allemaal wel legitiem is. Google rankt websites namelijk **op basis van autoriteit** (zie ook [dit blog over hoe Google werkt](https://demodernenomaden.nl/ondernemen/meer-website-bezoekers/)). Deze verkrijgt een website door bezoekers, in dit geval de fans van deze NFT collectie. Is een website niet vindbaar, dan is er een grote kans dat hier ook weinig fans zijn.
+Een goede check hier kan alvast zijn **om de naam van het NFT project op Google in te voeren**. Kun je ze op die manier niet vinden, dan moet je je afvragen of het allemaal wel legitiem is. Google rankt websites namelijk **op basis van autoriteit** (zie ook [dit blog over hoe Google werkt](/blog/ondernemen/meer-website-bezoekers/)). Deze verkrijgt een website door bezoekers, in dit geval de fans van deze NFT collectie. Is een website niet vindbaar, dan is er een grote kans dat hier ook weinig fans zijn.
 
 ![Ape Harmony Monster Club NFT Website](/images/migrated/ape-harmony-monster-club-nft-website-1.webp "Ape Harmony Monster Club NFT Website")
 

@@ -1,6 +1,6 @@
 ---
 title: "Een online cursus maken en verkopen voor een passief inkomen"
-description: ""
+description: "Welkom in de wereld van online cursussen. Waar veel te leren is én waar veel slechte verhalen over te vertellen zijn. Na alle social media promoties…"
 date: 2018-04-22
 updated: 2022-12-19
 category: "online-geld-verdienen"
@@ -14,13 +14,13 @@ Welkom in de wereld van **online cursussen**. Waar veel te leren is én waar vee
 
 Als het goed is lees je dit artikel omdat je zelf **waardevolle kennis bezit** welke je simpelweg ‘moet’ delen met de wereld. Bezit je die niet, dan begrijp ik niet waar je een videotraining over wilt maken ;). Ik neem je zo stap voor stap mee in hoe je een online cursus maakt, deze promoot en verkoopt.
 
-Dit doe ik naar aanleiding van **mijn eigen ervaring** met mijn digitale training ‘[Van Blog Naar Business](https://demodernenomaden.nl/yes/)‘. Door het maken van die cursus heb ik veel mogen leren, dus ik zal ook zeker mijn fouten en inzichten benoemen.
+Dit doe ik naar aanleiding van **mijn eigen ervaring** met mijn digitale training ‘[Van Blog Naar Business](/)‘. Door het maken van die cursus heb ik veel mogen leren, dus ik zal ook zeker mijn fouten en inzichten benoemen.
 
 ## Stap 1: Het onderwerp en de doelgroep van jouw online cursus
 
 **Je bezit waardevolle kennis** welke je graag wilt delen. Dat is waarschijnlijk de makkelijkste manier om te beginnen. Alleen als je een beetje op mij lijkt, bezit je meer kennis, en wil je graag alles delen. Dat leidt vaak tot een ’te breed’ onderwerp voor jouw online cursus.
 
-Zo had ik bijvoorbeeld zelf een training willen maken over [hoe iemand digital nomad wordt](https://demodernenomaden.nl/digitalenomaden/digital-nomad-worden/). Dat had een zeer brede training geweest. Om digital nomad te worden kun je namelijk één van [deze 38 jobs](https://demodernenomaden.nl/digitalenomaden/digital-nomad-banen/) uitvoeren. De kans dat ik die allemaal **op een zinvolle manier** in een online cursus kan verwerken is klein. Daarbij zou de training dan oneindig lang worden én zou ik niet met ieder onderwerp de diepte in kunnen gaan, omdat ik niet van iedere job zoveel af weet. Ik moest dus kiezen en verfijnen; ik moest [een niche zoeken](https://demodernenomaden.nl/ondernemen/blog-niches/).
+Zo had ik bijvoorbeeld zelf een training willen maken over [hoe iemand digital nomad wordt](/blog/digitalenomaden/digital-nomad-worden/). Dat had een zeer brede training geweest. Om digital nomad te worden kun je namelijk één van [deze 38 jobs](/blog/digitalenomaden/digital-nomad-banen/) uitvoeren. De kans dat ik die allemaal **op een zinvolle manier** in een online cursus kan verwerken is klein. Daarbij zou de training dan oneindig lang worden én zou ik niet met ieder onderwerp de diepte in kunnen gaan, omdat ik niet van iedere job zoveel af weet. Ik moest dus kiezen en verfijnen; ik moest [een niche zoeken](/blog/ondernemen/blog-niches/).
 
 ![Online cursus maken](/images/migrated/online-cursus-maken.webp "Online cursus maken")
 
@@ -38,7 +38,7 @@ Bedenk dus hoe het onderwerp van jouw online cursus samengaat met jouw doelgroep
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
 
@@ -105,11 +105,11 @@ Die set kost zo’n €5000,-.
 
 –
 
-Voor mijn online cursus daarentegen heb ik **de webcam van mijn laptop** gebruikt met een **eenvoudige USB microfoon** ([deze microfoon gebruik ik zelf >>](https://demodernenomaden.nl/go/usb-microfoon-bol-com)). In de lessen doorliep ik een **Powerpoint** en was ik zelf klein in beeld. Ik nam dit op met het gratis programma **OBS Studio**.
+Voor mijn online cursus daarentegen heb ik **de webcam van mijn laptop** gebruikt met een **eenvoudige USB microfoon** ([deze microfoon gebruik ik zelf >>](/go/usb-microfoon-bol-com)). In de lessen doorliep ik een **Powerpoint** en was ik zelf klein in beeld. Ik nam dit op met het gratis programma **OBS Studio**.
 
-Dit zou voldoende moeten zijn om op een goede manier kennis over te brengen. En het grote voordeel is dat als je een natuurlijke prater bent, je deze video’s achteraf niet hoeft te editen met een programma zoals [Adobe Premiere Pro](https://demodernenomaden.nl/go/adobe-premiere-pro). Al mijn video’s in deze cursus waren dan ook one-takers. Een voorbeeld van hoe die kwaliteit eruit ziet:
+Dit zou voldoende moeten zijn om op een goede manier kennis over te brengen. En het grote voordeel is dat als je een natuurlijke prater bent, je deze video’s achteraf niet hoeft te editen met een programma zoals [Adobe Premiere Pro](/go/adobe-premiere-pro). Al mijn video’s in deze cursus waren dan ook one-takers. Een voorbeeld van hoe die kwaliteit eruit ziet:
 
-Best netjes toch! Mijn advies is dan ook om het jezelf niet te moeilijk te maken. Zorg ervoor dat het er professioneel uitziet, maar dat je niet ook nog moet leren video editen. En mocht je nou toch graag **super hoge kwaliteit video’s** willen hebben, doe dan ook wat nodig is en huur een videograaf in om een dag lang jouw videotraining op te nemen en te editen. Mocht je dat willen, dan ken ik wel iemand, [stuur me gerust een berichtje](https://demodernenomaden.nl/contact/) ;). Hij rekent voor 3 uur videocursus + edit zo’n 1800,- euro. Uiteraard inclusief alle apparatuur voor het opnemen.
+Best netjes toch! Mijn advies is dan ook om het jezelf niet te moeilijk te maken. Zorg ervoor dat het er professioneel uitziet, maar dat je niet ook nog moet leren video editen. En mocht je nou toch graag **super hoge kwaliteit video’s** willen hebben, doe dan ook wat nodig is en huur een videograaf in om een dag lang jouw videotraining op te nemen en te editen. Mocht je dat willen, dan ken ik wel iemand, [stuur me gerust een berichtje](/contact/) ;). Hij rekent voor 3 uur videocursus + edit zo’n 1800,- euro. Uiteraard inclusief alle apparatuur voor het opnemen.
 
 ### Liever veel kleine video’s dan één hele lange
 
@@ -123,7 +123,7 @@ Zorg er daarom voor dat je de training opdeelt in **kleine videos van maximaal 1
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
 
@@ -141,15 +141,15 @@ Dit in één keer goed opzetten maakt dat je later helemaal niet meer naar de **
 
 ![Huddle online cursus software](/images/migrated/huddle-online-cursus-software-ledensite.webp "Huddle online cursus software")
 
-Het Nederlandse [The Huddle](https://demodernenomaden.nl/go/huddle) is zo’n eenvoudig software pakket. Je host jouw online cursus eenvoudig bij hun en krijgt hier direct een ledenomgeving bij voor vragen (en discussies) van cursisten.
+Het Nederlandse [The Huddle](/go/huddle) is zo’n eenvoudig software pakket. Je host jouw online cursus eenvoudig bij hun en krijgt hier direct een ledenomgeving bij voor vragen (en discussies) van cursisten.
 
-Je kunt de software [hier gratis uitproberen](https://demodernenomaden.nl/go/huddle).
+Je kunt de software [hier gratis uitproberen](/go/huddle).
 
-[The Huddle gratis uitproberen](https://demodernenomaden.nl/go/huddle)
+[The Huddle gratis uitproberen](/go/huddle)
 
-Wanneer je jouw cursus volledig op zo´n platform hebt geüpload, moet je hier alleen nog **een betaalsysteem aan koppelen** om zo alles te automatiseren. Dit klinkt als een hoop gedoe, maar is vrij gemakkelijk en iets waar je daarna nooit maar naar om hoeft te kijken. Het is met die automatisatie dat je naar een [passief inkomen](https://demodernenomaden.nl/online-geld-verdienen/passief-inkomen-genereren/) toe kunt leven.
+Wanneer je jouw cursus volledig op zo´n platform hebt geüpload, moet je hier alleen nog **een betaalsysteem aan koppelen** om zo alles te automatiseren. Dit klinkt als een hoop gedoe, maar is vrij gemakkelijk en iets waar je daarna nooit maar naar om hoeft te kijken. Het is met die automatisatie dat je naar een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/) toe kunt leven.
 
-Mocht je al met een betaalsysteem werken dan kun je deze vrijwel altijd koppelen met The Huddle. Het makkelijkst gaat dit als je ook hun check-out software gebruikt, namelijk [Plug&Pay](https://demodernenomaden.nl/go/plugandpay). Mocht je dat net als ik net wat te duur vinden, dan kun je het ook proberen via een platform als [PayPro](https://demodernenomaden.nl/go/paypro). Die koppeling is ook prima te leggen, alleen moet je dan net wat meer uitzoeken.
+Mocht je al met een betaalsysteem werken dan kun je deze vrijwel altijd koppelen met The Huddle. Het makkelijkst gaat dit als je ook hun check-out software gebruikt, namelijk [Plug&Pay](/go/plugandpay). Mocht je dat net als ik net wat te duur vinden, dan kun je het ook proberen via een platform als [PayPro](/go/paypro). Die koppeling is ook prima te leggen, alleen moet je dan net wat meer uitzoeken.
 
 Eenmaal geregeld **staat je cursus online in een beveiligde omgeving waar cursisten alleen kunnen komen door de cursus aan te schaffen**. En als het goed is moeten die kosten voor de software zo zijn terugverdient met de verkoop van jouw online cursus.
 
@@ -173,12 +173,12 @@ Om de potentiële klant dan warm te maken zal je eerst een gratis webinar moeten
 
 ### Verkooppagina maken
 
-**Waar kunnen mensen jouw online cursus vinden en waar kun jij ze overtuigen?** Juist ja, op de verkooppagina. Hiervan zijn duizenden voorbeelden. Dit zelf helemaal uit willen zoeken is nergens voor nodig; beter goed gejat dan slecht verzonnen. Zorg er alleen wel voor dat je begrijpt [hoe je een goede verkooptekst schrijft](https://demodernenomaden.nl/ondernemen/verkooptekst-schrijven-voorbeeld/) of laat iemand anders dit voor je schrijven.
+**Waar kunnen mensen jouw online cursus vinden en waar kun jij ze overtuigen?** Juist ja, op de verkooppagina. Hiervan zijn duizenden voorbeelden. Dit zelf helemaal uit willen zoeken is nergens voor nodig; beter goed gejat dan slecht verzonnen. Zorg er alleen wel voor dat je begrijpt [hoe je een goede verkooptekst schrijft](/blog/ondernemen/verkooptekst-schrijven-voorbeeld/) of laat iemand anders dit voor je schrijven.
 
 Hanteer voor het gemak dit lijstje met dingen die je op een goede verkooppagina allemaal kan vinden:
 
 *   **Introductie** die binnen één keer het resultaat van de videotraining uitlegt. Hieronder mag al direct een knop om de cursus aan te schaffen, deze is bedoelt voor mensen die terug zijn gekomen naar de pagina nadat ze hebben overwogen de cursus te kopen.
-*   **Probleem** uitgelegd waar de cursus een oplossing voor biedt. Als je dit niet uitlegt, dan komen de voordelen van jouw cursus wel erg uit de lucht vallen. Als je beter wilt begrijpen hoe je dit doet, dan vind je tal van tips in [dit artikel](https://demodernenomaden.nl/ondernemen/verkooptekst-schrijven-voorbeeld/).
+*   **Probleem** uitgelegd waar de cursus een oplossing voor biedt. Als je dit niet uitlegt, dan komen de voordelen van jouw cursus wel erg uit de lucht vallen. Als je beter wilt begrijpen hoe je dit doet, dan vind je tal van tips in [dit artikel](/blog/ondernemen/verkooptekst-schrijven-voorbeeld/).
 *   **Resultaat** opsomming. Wat bereiken de deelnemers met het volgen van jouw online cursus? Communiceer dit nog voordat je verteld hoeveel lessen er in je cursus zitten. Want onthoud, mensen kopen het resultaat, niet de cursus zelf.
 *   **Reviews** van eerdere deelnemers. Als je een nieuwe online cursus lanceert, geef dan een paar mensen gratis toegang in ruil voor een review, zo heb je al direct je social proof op orde. Wil je hier écht goed mee scoren, gebruik dan video reviews.
 *   **Inhoud** van de online training. Een opsomming van de lessen met een uitleg erbij wat er in iedere les voorbij komt en geleerd wordt. Ook kun je hier de duur van iedere les bijzetten, als je duidelijk wilt maken dat er veel content in de training zit.
@@ -191,13 +191,13 @@ Alles staat! Nu maar wachten…
 
 Nope. Als je nu wacht gaat er niets gebeuren. Een online cursus moet **actief gepromoot** worden om te worden verkocht. Hier zijn oneindig veel mogelijkheden voor en deze allemaal benoemen zou je eerder verdwalen dan wijzer maken. Daarom vertel ik je liever hoe ik mijn eigen online cursus promoot.
 
-Dit doe ik via [mijn website](https://demodernenomaden.nl/), die waarop jij nu bent. Ik heb daarop **enkele artikelen gerelateerd aan bloggen**. Mensen komen bijvoorbeeld terecht op mijn artikel ‘[Stappenplan om te beginnen met bloggen](https://demodernenomaden.nl/ondernemen/blog-beginnen-starten-stappenplan/)‘ als ze via Google zoeken. Daarin verwijs ik door naar een **gratis blog training** waarin je aan de hand van enkele video’s leert om een eigen blog te beginnen. In die gratis training **promoot ik mijn betaalde training**. Op deze manier hebben mensen al met mij kennisgemaakt en weten ze ook direct wat ze kunnen verwachten als ze de videocursus aanschaffen.
+Dit doe ik via [mijn website](/), die waarop jij nu bent. Ik heb daarop **enkele artikelen gerelateerd aan bloggen**. Mensen komen bijvoorbeeld terecht op mijn artikel ‘[Stappenplan om te beginnen met bloggen](/blog/ondernemen/blog-beginnen-starten-stappenplan/)‘ als ze via Google zoeken. Daarin verwijs ik door naar een **gratis blog training** waarin je aan de hand van enkele video’s leert om een eigen blog te beginnen. In die gratis training **promoot ik mijn betaalde training**. Op deze manier hebben mensen al met mij kennisgemaakt en weten ze ook direct wat ze kunnen verwachten als ze de videocursus aanschaffen.
 
 ![Gratis training bloggen opt-in pagina](/images/migrated/gratis-training-bloggen-1.webp "Gratis training bloggen opt-in pagina")
 
-Je kunt die zogenoemde opt-in pagina die ik daarvoor gebruik [hier](https://demodernenomaden.nl/gratis/) eens rustig bekijken.
+Je kunt die zogenoemde opt-in pagina die ik daarvoor gebruik [hier](/blog/ondernemen/blog-beginnen-starten-stappenplan/) eens rustig bekijken.
 
-Als je zelf geen verkeer via Google binnenhaalt, kun je er ook voor kiezen om hetzelfde model te gebruiken met betaalde advertenties op sociale media. Je promoot dan bijvoorbeeld een **gratis weggever** zoals een webinar, online minicursus, checklist of [e-book](https://demodernenomaden.nl/online-geld-verdienen/e-book/). Vervolgens kun je per e-mail jouw betaalde cursus promoten. Op deze manier heb je een laagdrempelig opstapje om in contact te komen. Dit werkt veelal beter **dan proberen direct je online cursus te verkopen**.
+Als je zelf geen verkeer via Google binnenhaalt, kun je er ook voor kiezen om hetzelfde model te gebruiken met betaalde advertenties op sociale media. Je promoot dan bijvoorbeeld een **gratis weggever** zoals een webinar, online minicursus, checklist of [e-book](/blog/online-geld-verdienen/e-book/). Vervolgens kun je per e-mail jouw betaalde cursus promoten. Op deze manier heb je een laagdrempelig opstapje om in contact te komen. Dit werkt veelal beter **dan proberen direct je online cursus te verkopen**.
 
 ## Stap 7: Passief inkomen verdienen met een eigen online cursus
 
@@ -205,7 +205,7 @@ Een eigen online cursus kan je een passief inkomen opleveren. Zo wordt mijn eige
 
 Echter gaat dit niet vanzelf. Het vereist dat je begrijpt hoe je een goede cursus maakt en promoot. Dat je een goede cursus kan maken waar deelnemers iets aan hebben geloof ik wel. Maar **als je niet weet hoe je deze promoot blijf je vaak met niets achter**. Zoek dan ook zeker hulp van een ervaren marketeer als je er niet uitkomt of niet de resultaten hebt waar je op hoopte.
 
-Dan nog één laatste tip. **Software voor een leeromgeving kost geld** en dat heb ik daarom wel eens geprobeerd te vermijden. Het effect daarvan is echter dat je heel moeilijk probeert daaromheen te werken. Dit heeft mij bijzonder veel tijd gekost en was het echt niet waard. Ook omdat het de beleving van de cursisten niet ten goede komt als een leeromgeving niet goed werkt. Daarom, raad ik je graag nog eens [de software van The Huddle](https://demodernenomaden.nl/go/huddle) aan. Nee, het is niet gratis, maar het bespaart je een hoop zorgen én tijd. Je kunt The Huddle [hier](https://demodernenomaden.nl/go/huddle) wel gratis uitproberen.
+Dan nog één laatste tip. **Software voor een leeromgeving kost geld** en dat heb ik daarom wel eens geprobeerd te vermijden. Het effect daarvan is echter dat je heel moeilijk probeert daaromheen te werken. Dit heeft mij bijzonder veel tijd gekost en was het echt niet waard. Ook omdat het de beleving van de cursisten niet ten goede komt als een leeromgeving niet goed werkt. Daarom, raad ik je graag nog eens [de software van The Huddle](/go/huddle) aan. Nee, het is niet gratis, maar het bespaart je een hoop zorgen én tijd. Je kunt The Huddle [hier](/go/huddle) wel gratis uitproberen.
 
 **Succes met het maken, promoten en verkopen van jouw eigen online cursus!**
 
@@ -215,6 +215,6 @@ Dan nog één laatste tip. **Software voor een leeromgeving kost geld** en dat h
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

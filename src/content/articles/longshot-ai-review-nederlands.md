@@ -1,6 +1,6 @@
 ---
 title: "LongShot de beste AI tool voor Nederlandse content? [2023 Review]"
-description: ""
+description: "Een AI tool die hoogwaardige Nederlandse content kan schrijven… Het was even zoeken, maar met LongShot heb ik er één gevonden! Niet zozeer om al het…"
 date: 2023-02-03
 updated: 2023-02-03
 category: "review"
@@ -28,7 +28,7 @@ Naar mijn mening werkt LongShot het beste als ‘**writing assistent**‘. Tijde
 
 ## Functies van LongShot
 
-Toen ik voor het eerst door de **functies van LongShot** bladerde was ik verrast met de mogelijkheden. Daar kwam namelijk ook gelijk het allergrootste en meest essentiële verschil met het gratis te gebruiken [ChatGPT](https://demodernenomaden.nl/ondernemen/chat-gpt-ai-voor-ondernemers/) om de hoek ;).
+Toen ik voor het eerst door de **functies van LongShot** bladerde was ik verrast met de mogelijkheden. Daar kwam namelijk ook gelijk het allergrootste en meest essentiële verschil met het gratis te gebruiken [ChatGPT](/blog/ondernemen/chat-gpt-ai-voor-ondernemers/) om de hoek ;).
 
 LongShot kan **actueel feiten checken en schrijven**. Deze functie vereist wat geduld (omdat de tool **live research doet** op het internet), maar is van gigantische waarde. Op basis van de laatste artikelen/updates kan LongShot al direct na een voetbalwedstrijd een samenvatting van die wedstrijd schrijven. Je hoeft dus nooit meer bang te zijn voor **verouderde en onjuiste informatie**. De tool is daardoor ook goed te gebruiken als fact checker!
 
@@ -55,7 +55,7 @@ Duur: 3 uur
 Investering: 950,- ex BTW  
 Formaat: Tot 30 deelnemers
 
-[Contact voor meer info](https://demodernenomaden.nl/contact)
+[Contact voor meer info](/contact/)
 
 ## Zo gebruik je LongShot in het Nederlands
 
@@ -65,7 +65,7 @@ Je moet dus eerst **leren samenwerken met de AI assistent** voordat je er zeeën
 
 ### Blog schrijven met LongShot
 
-Wanneer je een ([1$ trial](https://demodernenomaden.nl/go/longshot)) account hebt aangemaakt kun je direct beginnen met het schrijven van teksten. Dit doe je veelal door een template te kiezen, laten we voor dit voorbeeld de gewone **‘blog’ template** kiezen.
+Wanneer je een ([1$ trial](/go/longshot)) account hebt aangemaakt kun je direct beginnen met het schrijven van teksten. Dit doe je veelal door een template te kiezen, laten we voor dit voorbeeld de gewone **‘blog’ template** kiezen.
 
 Daar kunnen we al direct invullen **welke taal, welk keyword en welke focus** we als output willen.
 
@@ -99,9 +99,9 @@ Het feit is dat als je er eenmaal aan gewend bent, je binnen korte tijd **een kw
 
 Fijn om te weten; LongShot is zeker **niet de duurste** AI copywriting tool op de markt! Voor een paar tientjes per maand kun je al volwaardig aan de slag. Daarbij valt op dat je voor dat geld wel al direct veel ‘**credits**‘ krijgt. Deze heb je nodig om woorden te creëren met de AI. Het is een fijn idee dat je er zoveel krijgt dat je je er niet door beperkt hoeft te voelen.
 
-Voordat je een betaald plan afneemt kun je eerst [LongShot voor 1$ uitproberen](https://demodernenomaden.nl/go/longshot). Deze trial duurt 5 dagen en geeft je direct **alle functies om de tool eens goed uit te proberen.**
+Voordat je een betaald plan afneemt kun je eerst [LongShot voor 1$ uitproberen](/go/longshot). Deze trial duurt 5 dagen en geeft je direct **alle functies om de tool eens goed uit te proberen.**
 
-[LongShot uitproberen voor 1$](https://demodernenomaden.nl/go/longshot)
+[LongShot uitproberen voor 1$](/go/longshot)
 
 Wanneer je vervolgens overstapt naar een betaald plan, kun je kiezen tussen **Pro, Team of Agency**. Voor de meesten zal de Pro variant voldoen, tenzij je met meerdere mensen op één account aan de slag wilt. Bijvoorbeeld wanneer je binnen één bedrijf meerdere marketeers hebt die met LongShot aan de slag gaan.
 
@@ -119,4 +119,4 @@ LongShot schrijft **goed in het Nederlands**, maar is af en toe een beetje onhan
 
 Ik zou LongShot aan iedereen aanraden die veel schrijft voor zijn werk. Of dit nu is als copywriter, content marketeer, of omdat je voor jouw bedrijf een blog op de website wilt. Het staat je toe om veel meer te doen in veel minder tijd!
 
-[LongShot uitproberen voor 1$](https://demodernenomaden.nl/go/longshot)
+[LongShot uitproberen voor 1$](/go/longshot)

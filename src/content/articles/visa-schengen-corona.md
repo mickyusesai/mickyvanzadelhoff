@@ -1,6 +1,6 @@
 ---
 title: "Project: Kerst vieren met mijn Russische vriendin in Nederland (VISA in coronatijd)"
-description: ""
+description: "Mijn grote doel is om deze kerst in Nederland samen te vieren met mijn vriendin Mariia. Met haar Russische paspoort is dat normaal al best wat gedoe…"
 date: 2020-11-02
 updated: 2020-12-10
 category: "tips"

@@ -1,6 +1,6 @@
 ---
 title: "Thuis komen als digital nomad, een essentieel gevoel"
-description: ""
+description: "Ik ben tot de ontdekking gekomen dat er iets is wat de digital nomad lifestyle nog beter maakt…"
 date: 2018-06-30
 updated: 2022-12-28
 category: "digitalenomaden"
@@ -10,13 +10,13 @@ draft: false
 featuredImage: "/images/migrated/eigen-huis-in-novi-sad-e1532332878847.webp"
 ---
 
-Ik ben tot de ontdekking gekomen dat er iets is wat [de digital nomad lifestyle](https://demodernenomaden.nl/digitalenomaden/digitale-nomaden/) nog beter maakt…
+Ik ben tot de ontdekking gekomen dat er iets is wat [de digital nomad lifestyle](/blog/digitalenomaden/digital-nomad-worden/) nog beter maakt…
 
 Ken je dat moment dat je je verheugt op je vakantie? Tuurlijk. Maar ken je ook dat moment dat je je verheugt om weer thuis te komen? Misschien is dit iets heel Nederlands, maar velen vinden thuiskomen misschien nog wel fijner dan het weggaan zelf.
 
 > Ik zelf prefereer toch vaak meer het weggaan.
 
-Maar toen ik laatst voor het eerst ’thuis’ kon komen na een week Malta was dit een rare gewaarwording. Ik heb namelijk [sinds ik ben vertrokken](https://demodernenomaden.nl/persoonlijk/voordat-je-op-reis-gaat/), nu pas voor het eerst een plek van mezelf in Nederland. Daarvoor was ik iemand uit de categorie ‘**dakloos**‘. Wanneer ik dan voor even terug was in Nederland sliep ik bij mensen op de bank of een matras ergens in een verdwaalde kamer. Ik had daar eerst niets op tegen. Maar geen thuis hebben is ook als digital nomad een beetje pijnlijk. Waar herstel je dan van al je reizen? Waar komen alle herinneringen dan nog samen?
+Maar toen ik laatst voor het eerst ’thuis’ kon komen na een week Malta was dit een rare gewaarwording. Ik heb namelijk [sinds ik ben vertrokken](/blog/tips/voordat-je-op-reis-gaat/), nu pas voor het eerst een plek van mezelf in Nederland. Daarvoor was ik iemand uit de categorie ‘**dakloos**‘. Wanneer ik dan voor even terug was in Nederland sliep ik bij mensen op de bank of een matras ergens in een verdwaalde kamer. Ik had daar eerst niets op tegen. Maar geen thuis hebben is ook als digital nomad een beetje pijnlijk. Waar herstel je dan van al je reizen? Waar komen alle herinneringen dan nog samen?
 
 ## **Een eigen thuis in Nederland als digital nomad**
 
@@ -38,6 +38,6 @@ Dus bij deze **home sweet home**. Al kun je mij over een paar weken natuurlijk g
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

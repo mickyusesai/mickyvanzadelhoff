@@ -1,6 +1,6 @@
 ---
 title: "Geld verdienen met beleggen in aandelen"
-description: ""
+description: "Als je begint met beleggen in aandelen dan kun je dat het beste doen door geld bij een broker (online investeringsaccount) te zetten. Hiermee kun je…"
 date: 2018-04-22
 updated: 2022-12-19
 category: "online-geld-verdienen"
@@ -12,7 +12,7 @@ featuredImage: "/images/migrated/geld-verdienen-met-aandelen.webp"
 
 **Beleggen in aandelen** kan een geweldige manier zijn om jouw vermogen te doen groeien en te voorkomen dat jouw geld verdampt door inflatie. Voor lange termijn beleggers zijn aandelen **een goede investering gebleken**, zelfs wanneer de markt veel heen en weer beweegt.
 
-Als je **begint met beleggen in aandelen** dan kun je dat het beste doen door geld bij [een broker](https://demodernenomaden.nl/go/etoro-trading) (online investeringsaccount) te zetten. Hiermee kun je vervolgens aandelen kopen. Bij veel brokers kun je beginnen te investeren met slechts één enkel aandeel. Een groot startvermogen is dus niet altijd nodig.
+Als je **begint met beleggen in aandelen** dan kun je dat het beste doen door geld bij [een broker](/go/etoro-trading) (online investeringsaccount) te zetten. Hiermee kun je vervolgens aandelen kopen. Bij veel brokers kun je beginnen te investeren met slechts één enkel aandeel. Een groot startvermogen is dus niet altijd nodig.
 
 In dit artikel vertel ik je **hoe je kunt beleggen in aandelen****, hoe daar geld mee wordt verdient, wat beleggingsfondsen, ETF´s en CFD´s zijn en we duiken in de risico’s**. Om goed van start te gaan, even terug naar de basics; wat is een aandeel eigenlijk?
 
@@ -36,7 +36,7 @@ Om te beleggen in aandelen moet je **begrijpen welke effecten dit soort gebeurte
 
 Wanneer je gaat investeren in aandelen, is het goed **om de juiste strategieën te kennen en te weten welke aandelen de potentie hebben om in waarde te stijgen**.
 
-[**Leer hoe je de juiste aandelen kunt vinden en deze eenvoudig kunt analyseren. Bekijk deze cursus >>**](https://demodernenomaden.nl/go/cursus-aandelen)
+[**Leer hoe je de juiste aandelen kunt vinden en deze eenvoudig kunt analyseren. Bekijk deze cursus >>**](/go/cursus-aandelen)
 
 ## **2\. Kies een broker om te beleggen in aandelen**
 
@@ -50,7 +50,7 @@ Echter, in de praktijk ziet een broker er iets anders uit…
 
 **Brokers kun je online vinden en maken het beleggen in aandelen veelal makkelijk door gebruik van een app.** **Bekende brokers zijn:**
 
-*   [eToro](https://demodernenomaden.nl/go/etoro-trading)
+*   [eToro](/go/etoro-trading)
 *   De Giro
 *   Binckbank
 *   Lynx
@@ -58,18 +58,18 @@ Echter, in de praktijk ziet een broker er iets anders uit…
 *   Saxo Bank
 *   Flatex
 
-[![Etoro broker aandelen logo](/images/migrated/etoro-broker-aandelen-logo-1.webp)](https://demodernenomaden.nl/go/etoro-trading)
+[![Etoro broker aandelen logo](/images/migrated/etoro-broker-aandelen-logo-1.webp)](/go/etoro-trading)
 
-Zelf gebruik ik **eToro** voor het verhandelen van aandelen. Zij bieden een overvloed aan opties, waaronder ETF’s, aandelen, grondstoffen en cryptocurrencies. Je kunt beginnen met het verhandelen van aandelen op eToro met een commissie van 0% [**via deze link**](https://demodernenomaden.nl/go/etoro-trading). Een account aanmaken is gratis en makkelijk.
+Zelf gebruik ik **eToro** voor het verhandelen van aandelen. Zij bieden een overvloed aan opties, waaronder ETF’s, aandelen, grondstoffen en cryptocurrencies. Je kunt beginnen met het verhandelen van aandelen op eToro met een commissie van 0% [**via deze link**](/go/etoro-trading). Een account aanmaken is gratis en makkelijk.
 
-[Maak gratis eToro account](https://demodernenomaden.nl/go/etoro-trading)
+[Maak gratis eToro account](/go/etoro-trading)
 
 Tegenwoordig kun je ook **starten met beleggen** in aandelen met jouw eigen bank als broker. Dit kan in het geval van de Rabobank, ING bank en ABN Amro.
 
 **Het kiezen van de juiste broker** kan een groot verschil maken. Zo hanteren ze allemaal andere tarieven voor de service. Verder zijn er een aantal dingen waar je op moeten letten, namelijk:
 
 *   In welke aandelen kun je handelen?
-*   Biedt de broker ook crypto aan? (persoonlijk neig ik hiervoor meer naar [een crypto exchange](https://demodernenomaden.nl/web3/beste-crypto-exchange/) zoals [Bitvavo](https://demodernenomaden.nl/review/bitvavo-review-crypto/).)
+*   Biedt de broker ook crypto aan? (persoonlijk neig ik hiervoor meer naar [een crypto exchange](/blog/web3/beste-crypto-exchange/) zoals [Bitvavo](/blog/review/bitvavo-review-crypto/).)
 *   Is er realtime/actuele koersdata?
 *   Wat zijn de kosten van de broker?
 *   Wat is de reputatie van de broker?
@@ -98,13 +98,13 @@ Kies voor jezelf **welke investeringsoptie voor jou het beste past.**
 
 ### Beleggingsfondsen en ETF’s
 
-Als je zelf aandelen wilt beheren en verhandelen dan kun je dit doen via [de online broker eToro](https://demodernenomaden.nl/go/etoro-trading). Wil je dit doen via een **beleggingsfonds** dan kun je vaak goed terecht bij jouw eigen bank. Houd er daarbij rekening mee dat er gigantische verschillen zijn in de fondsen.
+Als je zelf aandelen wilt beheren en verhandelen dan kun je dit doen via [de online broker eToro](/go/etoro-trading). Wil je dit doen via een **beleggingsfonds** dan kun je vaak goed terecht bij jouw eigen bank. Houd er daarbij rekening mee dat er gigantische verschillen zijn in de fondsen.
 
 Het moderne alternatief voor een beleggingsfonds is de **ETF**, die term heb je vast wel eens voorbij zien komen. Het staat voor **exchange-traded fund** en is daarmee net als een beleggingsfonds een manier om gespreid aandelen te kopen. Het grote verschil is dat beleggingsfondsen actief beheert worden, en een ETF passief. Hierdoor zijn de kosten bij een ETF lager.
 
 ![ETF eToro screenshot](/images/migrated/etf-etoro-screenshot-1.webp "ETF eToro screenshot")
 
-Instappen in zo’n ETF kan [via eToro](https://demodernenomaden.nl/go/etoro-trading) en is daarmee relatief eenvoudig ten opzichte van een beleggingsfonds.
+Instappen in zo’n ETF kan [via eToro](/go/etoro-trading) en is daarmee relatief eenvoudig ten opzichte van een beleggingsfonds.
 
 Je kunt hierbij kiezen voor een zeer algemene ETF of een ETF die specifiek gericht is op bijvoorbeeld de tech sector. Alleen al op eToro **vind je meer dan 300 verschillende ETF’s om in te investeren**.
 
@@ -114,7 +114,7 @@ Je kunt hierbij kiezen voor een zeer algemene ETF of een ETF die specifiek geric
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
 
@@ -170,17 +170,17 @@ Een **CFD (contract for difference)**, **leverage traden** of **hefboomeffect** 
 
 Een hefboom of multiplier wil zeggen dat wanneer jij €500,- op een aandeel inzet en een multiplier van 5 gebruikt, je in feite €2500,- van dit aandeel koopt. Mocht het aandeel dan stijgen met 1%, dan heb jij op je €500,- een 5% winst. **Je winsten én verliezen zijn dan dus 5x zo groot.**
 
-Hoe groot je leverage is kun je zelf bepalen. Het spreekt voor zich dat je met een hogere leverage een groter risico loopt. Je kunt dan eenvoudig al je inleg kwijtraken. Wees je hier bewust van en gebruik géén (hoge) leverage op volatiele assets zoals bijvoorbeeld [crypto](https://demodernenomaden.nl/web3/handelen-in-crypto-valuta/).
+Hoe groot je leverage is kun je zelf bepalen. Het spreekt voor zich dat je met een hogere leverage een groter risico loopt. Je kunt dan eenvoudig al je inleg kwijtraken. Wees je hier bewust van en gebruik géén (hoge) leverage op volatiele assets zoals bijvoorbeeld [crypto](/blog/web3/handelen-in-crypto-valuta/).
 
 ![Leverage handelen met CFD's](/images/migrated/leverage-handelen-cfd-1.webp "Leverage handelen met CFD’s")
 
 Zo’n CFD of hefboom brengt je ook in de mogelijkheid om **‘short te gaan’** op een aandeel. Je zet dan niet in op de waardestijging, maar op de waardedaling van een aandeel.
 
-Bij eToro kun je de optie voor CFD’s vinden onder de term ‘[leverage](https://demodernenomaden.nl/go/cfd-etoro)‘. Dat ziet er dan als volgt uit:
+Bij eToro kun je de optie voor CFD’s vinden onder de term ‘[leverage](/go/cfd-etoro)‘. Dat ziet er dan als volgt uit:
 
 ![Leverage handelen etoro cfd](/images/migrated/leverage-handelen-etoro.webp "Leverage handelen etoro cfd")
 
-[Leverage traden op eToro](https://demodernenomaden.nl/go/cfd-etoro)
+[Leverage traden op eToro](/go/cfd-etoro)
 
 Omdat leverage traden grote risico’s met zich meebrengt is het lang niet voor iedereen aan te raden. Wees jezelf **bewust van deze risico’s** en gebruik bij het handelen in CFD’s altijd een stoploss om te voorkomen dat je meer verliest dan je zou willen riskeren… Als je niet weet wat een stoploss is, dan is leverage traden nu nog niet the way to go ;).
 
@@ -204,17 +204,17 @@ De liquiditeit van een bedrijf gaat over in hoeverre een bedrijf kan beschikken 
 
 ## **8\. Conclusie beleggen in aandelen**
 
-Klaar om te beleggen in aandelen? [Maak een account aan bij een online broker](https://demodernenomaden.nl/go/etoro-trading) en je kunt vandaag nog beginnen met het opbouwen van jouw portefeuille. Afhankelijk van het risico dat jij acceptabel vindt, kun je kiezen voor:
+Klaar om te beleggen in aandelen? [Maak een account aan bij een online broker](/go/etoro-trading) en je kunt vandaag nog beginnen met het opbouwen van jouw portefeuille. Afhankelijk van het risico dat jij acceptabel vindt, kun je kiezen voor:
 
 *   Investeren in ETF’s en beleggingsfondsen (laag risico)
 *   Investeren in losse aandelen (gemiddeld risico)
 *   CFD’s en leverage handelen (hoog risico)
 
-Hoe hoger het risico, hoe groter het mogelijke rendement. Dit zie je ook als je kijkt naar **speculatieve assets zoals cryptocurrencies**, welke je tevens ook op [eToro](https://demodernenomaden.nl/go/etoro-trading) kunt kopen.
+Hoe hoger het risico, hoe groter het mogelijke rendement. Dit zie je ook als je kijkt naar **speculatieve assets zoals cryptocurrencies**, welke je tevens ook op [eToro](/go/etoro-trading) kunt kopen.
 
 Succes met het **beleggen in aandelen** gewenst!
 
-[**Leer hoe je de juiste aandelen kunt vinden en deze eenvoudig kunt analyseren. Bekijk deze cursus >>**](https://demodernenomaden.nl/go/cursus-aandelen)
+[**Leer hoe je de juiste aandelen kunt vinden en deze eenvoudig kunt analyseren. Bekijk deze cursus >>**](/go/cursus-aandelen)
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -222,6 +222,6 @@ Succes met het **beleggen in aandelen** gewenst!
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

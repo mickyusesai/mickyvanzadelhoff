@@ -1,6 +1,6 @@
 ---
 title: "Blog beginnen in 2023 – Praktisch stappenplan om te starten met bloggen"
-description: ""
+description: "Nog voordat we naar de echte stappen gaan is het belangrijk om te weten wat jouw beweegreden is om te gaan bloggen. Deze verschilt namelijk van persoon…"
 date: 2020-10-13
 updated: 2023-05-07
 category: "ondernemen"
@@ -16,11 +16,11 @@ featuredImage: "/images/migrated/blog-starten-beginnen.webp"
 
 Nog voordat we naar de echte stappen gaan is het belangrijk om te weten wat jouw beweegreden is om te gaan bloggen. Deze verschilt namelijk van persoon tot persoon.
 
-Het zou kunnen dat je graag [geld wilt verdienen met bloggen](https://demodernenomaden.nl/online-geld-verdienen/bloggen/). Dan heb je een ander pad te volgen als iemand die alleen maar wilt gaan bloggen om familie en vrienden op de hoogte te houden van zijn of haar reisverhalen.
+Het zou kunnen dat je graag [geld wilt verdienen met bloggen](/blog/online-geld-verdienen/bloggen/). Dan heb je een ander pad te volgen als iemand die alleen maar wilt gaan bloggen om familie en vrienden op de hoogte te houden van zijn of haar reisverhalen.
 
 Om in het kort uit te leggen wat daar het grote verschil tussen is…
 
-Ikzelf krijg op mijn blog [demodernenomaden.nl](https://demodernenomaden.nl) **zo’n 90% van mijn lezers** uit Google (ongeveer 50.000 p/maand). Slechts 10% van mijn lezers komt op mijn blog omdat ze me ergens van kennen of via social media.
+Ikzelf krijg op mijn blog [demodernenomaden.nl](/) **zo’n 90% van mijn lezers** uit Google (ongeveer 50.000 p/maand). Slechts 10% van mijn lezers komt op mijn blog omdat ze me ergens van kennen of via social media.
 
 ![Blog schrijven](/images/migrated/blog-schrijvn-1.webp "Blog schrijven")
 
@@ -32,7 +32,7 @@ Zo vind je op deze website vooral evergreen blogs, **welke goed indexeren in Goo
 
 In onderstaande video leg ik **binnen 20 minuten** uit hoe jij **jouw eigen blog start**. Je kunt deze bekijken of verder lezen, alle stappen worden ook in dit artikel beschreven.
 
-[**\> Bekijk Blog Bonus Deal**](https://demodernenomaden.nl/stap-1-niche-naam-gaan/#blogbonus) _(opent in nieuw tabblad)_
+**\> Bekijk Blog Bonus Deal** _(opent in nieuw tabblad)_
 
 ## Stap 1: Onderwerp/niche van jouw blog
 
@@ -42,7 +42,7 @@ Wanneer je begint met bloggen moet je natuurlijk eerst weten waarover je gaat bl
 
 Bedenk je bijvoorbeeld eens hoe verwarrend het zou zijn als het op een en dezelfde blog gaat over fashion, cryptocurrencies en meditatie. Niemand keert ooit naar zo’n blog terug omdat het niet duidelijk is wat ze kunnen verwachten. Kies daarom een **afgebakend onderwerp (met bijbehorende doelgroep)** en ga daarmee aan de slag. Je kunt immers beter de diepte in gaan dan de breedte als het op bloggen aankomt.
 
-Om je een idee te geven van **blog niches en onderwerpen** heb ik er hieronder **30** voor je opgesomd. Dat is slechts het topje van de ijsberg ([101 blog niches vind je hier](https://demodernenomaden.nl/ondernemen/blog-niches/)), maar kan je wel een beeld geven van de mogelijkheden.
+Om je een idee te geven van **blog niches en onderwerpen** heb ik er hieronder **30** voor je opgesomd. Dat is slechts het topje van de ijsberg ([101 blog niches vind je hier](/blog/ondernemen/blog-niches/)), maar kan je wel een beeld geven van de mogelijkheden.
 
 *   Freelancen
     
@@ -104,12 +104,12 @@ Om je een idee te geven van **blog niches en onderwerpen** heb ik er hieronder *
     
 *   Zelfontwikkeling
     
-*   **[\> Bekijk 101+ blog niches](https://demodernenomaden.nl/ondernemen/blog-niches/)**
+*   **[\> Bekijk 101+ blog niches](/blog/ondernemen/blog-niches/)**
     
 
 Belangrijk om rekening mee te houden wanneer je zoekt naar een goed blogonderwerp is dat sommige niches winstgevender kunnen zijn dan anderen.
 
-Dit is omdat op sommige thema’s meer wordt gezocht (via Google) dan anderen en sommigen meer samenhangen met dure producten/diensten. Daarover vind je meer in mijn artikel over [geld verdienen met bloggen](https://demodernenomaden.nl/online-geld-verdienen/bloggen/). Hier gaan we verder met de naam van jouw blog.
+Dit is omdat op sommige thema’s meer wordt gezocht (via Google) dan anderen en sommigen meer samenhangen met dure producten/diensten. Daarover vind je meer in mijn artikel over [geld verdienen met bloggen](/blog/online-geld-verdienen/bloggen/). Hier gaan we verder met de naam van jouw blog.
 
 ## Stap 2: Jouw blog begint bij een goede naam
 
@@ -133,7 +133,7 @@ Zorg dat de naam niet te veel beperkt tot een te kleine niche. Dat kan je nameli
 
 4.  _URL beschikbaar_
 
-[Kijk of de domeinnaam die jij wilt beschikbaar is](https://demodernenomaden.nl/go/cloud86-domeinnaam). Zo kunnen lezers je zonder verdere kennis goed vinden (op dit onderdeel kom ik later in dit artikel nog terug).
+[Kijk of de domeinnaam die jij wilt beschikbaar is](/go/cloud86-domeinnaam). Zo kunnen lezers je zonder verdere kennis goed vinden (op dit onderdeel kom ik later in dit artikel nog terug).
 
 ### Voorbeelden van goede blognamen
 
@@ -165,7 +165,7 @@ Om een eigen URL voor jouw blog te registreren zal je waarschijnlijk **een hosti
 
 ### Hosting voor jouw blog
 
-Er zijn zoveel hosts dat je door de bomen het bos niet meer zou zien. Daarom houd ik het in dit blog simpel en verwijs ik je gewoon direct door naar de host die ik zelf het beste vind voor het starten van een blog en welke ik dus ook gebruik voor de website waar je nu op bent: [**Cloud86**](https://demodernenomaden.nl/go/cloud86).
+Er zijn zoveel hosts dat je door de bomen het bos niet meer zou zien. Daarom houd ik het in dit blog simpel en verwijs ik je gewoon direct door naar de host die ik zelf het beste vind voor het starten van een blog en welke ik dus ook gebruik voor de website waar je nu op bent: [**Cloud86**](/go/cloud86).
 
 **Blog beginnen met Cloud86 betekent**:
 
@@ -175,21 +175,21 @@ Er zijn zoveel hosts dat je door de bomen het bos niet meer zou zien. Daarom hou
 *   Steengoede NL klantenservice (altijd geholpen bij vragen)
 *   SSL inbegrepen (slotje in de balk, beveiligde blog)
 *   55% korting via onderstaande knop (voor eerste contractperiode)
-*   Extra: Blog Bonus Deal ([bekijk de deal hier](https://demodernenomaden.nl/stap-1-niche-naam-gaan/#blogbonus))
+*   Extra: Blog Bonus Deal (bekijk de deal hier)
 
-[Blog registreren via Cloud86](https://demodernenomaden.nl/go/cloud86)
+[Blog registreren via Cloud86](/go/cloud86)
 
-[![Cloud86 Logo](/images/migrated/Cloud86-Logo-1.webp)](https://demodernenomaden.nl/go/cloud86)
+[![Cloud86 Logo](/images/migrated/Cloud86-Logo-1.webp)](/go/cloud86)
 
-Als je op [deze link](https://demodernenomaden.nl/go/cloud86) klikt dan kom je direct in een nieuw tabblad terecht bij de **Managed WordPress hosting** van Cloud86.
+Als je op [deze link](/go/cloud86) klikt dan kom je direct in een nieuw tabblad terecht bij de **Managed WordPress hosting** van Cloud86.
 
 Bij deze hosting is direct de **installatie en support voor WordPress** inbegrepen. Dat is handig zodat je bij technische problemen niet alles zelf hoeft op te lossen. Dit is dé manier om **zonder technische skills een kwalitatieve blog te starten**.
 
-[![Prijzen Cloud86](/images/migrated/prijzen-cloud86-1.webp)](https://demodernenomaden.nl/go/cloud86)
+[![Prijzen Cloud86](/images/migrated/prijzen-cloud86-1.webp)](/go/cloud86)
 
 Wanneer je net begint met bloggen is het **WordPress Start pakket** meer dan voldoende. Tot 5000 bezoekers is dit pakket optimaal, mocht je later wat verder groeien, dan kun je altijd nog upgraden als je dat zou willen.
 
-Met jouw website wordt ook direct **een e-mail aangemaakt op het adres van jouw website** (bijv. mick@demodernenomaden.nl), dat staat gelijk professioneel! Selecteer jouw gewenste pakket en ga door naar de volgende stap.
+Met jouw website wordt ook direct **een e-mail aangemaakt op het adres van jouw website** (bijv. mickyvz@live.nl), dat staat gelijk professioneel! Selecteer jouw gewenste pakket en ga door naar de volgende stap.
 
 ![Domeinnaam registreren](/images/migrated/domeinnaam-registreren-1.webp "Domeinnaam registreren")
 
@@ -207,7 +207,7 @@ Vervolgens voer je je gegevens in (let op, dit zijn ook direct de gegevens voor 
 
 **Gefeliciteerd! Jouw blog is officieel gelanceerd :).**
 
-Als je meer wil weten over deze webhosting, lees dan mijn [Cloud86 review](https://demodernenomaden.nl/review/cloud86-webhosting-review/).
+Als je meer wil weten over deze webhosting, lees dan mijn [Cloud86 review](/blog/review/cloud86-webhosting-review/).
 
 ## Stap 4: Jouw blog beginnen met WordPress
 
@@ -221,7 +221,7 @@ WordPress is een ‘**content management system**’. Dat houdt in dat het een p
 
 Om gelijk een probleem weg te nemen waar je mogelijk tegenaan loopt. **WordPress installeren doe je niet via WordPress.com…**
 
-Als je de stappen tot nu toe hebt gevolgd wordt WordPress op dit moment geïnstalleerd op jouw blog die is gehost bij [Cloud86](https://demodernenomaden.nl/go/cloud86). Je hoeft daarvoor verder niets te doen!
+Als je de stappen tot nu toe hebt gevolgd wordt WordPress op dit moment geïnstalleerd op jouw blog die is gehost bij [Cloud86](/go/cloud86). Je hoeft daarvoor verder niets te doen!
 
 > Nadat je jouw blog domeinnaam en hosting hebt gekocht kan het even duren voordat jouw blog en WordPress gereed zijn. Dit komt doordat jouw domeinnaam nog moet worden geregistreerd op het World Wide Web. Heb dus even geduld.
 
@@ -319,4 +319,4 @@ Eigenlijk is het nog te vroeg om het hierover te hebben, maar we kunnen het maar
 
 Een blog beginnen is niet zo moeilijk als het lijkt. Hopelijk is dat jou met deze tutorial gelukt. De basis staat nu. Je kunt gaan bloggen en mensen kunnen jouw blog vinden op het internet. **Goed gedaan!**
 
-Als hosting voor jou blog [raad ik je graag Cloud86 aan](https://demodernenomaden.nl/go/cloud86). Mijn eigen blog is daar ook gehost en daar ben ik enorm tevreden over. Vooral voor wanneer je net gaat starten met bloggen kan het erg handig zijn dat WordPress direct door hun op jouw blog wordt geïnstalleerd. Zie hieronder nogmaals de **[Blog Bonus Deal](https://demodernenomaden.nl/stap-1-niche-naam-gaan/#blogbonus) met Cloud86 hosting** die je alleen op mijn website kunt vinden en je hebt de beste manier gevonden om een blog te beginnen.
+Als hosting voor jou blog [raad ik je graag Cloud86 aan](/go/cloud86). Mijn eigen blog is daar ook gehost en daar ben ik enorm tevreden over. Vooral voor wanneer je net gaat starten met bloggen kan het erg handig zijn dat WordPress direct door hun op jouw blog wordt geïnstalleerd. Zie hieronder nogmaals de **Blog Bonus Deal met Cloud86 hosting** die je alleen op mijn website kunt vinden en je hebt de beste manier gevonden om een blog te beginnen.

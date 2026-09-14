@@ -1,6 +1,6 @@
 ---
 title: "Wonen en werken in Boedapest in Hongarije – Tips voor de digital nomad"
-description: ""
+description: "Sziá, mede-avonturiers! We gaan het hebben over wonen en werken in Boedapest als digital nomad. Het is namelijk één van de populairdere steden onder de…"
 date: 2018-11-06
 updated: 2022-01-27
 category: "digitalenomaden"
@@ -94,6 +94,6 @@ Boedapest is de echte je-van-het in Europa. Deze stad is zeker aan te raden, van
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

@@ -1,6 +1,6 @@
 ---
 title: "Money Mastery 2024 Review [AllesOverCrypto]"
-description: ""
+description: "2024: Deze Money Mastery review is geüpdatete voor de laatste versie van de cursus."
 date: 2020-12-02
 updated: 2024-03-02
 category: "review"
@@ -18,7 +18,7 @@ Wanneer je **crypto** wilt gaan **traden** om daar een inkomen uit te halen is h
 
 ![Money Mastery](/images/migrated/crypto-masterclass.webp "Money Mastery")
 
-Leuk weetje, **ik ken de heren van AllesOverCrypto persoonlijk** van een training bij [De Moderne Nomaden](https://demodernenomaden.nl) en kan je daardoor ook wat meer over Patrick en Derek vertellen. In deze review lees je in ieder geval alles over de Money Mastery en kun je een afgewogen beslissing maken van of dit iets voor jou is en of je klaar bent voor de wereld van crypto.
+Leuk weetje, **ik ken de heren van AllesOverCrypto persoonlijk** van een training bij [De Moderne Nomaden](/) en kan je daardoor ook wat meer over Patrick en Derek vertellen. In deze review lees je in ieder geval alles over de Money Mastery en kun je een afgewogen beslissing maken van of dit iets voor jou is en of je klaar bent voor de wereld van crypto.
 
 In deze review wordt vaak verwezen naar de Crypto Masterclass, dit is het grootste deel van de Money Mastery. Vandaar we daar met name induiken bij deze review.
 
@@ -54,11 +54,11 @@ Wanneer je gaat handelen in crypto zal je niet alleen Bitcoin verhandelen, maar 
 
 De Money Mastery is een **uitgebreide training** om jou te helpen goed te worden in het verhandelen van crypto. Het helpt je solide strategieën te bepalen, trends te herkennen en cryptomunten te vinden die misschien klein zijn, maar een enorm groeipotentieel hebben.
 
-Het helpt je dus om [geld te verdienen met crypto](https://demodernenomaden.nl/online-geld-verdienen/handelen-in-crypto-valuta/). **Op een verantwoorde manier en zonder te gokken**.
+Het helpt je dus om [geld te verdienen met crypto](/blog/web3/handelen-in-crypto-valuta/). **Op een verantwoorde manier en zonder te gokken**.
 
 De training van AllesOverCrypto begon eigenlijk bij een klein boek, **de Bitcoinbijbel** (welke je bij de cursus krijgt) en heeft zich vanaf daar uitgebreid richting de **meest volledige crypto cursus van Nederland**.
 
-> Doordat ze klein begonnen en steeds verder zijn uitgebreid kan het zijn dat je op het internet meerdere prijzen tegenkomt. De cursus is met de uitbreidingen namelijk wat in prijs gestegen. De actuele prijs (met korting) is 997,- euro. De korting kun je verkrijgen door [dit webinar](https://demodernenomaden.nl/go/crypto-training/) te volgen.
+> Doordat ze klein begonnen en steeds verder zijn uitgebreid kan het zijn dat je op het internet meerdere prijzen tegenkomt. De cursus is met de uitbreidingen namelijk wat in prijs gestegen. De actuele prijs (met korting) is 997,- euro. De korting kun je verkrijgen door [dit webinar](/go/crypto-training) te volgen.
 
 De Money Mastery heeft inmiddels al meer dan 5000 deelnemers, meer dan 100 uren aan lesmateriaal en tal van extra’s. Het is zowel voor **beginners en gevorderden** interessant.
 
@@ -112,7 +112,7 @@ In de Crypto Masterclass gaan ze dan ook **JUIST niet alleen in op Bitcoin**, ma
 
 ## Over AllesOverCrypto
 
-[AllesOverCrypto](https://demodernenomaden.nl/go/over-crypto-training/) is het platform via waar Patrick en Derek hun cursus verkopen. En het is zoveel meer dan alleen dat. Je kunt er [live de koersen volgen](https://demodernenomaden.nl/go/rates-crypto-masterclass) van **honderden cryptomunten** en vindt er een kennisbank vol informatie over crypto. Je vindt er zelfs een gastblog van mij over passief geld verdienen!
+[AllesOverCrypto](/go/over-crypto-training) is het platform via waar Patrick en Derek hun cursus verkopen. En het is zoveel meer dan alleen dat. Je kunt er [live de koersen volgen](/go/rates-crypto-masterclass) van **honderden cryptomunten** en vindt er een kennisbank vol informatie over crypto. Je vindt er zelfs een gastblog van mij over passief geld verdienen!
 
 ![Alles Over Crypto snelweg banner](/images/migrated/alles-over-crypto-snelweg-banner-1.webp "alles-over-crypto-snelweg-banner (1)")
 
@@ -122,7 +122,7 @@ Zelf zeggen Patrick en Derek over AllesOverCrypto:
 
 ![AllesOverCrypto Logo](/images/migrated/allesovercrypto-logo.webp "allesovercrypto-logo")
 
-Wat je er ook vind is een [gratis webinar](https://demodernenomaden.nl/go/crypto-training/) welke je kunt volgen om **jouw kennis over crypto bij te spijkeren**. Het is een goede inleiding om te starten met geld verdienen in de cryptowereld. In dit webinar:
+Wat je er ook vind is een [gratis webinar](/go/crypto-training) welke je kunt volgen om **jouw kennis over crypto bij te spijkeren**. Het is een goede inleiding om te starten met geld verdienen in de cryptowereld. In dit webinar:
 
 *   Heb jij je eerste crypto gekocht voor 1 euro!
 *   Weet je met welke strategie je geld gaat verdienen!
@@ -130,7 +130,7 @@ Wat je er ook vind is een [gratis webinar](https://demodernenomaden.nl/go/crypto
 *   Weet je welke sleeping giant wij hebben ontdekt
 *   Snap je hoe je de beste cryptomunten vindt!
 
-Een goede instapper dus. [**Aanmelden is gratis en doe je hier**](https://demodernenomaden.nl/go/crypto-training/).
+Een goede instapper dus. [**Aanmelden is gratis en doe je hier**](/go/crypto-training).
 
 ## Wat ik zelf aan de Money Mastery heb gehad
 
@@ -162,7 +162,7 @@ Natuurlijk verkocht ik dit niet netjes op de top, maar dankzij de adviezen in de
 
 En natuurlijk slagen niet alle cryptomunten, maar door het onderzoek in de crypto masterclass te gebruiken, kun je op **de 10 beste crypto munten** inzetten. Met dat soort bedragen is je risico klein en de potentie gigantisch! Er hoeft er maar één keer 40 te gaan en de buit is binnen.
 
-Verder was deze training voor mij het startschot van mijn crypto interesse. Na het volgen van tal van [gratis trainingen over crypto en Bitcoin](https://demodernenomaden.nl/online-geld-verdienen/gratis-crypto-bitcoin-cursussen/), was het de Crypto Masterclass die me daadwerkelijk heeft geleerd **om geld te verdienen met crypto** en goede risico bewuste keuzes te maken. En dat gaat veel verder dan weten wat een [goede crypto exchange](https://demodernenomaden.nl/ondernemen/beste-crypto-exchange/) is. Het gaat erom te kunnen denken als een professionele trader.
+Verder was deze training voor mij het startschot van mijn crypto interesse. Na het volgen van tal van [gratis trainingen over crypto en Bitcoin](/blog/web3/gratis-crypto-bitcoin-cursussen/), was het de Crypto Masterclass die me daadwerkelijk heeft geleerd **om geld te verdienen met crypto** en goede risico bewuste keuzes te maken. En dat gaat veel verder dan weten wat een [goede crypto exchange](/blog/web3/beste-crypto-exchange/) is. Het gaat erom te kunnen denken als een professionele trader.
 
 Goed, je begrijpt nu waarom ik over deze training zo enthousiast ben. En waarschijnlijk begrijp je ook **waarom de investering in deze training zo laag is** als je kijkt naar wat het je op kan leveren.
 
@@ -170,7 +170,7 @@ Goed, je begrijpt nu waarom ik over deze training zo enthousiast ben. En waarsch
 
 ![Crypto Masterclass Landingspagina](/images/migrated/allesovercrypto-masterclass.webp "allesovercrypto-masterclass")
 
-De [Crypto Masterclass](https://demodernenomaden.nl/go/crypto-training/) is een **zeer diverse training tjokvol boeiende informatie**.
+De [Crypto Masterclass](/go/crypto-training) is een **zeer diverse training tjokvol boeiende informatie**.
 
 Laten we daarom eerst even kijken naar de basis; **de videotrainingen**. Dit onderdeel bestaat uit 2 delen met in totaal zo’n 13 uitgebreide modules, ieder met hun eigen doel.
 
@@ -206,9 +206,9 @@ Je leert hier over **de historie van geld** en hoe dit gerelateerd is aan crypto
 3.  Crypto bemachtigen in de laagste regionen
 4.  Decentrale exchanges zijn de toekomst
 
-Je gaat jouw eerste crypto kopen via een crypto broker! Eerst doe je dit via **[Bitvavo](https://demodernenomaden.nl/go/bitvavo)** ([\> zie Bitvavo review](https://demodernenomaden.nl/online-geld-verdienen/bitvavo-review-crypto/)) omdat dit relatief simpel is, daarna ga je in deze module de diepte in op het gebied van Binance ([\> zie Binance review](https://demodernenomaden.nl/online-geld-verdienen/binance-review-crypto-exchange/)).
+Je gaat jouw eerste crypto kopen via een crypto broker! Eerst doe je dit via **[Bitvavo](/go/bitvavo)** ([\> zie Bitvavo review](/blog/review/bitvavo-review-crypto/)) omdat dit relatief simpel is, daarna ga je in deze module de diepte in op het gebied van Binance ([\> zie Binance review](/blog/review/binance-review-crypto-exchange/)).
 
-**Beiden zijn [cryptocurrency exchanges](https://demodernenomaden.nl/ondernemen/beste-crypto-exchange/)** (brokers), maar die laatste heeft wat meer opties en is dus minder gericht op de beginnende trader. Ook leer je hier over IDEX, BitMEX, marge trading, leverages en Litebit.
+**Beiden zijn [cryptocurrency exchanges](/blog/web3/beste-crypto-exchange/)** (brokers), maar die laatste heeft wat meer opties en is dus minder gericht op de beginnende trader. Ook leer je hier over IDEX, BitMEX, marge trading, leverages en Litebit.
 
 ### 3\. Maak een killer start!
 
@@ -235,21 +235,21 @@ Wanneer je gaat traden op kleinere exchanges (omdat je daar **crypto parels** vi
 
 In deze module leer je over die verschillende methoden, welke en hoe jij deze het beste toepast voor **jouw eigen crypto portefeuille.**
 
-> **Een van die methoden (en de meest gebruikte) is om jouw crypto op te slaan op een hardware wallet. In de Crypto Masterclass wordt daarvoor de [Ledger Nano S](https://demodernenomaden.nl/go/ledger-nano-s) aangeraden.**
+> **Een van die methoden (en de meest gebruikte) is om jouw crypto op te slaan op een hardware wallet. In de Crypto Masterclass wordt daarvoor de [Ledger Nano S](/go/ledger-nano-s) aangeraden.**
 
 ### 5\. Je winsten cashen!
 
 ![Winsten uitbetalen via Bitvavo (les crypto masterclass)](/images/migrated/winsten-uitbetalen-bitvavo-crypto-masterclass.webp "Winsten uitbetalen via Bitvavo (les crypto masterclass)")
 
-1.  Winsten uitbetalen via [Bitvavo](https://demodernenomaden.nl/online-geld-verdienen/bitvavo-review-crypto/)
+1.  Winsten uitbetalen via [Bitvavo](/blog/review/bitvavo-review-crypto/)
 2.  Winsten uitbetalen via Bitonic
 3.  Winsten uitbetalen via Kraken
 
-Wanneer je **winst maakt met [het verhandelen van crypto](https://demodernenomaden.nl/online-geld-verdienen/handelen-in-crypto-valuta/)** wil je natuurlijk ook weten hoe je deze kunt laten uitbetalen. Immers, daar is het mensen vaak om te doen wanneer ze de cryptowereld ingaan.
+Wanneer je **winst maakt met [het verhandelen van crypto](/blog/web3/handelen-in-crypto-valuta/)** wil je natuurlijk ook weten hoe je deze kunt laten uitbetalen. Immers, daar is het mensen vaak om te doen wanneer ze de cryptowereld ingaan.
 
 Je wilt dus weten **hoe je met een Bitcoin euro’s kunt kopen** en hoe je de verschillende brokers met elkaar kunt laten communiceren.
 
-In deze module gaan Patrick Suiker en Derek Westra in op de uitbetalingen via [Binance](https://demodernenomaden.nl/online-geld-verdienen/binance-review-crypto-exchange/), Bitvavo, Bitonic en BitMEX. Die laatste vereist een uitbetaling door te ‘kraken’. **Alle info die je nodig hebt om je geld te innen dus**.
+In deze module gaan Patrick Suiker en Derek Westra in op de uitbetalingen via [Binance](/blog/review/binance-review-crypto-exchange/), Bitvavo, Bitonic en BitMEX. Die laatste vereist een uitbetaling door te ‘kraken’. **Alle info die je nodig hebt om je geld te innen dus**.
 
 ### 6\. De allereerste investeerder zijn (ICO’s)
 
@@ -274,7 +274,7 @@ Uit ‘The Zone’ (community) kan ik overigens opmaken dat ze bij AllesOverCryp
 
 Geld verdienen met crypto is breder dan alleen crypto verhandelen. Zo kun je ook **crypto staken of minen**. Die materie is met deze module minder moeilijk dan deze lijkt ;).
 
-Een [passief inkomen](https://demodernenomaden.nl/online-geld-verdienen/passief-inkomen-genereren/) houdt overigens in dat je geld verdient terwijl je daar op dat moment niet voor werkt. Het is dus niet zo dat je niets doet, maar geld kan ook tijdens het slapen binnenkomen.
+Een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/) houdt overigens in dat je geld verdient terwijl je daar op dat moment niet voor werkt. Het is dus niet zo dat je niets doet, maar geld kan ook tijdens het slapen binnenkomen.
 
 ### 8\. De crypto-trends de baas
 
@@ -303,9 +303,9 @@ Belangrijk om te weten wanneer je in crypto stapt; deze markt veranderd continu.
 9.  Zo Blijven Winnaars Winnen
 10.  Jij Bent Belangrijk
 
-**Rijk worden gaat niet vanzelf**. Je ziet maar al te vaak dat mensen een dure cursus aanschaffen om er vervolgens niets mee te doen. En eigenlijk maakt het dan nog niet eens uit of het om de [Crypto Masterclass](https://demodernenomaden.nl/go/crypto-training/) gaat of om de [Bol Masterclass](https://demodernenomaden.nl/online-geld-verdienen/bol-masterclass-jia-ruan-review/). Die laatste bijvoorbeeld heeft **meer dan 6000 studenten**, maar lang niet zoveel mensen worden ook succesvol.
+**Rijk worden gaat niet vanzelf**. Je ziet maar al te vaak dat mensen een dure cursus aanschaffen om er vervolgens niets mee te doen. En eigenlijk maakt het dan nog niet eens uit of het om de [Crypto Masterclass](/go/crypto-training) gaat of om de [Bol Masterclass](/blog/ondernemen/verkopen-op-bol-com/). Die laatste bijvoorbeeld heeft **meer dan 6000 studenten**, maar lang niet zoveel mensen worden ook succesvol.
 
-Vaak heeft dat te maken met een gebrek aan motivatie. De skills worden namelijk net zoals bij de Crypto Masterclass prima aangeleerd, daar zal het niet liggen. Maar **de mindset om [online geld te verdienen](https://demodernenomaden.nl/online-geld-verdienen/online-geld-verdienen/)** kun je dus ook leren en dat doe je in deze onmisbare module!
+Vaak heeft dat te maken met een gebrek aan motivatie. De skills worden namelijk net zoals bij de Crypto Masterclass prima aangeleerd, daar zal het niet liggen. Maar **de mindset om [online geld te verdienen](/blog/online-geld-verdienen/online-geld-verdienen/)** kun je dus ook leren en dat doe je in deze onmisbare module!
 
 ### 2\. Vrijheid dankzij crypto trading
 
@@ -323,7 +323,7 @@ Vaak heeft dat te maken met een gebrek aan motivatie. De skills worden namelijk 
 
 Crypto heeft al veel mensen miljonair gemaakt en dat lijken er alleen maar meer te worden. Daarbij is het een soort spelletje en hoe eerder jij dit spelletje onder de knie hebt hoe beter.
 
-Het doel van deze module? **De vrijheid creëren** zodat jij kunt [werken vanwaar je maar wilt](https://demodernenomaden.nl/digitalenomaden/digital-nomad-banen/) en wanneer je maar wilt!
+Het doel van deze module? **De vrijheid creëren** zodat jij kunt [werken vanwaar je maar wilt](/blog/digitalenomaden/digital-nomad-banen/) en wanneer je maar wilt!
 
 Je doet deer door te leren over technische analyse. Daardoor heb je meer grip op de koers en kun je beste koop en verkoopmomenten herkennen.
 
@@ -386,13 +386,13 @@ Houd er bijvoorbeeld rekening mee dat je met het traden in crypto, **winsten kun
 
 En dan krijg je ook nog de **crypto begrippenlijst** en de **Bitcoinbijbel**. Die begrippenlijst is handig, je zult namelijk wel eens een term tegenkomen die je nog niet kent (ik in ieder geval wel). De Bitcoinbijbel is dan weer meer een verslag rondom de Bitcoin. Dit e-book was eerst het primaire kennisproduct van AllesOverCrypto, maar is nu dus **gratis bij de Crypto Masterclass te verkrijgen**.
 
-**[Wil je starten met de Crypto Masterclass? Start hier!](https://demodernenomaden.nl/go/crypto-training/)**
+**[Wil je starten met de Crypto Masterclass? Start hier!](/go/crypto-training)**
 
 ## Trainingsomgeving AllesOverCrypto
 
 Sinds 2020 werken ze bij AllesOverCrypto met een andere leeromgeving en dat heeft zo zijn voordelen. **Voorheen waren community en training gescheiden**. Via Facebook had je dan toegang tot ‘The Zone’ en via de trainingsomgeving kon je de cursus volgen.
 
-Nu zijn ze echter aangesloten bij het Nederlandstalige [Huddle](https://demodernenomaden.nl/go/huddle).
+Nu zijn ze echter aangesloten bij het Nederlandstalige [Huddle](/go/huddle).
 
 Een all-in-one systeem waarmee ze **zowel de cursus als de community op een plek hebben**. Die community is trouwens echt enorm actief. Alleen vandaag al zijn daar 20 posts in geplaatst. Een goede plek dus om **jouw vragen te stellen** en te praten over crypto met mede cursisten. Zie hieronder de verschillende topics…
 
@@ -402,7 +402,7 @@ Vragen worden snel beantwoord en **jouw motivatie om van crypto een succes te ma
 
 Zelf kijk ik met regelmaat even naar wat anderen op het forum zeggen. Vaak komen hier de nieuwste munten voorbij, goede investeringen en trends. **Sharing is caring** bij AllesOverCrypto.
 
-[**Aan de slag met de Crypto Masterclass? In dit gratis webinar kun je toegang krijgen tot de training met een flinke korting!**](https://demodernenomaden.nl/go/crypto-training/)
+[**Aan de slag met de Crypto Masterclass? In dit gratis webinar kun je toegang krijgen tot de training met een flinke korting!**](/go/crypto-training)
 
 ## AllesOverCrypto reviews
 
@@ -452,11 +452,11 @@ Dat geeft alvast **een goede uitgangspositie om de Crypto Masterclass aan te sch
 
 ## Prijs van de Crypto Masterclass
 
-**De prijs van de Crypto Masterclass is 1997,- euro**. Tenminste als je de cursus [via hun eigen website koopt](https://demodernenomaden.nl/go/get-crypto-masterclass). Ik kan je wel verklappen dat er ook een mogelijkheid is om de cursus voor minder geld te kopen.
+**De prijs van de Crypto Masterclass is 1997,- euro**. Tenminste als je de cursus [via hun eigen website koopt](/go/get-crypto-masterclass). Ik kan je wel verklappen dat er ook een mogelijkheid is om de cursus voor minder geld te kopen.
 
 In de webinars geven Patrick en Derek namelijk vaak korting voor de eerste 10 deelnemers die zich via dat webinar aanmelden. Een korting die kan oplopen tot 1000,- euro!
 
-Je betaalt dan dus geen 1997,- maar **997,- euro**. Aanmelden voor een webinar doe je eenvoudig via [deze link](https://demodernenomaden.nl/go/crypto-training/).
+Je betaalt dan dus geen 1997,- maar **997,- euro**. Aanmelden voor een webinar doe je eenvoudig via [deze link](/go/crypto-training).
 
 Wel lijkt het erop **dat die prijs binnenkort omhooggaat**.
 
@@ -464,13 +464,13 @@ De realiteit is namelijk dat er dagelijks aan de cursus wordt gewerkt en deze co
 
 Verder heb je bij de Crypto Masterclass altijd **14 dagen bedenktijd**. In die tijd kun je jouw volledige betaling terugvragen als iets niet naar wens is. Het kan natuurlijk zijn dat de cursus anders is dan je had verwacht of voor jou niet is weggelegd. Hier doen ze bij de Crypto Masterclass gelukkig niet moeilijk over.
 
-**[Wil je aan de slag met de Crypto Masterclass? Hier kun je het webinar volgen waarin de korting wordt gegeven.](https://demodernenomaden.nl/go/crypto-training/)**
+**[Wil je aan de slag met de Crypto Masterclass? Hier kun je het webinar volgen waarin de korting wordt gegeven.](/go/crypto-training)**
 
-[Begin met Crypto Masterclass](https://demodernenomaden.nl/go/crypto-training/)
+[Begin met Crypto Masterclass](/go/crypto-training)
 
 ## FAQ – Vragen rondom de Crypto Masterclass
 
-Met regelmaat hoor ik nog vragen over de [Crypto Masterclass](https://demodernenomaden.nl/go/crypto-training/). Deze hoop ik in dit onderdeel nog wat beter te kunnen beantwoorden.
+Met regelmaat hoor ik nog vragen over de [Crypto Masterclass](/go/crypto-training). Deze hoop ik in dit onderdeel nog wat beter te kunnen beantwoorden.
 
 #### [BEN IK TE LAAT OM MET CRYPTO TE STARTEN?](#1ec8efd13e9ffaa22)
 
@@ -488,21 +488,21 @@ Als die twee dingen er zijn dan is crypto voor jou mogelijk en helpt de training
 
 #### [HOEVEEL GELD MOET IK IN CRYPTO INVESTEREN?](#24a12ab313d1b0014)
 
-Een groot verschil met **[de aandelenmarkt](https://demodernenomaden.nl/online-geld-verdienen/aandelen-handelen/)** is dat je bij crypto niet al rijk hoeft te zijn om rijk te worden. Vooral de alt-coins kunnen enorm omhoog schieten. Dan hebben we het niet over 10% op jaarbasis, maar over soms wel **50% per dag**. Daardoor kun je met een vrij klein kapitaal al beginnen met het traden van crypto. Zelf begon ik te traden met **slechts enkele honderden euro’s**.
+Een groot verschil met **[de aandelenmarkt](/blog/online-geld-verdienen/aandelen-handelen/)** is dat je bij crypto niet al rijk hoeft te zijn om rijk te worden. Vooral de alt-coins kunnen enorm omhoog schieten. Dan hebben we het niet over 10% op jaarbasis, maar over soms wel **50% per dag**. Daardoor kun je met een vrij klein kapitaal al beginnen met het traden van crypto. Zelf begon ik te traden met **slechts enkele honderden euro’s**.
 
 #### [ALLES OVER CRYPTO / MADELON VOS ?](#599f94d51d44864e0)
 
-Op deze website ga ik ook in op de [**cursussen van Madelon Vos**](https://demodernenomaden.nl/ondernemen/madelon-vos-review-bitcoin-crypto-traden/). Zij heeft een iets ander trainingsaanbod dan Alles Over Crypto. Het grootste verschil zit hem in de insteek. Alles Over Crypto gaat veelal over hoe je van weinig geld een groot vermogen kan maken door crypto. Bij **[Madelon Vos](https://demodernenomaden.nl/ondernemen/madelon-vos-review-bitcoin-crypto-traden/)** ligt de insteek veel meer op het duurzaam laten groeien van al bestaand vermogen door te investeren in Bitcoin, goud en aandelen.
+Op deze website ga ik ook in op de [**cursussen van Madelon Vos**](/blog/review/madelon-vos-review-bitcoin-crypto-traden/). Zij heeft een iets ander trainingsaanbod dan Alles Over Crypto. Het grootste verschil zit hem in de insteek. Alles Over Crypto gaat veelal over hoe je van weinig geld een groot vermogen kan maken door crypto. Bij **[Madelon Vos](/blog/review/madelon-vos-review-bitcoin-crypto-traden/)** ligt de insteek veel meer op het duurzaam laten groeien van al bestaand vermogen door te investeren in Bitcoin, goud en aandelen.
 
 #### [WAAR KAN IK CRYPTO CURRENCY KOPEN?](#7f4e38c3e8103e820)
 
-Op deze vraag zijn vele antwoorden. Het simpele verhaal is dat je de **60 grootste cryptomunten** kunt kopen via het Nederlandse platform **Bitvavo** (**[lees hier de Bitvavo review](https://demodernenomaden.nl/online-geld-verdienen/bitvavo-review-crypto/)**). Met **[deze link](https://demodernenomaden.nl/go/bitvavo)** kun je daar jouw eerste 1000,- euro traden zonder handelskosten ;).
+Op deze vraag zijn vele antwoorden. Het simpele verhaal is dat je de **60 grootste cryptomunten** kunt kopen via het Nederlandse platform **Bitvavo** (**[lees hier de Bitvavo review](/blog/review/bitvavo-review-crypto/)**). Met **[deze link](/go/bitvavo)** kun je daar jouw eerste 1000,- euro traden zonder handelskosten ;).
 
 In de Crypto Masterclass ga je echter ook zoeken naar opkomende cryptomunten. Deze zijn nog erg klein en daarom niet beschikbaar in de grotere exchanges. Vaak koop je die munten bij **Hotbit, Binance en Trade Ogre**. Deze exchanges zijn moeilijker te gebruiken en daarom wel pas aan te raden voor mensen die zich in de materie hebben verdiept.
 
 #### [IN WELKE MUNTEN INVESTEER JIJ MICK?](#750aaee074e91f993)
 
-Op het moment van schrijven heb ik ingezet op een combinatie van **Vechain Thor (VET), Ethereum (ETH), Chainlink (LINK) en Zilliqa (ZIL)**. Deze munten zijn allemaal te koop via **[Bitvavo](https://demodernenomaden.nl/go/bitvavo)**.
+Op het moment van schrijven heb ik ingezet op een combinatie van **Vechain Thor (VET), Ethereum (ETH), Chainlink (LINK) en Zilliqa (ZIL)**. Deze munten zijn allemaal te koop via **[Bitvavo](/go/bitvavo)**.
 
 Een andere munt welke mij inspireerde na de Cryptocurrency cursus was Pirate Chain (ARRR). Daar heb ik dus ook enkele tientjes staan, maar deze was moeilijker te verkrijgen en daarbij waren de tips uit de cursus dus meer dan welkom!
 
@@ -510,4 +510,4 @@ Een andere munt welke mij inspireerde na de Cryptocurrency cursus was Pirate Cha
 
 De Crypto Masterclass kun je op de website van AllesOverCypto kopen. Het enige nadeel is echter dat je daar dan wel de volle mep voor betaald. Om **gebruik te maken van de aanbieding voor 997,- euro**, zal je het webinar willen volgen. Deze is gratis en daarin krijg je de kans om de training met korting aan te schaffen.
 
-Aanmelden voor het webinar doe je via [**deze link**](https://demodernenomaden.nl/go/crypto-training/).
+Aanmelden voor het webinar doe je via [**deze link**](/go/crypto-training).

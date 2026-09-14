@@ -1,6 +1,6 @@
 ---
 title: "Acquisitie mail voorbeeld met uitleg – Je eigen verkoop mail schrijven"
-description: ""
+description: "Zelf een acquisitie mail schrijven? Vind hier een voorbeeld van een acquisitie mail en leer hoe jij zelf een converterende e-mail schrijft."
 date: 2019-12-18
 updated: 2023-01-02
 category: "ondernemen"
@@ -18,17 +18,17 @@ Om die reden schreef ik zo’n vijf jaar geleden mijn eerste acquisitie mail. Da
 
 In dit artikel gaan we in op hoe je zelf een acquisitie mail schrijft en welke formule hoge conversies oplevert. We doen dit aan de hand van mijn allereerste acquisitie mail die ik zo’n vijf jaar geleden schreef. Die mail was goed **voor 18.000,- euro extra omzet** ;). Dat zonder ook maar 1,- euro te investeren.
 
-**[Wil je het schrijven van een acquisitie mail liever uitbesteden? Dan vind je hier een betaalbare optie. >>](https://demodernenomaden.nl/go/fiverr-sales-email)**
+**[Wil je het schrijven van een acquisitie mail liever uitbesteden? Dan vind je hier een betaalbare optie. >>](/go/fiverr-sales-email)**
 
 ## Waarom wil je klanten krijgen met een koude acquisitie mail?
 
-De reden om zelf een acquisitie mail te schrijven als onderdeel van jouw [e-mail marketing strategie](https://demodernenomaden.nl/ondernemen/e-mail-marketing/) is hoogstwaarschijnlijk omdat je op zoek bent naar klanten. **Je wilt iets verkopen**.
+De reden om zelf een acquisitie mail te schrijven als onderdeel van jouw [e-mail marketing strategie](/blog/ondernemen/e-mail-marketing/) is hoogstwaarschijnlijk omdat je op zoek bent naar klanten. **Je wilt iets verkopen**.
 
 Hopelijk omdat je gelooft dat jouw product of dienst de moeite waard is en anderen verder helpt ;).
 
 Voor mijzelf was de reden in ieder geval duidelijk. Ik wilde nieuwe mensen bereiken die ik op dat moment niet in mijn netwerk had. **Een nieuwe doelgroep aanboren** voor mijn online marketing werkzaamheden.
 
-[**Wil je het onderste uit de kan halen? Gebruik dan mijn handboek voor het schrijven van een 10K+ acquisitie mail.**](https://demodernenomaden.nl/masterclass-acquisitie-mail/)
+**Wil je het onderste uit de kan halen? Gebruik dan mijn handboek voor het schrijven van een 10K+ acquisitie mail.**
 
 ## 1\. Van start: Kies een kleine doelgroep voor je acquisitie mail
 
@@ -52,7 +52,7 @@ Het zal je wellicht verbazen als ik zeg dat ik **gewoon mijn zusje heb gevraagd*
 > 
 > Wanneer je B2B mailt hoef je je echter geen zorgen te maken. Veel bedrijven zetten hun e-mail adres gewoon op hun website, vaak nog met in grote letters ‘CONTACT ONS’ ernaast. Dat volstaat als uitnodiging ;).
 > 
-> Als je B2C mailt gaat dit allemaal net even wat moeilijker. Dan zul je actief een [mailinglijst moeten laten groeien](https://demodernenomaden.nl/ondernemen/mailinglijst-groeien/), maar dat is een heel ander verhaal.
+> Als je B2C mailt gaat dit allemaal net even wat moeilijker. Dan zul je actief een [mailinglijst moeten laten groeien](/blog/ondernemen/leads-genereren-mailinglijst/), maar dat is een heel ander verhaal.
 
 ## 3\. De opbouw van een succesvolle acquisitie mail
 
@@ -69,7 +69,7 @@ Een mail die begint met ‘In de aanbieding’ of een opsomming van producteigen
 > **Onderwerp -> Aanhef -> Openingszin -> Probleem -> Consequentie -> Oplossing -> Content -> Overtuiging -> Call-To-Action -> PS  
 > **
 
-Deze volgorde is keer op keer bewezen en een groot deel ervan wordt ook veel gebruikt voor bijvoorbeeld [webteksten](https://demodernenomaden.nl/ondernemen/webteksten-schrijven/) en [verkoopteksten](https://demodernenomaden.nl/ondernemen/verkooptekst-schrijven-voorbeeld/).
+Deze volgorde is keer op keer bewezen en een groot deel ervan wordt ook veel gebruikt voor bijvoorbeeld [webteksten](/blog/ondernemen/webteksten-schrijven/) en [verkoopteksten](/blog/ondernemen/verkooptekst-schrijven-voorbeeld/).
 
 Het aspect uit de formule dat zorgt voor het succes zit hem in het volgende: “95% van de aankoopbeslissingen wordt in het onderbewuste genomen”. Op basis van emotie dus. Wanneer een tekst niet tot het hart spreekt van de lezer **gebeurt er niets**. Met bovenstaande formule wordt wél tot het hart gesproken en zelfs het onderbewuste geactiveerd.
 
@@ -91,7 +91,7 @@ Het is belangrijk om te weten welk probleem je oplost omdat daar de volledige be
 > 
 > (Daar zal mijn oplossing ze mee gaan helpen, maar daarover later meer.)
 
-[**Wil je voorbeelden van een probleemstelling en een uitgebreid handboek? Ideaal om erbij te houden wanneer je jouw eigen acquisitie mail schrijft. Je vind het hier!**](https://demodernenomaden.nl/masterclass-acquisitie-mail/)
+**Wil je voorbeelden van een probleemstelling en een uitgebreid handboek? Ideaal om erbij te houden wanneer je jouw eigen acquisitie mail schrijft. Je vind het hier!**
 
 ## 5\. Wat zijn de consequenties van het probleem?
 
@@ -155,15 +155,15 @@ Nu je de volgorde hebt gezien en je weet dat het belangrijk is de potentiële kl
 *   Zorg dat de content bij je mail daadwerkelijk waardevol is voor de ontvanger.
 *   Gebruik je PS-regel om exclusiviteit en urgentie te geven aan je aanbod.
 *   Gebruik veel enters voor de leesbaarheid en maak belangrijke dingen dik gedrukt.
-*   Verzend met een marketing mailprogramma zoals [Enormail](https://demodernenomaden.nl/ondernemen/enormail-review/) (30 dagen gratis trial) zodat je data kunt verzamelen.
-*   Doe een follow-up naar de mensen die de mail niet hebben geopend met een andere titel. (mogelijk met [Enormail](https://demodernenomaden.nl/ondernemen/enormail-review/))
+*   Verzend met een marketing mailprogramma zoals [Enormail](/blog/review/enormail-review/) (30 dagen gratis trial) zodat je data kunt verzamelen.
+*   Doe een follow-up naar de mensen die de mail niet hebben geopend met een andere titel. (mogelijk met [Enormail](/blog/review/enormail-review/))
 *   Blijf uit de spam box
 
-[**Wil je de meest uitgebreide checklist voor jouw acquisitie mail ooit zien? Je vind het allemaal in mijn handboek voor het schrijven van een 10K+ acquisitie mail.**](https://demodernenomaden.nl/masterclass-acquisitie-mail/)
+**Wil je de meest uitgebreide checklist voor jouw acquisitie mail ooit zien? Je vind het allemaal in mijn handboek voor het schrijven van een 10K+ acquisitie mail.**
 
 ## Versturen van de acquisitie mail
 
-Nu alles gereed is, je de e-mail adressen hebt en de mail is geschreven, is het tijd om deze te versturen. Natuurlijk kun je dit gewoon met jouw eigen mailprogramma doen maar dat raad ik je ten strengste af. Wanneer je de mail stuurt met [een marketing mail programma](https://demodernenomaden.nl/ondernemen/enormail-review/) kun je namelijk veel meer statistiek zien en er meer conversie uithalen.
+Nu alles gereed is, je de e-mail adressen hebt en de mail is geschreven, is het tijd om deze te versturen. Natuurlijk kun je dit gewoon met jouw eigen mailprogramma doen maar dat raad ik je ten strengste af. Wanneer je de mail stuurt met [een marketing mail programma](/blog/review/enormail-review/) kun je namelijk veel meer statistiek zien en er meer conversie uithalen.
 
 Wanneer ik zelf acquisitie mails stuur voor bedrijven is die statistiek erg handig. Je ziet dan bijvoorbeeld **wie de mail hebben geopend en wie er op de link in de mail hebben geklikt**.
 
@@ -231,7 +231,7 @@ Groeten,
 Mick van Zadelhoff
 
 De Moderne Nomaden  
-info@demodernenomaden.nl  
+mickyvz@live.nl  
 +31681081589 (Whatsapp)
 
 Ps. Ik heb besloten maximaal voor 7 DJ drive in shows landelijk deze samenwerking aan te gaan omdat ik mij er vol overgave in zal storten.
@@ -240,7 +240,7 @@ Ps. Ik heb besloten maximaal voor 7 DJ drive in shows landelijk deze samenwerkin
 
 Het mag inmiddels duidelijk zijn wat een (koude) acquisitie mail je op kan leveren. Zeker wanneer je business to business schrijft, is het een ideale manier om snel meer omzet te realiseren.
 
-Het zou natuurlijk kunnen dat je dat **liever uitbesteed**. Daarvoor verwijs ik je graag door [deze copywriter op Fiverr](https://demodernenomaden.nl/go/fiverr-sales-email). Hij kan het snel en voor een mooi bedrag voor jou regelen.
+Het zou natuurlijk kunnen dat je dat **liever uitbesteed**. Daarvoor verwijs ik je graag door [deze copywriter op Fiverr](/go/fiverr-sales-email). Hij kan het snel en voor een mooi bedrag voor jou regelen.
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -248,6 +248,6 @@ Het zou natuurlijk kunnen dat je dat **liever uitbesteed**. Daarvoor verwijs ik 
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

@@ -1,6 +1,6 @@
 ---
 title: "Geld verdienen met online marketing – Begin jouw marketing bureau"
-description: ""
+description: "Toen social media zoals Facebook in opkomst waren, hoorde je veel mensen zichzelf plots social media expert noemen. De grap was, dat je die status…"
 date: 2018-04-22
 updated: 2022-12-19
 category: "online-geld-verdienen"
@@ -22,15 +22,15 @@ Goed, let’s dive in SEO (search engine optimization), overtuigingstechnieken, 
 
 ## Locatie onafhankelijk werken als online marketeer
 
-Zelf werk ik al jaren als online marketeer. Terwijl ik de wereld over reis als [digital nomad](https://demodernenomaden.nl/digitalenomaden/digital-nomad-worden/) heb ik in Nederland **enkele vaste klanten voor wie ik online marketing werkzaamheden uitvoer**. Dat zijn met name dingen als [affiliate marketing](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) en het op basis van conversie optimaliseren van een website.
+Zelf werk ik al jaren als online marketeer. Terwijl ik de wereld over reis als [digital nomad](/blog/digitalenomaden/digital-nomad-worden/) heb ik in Nederland **enkele vaste klanten voor wie ik online marketing werkzaamheden uitvoer**. Dat zijn met name dingen als [affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) en het op basis van conversie optimaliseren van een website.
 
 Dat verdient best goed en zorgt voor een stabiel inkomen tijdens mijn reizen. Online marketing werkzaamheden zijn namelijk vaak terugkerend. Het blijft voor een bedrijf tenslotte van belang om nieuwe klanten aan te trekken en zo omzet te creëren. Het is daarom de perfecte manier om geld te verdienen als je **locatie onafhankelijk wilt werken** als ZZP-er.
 
-[**Dat je geen opleiding nodig hebt om online marketeer te worden, betekent natuurlijk niet dat er niets valt te leren over online marketing. Zoek je een manier om alle kennis snel en goedkoop tot je te nemen? Dan is dit de super snelle opleiding die je zoekt! >>**](https://demodernenomaden.nl/go/imu-online-marketing-cursus)
+[**Dat je geen opleiding nodig hebt om online marketeer te worden, betekent natuurlijk niet dat er niets valt te leren over online marketing. Zoek je een manier om alle kennis snel en goedkoop tot je te nemen? Dan is dit de super snelle opleiding die je zoekt! >>**](/go/imu-online-marketing-cursus)
 
-[![Online marketing tornado cursus](/images/migrated/online-marketing-tornado-cursus-imu-1.webp)](https://demodernenomaden.nl/go/imu-online-marketing-cursus)
+[![Online marketing tornado cursus](/images/migrated/online-marketing-tornado-cursus-imu-1.webp)](/go/imu-online-marketing-cursus)
 
-[Bekijk online marketing cursus](https://demodernenomaden.nl/go/imu-online-marketing-cursus)
+[Bekijk online marketing cursus](/go/imu-online-marketing-cursus)
 
 ## **Dit doet een online marketeer**
 
@@ -46,11 +46,11 @@ Het **werk van een online marketeer** is gigantisch breed. Zeker wanneer je voor
 
 ### Online geld verdienen als marketeer
 
-Om geld te verdienen met online marketing moet je er eerst voor zorgen dat jij de verkopen van een bedrijf omhoog kunt brengen. Hiervoor hoef je echt niet eerst een opleiding te volgen. **Jezelf verdiepen in het vak** kun je namelijk ook gewoon doen met het lezen van boeken en artikelen. En een snelle start kun je maken door [het volgen van een online marketing cursus](https://demodernenomaden.nl/go/imu-online-marketing-cursus). De rest leer je vervolgens terwijl je aan de slag bent voor klanten.
+Om geld te verdienen met online marketing moet je er eerst voor zorgen dat jij de verkopen van een bedrijf omhoog kunt brengen. Hiervoor hoef je echt niet eerst een opleiding te volgen. **Jezelf verdiepen in het vak** kun je namelijk ook gewoon doen met het lezen van boeken en artikelen. En een snelle start kun je maken door [het volgen van een online marketing cursus](/go/imu-online-marketing-cursus). De rest leer je vervolgens terwijl je aan de slag bent voor klanten.
 
 > “Enkele platformen die ik aanraad om over online marketing te leren, zijn het blog van de Internet Marketing Universiteit en Frankwatching. Zelf kom ik nog regelmatig op hun artikelen terug omdat het mij helpt actueel te blijven in de markt. Een opleiding in de online marketing zal je uiteraard wel helpen met de basisgedachte van marketing, maar om actuele skills te vergaren zal je er vaak zelf op uit moeten.”
 
-Het gevaarlijke aan online marketing is dat het zo **ontzettend breed** is waardoor je het gevoel kunt hebben dat je altijd maar de helft weet. Het belangrijkste is dan om in ieder geval **de basis te begrijpen** van het vak en daarnaast enkele specialisaties te kennen die goed combineren. Zelf heb ik mij bijvoorbeeld écht verdiept in [affiliate marketing](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) en [content marketing](https://demodernenomaden.nl/ondernemen/content-marketing/). Zo houd ik het overzichtelijk voor mezelf én voor mijn klanten.
+Het gevaarlijke aan online marketing is dat het zo **ontzettend breed** is waardoor je het gevoel kunt hebben dat je altijd maar de helft weet. Het belangrijkste is dan om in ieder geval **de basis te begrijpen** van het vak en daarnaast enkele specialisaties te kennen die goed combineren. Zelf heb ik mij bijvoorbeeld écht verdiept in [affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) en [content marketing](/blog/ondernemen/content-marketing/). Zo houd ik het overzichtelijk voor mezelf én voor mijn klanten.
 
 ### De basis van online marketing
 
@@ -62,7 +62,7 @@ Je bedenkt je wat hun **tone-of-voice** is, op welke platformen ze zitten en als
 *   Jouw product of dienst is altijd een oplossing voor een probleem van de klant, weet dit probleem te benoemen en je kunt jouw oplossing verkopen.
 *   Authenticiteit wint het vrijwel altijd van marketingtrucjes.
 *   Zoveel mogelijk mensen bereiken moet geen doel op zich zijn, de juiste mensen bereiken is veel belangrijker.
-*   Iemand overtuigen kan door schaarste te creëren, wederkerigheid te triggeren, social proof te gebruiken, autoriteit uit te stralen, sympathie op te wekken of consistentie toe te voegen. Wil je hier een keer goed induiken? Lees dan [dit boek van Cialdini](https://demodernenomaden.nl/go/boek-cialdini), dat was voor mij zeer zinvol ;).
+*   Iemand overtuigen kan door schaarste te creëren, wederkerigheid te triggeren, social proof te gebruiken, autoriteit uit te stralen, sympathie op te wekken of consistentie toe te voegen. Wil je hier een keer goed induiken? Lees dan [dit boek van Cialdini](/go/boek-cialdini), dat was voor mij zeer zinvol ;).
 
 ## Online marketing specialisaties
 
@@ -71,24 +71,24 @@ Weet jij liever één ding heel erg goed zodat mensen je als ultieme expert zien
 Als het om online marketing gaat, dan ben jij liever specialist. Natuurlijk wil je het hele werkveld begrijpen, maar probeer in één ding uit te blinken. Om je daarover een idee te geven vind je hieronder een lijstje met de **meest voorkomende specialisaties in online marketing**:
 
 *   Conversie optimalisatie
-*   [Content marketing >](https://demodernenomaden.nl/ondernemen/content-marketing/)
-*   [SEO optimalisatie >](https://demodernenomaden.nl/ondernemen/meer-website-bezoekers/)
+*   [Content marketing >](/blog/ondernemen/content-marketing/)
+*   [SEO optimalisatie >](/blog/ondernemen/meer-website-bezoekers/)
 *   Adwords advertising
 *   Social media advertising
 *   Webdesign
-*   [Copywriting >](https://demodernenomaden.nl/ondernemen/webteksten-schrijven/)
+*   [Copywriting >](/blog/ondernemen/webteksten-schrijven/)
 *   Branding
-*   [Social media management >](https://demodernenomaden.nl/ondernemen/social-media-strategie/)
+*   [Social media management >](/blog/ondernemen/social-media-strategie/)
 *   Viral marketing
-*   [Influencer marketing >](https://demodernenomaden.nl/online-geld-verdienen/influencer-worden/)
-*   [E-mail marketing >](https://demodernenomaden.nl/ondernemen/e-mail-marketing/)
-*   [Affiliate marketing >](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/)
+*   [Influencer marketing >](/blog/online-geld-verdienen/influencer-worden/)
+*   [E-mail marketing >](/blog/ondernemen/e-mail-marketing/)
+*   [Affiliate marketing >](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/)
 
 Dat is een flinke lijst! En het zal je zeker niet verbazen als ik vertel dat hier ook vaak specialisaties bijkomen en soms verdwijnen. Online marketing is alles behalve een stilstaand vakgebied.
 
 ![Chatbots online marketing](/images/migrated/chatbots-online-marketing-1.webp "Chatbots online marketing")
 
-Denk alleen maar aan de opkomst van chatbots, [metaverse](https://demodernenomaden.nl/web3/geld-verdienen-metaverse/), semantisch web, [web 3.0](https://demodernenomaden.nl/web3/web-3-decentralisatie/) en kunstmatige intelligentie. Allemaal kunnen ze worden ingezet als nieuwe **marketing tools**.
+Denk alleen maar aan de opkomst van chatbots, [metaverse](/blog/web3/geld-verdienen-metaverse/), semantisch web, [web 3.0](/blog/web3/web-3-decentralisatie/) en kunstmatige intelligentie. Allemaal kunnen ze worden ingezet als nieuwe **marketing tools**.
 
 Om aan de slag te gaan als online marketeer leer je dus de basis van online marketing en verdiep je je in één van de vele specialisaties. Daarna volgt de volgende stap; **het krijgen van online marketing klanten!**
 
@@ -98,13 +98,13 @@ Om aan de slag te gaan als online marketeer leer je dus de basis van online mark
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
 
 ## Klanten krijgen als online marketeer
 
-Als online marketeer werk je waarschijnlijk als zelfstandige of binnen [jouw eigen bedrijf](https://demodernenomaden.nl/ondernemen/eigen-bedrijf-starten/). Om geld te verdienen zul je klanten nodig hebben. Om aan klanten te komen gebruik je één van deze **vijf manieren**.
+Als online marketeer werk je waarschijnlijk als zelfstandige of binnen [jouw eigen bedrijf](/blog/ondernemen/eigen-bedrijf-starten/). Om geld te verdienen zul je klanten nodig hebben. Om aan klanten te komen gebruik je één van deze **vijf manieren**.
 
 ### 1\. Klanten krijgen via jouw netwerk
 
@@ -118,11 +118,11 @@ Je klanten hoeven niet per se uit je **directe netwerk** te komen. Delen wat je 
 
 Natuurlijk zal lukraak mailen je niets opleveren. Maar wanneer je dit goed doet, kun je zo je geld verdienen met online marketing. Om **succes met een acquisitie mail** te garanderen schreef ik deze volgens bepaalde regels.
 
-Als dit voor jou ook een goede manier zou zijn om aan je eerste klanten te komen, kijk dan eens naar hoe je zelf zo’n mail schrijft in [dit artikel](https://demodernenomaden.nl/ondernemen/acquisitie-mail-voorbeeld1/). Daar vind je tevens de mail die ik gebruikte om aan mijn eerste klanten te komen.
+Als dit voor jou ook een goede manier zou zijn om aan je eerste klanten te komen, kijk dan eens naar hoe je zelf zo’n mail schrijft in [dit artikel](/blog/ondernemen/acquisitie-mail-voorbeeld1/). Daar vind je tevens de mail die ik gebruikte om aan mijn eerste klanten te komen.
 
 ### 3\. Gebruik je website voor een passieve klantenstroom
 
-Tegenwoordig krijg ik zelf de meeste klanten voor online marketing opdrachten via de website waar je nu op zit. Op deze website heb ik tal van artikelen geschreven en krijg ik [meer dan 50.000 bezoekers per maand](https://demodernenomaden.nl/ondernemen/meer-website-bezoekers/) via Google. In sommige artikelen vraag ik mensen **of ik iets voor ze kan betekenen** en dat leidt tot nieuwe klanten.
+Tegenwoordig krijg ik zelf de meeste klanten voor online marketing opdrachten via de website waar je nu op zit. Op deze website heb ik tal van artikelen geschreven en krijg ik [meer dan 50.000 bezoekers per maand](/blog/ondernemen/meer-website-bezoekers/) via Google. In sommige artikelen vraag ik mensen **of ik iets voor ze kan betekenen** en dat leidt tot nieuwe klanten.
 
 Fijn aan deze methode is dat ik er niet veel werk meer aan heb omdat de artikelen al op mijn website staan en dus bezoekers trekken. Ook direct een mooi voorbeeld van **practice what you preach**! Zo zien andere ondernemers immers dat ik weet hoe ik mijn eigen website zichtbaar maak.
 
@@ -152,7 +152,7 @@ De verdiensten van een online marketeer zijn vaak direct gekoppeld aan het resul
 
 Zou je als online marketeer aan de slag gaan bij een bedrijf op contractbasis, dan kun je rekenen op zo’n **€2520,- bruto per maand**. Wanneer je als zelfstandige aan de slag gaat, kun je vaak tot **€2000,- per opdracht** vragen! Als je het goed doet, dan kun je flink wat opdrachten per maand uitvoeren.
 
-Houdt er bij online marketing rekening mee dat je verdiensten ook veel afhangen van **het soort bedrijf** waarvoor je de opdracht uitvoert. Ga je bijvoorbeeld aan de slag met [webteksten](https://demodernenomaden.nl/ondernemen/webteksten-schrijven/) voor een grote webshop, dan kan een klein verschil in de conversie, al om **héél veel extra omzet** gaan. Bij kleinere bedrijven zullen diezelfde werkzaamheden minder opleveren.
+Houdt er bij online marketing rekening mee dat je verdiensten ook veel afhangen van **het soort bedrijf** waarvoor je de opdracht uitvoert. Ga je bijvoorbeeld aan de slag met [webteksten](/blog/ondernemen/webteksten-schrijven/) voor een grote webshop, dan kan een klein verschil in de conversie, al om **héél veel extra omzet** gaan. Bij kleinere bedrijven zullen diezelfde werkzaamheden minder opleveren.
 
 ### Gemiddelde prijzen voor opdrachten als freelancer
 
@@ -169,13 +169,13 @@ Dan is er nog een laatste tip die ik aan je mee wil geven als je geld wilt verdi
 
 Er zijn vele online marketeers of marketeers in het algemeen die hun kennis en ervaringen hebben opgeschreven of opgenomen zodat jij ermee aan de slag kunt.
 
-Een van de mensen die ik daar trouw in volg zijn die van de Internet Marketing Uni. Zij maakten een [zeer volledige training over online marketing](https://demodernenomaden.nl/go/imu-online-marketing-cursus). Daarin leer je alle basis die je nodig hebt en kun je je vervolgens verdiepen in een specialisatie.
+Een van de mensen die ik daar trouw in volg zijn die van de Internet Marketing Uni. Zij maakten een [zeer volledige training over online marketing](/go/imu-online-marketing-cursus). Daarin leer je alle basis die je nodig hebt en kun je je vervolgens verdiepen in een specialisatie.
 
 Online marketing is een continue veranderende markt en dus zal je up-to-date moeten blijven op jouw specialisatie. Tegelijk zal de basis altijd hetzelfde blijven. Laat je dus niet teveel van de wijs brengen door alle technologie die je om de oren wordt geslingerd; **logisch nadenken helpt vaak het best!**
 
 Succes!
 
-[Ga aan de slag met de meest uitgebreide online marketing cursus en community op de Nederlandse markt. >>](https://demodernenomaden.nl/go/imu-online-marketing-cursus)
+[Ga aan de slag met de meest uitgebreide online marketing cursus en community op de Nederlandse markt. >>](/go/imu-online-marketing-cursus)
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -183,6 +183,6 @@ Succes!
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

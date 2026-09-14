@@ -1,13 +1,13 @@
 ---
 title: "Een week die mijn leven heeft veranderd (Eramus+ ervaring)"
-description: ""
+description: "Laat ik eens beginnen bij het einde. De foto die je hierboven ziet werd genomen op de laatste dag van de exchange ‘My Body My Earth’ in Zweden. Midden…"
 date: 2022-10-18
 updated: 2022-12-28
 category: "tips"
 slug: "youth-exchange-my-body-my-earth"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/micky-van-zadelhoff-meer-zweden-gothenburg-1.webp"
+featuredImage: "/images/micky/micky-van-zadelhoff-meer-zweden-gothenburg-1.webp"
 ---
 
 Laat ik eens beginnen bij het einde. De foto die je hierboven ziet werd genomen op de laatste dag van de **exchange ‘My Body My Earth’** in Zweden. Midden in de natuur stond ik daar te kijken bij het water. Naar de weerspiegeling van de bomen en die van mezelf. Het was een moment waarop er iets in mij veranderde. Iets wat ik nu met je wil delen, maar wat ik tegelijk herinner uit tal van clichés.

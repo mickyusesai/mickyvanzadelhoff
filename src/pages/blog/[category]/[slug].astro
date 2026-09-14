@@ -1,0 +1,51 @@
+---
+import { render } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import ArticleCard from '../../../components/ArticleCard.astro';
+import { CATEGORY_LABELS, SITE } from '../../../config/site';
+import { getPublishedArticles, formatDate } from '../../../lib/articles';
+
+export async function getStaticPaths() {
+  const articles = await getPublishedArticles();
+  return articles.map((article) => ({
+    params: { category: article.data.category, slug: article.data.slug },
+    props: { article },
+  }));
+}
+const { article } = Astro.props;
+const { Content } = await render(article);
+const { title, description, category, date, updated, featuredImage } = article.data;
+const related = (await getPublishedArticles())
+  .filter((a) => a.data.category === category && a.id !== article.id)
+  .slice(0, 3);
+---
+<Layout title={title} description={description} image={featuredImage || SITE.ogImage} type="article" published={date} modified={updated}>
+  <article class="mx-auto max-w-3xl px-5 py-12">
+    <header class="grid gap-4">
+      <p class="text-sm text-muted">
+        <a href="/blog/" class="text-accent">Blog</a> ›
+        <a href={`/blog/${category}/`} class="text-accent">{CATEGORY_LABELS[category] ?? category}</a>
+      </p>
+      <h1 class="text-3xl font-bold leading-tight tracking-tight md:text-4xl">{title}</h1>
+      <p class="text-sm text-muted">
+        Door Micky van Zadelhoff ·
+        <time datetime={date.toISOString()}>{formatDate(date)}</time>
+        {updated && updated > date && <span> · bijgewerkt <time datetime={updated.toISOString()}>{formatDate(updated)}</time></span>}
+      </p>
+      {featuredImage && <img src={featuredImage} alt="" width="1200" height="675" class="mt-2 w-full rounded-xl object-cover" />}
+    </header>
+    <div class="ad-slot" aria-hidden="true"></div>
+    <div class="prose prose-lg mt-8 max-w-none prose-headings:tracking-tight prose-a:text-accent prose-img:rounded-lg">
+      <Content />
+    </div>
+    <div class="ad-slot" aria-hidden="true"></div>
+  </article>
+  {related.length > 0 && (
+    <section class="mx-auto max-w-6xl border-t border-line px-5 py-12">
+      <h2 class="text-2xl font-bold">Meer in {CATEGORY_LABELS[category] ?? category}</h2>
+      <div class="mt-6 grid gap-8 sm:grid-cols-3">
+        {related.map((a) => <ArticleCard article={a} />)}
+      </div>
+    </section>
+  )}
+</Layout>

@@ -1,6 +1,6 @@
 ---
 title: "Social media strategie – Krijg meer (betrokken) klanten door social media"
-description: ""
+description: "Hoe maak je nou voor je bedrijf een social media strategie? Natuurlijk zou ik dit artikel kunnen beginnen met zoiets als social media, daar kun je de…"
 date: 2019-09-27
 updated: 2023-01-03
 category: "ondernemen"
@@ -12,7 +12,7 @@ featuredImage: "/images/migrated/social-media-strategie.webp"
 
 Hoe maak je nou voor je bedrijf een social media strategie? Natuurlijk zou ik dit artikel kunnen beginnen met zoiets als social media, daar kun je de laatste tijd niet omheen. Maar dat ga ik niet doen. Er is namelijk iets veel fundamentelers aan de hand. Het lijkt erop dat social media geen trend is, maar een permanente verandering van hoe wij als mensen communiceren.
 
-**[Wil jij jouw social media marketing liever uitbesteden? Kijk dan op Fiverr voor professionele en betaalbare opties. >>](https://demodernenomaden.nl/go/fiverr-social-media-management)**
+**[Wil jij jouw social media marketing liever uitbesteden? Kijk dan op Fiverr voor professionele en betaalbare opties. >>](/go/fiverr-social-media-management)**
 
 ## Social media strategie is geen kwestie meer van willen
 
@@ -109,7 +109,7 @@ De conclusie uit bovenstaand verhaal is dat je niet teveel maar ook niet te wein
 
 Om verder de tijd die je kwijt bent aan de social media strategie in kaart te brengen zul je aan de slag moeten gaan met een content planning. Dat is niets anders dan een agenda waarop je gaat plaatsen wanneer je wat post, houd daarbij je doel voor ogen. De agenda is puur bedoelt zodat je achteraf kunt evalueren of alles is gelukt en zodat je houvast hebt in de chaotische wereld van social media.
 
-**[Geen tijd voor social media? Dan kun je dit eenvoudig uitbesteden. Kijk hier hoe je dat doet. >>](https://demodernenomaden.nl/go/fiverr-social-media-management)**
+**[Geen tijd voor social media? Dan kun je dit eenvoudig uitbesteden. Kijk hier hoe je dat doet. >>](/go/fiverr-social-media-management)**
 
 ## Hoe vaak dien je te posten?
 
@@ -131,7 +131,7 @@ Een social media strategie is meer dan ‘we hebben een Facebook pagina’. Het 
 
 Tegelijkertijd moet je een social media strategie ook weer niet te moeilijk zien. Vaak gaat het daar namelijk mis, dat je het ziet als een machine. Social media is échte interactie tussen échte mensen. Als je jouw strategie vanuit die basis invult komt het helemaal goed. Succes!
 
-**[Iemand anders jouw sociale media laten ‘managen’? Kijk hier. >>](https://demodernenomaden.nl/go/fiverr-social-media-management)**
+**[Iemand anders jouw sociale media laten ‘managen’? Kijk hier. >>](/go/fiverr-social-media-management)**
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -139,6 +139,6 @@ Tegelijkertijd moet je een social media strategie ook weer niet te moeilijk zien
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

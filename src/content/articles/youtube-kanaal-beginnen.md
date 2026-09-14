@@ -1,6 +1,6 @@
 ---
 title: "Youtube kanaal maken en kijkers krijgen [Stappenplan]"
-description: ""
+description: "Jouw eigen Youtube kanaal maken? Wil je beginnen in de wondere wereld van kattenfilmpjes en gratis e-learningvideos?"
 date: 2018-12-01
 updated: 2023-01-03
 category: "online-geld-verdienen"
@@ -121,14 +121,14 @@ In de praktijk kun je al aan de slag met jouw mobiele telefoon alleen zal je daa
 
 Het verschilt per soort video welke spullen je nodig hebt, maar over het algemeen heeft de gemiddelde Youtuber het volgende in huis:
 
-*   **Camera** ([zie top 10 van Bol.com](https://demodernenomaden.nl/go/top10-cameras-van-bol))
-*   **Microfoon** ([zie microons](https://demodernenomaden.nl/go/microfoons-camera-van-bol))
-*   **Tripod / statief** ([zie statieven](https://demodernenomaden.nl/go/statieven-van-bol))
-*   **Editing software** ([gebruik Adobe Permiere Pro](https://demodernenomaden.nl/go/adobe-premiere-pro)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==))
+*   **Camera** ([zie top 10 van Bol.com](/go/top10-cameras-van-bol))
+*   **Microfoon** ([zie microons](/go/microfoons-camera-van-bol))
+*   **Tripod / statief** ([zie statieven](/go/statieven-van-bol))
+*   **Editing software** ([gebruik Adobe Permiere Pro](/go/adobe-premiere-pro)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==))
 
 Verder zou je ook nog kunnen denken aan verlichting, wanneer je jouw video binnen wilt opnemen en er wat professionaliteit aan toe wilt voegen.
 
-Verder raad ik je graag [Adobe Premiere Pro](https://demodernenomaden.nl/go/adobe-premiere-pro)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) aan. Dat is **professionele video editing software**. Voor de beginner kan dat wat onwennig zijn, maar als je er eenmaal in thuis bent kun je hiermee letterlijk ALLES zo bewerken zoals jij dat wilt.
+Verder raad ik je graag [Adobe Premiere Pro](/go/adobe-premiere-pro)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) aan. Dat is **professionele video editing software**. Voor de beginner kan dat wat onwennig zijn, maar als je er eenmaal in thuis bent kun je hiermee letterlijk ALLES zo bewerken zoals jij dat wilt.
 
 Belangrijk is vooral om gewoon te **beginnen met jouw Youtube kanaal en video’s**.
 
@@ -202,6 +202,6 @@ Wanneer jouw Youtube kanaal staat kun je beginnen met geld verdienen op Youtube.
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

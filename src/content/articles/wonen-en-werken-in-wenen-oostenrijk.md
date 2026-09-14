@@ -1,6 +1,6 @@
 ---
 title: "Wonen en werken in Wenen in Oostenrijk – Tips voor de digital nomad"
-description: ""
+description: "Wonen en werken in Wenen als digital nomad, is dat wat voor jou? Het is de stad van Wolfgang Amadeus Mozart, Ludwig van Beethoven en Sigmund Frued…"
 date: 2018-11-07
 updated: 2022-01-27
 category: "digitalenomaden"
@@ -28,7 +28,7 @@ Mensen in Wenen zijn ook nog eens praktisch ingesteld. Dat betekent dat, net als
 
 # Werken vanuit Wenen als digital nomad
 
-Werken vanuit Wenen kan goed. Voor vrij gemiddelde prijzen (niet zo duur als [Londen](https://demodernenomaden.nl/plaatsen/wonen-en-werken-in-londen-engeland/) ofzo) kun je al werken in vrij luxe koffiezaakjes. Houd je niet zo van status showen, dan zijn er ook wat meer raw opties voor jou.
+Werken vanuit Wenen kan goed. Voor vrij gemiddelde prijzen (niet zo duur als [Londen](/blog/digitalenomaden/wonen-en-werken-in-londen-engeland/) ofzo) kun je al werken in vrij luxe koffiezaakjes. Houd je niet zo van status showen, dan zijn er ook wat meer raw opties voor jou.
 
 > Café Prückel klinkt heel naar, maar heeft een prachtig interieur. Het heeft een wat klassiekere vibe over zich heen hangen, en dat mag ook wel nu ze al meer dan 100 jaar bestaan. Het café staat ook op de werelderfgoed lijst van UNESCO, dus zeker leuk om even te checken. Misschien wel het handigst om dus ook niet in het hoogseizoen hier te werken.
 
@@ -84,6 +84,6 @@ Wenen heeft niet alleen mooie architectuur en een rijke historie. Het kent ook v
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

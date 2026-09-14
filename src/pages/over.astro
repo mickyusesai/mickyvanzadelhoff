@@ -1,0 +1,33 @@
+---
+import { getEntry, render } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+
+const page = await getEntry('pages', 'over-mij');
+if (!page) throw new Error('src/content/pages/over-mij.md is missing');
+const { Content } = await render(page);
+const press = [
+  { src: '/images/press/nrc-handelsblad.webp', alt: 'NRC' },
+  { src: '/images/press/Nu-nl-logo-1.webp', alt: 'Nu.nl' },
+  { src: '/images/press/Vice_Logo.webp', alt: 'Vice' },
+  { src: '/images/press/algemeen-dagblad.webp', alt: 'Algemeen Dagblad' },
+  { src: '/images/press/funx-logo.webp', alt: 'FunX' },
+  { src: '/images/press/flow-logo.webp', alt: 'Flow Magazine' },
+];
+---
+<Layout title={page.data.title} description={page.data.description ?? ''} image="/images/micky/mick-van-zadelhoff-de-moderne-nomaden.webp">
+  <article class="mx-auto max-w-6xl px-5 py-12">
+    <div class="grid items-center gap-10 md:grid-cols-[3fr_2fr]">
+      <div>
+        <h1 class="text-4xl font-bold tracking-tight md:text-5xl">Micky van Zadelhoff</h1>
+        <div class="mt-6 flex flex-wrap items-center gap-x-8 gap-y-3">
+          <p class="text-xs uppercase tracking-wide text-muted">Ik kwam al langs bij</p>
+          {press.map((p) => <img src={p.src} alt={p.alt} loading="lazy" class="h-6 w-auto opacity-70 grayscale" />)}
+        </div>
+      </div>
+      <img src="/images/micky/mick-van-zadelhoff-de-moderne-nomaden.webp" alt="Micky van Zadelhoff" width="1200" height="956" class="w-full rounded-xl object-cover" />
+    </div>
+    <div class="prose prose-lg mt-10 max-w-prose prose-headings:tracking-tight prose-a:text-accent prose-img:rounded-lg">
+      <Content />
+    </div>
+  </article>
+</Layout>

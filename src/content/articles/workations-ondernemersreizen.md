@@ -1,6 +1,6 @@
 ---
 title: "10x Workations voor ondernemers en ZZP’ers in 2023"
-description: ""
+description: "Wanneer je online werkt, is het aan jou waar vandaan je dat doet. Je hebt de vrijheid om de wereld over te reizen en sommige ondernemers combineren dit…"
 date: 2022-09-28
 updated: 2022-12-28
 category: "ondernemen"
@@ -14,7 +14,7 @@ featuredImage: "/images/migrated/wokrations-2023.webp"
 
 Wanneer je online werkt, is het aan jou waar vandaan je dat doet. Je hebt de vrijheid om de wereld over te reizen en sommige ondernemers combineren dit dan ook met werken vanuit het buitenland.
 
-Echter, reizen en werken als [digital nomad](https://demodernenomaden.nl/digitalenomaden/digital-nomad-worden/) kan soms wat eenzaam zijn. Daarom is het leuker om samen op workation of ondernemersreis te gaan. Zo doe je inspiratie op met gelijkgestemde zelfstandigen en wordt werken aan je business een waar avontuur.
+Echter, reizen en werken als [digital nomad](/blog/digitalenomaden/digital-nomad-worden/) kan soms wat eenzaam zijn. Daarom is het leuker om samen op workation of ondernemersreis te gaan. Zo doe je inspiratie op met gelijkgestemde zelfstandigen en wordt werken aan je business een waar avontuur.
 
 ## Wat is een georganiseerde workation?
 
@@ -26,7 +26,7 @@ Workations zijn er **in alle soorten en maten**. Of het nu gaat om de locatie, w
 
 ![Workation](/images/migrated/workation-voor-ondernemers-1.webp "Workation")
 
-Op deze pagina vind je **alle georganiseerde workations** voor ondernemers die bij ons bekend zijn voor 2023. Staat een workation die jij hebt gevonden (of organiseert) er niet tussen? Mail me dan via mick@demodernenomaden.nl
+Op deze pagina vind je **alle georganiseerde workations** voor ondernemers die bij ons bekend zijn voor 2023. Staat een workation die jij hebt gevonden (of organiseert) er niet tussen? Mail me dan via mickyvz@live.nl
 
 _Prijzen op deze pagina zijn aan verandering onderhevig en allemaal exclusief BTW zodat je goed kunt vergelijken._
 
@@ -84,7 +84,7 @@ _Prijzen op deze pagina zijn aan verandering onderhevig en allemaal exclusief BT
 
 ## 1\. Business Bootcamp Italië
 
-[Meer info](https://demodernenomaden.nl/workation)
+[Meer info](/blog/ondernemen/workations-ondernemersreizen/)
 
 ![Business Bootcamp Italië](/images/migrated/DSC01014-1.webp "Business Bootcamp Italië")
 
@@ -107,7 +107,7 @@ Deze workation is bedoelt voor beginnende ondernemers en ZZP’ers of mensen die
 
 Iedere dag worden er twee workshops georganiseerd met onderwerpen als marketing, financiën, contentcreatie en mindset. De rest van de tijd kun je de opgedane kennis direct implementeren met de vele coaching mogelijkheden. Natuurlijk kun je ook genieten van de Italiaanse zon, het eten en de heuvels.
 
-[\> Meer informatie](https://demodernenomaden.nl/workation)
+[\> Meer informatie](/blog/ondernemen/workations-ondernemersreizen/)
 
 _Deze workation is inclusief verblijf, eten, drinken, workshops, uitje, fotoshoot en transfer. Exclusief reis naar Italië._
 
@@ -370,4 +370,4 @@ _Deze workation is inclusief verblijf. Exclusief maaltijden en reis._
 
 Georganiseerde workations zijn er in alle soorten en maten. En dat is maar goed ook, want zo is er voor iedereen wel een workation die past.
 
-Organiseer jij zelf een workation of ondernemersreis in 2023, maar staat deze nog niet in de lijst? **Mail dan even naar mick@demodernenomaden.nl**
+Organiseer jij zelf een workation of ondernemersreis in 2023, maar staat deze nog niet in de lijst? **Mail dan even naar mickyvz@live.nl**

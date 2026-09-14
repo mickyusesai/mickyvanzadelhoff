@@ -1,6 +1,6 @@
 ---
 title: "Wat zijn cryptocurrencies en hoe werken ze? [2024]"
-description: ""
+description: "Cryptocurrency, ook bekend als crypto, is een vorm van digitaal geld die geen bank of financiële instelling nodig heeft om transacties te verifiëren…"
 date: 2024-01-25
 updated: 2024-01-25
 category: "web3"
@@ -59,7 +59,7 @@ Goedkoopste exchange. Mogelijkheid tot investeren in bundels.
 
 [Maak gratis account](/go/finst)
 
-of [lees Finst review](https://demodernenomaden.nl/review/finst-crypto-exchange/)
+of [lees Finst review](/blog/review/finst-crypto-exchange/)
 
 ![Bitvavo affiliate programma](/images/migrated/bitvavo-affiliate-programma-1.webp "Bitvavo affiliate programma")
 
@@ -74,10 +74,10 @@ Grootste crypto exchange van de Benelux met veel crypto.
 
 [Maak gratis account](/go/bitvavo)
 
-of [lees Bitvavo review](https://demodernenomaden.nl/review/bitvavo-review-crypto/)
+of [lees Bitvavo review](/blog/review/bitvavo-review-crypto/)
 
 ## Hoe te beginnen met cryptocurrencies
 
-Om te beginnen met cryptocurrency, moet je een broker of [crypto exchange](https://demodernenomaden.nl/web3/beste-crypto-exchange/) kiezen. Een exchange is een online platform waar je cryptocurrencies kunt verhandelen.
+Om te beginnen met cryptocurrency, moet je een broker of [crypto exchange](/blog/web3/beste-crypto-exchange/) kiezen. Een exchange is een online platform waar je cryptocurrencies kunt verhandelen.
 
 Vervolgens kun je op zo’n exchange, zoals bijvoorbeeld [het Nederlandse Finst](/go/finst) eenvoudig met iDEAL crypto kopen.

@@ -1,6 +1,6 @@
 ---
 title: "Leads genereren voor jouw mailinglijst – 32 manieren"
-description: ""
+description: "Ervan uitgaande dat u al aan uw eerste e-mailmarketingcampagne begint. Super goed!"
 date: 2019-10-01
 updated: 2023-01-02
 category: "ondernemen"
@@ -14,7 +14,7 @@ Ervan uitgaande dat u al aan uw eerste e-mailmarketingcampagne begint. Super goe
 
 Klaar om **leads te genereren** voor op jouw mailinglijst?
 
-Zo niet, dan kun je deze stapsgewijze handleidingen over e-mailmarketing lezen. [Hoe je mailings maakt en verzendt](https://demodernenomaden.nl/ondernemen/mailing-maken-versturen/) en [hoe je in 2023 e-mailmarketing uitvoert](https://demodernenomaden.nl/ondernemen/e-mail-marketing/) (met voorbeelden met behulp van software).
+Zo niet, dan kun je deze stapsgewijze handleidingen over e-mailmarketing lezen. [Hoe je mailings maakt en verzendt](/blog/ondernemen/mailing-maken-versturen/) en [hoe je in 2023 e-mailmarketing uitvoert](/blog/ondernemen/e-mail-marketing/) (met voorbeelden met behulp van software).
 
 Een vorm van leadgeneratie is enorm belangrijk voor jouw business. **Zonder leads, geen klanten**.
 
@@ -26,13 +26,13 @@ Als ondernemer zijn er tal van kanalen die je kunt gebruiken voor je marketing, 
 
 **Mailinglijsten** zijn flinke business voor ondernemers, en vaak geldt, hoe groter, hoe beter. **Let’s start!**
 
-**[Wil je jouw e-mail marketing liever uitbesteden? Dan vind je hier op Fiverr goede opties voor zoals deze. >>](https://demodernenomaden.nl/go/fiverr-email-marketing)**
+**[Wil je jouw e-mail marketing liever uitbesteden? Dan vind je hier op Fiverr goede opties voor zoals deze. >>](/go/fiverr-email-marketing)**
 
 # Waarom is leads genereren zo belangrijk?
 
 Voordat we ingaan op de manieren om leads te genereren, deel ik graag **waarom dit zo ontzettend belangrijk** is.
 
-Met mijn bedrijf ‘[De Moderne Nomaden](https://demodernenomaden.nl)’ was ik aan het begin veel op zoek naar klanten. Ik dacht toen nog dat Facebook advertenties en Google Adwords dé manieren zouden zijn om klanten te krijgen. Dat werkte…
+Met mijn bedrijf ‘[De Moderne Nomaden](/)’ was ik aan het begin veel op zoek naar klanten. Ik dacht toen nog dat Facebook advertenties en Google Adwords dé manieren zouden zijn om klanten te krijgen. Dat werkte…
 
 Ik gaf geld aan Facebook en Google en kreeg daar klanten voor terug. Top zou je denken.
 
@@ -40,25 +40,25 @@ Er was alleen **één groot nadeel**. Wanneer ik stopte met geld geven aan Faceb
 
 > _“Het was dat moment dat ik begon met het groeien van mijn mailinglijst. Mensen schreven zich in en als ik nu iets te verkopen had stuurde ik hen een mailtje._
 > 
-> _**Daar hoefde ik niets extra’s voor te betalen**, mailen is immers gratis (buiten de kosten van een [marketingmail programma als Enormail](https://demodernenomaden.nl/ondernemen/enormail-review/) dan).”_
+> _**Daar hoefde ik niets extra’s voor te betalen**, mailen is immers gratis (buiten de kosten van een [marketingmail programma als Enormail](/blog/review/enormail-review/) dan).”_
 
 Niet dat ik altijd gratis aan die e-mail adressen kwam overigens. Ik moest tenslotte nog wel wat advertenties laten lopen voor die adressen. Alleen was het nu **een eenmalige investering**. Ik hoefde niet steeds opnieuw te betalen om **dezelfde mensen te bereiken**.
 
 Inmiddels gebruik ik alleen nog maar **gratis manieren om leads te genereren**. Opties genoeg!
 
-Om leads te genereren op jouw mailinglijst heb je e-mail marketing software nodig. Mijn favoriet daarvoor is Enormail. Daarmee verzend ik al mijn marketing mails en pas ik onderstaande manieren toe. Op [deze pagina](https://demodernenomaden.nl/ondernemen/enormail-review/) leg ik stap voor stap uit hoe je zelf mailingen kunt versturen naar jouw leads. [**\> Enormail gebruiken voor lead opvolging**](https://demodernenomaden.nl/ondernemen/enormail-review/)
+Om leads te genereren op jouw mailinglijst heb je e-mail marketing software nodig. Mijn favoriet daarvoor is Enormail. Daarmee verzend ik al mijn marketing mails en pas ik onderstaande manieren toe. Op [deze pagina](/blog/review/enormail-review/) leg ik stap voor stap uit hoe je zelf mailingen kunt versturen naar jouw leads. [**\> Enormail gebruiken voor lead opvolging**](/blog/review/enormail-review/)
 
 ×
 
 # Manieren om leads te genereren voor jouw mailinglijst
 
-Hieronder vind je **alle gratis en betaalde manieren** om leads te genereren voor jouw mailinglijst. De volledige lijst om van jouw [e-mail marketing](https://demodernenomaden.nl/ondernemen/e-mail-marketing/) een succes te maken.
+Hieronder vind je **alle gratis en betaalde manieren** om leads te genereren voor jouw mailinglijst. De volledige lijst om van jouw [e-mail marketing](/blog/ondernemen/e-mail-marketing/) een succes te maken.
 
 ## 1\. Bloggen
 
-De eerste manier is ook gelijk de manier die mijzelf de **meeste inschrijvingen** oplevert. [Met het schrijven van blogs op mijn website trek ik gratis](https://demodernenomaden.nl/ondernemen/blog-beginnen-starten-stappenplan/) (organisch) bezoek via Google. Deze mensen melden zich vaak aan op mijn mailinglijst om op de hoogte te worden gehouden rondom nieuwe blogs en artikelen.
+De eerste manier is ook gelijk de manier die mijzelf de **meeste inschrijvingen** oplevert. [Met het schrijven van blogs op mijn website trek ik gratis](/blog/ondernemen/blog-beginnen-starten-stappenplan/) (organisch) bezoek via Google. Deze mensen melden zich vaak aan op mijn mailinglijst om op de hoogte te worden gehouden rondom nieuwe blogs en artikelen.
 
-Het enige wat je nodig hebt is **een opt-in formulier** waar zij zich gemakkelijk op in kunnen schrijven. Deze opt-in formulieren maak ik zelf met [Enormail](https://demodernenomaden.nl/ondernemen/enormail-review/).
+Het enige wat je nodig hebt is **een opt-in formulier** waar zij zich gemakkelijk op in kunnen schrijven. Deze opt-in formulieren maak ik zelf met [Enormail](/blog/review/enormail-review/).
 
 ## 2\. Gratis e-book
 
@@ -70,9 +70,9 @@ Een post op mijn eigen persoonlijke Facebook account met een gratis e-book lever
 
 ## 3\. Leads genereren met content upgrade na je blogpost
 
-Stel mensen zitten op [jouw blog](https://demodernenomaden.nl/ondernemen/blog-beginnen-starten-stappenplan/) en lezen over een onderwerp in een artikel dat jij hebt geschreven. Dan kan het een idee zijn om aan het einde van je artikel te zeggen dat er nog een aanvulling op de content is die ze kunnen ontvangen in hun mailbox.
+Stel mensen zitten op [jouw blog](/blog/ondernemen/blog-beginnen-starten-stappenplan/) en lezen over een onderwerp in een artikel dat jij hebt geschreven. Dan kan het een idee zijn om aan het einde van je artikel te zeggen dat er nog een aanvulling op de content is die ze kunnen ontvangen in hun mailbox.
 
-[Dit is een onderdeel van contentmarketing](https://demodernenomaden.nl/ondernemen/content-marketing/) en deze truc werkt erg goed omdat mensen al weten **dat je geen onzin schrijft**, ze hebben immers je artikel al tot het einde gelezen.
+[Dit is een onderdeel van contentmarketing](/blog/ondernemen/content-marketing/) en deze truc werkt erg goed omdat mensen al weten **dat je geen onzin schrijft**, ze hebben immers je artikel al tot het einde gelezen.
 
 ## 4\. Gebruik een mobiele pop-up
 
@@ -202,11 +202,11 @@ Vraag jouw huidige audience om jouw mail te forwarden naar hun kennissen voor wi
 
 # Conclusie leads genereren via jouw mailinglijst
 
-[Een e-mailmarketingcampagne maken](https://demodernenomaden.nl/ondernemen/mailing-maken-versturen/) en leads genereren voor jouw [e-mail marketing](https://demodernenomaden.nl/ondernemen/e-mail-marketing/) is **belangrijk** en kan je helpen je business **enorm te laten groeien**. Er zijn echter zoveel manieren om je mailinglijst te laten groeien dat je ze nooit allemaal zult gebruiken. Het is dus essentieel hier keuzes in te maken.
+[Een e-mailmarketingcampagne maken](/blog/ondernemen/mailing-maken-versturen/) en leads genereren voor jouw [e-mail marketing](/blog/ondernemen/e-mail-marketing/) is **belangrijk** en kan je helpen je business **enorm te laten groeien**. Er zijn echter zoveel manieren om je mailinglijst te laten groeien dat je ze nooit allemaal zult gebruiken. Het is dus essentieel hier keuzes in te maken.
 
 Kies voor een manier van leads genereren die past bij jouw business en persoonlijkheid. Ga er vervolgens vol in en **werk aan een mooie database van e-mail adressen** waar je je e-mail marketing op los kunt laten. Het groeien duurt soms wat lang, maar is zeker de moeite waard.
 
-Zelf aan de slag met een goed marketing mailprogramma? Ik gebruik zelf [Enormail](https://demodernenomaden.nl/ondernemen/enormail-review/) en zou deze zeker aanraden ;). [Lees hier mijn review over Enormail](https://demodernenomaden.nl/reviews/enormail-review/).
+Zelf aan de slag met een goed marketing mailprogramma? Ik gebruik zelf [Enormail](/blog/review/enormail-review/) en zou deze zeker aanraden ;). [Lees hier mijn review over Enormail](/blog/review/enormail-review/).
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -214,6 +214,6 @@ Zelf aan de slag met een goed marketing mailprogramma? Ik gebruik zelf [Enormail
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

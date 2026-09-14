@@ -1,6 +1,6 @@
 ---
 title: "Wonen en werken in Krakau in Polen – Tips voor de digital nomad"
-description: ""
+description: "Wonen en werken in Krakau als digital nomad, een interessante keuze! Dus jij wilt misschien een tijdje verblijven in deze Poolse stad? Nou, de stad…"
 date: 2018-11-06
 updated: 2022-01-27
 category: "digitalenomaden"
@@ -10,7 +10,7 @@ draft: false
 featuredImage: "/images/migrated/wonen-en-werken-in-krakau-e1541505318206.webp"
 ---
 
-Wonen en werken in Krakau als [digital nomad](https://demodernenomaden.nl/digitalenomaden/digitale-nomaden/), een interessante keuze! Dus jij wilt misschien een tijdje verblijven in deze Poolse stad? Nou, de stad heeft charme, maar je moet ervan houden. Krakau is, net als heel Polen, heel religieus. De stad is dan ook gevuld met kerken, kathedralen en kloosters. Daarnaast zijn de straten gevuld met toeristen, je kunt er letterlijk amper lopen. De stad is te klein voor het aantal toeristen dat hier rondloopt. Dat is jammer aan de stad, maar er zijn nog altijd een paar plekken die echt de moeite waard zijn om te bezoeken. Ik zal ze in dit artikel noemen, zodat je ook lekker de kans hebt om te hangen met locals wanneer je je als digital nomad in Krakau begeeft. ;)
+Wonen en werken in Krakau als [digital nomad](/blog/digitalenomaden/digital-nomad-worden/), een interessante keuze! Dus jij wilt misschien een tijdje verblijven in deze Poolse stad? Nou, de stad heeft charme, maar je moet ervan houden. Krakau is, net als heel Polen, heel religieus. De stad is dan ook gevuld met kerken, kathedralen en kloosters. Daarnaast zijn de straten gevuld met toeristen, je kunt er letterlijk amper lopen. De stad is te klein voor het aantal toeristen dat hier rondloopt. Dat is jammer aan de stad, maar er zijn nog altijd een paar plekken die echt de moeite waard zijn om te bezoeken. Ik zal ze in dit artikel noemen, zodat je ook lekker de kans hebt om te hangen met locals wanneer je je als digital nomad in Krakau begeeft. ;)
 
 # Mensen leren kennen in Krakau als digital nomad
 
@@ -72,7 +72,7 @@ De prijzen zijn op sommige gebieden goedkoper dan Nederland, maar veel zijn ook 
 
 # Conclusie wonen en werken in Krakau als digital nomad
 
-Krakau is een prachtige stad, maar kent daardoor ook heel veel toerisme. Er is veel te vinden rondom religie en historie. Er zijn genoeg mogelijkheden om te werken of een drankje te doen. De prijzen zijn vaak goedkoper dan in Nederland, maar zijn natuurlijk niet zo goedkoop als bijvoorbeeld [Servië](https://demodernenomaden.nl/plaatsen/wonen-en-werken-in-novi-sad-servie/). De mensen staan niet allemaal open voor buitenlanders, maar je kan altijd wel jouw club mensen vinden. Ik zou zeggen, succes en geniet!
+Krakau is een prachtige stad, maar kent daardoor ook heel veel toerisme. Er is veel te vinden rondom religie en historie. Er zijn genoeg mogelijkheden om te werken of een drankje te doen. De prijzen zijn vaak goedkoper dan in Nederland, maar zijn natuurlijk niet zo goedkoop als bijvoorbeeld [Servië](/blog/digitalenomaden/wonen-en-werken-in-novi-sad-servie/). De mensen staan niet allemaal open voor buitenlanders, maar je kan altijd wel jouw club mensen vinden. Ik zou zeggen, succes en geniet!
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -80,6 +80,6 @@ Krakau is een prachtige stad, maar kent daardoor ook heel veel toerisme. Er is v
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

@@ -1,6 +1,6 @@
 ---
 title: "Digital nomad worden in 2023 – Jobs, kosten, tips & tools"
-description: ""
+description: "Zelf leef ik al zes jaar als digital nomad en zo heb ik al veel van de wereld mogen zien. Met zo’n 42 landen op de teller kan ik stellen dat dit alleen…"
 date: 2017-10-12
 updated: 2022-12-19
 category: "digitalenomaden"
@@ -34,11 +34,11 @@ Dat ik ze daar tegenkom gebeurt steeds vaker. Ook worden er veel events georgani
 
 Een leven vol reizen spreekt veel mensen aan en de wereld over reizen is in de laatste decennia steeds **makkelijker en goedkoper** geworden (behalve met corona dan…). Al moet wel gezegd worden dat veel digital nomads vanuit enkele vaste plekken in het buitenland werken. Je hoeft hiervoor dus zeker niet een complete reisgek te zijn.
 
-Daarbij is het internet steeds **beter en sneller** geworden wereldwijd. Wie denkt dat je het in Thailand moet doen met een eigen antenne heeft het mis. De 4G/5G is vrijwel overal beschikbaar en maakt van de mobiel de perfecte hotspot (wel met [de beste VPN](https://demodernenomaden.nl/digitalenomaden/beste-vpn-nederland/) natuurlijk). Op andere plekken zoals Bali is zelfs het hele eiland ingericht op mensen die op afstand werken. Daar vind je overal co-working spaces die je van alle gemakken voorzien.
+Daarbij is het internet steeds **beter en sneller** geworden wereldwijd. Wie denkt dat je het in Thailand moet doen met een eigen antenne heeft het mis. De 4G/5G is vrijwel overal beschikbaar en maakt van de mobiel de perfecte hotspot (wel met [de beste VPN](/blog/digitalenomaden/beste-vpn-nederland/) natuurlijk). Op andere plekken zoals Bali is zelfs het hele eiland ingericht op mensen die op afstand werken. Daar vind je overal co-working spaces die je van alle gemakken voorzien.
 
 ![Co-working voor digital nomads](/images/migrated/co-working-voor-digital-nomads-1.webp "Co-working voor digital nomads")
 
-De meest voorkomende [digital nomad banen](https://demodernenomaden.nl/digitalenomaden/digital-nomad-banen/) die ik tegenkom zijn online marketeer, programmeur, influencer, dropshipper en day trader. Al is dat wel echt het topje van de ijsberg, alle andere opties bespreken we uitgebreid in dit artikel!
+De meest voorkomende [digital nomad banen](/blog/digitalenomaden/digital-nomad-banen/) die ik tegenkom zijn online marketeer, programmeur, influencer, dropshipper en day trader. Al is dat wel echt het topje van de ijsberg, alle andere opties bespreken we uitgebreid in dit artikel!
 
 ### Hoeveel digital nomads zijn er?
 
@@ -62,11 +62,11 @@ Redenen dat er steeds meer digital nomads zijn, lijken niet zo moeilijk te vinde
 
 Een digital nomad worden. **Utopisch!** Maar niet onmogelijk. Of eigenlijk, digital nomad worden is zo moeilijk niet. Het is simpeler dan succesvol carrière maken op de Nederlandse markt als je het mij vraagt. Om digital nomad te worden **hoef je namelijk niet een gigantisch bedrijf op te zetten**. Je moet vooral genoeg online verdienen, om die vrijheid te ervaren.
 
-Wat je wil doen is **digitaal werk vinden of een online bedrijf opzetten**. Dat laatste kan ook als ZZP’er. Werk vinden voor een baas dat op afstand kan, is soms wat moeilijk. Niet iedere werkgever zal het namelijk waarderen als jij nooit op kantoor aanwezig bent. Om die reden **zie je dat veel digital nomads [een eigen bedrijf starten](https://demodernenomaden.nl/ondernemen/eigen-bedrijf-starten/)**.
+Wat je wil doen is **digitaal werk vinden of een online bedrijf opzetten**. Dat laatste kan ook als ZZP’er. Werk vinden voor een baas dat op afstand kan, is soms wat moeilijk. Niet iedere werkgever zal het namelijk waarderen als jij nooit op kantoor aanwezig bent. Om die reden **zie je dat veel digital nomads [een eigen bedrijf starten](/blog/ondernemen/eigen-bedrijf-starten/)**.
 
 In die wereld zijn er tal van mogelijkheden. Praktisch gezien zou je alles kunnen doen wat online kan. Om je daar een idee van te geven som ik hieronder wat ideeën op voor **digital nomad jobs**.
 
-*   [Online marketeer](https://demodernenomaden.nl/online-geld-verdienen/online-marketing/)
+*   [Online marketeer](/blog/online-geld-verdienen/online-marketing/)
     
 *   Fotograaf
     
@@ -74,24 +74,24 @@ In die wereld zijn er tal van mogelijkheden. Praktisch gezien zou je alles kunne
     
 *   Aandeelhouder
     
-*   [Handelaar crypto](https://demodernenomaden.nl/web3/handelen-in-crypto-valuta/)
+*   [Handelaar crypto](/blog/web3/handelen-in-crypto-valuta/)
     
-*   [Dropshipper/Bol.com](https://demodernenomaden.nl/ondernemen/verkopen-op-bol-com/)
+*   [Dropshipper/Bol.com](/blog/ondernemen/verkopen-op-bol-com/)
     
-*   [Webshop](https://demodernenomaden.nl/online-geld-verdienen/eigen-webshop-beginnen/)
+*   [Webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/)
     
 *   Business consultant
     
 *   Reisplanner
     
-*   [Affiliate marketeer](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/)
+*   [Affiliate marketeer](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/)
     
 
 *   Online docent
     
-*   [Online cursus](https://demodernenomaden.nl/online-geld-verdienen/videotraining/)
+*   [Online cursus](/blog/online-geld-verdienen/videotraining/)
     
-*   [Online coaching](https://demodernenomaden.nl/online-geld-verdienen/online-coaching/)
+*   [Online coaching](/blog/online-geld-verdienen/online-coaching/)
     
 *   Schrijver
     
@@ -99,13 +99,13 @@ In die wereld zijn er tal van mogelijkheden. Praktisch gezien zou je alles kunne
     
 *   Copywriter
     
-*   [Vertaler](https://demodernenomaden.nl/online-geld-verdienen/online-vertalen/)
+*   [Vertaler](/blog/online-geld-verdienen/online-vertalen/)
     
 *   Virtuele assistent
     
-*   [NFTs flippen](https://demodernenomaden.nl/web3/nft-uitleg/)
+*   [NFTs flippen](/blog/web3/nft-uitleg/)
     
-*   [Metaverse architect](https://demodernenomaden.nl/web3/geld-verdienen-metaverse/)
+*   [Metaverse architect](/blog/web3/geld-verdienen-metaverse/)
     
 
 *   Webbuilder
@@ -114,7 +114,7 @@ In die wereld zijn er tal van mogelijkheden. Praktisch gezien zou je alles kunne
     
 *   Socials manager
     
-*   [Blogger](https://demodernenomaden.nl/online-geld-verdienen/bloggen/)
+*   [Blogger](/blog/online-geld-verdienen/bloggen/)
     
 *   Vlogger
     
@@ -131,7 +131,7 @@ De opties voor een leven als digital nomad zijn eindeloos. En bij vrijwel iedere
 
 ### Je eigen bedrijf als digital nomad
 
-Om jouw eigen bedrijf als digital nomad op te zetten, heb je in veel gevallen één skill nodig: [online marketing](https://demodernenomaden.nl/online-geld-verdienen/online-marketing/). Je moet namelijk aan klanten weten te komen. Daarvoor zal je jezelf moeten promoten of in contact moeten komen met jouw potentiële klanten. De basis van marketing begrijpen helpt je daarbij.
+Om jouw eigen bedrijf als digital nomad op te zetten, heb je in veel gevallen één skill nodig: [online marketing](/blog/online-geld-verdienen/online-marketing/). Je moet namelijk aan klanten weten te komen. Daarvoor zal je jezelf moeten promoten of in contact moeten komen met jouw potentiële klanten. De basis van marketing begrijpen helpt je daarbij.
 
 ![Digital nomad op een eiland](/images/migrated/digital-nomad-op-een-eiland-1.webp "Digital nomad op een eiland")
 
@@ -141,9 +141,9 @@ Veel digital nomads die ik zelf spreek tijdens mijn reizen hebben vaak een marke
 
 Zo zag het er voor mij zelf ook uit. **Ik leerde online marketing nog voordat ik digital nomad was** door mijn eigen bedrijfje als bruiloft DJ. Daar maakte ik destijds zelf de website voor en die probeerde ik zo te verbeteren dat ik meer boekingen kreeg. Dat lukte redelijk en leerde mij de fijne kneepjes van het vak.
 
-**[Wil je weten hoe ik zelf digital nomad ben geworden? Je download hier gratis mijn 176 pagina’s tellende boek >>](https://demodernenomaden.nl/digital-nomad-boek/)**
+**[Wil je weten hoe ik zelf digital nomad ben geworden? Je download hier gratis mijn 176 pagina’s tellende boek >>](/boek/)**
 
-[![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp)](https://demodernenomaden.nl/digital-nomad-boek/)
+[![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp)](/boek/)
 
 ### Klanten krijgen als digital nomad
 
@@ -161,12 +161,12 @@ Wanneer je op zoek bent naar meer klanten zou je een van de volgende dingen kunn
     
 *   Gratis werkt altijd. Bij sommige digital nomad jobs kun je ervoor kiezen om eerst iets om niet te doen. Als webdesigner zou je bijvoorbeeld eerst een gratis website analyse uit kunnen voeren. Dit is jouw eerste stap om binnen te komen bij een bedrijf en is iets waar mensen niet snel ‘nee’ op antwoorden.
     
-*   Biedt je werk aan op een platform als [Fiverr](https://demodernenomaden.nl/go/fiverr). Dit is een wereldwijd platform waar mensen diensten aanbieden. Zeker als het om een schrijfklus gaat in de Nederlandse taal is dit een manier om aan je eerste klanten te komen. Ik ken al best wat verhalen van mensen die een (te) goedkope klus deden via Fiverr en hier vervolgens een goedbetaalde remote job aan overhielden.
+*   Biedt je werk aan op een platform als [Fiverr](/go/fiverr). Dit is een wereldwijd platform waar mensen diensten aanbieden. Zeker als het om een schrijfklus gaat in de Nederlandse taal is dit een manier om aan je eerste klanten te komen. Ik ken al best wat verhalen van mensen die een (te) goedkope klus deden via Fiverr en hier vervolgens een goedbetaalde remote job aan overhielden.
     
 
 ![Van life digital nomad](/images/migrated/vanlife-digital-nomads-1.webp "Van life digital nomad")
 
-Toen ik zelf begon als digital nomad probeerde ik dit te doen met online marketing werkzaamheden voor bedrijven in de trouwbranche. Ik deed dit door een lijst met e-mail adressen te verzamelen en hen vervolgens allemaal een [acquisitie mail](https://demodernenomaden.nl/ondernemen/acquisitie-mail-voorbeeld1/) te sturen.
+Toen ik zelf begon als digital nomad probeerde ik dit te doen met online marketing werkzaamheden voor bedrijven in de trouwbranche. Ik deed dit door een lijst met e-mail adressen te verzamelen en hen vervolgens allemaal een [acquisitie mail](/blog/ondernemen/acquisitie-mail-voorbeeld1/) te sturen.
 
 In deze mail besprak ik de problemen met online marketing in de trouwbranche (verouderde websites, veel concurrentie, geen unique selling points etc.) en benadrukte ik hoe deze konden worden verholpen. Op basis van dit soort mails ben ik aan mijn eerste klanten gekomen en vanuit daar ging het veelal via via.
 
@@ -209,15 +209,15 @@ Er zijn ook plekken waar je gemakkelijk remote vacatures vind. Als je daarnaar o
 
 ### Zo ziet mijn digital nomad inkomen eruit
 
-Online marketing voor bedrijven uit de trouwbranche doe ik inmiddels niet meer. Tegenwoordig verdien ik mijn geld primair met **affiliate marketing**. Hier ben ik door de jaren heen ingerold doordat ik was begonnen met bloggen op [De Moderne Nomaden](https://demodernenomaden.nl). Op termijn kwam ik erachter hoe ik daar [passief inkomen](https://demodernenomaden.nl/online-geld-verdienen/passief-inkomen-genereren/) mee kon verdienen en dit heb ik door de tijd heen steeds wat meer uitgebreid.
+Online marketing voor bedrijven uit de trouwbranche doe ik inmiddels niet meer. Tegenwoordig verdien ik mijn geld primair met **affiliate marketing**. Hier ben ik door de jaren heen ingerold doordat ik was begonnen met bloggen op [De Moderne Nomaden](/). Op termijn kwam ik erachter hoe ik daar [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/) mee kon verdienen en dit heb ik door de tijd heen steeds wat meer uitgebreid.
 
-[![Homepage De Moderne Nomaden](/images/migrated/homepage-de-moderne-nomaden-1.webp)](https://demodernenomaden.nl)
+[![Homepage De Moderne Nomaden](/images/migrated/homepage-de-moderne-nomaden-1.webp)](/)
 
-[Affiliate marketing](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) houdt in **dat je producten of diensten promoot op commissiebasis**. Wanneer iemand via mijn blogs op een link klikt richting een product en deze koopt wordt ik daarvoor beloont met een commissie. Voor online producten zoals een cursus kunnen die commissies al snel oplopen **richting de 50%**. Dit zonder dat een klant daar extra voor hoeft te betalen, het wordt vanuit de aanbieder gezien als een besteding vanuit het marketingbudget.
+[Affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) houdt in **dat je producten of diensten promoot op commissiebasis**. Wanneer iemand via mijn blogs op een link klikt richting een product en deze koopt wordt ik daarvoor beloont met een commissie. Voor online producten zoals een cursus kunnen die commissies al snel oplopen **richting de 50%**. Dit zonder dat een klant daar extra voor hoeft te betalen, het wordt vanuit de aanbieder gezien als een besteding vanuit het marketingbudget.
 
 Omdat veel van de bezoekers op mijn website via Google komen, is dit inkomen passief. Steeds zijn het namelijk nieuwe mensen die door de artikelen op mijn website browsen op zoek naar informatie en dus nieuwe mensen die producten of diensten **via mijn affiliate linkjes aanschaffen**.
 
-Het nadeel is wel dat voordat je allemaal [affiliate programma’s](https://demodernenomaden.nl/ondernemen/affiliate-programma/) gaat promoten, je best een flink bereik nodig hebt om hier leuk mee te verdienen. De opstarttijd schat ik in het snelste geval op één jaar voordat je een volwaardig inkomen bij elkaar haalt.
+Het nadeel is wel dat voordat je allemaal [affiliate programma’s](/blog/ondernemen/affiliate-programma/) gaat promoten, je best een flink bereik nodig hebt om hier leuk mee te verdienen. De opstarttijd schat ik in het snelste geval op één jaar voordat je een volwaardig inkomen bij elkaar haalt.
 
 Voor wie snel digital nomad wil worden met een eigen bedrijf is de simpelste manier om een skill aan te bieden die je al beheerst, zoals webdesign, marketing of vertaler. **Heb je nog geen digitale skill die je aan kunt bieden, dan lijkt de weg naar virtual assistent het snelst**.
 
@@ -227,7 +227,7 @@ Voor wie snel digital nomad wil worden met een eigen bedrijf is de simpelste man
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
 
@@ -300,7 +300,7 @@ Voor een goede digital nomad bestemming hoef je helemaal niet zo ver te gaan. Be
 
 En voor de feestbeesten onder ons. Deze stad heeft een geweldig uitgaansleven, met allemaal drijvende clubs aan de rivier.
 
-Zelf ben ik vaker verbleven in de stad boven Belgrado, namelijk [Novi Sad](https://demodernenomaden.nl/digitalenomaden/wonen-en-werken-in-novi-sad-servie/). Ik vermaakte me daar prima en het is er wat rustiger (en goedkoper) dan in de hoofdstad.
+Zelf ben ik vaker verbleven in de stad boven Belgrado, namelijk [Novi Sad](/blog/digitalenomaden/wonen-en-werken-in-novi-sad-servie/). Ik vermaakte me daar prima en het is er wat rustiger (en goedkoper) dan in de hoofdstad.
 
 ### 4\. Antalya
 
@@ -351,9 +351,9 @@ Het ding is alleen, het is er enorm duur. Als digital nomad ben je hier net zo d
 *   Waar je wilt
     
 
-Voor wie niet in zijn eentje op reis wilt, of wie gewoon andere digital nomads en online ondernemers wil ontmoeten, zijn er ook [georganiseerde workations](https://demodernenomaden.nl/ondernemen/workations-ondernemersreizen/).
+Voor wie niet in zijn eentje op reis wilt, of wie gewoon andere digital nomads en online ondernemers wil ontmoeten, zijn er ook [georganiseerde workations](/blog/ondernemen/workations-ondernemersreizen/).
 
-Vaak zijn dit weken in het buitenland met enkele workshops waarmee je je skills kan verdiepen. Erg leuk! Zelf organiseren wij jaarlijks één workation in een kasteel in Italië voor startende online ondernemers. Je vind [hier](https://demodernenomaden.nl/workation/) alle info.
+Vaak zijn dit weken in het buitenland met enkele workshops waarmee je je skills kan verdiepen. Erg leuk! Zelf organiseren wij jaarlijks één workation in een kasteel in Italië voor startende online ondernemers. Je vind [hier](/blog/ondernemen/workations-ondernemersreizen/) alle info.
 
 ### Andere digital nomad bestemmingen
 
@@ -405,7 +405,7 @@ Activiteiten
 
 Vaste lasten
 
-In totaal ben ik gemiddeld **€1800,- per maand** kwijt. Prima te doen toch? Zeker als ik beredeneer dat ik genoeg [geld verdien met bloggen](https://demodernenomaden.nl/online-geld-verdienen/bloggen/) om maandelijks flink wat geld opzij te zetten. Het maakt leven in het buitenland voor mij goedkoper dan in Nederland. Daarbij is het stiekem ook een beetje bourgondisch. Ik eet met name buiten de deur en houdt mij met **dit budget** niet in met het uitgeven van geld.
+In totaal ben ik gemiddeld **€1800,- per maand** kwijt. Prima te doen toch? Zeker als ik beredeneer dat ik genoeg [geld verdien met bloggen](/blog/online-geld-verdienen/bloggen/) om maandelijks flink wat geld opzij te zetten. Het maakt leven in het buitenland voor mij goedkoper dan in Nederland. Daarbij is het stiekem ook een beetje bourgondisch. Ik eet met name buiten de deur en houdt mij met **dit budget** niet in met het uitgeven van geld.
 
 Qua budget is het trouwens ook zo dat wanneer je samen met iemand reist, je zeker niet het dubbele kwijt bent. Sterker nog, **de kosten voor accommodatie zijn wanneer ik samen reis nagenoeg hetzelfde** (en dus de helft per persoon). Dat wordt helemaal leuk als je vriend of vriendin ook locatie onafhankelijk werkt.
 
@@ -461,7 +461,7 @@ Er is een viertal eigenschappen die je als digital nomad (naar mijn idee) nodig 
 
 ### 1\. Ondernemend karakter
 
-Digital nomads hebben over het algemeen een erg ondernemend karakter en dat is belangrijk. Je moet er namelijk zelf voor zorgen dat je klanten krijgt en bezig blijft met [manieren om je geld te verdienen](https://demodernenomaden.nl/online-geld-verdienen/online-geld-verdienen/).
+Digital nomads hebben over het algemeen een erg ondernemend karakter en dat is belangrijk. Je moet er namelijk zelf voor zorgen dat je klanten krijgt en bezig blijft met [manieren om je geld te verdienen](/blog/online-geld-verdienen/online-geld-verdienen/).
 
 Ook wanneer je werkt voor een baas, zal je nog altijd zelf uit bed moeten komen terwijl de verleiding om vakantie te vieren zich om je heen voordoet.
 
@@ -487,7 +487,7 @@ Daarnaast kun je jouw week inplannen in werk en vakantiedagen. Net als in het ec
 
 Veel digital nomads reizen erg langzaam. Dit moet eigenlijk ook wel omdat er anders helemaal **geen tijd meer is om die laptop te openen**. In het begin ging ik hier zelf mee in de fout, omdat ik gewend was te reizen met een einddatum. Je wilt dan zo veel mogelijk gezien hebben in een zo kort mogelijke tijd.
 
-Als digital nomad is de tijd om te ontdekken oneindig en is snel reizen niet fijn. Je zal niet de eerste zijn [die daardoor overprikkeld raakt](https://demodernenomaden.nl/digitalenomaden/burn-out-als-digitale-nomade/). Het klinkt natuurlijk wel stoer, als je het afgelopen jaar in 40 landen bent geweest, maar in de praktijk ben je dan eigenlijk vooral gesloopt en wazig over wat je precies hebt meegemaakt. **Een beetje balans is ook als digital nomad een goed plan**.
+Als digital nomad is de tijd om te ontdekken oneindig en is snel reizen niet fijn. Je zal niet de eerste zijn [die daardoor overprikkeld raakt](/blog/digitalenomaden/burn-out-als-digitale-nomade/). Het klinkt natuurlijk wel stoer, als je het afgelopen jaar in 40 landen bent geweest, maar in de praktijk ben je dan eigenlijk vooral gesloopt en wazig over wat je precies hebt meegemaakt. **Een beetje balans is ook als digital nomad een goed plan**.
 
 ![](/images/migrated/mick-van-zadelhoff-in-macedonie-1.webp "mick-van-zadelhoff-in-macedonie (1)")
 
@@ -497,23 +497,23 @@ De vijf jaar daarna heb ik het heel anders aangepakt. Ik heb het hele idee van �
 
 ### 4\. Je bent veel op jezelf aangewezen
 
-Net als met [alleen reizen](https://demodernenomaden.nl/tips/alleen-reizen-wereld-voordelen-en-nadelen/) is het digital nomad leven **soms eenzaam**. Ik vind dat prima, maar iedereen heeft hier natuurlijk zijn eigen gedachtes over. Een remedie hierop is om **langer op één plek te verblijven** zodat je ook daadwerkelijk vrienden maakt. Ook zie je wel eens koppels die samen het leven als digital nomad oppakken, dat kan natuurlijk ook en maakt het naar mijn idee dubbel zo leuk!
+Net als met [alleen reizen](/blog/tips/alleen-reizen-wereld-voordelen-en-nadelen/) is het digital nomad leven **soms eenzaam**. Ik vind dat prima, maar iedereen heeft hier natuurlijk zijn eigen gedachtes over. Een remedie hierop is om **langer op één plek te verblijven** zodat je ook daadwerkelijk vrienden maakt. Ook zie je wel eens koppels die samen het leven als digital nomad oppakken, dat kan natuurlijk ook en maakt het naar mijn idee dubbel zo leuk!
 
-[![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp)](https://demodernenomaden.nl/digital-nomad-boek/)
+[![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp)](/boek/)
 
-Je moet er in ieder geval op letten dat een leven als digital nomad bij jou past en goed aanvoelt. Daarom raad ik je graag aan om mijn [GRATIS boek](https://demodernenomaden.nl/digital-nomad-boek/) te lezen. Je vind er **176 pagina’s aan echte verhalen** die ik in mijn eerste jaren als digital nomad heb meegemaakt. Je download het boek [hier](https://demodernenomaden.nl/digital-nomad-boek/).
+Je moet er in ieder geval op letten dat een leven als digital nomad bij jou past en goed aanvoelt. Daarom raad ik je graag aan om mijn [GRATIS boek](/boek/) te lezen. Je vind er **176 pagina’s aan echte verhalen** die ik in mijn eerste jaren als digital nomad heb meegemaakt. Je download het boek [hier](/boek/).
 
 **Of bekijk de video hieronder, waarin ik inga op de vraag, ‘digital nomad zijn, wat doet dat met je?’**
 
 ## 7\. Bruikbare tools voor digital nomads
 
-Er zijn veel platforms en andere digital nomads die je kunnen helpen om het leven als digital nomad te realiseren. Mijn eigen platform ([De Moderne Nomaden](https://demodernenomaden.nl/)) is er eentje van, maar er zijn er uiteraard meer, je vind ze hier!
+Er zijn veel platforms en andere digital nomads die je kunnen helpen om het leven als digital nomad te realiseren. Mijn eigen platform ([De Moderne Nomaden](/)) is er eentje van, maar er zijn er uiteraard meer, je vind ze hier!
 
-**[De Moderne Nomaden](https://demodernenomaden.nl/)** – Hier vind je tips en ervaringen maar kun je ook trainingen volgen voor het opzetten en uitbouwen van jouw eigen online onderneming.
+**[De Moderne Nomaden](/)** – Hier vind je tips en ervaringen maar kun je ook trainingen volgen voor het opzetten en uitbouwen van jouw eigen online onderneming.
 
-**[GRATIS training](https://demodernenomaden.nl/gratis/)** – Leer alles over manieren om geld te verdienen met bloggen. Bijvoorbeeld met de mogelijkheden die ik op deze pagina beschrijft zoals affiliate marketing.
+**[GRATIS training](/blog/ondernemen/blog-beginnen-starten-stappenplan/)** – Leer alles over manieren om geld te verdienen met bloggen. Bijvoorbeeld met de mogelijkheden die ik op deze pagina beschrijft zoals affiliate marketing.
 
-[**Digital nomad boek**](https://demodernenomaden.nl/digital-nomad-boek/) – ‘Verhalen en lessen uit een vrij leven’ gaat over de eerste drie jaar in mijn leven als digital nomad en is gratis te downloaden. Deze zou ik zeker even lezen ter inspiratie!
+[**Digital nomad boek**](/boek/) – ‘Verhalen en lessen uit een vrij leven’ gaat over de eerste drie jaar in mijn leven als digital nomad en is gratis te downloaden. Deze zou ik zeker even lezen ter inspiratie!
 
 **[Nomad List](https://nomadlist.com/)** – Een database vol gegevens waarin je de gemiddelde leef kosten van iedere stad kunt vinden en digital nomad meet-ups bij kunt bijwonen.
 
@@ -529,7 +529,7 @@ Iets nieuws proberen is altijd spannend. Een veelgehoorde reactie als je tegen a
 
 De stap om digital nomad te worden en de wereld over te reizen is er eentje die je gewoon moet zetten. Om voor je gaat reizen al een inkomen te hebben is wel zo comfortabel, maar de meeste antwoorden komen gaandeweg. Laat je verrassen, zou ik zeggen!
 
-Vind je het leuk om tips te ontvangen en digital nomad te worden, [download dan gratis mijn boek](https://demodernenomaden.nl/digital-nomad-boek/) en **we stay in touch**! Mijn doel is om zoveel mogelijk mensen te inspireren om deze manier van leven uit te proberen. **Op jouw vrijheid!**
+Vind je het leuk om tips te ontvangen en digital nomad te worden, [download dan gratis mijn boek](/boek/) en **we stay in touch**! Mijn doel is om zoveel mogelijk mensen te inspireren om deze manier van leven uit te proberen. **Op jouw vrijheid!**
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -537,6 +537,6 @@ Vind je het leuk om tips te ontvangen en digital nomad te worden, [download dan 
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

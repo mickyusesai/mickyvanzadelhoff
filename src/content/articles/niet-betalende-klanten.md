@@ -1,6 +1,6 @@
 ---
 title: "Niet betalende klanten, erg vervelend – Mijn ervaring (Case)"
-description: ""
+description: "Niet betalende klanten, als webdesigner kreeg ik er laatst voor het eerst mee te maken. In dit artikel ga ik in op een case van een niet betalende…"
 date: 2019-05-25
 updated: 2020-04-26
 category: "tips"
@@ -10,11 +10,11 @@ draft: false
 featuredImage: "/images/migrated/niet-betalende-klanten.webp"
 ---
 
-Niet betalende klanten, als [webdesigner](https://demodernenomaden.nl/webdesign/) kreeg ik er laatst voor het eerst mee te maken. In dit artikel ga ik in op een case van een niet betalende klant van mij. Ik ben een sociaal ondernemer en doe veel zaken op basis van vertrouwen, contracten vind ik maar niets. Het was laatst pas voor het eerst dat ik daar de nadelen van ondervond. Met het delen van mijn ervaring kan ik even mijn ei kwijt over deze 1300,- misgelopen euro’s ;).
+Niet betalende klanten, als webdesigner kreeg ik er laatst voor het eerst mee te maken. In dit artikel ga ik in op een case van een niet betalende klant van mij. Ik ben een sociaal ondernemer en doe veel zaken op basis van vertrouwen, contracten vind ik maar niets. Het was laatst pas voor het eerst dat ik daar de nadelen van ondervond. Met het delen van mijn ervaring kan ik even mijn ei kwijt over deze 1300,- misgelopen euro’s ;).
 
 ## **PERSOON wilde een website voor zijn slotenmakersbedrijf**
 
-PERSOON contacte mij enkele maanden geleden. Hij werkte bij justitie op dat moment en wilde slotenmaker worden. In ons eerste telefoongesprek refereerde hij aan de malafide slotenmakers in de markt en dat hij het zelf goed wil doen. Hij was op zoek naar iemand die zijn website kon maken en met [de kennis die ik daarover op mijn eigen website heb](https://demodernenomaden.nl/onlinemarketing/online-marketing-slotenmaker/) was voor hem de keuze snel gemaakt.
+PERSOON contacte mij enkele maanden geleden. Hij werkte bij justitie op dat moment en wilde slotenmaker worden. In ons eerste telefoongesprek refereerde hij aan de malafide slotenmakers in de markt en dat hij het zelf goed wil doen. Hij was op zoek naar iemand die zijn website kon maken en met [de kennis die ik daarover op mijn eigen website heb](/blog/ondernemen/online-marketing-slotenmaker/) was voor hem de keuze snel gemaakt.
 
 ## **De aanbetalingsfactuur werd niet voldaan**
 
@@ -86,6 +86,6 @@ Al met al ben ik trots op hoe ik PERSOON heb geconfronteerd en heb ik er wat uit
 
 ## **Maak Jouw Eigen Professionele Blog In 5 Simpele Stappen (GRATIS)**
 
-Voor iedereen die een **professionele blog** op wilt zetten, maar niet weet hoe te beginnen. In de training zet je **jouw eigen blog online** en ga je aan de slag met het krijgen van lezers. [\> Bekijk training](https://demodernenomaden.nl/gratis/)
+Voor iedereen die een **professionele blog** op wilt zetten, maar niet weet hoe te beginnen. In de training zet je **jouw eigen blog online** en ga je aan de slag met het krijgen van lezers. [\> Bekijk training](/blog/ondernemen/blog-beginnen-starten-stappenplan/)
 
 ![](/images/migrated/training-de-moderne-nomaden.webp "training-de-moderne-nomaden")

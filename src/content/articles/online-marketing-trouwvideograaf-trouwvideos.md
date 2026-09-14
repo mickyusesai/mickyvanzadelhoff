@@ -1,6 +1,6 @@
 ---
 title: "Online marketing voor de trouwvideograaf – Volg deze stappen"
-description: ""
+description: "Online marketing voor de trouwvideograaf: de stappen om als videograaf gevonden te worden en meer bruidsparen als klant te krijgen."
 date: 2018-01-04
 updated: 2021-01-30
 category: "ondernemen"
@@ -10,7 +10,7 @@ draft: false
 featuredImage: "/images/migrated/trouwvideo-promoten-op-internet.webp"
 ---
 
-### Voor een trouwvideograaf mocht ik een mooie online marketing opdracht doen. Hij filmde al jaren op evenementen maar wilde nu in het specifiek meer bruiloften gaan doen. Hiervoor moest hij natuurlijk wel meer aanvragen krijgen. Na een klein onderzoekje hebben we besloten dit via een Facebook advertentie te realiseren. Hier lees je precies hoe we de [social media campagne](https://demodernenomaden.nl/ondernemen/social-media-strategie/) hebben opgezet en hoe het lukte om in de eerste maand dat de campagne liep, 30 extra offerte aanvragen te krijgen via zijn website. Reclame maken als trouwvideograaf is makkelijker dan je denkt.
+### Voor een trouwvideograaf mocht ik een mooie online marketing opdracht doen. Hij filmde al jaren op evenementen maar wilde nu in het specifiek meer bruiloften gaan doen. Hiervoor moest hij natuurlijk wel meer aanvragen krijgen. Na een klein onderzoekje hebben we besloten dit via een Facebook advertentie te realiseren. Hier lees je precies hoe we de [social media campagne](/blog/ondernemen/social-media-strategie/) hebben opgezet en hoe het lukte om in de eerste maand dat de campagne liep, 30 extra offerte aanvragen te krijgen via zijn website. Reclame maken als trouwvideograaf is makkelijker dan je denkt.
 
 # Online marketing begint met een goede website
 
@@ -75,7 +75,7 @@ featuredImage: "/images/migrated/trouwvideo-promoten-op-internet.webp"
 
 [![](/images/migrated/offerte-aanvragen-trouwvideo.webp)](/images/migrated/offerte-aanvragen-trouwvideo.webp "offerte-aanvragen-trouwvideo")
 
-### De offerte aanvraag is gedaan en de trouwvideograaf kan de aanvraag op gaan volgen. Maar voordat het zover is hebben we nog één tussenstap ingezet. In deze campagne, ontvangt het bruidspaar direct na de aanvraag een mail ([e-mail marketing](https://demodernenomaden.nl/ondernemen/e-mail-marketing/)) met daarin ’10 tips voor een geweldige trouwvideo’. Op deze manier helpen we het bruidspaar alvast en dat wordt altijd gewaardeerd. Ook laten we zo zien dat we weten wat trouwvideografie in houdt.
+### De offerte aanvraag is gedaan en de trouwvideograaf kan de aanvraag op gaan volgen. Maar voordat het zover is hebben we nog één tussenstap ingezet. In deze campagne, ontvangt het bruidspaar direct na de aanvraag een mail ([e-mail marketing](/blog/ondernemen/e-mail-marketing/)) met daarin ’10 tips voor een geweldige trouwvideo’. Op deze manier helpen we het bruidspaar alvast en dat wordt altijd gewaardeerd. Ook laten we zo zien dat we weten wat trouwvideografie in houdt.
 
 # De resultaten van de campagne voor trouwvideo’s
 
@@ -94,7 +94,7 @@ featuredImage: "/images/migrated/trouwvideo-promoten-op-internet.webp"
 
 ### Hopelijk heb ik je duidelijk kunnen laten zien hoe ik met de trouwvideograaf te werk ben gegaan en hoe we dit resultaat hebben behaald.
 
-### Omdat ik het zelf zonde vind zo’n succesje gelijk weer weg te laten vagen, sta ik er zelf als online marketeer voor open dit ook bij enkele andere trouwvideografen op te zetten. Ben jij zelf een trouwvideograaf en wil je ook professionele hulp bij het verkrijgen van aanvragen, dan hoor ik graag van je. Je kunt me gemakkelijk mailen via info@demodernenomaden.nl, berichten met een Whatsappje (+31 6 81081589) of [contacten via de contactpagina](/contact).
+### Omdat ik het zelf zonde vind zo’n succesje gelijk weer weg te laten vagen, sta ik er zelf als online marketeer voor open dit ook bij enkele andere trouwvideografen op te zetten. Ben jij zelf een trouwvideograaf en wil je ook professionele hulp bij het verkrijgen van aanvragen, dan hoor ik graag van je. Je kunt me gemakkelijk mailen via mickyvz@live.nl, berichten met een Whatsappje (+31 6 81081589) of [contacten via de contactpagina](/contact).
 
 ![Mick van Zadelhoff](/images/migrated/mick-van-zadelhoff-geld-verdienen-met-bloggen.webp "mick-van-zadelhoff-geld-verdienen-met-bloggen")
 

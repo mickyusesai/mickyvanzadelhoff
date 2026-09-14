@@ -1,6 +1,6 @@
 ---
 title: "Wat is content marketing? + Succesvolle voorbeelden"
-description: ""
+description: "Laten we het begrip dus even ontleden in content én marketing. Content kan een webtekst, artikel, infographic, video, vlog, casestudy, blog, e-book…"
 date: 2019-11-13
 updated: 2023-01-27
 category: "ondernemen"
@@ -12,7 +12,7 @@ featuredImage: "/images/migrated/content-marketing.webp"
 
 **Wat is content marketing?** Het lijkt zo’n simpele vraag maar een antwoord laat zich niet volledig eenzijdig geven. Dat eerste woord, content, is namelijk een verzamel begrip. Marketing ook trouwens. Zelf heb ik het met content marketing voor elkaar gekregen om op deze website maandelijks 50.000 bezoekers te trekken. Iedere maand opnieuw en daar hoef ik niets voor te betalen. Om nog maar niet te spreken over de omzet die al die mensen opleveren. In dit artikel bespreek ik wat content marketing is en hoe jij dit succesvol toepast.
 
-[**Content marketing uitbesteden? Vind hier professionele bloggers die voor jou kunnen schrijven. >>**](https://demodernenomaden.nl/go/fiverr-blogger)
+[**Content marketing uitbesteden? Vind hier professionele bloggers die voor jou kunnen schrijven. >>**](/go/fiverr-blogger)
 
 ## Wat is content marketing?
 
@@ -22,7 +22,7 @@ Voor als je dacht dat content marketing altijd in de vorm van een blog artikel n
 
 ![](/images/migrated/soorten-content.webp "soorten-content")
 
-In de praktijk komt content marketing neer op een [blog op iemands website](https://demodernenomaden.nl/bloggen-content-creatie/) of een Youtube kanaal vol instructie video’s. Het gaat in bijna alle gevallen om gratis toegankelijke content zodat het zoveel mogelijk mensen bereikt. Het doel is om **door het geven van de gratis content** de potentiële klant te helpen, te adviseren en te binden.
+In de praktijk komt content marketing neer op een blog op iemands website of een Youtube kanaal vol instructie video’s. Het gaat in bijna alle gevallen om gratis toegankelijke content zodat het zoveel mogelijk mensen bereikt. Het doel is om **door het geven van de gratis content** de potentiële klant te helpen, te adviseren en te binden.
 
 ## Content marketing voorbeeld
 
@@ -44,7 +44,7 @@ Duur: 3 uur
 Investering: 950,- ex BTW  
 Formaat: Tot 30 deelnemers
 
-[Contact voor meer info](https://demodernenomaden.nl/contact)
+[Contact voor meer info](/contact/)
 
 ## Voor wie is content marketing (niet) interessant?
 
@@ -68,7 +68,7 @@ Een bedrijf dat geboortekaartjes verkoopt maakt een persbericht over de meest vo
 
 ## Vergeet de call-to-action niet
 
-Afhankelijk van jouw business kun je kijken welke content marketing strategie het beste aansluit. Als je zelf wilt starten met content marketing is het belangrijk dat je de ‘**Return On Investment**’ daarin meeneemt. Als ik zelf terug kijk naar hoe ik begon met content marketing zag ik namelijk wel dat ik heel [veel website bezoekers](https://demodernenomaden.nl/ondernemen/meer-website-bezoekers/) kreeg, alleen kwam daar geen enkele klant uit. Ik heb toen mogen leren dat, hoeveel je ook gratis weggeeft, je er goed aan doet mensen actief te vragen of je ze verder kunt helpen.
+Afhankelijk van jouw business kun je kijken welke content marketing strategie het beste aansluit. Als je zelf wilt starten met content marketing is het belangrijk dat je de ‘**Return On Investment**’ daarin meeneemt. Als ik zelf terug kijk naar hoe ik begon met content marketing zag ik namelijk wel dat ik heel [veel website bezoekers](/blog/ondernemen/meer-website-bezoekers/) kreeg, alleen kwam daar geen enkele klant uit. Ik heb toen mogen leren dat, hoeveel je ook gratis weggeeft, je er goed aan doet mensen actief te vragen of je ze verder kunt helpen.
 
 Dit doe je door call-to-actions te plaatsen. Dat kan door te vragen of iemand meer informatie wilt, zich wilt inschrijven op je mailinglijst of door deze persoon direct door te verwijzen naar je verkooppagina. Zorg er in ieder geval altijd voor dat er rondom je content een vervolgstap is. Dat leidt vanzelfsprekend tot een hoger rendement.
 
@@ -80,7 +80,7 @@ Buiten dat content marketing gratis of relatief goedkoop is ten opzicht van adve
 
 Nu je een duidelijk beeld hebt van wat content marketing inhoud kun je aan de slag. Mocht je het nou zelf niets vinden om je daar mee bezig te houden dan kun je jouw content marketing ook uitbesteden.
 
-Vind bloggers en andere content markteers via een [platform als Fiverr](https://demodernenomaden.nl/go/fiverr-blogger)!
+Vind bloggers en andere content markteers via een [platform als Fiverr](/go/fiverr-blogger)!
 
 ![training-ai-kunstmatige-intelligentie-in-company](/images/migrated/training-ai-kunstmatige-intelligentie-in-company-2.webp "training-ai-kunstmatige-intelligentie-in-company")
 
@@ -92,4 +92,4 @@ Duur: 3 uur
 Investering: 950,- ex BTW  
 Formaat: Tot 30 deelnemers
 
-[Contact voor meer info](https://demodernenomaden.nl/contact)
+[Contact voor meer info](/contact/)

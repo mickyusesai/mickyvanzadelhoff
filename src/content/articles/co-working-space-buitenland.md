@@ -1,6 +1,6 @@
 ---
 title: "Op zoek naar een co working space in het buitenland"
-description: ""
+description: "Voor digital nomads is het hebben van een fijne werkplaats van groot belang. Wat voor werk je ook op afstand doet, de kans is groot dat er ook genoeg…"
 date: 2024-10-31
 updated: 2024-10-31
 category: "digitalenomaden"
@@ -18,7 +18,7 @@ Er zijn veel plekken op de wereld die zeer geliefd zijn bij digital nomads. Zo z
 
 ## Wat heb je nodig?
 
-Locaties die geliefd zijn bij [digital nomads](https://demodernenomaden.nl/digitalenomaden/digital-nomad-worden/), worden ook steeds beter ingericht op de komst van digital nomads. Zo komen er steeds meer co working spaces beschikbaar of worden er in koffietentjes aparte hoekjes ingericht om te kunnen werken. Wat je zelf de fijnste locatie vindt om te werken, is afhankelijk van wat je nodig hebt voor je werk. Hierbij is natuurlijk een snelle en stabiele internetverbinding van belang, maar kijk ook of er bijvoorbeeld stilte of vergaderruimtes zijn voor als je een call hebt of in alle rust je administratie moet doen. Kijk daarnaast ook goed naar de locatie van de co working space. Een werkplek in een levendige wijk met veel restaurantjes en koffietentjes om in je pauze op pad te gaan met je [ICS Cards](https://www.icscards.nl/) en jezelf even te kunnen trakteren is wel zo leuk. Ook een goede ov-verbinding om de locatie te bereiken is wel fijn, of kies juist een werkplek op loopafstand van je verblijf.
+Locaties die geliefd zijn bij [digital nomads](/blog/digitalenomaden/digital-nomad-worden/), worden ook steeds beter ingericht op de komst van digital nomads. Zo komen er steeds meer co working spaces beschikbaar of worden er in koffietentjes aparte hoekjes ingericht om te kunnen werken. Wat je zelf de fijnste locatie vindt om te werken, is afhankelijk van wat je nodig hebt voor je werk. Hierbij is natuurlijk een snelle en stabiele internetverbinding van belang, maar kijk ook of er bijvoorbeeld stilte of vergaderruimtes zijn voor als je een call hebt of in alle rust je administratie moet doen. Kijk daarnaast ook goed naar de locatie van de co working space. Een werkplek in een levendige wijk met veel restaurantjes en koffietentjes om in je pauze op pad te gaan met je [ICS Cards](https://www.icscards.nl/) en jezelf even te kunnen trakteren is wel zo leuk. Ook een goede ov-verbinding om de locatie te bereiken is wel fijn, of kies juist een werkplek op loopafstand van je verblijf.
 
 ### Waar vind je co working spaces?
 
@@ -30,6 +30,6 @@ Er zijn online veel verschillende sites en platforms te vinden waar je een mooi 
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

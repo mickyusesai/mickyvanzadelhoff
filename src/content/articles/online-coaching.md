@@ -1,6 +1,6 @@
 ---
 title: "Online coach worden in 4 stappen – Start jouw coaching business"
-description: ""
+description: "Is 2023 het jaar dat jij jouw eigen online coaching business gaat opzetten? Dan zit je hier goed! Wie online coach wil worden moet het een en ander…"
 date: 2018-04-22
 updated: 2022-12-19
 category: "online-geld-verdienen"
@@ -51,7 +51,7 @@ Stel bijvoorbeeld dat je zelf in je leven altijd moeite had om dingen positief t
 
 Wanneer je persoonlijke ervaring hebt als online coach **is het makkelijker om je dienst aan anderen aan te bieden**. Jij bent zelf dan namelijk het levende resultaat van wat je aanbiedt. Dat maakt het eenvoudiger om een e-coaching business op te zetten.
 
-Het is daarom dat ik zelf wel eens gevraagd wordt **om iemand te coachen in [het opbouwen van online inkomen](https://demodernenomaden.nl/online-geld-verdienen/online-geld-verdienen/)**. Mensen verwachten vanwege mijn ervaring dat ik hen daarmee kan helpen. Eigenlijk zeg ik hier altijd beleefd ‘nee’ tegen, tenzij het is op [onze jaarlijkse workation/training in Italië](https://demodernenomaden.nl/workation/).
+Het is daarom dat ik zelf wel eens gevraagd wordt **om iemand te coachen in [het opbouwen van online inkomen](/blog/online-geld-verdienen/online-geld-verdienen/)**. Mensen verwachten vanwege mijn ervaring dat ik hen daarmee kan helpen. Eigenlijk zeg ik hier altijd beleefd ‘nee’ tegen, tenzij het is op [onze jaarlijkse workation/training in Italië](/blog/ondernemen/workations-ondernemersreizen/).
 
 Goed voor jou om te weten is dus dat ik zelf niet actief ben als online coach, maar je in dit artikel wel wat tips kan geven om aan klanten te komen ;).
 
@@ -61,7 +61,7 @@ Goed voor jou om te weten is dus dat ik zelf niet actief ben als online coach, m
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
 
@@ -69,7 +69,7 @@ Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige
 
 Zeker is in ieder geval dat je je bij online coaching het beste kunt richten op een specifiek onderwerp. Zeg dus zeker niet dat je **life coach of business coach** bent. Dat is veel te algemeen.
 
-Om klanten te krijgen doe je er juist goed aan om duidelijk te maken dat je de expert bent op één specifiek vlak. Je doelgroep wordt daardoor kleiner, maar voelt zich meer aangesproken. Die kleine doelgroep noemen we [de niche](https://demodernenomaden.nl/ondernemen/blog-niches/) ;).
+Om klanten te krijgen doe je er juist goed aan om duidelijk te maken dat je de expert bent op één specifiek vlak. Je doelgroep wordt daardoor kleiner, maar voelt zich meer aangesproken. Die kleine doelgroep noemen we [de niche](/blog/ondernemen/blog-niches/) ;).
 
 Voel maar eens hoe dit verschil klinkt:  
 “Ik ben lifecoach”  
@@ -77,7 +77,7 @@ Voel maar eens hoe dit verschil klinkt:
 
 Die laatste is **super specifiek**, maar wel duidelijk. De persoon in kwestie weet direct dat het over haar gaat en dat deze coaching daarop aansluit. Het feit is dat je zelf toch geen tijd hebt om de hele wereld te coachen, dus dat een kleine doelgroep **geen enkel probleem is**.
 
-Kies dus jouw niche, voordat je jezelf [promoot als online coach](https://demodernenomaden.nl/go/bedrijvenconsultant). Ben je nog inspiratie aan het opdoen? Kijk dan eens in het onderstaande lijstje van coaching niches.
+Kies dus jouw niche, voordat je jezelf [promoot als online coach](/go/bedrijvenconsultant). Ben je nog inspiratie aan het opdoen? Kijk dan eens in het onderstaande lijstje van coaching niches.
 
 *   Geld en mindset
     
@@ -121,7 +121,7 @@ Je kunt dus eigenlijk overal in coachen, zolang je maar specifiek bent.
 
 ## Stap 2: Jezelf profileren als coach
 
-Maak om te beginnen een website. Zorg dat daarop duidelijk is wat jouw niche is en hoe mensen jou kunnen benaderen. Als je wilt weten hoe je dit ’technisch’ moet doen, dan kun je mijn eigen [gratis blog/website video’s volgen](https://demodernenomaden.nl/gratis/), dan beloof ik je dat jouw website vandaag nog online staat!
+Maak om te beginnen een website. Zorg dat daarop duidelijk is wat jouw niche is en hoe mensen jou kunnen benaderen. Als je wilt weten hoe je dit ’technisch’ moet doen, dan kun je mijn eigen [gratis blog/website video’s volgen](/blog/ondernemen/blog-beginnen-starten-stappenplan/), dan beloof ik je dat jouw website vandaag nog online staat!
 
 Zorg dat je webteksten altijd zijn geschreven in het ‘probleem’ en ‘gewenste scenario’. Daarmee bedoel ik dat je duidelijk maakt **wat het probleem is** van de mensen die jij gaat coachen zodat zij zich daarin kunnen herkennen. Vervolgens leg je uit **welk resultaat iemand van jouw coaching mag verwachten.** Ik kwam zelf dit perfecte voorbeeld tegen voor stress coaching.
 
@@ -137,7 +137,7 @@ Hier worden al direct aan het begin van de website de dingen benoemt **waar iema
 
 Voel je wat er gebeurt als coaching je zo wordt voorgeschoteld? **Iemand die zich in de problemen herkent, zal zich ook in het resultaat kunnen herkennen.** Communiceer jouw coaching op deze manier en ik weet zeker dat het de juiste mensen aanspreekt.
 
-Voor als je wat meer inspiratie wilt met betrekking tot hoe je goede teksten schrijft heb ik [hier een artikel over het schrijven van goede webteksten](https://demodernenomaden.nl/ondernemen/webteksten-schrijven/).
+Voor als je wat meer inspiratie wilt met betrekking tot hoe je goede teksten schrijft heb ik [hier een artikel over het schrijven van goede webteksten](/blog/ondernemen/webteksten-schrijven/).
 
 ### Prijzen vaststellen online coaching
 
@@ -149,7 +149,7 @@ Probeer ook zeker om jouw coaching niet alleen in losse sessies, maar **als coac
 
 ## Stap 3: Jezelf promoten als online coach
 
-Wanneer je website staat ben je zichtbaar voor jouw klanten. Het is jouw online visitekaartje en waarschijnlijk ook een manier om met jou in contact te komen. Je zou vervolgens jouw coaching activiteiten kunnen promoten via één van de vele coaching platforms, met [social media strategieën](https://demodernenomaden.nl/ondernemen/social-media-strategie/) of via [acquisitie mails](https://demodernenomaden.nl/ondernemen/acquisitie-mail-voorbeeld1/).
+Wanneer je website staat ben je zichtbaar voor jouw klanten. Het is jouw online visitekaartje en waarschijnlijk ook een manier om met jou in contact te komen. Je zou vervolgens jouw coaching activiteiten kunnen promoten via één van de vele coaching platforms, met [social media strategieën](/blog/ondernemen/social-media-strategie/) of via [acquisitie mails](/blog/ondernemen/acquisitie-mail-voorbeeld1/).
 
 ### Coaching platforms Nederland
 
@@ -186,7 +186,7 @@ Direct jouw coaching aanbieden op social media is dus niet zo’n goed idee. Men
 
 ![Huis opruimen coach e-book](/images/migrated/huis-opruimen-coach-e-book-1.webp "Huis opruimen coach e-book")
 
-Mensen die de advertentie zien kunnen deze dan **gratis downloaden in ruil voor hun e-mail adres**. Door het lezen van het e-book leren ze jou kennen als coach en kun je jouw meerwaarde duidelijk maken. Wil je weten hoe je zo’n e-book maakt als weggever? Bekijk dan [dit stappenplan](https://demodernenomaden.nl/online-geld-verdienen/e-book/).
+Mensen die de advertentie zien kunnen deze dan **gratis downloaden in ruil voor hun e-mail adres**. Door het lezen van het e-book leren ze jou kennen als coach en kun je jouw meerwaarde duidelijk maken. Wil je weten hoe je zo’n e-book maakt als weggever? Bekijk dan [dit stappenplan](/blog/online-geld-verdienen/e-book/).
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -194,19 +194,19 @@ Mensen die de advertentie zien kunnen deze dan **gratis downloaden in ruil voor 
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
 
 ### Promoot jezelf via via
 
-Je hoeft niet altijd [online marketing expert](https://demodernenomaden.nl/online-geld-verdienen/online-marketing/) te zijn om aan klanten te komen. Soms vind je deze letterlijk om je heen. Maak kenbaar aan vrienden en familie wat jij als online coach kan betekenen. In veel gevallen helpt het daarbij om jouw coaching **eerst gratis aan te bieden** zodat je in ieder geval met de juiste mensen in contact komt.
+Je hoeft niet altijd [online marketing expert](/blog/online-geld-verdienen/online-marketing/) te zijn om aan klanten te komen. Soms vind je deze letterlijk om je heen. Maak kenbaar aan vrienden en familie wat jij als online coach kan betekenen. In veel gevallen helpt het daarbij om jouw coaching **eerst gratis aan te bieden** zodat je in ieder geval met de juiste mensen in contact komt.
 
 En mocht je lokaal nog meer aan de slag willen, dan is het niet eens zo’n gek idee om gewoon **een flyer te ontwerpen** en deze bij zaken in de buurt neer te leggen. Promotie hoeft niet altijd super ingewikkeld te zijn ;).
 
 ### Content marketing inzetten
 
-Meer geavanceerd, maar iets wat ik zelf altijd gebruik voor promotie is [content marketing](https://demodernenomaden.nl/ondernemen/content-marketing/). Denk hierbij aan het starten van een eigen Youtube kanaal of blog waar je video’s/blogs maakt met tips geeft gerelateerd aan jouw coaching. Vaak helpt dit om mensen **via een zoekmachine bij jou terecht te laten komen** en op deze manier kennis te maken.
+Meer geavanceerd, maar iets wat ik zelf altijd gebruik voor promotie is [content marketing](/blog/ondernemen/content-marketing/). Denk hierbij aan het starten van een eigen Youtube kanaal of blog waar je video’s/blogs maakt met tips geeft gerelateerd aan jouw coaching. Vaak helpt dit om mensen **via een zoekmachine bij jou terecht te laten komen** en op deze manier kennis te maken.
 
 ![Coaching opruimen youtube video](/images/migrated/coaching-opruimen-youtube-video-1.webp "Coaching opruimen youtube video")
 
@@ -218,15 +218,15 @@ Mocht jouw coaching in de **Business-2-Business** sector vallen, dan kun je ook 
 
 Dit soort mails werken vooral goed **als het probleem dat jij oplost heel duidelijk is**. Stel bijvoorbeeld dat het gaat om het coachen van managers, dan zou het probleem dat je oplost kunnen gaan over een lage productiviteit op de werkvloer.
 
-Een goede acquisitie mail beschrijft dat probleem, de consequenties en hoe jij deze oplost. [Vind hier een uitgebreide beschrijving van hoe je een goed werkende acquisitie mail schrijft](https://demodernenomaden.nl/ondernemen/acquisitie-mail-voorbeeld1/).
+Een goede acquisitie mail beschrijft dat probleem, de consequenties en hoe jij deze oplost. [Vind hier een uitgebreide beschrijving van hoe je een goed werkende acquisitie mail schrijft](/blog/ondernemen/acquisitie-mail-voorbeeld1/).
 
 ## Stap 4: Extra verdiensten als coach
 
 Als je coacht zit je snel aan een max. Je hebt immers **je eigen tijd te gebruiken** om iemand met online coaching verder te helpen. Als jouw agenda vol zit, kun je dus niet meer verdienen. Daarom zie je dat veel online coaches meerdere inkomstenbronnen hebben.
 
-Om meer [online geld te verdienen](https://demodernenomaden.nl/online-geld-verdienen/online-geld-verdienen/) als coach is het van belang om je vak **op meerdere manieren te beoefenen**. Denk er bijvoorbeeld aan om de coaching aan te vullen met [een eigen online cursus](https://demodernenomaden.nl/online-geld-verdienen/videotraining/). Zo kun je jouw klanten op meerdere manieren helpen en ook klanten aanspreken die coaching maar niks vinden, maar wel met hun probleem aan de slag willen.
+Om meer [online geld te verdienen](/blog/online-geld-verdienen/online-geld-verdienen/) als coach is het van belang om je vak **op meerdere manieren te beoefenen**. Denk er bijvoorbeeld aan om de coaching aan te vullen met [een eigen online cursus](/blog/online-geld-verdienen/videotraining/). Zo kun je jouw klanten op meerdere manieren helpen en ook klanten aanspreken die coaching maar niks vinden, maar wel met hun probleem aan de slag willen.
 
-Dit geeft je **meerdere inkomensbronnen** en geeft je tevens een beetje [passief inkomen](https://demodernenomaden.nl/online-geld-verdienen/passief-inkomen-genereren/). Zie ook de [online coaching](https://shop.fit.nl/online-coaching) van FIT.nl die naast 1-op-1 begeleiding ook supplementen, boeken en een app aanbieden. Spreid je winkansen ;).
+Dit geeft je **meerdere inkomensbronnen** en geeft je tevens een beetje [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/). Zie ook de [online coaching](https://shop.fit.nl/online-coaching) van FIT.nl die naast 1-op-1 begeleiding ook supplementen, boeken en een app aanbieden. Spreid je winkansen ;).
 
 ## Conclusie online coaching opzetten
 
@@ -242,6 +242,6 @@ De basis voor succes is dat jouw online coaching zichtbaar is met een website en
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

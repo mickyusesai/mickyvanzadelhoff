@@ -1,6 +1,6 @@
 ---
 title: "Een lange afstandsrelatie in het buitenland"
-description: ""
+description: "De wereld over reizen en werken als digital nomad, voor veel mensen zou een relatie daar niet tussen passen. Maar, zoals je weet, sommige dingen kunnen…"
 date: 2018-01-24
 updated: 2021-01-30
 category: "tips"
@@ -10,7 +10,7 @@ draft: false
 featuredImage: "/images/migrated/lange-afstand-relatie-wereld.webp"
 ---
 
-De wereld over [reizen en werken](https://demodernenomaden.nl/digitalenomaden/reizen-en-werken-combineren/) als digital nomad, voor veel mensen zou een relatie daar niet tussen passen. Maar, zoals je weet, sommige dingen kunnen gebeuren, die dingen heb je namelijk niet volledig zelf in de hand. Dingen als een ware liefde, die plots op je pad komt bijvoorbeeld. Sinds juli 2017 heb ik namelijk een vriendin en het is niet ongewoon als er soms een afstand van 11.000 kilometer tussen ons zit. Zij is namelijk Slowaaks, en studeert in Tsjechië. Ik ben Nederlands en reis als [digital nomad](https://demodernenomaden.nl/digitalenomaden/digitale-nomaden/) de wereld over. Een lange afstandsrelatie in het buitenland dus. Gelukkig houden we allebei van een uitdaging, maar hoe zoiets nou werkt, lees je hieronder. :)
+De wereld over [reizen en werken](/blog/digitalenomaden/reizen-en-werken-combineren/) als digital nomad, voor veel mensen zou een relatie daar niet tussen passen. Maar, zoals je weet, sommige dingen kunnen gebeuren, die dingen heb je namelijk niet volledig zelf in de hand. Dingen als een ware liefde, die plots op je pad komt bijvoorbeeld. Sinds juli 2017 heb ik namelijk een vriendin en het is niet ongewoon als er soms een afstand van 11.000 kilometer tussen ons zit. Zij is namelijk Slowaaks, en studeert in Tsjechië. Ik ben Nederlands en reis als [digital nomad](/blog/digitalenomaden/digital-nomad-worden/) de wereld over. Een lange afstandsrelatie in het buitenland dus. Gelukkig houden we allebei van een uitdaging, maar hoe zoiets nou werkt, lees je hieronder. :)
 
 ## Lange afstandsrelatie in het buitenland
 
@@ -20,7 +20,7 @@ Richting het einde van de week, je kent het wel op zo’n avond met een paar dra
 
 ## Elkaar weinig zien in een lange afstandsrelatie
 
-Omdat dit geen roman is, maar een blog vertel ik je globaal hoe we daarna vorm hebben gegeven aan onze relatie. Eens in de zoveel tijd zien we elkaar nu, laten we zeggen 1x per 2 maanden. Dat lijkt weinig, maar als we elkaar zien is het wel vaak gelijk voor een week, en nemen we echt de tijd voor elkaar. Klinkt ook wel grappig: ‘Ik heb mijn vriendin nog maar 5x gezien’. De reden dat het voor ons werkt is omdat we primair gezien hetzelfde in het leven staan. We zijn beiden avontuurlijk, houden van reizen, en zetten onze [persoonlijke groei](https://demodernenomaden.nl/tips/spirituele-groei-en-inzicht/) voorop. Omdat we allebei avontuurlijk en gedreven zijn, hebben we elkaar steeds weer veel te vertellen.
+Omdat dit geen roman is, maar een blog vertel ik je globaal hoe we daarna vorm hebben gegeven aan onze relatie. Eens in de zoveel tijd zien we elkaar nu, laten we zeggen 1x per 2 maanden. Dat lijkt weinig, maar als we elkaar zien is het wel vaak gelijk voor een week, en nemen we echt de tijd voor elkaar. Klinkt ook wel grappig: ‘Ik heb mijn vriendin nog maar 5x gezien’. De reden dat het voor ons werkt is omdat we primair gezien hetzelfde in het leven staan. We zijn beiden avontuurlijk, houden van reizen, en zetten onze [persoonlijke groei](/blog/tips/spirituele-groei-en-inzicht/) voorop. Omdat we allebei avontuurlijk en gedreven zijn, hebben we elkaar steeds weer veel te vertellen.
 
 ## Contact houden vanuit het buitenland
 

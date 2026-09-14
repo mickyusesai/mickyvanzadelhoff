@@ -1,6 +1,6 @@
 ---
 title: "Webshop beginnen in 2023 – Het ultieme stappenplan"
-description: ""
+description: "Wil jij jouw eigen webshop beginnen? Dan ben je hier aan het goede adres!"
 date: 2019-06-04
 updated: 2023-01-03
 category: "online-geld-verdienen"
@@ -18,7 +18,7 @@ Veel mensen die een webshop beginnen geven dit binnen één jaar alweer op. Daar
 
 We gaan aan de slag met het **opzetten van jouw webshop** (**binnen 30 minuten**) en bespreken hoe je deze het beste kunt promoten. We doorlopen het ultieme stappenplan!
 
-[**Wil je jouw webshop door iemand anders laten bouwen? Dat kan. Vind op Fiverr een betaalbare professional om mee samen te werken. >>**](https://demodernenomaden.nl/go/fiverr-webshop-bouwer)
+[**Wil je jouw webshop door iemand anders laten bouwen? Dat kan. Vind op Fiverr een betaalbare professional om mee samen te werken. >>**](/go/fiverr-webshop-bouwer)
 
 ## Dit heb je nodig om jouw webshop te starten
 
@@ -28,7 +28,7 @@ Iedereen kan vanachter zijn laptop tegenwoordig een winkel beginnen en **online 
 
 De drie dingen die je nodig hebt om jouw eigen webshop te starten zijn:
 
-1.  **Een domeinnaam (de URL, zoals [demodernenomaden.nl](https://demodernenomaden.nl))**
+1.  **Een domeinnaam (de URL, zoals [demodernenomaden.nl](/))**
 2.  **Een webhosting (het plekje van jouw webshop op het internet)**
 3.  **De wil om binnen 30 minuten jouw webshop te beginnen**
 
@@ -50,7 +50,7 @@ Om webshop platforms te begrijpen moet je eerst weten dat er in het algemeen twe
 
 Met deze eerste wordt bedoeld dat je jouw webshop maakt met een platform dat daar specifiek en alleen voor bedoelt is. Als je direct wilt beginnen met verkopen dan lijkt dit de meest simpele manier om een webshop te starten.
 
-Enkele partijen die dit aanbieden zijn [Jouwweb](https://demodernenomaden.nl/go/jouwweb) en Shopify. Er is alleen **één groot nadeel aan deze volledig hosted webshop software aanbieders**… Ze zijn hartstikke duur. En als je een beetje op mij lijkt, wil je jouw business niet beginnen met hoge vaste lasten.
+Enkele partijen die dit aanbieden zijn [Jouwweb](/go/jouwweb) en Shopify. Er is alleen **één groot nadeel aan deze volledig hosted webshop software aanbieders**… Ze zijn hartstikke duur. En als je een beetje op mij lijkt, wil je jouw business niet beginnen met hoge vaste lasten.
 
 Het voorbeeld Shopify bijvoorbeeld, dat kost je minimaal zo’n €29,- per maand en daar komen nog allemaal extra kosten bij wanneer je bepaalde betaalopties (zoals Ideal) wilt gebruiken. **Niet zo handig dus**.
 
@@ -66,7 +66,7 @@ WordPress is een open source CMS (content management system) en wordt gebruikt d
 
 Om jouw eigen webshop te beginnen zullen we daarom eerst **een domeinnaam en webhosting** moeten registreren.
 
-In dit geval gaan we dat doen met [Siteground](https://demodernenomaden.nl/go/siteground-woocommerce). Dat is de webhosting van mijn eigen website en tal van webshops op het internet. Het wordt mede **door Woocommerce en WordPress zelf aangeraden** om deze hosting te gebruiken.
+In dit geval gaan we dat doen met [Siteground](/go/siteground-woocommerce). Dat is de webhosting van mijn eigen website en tal van webshops op het internet. Het wordt mede **door Woocommerce en WordPress zelf aangeraden** om deze hosting te gebruiken.
 
 ![Woocommerce webshop beginnen](/images/migrated/woocommerce-webshop-beginnen.webp "woocommerce-webshop-beginnen")
 
@@ -83,21 +83,21 @@ In dit geval gaan we dat doen met [Siteground](https://demodernenomaden.nl/go/si
 
 Oké, het moge duidelijk zijn **waarom ik Siteground** graag aanraad. Je kunt jouw webshop daar beginnen voor slechts €5,99 per maand.
 
-[Start jouw webshop met Siteground](https://demodernenomaden.nl/go/siteground-woocommerce)
+[Start jouw webshop met Siteground](/go/siteground-woocommerce)
 
 Laten we **jouw domeinnaam en webshop hosting gaan registreren**.
 
-[Open Siteground](https://demodernenomaden.nl/go/siteground-woocommerce) in een nieuw tabblad met **[deze link](https://demodernenomaden.nl/go/siteground-woocommerce)** en doorloop de stappen met mij mee.
+[Open Siteground](/go/siteground-woocommerce) in een nieuw tabblad met **[deze link](/go/siteground-woocommerce)** en doorloop de stappen met mij mee.
 
 ![Prijzen hosting Siteground](/images/migrated/prijzen-hosting.webp "prijzen-hosting")
 
-Allereerst zal je **[een pakket moeten kiezen bij Siteground](https://demodernenomaden.nl/go/siteground-woocommerce)**. Afhankelijk van wat je van plan bent kan dit verschillen, maar neem van mij aan dat als je jouw webshop net begint het ‘**StartUp**‘ pakket prima is.
+Allereerst zal je **[een pakket moeten kiezen bij Siteground](/go/siteground-woocommerce)**. Afhankelijk van wat je van plan bent kan dit verschillen, maar neem van mij aan dat als je jouw webshop net begint het ‘**StartUp**‘ pakket prima is.
 
 Later van pakket switchen kan altijd nog. Klik op ‘**get plan**‘ en ga door naar de volgende stap.
 
 ![Webshop Domeinnaam Registreren](/images/migrated/webshop-domeinnaam-registreren.webp "webshop-domeinnaam-registreren")
 
-Voer hier de domeinnaam van jouw nieuwe webshop in. Wellicht heb je er al een, anders kun je die [**via Siteground registreren**](https://demodernenomaden.nl/go/domain-siteground).
+Voer hier de domeinnaam van jouw nieuwe webshop in. Wellicht heb je er al een, anders kun je die [**via Siteground registreren**](/go/domain-siteground).
 
 Kijk ook goed of het gedeelte achter jouw domeinnaam is hoe deze moet zijn. In het algemeen zal daar waarschijnlijk **.com** staan. Een Nederlandse webshop kan echter beter **.nl** hebben.
 
@@ -275,7 +275,7 @@ Omdat er veel webshops zijn, is het belangrijk om jezelf te onderscheiden van de
 
 Mijn advies; **concurreer niet op prijs, maar maak jezelf op een andere manier onderscheidend**.
 
-In de marketing wordt onderscheidend vermogen vertaald in ‘[**unique selling points**](https://demodernenomaden.nl/ondernemen/usp-voorbeelden-unique-selling-point/)’. Dat zijn de redenen waarom iemand bij jou zou kopen in plaats van bij iemand anders.
+In de marketing wordt onderscheidend vermogen vertaald in ‘[**unique selling points**](/blog/ondernemen/usp-voorbeelden-unique-selling-point/)’. Dat zijn de redenen waarom iemand bij jou zou kopen in plaats van bij iemand anders.
 
 Dat kunnen dingen zijn als levertijd, kwaliteit, unieke product eigenschap, extra’s of een membership korting.
 
@@ -287,7 +287,7 @@ Een van de grootste bezoekersstromen richting jouw webshop zal waarschijnlijk vi
 
 **Van de 50.000 bezoekers per maand op mijn eigen website komt 90% via Google**. Om hoog in Google te komen moet je aandacht besteden aan de SEO op jouw website. SEO is een afkorting van Search Engine Optimalisation en doelt erop jouw webshop zo in te richten dat Google weet of die ernaar moet verwijzen in de zoekresultaten.
 
-Zonder SEO zal je geen (of heel weinig) bezoekers trekken via Google. Om je een beetje uit te leggen hoe dat allemaal in zijn werk gaat kun je het beste [dit artikel](https://demodernenomaden.nl/ondernemen/meer-website-bezoekers/) van mij lezen.
+Zonder SEO zal je geen (of heel weinig) bezoekers trekken via Google. Om je een beetje uit te leggen hoe dat allemaal in zijn werk gaat kun je het beste [dit artikel](/blog/ondernemen/meer-website-bezoekers/) van mij lezen.
 
 **Hoe meer bezoekers er op jouw webshop komen, hoe meer mensen je iets kunt verkopen**.
 
@@ -303,7 +303,7 @@ Een andere manier om betrouwbaarheid te creëren is met reviews. Maak een Google
 
 **Tot zover deze tutorial over het beginnen van een webshop. Hopelijk staat jouw webshop nu goed online en kun je aan de slag met het verkopen van producten. Super veel succes!**
 
-**[Wil je het bouwen van een webshop liever uitbesteden? Dan kan eenvoudig met een professional op Fiverr! >>](https://demodernenomaden.nl/go/fiverr-webshop-bouwer)**
+**[Wil je het bouwen van een webshop liever uitbesteden? Dan kan eenvoudig met een professional op Fiverr! >>](/go/fiverr-webshop-bouwer)**
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -311,6 +311,6 @@ Een andere manier om betrouwbaarheid te creëren is met reviews. Maak een Google
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

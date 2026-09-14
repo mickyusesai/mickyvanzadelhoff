@@ -1,6 +1,6 @@
 ---
 title: "Cardano (ADA) kopen met iDEAL en Bancontact in 2024 – Stappenplan"
-description: ""
+description: "Terwijl we door 2024 navigeren, blijft de fascinerende wereld van cryptocurrency zich ontwikkelen, waarbij nieuwe en innovatieve platforms de aandacht…"
 date: 2024-01-18
 updated: 2024-01-18
 category: "web3"

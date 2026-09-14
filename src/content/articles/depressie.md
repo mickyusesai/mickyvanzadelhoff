@@ -1,6 +1,6 @@
 ---
 title: "Wat nou als ik mij klote voel? – Open over mijn depressie"
-description: ""
+description: "Maar eerlijk is eerlijk. Er gebeurde iets wat ik nog nooit had ervaren."
 date: 2018-06-11
 updated: 2019-10-06
 category: "tips"
@@ -20,7 +20,7 @@ Maar **eerlijk is eerlijk**. Er gebeurde iets wat ik nog nooit had ervaren.
 
 Want iets voelde heel raar toen dit allemaal opkwam. Ik leefde precies het leven waarvan ik zelf dacht dat het super mooi was. Ik kon mijn paniekaanvallen, huilbuien, angstgevoelens en negatieve gedachten dan ook niet plaatsen. Steeds wanneer ik me slecht voelde relativeerde ik voor mijzelf de situatie, dat het allemaal ‘wel’ leuk was. En daar ging het waarschijnlijk fout.
 
-> Ik had een utopie van een [digitale nomaden bestaan](https://demodernenomaden.nl/digitalenomaden/digitale-nomaden/) voor mezelf gecreëerd dat alleen maar over rozen mocht gaan. Terwijl ook deze levensstijl een rauw randje kent.
+> Ik had een utopie van een [digitale nomaden bestaan](/blog/digitalenomaden/digital-nomad-worden/) voor mezelf gecreëerd dat alleen maar over rozen mocht gaan. Terwijl ook deze levensstijl een rauw randje kent.
 
 Behalve de mooie plaatjes is het namelijk ook een leven in **eenzaamheid en onzekerheid**. Maar mag ik dat rauwe randje wel aan de wereld laten zien? Kom ik niet super verwend over als ik zeg dat ik nog steeds niet gelukkig ben met alle vrijheden die ik heb?
 

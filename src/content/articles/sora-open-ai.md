@@ -1,6 +1,6 @@
 ---
 title: "Wat is Sora van OpenAI en wie kan het gebruiken?"
-description: ""
+description: "OpenAI heeft opnieuw voor opschudding gezorgd op het internet met een baanbrekende aankondiging van een nieuwe AI-technologie: Sora, een videogenerator…"
 date: 2024-02-17
 updated: 2024-02-17
 category: "ondernemen"
@@ -18,7 +18,7 @@ Dit is wat we tot nu toe weten over Sora, en waarom de lancering van deze videog
 
 ## Wat is Sora van OpenAI?
 
-Sora is een [AI-model](https://demodernenomaden.nl/ondernemen/ai-tools-lijst/) voor tekst-naar-video, ontwikkeld door de makers van ChatGPT, OpenAI. “Tekst-naar-video” betekent dat Sora tekstuele opdrachten omzet in korte videoclips. De serie video’s die OpenAI deze week heeft vrijgegeven, is werkelijk adembenemend.
+Sora is een [AI-model](/blog/ondernemen/ai-tools-lijst/) voor tekst-naar-video, ontwikkeld door de makers van ChatGPT, OpenAI. “Tekst-naar-video” betekent dat Sora tekstuele opdrachten omzet in korte videoclips. De serie video’s die OpenAI deze week heeft vrijgegeven, is werkelijk adembenemend.
 
 “Sora kan complexe scènes genereren met meerdere personages, specifieke bewegingstypes en nauwkeurige details over het onderwerp en de achtergrond,” legt OpenAI uit in een blogpost die deze week is gepubliceerd, waarin meer video’s werden vrijgegeven. “Het model begrijpt niet alleen wat de gebruiker vraagt in de opdracht, maar ook hoe die dingen in de fysieke wereld bestaan.”
 
@@ -32,7 +32,7 @@ Duur: 3 uur
 Investering: 950,- ex BTW  
 Formaat: Tot 30 deelnemers
 
-[Contact voor meer info](https://demodernenomaden.nl/contact)
+[Contact voor meer info](/contact/)
 
 ## Wie kan Sora gebruiken?
 
@@ -80,4 +80,4 @@ Duur: 3 uur
 Investering: 950,- ex BTW  
 Formaat: Tot 30 deelnemers
 
-[Contact voor meer info](https://demodernenomaden.nl/contact)
+[Contact voor meer info](/contact/)

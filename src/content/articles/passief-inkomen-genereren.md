@@ -1,6 +1,6 @@
 ---
 title: "Passief inkomen genereren – Alles over hoe je passief geld verdient"
-description: ""
+description: "Ook wanneer je niet al een paar miljoen euro op de bank hebt, kan je een passief inkomen opbouwen. Het gaat hier immers niet alleen om het investeren…"
 date: 2019-06-24
 updated: 2023-01-03
 category: "online-geld-verdienen"
@@ -26,7 +26,7 @@ Wanneer je direct geld krijgt voor werk wat je doet betreft het een actief inkom
 
 Voor een passief inkomen zit dat anders. Je levert geen inspanning op het moment dat je geld verdient. Feitelijk verdien je dus geld zonder er dan voor te werken. **Zo verdien je dus ook geld als je slaapt**!
 
-> “Zelf leef ik inmiddels 5 jaar als [digital nomad](https://demodernenomaden.nl/over-mij/). Dat wil zeggen dat ik werken en reizen combineer. **Ongeveer 8 maanden per jaar zit ik in het buitenland**. Op dit moment is 10% van mijn inkomen actief en 90% passief. Dat passieve inkomen groeit iedere maand weer verder.”
+> “Zelf leef ik inmiddels 5 jaar als [digital nomad](/over/). Dat wil zeggen dat ik werken en reizen combineer. **Ongeveer 8 maanden per jaar zit ik in het buitenland**. Op dit moment is 10% van mijn inkomen actief en 90% passief. Dat passieve inkomen groeit iedere maand weer verder.”
 
 ![](/images/migrated/eigen-webshop-beginnen.webp "eigen-webshop-beginnen")
 
@@ -48,7 +48,7 @@ Dit is dan ook gelijk de reden waarom veel mensen geen passief inkomen hebben. Z
 
 Pas bij de manieren hieronder dus op dat je niet keihard van start gaat, maar na een maand opgeeft omdat je nog niets heb verdient. Weet dat de beloning op zich laat wachten en bedenk je steeds wat een fulltime passief inkomen allemaal wel niet voor je kan betekenen.
 
-> Als ik naar mijzelf kijk dan is het passief inkomen de reden geweest waardoor mijn digital nomad levenstijl mogelijk is geworden. Het is de reden waarom ik een half jaar kon gaan fietsen naar Turkije, een boek ([\> gratis download](https://demodernenomaden.nl/digital-nomad-boek/)) kon schrijven en mijn familie maandenlang kon helpen op de camping in Frankrijk zonder daar iets voor te hoeven hebben.
+> Als ik naar mijzelf kijk dan is het passief inkomen de reden geweest waardoor mijn digital nomad levenstijl mogelijk is geworden. Het is de reden waarom ik een half jaar kon gaan fietsen naar Turkije, een boek ([\> gratis download](/boek/)) kon schrijven en mijn familie maandenlang kon helpen op de camping in Frankrijk zonder daar iets voor te hoeven hebben.
 > 
 > Kortom, een passief inkomen is **financiële vrijheid zonder dat je** **miljonair** hoeft te zijn.
 
@@ -70,13 +70,13 @@ Wees dus niet de zoveelste die start met een online training over ‘snel rijk w
 
 Maar als je dan wel ergens verstand van hebt, maak dan gerust een online kennis product en **zorg voor een goed verkoopkanaal** zoals een website of social media. You got this!
 
-[\> Wil je leren hoe je jouw eigen webshop opzet? Dat lees je hier.](https://demodernenomaden.nl/online-geld-verdienen/eigen-webshop-beginnen/)
+[\> Wil je leren hoe je jouw eigen webshop opzet? Dat lees je hier.](/blog/online-geld-verdienen/eigen-webshop-beginnen/)
 
-> “Zelf verkoop ik op mijn website een [training](https://demodernenomaden.nl/van-blog-naar-business-masterclass/). Deze is al opgenomen en betreft het dus passief inkomen. Het idee erachter is dat ik veel kennis bezit die voor iemand anders waardevol is. Daarbij is trainen, online of offline, gewoon hartstikke leuk om te doen.”
+> “Zelf verkoop ik op mijn website een [training](/). Deze is al opgenomen en betreft het dus passief inkomen. Het idee erachter is dat ik veel kennis bezit die voor iemand anders waardevol is. Daarbij is trainen, online of offline, gewoon hartstikke leuk om te doen.”
 
-Verder ken ik ook mensen die [een eigen videocursus](https://demodernenomaden.nl/online-geld-verdienen/videotraining/) hebben over hoe je succesvol handelt in cryptovaluta. Zij handelen al zo’n 7 jaar in cryptovaluta en vonden het daarom leuk anderen daarin te supporten.
+Verder ken ik ook mensen die [een eigen videocursus](/blog/online-geld-verdienen/videotraining/) hebben over hoe je succesvol handelt in cryptovaluta. Zij handelen al zo’n 7 jaar in cryptovaluta en vonden het daarom leuk anderen daarin te supporten.
 
-Een zeer lucratief verdienmodel als je je bedenkt dat zo’n cursus al snel 997,- euro per deelnemer oplevert. Maar omdat het hier om een videotraining gaat is ook dat proces geautomatiseerd en daarmee is het **een legitieme manier om passief inkomen te genereren**. Interessant aan hun verhaal is vooral hoe ze de online training promoten. Zij doen dit namelijk niet alleen via hun eigen kanaal maar ook via [affiliate marketing](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/). Maar daarover lees je meer onder het volgende kopje.
+Een zeer lucratief verdienmodel als je je bedenkt dat zo’n cursus al snel 997,- euro per deelnemer oplevert. Maar omdat het hier om een videotraining gaat is ook dat proces geautomatiseerd en daarmee is het **een legitieme manier om passief inkomen te genereren**. Interessant aan hun verhaal is vooral hoe ze de online training promoten. Zij doen dit namelijk niet alleen via hun eigen kanaal maar ook via [affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/). Maar daarover lees je meer onder het volgende kopje.
 
 ## 2\. Affiliate marketing als publisher
 
@@ -86,7 +86,7 @@ Simpel gezegd is affiliate marketing **het promoten van andermans producten op b
 
 ![](/images/migrated/affiliate-marketing-infographic.webp "affiliate-marketing-infographic")
 
-Een voorbeeld van zo’n affiliate link is als ik jou zou aanraden [Webinarjam te gebruiken](https://demodernenomaden.nl/go/get-webinarjam) (geweldig systeem trouwens ;)). Als jij nu op bovenstaande link klikt en denkt, Webinarjam, dat vind ik wel wat. Dan krijg ik bij jouw aankoop een commissie van Webinarjam **als bedankje voor de verwijzing.** Een top systeem, want jij als koper betaald hier niets extra’s voor. Het is immers gewoon onderdeel van Webinarjam zijn marketingbudget, die commissie.
+Een voorbeeld van zo’n affiliate link is als ik jou zou aanraden [Webinarjam te gebruiken](/go/get-webinarjam) (geweldig systeem trouwens ;)). Als jij nu op bovenstaande link klikt en denkt, Webinarjam, dat vind ik wel wat. Dan krijg ik bij jouw aankoop een commissie van Webinarjam **als bedankje voor de verwijzing.** Een top systeem, want jij als koper betaald hier niets extra’s voor. Het is immers gewoon onderdeel van Webinarjam zijn marketingbudget, die commissie.
 
 Veel producten zullen niet zo’n hoge commissie hebben. Als je bijvoorbeeld in de catalogus kijkt van Bol.com dan zullen producten niet meer dan 8% commissie geven van de verkoopprijs (veelal maar 3%). Logisch ook, want het gaat hier om producten met relatief kleine marges.
 
@@ -94,13 +94,13 @@ Maar wanneer je een affiliate programma vind met digitale producten, kunnen die 
 
 > “Zelf verdien ik inmiddels **een voltijd inkomen (>€3000,-)** met affiliate marketing als publisher. Voor het genereren van passief inkomen is dit dus prima. Vooral omdat ik er verder weinig omkijken naar heb.
 > 
-> Ik raad een product aan maar hoef daar niet de klantenservice of afhandeling van te doen. Ik ontvang simpelweg commissies doordat ik gewoon naar iemand toe link. Mijn favoriete affiliate netwerk (waar ik affiliate programma’s vind) is [Awin](https://demodernenomaden.nl/go/get-awin1). Als je al een blog hebt, [kun je je hier direct aanmelden](https://demodernenomaden.nl/go/get-awin1).”
+> Ik raad een product aan maar hoef daar niet de klantenservice of afhandeling van te doen. Ik ontvang simpelweg commissies doordat ik gewoon naar iemand toe link. Mijn favoriete affiliate netwerk (waar ik affiliate programma’s vind) is [Awin](/go/get-awin1). Als je al een blog hebt, [kun je je hier direct aanmelden](/go/get-awin1).”
 
 Wanneer je zelf als publisher aan de slag wilt met affiliate marketing doe je er goed aan je in te lezen. Lukraak linkjes plaatsen zal geen groot effect hebben. Het is daarom belangrijk om alleen te refereren naar relevante producten richting een relevante doelgroep. Alleen op die manier kun je succesvol geld verdienen als publisher met affiliate marketing.
 
 Voordat ik mijn maandelijkse 3000,- euro begon te verdienen was ik een flinke tijd verder. Dit kwam doordat ik aan het begin maar gewoon wat deed. Ik plaatste linkjes naar **laag gewaardeerde producten met een slechte sales funnel**. Ik kon dus mensen doorsturen wat ik wilde maar het leverde geen verkopen op. Als je weet welke programma’s je wel en niet moet gebruiken en hoe je kansen herkent, gaat het allemaal een stuk makkelijker ;).
 
-**[Wil je meer weten over affiliate marketing als publisher? In mijn GRATIS training ga ik uitgebreid in op dit verdienmodel. Je volgt hem hier.](https://demodernenomaden.nl/gratis/)**
+**[Wil je meer weten over affiliate marketing als publisher? In mijn GRATIS training ga ik uitgebreid in op dit verdienmodel. Je volgt hem hier.](/blog/ondernemen/blog-beginnen-starten-stappenplan/)**
 
 ## 3\. Affiliate marketing als verkoper
 
@@ -112,7 +112,7 @@ Dit is dan ook wat ik zelf deed. Ik verkocht mijn boek via een affiliate netwerk
 
 ## 4\. Je eigen webshop beginnen
 
-In plaats van zelf een product te bedenken en te ontwerpen kun je natuurlijk ook allemaal producten van anderen verkopen via een [webshop](https://demodernenomaden.nl/online-geld-verdienen/eigen-webshop-beginnen/). Je bouwt dan je eigen online winkel en verkoopt producten online. Helaas ben je er dan alleen nog niet. Want op deze manier betreft het niet volledig een passief inkomen. Je kunt je namelijk voorstellen dat je de producten dan nog wel zelf op moet slaan in een magazijn en deze moet versturen richting de klanten. Daarbij kan het zijn dat iemand iets wilt retourneren of een klacht heeft. Dan ben jij de klantenservice.
+In plaats van zelf een product te bedenken en te ontwerpen kun je natuurlijk ook allemaal producten van anderen verkopen via een [webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/). Je bouwt dan je eigen online winkel en verkoopt producten online. Helaas ben je er dan alleen nog niet. Want op deze manier betreft het niet volledig een passief inkomen. Je kunt je namelijk voorstellen dat je de producten dan nog wel zelf op moet slaan in een magazijn en deze moet versturen richting de klanten. Daarbij kan het zijn dat iemand iets wilt retourneren of een klacht heeft. Dan ben jij de klantenservice.
 
 En daar komt dan ook een interessante trend voorbij; dropshipping. Bij dropshipping heb je niet zelf de producten op voorraad en hoef je deze niet zelf te verzenden. Ze worden direct vanuit de groothandel verzonden naar de klant. Jij bent dus slechts het marketing middel om de verkoop te maken. Nu alleen nog iemand inhuren voor je klantenservice en je hebt geen omkijken meer naar je dropshipping business. Het spreekt voor zich dat deze manier om passief inkomen te genereren veel ervaring vereist. Zomaar een succesvolle webshop opzetten is in een verzadigde markt geen eitje, maar het is zeker mogelijk.
 
@@ -124,15 +124,15 @@ Als muziek meer jouw ding is kan dat ook een vorm zijn van passief inkomen. Je v
 
 ## 6\. Geld verdienen met bloggen, vloggen of als influencer
 
-Wanneer je **[geld wilt verdienen met bloggen](https://demodernenomaden.nl/gratis/)**, vloggen of als influencer kan dit in veel gevallen passief zijn. Al is het hierbij wel belangrijk dat je up to date blijft richting jouw volgers, dus zo nu en dan zal er toch wat werk moeten worden verzet om interessant te blijven.
+Wanneer je **[geld wilt verdienen met bloggen](/blog/ondernemen/blog-beginnen-starten-stappenplan/)**, vloggen of als influencer kan dit in veel gevallen passief zijn. Al is het hierbij wel belangrijk dat je up to date blijft richting jouw volgers, dus zo nu en dan zal er toch wat werk moeten worden verzet om interessant te blijven.
 
-Het is dus in ieder geval mogelijk om passief inkomen te genereren op deze manier. Dit doe je door bijvoorbeeld sponsoring toe te staan. Bedrijven betalen jou dan maandelijks om hen te promoten. Andere voorbeelden van passief inkomen in deze hoek zijn het verkopen van merchandise, laten lopen van Google Adsense of [**Youtube advertenties**](https://demodernenomaden.nl/online-geld-verdienen/youtube/) op jouw content en het toestaan van advertorials tegen betaling.
+Het is dus in ieder geval mogelijk om passief inkomen te genereren op deze manier. Dit doe je door bijvoorbeeld sponsoring toe te staan. Bedrijven betalen jou dan maandelijks om hen te promoten. Andere voorbeelden van passief inkomen in deze hoek zijn het verkopen van merchandise, laten lopen van Google Adsense of [**Youtube advertenties**](/blog/online-geld-verdienen/youtube/) op jouw content en het toestaan van advertorials tegen betaling.
 
-Daarbij is het zo dat als je veel mensen bereikt via jouw medium, of dit nu Instagram, Youtube, [Facebook](https://demodernenomaden.nl/online-geld-verdienen/facebook/) of een blog is, dit interessant is voor tal van verdienmodellen. Je kunt je voorstellen dat als je veel volgers hebt deze op wat voor manier dan ook geld waard zijn. Plots ben je dan ook in staat om eigen producten te lanceren en deze te verkopen. Begrijp je hem? Tal van opties dus!
+Daarbij is het zo dat als je veel mensen bereikt via jouw medium, of dit nu Instagram, Youtube, [Facebook](/blog/online-geld-verdienen/facebook/) of een blog is, dit interessant is voor tal van verdienmodellen. Je kunt je voorstellen dat als je veel volgers hebt deze op wat voor manier dan ook geld waard zijn. Plots ben je dan ook in staat om eigen producten te lanceren en deze te verkopen. Begrijp je hem? Tal van opties dus!
 
 ## 7\. Passief inkomen genereren met beleggen en investeren
 
-Geld maakt geld. Wanneer je dus al een spaarpotje hebt is passief inkomen genereren eigenlijk best wel makkelijk. Denk bijvoorbeeld aan het investeren in vastgoed. Hier valt een goed rendement mee te verdienen. Maar je kunt er natuurlijk ook voor kiezen om te gaan [handelen in crypto valuta](https://demodernenomaden.nl/online-geld-verdienen/handelen-in-crypto-valuta/) of aandelen.
+Geld maakt geld. Wanneer je dus al een spaarpotje hebt is passief inkomen genereren eigenlijk best wel makkelijk. Denk bijvoorbeeld aan het investeren in vastgoed. Hier valt een goed rendement mee te verdienen. Maar je kunt er natuurlijk ook voor kiezen om te gaan [handelen in crypto valuta](/blog/web3/handelen-in-crypto-valuta/) of aandelen.
 
 Een gemiddeld rendement op investeren komt al snel op 6% tot 8% per jaar uit. Het is dan ook altijd beter om geld te laten bewegen dan het koud op je bank te laten staan waar de rente nihil of minimaal is.
 
@@ -142,13 +142,13 @@ Buiten deze vormen van investeren kun je met jouw geld ook start-ups ondersteune
 
 Het is voor iedereen mogelijk om passief inkomen te genereren. Ook wanneer je nog geen cent hebt in te leggen kun je hier al mee starten met bovengenoemde (op de laatste na) manieren.
 
-Mijn eigen ervaring leert me dat een passief inkomen genereren tijd kost, veel tijd. En dat is ergens wel logisch, je investeert tijd alvorens je werkzaamheden iets opleveren. Maar achteraf durf ik hardop te zeggen dat die investering het hoe dan ook waard is. Er gaat niets boven een mailtje dat mijn boek is verkocht terwijl ik op dat moment koffie zit te drinken bij mijn oma (of een cocktail op het strand van Cambodja, ben en blijf toch een [digital nomad](https://demodernenomaden.nl/digitalenomaden/digital-nomad-banen/)). Het is daarom ook een goed idee zo vroeg mogelijk te beginnen met het bouwen aan jouw eigen passieve inkomen. In de best mogelijke situatie doe je dit naast een stabiel inkomen dat je al hebt.
+Mijn eigen ervaring leert me dat een passief inkomen genereren tijd kost, veel tijd. En dat is ergens wel logisch, je investeert tijd alvorens je werkzaamheden iets opleveren. Maar achteraf durf ik hardop te zeggen dat die investering het hoe dan ook waard is. Er gaat niets boven een mailtje dat mijn boek is verkocht terwijl ik op dat moment koffie zit te drinken bij mijn oma (of een cocktail op het strand van Cambodja, ben en blijf toch een [digital nomad](/blog/digitalenomaden/digital-nomad-banen/)). Het is daarom ook een goed idee zo vroeg mogelijk te beginnen met het bouwen aan jouw eigen passieve inkomen. In de best mogelijke situatie doe je dit naast een stabiel inkomen dat je al hebt.
 
 Bij het opbouwen van een passief inkomen haken veel mensen al af na een paar weken of maanden. Zij zien geen direct resultaat en verliezen motivatie. In feite zou iedereen een passief inkomen kunnen genereren, maar goed is dan dus wel om even bij jezelf na te gaan of je dat ondernemende instinct hebt. Anders is het gewoonweg zonde van je tijd. ?
 
 Hoe dan ook. Alle succes gewenst!
 
-**[Wil je je verder verdiepen in passief inkomen opbouwen? Volg dan mijn GRATIS training over de verdienmodellen rondom bloggen.](https://demodernenomaden.nl/gratis/)**
+**[Wil je je verder verdiepen in passief inkomen opbouwen? Volg dan mijn GRATIS training over de verdienmodellen rondom bloggen.](/blog/ondernemen/blog-beginnen-starten-stappenplan/)**
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -156,6 +156,6 @@ Hoe dan ook. Alle succes gewenst!
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

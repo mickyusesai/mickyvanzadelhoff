@@ -1,6 +1,6 @@
 ---
 title: "Werken vanuit Lapland als digital nomad: wat is een goede bestemming?"
-description: ""
+description: "Tegenwoordig leven steeds meer mensen als een digital nomad. In plaats van vijf dagen per week van 9 tot 5 op kantoor te zitten, kiezen steeds meer…"
 date: 2024-10-31
 updated: 2024-10-31
 category: "digitalenomaden"
@@ -10,7 +10,7 @@ draft: false
 featuredImage: "/images/migrated/digital-nomad-lapland-werken-scaled.webp"
 ---
 
-Tegenwoordig leven steeds meer mensen als een [digital nomad](https://demodernenomaden.nl/digitalenomaden/digital-nomad-banen/). In plaats van vijf dagen per week van 9 tot 5 op kantoor te zitten, kiezen steeds meer mensen voor de vrijheid om locatie afhankelijk te werken en op die manier de hele wereld over te reizen. Overwinteren op een zonnige bestemming? Dat kan! Wil je juist de kou opzoeken en het magische Lapland ontdekken? Dan mag je onderstaande plekken zeker niet missen!
+Tegenwoordig leven steeds meer mensen als een [digital nomad](/blog/digitalenomaden/digital-nomad-banen/). In plaats van vijf dagen per week van 9 tot 5 op kantoor te zitten, kiezen steeds meer mensen voor de vrijheid om locatie afhankelijk te werken en op die manier de hele wereld over te reizen. Overwinteren op een zonnige bestemming? Dat kan! Wil je juist de kou opzoeken en het magische Lapland ontdekken? Dan mag je onderstaande plekken zeker niet missen!
 
 ## Lapland als workation
 
@@ -34,6 +34,6 @@ Kemi is een kustplaats in Lapland. Wel is het heel wat anders dan de meeste kust
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

@@ -24,7 +24,10 @@ not corporate speak. The design should feel like a person, not a brand agency.
 - **Styling:** Tailwind CSS
 - **Content:** Markdown (.md) files with frontmatter in /src/content/
 - **Deployment:** Railway — auto-deploys on every push to main branch on GitHub
-- **Domain:** mickyvanzadelhoff.com
+- **Domain:** mickyvanzadelhoff.com (Dutch only)
+- **Business details:** see `src/config/site.ts` (name Micky van Zadelhoff, email mickyvz@live.nl,
+  WhatsApp +31681081589, KVK 62568299, no BTW number shown). Never use the old
+  @demodernenomaden.nl addresses.
 - **Repo:** GitHub (push directly to main, no pull request merging required)
 
 Never suggest Netlify, Vercel, or other platforms. Railway is the deploy target, always.
@@ -32,38 +35,37 @@ Never suggest Netlify, Vercel, or other platforms. Railway is the deploy target,
 ---
 
 ## Language
-**Fully bilingual: Dutch (NL) and English (EN).**
-
-- Default language: Dutch (primary audience is Dutch)
-- All pages must have both a Dutch and English version
-- Use Astro's built-in i18n routing: `/nl/[slug]` and `/en/[slug]`
-- Navigation, meta tags, and SEO must work correctly in both languages
-- Blog articles from De Moderne Nomaden are Dutch — do not auto-translate them,
-  leave English versions as TODO unless Micky provides translations
-- Professional pages (AI Workshop, EasyReimburse, Erasmus+) should be available in both languages
-- Hreflang tags required on all pages: `<link rel="alternate" hreflang="nl">` etc.
+**Dutch only** (decision D12, 2026-09-14). No English pages, no i18n routing, no hreflang.
+URLs have no language prefix: `/blog/[category]/[slug]/`, `/over/`, `/boek/`, `/ai-workshops/`.
 
 ---
 
 ## Site Structure & Pages
 
-### Primary pages (personal brand first):
-1. **Homepage** (`/`) — Hero with Micky's photo, short intro, highlight the 3 expertises,
-   recent blog posts secondary. This is a personal brand site, not a blog homepage.
-2. **About** (`/about` / `/over`) — Micky's personal story, digital nomad journey,
-   press mentions (NRC, Nu.nl, Vice, AD, FunX, Flow magazine)
-3. **AI Workshop** (`/ai-workshop`) — Landing page for the ChatGPT/AI workshops for businesses
-4. **EasyReimburse** (`/easyreimburse`) — Product page for the SaaS app, with link to the app
-5. **Erasmus+** (`/erasmus`) — Page about his Erasmus+ coordination work
-6. **Book** (`/boek` / `/book`) — Landing page for the free digital nomad book
-7. **Blog** (`/blog`) — Article listing, secondary in navigation
-8. **Contact** (`/contact`) — Contact form
+### Primary pages (AI workshops first, personal brand second):
+1. **Homepage** (`/`) — Micky's photo, the two AI workshops, press logos, free book, recent posts.
+2. **AI-workshops** (`/ai-workshops/`) — Hub. One page per workshop at `/ai-workshops/[slug]/`,
+   built from `src/content/workshops/*.md`: `ai-introductie` (3 h, €1.500) and
+   `bouwen-met-claude-code` (5 days, max 3 people, €7.500). Adding a workshop = adding a file.
+3. **About** (`/over/`) — Personal story, press mentions. Also the only place Erasmus+ (one
+   paragraph) and EasyReimburse (built with AI, link to https://easyreimburse.ai/) are mentioned.
+   No separate EasyReimburse or Erasmus+ pages (decisions D9, D10).
+4. **Book** (`/boek/`) — Free book, **direct PDF download** at `/downloads/Digital-Nomad-Boek.pdf`.
+   No email capture (D6).
+5. **Blog** (`/blog/`) — Secondary in navigation. Category `web3` is kept online but hidden from
+   the homepage and blog overview (D3); see `HIDDEN_FROM_LISTINGS` in `src/config/site.ts`.
+6. **Contact** (`/contact/`) — WhatsApp + mail buttons, no form backend (D7).
+7. **Privacy** (`/privacy/`).
 
 ### Blog / content:
 - Individual articles: `/blog/[category]/[slug]/`
 - This matches the original WordPress structure: `/%category%/%postname%/`
 - Category pages: `/blog/[category]/`
 - Categories from old site: ondernemen, digitalenomaden, online-geld-verdienen, web3, tips, review
+- Affiliate links: `/go/[slug]` (relative), resolved through `src/data/redirects.json`, which is
+  generated from `src/data/wordpress-redirects.csv` by `scripts/cleanup-content.py`.
+- Old URLs of every kind (articles, categories, pages, uploads, legacy redirects) are answered by
+  `redirects` in `astro.config.mjs`, fed by the same JSON. Do not hand-edit the JSON; edit the script.
 
 ---
 
@@ -144,8 +146,8 @@ featuredImage: ""      # path to image in /public/images/
 ### Redirect strategy:
 When demodernenomaden.nl eventually points to this site, the old URL structure
 `demodernenomaden.nl/[category]/[postname]/` maps to
-`mickyvanzadelhoff.com/blog/[category]/[postname]/`
-This single prefix change (`/blog/` added) must be handled in Astro's redirect config.
+`mickyvanzadelhoff.com/blog/[category]/[postname]/`. This is already in `redirects`
+(static meta-refresh now, real 301s once the Node adapter is added at launch, Phase 6).
 
 ---
 
@@ -160,8 +162,11 @@ This single prefix change (`/blog/` added) must be handled in Astro's redirect c
 ---
 
 ## Design Guidelines
-- **Vibe:** Warm, personal, storytelling. Think travel-meets-entrepreneur.
-  NOT corporate, NOT techy dark theme, NOT generic AI aesthetic.
+- **Direction (Micky, D2):** modern tech vibe but playful (think NFT-site energy), colours in
+  the spirit of the "iTalk event conference" Elementor kit. Featured images later as custom
+  illustrations in brand colours (style reference: Lydia Hill, "Personal Sunset").
+  Still personal and human, NOT corporate, NOT a generic AI aesthetic.
+- The current Tailwind tokens in `tailwind.config.mjs` are interim; Phase 2 replaces them.
 - **Typography:** Generous sizing, readable. Good for long-form Dutch text.
 - **Color palette:** Warm neutrals + one accent color. Avoid cold blues/greys.
 - **Mobile-first** — majority of blog traffic is mobile
@@ -194,13 +199,12 @@ When refreshing De Moderne Nomaden articles for this site:
 
 ---
 
-## TODOs — Ask Micky Before Building These
-- **Email tool:** Which service for newsletter/email capture?
-  (Mailchimp / ConvertKit / Brevo / other) — needed for book landing page and newsletter
-- **Headshot:** Does Micky have a high-quality photo for the homepage hero?
-  Should be in `/public/images/micky/` before building the homepage.
-- **EasyReimburse URL:** What is the actual URL of the EasyReimburse app to link to?
-- **AI Workshop details:** What information, pricing, and CTA goes on the workshop page?
-- **Logo:** Is there a logo for mickyvanzadelhoff.com, or use name as wordmark for now?
-- **English content:** Professional pages (AI Workshop, EasyReimburse, Erasmus+) need
-  English copy written by Micky — build Dutch versions first, leave EN as TODO stubs.
+## Open questions for Micky (everything else is decided, see docs/MIGRATION-PLAN.md §5)
+- **EasyReimburse one-liner:** what it does and for whom (TODO on the About page).
+- **Build-week programme:** day-by-day outline and an example result (TODO in the workshop file).
+- **Co-trainer:** is Bob Rekelhof still involved in the AI Introductie workshop?
+- **Analytics tool** on the new site (for the privacy page).
+- **Business address:** show one or not.
+- **Logo:** none known; the name is used as a wordmark.
+- **Headshot:** a newer high-quality photo is welcome; the current default is
+  `/images/micky/mick-van-zadelhoff-de-moderne-nomaden.webp`.

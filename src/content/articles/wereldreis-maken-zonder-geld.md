@@ -1,6 +1,6 @@
 ---
 title: "Wereld rond reizen zonder geld"
-description: ""
+description: "Laatst ontmoette ik Aniek uit Utrecht, 25 jaar en goed gezelschap tijdens mijn reis. Ze vertelde mij over meerdere reizen die ze had gemaakt zonder…"
 date: 2017-11-07
 updated: 2021-01-23
 category: "tips"
@@ -16,7 +16,7 @@ Laatst ontmoette ik Aniek uit Utrecht, 25 jaar en goed gezelschap tijdens mijn 
 
 ## **No-budget reizen**
 
-Aniek ontmoette ik tijdens [een Erasmus Plus training](https://demodernenomaden.nl/tips/erasmus-plus-training/) in Malaga, Spanje. We raakten in gesprek over **de reislust van ons beiden**. Er was alleen één groot verschil. Waar ik [online geld verdien](https://demodernenomaden.nl/online-geld-verdienen/online-geld-verdienen/) tijdens het reizen, deed zij alles zonder geld.
+Aniek ontmoette ik tijdens [een Erasmus Plus training](/blog/tips/erasmus-plus-training/) in Malaga, Spanje. We raakten in gesprek over **de reislust van ons beiden**. Er was alleen één groot verschil. Waar ik [online geld verdien](/blog/online-geld-verdienen/online-geld-verdienen/) tijdens het reizen, deed zij alles zonder geld.
 
 In gesprek met haar besprak ik de meerdere onderdelen waar je op moet letten als je **écht geen ene cent uit wil geven**. Denk hierbij aan onderwerpen als vervoer, verblijf, eten en drinken.
 
@@ -46,7 +46,7 @@ Veelal was een slaapplek met de vorige twee stappen al gevonden. Mensen bieden d
 **Gratis overnachten op reis met Couchsurfing**  
 Een andere optie waar Aniek dankbaar gebruik van maakte is **Couchsurfing**. Op deze app/website vind je gemakkelijk hosts in iedere plek waar je bent. Dit zijn veelal mensen die het gezellig vinden om iemand thuis te ontvangen en de stad te laten zien. In ruil daarvoor geef jij ‘je host’ een nieuwe internationale buddy.
 
-Pas wel op, want het komt met Couchsurfing niet weinig voor dat je eindigt in de kroeg met een grote groep locals ;). Het is dus ook een interessante manier om [mensen te ontmoeten op reis](https://demodernenomaden.nl/tips/mensen-ontmoeten-op-reis/).
+Pas wel op, want het komt met Couchsurfing niet weinig voor dat je eindigt in de kroeg met een grote groep locals ;). Het is dus ook een interessante manier om [mensen te ontmoeten op reis](/blog/tips/mensen-ontmoeten-op-reis/).
 
 Ook kun je natuurlijk altijd je al bestaande internationale netwerk inzetten als je die hebt.
 
@@ -58,4 +58,4 @@ Aniek heeft op deze manier de vetste avonturen meegemaakt. Maar als ik iets uit 
 
 Hierdoor mis je soms de tijd om een plek echt te ontdekken en staat er een bepaalde druk op de reis. **Veel avontuur** dus maar wel vermoeiend!
 
-**Ben jij nou zelf op zoek naar een manier om te reizen zonder geld te sparen? Dan kan het ook een idee zijn om je geld tijdens de reis te verdienen. Kijk bijvoorbeeld een naar deze [digital nomad jobs](https://demodernenomaden.nl/digitalenomaden/digital-nomad-banen/) of vind een [manier om te werken op de plekken waar je wilt reizen](https://demodernenomaden.nl/digitalenomaden/reizen-en-werken-combineren/).**
+**Ben jij nou zelf op zoek naar een manier om te reizen zonder geld te sparen? Dan kan het ook een idee zijn om je geld tijdens de reis te verdienen. Kijk bijvoorbeeld een naar deze [digital nomad jobs](/blog/digitalenomaden/digital-nomad-banen/) of vind een [manier om te werken op de plekken waar je wilt reizen](/blog/digitalenomaden/reizen-en-werken-combineren/).**

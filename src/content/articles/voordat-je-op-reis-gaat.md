@@ -1,6 +1,6 @@
 ---
 title: "De periode voor je op een lange reis gaat, wat een rot tijd?!"
-description: ""
+description: "Jeetje wat een week was dit… Ik hoor je nu denken, maar je bent toch nog helemaal niet weg? Klopt."
 date: 2017-06-05
 updated: 2021-01-20
 category: "tips"
@@ -12,9 +12,9 @@ featuredImage: "/images/migrated/20170605_135550-1-e1510890085515.webp"
 
 Jeetje wat een week was dit… Ik hoor je nu denken, maar je bent toch nog helemaal niet weg? **Klopt**.
 
-Afgelopen week was iedere dag afscheid nemen, iedere dag emoties en iedere dag diepe gesprekken. Dat is zeker iets moois, maar tegelijkertijd jezelf mentaal op de [reis als digital nomad](https://demodernenomaden.nl/digitalenomaden/digital-nomad-worden/) willen voorbereiden en nog wat afrondende werkzaamheden doen; dat is moeilijk in die staat van leven. Om die reden vertrek ik een dagje later, maar hé, er wacht toch niemand op me daar ;).
+Afgelopen week was iedere dag afscheid nemen, iedere dag emoties en iedere dag diepe gesprekken. Dat is zeker iets moois, maar tegelijkertijd jezelf mentaal op de [reis als digital nomad](/blog/digitalenomaden/digital-nomad-worden/) willen voorbereiden en nog wat afrondende werkzaamheden doen; dat is moeilijk in die staat van leven. Om die reden vertrek ik een dagje later, maar hé, er wacht toch niemand op me daar ;).
 
-Ik denk dat het meest bizarre de afgelopen weken toch wel [de adviezen zijn die ik heb gekregen van mensen](https://demodernenomaden.nl/tips/slecht-advies-krijgen/). Iedereen heeft er wel een beeld bij hoe dat zou zijn en waar je rekening mee moet houden. Nu kon ik advies wel waarderen, maar zoveel advies was gewoon niets mee te doen. Als ik alles had willen verwerken had ik op mijn 50e pas kunnen vertrekken en had mijn auto kunnen functioneren **als een hovercraft op zonne-energie**.
+Ik denk dat het meest bizarre de afgelopen weken toch wel [de adviezen zijn die ik heb gekregen van mensen](/blog/tips/slecht-advies-krijgen/). Iedereen heeft er wel een beeld bij hoe dat zou zijn en waar je rekening mee moet houden. Nu kon ik advies wel waarderen, maar zoveel advies was gewoon niets mee te doen. Als ik alles had willen verwerken had ik op mijn 50e pas kunnen vertrekken en had mijn auto kunnen functioneren **als een hovercraft op zonne-energie**.
 
 Maar nee. **Ik houd het lekker simpel**.
 
@@ -29,15 +29,15 @@ Richting Oost-Europa, maar zonder bestemming, de bestemming is namelijk de reis 
 Mezelf dwingen in ongemakkelijke situaties te stappen en te genieten van het leven.
 
 **Met wie ga je?**  
-Alleen, met wellicht als resultaat dat ik [veel mensen mag ontmoeten op reis](https://demodernenomaden.nl/tips/mensen-ontmoeten-op-reis/).
+Alleen, met wellicht als resultaat dat ik [veel mensen mag ontmoeten op reis](/blog/tips/mensen-ontmoeten-op-reis/).
 
 **Wanneer kom je terug?**  
 Geen verplichtingen, wil ik niet over nadenken.
 
 **Hoe betaal je dat?**  
-Door gewoon te blijven [werken in de online marketing](https://demodernenomaden.nl/online-geld-verdienen/online-marketing/), ook op reis! Lekker [online geld verdienen](https://demodernenomaden.nl/online-geld-verdienen/online-geld-verdienen/) vanachter mijn laptop dus.
+Door gewoon te blijven [werken in de online marketing](/blog/online-geld-verdienen/online-marketing/), ook op reis! Lekker [online geld verdienen](/blog/online-geld-verdienen/online-geld-verdienen/) vanachter mijn laptop dus.
 
 **Houd je een blog bij?**  
-Die heb je schijnbaar gevonden; [demodernenomaden.nl](https://demodernenomaden.nl) :). Als we vrienden zijn op Facebook, zie je de volgende blog vanzelf!
+Die heb je schijnbaar gevonden; [demodernenomaden.nl](/) :). Als we vrienden zijn op Facebook, zie je de volgende blog vanzelf!
 
 Ps. Op de foto zie je een sneak preview van mijn busje. Voor iedereen die ik onderweg ontmoet heb ik een plaatsje op de bus om op te schrijven, maar eerst was natuurlijk de familie aan de beurt!

@@ -1,6 +1,6 @@
 ---
 title: "Spirituele groei en inzicht die het leven mooier maakt"
-description: ""
+description: "Deze plek biedt tal van faciliteiten om te mediteren en is daarom ook de ideale broedplek voor spirituele groei. Ik verbleef er enkele maanden als…"
 date: 2017-12-12
 updated: 2021-01-26
 category: "tips"
@@ -12,7 +12,7 @@ featuredImage: "/images/migrated/bergen-pai-thailand-darling-view-point-hostel.w
 
 **Spirituele groei door inzichten**, er kwam best wat op me af in het bergdorpje Pai, ergens in het Noorden van Thailand.
 
-Deze plek biedt tal van faciliteiten om te mediteren en is daarom ook de ideale broedplek voor **spirituele groei**. Ik verbleef er enkele maanden als [digital nomad](https://demodernenomaden.nl/digitalenomaden/digital-nomad-worden/). In dit blog bespreek ik mijn ervaringen.
+Deze plek biedt tal van faciliteiten om te mediteren en is daarom ook de ideale broedplek voor **spirituele groei**. Ik verbleef er enkele maanden als [digital nomad](/blog/digitalenomaden/digital-nomad-worden/). In dit blog bespreek ik mijn ervaringen.
 
 Mijn inzichten zijn erg persoonlijk, dus wellicht herken je je niet overal in. Dat maakt gelukkig niets uit, want ook dat maakt het het delen waard.
 
@@ -24,7 +24,7 @@ Plots is je dip logisch te verklaren en begrijp je de context. Het moment dat je
 
 Ik voel daadwerkelijk dat het reizen me een hoop ups en downs geeft. Vooral bij de downs snap ik op dat moment nooit **waarom ik mij slecht zou voelen**.
 
-Mijn leven vind ik zelf heel erg tof. Ik [verdien geld met bloggen](https://demodernenomaden.nl/online-geld-verdienen/bloggen/) en reis een beetje de wereld rond. Dus waarom komt daar soms een down gevoel bij kijken?
+Mijn leven vind ik zelf heel erg tof. Ik [verdien geld met bloggen](/blog/online-geld-verdienen/bloggen/) en reis een beetje de wereld rond. Dus waarom komt daar soms een down gevoel bij kijken?
 
 Het antwoord dat ik daarop heb gevonden is dat het de beste manier is om persoonlijke groei door te maken. Met alleen maar ups is de behoefte om op die manier te groeien er niet en is er ook geen plicht om na te denken over jezelf.
 

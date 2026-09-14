@@ -1,6 +1,6 @@
 ---
 title: "Je grootste doelen behalen, zo doe je dat"
-description: ""
+description: "Als er iets de hedendaagse drang naar succes tekent is het dat we vooral snel succesvol willen worden. We zetten onze eerste stappen en zijn…"
 date: 2019-02-16
 updated: 2020-11-01
 category: "tips"

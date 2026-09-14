@@ -1,6 +1,6 @@
 ---
 title: "Whitepress – Geld verdienen met advertorials, branded en sponsored content"
-description: ""
+description: "Stel je hebt een blog en bent op zoek naar manieren om daar geld mee te verdienen… Je komt dan al snel uit op advertenties, Google Adsense, nog meer…"
 date: 2020-09-21
 updated: 2022-01-27
 category: "online-geld-verdienen"
@@ -10,7 +10,7 @@ draft: false
 featuredImage: "/images/migrated/advertorials-whitepress-geld-verdienen.webp"
 ---
 
-Stel je hebt een blog en bent op zoek naar manieren om daar geld mee te verdienen… Je komt dan al snel uit op advertenties, Google Adsense, nog meer advertenties en vormen van [affiliate marketing](https://demodernenomaden.nl/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/). Maar wist je dat er ook zoiets bestaat als **[Whitepress](https://demodernenomaden.nl/go/whitepress)**? Een platform dat jou als blogger zichtbaar maakt bij bedrijven die graag een **advertorial, branded of sponsored content** willen plaatsen. **Geld krijgen voor het plaatsen van een artikel op jouw blog** dus. In dit artikel lees je er alles over.
+Stel je hebt een blog en bent op zoek naar manieren om daar geld mee te verdienen… Je komt dan al snel uit op advertenties, Google Adsense, nog meer advertenties en vormen van [affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/). Maar wist je dat er ook zoiets bestaat als **[Whitepress](/go/whitepress)**? Een platform dat jou als blogger zichtbaar maakt bij bedrijven die graag een **advertorial, branded of sponsored content** willen plaatsen. **Geld krijgen voor het plaatsen van een artikel op jouw blog** dus. In dit artikel lees je er alles over.
 
 ## Dit is een advertorial (en branded en sponsored content)
 
@@ -30,11 +30,11 @@ Voor mij als marketeer van een DJ bedrijf was het wel duidelijk waarom een artik
 
 Vaak proberen bedrijven in contact te komen met de doelgroep wanneer zij klaar zijn om te ‘kopen’. Daar zit een nadeel aan. Er zitten namelijk veel stappen voor het koopproces waarin de doelgroep al warm kan worden gemaakt. Stel bijvoorbeeld dat een stel verloofd is. Dan willen ze dus gaan trouwen maar gaan ze heus niet gelijk een DJ boeken. Wat ze wel al gaan doen is een beetje ‘plezier zoeken’. Inspiratie opdoen met trouwmuziek dus. En, tada, daar vinden ze ons artikel op die ene trouwwebsite. In zo’n artikel bouwt het bedrijf een band op met de lezer en komt de naam alvast voorbij. Dat is een groot voordeel voor wanneer het koppel later wel opzoek gaat naar een DJ.
 
-Advertorials zijn dus erg zinvol voor bedrijven en wanneer jij een platform/blog hebt waar veel lezers op af komen kun je hier geld mee verdienen. Je kunt ruimte voor artikelen verkopen en doet dat het makkelijkst via een platform als [Whitepress](https://demodernenomaden.nl/go/whitepress).
+Advertorials zijn dus erg zinvol voor bedrijven en wanneer jij een platform/blog hebt waar veel lezers op af komen kun je hier geld mee verdienen. Je kunt ruimte voor artikelen verkopen en doet dat het makkelijkst via een platform als [Whitepress](/go/whitepress).
 
 ## Wat is Whitepress en hoe werkt het?
 
-Whitepress is **een platform waar bedrijven en bloggers/publishers samenkomen**. Als blogger kun je er een aanbieding op plaatsen. Als in, je laat weten of er ruimte op jouw blog beschikbaar is en tegen welke voorwaarden. Daar vraag je dan vervolgens een bedrag voor, afhankelijk van wat redelijk is. Op mijn eigen blog [demodernenomaden.nl](https://demodernenomaden.nl/) is dat bijvoorbeeld 250,- euro. Aan de bedrijven vervolgens de kans om met jou samen te werken.
+Whitepress is **een platform waar bedrijven en bloggers/publishers samenkomen**. Als blogger kun je er een aanbieding op plaatsen. Als in, je laat weten of er ruimte op jouw blog beschikbaar is en tegen welke voorwaarden. Daar vraag je dan vervolgens een bedrag voor, afhankelijk van wat redelijk is. Op mijn eigen blog [demodernenomaden.nl](/) is dat bijvoorbeeld 250,- euro. Aan de bedrijven vervolgens de kans om met jou samen te werken.
 
 ![](/images/migrated/whitepress-stappen.webp "whitepress-stappen")
 
@@ -42,7 +42,7 @@ Bij Whitepress kies je volledig zelf alle opties. Jij kiest of de advertorial do
 
 Voor bloggers is dit een mooie optie om extra geld te verdienen. Vooral voor diegene die het wel een beetje hebben gehad met al die vervelende advertenties op hun blog. ?
 
-**[Aanmelden op Whitepress doe je hier binnen vijf minuten.](https://demodernenomaden.nl/go/whitepress)**
+**[Aanmelden op Whitepress doe je hier binnen vijf minuten.](/go/whitepress)**
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -50,6 +50,6 @@ Voor bloggers is dit een mooie optie om extra geld te verdienen. Vooral voor die
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

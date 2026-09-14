@@ -1,6 +1,6 @@
 ---
 title: "Wonen en werken in Londen in Engeland – Tips voor de digital nomad"
-description: ""
+description: "Wonen en werken in Londen als digital nomad, hoe is dat? Eindelijk na al die jaren mocht ik over Abbey Road heen lopen. De hoofdstad van Engeland klonk…"
 date: 2018-11-06
 updated: 2022-01-27
 category: "digitalenomaden"
@@ -10,7 +10,7 @@ draft: false
 featuredImage: "/images/migrated/wonen-en-werken-in-londen-e1541538408888.webp"
 ---
 
-Wonen en werken in Londen als [digital nomad](https://demodernenomaden.nl/digitalenomaden/digitale-nomaden/), hoe is dat? Eindelijk na al die jaren mocht ik over Abbey Road heen lopen. De hoofdstad van Engeland klonk altijd vrij elitair in mijn oren. Ik zag klassieke boekhandeltjes, dure koffiezaakjes en veel Beatles en Harry Potter verwijzingen voor me. Ondanks dat hier ook een kern van waarheid in zit, heeft deze westerse stad vele kanten. De stad deed mij zelfs denken aan [Berlijn](https://demodernenomaden.nl/plaatsen/wonen-en-werken-in-berlijn-duitsland/).
+Wonen en werken in Londen als [digital nomad](/blog/digitalenomaden/digital-nomad-worden/), hoe is dat? Eindelijk na al die jaren mocht ik over Abbey Road heen lopen. De hoofdstad van Engeland klonk altijd vrij elitair in mijn oren. Ik zag klassieke boekhandeltjes, dure koffiezaakjes en veel Beatles en Harry Potter verwijzingen voor me. Ondanks dat hier ook een kern van waarheid in zit, heeft deze westerse stad vele kanten. De stad deed mij zelfs denken aan [Berlijn](/blog/digitalenomaden/wonen-en-werken-in-berlijn-duitsland/).
 
 De verschillende districten bieden kansen voor alle soorten mensen. Bezoek Abbey Road, ga winkelen in één van de oudste warenhuizen van Londen Harrods of verveel de wachters bij Buckingham Palace. Er zijn veel mogelijkheden in Londen.
 
@@ -80,6 +80,6 @@ Wel moet je flink wat geld neerleggen om comfortabel te kunnen wonen en werken i
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

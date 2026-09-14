@@ -1,6 +1,6 @@
 ---
 title: "Reizen en werken combineren – 16 manieren hoe jij dit kunt doen"
-description: ""
+description: "In dit artikel ga ik in op alle manieren om reizen en werken te combineren. Zelf leef ik als digital nomad en werk op die manier vanaf welke plek dan…"
 date: 2018-05-05
 updated: 2023-01-03
 category: "digitalenomaden"
@@ -10,7 +10,7 @@ draft: false
 featuredImage: "/images/migrated/reizen-en-werken.webp"
 ---
 
-In dit artikel ga ik in op alle manieren om reizen en werken te combineren. [Zelf leef ik als digital nomad](https://demodernenomaden.nl/over-mij/) en werk op die manier vanaf welke plek dan ook op de wereld. Ik doe dat dan via werk vanachter mijn laptop.
+In dit artikel ga ik in op alle manieren om reizen en werken te combineren. [Zelf leef ik als digital nomad](/over/) en werk op die manier vanaf welke plek dan ook op de wereld. Ik doe dat dan via werk vanachter mijn laptop.
 
 maar wanneer ik reis zie ik ook heel veel mensen die gewoon werken op de plek van bestemming of **die andere creatieve manieren hebben gevonden** om reizen en werken te combineren. Of ik zie mensen die ervoor zorgen dat hun reizen gratis zijn doordat ze werk vinden op bestemming (die hen eten en een slaapplek aanbiedt). In dit artikel vind je ze allemaal!
 
@@ -22,11 +22,11 @@ Omdat dit voor mij de meest voor de hand liggende manier is om reizen en werken 
 
 Deze manier van werken is volledig locatie onafhankelijk en ik kan het dus doen van waar dan ook ter wereld. Soms is dat vanuit een koffietentje in Thailand, soms vanuit mijn appartement in Servië. Ik kan overal werken en heb Nederlandse klanten, dus krijg best wel goed betaald.
 
-Digital nomads heb ik je in alle soorten en maten. Als digital nomad kun je werken als **programmeur, webdesigner, online marketeer, schrijver, fotograaf, videograaf, dropshipper, social media manager, content marketeer, blogger, vlogger, adverteerder, online coach, translator** en nog [tal van andere jobs](https://demodernenomaden.nl/digitalenomaden/digital-nomad-banen/).
+Digital nomads heb ik je in alle soorten en maten. Als digital nomad kun je werken als **programmeur, webdesigner, online marketeer, schrijver, fotograaf, videograaf, dropshipper, social media manager, content marketeer, blogger, vlogger, adverteerder, online coach, translator** en nog [tal van andere jobs](/blog/digitalenomaden/digital-nomad-banen/).
 
 Oneindig veel mogelijkheden dus om online te werken, maar laten we snel doorgaan met manieren waarmee je niet online, maar offline je geld verdient tijdens het reizen in het buitenland.
 
-**[Wil je reizen en online geld verdienen. Volg dan eens mijn GRATIS online training over de ‘De 5 simpele stappen naar jouw eigen winstgevende blog’.](https://demodernenomaden.nl/gratis/)**
+**[Wil je reizen en online geld verdienen. Volg dan eens mijn GRATIS online training over de ‘De 5 simpele stappen naar jouw eigen winstgevende blog’.](/blog/ondernemen/blog-beginnen-starten-stappenplan/)**
 
 ## **2\. Werken in een hostel**
 
@@ -44,7 +44,7 @@ Wil je al direct op zoek naar een Hostel Job? Goede hostels vind je uiteraard op
 
 ## **3\. Engelse les geven op reis**
 
-Wanneer je goed Engels kan, kun je natuurlijk ook gaan werken als docent Engels ([of als vertaler](https://demodernenomaden.nl/online-geld-verdienen/online-vertalen/)). Je hoeft hier echt geen universitaire diploma voor te hebben. Op veel plekken zijn ze namelijk al blij als iemand kan helpen bij de eerste stappen in de Engelse taal en gaat het dus nog **niet gelijk over de moeilijkste grammar** ;).
+Wanneer je goed Engels kan, kun je natuurlijk ook gaan werken als docent Engels ([of als vertaler](/blog/online-geld-verdienen/online-vertalen/)). Je hoeft hier echt geen universitaire diploma voor te hebben. Op veel plekken zijn ze namelijk al blij als iemand kan helpen bij de eerste stappen in de Engelse taal en gaat het dus nog **niet gelijk over de moeilijkste grammar** ;).
 
 > Vooral in Taiwan is veel vraag naar mensen die Engelse les kunnen geven. Daar zijn dan ook clubjes ontstaan van internationale mensen die daar Engels doceren.
 > 
@@ -76,7 +76,7 @@ Zo ben ik naar Zweden, Servië, Roemenië, Turkije en Hongarije geweest voor tra
 
 Interessant aan deze weken is dat het Europees Fonds deze trainingen volledig vergoed. Dat wil zeggen je reis, verblijf, eten, drinken en uitjes. Het idee achter de trainingen en uitwisselingen is om je meer Europeaan te laten voelen, meer verbondenheid te creëren en kennis uit te wisselen over voor Europa belangrijke onderwerpen.
 
-Jij kunt je ook aanmelden voor een van deze trainingsweken. Hoe je dat doet, welke voorwaarden daaraan zitten en nog meer over mijn ervaringen ermee [vind je hier](https://demodernenomaden.nl/tips/erasmus-plus-training/).
+Jij kunt je ook aanmelden voor een van deze trainingsweken. Hoe je dat doet, welke voorwaarden daaraan zitten en nog meer over mijn ervaringen ermee [vind je hier](/blog/tips/erasmus-plus-training/).
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -84,7 +84,7 @@ Jij kunt je ook aanmelden voor een van deze trainingsweken. Hoe je dat doet, wel
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
 
@@ -98,7 +98,7 @@ Omdat deze landen erg welvarend zijn krijg je voor dat soort werk goede verdiens
 
 Houdt er tevens ook rekening mee dat het hierbij goed is om wat geld achter de hand te hebben. Je zult namelijk niet de eerste zijn die het niet binnen een paar weken lukt om werk te vinden. **Het werk is daarbij erg seizoensgebonden.** Met een spaarpotje voorkom je dat je in een van die verre landen blut bent.
 
-**[Wil je online geld verdienen terwijl je de wereld over reist? Volg dan mijn GRATIS training over geld verdienen met bloggen.](https://demodernenomaden.nl/gratis/)**
+**[Wil je online geld verdienen terwijl je de wereld over reist? Volg dan mijn GRATIS training over geld verdienen met bloggen.](/blog/ondernemen/blog-beginnen-starten-stappenplan/)**
 
 ## **7\. Proppen of een cocktail maken in het buitenland**
 
@@ -114,7 +114,7 @@ Mijn ouders hebben het wel eens gedaan, om geld te besparen op hun vakantie; hou
 
 Een andere mogelijkheid die hierop aansluit is huizenruil. Hierbij ruil je letterlijk je huis om met die van iemand anders. Vaak vind je aanbiedingen hiervoor in relevante **Facebook groepen** of je kijkt gewoon op een **platform voor huizenruil**. Zo kun je in ieder geval ergens gratis verblijven en de plek ontdekken.
 
-Andere opties voor gratis verblijven zijn dingen als Couchsurfing, maar meer daarover vind je bij [de blog over gratis de wereld rond reizen](https://demodernenomaden.nl/tips/wereldreis-maken-zonder-geld/).
+Andere opties voor gratis verblijven zijn dingen als Couchsurfing, maar meer daarover vind je bij [de blog over gratis de wereld rond reizen](/blog/tips/wereldreis-maken-zonder-geld/).
 
 ## **9\. Internationaal oppassen**
 
@@ -138,7 +138,7 @@ Zo hebben meer vliegmaatschappijen regelingen waar je gebruik van kunt maken. Ee
 
 Het wordt ook vaak gezien als een job die je juist doet in die periode van je leven. Maar ik heb ook een stewardess gesproken die zegt: “**Eens een stewardess, altijd een stewardess. Je wordt verliefd op het vak en het reizen en ik kan dat niet loslaten.**” Inmiddels doet ze het werk al 15 jaar, en is op bijna iedere plek ter wereld geweest.
 
-**[Lijkt het jou wat om geld te verdienen waar dan ook ter wereld? Leer geld verdienen met jouw eigen blog.](https://demodernenomaden.nl/gratis/)**
+**[Lijkt het jou wat om geld te verdienen waar dan ook ter wereld? Leer geld verdienen met jouw eigen blog.](/blog/ondernemen/blog-beginnen-starten-stappenplan/)**
 
 ## **11\. Campingwerk in het buitenland**
 
@@ -164,7 +164,7 @@ Zelf ontmoette ik iemand in Sarajevo, een man van 50 die iedere paar maanden op 
 
 Hij koppelt zijn historische kennis vervolgens aan plekken in de stad en geeft tours aan mensen die daarin geïnteresseerd zijn. Een erg interessante manier van werken als je het mij vraagt en als je het goed doet bedraagt **de fooi per persoon zo 10,- euro.** Een groepje van 20 man en je kunt dus weer even vooruit op je bestemming.
 
-**[Werken kun je natuurlijk ook online doen, als digital nomad. Kijk hier hoe ik het aanpak en hoe jij ook kunt bouwen aan een online inkomen.](https://demodernenomaden.nl/gratis/)**
+**[Werken kun je natuurlijk ook online doen, als digital nomad. Kijk hier hoe ik het aanpak en hoe jij ook kunt bouwen aan een online inkomen.](/blog/ondernemen/blog-beginnen-starten-stappenplan/)**
 
 ## **14\. Sportactiviteiten organiseren en begeleiden**
 
@@ -198,7 +198,7 @@ Daar vind je [**vaste banen, vrijwilligerswerk en vakantiewerk**](https://grenze
 
 Er zijn genoeg opties om te werken terwijl je reist. En dan heb je nog niet eens gehoord van alle mogelijkheden die er zijn als je vanachter je laptop geld wilt verdienen op reis.
 
-**[Zelf werk ik online terwijl ik reis. Hierdoor ben ik niet gebonden aan een locatie en dat geeft een hoop vrijheid. Wil je zelf ook online geld verdienen, neem dan een kijkje bij mijn GRATIS online training.](https://demodernenomaden.nl/gratis/)**
+**[Zelf werk ik online terwijl ik reis. Hierdoor ben ik niet gebonden aan een locatie en dat geeft een hoop vrijheid. Wil je zelf ook online geld verdienen, neem dan een kijkje bij mijn GRATIS online training.](/blog/ondernemen/blog-beginnen-starten-stappenplan/)**
 
 #### _GRATIS Digital Nomad Boek_
 
@@ -206,6 +206,6 @@ Er zijn genoeg opties om te werken terwijl je reist. En dan heb je nog niet eens
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

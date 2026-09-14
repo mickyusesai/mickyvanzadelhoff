@@ -1,6 +1,6 @@
 ---
 title: "Slecht advies krijgen, leer slecht advies herkennen"
-description: ""
+description: "Noem is 10 dingen op waar je zelf voor hebt gekozen maar waar je oprecht spijt van hebt…"
 date: 2017-12-07
 updated: 2021-01-25
 category: "tips"

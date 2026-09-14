@@ -1,6 +1,6 @@
 ---
 title: "Online huiswerkbegeleider worden doe je zo!"
-description: ""
+description: "Wil jij online huiswerkbeleider worden en daarmee online geld verdienen? Wanneer je jouw school hebt afgerond, ben jij waarschijnlijk in staat om daar…"
 date: 2018-04-22
 updated: 2022-12-19
 category: "online-geld-verdienen"
@@ -66,6 +66,6 @@ Als (online) huiswerkbegeleider moet je rekenen op **het minimumloon**. Wel kan 
 
 Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](https://demodernenomaden.nl/digital-nomad-boek/)
+[Ga naar boek](/boek/)
 
 ![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

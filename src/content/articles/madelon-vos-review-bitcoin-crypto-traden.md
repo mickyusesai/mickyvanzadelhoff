@@ -1,6 +1,6 @@
 ---
 title: "Madelon Vos [Review 2025]: Bitcoin en Technische Analyse Academy & MoneyTalks"
-description: ""
+description: "In deze review over de Bitcoin en Technische Analyse Academy gaan we het hebben over Madelon Vos haar cursus en community."
 date: 2021-03-19
 updated: 2024-12-07
 category: "review"
@@ -62,7 +62,7 @@ Inmiddels hebben al **meer dan 25.000 cursisten** haar trainingen gevolgd. Wie d
 
 ![Crypto en Trading Academy Madelon Vos](/images/migrated/crypto-en-trading-academy-madelon-vos-1.webp "crypto-en-trading-academy-madelon-vos (1)")
 
-In de [Bitcoin en Technische Analyse Academy](https://demodernenomaden.nl/go/technische-analyse) van Madelon Vos leer je de basis van de cryptomarkt. In deze complete cursus leert zij je:
+In de [Bitcoin en Technische Analyse Academy](/go/technische-analyse) van Madelon Vos leer je de basis van de cryptomarkt. In deze complete cursus leert zij je:
 
 *   Winstgevend en veilig investeren en traden in Bitcoin/Crypto
 *   Complete basis voor bitcoin, cryptocurrencies en aandelen
@@ -108,7 +108,7 @@ Madelon Vos leert je hoe je cryptocurrencies veilig kunt bewaren in verschillend
 
 **Geld verdienen met crypto**
 
-Waarschijnlijk is dit de reden waarom je de cursus wilt volgen. Je wilt weten hoe je jouw vermogen voor je kunt laten werken in de cryptowereld. Je leert in dit onderdeel op welke verschillende manieren je [geld kunt verdienen met crypto](https://demodernenomaden.nl/online-geld-verdienen/handelen-in-crypto-valuta/).
+Waarschijnlijk is dit de reden waarom je de cursus wilt volgen. Je wilt weten hoe je jouw vermogen voor je kunt laten werken in de cryptowereld. Je leert in dit onderdeel op welke verschillende manieren je [geld kunt verdienen met crypto](/blog/web3/handelen-in-crypto-valuta/).
 
 Je ontdekt verschillende manieren om geld te verdienen met cryptocurrencies, zoals handelen (kopen en verkopen), minen (valideren van transacties), staken (vasthouden van crypto om beloningen te verdienen) en deelnemen aan DeFi-projecten (decentrale financiële toepassingen).
 
@@ -121,7 +121,7 @@ Je ontdekt verschillende manieren om geld te verdienen met cryptocurrencies, zoa
 *   Je kunt candlestick patronen herkennen (Bullish/Bearish Engulfing, Hammers, Doji’s).
 *   Je weet hoe je TradingView gebruikt voor technische analyse.
 
-Als je echt [geld wilt gaan verdienen met crypto](https://demodernenomaden.nl/web3/handelen-in-crypto-valuta/) is je kennis over munten op zich handig, maar nog belangrijker is leren hoe jij up to date kan blijven in zo’n snel bewegende markt. Daarom leert Madelon je ook technische analyses maken. En erg uitgebreid.
+Als je echt [geld wilt gaan verdienen met crypto](/blog/web3/handelen-in-crypto-valuta/) is je kennis over munten op zich handig, maar nog belangrijker is leren hoe jij up to date kan blijven in zo’n snel bewegende markt. Daarom leert Madelon je ook technische analyses maken. En erg uitgebreid.
 
 **Grafieken lezen en begrijpen**
 
@@ -213,19 +213,19 @@ Madelon Vos leert je hoe je verschillende tools en technieken combineert om een 
 
 –
 
-De ‘**[Crypto & Trading Academy](https://demodernenomaden.nl/go/technische-analyse)**‘ is voor mij enorm waardevol geweest. Waar ik bij het begin nog dacht dat het me allemaal iets te simpel was, leerde ik later in de cursus plots dingen waar ik nog nooit van had gehoord.
+De ‘**[Crypto & Trading Academy](/go/technische-analyse)**‘ is voor mij enorm waardevol geweest. Waar ik bij het begin nog dacht dat het me allemaal iets te simpel was, leerde ik later in de cursus plots dingen waar ik nog nooit van had gehoord.
 
 Dit maakt dat zowel de basics als de technische analyse van een heel saai onderwerp, naar iets leuks is gegaan. Geen hogere wiskunde, maar **begrijpelijke analyses** die iedereen kan uitvoeren.
 
 De prijs van de Crypto & Trading Academy is **697 euro**. Hierbij krijg je ook twee maanden gratis in de MoneyTalks community!
 
-[Begin met de Crypto & Trading Academy](https://demodernenomaden.nl/go/technische-analyse)
+[Begin met de Crypto & Trading Academy](/go/technische-analyse)
 
 # MoneyTalks Community
 
 ![MoneyTalks Community](/images/migrated/moneytalks-community-1.webp "moneytalks-community (1)")
 
-De **[MoneyTalks Community](https://demodernenomaden.nl/go/moneytalkscommunity)** is een actief platform gericht op de Bitcoin en cryptomarkt.
+De **[MoneyTalks Community](/go/moneytalkscommunity)** is een actief platform gericht op de Bitcoin en cryptomarkt.
 
 Je kunt hier al jouw vragen stellen over specifieke cryptomunten en ervaringen delen met gelijkgestemden. Het platform heeft inmiddels al meer dan 2000 leden en biedt **echt een meerwaarde aan jouw crypto trading avontuur**.
 
@@ -257,17 +257,17 @@ De prijs voor de MoneyTalks community is **€33,08 per maand** als je deze dire
 
 Ook kun je met de knop hieronder **toegang krijgen tot de MoneyTalks Community voor €1,-**. Je hebt dan 30 dagen toegang om het eens uit te proberen.
 
-[Meld je aan voor MoneyTalks Community](https://demodernenomaden.nl/go/moneytalkscommunity)
+[Meld je aan voor MoneyTalks Community](/go/moneytalkscommunity)
 
 # Prijs Crypto & Trading Academy
 
-De [Crypto en](https://demodernenomaden.nl/go/crypto-diamonds-deal) [Trading](https://demodernenomaden.nl/go/crypto-diamonds-deal) [Academy](https://demodernenomaden.nl/go/crypto-diamonds-deal) van Madelon Vos is er voor de echte fanatiekeling die direct goed aan de slag wilt met crypto en Bitcoin. Verder krijg je ook direct twee maanden toegang tot de MoneyTalks community.
+De [Crypto en](/go/crypto-diamonds-deal) [Trading](/go/crypto-diamonds-deal) [Academy](/go/crypto-diamonds-deal) van Madelon Vos is er voor de echte fanatiekeling die direct goed aan de slag wilt met crypto en Bitcoin. Verder krijg je ook direct twee maanden toegang tot de MoneyTalks community.
 
 Op de website van Madelon Vos kun je op dit moment nog de Crypto & Trading Academy bestellen **voor 697 euro**.
 
 Dit is ook de cursus waar ik zelf mee aan de slag ben gegaan en daar kan ik absoluut geen spijt van hebben. De technische analyses die ik leerde in dit pakket hebben me verder geholpen om daadwerkelijk winstgevende trades te maken.
 
-Je zou dan ook kunnen stellen dat de cursus van Madelon Vos **geen uitgave, maar een investering** is. Het helpt je immers om meer [geld te verdienen met crypto](https://demodernenomaden.nl/online-geld-verdienen/handelen-in-crypto-valuta/) en als we daarnaar kijken dan is het bedrag dat ze vraagt voor haar cursus een schijntje!
+Je zou dan ook kunnen stellen dat de cursus van Madelon Vos **geen uitgave, maar een investering** is. Het helpt je immers om meer [geld te verdienen met crypto](/blog/web3/handelen-in-crypto-valuta/) en als we daarnaar kijken dan is het bedrag dat ze vraagt voor haar cursus een schijntje!
 
 # Wat ik miste in de cursus van Madelon Vos
 
@@ -293,11 +293,11 @@ Daarom wil ik je graag **een uniek aanbod doen in combinatie met de Crypto en Tr
 
 # Voor wie is de Crypto & Trading Academy bedoelt?
 
-De [Bitcoin & Technische Analyse Academy](https://demodernenomaden.nl/go/crypto-diamonds-deal) is perfect voor zowel beginners als gevorderden. Het begin van de Crypto & Trading Academy was mij wat te simpel, maar enorm waardevol als je nieuw bent in de crypto wereld. Fijn is het in ieder geval dat de cursus in niveau opbouwt, waardoor iedereen in staat is om de technische analyses mee te doen.
+De [Bitcoin & Technische Analyse Academy](/go/crypto-diamonds-deal) is perfect voor zowel beginners als gevorderden. Het begin van de Crypto & Trading Academy was mij wat te simpel, maar enorm waardevol als je nieuw bent in de crypto wereld. Fijn is het in ieder geval dat de cursus in niveau opbouwt, waardoor iedereen in staat is om de technische analyses mee te doen.
 
 De cursus van Madelon Vos is niet voor jou bedoelt als je het niet interessant vind om lichte analyses uit te voeren. Als je echt vies bent van cijfers dan moet je je in ieder geval afvragen of crypto wel de ‘way to go’ is.
 
-De aanvullende [**MoneyTalks** **community**](https://demodernenomaden.nl/go/moneytalkscommunity) is daarbij enorm waardevol voor wie daadwerkelijk is begonnen met traden. Je wilt immers op de hoogte blijven van de laatste ontwikkelingen zodat je zeker bent dat je geld niet meer risico loopt dan je wenst.
+De aanvullende [**MoneyTalks** **community**](/go/moneytalkscommunity) is daarbij enorm waardevol voor wie daadwerkelijk is begonnen met traden. Je wilt immers op de hoogte blijven van de laatste ontwikkelingen zodat je zeker bent dat je geld niet meer risico loopt dan je wenst.
 
 # Reviews Madelon Vos
 
@@ -337,9 +337,9 @@ Daarover gesproken…
 
 Voor wie nog niet bekend is met Madelon Vos is het aan te raden om eerst een van haar gratis cursussen te volgen. Dan krijg je een beetje een idee van de trainingsstijl en weet je vast en zeker of de betaalde cursus aansluit op wat jij fijn vindt.
 
-[![Gratis trial Crypto en Trading Academy](/images/migrated/gratis-trail-crypto-en-trading-academy.webp)](https://demodernenomaden.nl/go/madelonvos)
+[![Gratis trial Crypto en Trading Academy](/images/migrated/gratis-trail-crypto-en-trading-academy.webp)](/go/madelonvos)
 
-Ook kun je gratis het e-book downloaden ‘Bescherm uw vermogen’. Dit e-book gaat over het verdelen van vermogen over verschillende markten zoals crypto en aandelen. Als je een van haar gratis cursussen of e-book wilt ontvangen dan kan dat via [deze link](https://demodernenomaden.nl/go/madelonvos).
+Ook kun je gratis het e-book downloaden ‘Bescherm uw vermogen’. Dit e-book gaat over het verdelen van vermogen over verschillende markten zoals crypto en aandelen. Als je een van haar gratis cursussen of e-book wilt ontvangen dan kan dat via [deze link](/go/madelonvos).
 
 # Conclusie Madelon Vos review
 
