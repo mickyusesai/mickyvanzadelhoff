@@ -2,16 +2,16 @@
 
 Generated from `src/content/articles/` on 2026-09-14, updated with Micky's decisions the same day (decision board + D3).
 
-**Action** values: `keep` (as is, light polish), `refresh` (update to 2026 after launch), `refresh-priority` (refresh before launch), `delete` (removed, old URL 301s). All 20 `decide` rows were resolved by Micky. Category `web3` stays online but is hidden from the homepage and blog overview (D3).
+**Action** values: `keep` (as is, light polish), `refresh` (update to 2026 after launch), `refresh-priority` (refresh before launch), `refreshed` (done), `delete` (removed, old URL 301s). All 20 `decide` rows were resolved by Micky. Category `web3` stays online but is hidden from the homepage and blog overview (D3).
 
 | # | Action | Category | Date | Updated | Words | Aff. links | Slug | Title | Note |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | `refresh-priority` | ondernemen | 2023-01-03 | 2024-02-23 | 1503 | 22 | `chat-gpt-ai-voor-ondernemers` | Dit kun je met ChatGPT als ondernemer – Aan de slag met OpenAI | AI topic: bridge to the new workshop focus. Refresh before launch |
-| 2 | `refresh-priority` | ondernemen | 2023-01-20 | 2025-02-28 | 5052 | 27 | `ai-tools-lijst` | 44 Beste AI tools en apps 2025 – Meer productiviteit met kunstmatige intelligentie | AI topic: bridge to the new workshop focus. Refresh before launch |
-| 3 | `refresh-priority` | ondernemen | 2024-02-17 | 2024-02-17 | 898 | 0 | `sora-open-ai` | Wat is Sora van OpenAI en wie kan het gebruiken? | AI topic: bridge to the new workshop focus. Refresh before launch |
-| 4 | `refresh-priority` | review | 2023-01-18 | 2023-01-19 | 1577 | 7 | `copymatic-review` | Copymatic review – Is dit de beste AI tool om blogs te schrijven? | AI topic: bridge to the new workshop focus. Refresh before launch |
-| 5 | `refresh-priority` | review | 2023-02-03 | 2023-02-03 | 1771 | 4 | `longshot-ai-review-nederlands` | LongShot de beste AI tool voor Nederlandse content? [2023 Review] | AI topic: bridge to the new workshop focus. Refresh before launch |
-| 6 | `refresh-priority` | web3 | 2023-01-19 | 2025-01-23 | 3765 | 59 | `ai-crypto-kunstmatige-intelligentie` | 18 Beste AI crypto om te kopen in 2025 | AI topic: bridge to the new workshop focus. Refresh before launch |
+| 1 | `refreshed` | ondernemen | 2023-01-03 | 2024-02-23 | 1503 | 22 | `chat-gpt-ai-voor-ondernemers` | Dit kun je met ChatGPT als ondernemer – Aan de slag met OpenAI | Refreshed to 2026 on 2026-09-14; open TODO comments flag prices/availability to verify |
+| 2 | `refreshed` | ondernemen | 2023-01-20 | 2025-02-28 | 5052 | 27 | `ai-tools-lijst` | 44 Beste AI tools en apps 2025 – Meer productiviteit met kunstmatige intelligentie | Refreshed to 2026 on 2026-09-14; open TODO comments flag prices/availability to verify |
+| 3 | `refreshed` | ondernemen | 2024-02-17 | 2024-02-17 | 898 | 0 | `sora-open-ai` | Wat is Sora van OpenAI en wie kan het gebruiken? | Refreshed to 2026 on 2026-09-14; open TODO comments flag prices/availability to verify |
+| 4 | `refreshed` | review | 2023-01-18 | 2023-01-19 | 1577 | 7 | `copymatic-review` | Copymatic review – Is dit de beste AI tool om blogs te schrijven? | Refreshed to 2026 on 2026-09-14; open TODO comments flag prices/availability to verify |
+| 5 | `refreshed` | review | 2023-02-03 | 2023-02-03 | 1771 | 4 | `longshot-ai-review-nederlands` | LongShot de beste AI tool voor Nederlandse content? [2023 Review] | Refreshed to 2026 on 2026-09-14; open TODO comments flag prices/availability to verify |
+| 6 | `refreshed` | web3 | 2023-01-19 | 2025-01-23 | 3765 | 59 | `ai-crypto-kunstmatige-intelligentie` | 18 Beste AI crypto om te kopen in 2025 | Refreshed to 2026 on 2026-09-14; open TODO comments flag prices/availability to verify |
 | 7 | `delete` | ondernemen | 2019-11-13 | 2022-01-27 | 666 | 0 | `webreus-storing` | Webreus storing – 55% minder website bezoekers door storingen | Deleted, old URL 301 to cloud86-webhosting-review |
 | 8 | `delete` | review | 2019-09-28 | 2023-01-03 | 1846 | 7 | `jia-ruan` | Wie is Jia Ruan en wat is zijn NFT Alpha | Micky decided: deleted, old URL 301 to homepage |
 | 9 | `refresh` | digitalenomaden | 2017-08-23 | 2022-01-27 | 1021 | 0 | `burn-out-als-digitale-nomade` | Burn-out als digital nomad | Evergreen nomad guide, update year/tools/prices |

@@ -43,9 +43,9 @@ BOOK_RE = re.compile(
     r'(?:\s*^!\[[^\]]*\]\([^)]*boek-cover[^)]*\)[ \t]*\n)?', re.M)
 WORKSHOP_RE = re.compile(
     r'(?:^!\[[^\]]*\]\([^)]*training-ai-kunstmatige-intelligentie-in-company[^)]*\)[ \t]*\n\s*)?'
-    r'^#{1,6}[ \t]*\*{0,2}Training AI op locatie 2024\*{0,2}[ \t]*\n'
+    r'^#{1,6}[ \t]*\*{0,2}Training AI op locatie 202[45]\*{0,2}[ \t]*\n'
     r'(?:(?!^#).*\n)*?'
-    r'^\[Contact voor meer info\]\(/contact/\)[ \t]*\n', re.M)
+    r'^\[(?:Contact voor meer info|Meer informatie)\]\((?:/contact/|/ai-workshops/ai-introductie/)\)[ \t]*\n', re.M)
 MEME_RE = re.compile(
     r'^## Klaar om de volgende 100x meme-coin sensatie te ontdekken\? 🚀[ \t]*\n'
     r'(?:(?!^#).*\n)*?'

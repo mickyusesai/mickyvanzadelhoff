@@ -66,6 +66,10 @@ URLs have no language prefix: `/blog/[category]/[slug]/`, `/over/`, `/boek/`, `/
   generated from `src/data/wordpress-redirects.csv` by `scripts/cleanup-content.py`.
 - Old URLs of every kind (articles, categories, pages, uploads, legacy redirects) are answered by
   `redirects` in `astro.config.mjs`, fed by the same JSON. Do not hand-edit the JSON; edit the script.
+- Article markup conventions after `scripts/fix-article-markup.py`: body headings start at H2, no bold
+  inside headings, in-article promo boxes are `<aside class="cta-box cta-box--book|--workshop not-prose">`,
+  YouTube embeds are `<div class="video not-prose"><iframe …></div>`. Uncertain facts in refreshed
+  articles carry `<!-- TODO: verify … -->` comments for Micky to check.
 
 ---
 
@@ -217,8 +221,6 @@ When refreshing De Moderne Nomaden articles for this site:
   (no angle-bracket nav, no horizontal pinning).
 
 ## Open questions for Micky (everything else is decided, see docs/MIGRATION-PLAN.md §5)
-- **Google Analytics Measurement ID** (`G-…`, from Admin → Data streams → Web stream) to set as
-  `PUBLIC_GA_MEASUREMENT_ID` on Railway. The account ID (101387956) is not enough for the tag.
 - **Logo:** none known; the name is used as a wordmark.
 - Micky prefers to answer questions **in chat**, so answers stay searchable.
 - **Headshot:** a newer high-quality photo is welcome; the current default is

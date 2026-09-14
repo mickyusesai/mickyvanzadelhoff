@@ -1,8 +1,8 @@
 ---
-title: "44 Beste AI tools en apps 2025 – Meer productiviteit met kunstmatige intelligentie"
-description: "Of je nu freelancer, ondernemer, hobbyist of student bent; er zijn altijd een paar AI tools die op jou liggen te wachten. Bijna de helft van alle…"
+title: "De 50 beste AI tools en apps in 2026 – Per categorie, met eerlijke uitleg"
+description: "De 50 beste AI tools van 2026 per categorie: chatten, schrijven, beeld, video, audio, vergaderen, marketing en bouwen. Welke je gratis kunt gebruiken en waarvoor."
 date: 2023-01-20
-updated: 2025-02-28
+updated: 2026-09-14
 category: "ondernemen"
 slug: "ai-tools-lijst"
 lang: "nl"
@@ -10,469 +10,346 @@ draft: false
 featuredImage: "/images/migrated/ai-tools-voor-productiviteit.webp"
 ---
 
-Of je nu freelancer, ondernemer, hobbyist of student bent; er zijn altijd een paar **AI tools** die op jou liggen te wachten. Bijna de helft van alle Nederlanders gebruikt AI om hun werk eenvoudiger te maken en een stuk sneller te doen.
+Of je nu freelancer, ondernemer, hobbyist of student bent: er zijn altijd een paar **AI tools** die op jou liggen te wachten. Toen ik deze lijst begin 2023 begon, was ChatGPT net uit en was elke tool een verrassing. In 2026 is de vraag niet meer óf je AI gebruikt, maar **welke tools echt tijd besparen** en welke je kunt overslaan.
 
-Of het nu gaat om het schrijven van een blog, designen van je huisstijl, maken van uitlegvideo’s of het doen van jouw social media posts; Artificial Intelligence kan het voor je doen.
+Daarom heb ik de lijst helemaal opnieuw opgebouwd: **50 tools, ingedeeld per categorie**, met per tool waar het goed in is en of er een gratis versie is. Alles wat ik zelf gebruik of in mijn workshops laat zien. Ken jij een tool die er niet bij staat? [Laat het me weten](/contact/).
 
-Het is dan ook niet meer een futuristisch concept uit je favoriete sci-fi film, maar een onmisbaar onderdeel van ons dagelijks leven. Daarnaast is de technologie niet alleen geavanceerder geworden, maar ook toegankelijker dan ooit. Ik bedoel: van bijna elke tool bestaat er wel een gratis versie.
+## Wat zijn AI tools?
 
-Afgelopen jaren zijn er enorm veel AI tools bijgekomen die jou kunnen helpen. Daarom heb ik maar even in dit artikel een **lijst met de 44 beste AI tools** gemaakt om dit jouw makkelijkste jaar te maken!
+Met AI tools bedoel ik **digitaal gereedschap dat met kunstmatige intelligentie een taak voor je oplost**: een tekst schrijven, een video maken, een vergadering notuleren, een proces automatiseren. De meeste tools zijn getraind om één ding heel goed te doen. De grote chatbots (ChatGPT, Claude, Gemini) kunnen inmiddels heel veel, en toch blijven gespecialiseerde tools winnen als je iets vaak en op dezelfde manier doet.
 
-## Wat zijn AI tools en apps?
+![AI tools](/images/migrated/ai-tools-2024-1.webp "AI tools")
 
-Met AI tools en apps bedoelen we **digitaal gereedschap dat met behulp van kunstmatige intelligentie een taak voor jou kan oplossen**. Deze technologie is ontworpen om specifieke taken uitzonderlijk goed te doen door gebruik te maken van geavanceerde machine learning-algoritmes, getraind op enorme hoeveelheden data.
+Een tip vooraf: **begin bij de eerste categorie**. Een goede chatbot vervangt in 2026 een flink deel van de losse tools uit de rest van de lijst. Kom je daarmee niet uit, pak dan het gespecialiseerde gereedschap erbij.
 
-![ai-tools-2024](/images/migrated/ai-tools-2024-1.webp "ai-tools-2024")
+## Chatten, schrijven en denken
 
-De opkomst van AI kwam in een stroomversnelling in 2023, toen **ChatGPT** beschikbaar werd voor iedereen. Deze chatbot toonde niet alleen hoe AI complexe taken aankan, maar inspireerden ook een golf van **nieuwe AI-oplossingen**. Inmiddels zijn er duizenden gespecialiseerde AI-tools ontwikkeld die veel verder gaan dan alleen tekstgeneratie.
+### 1. ChatGPT – De alleskunner
 
-AI-toepassingen zijn tegenwoordig indrukwekkend veelzijdig: ze creëren elk soort **visuele content** die je maar wilt, verbeteren productiviteit met **slimme assistenten**, en dragen zelfs bij aan welzijn door **mentale ondersteuning** te bieden of **gezondheidsmetingen** uit te voeren.
+De chatbot die het allemaal in gang zette. Tekst schrijven, samenvatten, rekenen op je spreadsheet, afbeeldingen maken, live zoeken op internet, praten in plaats van typen en met Deep Research zelfstandig een onderzoek uitvoeren. Gratis te gebruiken; de sterkste modellen en meer gebruik zitten in het betaalde abonnement. Wat je er als ondernemer mee kunt, staat in [dit artikel](/blog/ondernemen/chat-gpt-ai-voor-ondernemers/).
 
-Je zult zien dat veel AI tools zo zijn gemaakt dat ze één taak erg goed kunnen omdat ze hierop zijn getraind aan de hand van héél veel data. Zo was één AI tool heel goed getraind om afbeeldingen te maken zoals die hierboven. Die was binnen 2 seconden gemaakt door Dall-E 3.
+[Ga naar ChatGPT](https://chatgpt.com/)
 
-Wat we nu zien, is dat AI niet alleen efficiënter wordt, maar ook creatiever en intuïtiever. ChatGPT mag dan de start van een revolutie zijn geweest, maar het was slechts het topje van de ijsberg. De wereld van AI blijft zich razendsnel ontwikkelen – en we staan nog maar aan het begin van wat mogelijk is.
+### 2. Claude – Sterk in schrijven, redeneren en lange documenten
 
-![training-ai-kunstmatige-intelligentie-in-company](/images/migrated/training-ai-kunstmatige-intelligentie-in-company-2.webp "training-ai-kunstmatige-intelligentie-in-company")
+Claude, van Anthropic, is mijn favoriet voor **schrijven en nadenken**. Het schrijft natuurlijker Nederlands dan de meeste concurrenten, werkt prettig met lange documenten en is opvallend goed in gestructureerd redeneren. In "Projects" zet je al je context bij elkaar, zodat je niet elke keer opnieuw hoeft uit te leggen wie je bent. Gratis versie beschikbaar.
 
-### Training AI op locatie 2025
+[Ga naar Claude](https://claude.ai/)
 
-De wereld waarin we werken veranderd ontzettend snel. Breng jezelf en jouw team op de hoogte van de laatste ontwikkelingen en leer **hoe AI tools zoals ChatGPT en Gemini zijn in te zetten voor productiviteit, (werk)geluk en succes!**
+### 3. Gemini – De AI van Google, in al je Google-apps
 
-Duur: 3 uur  
-Investering: 950,- ex BTW  
-Formaat: Tot 30 deelnemers
+Gemini zit in Gmail, Docs, Drive en Android. Handig als je toch al in Google werkt: een mail laten samenvatten, een document laten schrijven, in je agenda laten plannen. Het onderliggende model hoort bij de top, en de beeld- en videogeneratie (Veo, verderop) zit erin.
 
-[Meer informatie](/ai-workshops/ai-introductie/)
+[Ga naar Gemini](https://gemini.google.com/)
 
-## 44 AI tools lijst
+### 4. Microsoft Copilot – AI in Word, Excel, Outlook en Teams
 
-Deze lijst met **AI tools voor 2025** is erg zorgvuldig samengesteld. Ken jij een tool die je graag gebruikt, maar welke er niet bij staat? Laat het dan [hier](/contact/) even weten, dan voegen we hem wellicht toe!
+Voor bedrijven die op Microsoft 365 draaien is Copilot de logische keuze: het vat je Teams-vergaderingen samen, schrijft mails in Outlook, analyseert je Excel en maakt PowerPoints van een Word-document. Het grote voordeel is dat je data binnen je eigen Microsoft-omgeving blijft.
 
-### 1. Speechify – AI Voice generator en Voice Cloning
+[Ga naar Copilot](https://copilot.microsoft.com/)
 
-![speechify-ai-tool](/images/migrated/speechify-ai-tool-1.webp "speechify-ai-tool")
+### 5. Perplexity – Zoeken met antwoorden en bronnen
 
-[Speechify](/go/speechify) maakt van jouw tekst een **voice-over**. Deze tool werkt in tal van talen en kun je zelfs in het Nederlands gebruiken om bijvoorbeeld een **voice-over te maken voor jouw video, presentatie, podcast of e-learning module**.
+Googelen gaat eruit. Perplexity geeft je direct **een antwoord met bronvermelding** in plaats van tien blauwe links. Ik gebruik het om snel in een onderwerp te duiken voordat ik een workshop geef: binnen minuten heb ik wat ik anders in een uur bij elkaar zocht. Gratis, met een pro-versie voor zwaardere modellen.
 
-Met Speechify kun je eenvoudig en snel professionele audio creëren zonder dat je zelf een microfoon hoeft aan te raken. Bovendien biedt Speechify de mogelijkheid om je eigen stem te klonen, wat unieke toepassingen mogelijk maakt.
+[Ga naar Perplexity](https://www.perplexity.ai/)
 
-Denk hierbij aan het creëren van persoonlijke audioboeken waar je in je eigen stem voorleest, het behouden van je stem voor toekomstige communicatie, het waarborgen van consistentie in de audio voor podcasters en YouTubers, en het produceren van gepersonaliseerde voice-overs voor trainingsmateriaal of klantenservice in het bedrijfsleven.
+### 6. NotebookLM – Praat met je eigen documenten
 
-**Ontdek zelf hoe Speechify jouw content naar een hoger niveau tilt! Je kunt via [deze link](/go/speechify) direct een stukje tekst uitproberen (gratis én zonder account).**
+Upload je notities, rapporten, PDF's of YouTube-video's en NotebookLM (van Google) beantwoordt vragen alleen op basis van dát materiaal, met verwijzingen. De **audio-overzichten**, waarin twee AI-stemmen je documenten bespreken als een podcast, zijn verrassend goed om iets te leren. Gratis.
 
-[Ga naar website Speechify](/go/speechify)
+[Ga naar NotebookLM](https://notebooklm.google.com/)
 
-### 2. Elementor AI – Websites bouwen met Artificial Intelligence
+## Schrijven en SEO
 
-Met [**Elementor AI**](/go/elementorai) kun je binnen enkele minuten webpagina’s maken. Voor wie een eigen website heeft of wilt hebben is dit echt ideaal! Nooit meer een gebrek aan inspiratie over je webteksten en tal van tools om zonder technische kennis die website eruit te rollen. Ze hebben een breed scala aan tools, waarvan ik zelf de meest interessante vind om je teksten voor de website te schrijven in de door jou gekozen tone-of-voice; zo past iedere website tekst perfect bij jouw stijl. Ook de optie om binnen je website afbeeldingen te genereren maakt het hele bouwproces stukken sneller. Maak jij jouw (volgende) website met Elementor AI? De AI tools zijn als trial inbegrepen bij iedere Elementor website.
+### 7. LongShot – Alles-in-één AI schrijftool voor SEO-artikelen
 
-[Ga naar website Elementor AI](/go/elementorai)
+Voor iedereen die regelmatig artikelen schrijft die moeten ranken, is [LongShot](/go/longshot) de tool die ik het langst gebruik. Onderzoek, concurrentie-analyse, outline, fact-check met bronnen en tekst, in één workflow. Het schrijft goed Nederlands. [Mijn uitgebreide review lees je hier](/blog/review/longshot-ai-review-nederlands/).
 
-### 3. Runway – Creatieve tool voor het maken en bewerken van afbeeldingen en video
+[Ga naar LongShot](/go/longshot)
 
-![runway-ai-tool](/images/migrated/runway-ai-tool-1.webp "runway-ai-tool")
+### 8. Copymatic – Templates voor elk soort tekst
 
-Met Runway kun je jouw creatieve projecten naar een hoger niveau tillen door gebruik te maken van advanced AI. Of je nu video’s en afbeeldingen wilt genereren, afbeeldingen oneindig wilt uitbreiden, of iets geheel nieuws wilt creëren, Runway biedt de tools die je nodig hebt. Je kunt zelfs aangepaste modellen trainen om unieke effecten te bereiken, elementen uit video’s wissen, en meer. Het is ontworpen om de kracht van AI toegankelijk te maken voor creatievelingen; er zijn gigantisch veel mogelijkheden.
+[Copymatic](/go/copymatic) heeft meer dan 80 templates: van productbeschrijvingen en advertenties tot volledige blogs en social posts. Sterk in volume-werk en goedkoop, met een WordPress-plugin om artikelen direct te publiceren. [Review](/blog/review/copymatic-review/).
 
-[Ga naar website Runway](https://runwayml.com/)
+[Ga naar Copymatic](/go/copymatic)
 
-### 4. Looka – AI design tool voor logo en huisstijl
+### 9. Copy.ai – Schrijftool met workflows voor marketingteams
 
-![Looka AI design tool voor logo en huisstijl](/images/migrated/looka-ai-tool-design-logo-1.webp "Looka AI design tool voor logo en huisstijl")
+Copy.ai begon als schrijftool en is uitgegroeid tot een platform waarmee marketingteams hele contentworkflows automatiseren. Je kiest per tekst de tone-of-voice: vriendelijk, formeel, grappig. Werkt in het Nederlands.
 
-Looka is werkelijk een geweldige AI tool. Je kunt er vanaf scratch mee gaan designen voor bijvoorbeeld een nieuw bedrijf. Op die manier maakt de AI logo’s voor je en verwerkt deze direct in alles wat met je huisstijl te maken heeft. Denk aan promotiemateriaal, social media templates en visitekaartjes. Een all-in-one AI tool voor het design dat een nieuw bedrijf nodig heeft.
+[Ga naar Copy.ai](/go/copy-ai)
 
-[Ga naar website Looka](/go/looka)
+### 10. NeuralText – Zoekwoordenonderzoek en content op één plek
 
-![training-ai-kunstmatige-intelligentie-in-company](/images/migrated/training-ai-kunstmatige-intelligentie-in-company-2.webp "training-ai-kunstmatige-intelligentie-in-company")
+Een schrijftool met **één specifieke feature**: het SEO-zoekwoordenonderzoek zit erin. Je ziet direct het zoekvolume, de lengte van de artikelen van je concurrentie en hun autoriteit, zodat je vooraf weet of een onderwerp kansrijk is.
 
-### Training AI op locatie 2025
+[Ga naar NeuralText](/go/neuraltext)
 
-De wereld waarin we werken veranderd ontzettend snel. Breng jezelf en jouw team op de hoogte van de laatste ontwikkelingen en leer **hoe AI tools zoals ChatGPT en Gemini zijn in te zetten voor productiviteit, (werk)geluk en succes!**
+### 11. Texta – Eenvoudige schrijftool voor blogs en scripts
 
-Duur: 3 uur  
-Investering: 950,- ex BTW  
-Formaat: Tot 30 deelnemers
+Texta is een zeer makkelijk te gebruiken schrijftool voor Nederlandse blogs, videoscripts en SEO-content, voor vrijwel iedere niche. Handig zijn de lijsten met contentideeën als je even niet weet waarover je moet schrijven.
 
-[Meer informatie](/ai-workshops/ai-introductie/)
+[Ga naar Texta](/go/texta)
 
-### 5. Browse AI – Blijf continue op de hoogte van concurrentie
+### 12. CopyMonkey – Productbeschrijvingen voor Bol.com en Amazon
 
-![Browse AI tool](/images/migrated/browse-ai-tool-1.webp "Browse AI tool")
+De copywritingtool voor e-commerce. Heb je een webshop of verkoop je via [Bol.com](/blog/ondernemen/verkopen-op-bol-com/) of Amazon, dan genereert CopyMonkey productbeschrijvingen en optimaliseert ze op de belangrijkste zoekwoorden.
 
-Browse AI is jouw soort van private investigator voor het continue bespieden van concurrentie. Je kunt deze AI van alles aanleren, bijvoorbeeld om de prijs van een specifieke groep concurrenten te blijven tracken en jou een melding te sturen als deze veranderd. Deze AI is ook goed in te zetten voor lead generatie omdat je met enkele simpele instellingen flink wat data uit een grote berg websites kunt halen (denk aan e-mail, telefoonnummer etc.)
+[Ga naar CopyMonkey](/go/copymonkey)
 
-[Ga naar website Browse AI](/go/browse-ai)
+### 13. Originality – AI- en plagiaatdetectie
 
-### 6. ChatBot – AI chatbot software voor jouw website
+Checkt of een tekst door een mens is geschreven en of er plagiaat in zit. Handig als je schrijvers inhuurt of als docent werkstukken nakijkt. Geen enkele detector is honderd procent betrouwbaar, dus gebruik het als signaal, niet als bewijs.
 
-![AI chatbot software](/images/migrated/chatbot-software-1.webp "AI chatbot software")
+[Ga naar Originality](/go/originality)
 
-Geef jouw websitebezoekers de hulp die ze nodig hebben met deze AI chatbot. Deze tool beantwoord niet alleen vragen, maar is ook geoptimaliseerd voor het doen van marketing en sales. De chatbot instellen is vrij eenvoudig omdat de AI zelf veel oppikt en je al direct gebruik kunt maken van ruim ingevulde templates. Deze software verhoogt direct de engagement en conversie van jouw website!
+## Beeld en design
 
-[Ga naar website ChatBot](/go/chatbot-com)
+### 14. Midjourney – De mooiste AI-afbeeldingen
 
-### 7. Sembly AI – Transcriberen en notuleren bij meetings
+Midjourney is inmiddels een kunstwerk op zichzelf. Realistische texturen, goede kleuren en een steeds betere interpretatie van je prompt. Zelf gebruik ik het voor **inspiratiebeelden**: meerdere versies van een feest dat we organiseren, of een websiteontwerp. Sinds 2025 maakt het ook korte video's van je afbeeldingen. Werkt via de website, betaald.
 
-![Sembly AI tool](/images/migrated/sembly-ai-tool-1.webp "Sembly AI tool")
+[Ga naar Midjourney](https://www.midjourney.com/)
 
-Niet bepaalt het leukste klusje tijdens een vergadering; notuleren of transcriberen. Sembly AI neemt je dat volledig uit handen en komt met een aantal interessante functies. Zo wordt iedere meeting beknopt samengevat met de belangrijkste punten en gebruikt de AI tool voice identification om door te hebben wie wat zegt tijdens een vergadering.
+### 15. Beeldgeneratie in ChatGPT – Van DALL·E naar afbeeldingen die tekst kunnen
 
-[Ga naar website Sembly AI](/go/sembly)
+De losse DALL·E-tool is opgegaan in ChatGPT zelf. Je vraagt gewoon om een afbeelding, en het grote verschil met vroeger: **tekst in beeld klopt nu**, en je kunt een foto uploaden en laten aanpassen. Voor snelle visuals, mock-ups en social posts is dit vaak genoeg.
 
-### 8. Elementor AI – Maak websites met kunstmatige intelligentie
+[Ga naar ChatGPT](https://chatgpt.com/)
 
-![elementor-ai](/images/migrated/elementor-ai-1.webp "elementor-ai")
+### 16. Adobe Firefly – Generatieve AI in Photoshop en Premiere
 
-Als ex-webdesigner kon ik er uren (en soms dagen) mee bezig zijn; **een website bouwen die een beetje lijkt op de website van die en die**. Vaak is het maken van een website het samenvoegen van de beste elementen van een hoop andere websites. Dit namaken en samenvoegen kostte altijd veel tijd, tot nu! Want nu kun je met één druk op de knop een bestaande internetpagina kopiëren naar Elementor zodat jij deze kan bewerken naar wens. Daarbij kun je Elementor AI ook inzetten om je pagina te vervolledigen die je aan het maken bent, super handig.
+Firefly zit in de Adobe-apps die je al gebruikt. Afbeeldingen genereren en eindeloos uitbreiden in Photoshop, video's verlengen in Premiere, en alles getraind op materiaal waar Adobe de rechten van heeft, wat voor commercieel gebruik een pluspunt is.
 
-[Ga naar website Elementor AI](https://elementor.com/products/ai/)
+[Ga naar Adobe Firefly](https://www.adobe.com/nl/products/firefly.html)
 
-### 9. Urbanist AI – Urban planning en co-design
+### 17. Canva Magic Studio – AI-design voor niet-designers
 
-![urbanist-ai](/images/migrated/urabnist-ai-1.webp "urbanist-ai")
+Canva heeft AI in elke hoek gestopt: tekst-naar-afbeelding, achtergronden weghalen, ontwerpen laten vertalen naar andere formaten, presentaties genereren. Voor social media en drukwerk is dit de snelste weg van idee naar resultaat. Gratis versie beschikbaar.
 
-Urbanist AI is een eenvoudig te gebruiken applicatie om stakeholders en inwoners te betrekken bij het ontwerp proces van hun straat of wijk. De app laat zien hoe verschillende ideeën eruit komen te zien in de realiteit, met AI gegenereerd design dat wordt gecombineerd met de werkelijke omgeving.
+[Ga naar Canva](https://www.canva.com/)
 
-[Ga naar website Urbanist AI](https://urbanistai.com/)
+### 18. Looka – Logo en huisstijl in een middag
 
-### 10. Murf AI – Van tekst naar mensechte spraak
+Looka ontwerpt een logo op basis van je voorkeuren en verwerkt het direct in alles wat bij je huisstijl hoort: visitekaartjes, social media templates, promotiemateriaal. Een all-in-one tool voor het design dat een nieuw bedrijf nodig heeft.
 
-![Murf Voice Generator](/images/migrated/murf-ai-voice-generator-1.webp "Murf Voice Generator")
+[Ga naar Looka](/go/looka)
 
-Of je nu zoekt naar een waanzinnige voice-over voor een video of jouw boek wilt uitbrengen als luisterboek; Murf AI helpt je op weg! Deze text to speech generator levert levensechte geluidsbestanden op die niet meer van echt zijn te onderscheiden. Klik maar eens op de link hieronder en hoor het zelf ;). Murf AI werkt óók in het Nederlands.
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, inclusief de tools uit deze lijst. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
-[Ga naar website Murf AI](/go/murf-ai)
+## Video
 
-![training-ai-kunstmatige-intelligentie-in-company](/images/migrated/training-ai-kunstmatige-intelligentie-in-company-2.webp "training-ai-kunstmatige-intelligentie-in-company")
+### 19. Sora – Video's van tekst, van OpenAI
 
-### Training AI op locatie 2025
+Sora was in 2024 de demo die iedereen versteld deed staan; inmiddels zit het in ChatGPT en maakt het clips met geluid. Ideaal voor B-roll, social content en conceptvideo's. [Alles over Sora en hoe je het gebruikt](/blog/ondernemen/sora-open-ai/).
 
-De wereld waarin we werken veranderd ontzettend snel. Breng jezelf en jouw team op de hoogte van de laatste ontwikkelingen en leer **hoe AI tools zoals ChatGPT en Gemini zijn in te zetten voor productiviteit, (werk)geluk en succes!**
+[Ga naar Sora](https://sora.com/)
 
-Duur: 3 uur  
-Investering: 950,- ex BTW  
-Formaat: Tot 30 deelnemers
+### 20. Google Veo – Video met geluid, in Gemini
 
-[Meer informatie](/ai-workshops/ai-introductie/)
+De videogenerator van Google, te gebruiken via Gemini. Veo maakt sinds 2025 video's inclusief passend geluid en dialoog en is voor veel toepassingen minstens zo goed als Sora. Probeer ze allebei met dezelfde prompt.
 
-### 11. SmartWriter – Gepersonaliseerde LinkedIN berichten en e-mails door AI
+[Ga naar Gemini](https://gemini.google.com/)
 
-![SmartWriter AI tool](/images/migrated/smartwriter-ai-tool-1.webp "SmartWriter AI tool")
+### 21. Runway – Creatieve videotool voor makers
 
-Stel dat je voor jouw B2B sales een acquisitie mail verstuurd of professionals contact via een bericht op LinkedIN, dan gaat hier enorm veel tijd in zitten. Al helemaal als je wilt dat deze berichten goed converteren, je wilt ze dan namelijk persoonlijk maken. Met de AI tool van SmartWriter genereer je dat soort persoonlijke berichten in een paar klikken op basis van wat er op bijvoorbeeld LinkedIN over die persoon te vinden is. Laat maar komen, die hoge conversies!
+Runway is de tool voor wie **echt met video werkt**: genereren, verlengen, elementen wissen, camerabewegingen sturen en eigen modellen trainen voor een unieke stijl. Meer controle dan Sora, en gemaakt voor creatieve professionals.
 
-[Ga naar website SmartWriter](/go/smartwriter)
+[Ga naar Runway](https://runwayml.com/)
 
-### 12. Originality – Plagiaat en AI detector
+### 22. Synthesia – Video's met een AI-presentator
 
-![Originality AI detector](/images/migrated/originality-ai-detector-1.webp "Originality AI detector")
+Een video maken zonder camera: je typt de tekst, kiest een avatar en Synthesia maakt een professionele uitlegvideo, ook in het Nederlands. Net zo eenvoudig als een PowerPoint maken. Sterk voor trainingen, onboarding en productuitleg.
 
-Deze AI tool checkt of een tekst geschreven is door een mens en of deze plagiaat bevat. In tijden waarin je met AI gemakkelijk teksten kan genereren, kan het nodig zijn om originaliteit te achterhalen. Specifiek is dit handig als je een schrijver inhuurt en zeker wilt zijn dat het originele content is of wanneer je als docent op een school werkstukken van studenten nakijkt. Originality herkent ook teksten die zijn geschreven met ChatGPT.
+[Ga naar Synthesia](/go/synthesia)
 
-[Ga naar website Originality](/go/originality)
+### 23. HeyGen – Je eigen AI-avatar en vertaalde video's
 
-### 13. Pencil – Converterende social media advertenties maken
+HeyGen maakt een avatar die eruitziet als jij, met je eigen stem, in tientallen talen. De vertaalfunctie, waarbij je mond mee beweegt met de nieuwe taal, is indrukwekkend. Ideaal om jezelf te vermenigvuldigen voor content.
 
-![Pencil AI advertenties genereren](/images/migrated/pencil-ai-ad-creatives-1.webp "Pencil AI advertenties genereren")
+[Ga naar HeyGen](https://www.heygen.com/)
 
-Hoe zou jouw advertentie het doen als je deze zou optimaliseren op basis van de resultaten van één miljard in advertentie uitgaven? Waarschijnlijk super goed! Deze data driven AI combineert gigantisch veel ervaring om voor jou de beste advertentie creative en tekst te genereren. Dat is snel, eenvoudig en converterend.
+### 24. Descript – Video en audio editen door tekst te bewerken
 
-[Ga naar website Pencil](/go/trypencil)
+Descript maakt een transcript van je opname en je knipt in de video door woorden in de tekst te verwijderen. Stiltes en "uhm's" weghalen kost één klik, ondertitels komen er automatisch bij. Voor podcasts en uitlegvideo's mijn favoriete editor.
 
-### 14. CopyMonkey -AI tool voor e-commerce productbeschrijvingen
+[Ga naar Descript](https://www.descript.com/)
 
-![Copymonkey AI tool voor webshop listings](/images/migrated/copymonkey-website-1.webp "Copymonkey AI tool voor webshop listings")
+### 25. Opus Clip – Van lange video naar korte clips
 
-CopyMonkey is de copywriting tool voor e-commerce! Heb jij een eigen webshop of verkoop je producten op Bol.com en Amazon, dan is deze AI tool alles wat je nodig hebt. Het genereert productbeschrijvingen en optimliseert deze op basis van de belangrijkste zoekwoorden.
+Upload een lange video of webinar en Opus Clip zoekt de sterkste momenten, knipt ze tot verticale shorts met ondertitels en geeft elke clip een score. Zo haal je uit één opname een week aan social content.
 
-[Ga naar website CopyMonkey](/go/copymonkey)
+[Ga naar Opus Clip](https://www.opus.pro/)
 
-### 15. Podcastle – Maak eenvoudig professionele podcasts
+### 26. Pictory – Video's maken van tekst of blogposts
 
-![Podcastle AI tool website](/images/migrated/podcastle-ai-tool-website-1.webp "Podcastle AI tool website")
+Pictory maakt van een blogpost of script een video met stockbeelden, voice-over en ondertitels, en zet één video om naar de formaten van elk platform. Voor wie veel wil posten zonder een videoploeg.
 
-Hoge kwaliteit opnames van jouw podcast en automatische editing door kunstmatige intelligentie. Met Podcastle kun je op eenvoudige wijze aan de slag met het maken van professionele podcasts zonder dat je van die dure apparatuur nodig hebt. Deze AI tool fixed dat de kwaliteit er geweldig uit komt!
+[Ga naar Pictory](/go/pictory)
 
-[Ga naar website Podcastle](/go/podcastle)
+## Audio en spraak
 
-### 16. Ocoya – Social media marketing op automatische piloot
+### 27. ElevenLabs – De meest natuurlijke AI-stemmen
 
-![Ocoya Social Media Marketing AI Tool](/images/migrated/ocoya-social-media-ai-tool-1.webp "Ocoya Social Media Marketing AI Tool")
+Als je één stemtool onthoudt, dan deze. ElevenLabs maakt tekst-naar-spraak die nauwelijks van echt te onderscheiden is, kloont je eigen stem en dubt complete video's naar andere talen. Werkt goed in het Nederlands. Gratis versie beschikbaar voor korte fragmenten.
 
-Op het Ocoya platform creëer, genereer en post je op de automatische piloot social media content. Alles rondom social media posts zit hier op een plek waardoor je nooit meer moeilijk hoeft te doen met het inplannen van content die je ergens anders geschreven hebt. Deze AI tool is een echte time saver voor iedere social media marketeer en ondernemer die zijn eigen socials beheert.
+[Ga naar ElevenLabs](https://elevenlabs.io/)
 
-[Ga naar website Ocoya](/go/ocoya)
+### 28. Speechify – Voice-overs en voorlezen
 
-### 17. Copymatic – AI tool voor het schrijven van teksten
+Speechify maakt van jouw tekst een voice-over voor video's, presentaties, podcasts of e-learning, in het Nederlands en tal van andere talen. Ook handig andersom: laat artikelen en PDF's aan je voorlezen terwijl je onderweg bent. Je kunt via [deze link](/go/speechify) direct een stukje tekst uitproberen zonder account.
 
-![Copymatic AI tool](/images/migrated/copymatic-ai-tool-1.webp "Copymatic AI tool")
+[Ga naar Speechify](/go/speechify)
 
-Copymatic schrijft je blogs, artikelen, SEO, social media posts, video scripts en website. Met meer dan 81 soorten teksten om uit te kiezen, weet je zeker dat het soort content dat jij wilt produceren door deze AI tool gemaakt kan worden.
+### 29. Murf AI – Text-to-speech studio voor voice-overs
 
-[Ga naar website Copymatic](/go/copymatic)
+Murf biedt meer dan honderd stemmen in twintig talen met instelbare toonhoogte, tempo en emotie, en synchroniseert de audio direct met je video of presentatie. Klik op de link en hoor het zelf.
 
-### 18. Copy.ai – App voor het schrijven van Nederlandse content
+[Ga naar Murf AI](/go/murf-ai)
 
-![Copy AI copywriting tool](/images/migrated/copy-ai-copywriting-tool-1.webp "Copy AI copywriting tool")
+### 30. Podcastle – Podcasts opnemen en bewerken
 
-Naar mijn idee is dit een van de beste **AI copywriting tools** die je gaat vinden. Je kunt Copy.ai van alles voor jou laten schrijven. Denk aan (long form) blogs, social media posts, e-mails, website content en sales pages. Een van de toffe dingen aan Copy.ai is dat je bij alle soorten content die je wilt laten schrijven, zelf de tone-of-voice kiest. Zo is het aan jou of de uiteindelijke content er vriendelijk, formeel, grappig of arrogant uitkomt. Met deze tool kun je Nederlandstalig schrijven.
+Opnemen in hoge kwaliteit, achtergrondruis weghalen, gasten op afstand opnemen en automatisch editen. Met Podcastle maak je professionele podcasts zonder dure apparatuur.
 
-[Ga naar website Copy.ai](/go/copy-ai)
+[Ga naar Podcastle](/go/podcastle)
 
-### 19. NeuralText – Snel en soepel onderzoek doen voor jouw content
+## Vergaderen, notuleren en productiviteit
 
-![Neuraltext AI](/images/migrated/neuraltext-ai-1.webp "Neuraltext AI")
+### 31. Sembly AI – Notulen die zichzelf schrijven
 
-Dit is wederom een AI copywriting tool, maar dan met **één specifieke feature**! Ze doen ook gelijk het **SEO zoekwoordenonderzoek** voor je en geven je binnen de app al direct het zoekvolume, het gemiddelde aantal woorden van de artikelen van jouw concurrentie en de autoriteitsscore daarvan aan. Op deze manier kun je vooraf al weten of wat je gaat schrijven goed of slecht gaat ranken in Google.
+Niet bepaald het leukste klusje tijdens een vergadering: notuleren. Sembly neemt het uit handen. Elke meeting wordt samengevat met de belangrijkste punten en acties, en de tool herkent wie wat zegt.
 
-[Ga naar website NeuralText](/go/neuraltext)
+[Ga naar Sembly AI](/go/sembly)
 
-### 20. Texta – Automatiseer jouw contentmarketing met AI
+### 32. Otter.ai – Transcriptie tijdens het gesprek
 
-![Texta blog app](/images/migrated/texta-blog-tool-1.webp "Texta blog app")
+Otter luistert mee in Zoom, Teams en Google Meet, transcribeert live en markeert de belangrijkste punten. Het fijne: je kunt je volledig op het gesprek richten zonder bang te zijn iets te missen. Gratis versie beschikbaar.
 
-Texta is een zeer makkelijk te gebruiken schrijftool. Je kunt deze AI Nederlandstalige teksten laten genereren zoals blogs, videoscripts en SEO content. Dit werkt voor vrijwel iedere niche. Handig is dat de tool je ook lijsten met ideeën kan geven voor wat voor soort content je kunt plaatsen. Op deze manier werkt Texta optimaal voor jouw online vindbaarheid en aantal websitebezoekers.
+[Ga naar Otter.ai](https://otter.ai/)
 
-[Ga naar website Texta](/go/texta)
+### 33. Notion AI – Je hele werkplek slimmer
 
-### 21. Unbounce – Effectieve AI gegenereerde landingspagina’s
+Als je Notion al gebruikt, is de AI-laag een cadeautje: samenvattingen van pagina's, teksten schrijven, vragen stellen aan je hele workspace en vergadernotities die automatisch acties opleveren. Eén tool voor plannen, schrijven en kennis.
 
-![Landingspagina bouwen met Unbounce AI](/images/migrated/landingspagina-bouwen-met-unbounce-1.webp "Landingspagina bouwen met Unbounce AI")
+[Ga naar Notion](https://www.notion.so/)
 
-Als je de bezoekers van je website in klanten wil veranderen dan heb je goede, conversiegerichte pagina’s nodig. Unbounce maakt deze (landings)pagina’s voor jou met behulp van artificial intelligence. Steeds met data geoptimaliseerde conversie technieken zodat je zeker weet dat die pagina optimaal verkoopt!
+### 34. Gamma – Presentaties zonder de moeite
 
-[Ga naar website Unbounce](/go/unbounce)
+Ik ben nooit een ster geweest in presentaties maken. Bij Gamma geef ik een paar aanwijzingen en het genereert een complete presentatie, document of zelfs een simpele website, met beelden erbij. Voor wie liever aan de inhoud werkt dan aan de vormgeving. Gratis versie beschikbaar.
 
-### 22. LongShot – 10x Jouw websitebezoekers met deze alles-in-één AI schrijftool
+[Ga naar Gamma](https://gamma.app/)
 
-![LongShot AI](/images/migrated/longshot-ai-copywriting-1.webp "LongShot AI")
+### 35. Missive – Orde in de mailchaos met je team
 
-Voor iedereen die zijn concurrentie het nakijken wil geven, is [LongShot](/go/longshot) de AI tool die je nodig hebt. Waar veel AI **copywriting tools** zich alleen maar richten op het schrijven van content, is LongShot zoveel meer dan dat.
+Missive is een gedeelde inbox voor teams, met AI die conceptantwoorden schrijft, mails samenvat en je eigen prompts laat instellen. Vooral prettig als je met meerdere mensen dezelfde mailbox beheert.
 
-Met deze tool kun je **binnen enkele minuten** een accurate, relevante en niet van écht te onderscheiden blog/webtekst laten schrijven van duizend woorden. Ook kun je er:
+[Ga naar Missive](https://missiveapp.com/)
 
-*   Informatie mee **fact-checken** (_alsof je iemand inhuurt die voor jou heel het internet afgaat_);
-*   Een blog van een concurrent mee volledig **herschrijven tot unieke content** (_plagiaatvrij_);
-*   **SEO titels en teksten mee schrijven** waar mensen op klikken (_data driven_).
-*   Salesteksten mee schrijven die **converteren voor jouw verkooppagina** (_of ontdek met LongShot waarom je met jouw teksten verkoop mistloopt_)
+### 36. Humata – Vragen stellen aan moeilijke documenten
 
-Kortom, [LongShot](/go/longshot) helpt je jouw website hoog te ranken in Google zodat je veel **meer websitebezoekers** krijgt en daarmee meer klanten en omzet. ;)
+Contracten, rapporten, wetenschappelijke artikelen: upload ze en stel vragen. Humata vat samen, vergelijkt documenten en geeft antwoorden met citaten uit de bron. Vergelijkbaar met NotebookLM, met net wat meer verfijning in het zoeken.
 
-[![Blog schrijven met LongShot](/images/migrated/blog-schrijven-met-longshot-1.webp)](/go/longshot)
+[Ga naar Humata](https://www.humata.ai/)
 
-De mogelijkheden met LongShot zijn eindeloos en, als je ze eenmaal gebruikt, **bijna verslavend te noemen** ;).
+## Marketing en sales
 
-Zonder twijfel is dit de AI tool die mijn eigen volledige business op de kop heeft gezet. Dit doordat ik nu 24/7 toegang heb tot een **kwalitatieve ‘writing assistent’** voor slechts een paar tientjes per maand.
+### 37. Ocoya – Social media op de automatische piloot
 
-[Ga naar website LongShot](/go/longshot)
+Op het Ocoya-platform schrijf, genereer en plan je social content op één plek. Nooit meer gedoe met content die je ergens anders hebt geschreven. Een echte tijdsbesparing voor iedere ondernemer die zijn eigen socials beheert.
 
-### 23. Synthesia – Bespaar tijd door video’s te maken met AI
+[Ga naar Ocoya](/go/ocoya)
 
-![AI video maker Synthesia](/images/migrated/ai-video-maker-synthesia-1.webp "AI video maker Synthesia")
+### 38. Pencil – Advertenties die converteren
 
-Een geweldig creatieve AI tool die supersnel video’s voor je kan maken, zonder dat je daar een camera voor nodig hebt. Met Synthesia kun je een AI avatar jouw verhaal laten vertellen en hierdoor zelfs gebruikmaken van gepersonaliseerde video voor jouw klanten. Een video maken met Synthesia is net zo eenvoudig als het maken van een Powerpoint presentatie. Deze AI app werkt ook in het Nederlands.
+Pencil genereert advertentiebeelden en -teksten op basis van data van miljarden aan advertentie-uitgaven en voorspelt welke variant het beste gaat presteren. Snel, data-gedreven en gemaakt voor performance marketeers.
 
-[Ga naar website Synthesia](/go/synthesia)
+[Ga naar Pencil](/go/trypencil)
 
-### 24. Pictory – AI applicatie voor het maken van videocontent voor al je socials
+### 39. SmartWriter – Gepersonaliseerde LinkedIn-berichten en mails
 
-![Pictory AI app](/images/migrated/pictory-ai-app-1.webp "Pictory AI app")
+Koude acquisitie via LinkedIn of mail kost veel tijd als je het persoonlijk wilt doen. SmartWriter zoekt informatie over de ontvanger op en schrijft een persoonlijk bericht in een paar klikken. Hogere conversies, minder werk.
 
-Ieder platform gebruikt een andere vorm video. Bij Youtube is dit horizontaal, bij Instagram Stories is dit verticaal. Voeg daar het verschil tussen short en long form video’s aan toe en je bent uren bezig om één video voor meerdere platformen geschikt te maken. De AI van Pictory neemt dit werk voor jou uit handen en zorgt dat je video’s op ieder platform kunnen worden gepost. Tel daar nog tientallen andere videomaker functies bij op en je begrijpt waarom dit zo’n geliefde applicatie is!
+[Ga naar SmartWriter](/go/smartwriter)
 
-[Ga naar website Pictory](/go/pictory)
+### 40. ChatBot – Een AI-chatbot op je website
 
-### 25. Notion AI – Wees veel productiever met de AI integratie van Notion
+Geef je websitebezoekers direct antwoord, 24 uur per dag. Je traint de chatbot op je eigen website en documenten en hij beantwoordt vragen, verzamelt leads en verwijst door naar een mens als het nodig is.
 
-![Notion AI](/images/migrated/Notion-AI-small.webp "Notion AI")
+[Ga naar ChatBot](/go/chatbot-com)
 
-Als je al fan was van Notion, probeer dan vooral ook eens hun AI-functies. De AI-functies helpen gebruikers met het structureren van complexe projecten, het schrijven van teksten en het organiseren van ideeën. Het analyseert je gegevens en geeft slimme aanbevelingen om je werk efficiënter te maken. Met functies zoals **geautomatiseerde samenvattingen, takenbeheer en contentgeneratie** wordt Notion AI een alles-in-één tool voor zowel persoonlijke als zakelijke productiviteit. Zo kun je het ook makkelijk gebruiken om snel te schakelen tussen brainstormsessies, rapportages en planningen, zonder extra tools te hoeven gebruiken.
+### 41. Browse AI – Concurrenten en prijzen automatisch volgen
 
-[Ga naar website Notion](https://www.notion.so/)
+Browse AI is je private investigator. Je leert het welke gegevens je van een website wilt (prijzen, vacatures, contactgegevens) en het houdt ze in de gaten en stuurt een melding bij veranderingen. Ook sterk voor leadlijsten.
 
-### 26. Replit Ghostwriter – Programmeert automatisch terwijl jij alleen maar een opdracht geeft
+[Ga naar Browse AI](/go/browse-ai)
 
-![Replit Ghostwriter](/images/migrated/Replit-Ghostwriter-small.webp "Replit Ghostwriter")
+### 42. Unbounce – Landingspagina's die verkopen
 
-Programmeren kan gewoon ook makkelijk zijn. Replit Ghostwriter schrijft niet alleen code voor je, maar optimaliseert het ook direct. De tool kan foutmeldingen oplossen, code optimaliseren en zelfs complete scripts genereren op basis van een korte beschrijving. Het ondersteunt meerdere programmeertalen zoals Python, JavaScript en C++, en integreert direct in de Replit-omgeving (_zeg ik er even alleen bij voor de doorgewinterde programmeurs_). Met deze tool wordt programmeren toegankelijk en efficiënter voor iedereen.
+Wil je websitebezoekers omzetten in klanten, dan heb je goede landingspagina's nodig. Unbounce bouwt en optimaliseert ze met AI, en stuurt bezoekers automatisch naar de variant die het beste converteert.
 
-[Ga naar website Replit Ghostwriter](https://replit.com/ai)
+[Ga naar Unbounce](/go/unbounce)
 
-### 27. Midjourney – Meest hoogwaardige AI gegenereerde afbeeldingen
+## Websites bouwen en automatiseren
 
-![Midjourney](/images/migrated/Midjourney-small.webp "Midjourney")
+### 43. Elementor AI – Websites bouwen in WordPress met AI
 
-MidJourney is inmiddels een kunstwerk op zichzelf. Met **verbeterde kleuren, realistische texturen en een steeds betere interpretatie van prompts** is het een niet alleen meer voor designers, maar echt iedereen die ooit iets met beeld doet.
+Als ex-webdesigner kon ik er uren mee bezig zijn: een website bouwen die lijkt op die van die-en-die. Met Elementor AI schrijf je webteksten in je eigen tone-of-voice, genereer je afbeeldingen binnen de pagina en laat je complete secties opbouwen. Inbegrepen als trial bij iedere Elementor-website.
 
-Zelf gebruik ik het zelfs voor het genereren van ‘inspiratie-afbeeldingen’. Zo laat ik de tool bijvoorbeeld meerdere versies genereren van een feest dat wij organiseren, of bijvoorbeeld een website design. Telkens word ik weer verrast door hoe alles eruitziet.
+[Ga naar Elementor AI](/go/elementorai)
 
-Het is ook tegenwoordig erg goed te gebruiken voor mensen die wel echt **hoogwaardige visuals** nodig hebben voor ontwerpen, campagnes of kunstprojecten.
+### 44. Claude Code – Bouw je eigen automatisering, zonder te programmeren
 
-[Ga naar website Midjourney](https://www.midjourney.com/home)
+Dit is de tool die mijn eigen manier van werken het meest heeft veranderd. Claude Code werkt in gewone taal: je beschrijft wat je wilt ("lees deze bonnetjes uit en zet ze in een spreadsheet") en het bouwt, test en past aan. Zo bouwde ik [EasyReimburse](https://easyreimburse.ai/), en het is de tool waarmee we in mijn [bouwweek](/ai-workshops/bouwen-met-claude-code/) automatiseringen voor bedrijven maken.
 
-### 28. Perplexity AI – Complexe zoekopdrachten met nauwkeurige en volledige antwoorden
+[Ga naar Claude Code](https://claude.com/claude-code)
 
-![Perplexity AI](/images/migrated/Perplexity-AI-small.webp "Perplexity AI")
+### 45. Cursor – De AI-code-editor voor wie al programmeert
 
-Googlen gaat er uit. Je hebt nu niet meer alleen ChatGPT voor je informatie, maar ook Perplexity AI. Deze AI tool geeft je direct **de antwoorden die je zoekt, compleet met bronvermelding**. Ik gebruikte het onlangs om een onderzoek voor te bereiden, en in plaats van **urenlang** op internet rond te dwalen, had ik **binnen enkele minuten** alles wat ik nodig had. Het is alsof je je eigen onderzoeksassistent hebt, maar dan nóg sneller.
+Voor ontwikkelaars: een editor die je hele project begrijpt, code voorstelt terwijl je typt en in een chat complete functies herschrijft. Als je team software bouwt, is dit (naast Claude Code) de snelste manier om meer te doen in minder tijd.
 
-In tegenstelling tot traditionele zoekmachines elimineert Perplexity AI ruis en focust het op relevante resultaten. Verder viel me op dat de tool een stuk nauwkeuriger werkt dan bijvoorbeeld een ChatGPT, waardoor je niet meer steeds bezig bent met fact-checking maar gewoon door kan met je onderzoek!
+[Ga naar Cursor](https://cursor.com/)
 
-[Ga naar website Perplexity AI](https://www.perplexity.ai/)
+### 46. Replit – Van idee naar werkende app in je browser
 
-### 29. Adobe Firefly – Genereer foto’s en video’s binnen je eigen Adobe Apps
+Replit Agent bouwt op basis van een beschrijving een complete app, inclusief database en hosting, allemaal in de browser. Voor prototypes en interne tools waar je geen developer voor wilt inhuren.
 
-![Adobe firefly](/images/migrated/Adobe-Firefly-small.webp "Adobe Firefly")
+[Ga naar Replit](https://replit.com/)
 
-Adobe Firefly is weer één van die apps. Ik bedoel daarmee: gewoon een nieuwe concurrent van de bestaande generatieve AI tools.
+### 47. n8n, Make en Zapier – Je tools aan elkaar knopen met AI ertussen
 
-Met Adobe Firefly **genereer je foto’s, of breidt je deze eindeloos uit**. Ook kun je sinds kort **video’s ermee langer maken**… ja echt! Je video langer maken, waar de AI dus kijkt naar wat het meest logische vervolg is van jouw tien seconde durende vakantievideo. En in 2025 (waarschijnlijk) kun je er ook video’s from scratch mee genereren. Bizar!
+De motor achter de meeste automatiseringen in het mkb. Een nieuwe mail komt binnen, AI vat hem samen en labelt hem, het antwoord gaat in je CRM. Zapier is het makkelijkst, Make het meest visueel, n8n het krachtigst (en gratis als je het zelf host). In mijn workshops komen ze alle drie voorbij.
 
-En deze tool is dus altijd te gebruiken door alle Adobe users. Dat doe je namelijk in je eigen apps, zoals premiere pro of photoshop.
+[Ga naar n8n](https://n8n.io/)
 
-[Ga naar website Adobe Firefly](https://www.adobe.com/nl/products/firefly.html)
+### 48. Forms.app – Formulieren en quizzen met AI
 
-### 30. Murf AI – Meest geavanceerde text-to-speech app van dit moment
+Beschrijf wat je wilt weten en Forms.app bedenkt de vragen. Handig voor klantonderzoek, aanmeldingen en een snelle quiz voor je community.
 
-![Murf AI](/images/migrated/Murf-AI-small.webp "Murf AI")
+[Ga naar Forms.app](https://forms.app/)
 
-Murf AI is een krachtige text-to-speech-tool die menselijke stemmen nabootst. En dat doen ze inmiddels ook nog eens erg nauwkeurig. Murf AI ondersteunt meer dan 120 stemmen in 20 verschillende talen en biedt aanpassingsopties zoals toonhoogte, tempo en emotie. Hierdoor kun je je boodschap volledig afstemmen op je doelgroep.
+## Bijblijven en bijzondere tools
 
-Wat deze tool uniek maakt, is de mogelijkheid om audiobestanden rechtstreeks te synchroniseren met video’s of presentaties, waardoor het proces van contentcreatie veel sneller gaat dan als je het zelf aan elkaar moet plakken.
+### 49. Futurepedia – Elke week de nieuwste AI tools
 
-[Ga naar website Murf AI](https://murf.ai/)
+Wil je bijblijven zonder zelf uren te zoeken, dan is Futurepedia een goede bron: een overzicht van nieuwe tools en ontwikkelingen, met een wekelijkse nieuwsbrief. Zo blijf je voorop zonder erin te verdrinken.
 
-![training-ai-kunstmatige-intelligentie-in-company](/images/migrated/training-ai-kunstmatige-intelligentie-in-company-2.webp "training-ai-kunstmatige-intelligentie-in-company")
+[Ga naar Futurepedia](https://www.futurepedia.io/)
 
-### Training AI op locatie 2025
+### 50. Urbanist AI – Zie hoe je straat eruit kan zien
 
-De wereld waarin we werken veranderd ontzettend snel. Breng jezelf en jouw team op de hoogte van de laatste ontwikkelingen en leer **hoe AI tools zoals ChatGPT en Gemini zijn in te zetten voor productiviteit, (werk)geluk en succes!**
+Een bijzondere toepassing die laat zien hoe breed AI inzetbaar is: Urbanist AI betrekt bewoners bij het ontwerp van hun straat of wijk door ideeën direct te visualiseren in de echte omgeving. Handig voor gemeenten en ontwerpers, en gewoon leuk om te zien.
 
-Duur: 3 uur  
-Investering: 950,- ex BTW  
-Formaat: Tot 30 deelnemers
+[Ga naar Urbanist AI](https://urbanistai.com/)
 
-[Meer informatie](/ai-workshops/ai-introductie/)
+## Tools die niet meer in de lijst staan
 
-### 31. Arc Browser – Slimmer browsen
+Sinds de vorige versie zijn een paar tools verdwenen of ingehaald. **DALL·E** is opgegaan in ChatGPT. **Replit Ghostwriter** heet nu Replit Agent. **Arc Browser** stond hier vanwege de slimme AI-functies, maar de makers zijn gestopt met de ontwikkeling ervan en werken aan een opvolger. **Texts.com**, de app die al je berichten samenbracht, is overgenomen en niet meer los beschikbaar.
 
-![Arc Browser](/images/migrated/Arc-Browser-Image.webp "Arc Browser")
+<!-- TODO: verify this data is still current (status van Arc/Dia en Texts.com, prijzen en gratis versies van de genoemde tools, affiliate links) -->
 
-Als je net als ik soms verdwaalt in een zee van tabbladen, dan voelt Arc Browser als een verademing. Met een verticale sidebar die alles overzichtelijk houdt, split-view om meerdere dingen tegelijk te doen, en AI-functies zoals automatische tab-categorisatie, helpt Arc me mijn digitale chaos te temmen. En Perplexity – een geïntegreerde AI-tool – maakt het zoeken naar informatie verrassend makkelijk. Geen eindeloos geklik meer, maar een georganiseerde en rustige werkruimte die me eindelijk laat focussen op wat echt belangrijk is.
+## Conclusie: welke AI tools heb je in 2026 echt nodig?
 
-[Ga naar website Murf AI](https://murf.ai/)
+Minder dan je denkt. Begin met **één goede chatbot** (ChatGPT, Claude of Gemini) en gebruik die een maand voor alles: schrijven, samenvatten, analyseren, brainstormen. Pak daarna **één tool per knelpunt** erbij: een videotool als je veel video maakt, een notuleertool als je veel vergadert, een automatiseringstool als je steeds hetzelfde doet.
 
-### 32. Perplexity – Een soort Google meets geavanceerde AI
-
-![Perplexity](/images/migrated/Perplexity-Image.webp "Perplexity")
-
-Soms wil je gewoon een duidelijk antwoord zonder te verdwalen in een doolhof van zoekresultaten – dat is waar Perplexity uitblinkt. Deze AI-zoekmachine geeft je razendsnel overzichtelijke antwoorden, rechtstreeks uit betrouwbare bronnen. Wat ik fijn vind, is dat je met de gratis versie al zoveel kunt, en als je meer flexibiliteit wilt, biedt de pro-versie net dat beetje extra. Het is alsof je een slimme assistent hebt die precies weet waar je naar zoekt.
-
-[Ga naar website Murf AI](https://murf.ai/)
-
-### 33. Texts.com – Al je berichten op één plek
-
-![Texts.com](/images/migrated/Texts.com-PNG-from-TinyPNG.webp "Texts.com")
-
-Als je, net als ik, moe wordt van het constant schakelen tussen apps, dan is Texts.com een uitkomst. Het brengt berichten van platforms zoals Instagram, Slack en WhatsApp samen in één overzichtelijke inbox. Met slimme AI-functies zoals automatische samenvattingen en vertalingen helpt het me sneller en efficiënter communiceren, zonder de chaos van losse apps. Perfect voor wie wat meer rust wil in het digitale leven.
-
-[Ga naar website Murf AI](https://murf.ai/)
-
-### 34. Missive – Orde in de mailchaos
-
-![Missive](/images/migrated/Missive-Image-TinyPNG.webp "Missive")
-
-E-mails kunnen snel overweldigend worden, maar Missive helpt me om daar wat rust in te brengen. Wat ik fijn vind, is hoe makkelijk het samenwerken aan e-mails gaat, en dat kleine dingen zoals grammaticale correcties automatisch worden geregeld. De optie om AI-prompts op maat te maken is een leuke extra, maar vooral voelt het alsof ik eindelijk grip krijg op mijn inbox zonder dat het een dagtaak wordt.
-
-[Ga naar website Murf AI](https://murf.ai/)
-
-### 35. Gamma – Presentaties zonder al die moeite
-
-![Gamma](/images/migrated/Gamma-Image-from-TinyPNG.webp "Gamma")
-
-Ik ben nooit een ster geweest in het maken van presentaties, maar Gamma maakt dat zoveel makkelijker. Het enige wat ik hoef te doen is een paar aanwijzingen geven, en het genereert vanzelf teksten en beelden die er professioneel uitzien. Of het nu gaat om een presentatie, een document of zelfs een simpele website, het voelt alsof ik iets moois kan maken zonder uren te hoeven puzzelen. Echt handig als je, zoals ik, liever aan de inhoud werkt dan aan de vormgeving.
-
-[Ga naar website Murf AI](https://murf.ai/)
-
-### 36. Forms.app – Snel en makkelijk formulieren maken
-
-![Forms App](/images/migrated/Forms-App-from-TinyPNG.webp "Forms App")
-
-Als ik snel een formulier of quiz moet maken, is Forms.app mijn go-to tool. Wat ik handig vind, is dat de AI automatisch vragen kan bedenken, zodat ik niet helemaal bij nul hoef te beginnen. En met de optie om thema’s en afbeeldingen aan te passen, voelt elk formulier toch persoonlijk aan. Of het nu gaat om een serieuze survey of een grappige quiz voor vrienden, het is zo gepiept zonder gedoe.
-
-[Ga naar website Murf AI](https://murf.ai/)
-
-### 37. Otter AI – Notuleren zonder stress
-
-![Otter AI](/images/migrated/Otter-AI-Image.webp "Otter AI")
-
-Ik ben nooit goed geweest in notities maken tijdens vergaderingen, maar Otter.ai neemt dat werk uit handen. Het neemt gesprekken op, zet alles om in tekst en markeert automatisch de belangrijkste punten. Het fijne is dat ik me nu volledig kan concentreren op het gesprek, zonder me zorgen te maken dat ik iets vergeet. Het voelt alsof ik eindelijk een notulist heb die precies begrijpt wat ik nodig heb.
-
-[Ga naar website Murf AI](https://murf.ai/)
-
-### 38. Humata – Snel informatie zoeken in te moeilijke documenten
-
-![Humata](/images/migrated/Humata-Image.webp "Humata")
-
-Soms zie je door de hoeveelheid informatie in een document de kern niet meer. Humata helpt daarbij. Dit heeft vergelijkbare functies met ChatGPT, of beter nog NotebookLM. Toch kan Humata op een nog verfijndere manier informatie zoeken en aanbieden in de documenten die ik nodig heb.
-
-Het kan ingewikkelde teksten analyseren, samenvatten en vergelijken met andere documenten. Wat ik vooral handig vind, is dat je gewoon vragen kunt stellen binnen een bestand en meteen duidelijke antwoorden krijgt met citaties erbij.
-
-[Ga naar website Murf AI](https://murf.ai/)
-
-### 39. NotebookLM – Slimmer omgaan met je notities en documenten
-
-![NotebookLM](/images/migrated/NotebookLM-Image.webp "NotebookLM")
-
-Als ik door een berg notities moet zoeken of snel een samenvatting nodig heb, voelt NotebookLM als een redder in nood. Het analyseert je documenten en helpt je moeiteloos om informatie te ordenen, te begrijpen en zelfs nieuwe inzichten te ontdekken. Het is alsof je een persoonlijke assistent hebt die je notities leest en er de belangrijkste punten uit haalt, zodat jij je kunt richten op wat echt telt. Ideaal voor iedereen die efficiënt en gestructureerd wil werken.
-
-[Ga naar website Murf AI](https://murf.ai/)
-
-### 40. HeyGen – Je eigen AI avatar (die ‘alles’ voor je kan doen)
-
-![HeyGen](/images/migrated/HeyGen-Image.webp "HeyGen")
-
-Soms wil ik professioneel ogende video’s maken zonder zelf voor de camera te hoeven staan, en HeyGen maakt dat verrassend makkelijk. Het creëert een AI-avatar die er net als jij uitziet, compleet met je eigen stem in meerdere talen. Het voelt alsof je jezelf moeiteloos kunt vermenigvuldigen, ideaal voor video’s en contentcreatie.
-
-[Ga naar website Murf AI](https://murf.ai/)
-
-### 41. Descript – Video’s editen aan de hand van tekst
-
-![Descript](/images/migrated/Descript-Image.webp "Descript")
-
-Ik vind video-editen vaak een tijdrovend klusje, maar Descript maakt het verrassend makkelijk. Je bewerkt je video simpelweg door de tekst te wijzigen, alsof je in een document werkt. Het verwijderen van stukken, genereren van sociale mediaposts en toevoegen van ondertitels kost bijna geen moeite meer. Ideaal als je, net als ik, snel professioneel resultaat wilt zonder uren te hoeven editen.
-
-[Ga naar website Murf AI](https://murf.ai/)
-
-### 42. Opus Clip – Video’s editen aan de hand van tekst
-
-![Opusclip](/images/migrated/OpusClip-Image.webp "Opusclip")
-
-Lange video’s omzetten naar korte, krachtige clips voelt vaak als veel werk, maar Opus Clip doet dit voor je in een paar klikken. Het analyseert je content en genereert automatisch shorts die ideaal zijn voor sociale media. Zo bereik je meer mensen zonder zelf uren te hoeven knippen en plakken. Het is perfect als je snel en makkelijk meer uit je video’s wilt halen.
-
-[Ga naar website Murf AI](https://murf.ai/)
-
-### 43. Futurepedia – Video’s editen aan de hand van tekst
-
-![Futurepedia](/images/migrated/Futurepedia-Image.webp "Futurepedia")
-
-Als je, net als ik, nieuwsgierig bent naar wat er allemaal gebeurt in de wereld van AI, is Futurepedia een perfecte bron. Het biedt een overzicht van de nieuwste tools en ontwikkelingen, met wekelijkse aanbevelingen die direct in je inbox belanden. Het voelt alsof je een persoonlijke gids hebt die je helpt om voorop te blijven in de AI-revolutie. Ideaal voor iedereen die graag op de hoogte blijft zonder zelf urenlang te zoeken.
-
-[Ga naar website Murf AI](https://murf.ai/)
-
-### 44. DALL-E 3 – Genereert afbeeldingen uit tekst
-
-![dall-e-3-open-ai](/images/migrated/dall-e-3-open-ai-1.webp "dall-e-3-open-ai")
-
-Dall-E, ontwikkeld door OpenAI, is een geavanceerde AI-tool die gedetailleerde en creatieve afbeeldingen kan genereren op basis van tekst. Je voert dus gewoon eenvoudig een tekst in en er komt een afbeelding uitrollen.
-
-Je kunt specifieke elementen, stijlen en zelfs complexe scenario’s opgeven, wat het mogelijk maakt om unieke kunstwerken, illustraties voor nog niet bestaande concepten en visuele hulpmiddelen voor educatieve doeleinden te creëren. Dall-E is veelzijdig inzetbaar voor ontwerpers, marketeers, kunstenaars en iedereen die geïnteresseerd is in de kruising van creativiteit en AI. Dall E 3 is ook te gebruiken via de interface van de betaalde versie van ChatGPT (GPT 4).
-
-[Ga naar website DALL-E 3](https://openai.com/dall-e-3)
-
-### 45. Sora – Maak fotorealistische video’s met een paar woorden (nog niet live)
-
-Sora is een tekst naar video tool, ook van het bekende OpenAI. Je voert simpelweg een tekst in en er komt een video uitrollen. Én deze is fotorealistisch! Simpeler kan het eigenlijk niet. Nooit meer hoeven zoeken naar een goede stockvideo voor een videoproject, maar de juiste video is met een stuk tekst zo gecreëerd!
-
-**Deze tool is op het moment nog niet live, maar de demo is zo bijzonder goed dat ik hem toch alvast met je wilde delen ;).**
+En als je met je hele team in één keer wilt zien wat er mogelijk is, dan doen we dat samen in [drie uur op locatie](/ai-workshops/ai-introductie/). Daarna bouw je het zelf.
