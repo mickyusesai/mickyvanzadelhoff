@@ -42,7 +42,27 @@
 
   /* Ad slot placeholder (see CLAUDE.md, Monetization) */
   .ad-slot { @apply my-8 min-h-[1px]; }
+
+  /* Dark band: the rhythm change borrowed from the reference site */
+  .band-dark { @apply bg-ink text-white; }
+  .band-dark .eyebrow { @apply text-lime; }
+  .band-dark .sticker { border-color: #D4F75B; box-shadow: 6px 6px 0 #D4F75B; }
+  .band-dark .sticker-hover:hover { box-shadow: 9px 9px 0 #D4F75B; }
+
+  /* Glossy floating orb (pure CSS, transform-only motion) */
+  .orb { position: absolute; border-radius: 50%; pointer-events: none;
+    background:
+      radial-gradient(circle at 32% 28%, rgba(255,255,255,.85) 0, rgba(255,255,255,.25) 18%, transparent 36%),
+      radial-gradient(circle at 50% 55%, var(--orb-a, #D4F75B) 0, var(--orb-b, #7BA614) 70%, var(--orb-c, #2E3A0A) 100%);
+    box-shadow: inset -14px -18px 34px rgba(23,17,46,.35), 0 30px 60px -24px rgba(23,17,46,.55); }
+
+  /* Lime spotlight behind the hero photo */
+  .beam { position: absolute; inset: -30% -20%; pointer-events: none; opacity: .7;
+    background: conic-gradient(from 214deg at 50% 0%, transparent 0deg, rgba(212,247,91,.7) 14deg, rgba(212,247,91,.15) 30deg, transparent 44deg);
+    transform-origin: 50% 0; animation: sway 12s ease-in-out infinite; }
 }
+
+@keyframes sway { 0%, 100% { transform: rotate(-4deg); } 50% { transform: rotate(5deg); } }
 
 /* Scroll reveal: hidden only when JS is present, so the page reads fine without it. */
 html.js .reveal { opacity: 0; transform: translateY(22px); transition: opacity .7s cubic-bezier(.2,.7,.2,1), transform .7s cubic-bezier(.2,.7,.2,1); }
@@ -61,7 +81,7 @@ html.js .reveal[data-delay="3"] { transition-delay: .3s; }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   html.js .reveal { opacity: 1; transform: none; transition: none; }
-  .hero-word, .animate-drift, .animate-drift-slow, .animate-bob, .animate-marquee, .animate-rise { animation: none !important; }
+  .hero-word, .animate-drift, .animate-drift-slow, .animate-bob, .animate-marquee, .animate-rise, .beam { animation: none !important; }
   .marquee-track { flex-wrap: wrap; width: auto; justify-content: center; }
   .btn, .sticker-hover { transition: none; }
 }

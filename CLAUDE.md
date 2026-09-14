@@ -205,11 +205,20 @@ When refreshing De Moderne Nomaden articles for this site:
 
 ---
 
+## Reference facts (from Micky's reference pack, docs/reference/ is not committed; see plan §7)
+- **EasyReimburse** (easyreimburse.ai): AI travel reimbursement for Erasmus+ youth mobility
+  projects. "Travel Reimbursements From Weeks to Minutes." Participants upload tickets via a
+  magic link, AI extracts routes/dates/amounts, a second AI reviews, one-click audit PDF for the
+  national agency, official EU exchange rates, EU data residency. About 90% less time. Founder:
+  Micky (with Elaine de Zanger). Free tier, then €129 per project. Use these facts, nothing more.
+- **auxility.ca** (design reference): near-black ground, neon lime accent, violet section,
+  huge clean grotesque headlines, glossy floating 3D shapes, pinned horizontal scroll sections,
+  one repeated CTA. We borrow the feel (dark bands, orbs, clean type, motion), not its identity
+  (no angle-bracket nav, no horizontal pinning).
+
 ## Open questions for Micky (everything else is decided, see docs/MIGRATION-PLAN.md §5)
-- **EasyReimburse one-liner:** easyreimburse.ai is blocked from the sandbox; Micky pastes the
-  text or allows the domain (plan §7). TODO on the About page until then.
-- **Google Analytics Measurement ID** (`G-…`) to set as `PUBLIC_GA_MEASUREMENT_ID` on Railway.
-- **auxility.ca** is blocked from the sandbox too; the design is built from Micky's description.
+- **Google Analytics Measurement ID** (`G-…`, from Admin → Data streams → Web stream) to set as
+  `PUBLIC_GA_MEASUREMENT_ID` on Railway. The account ID (101387956) is not enough for the tag.
 - **Logo:** none known; the name is used as a wordmark.
 - Micky prefers to answer questions **in chat**, so answers stay searchable.
 - **Headshot:** a newer high-quality photo is welcome; the current default is

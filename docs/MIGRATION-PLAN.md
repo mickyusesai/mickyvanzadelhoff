@@ -97,7 +97,7 @@ Actions per article in `docs/content-inventory.md`. Batches of 10–15: ondernem
 | D13 | Funnel pages | Retired, and links to them removed from articles (24 unlinked). |
 | D14 | Launch timing | No deadline. |
 | D15 | Design direction | **A · Electric playground** colours, executed with the feel of auxility.ca: high-tech, clean, plenty of motion. (Claude's sandbox cannot open auxility.ca; see §7.) |
-| D16 | EasyReimburse one-liner | Micky pointed at easyreimburse.ai; blocked from the sandbox (§7). Generic line stays until the site is reachable or Micky pastes the text. |
+| D16 | EasyReimburse one-liner | Resolved from Micky's reference pack (PDF, 2026-09-14): AI travel reimbursement for Erasmus+ projects, weeks to minutes, Micky is founder. Applied on About and the build-week page. |
 | D17 | Build-week programme | Claude drafted a 5-day programme; Micky adjusts later. EasyReimburse is the example result. |
 | D18 | Co-trainer | Only Micky. |
 | D19 | Analytics, address | Google Analytics (Measurement ID still needed: set `PUBLIC_GA_MEASUREMENT_ID` on Railway). No address on the contact page. |
@@ -107,11 +107,11 @@ Actions per article in `docs/content-inventory.md`. Batches of 10–15: ondernem
 
 Article-level decisions (21 rows changed by Micky) are in `docs/content-inventory.md`.
 
-## 7. Blocked references (needs a change on Micky's side)
+## 7. References
 
-The Claude Code environment's network policy blocks `auxility.ca`, `easyreimburse.ai`, `elements.envato.com` and `illustrators.com`. Two ways to fix:
-1. In the environment settings on claude.ai/code, allow these domains (or full internet access). See https://code.claude.com/docs/en/claude-code-on-the-web. A new session then can fetch them.
-2. Paste the text of easyreimburse.ai and a few notes on auxility.ca (colours, fonts, which movements) in chat.
+The Claude Code environment's network policy blocks `auxility.ca`, `easyreimburse.ai`, `elements.envato.com` and `illustrators.com`. Micky supplied a reference pack (PDF with full-page screenshots and written descriptions of auxility.ca and easyreimburse.ai) in chat on 2026-09-14; the facts are summarised in CLAUDE.md. Design refinements taken from it: dark bands with lime accents, glossy floating shapes, a lime spotlight in the hero, a stats strip, one repeated call to action.
+
+Still open: Google Analytics needs the **Measurement ID** (`G-…`), not the account ID.
 
 ## 6. Working agreement
 

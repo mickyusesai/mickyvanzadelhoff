@@ -10,8 +10,7 @@ lang: "nl"
 
 Ik ben Micky, geboren als millennial en jarenlang levend als digital nomad. Vanuit telkens een andere plek deed ik mijn werk als blogger, business bouwer, trainer en liefdespartner. Dat laatste is natuurlijk niet écht werk te noemen ;).
 
-Tegenwoordig train ik bedrijven in het werken met AI, organiseer ik Europese Erasmus+ projecten over AI-onderwijs en bouw ik zelf met AI. Zo bouwde ik [EasyReimburse](https://easyreimburse.ai/): een web-app die laat zien hoe je met AI iets neerzet dat een hele branche uren werk bespaart.
-<!-- TODO Micky: één zin over wat EasyReimburse precies doet en voor wie. -->
+Tegenwoordig train ik bedrijven in het werken met AI, organiseer ik Europese Erasmus+ projecten over AI-onderwijs en bouw ik zelf met AI. Zo bouwde ik [EasyReimburse](https://easyreimburse.ai/): een web-app die reiskostendeclaraties voor Erasmus+ projecten van weken naar minuten brengt. Deelnemers uploaden hun tickets, AI leest ze uit en de coördinator krijgt een kant-en-klaar auditrapport voor het Nationaal Agentschap. Ik bouwde het omdat ik er zelf elke keer uren aan kwijt was. Precies het soort automatisering dat we in de [bouwweek](/ai-workshops/bouwen-met-claude-code/) voor jouw bedrijf maken.
 
 ![Micky van Zadelhoff](/images/micky/mick.webp "Micky van Zadelhoff")
 
