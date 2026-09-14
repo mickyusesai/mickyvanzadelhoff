@@ -1,7 +1,7 @@
 # Migration plan: demodernenomaden.nl → mickyvanzadelhoff.com
 
-**Status (2026-09-14, end of session 2):** Phases 0, 1 and 3 done. Phase 4 largely done (interim styling).
-**Next:** Phase 2, design. Micky picks a direction on the design canvas, then the design is applied to the shells that already exist.
+**Status (2026-09-14, end of session 3):** Phases 0–4 done. The "Electric playground" design is applied to every page (D15).
+**Next:** Phase 5 pre-launch part (refresh the 6 AI articles), then Phase 6 (Railway server, real 301s, launch). Still needed from Micky: the Google Analytics Measurement ID and the EasyReimburse text (see §7).
 **Source of truth for this project.** Every session starts by reading this file and `docs/content-inventory.md`.
 Update the status lines and the decision log at the end of each session.
 
@@ -32,11 +32,9 @@ Launch the new design with the migrated articles cleaned up technically and a fu
 ### Phase 1 — Decisions  ✅ 2026-09-14
 All 14 decisions answered or defaulted; see the decision log in section 5.
 
-### Phase 2 — Design  ⏳ next
-1. Claude proposes directions on a design canvas (homepage, article, workshop page), based on D2: modern tech vibe but playful, colours in the spirit of the "iTalk event conference" Elementor kit, later custom illustrations in brand colours (Lydia Hill "Personal Sunset" as style reference). Note: Claude's sandbox cannot open those references; Micky may need to paste hex codes or a screenshot.
-2. Micky picks and gives feedback in the canvas.
-3. Apply the design: replace the interim tokens in `tailwind.config.mjs`, restyle `Layout.astro`, `Header`, `Footer`, `ArticleCard`, the homepage and the workshop pages. Typography for long Dutch reading.
-4. Featured images: the old green icon images stay until illustrations exist (D2, "later").
+### Phase 2 — Design  ✅ 2026-09-14
+Three directions on the design canvas (https://claude.ai/artifact/JDpUUxqd3TryhYXcxxUQYV); Micky chose A "Electric playground" with the feel of auxility.ca (D15). Applied: tokens in `tailwind.config.mjs`, `src/styles/global.css` (fonts, sticker components, motion), `Layout`, `Header` (with mobile menu), `Footer`, `ArticleCard`, `WorkshopCard`, `PressStrip` (marquee), `Blobs`, all pages. Motion: hero word reveal, drifting shapes, scroll reveals, marquee, hover lifts, reading progress bar, article table of contents.
+Open: featured images stay the old green icon images until illustrations exist (D2 "later"); once auxility.ca is reachable, compare and refine the motion.
 
 ### Phase 3 — Content plumbing  ✅ 2026-09-14
 Done by `scripts/cleanup-content.py` (re-runnable): link rewrite (1,771 links), unlinking of retired pages (24), descriptions (178 generated from first paragraphs, 2 written by hand), image fixes (6 variants restored, 11 missing images replaced by a `<!-- TODO -->`), contact details, `/go/` routing, redirect table. Content collections schema in `src/content.config.ts`; site constants in `src/config/site.ts`.
@@ -98,10 +96,22 @@ Actions per article in `docs/content-inventory.md`. Batches of 10–15: ondernem
 | D12 | English | **No English at all.** Site is Dutch-only; i18n removed. |
 | D13 | Funnel pages | Retired, and links to them removed from articles (24 unlinked). |
 | D14 | Launch timing | No deadline. |
+| D15 | Design direction | **A · Electric playground** colours, executed with the feel of auxility.ca: high-tech, clean, plenty of motion. (Claude's sandbox cannot open auxility.ca; see §7.) |
+| D16 | EasyReimburse one-liner | Micky pointed at easyreimburse.ai; blocked from the sandbox (§7). Generic line stays until the site is reachable or Micky pastes the text. |
+| D17 | Build-week programme | Claude drafted a 5-day programme; Micky adjusts later. EasyReimburse is the example result. |
+| D18 | Co-trainer | Only Micky. |
+| D19 | Analytics, address | Google Analytics (Measurement ID still needed: set `PUBLIC_GA_MEASUREMENT_ID` on Railway). No address on the contact page. |
 | — | Strategy | Migrate 1:1 first, refresh after launch. |
+| — | How Micky answers | In chat, not on the board, so the answers are searchable in the conversation. |
 | — | Workation page | Retired by Claude (cancelled 2023 event); old URL → workations article. |
 
 Article-level decisions (21 rows changed by Micky) are in `docs/content-inventory.md`.
+
+## 7. Blocked references (needs a change on Micky's side)
+
+The Claude Code environment's network policy blocks `auxility.ca`, `easyreimburse.ai`, `elements.envato.com` and `illustrators.com`. Two ways to fix:
+1. In the environment settings on claude.ai/code, allow these domains (or full internet access). See https://code.claude.com/docs/en/claude-code-on-the-web. A new session then can fetch them.
+2. Paste the text of easyreimburse.ai and a few notes on auxility.ca (colours, fonts, which movements) in chat.
 
 ## 6. Working agreement
 

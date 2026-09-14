@@ -1,0 +1,21 @@
+---
+const press = [
+  { src: '/images/press/nrc-handelsblad.webp', alt: 'NRC' },
+  { src: '/images/press/Nu-nl-logo-1.webp', alt: 'Nu.nl' },
+  { src: '/images/press/Vice_Logo.webp', alt: 'Vice' },
+  { src: '/images/press/algemeen-dagblad.webp', alt: 'Algemeen Dagblad' },
+  { src: '/images/press/funx-logo.webp', alt: 'FunX' },
+  { src: '/images/press/flow-logo.webp', alt: 'Flow Magazine' },
+];
+const track = [...press, ...press];
+---
+<section aria-label="Bekend van" class="border-y-2 border-ink bg-white">
+  <div class="wrap flex items-center gap-6 py-4">
+    <p class="flex-none text-[11px] font-extrabold uppercase tracking-[0.16em] text-muted">Bekend van</p>
+    <div class="marquee flex-1">
+      <div class="marquee-track">
+        {track.map((p, i) => <img src={p.src} alt={i < press.length ? p.alt : ''} aria-hidden={i >= press.length ? 'true' : undefined} loading="lazy" class="h-6 w-auto opacity-80 grayscale" />)}
+      </div>
+    </div>
+  </div>
+</section>

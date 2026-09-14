@@ -1,80 +1,97 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
+import WorkshopCard from '../components/WorkshopCard.astro';
+import PressStrip from '../components/PressStrip.astro';
+import Blobs from '../components/Blobs.astro';
 import { getCollection } from 'astro:content';
-import { SITE } from '../config/site';
 import { getListedArticles } from '../lib/articles';
 
 const workshops = (await getCollection('workshops', ({ data }) => !data.draft)).sort((a, b) => a.data.order - b.data.order);
 const recent = (await getListedArticles()).slice(0, 6);
-const press = [
-  { src: '/images/press/nrc-handelsblad.webp', alt: 'NRC' },
-  { src: '/images/press/Nu-nl-logo-1.webp', alt: 'Nu.nl' },
-  { src: '/images/press/Vice_Logo.webp', alt: 'Vice' },
-  { src: '/images/press/algemeen-dagblad.webp', alt: 'Algemeen Dagblad' },
-  { src: '/images/press/funx-logo.webp', alt: 'FunX' },
-  { src: '/images/press/flow-logo.webp', alt: 'Flow Magazine' },
-];
+const headline = ['Hoi,', 'ik', 'ben', 'Micky.', 'Ik', 'help', 'bedrijven'];
 ---
 <Layout
   title="Micky van Zadelhoff – AI-workshops voor bedrijven"
   description="AI-trainer, ondernemer en schrijver. Praktische AI-workshops waarmee jouw team direct tijd bespaart, plus verhalen en lessen uit een vrij leven."
 >
-  <!-- Interim homepage. Layout and styling are replaced in Phase 2 (design). Content is final. -->
-  <section class="mx-auto grid max-w-6xl items-center gap-10 px-5 py-16 md:grid-cols-[3fr_2fr]">
-    <div class="grid gap-5">
-      <p class="text-sm font-semibold uppercase tracking-wide text-accent">AI-trainer · ondernemer · schrijver</p>
-      <h1 class="text-4xl font-bold leading-tight tracking-tight md:text-5xl">Hoi, ik ben Micky. Ik help bedrijven écht aan de slag met AI.</h1>
-      <p class="max-w-prose text-lg text-muted">
-        Geen abstracte praatjes, maar workshops waarin jouw team zelf ontdekt en bouwt. Van een introductie in drie uur tot een week waarin we samen een automatisering neerzetten die direct tijd bespaart.
-      </p>
-      <div class="flex flex-wrap gap-3">
-        <a href="/ai-workshops/" class="rounded-md bg-accent px-5 py-3 font-semibold text-white hover:bg-accent-dark">Bekijk de AI-workshops</a>
-        <a href="/over/" class="rounded-md border border-line px-5 py-3 font-semibold hover:border-accent hover:text-accent">Wie is Micky?</a>
+  <section class="relative overflow-hidden">
+    <Blobs />
+    <div class="wrap grid items-center gap-12 py-14 md:grid-cols-[6fr_5fr] md:py-20">
+      <div class="grid gap-6">
+        <p class="eyebrow animate-rise">AI-trainer · ondernemer · schrijver</p>
+        <h1 class="text-[40px] font-extrabold leading-[1.02] tracking-tight sm:text-[54px] lg:text-[64px]">
+          {headline.map((w, i) => <span class="hero-word" style={`--i:${i}`}>{w} </span>)}
+          <span class="hero-word" style="--i:7"><span class="highlight">écht</span> </span>
+          {['aan', 'de', 'slag', 'met', 'AI.'].map((w, i) => <span class="hero-word" style={`--i:${i + 8}`}>{w} </span>)}
+        </h1>
+        <p class="max-w-prose text-lg leading-relaxed text-muted animate-rise [animation-delay:.6s] sm:text-xl">
+          Geen abstracte praatjes, maar workshops waarin jouw team zelf ontdekt en bouwt. Van een introductie in drie uur tot een week waarin we samen een automatisering neerzetten die direct tijd bespaart.
+        </p>
+        <div class="flex flex-wrap gap-3 animate-rise [animation-delay:.75s]">
+          <a href="/ai-workshops/" class="btn btn-primary">Bekijk de AI-workshops</a>
+          <a href="/over/" class="btn btn-ghost">Wie is Micky?</a>
+        </div>
+      </div>
+      <div class="relative mx-auto w-full max-w-[460px] animate-rise [animation-delay:.3s]">
+        <div class="absolute inset-0 translate-x-4 translate-y-4 rounded-[46%_54%_40%_60%/50%_40%_60%_50%] border-2 border-ink bg-violet"></div>
+        <img src="/images/micky/mick-van-zadelhoff-de-moderne-nomaden.webp" alt="Micky van Zadelhoff" width="1200" height="956"
+             class="relative aspect-square w-full rounded-[46%_54%_40%_60%/50%_40%_60%_50%] border-2 border-ink object-cover" />
+        <span class="chip absolute -right-2 top-6 bg-lime shadow-sticker-sm animate-bob [--tilt:8deg]">AI-trainer</span>
+        <span class="chip absolute -left-3 bottom-10 bg-white shadow-sticker-sm animate-bob [--tilt:-6deg] [animation-delay:1.3s]">42 landen</span>
       </div>
     </div>
-    <img src="/images/micky/mick-van-zadelhoff-de-moderne-nomaden.webp" alt="Micky van Zadelhoff" width="1200" height="956" class="w-full rounded-xl object-cover" />
   </section>
 
-  <section class="border-y border-line bg-white/60">
-    <div class="mx-auto flex max-w-6xl flex-wrap items-center justify-center gap-x-10 gap-y-4 px-5 py-6">
-      <p class="text-xs uppercase tracking-wide text-muted">Bekend van</p>
-      {press.map((p) => <img src={p.src} alt={p.alt} loading="lazy" class="h-6 w-auto opacity-70 grayscale" />)}
+  <PressStrip />
+
+  <section class="wrap py-16 sm:py-24">
+    <div class="reveal grid gap-3">
+      <p class="eyebrow">In-company</p>
+      <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">Twee workshops, één doel: dat jouw team AI zelf kan inzetten.</h2>
+      <p class="max-w-prose text-muted">Eerst zien wat er kan. Dan bouwen wat jullie nodig hebben.</p>
+    </div>
+    <div class="mt-10 grid gap-8 md:grid-cols-2">
+      {workshops.map((w, i) => <WorkshopCard workshop={w} variant={i === 1 ? 'violet' : 'light'} delay={i + 1} />)}
     </div>
   </section>
 
-  <section class="mx-auto max-w-6xl px-5 py-16">
-    <h2 class="text-3xl font-bold tracking-tight">AI-workshops</h2>
-    <p class="mt-2 max-w-prose text-muted">Twee workshops, één doel: dat jouw team AI zelfstandig kan inzetten.</p>
-    <div class="mt-8 grid gap-6 md:grid-cols-2">
-      {workshops.map((w) => (
-        <a href={`/ai-workshops/${w.data.slug}/`} class="grid gap-3 rounded-xl border border-line bg-white p-6 hover:border-accent">
-          <p class="text-xs uppercase tracking-wide text-muted">{w.data.duration} · {w.data.participants}</p>
-          <h3 class="text-2xl font-semibold">{w.data.title}</h3>
-          <p class="text-muted">{w.data.subtitle}</p>
-          <p class="font-semibold text-accent">{w.data.price} <span class="text-sm font-normal text-muted">{w.data.priceNote}</span></p>
-        </a>
-      ))}
-    </div>
-  </section>
-
-  <section class="mx-auto max-w-6xl px-5 py-8">
-    <div class="grid gap-6 rounded-xl bg-accent-soft p-8 md:grid-cols-[2fr_1fr] md:items-center">
-      <div>
-        <h2 class="text-2xl font-bold">Gratis boek: Digital nomad</h2>
-        <p class="mt-2 max-w-prose text-muted">Verhalen en lessen uit een vrij leven. Van een vanlife in de Balkan tot een fietstocht naar Turkije: het eerlijke verhaal van zes jaar reizen en online werken. 176 pagina's, direct te downloaden.</p>
+  <section class="wrap">
+    <div class="reveal sticker grid gap-6 bg-lime p-8 sm:p-10 md:grid-cols-[3fr_2fr] md:items-center">
+      <div class="grid gap-3">
+        <p class="eyebrow text-ink">Gratis boek</p>
+        <h2 class="text-2xl font-bold sm:text-3xl">Digital nomad: verhalen en lessen uit een vrij leven</h2>
+        <p class="max-w-prose text-ink/80">Van een vanlife in de Balkan tot een fietstocht naar Turkije: het eerlijke verhaal van zes jaar reizen en online werken. 176 pagina's, direct te downloaden, geen e-mail nodig.</p>
       </div>
-      <a href="/boek/" class="justify-self-start rounded-md bg-accent px-5 py-3 font-semibold text-white hover:bg-accent-dark md:justify-self-end">Download het boek</a>
+      <div class="flex md:justify-end">
+        <a href="/boek/" class="btn btn-primary">Download het boek</a>
+      </div>
     </div>
   </section>
 
-  <section class="mx-auto max-w-6xl px-5 py-16">
-    <div class="flex items-baseline justify-between gap-4">
-      <h2 class="text-3xl font-bold tracking-tight">Uit het blog</h2>
-      <a href="/blog/" class="text-sm font-semibold text-accent">Alle artikelen</a>
+  <section class="wrap py-16 sm:py-24">
+    <div class="reveal grid items-center gap-10 md:grid-cols-[2fr_3fr]">
+      <img src="/images/micky/mick.webp" alt="Micky van Zadelhoff in een fauteuil, met een banaan als telefoon" width="1200" height="1200" loading="lazy"
+           class="sticker w-full max-w-sm justify-self-center object-cover md:justify-self-start" />
+      <div class="grid gap-4">
+        <p class="eyebrow">Over Micky</p>
+        <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">Digital nomad, AI-trainer en luchtkasteelarchitect.</h2>
+        <p class="max-w-prose text-lg text-muted">Ik fietste van Nederland naar Turkije, bouwde De Moderne Nomaden uit tot een blog met tienduizenden lezers per maand en verloor een zomer aan 200 opblaasstoelen op Ibiza. Sinds een paar jaar help ik bedrijven met AI, en bouw ik er zelf mee.</p>
+        <a href="/over/" class="btn btn-ghost w-fit">Lees mijn verhaal</a>
+      </div>
     </div>
-    <div class="mt-8 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
-      {recent.map((a) => <ArticleCard article={a} />)}
+  </section>
+
+  <section class="wrap pb-8">
+    <div class="reveal flex flex-wrap items-end justify-between gap-4">
+      <div class="grid gap-2">
+        <p class="eyebrow">Blog</p>
+        <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">Uit het blog</h2>
+      </div>
+      <a href="/blog/" class="btn btn-ghost">Alle artikelen</a>
+    </div>
+    <div class="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+      {recent.map((a, i) => <ArticleCard article={a} delay={(i % 3) + 1} />)}
     </div>
   </section>
 </Layout>

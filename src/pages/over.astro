@@ -1,32 +1,31 @@
 ---
 import { getEntry, render } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
+import PressStrip from '../components/PressStrip.astro';
+import Blobs from '../components/Blobs.astro';
 
 const page = await getEntry('pages', 'over-mij');
 if (!page) throw new Error('src/content/pages/over-mij.md is missing');
 const { Content } = await render(page);
-const press = [
-  { src: '/images/press/nrc-handelsblad.webp', alt: 'NRC' },
-  { src: '/images/press/Nu-nl-logo-1.webp', alt: 'Nu.nl' },
-  { src: '/images/press/Vice_Logo.webp', alt: 'Vice' },
-  { src: '/images/press/algemeen-dagblad.webp', alt: 'Algemeen Dagblad' },
-  { src: '/images/press/funx-logo.webp', alt: 'FunX' },
-  { src: '/images/press/flow-logo.webp', alt: 'Flow Magazine' },
-];
 ---
 <Layout title={page.data.title} description={page.data.description ?? ''} image="/images/micky/mick-van-zadelhoff-de-moderne-nomaden.webp">
-  <article class="mx-auto max-w-6xl px-5 py-12">
-    <div class="grid items-center gap-10 md:grid-cols-[3fr_2fr]">
-      <div>
-        <h1 class="text-4xl font-bold tracking-tight md:text-5xl">Micky van Zadelhoff</h1>
-        <div class="mt-6 flex flex-wrap items-center gap-x-8 gap-y-3">
-          <p class="text-xs uppercase tracking-wide text-muted">Ik kwam al langs bij</p>
-          {press.map((p) => <img src={p.src} alt={p.alt} loading="lazy" class="h-6 w-auto opacity-70 grayscale" />)}
-        </div>
+  <section class="relative overflow-hidden">
+    <Blobs />
+    <div class="wrap grid items-center gap-10 py-14 md:grid-cols-[3fr_2fr] sm:py-20">
+      <div class="grid gap-5">
+        <p class="eyebrow animate-rise">Over Micky</p>
+        <h1 class="text-[40px] font-extrabold leading-[1.02] tracking-tight animate-rise [animation-delay:.1s] sm:text-[58px]">Micky van Zadelhoff</h1>
+        <p class="max-w-prose text-xl text-muted animate-rise [animation-delay:.2s]">Digital nomad, AI-trainer en luchtkasteelarchitect. Drie verhaaltjes zeggen meer dan een cv.</p>
       </div>
-      <img src="/images/micky/mick-van-zadelhoff-de-moderne-nomaden.webp" alt="Micky van Zadelhoff" width="1200" height="956" class="w-full rounded-xl object-cover" />
+      <div class="relative mx-auto w-full max-w-sm animate-rise [animation-delay:.3s]">
+        <img src="/images/micky/mick-van-zadelhoff-de-moderne-nomaden.webp" alt="Micky van Zadelhoff" width="1200" height="956" class="sticker w-full object-cover" />
+        <span class="chip absolute -left-3 top-6 bg-lime shadow-sticker-sm animate-bob [--tilt:-6deg]">Fietste naar Turkije</span>
+      </div>
     </div>
-    <div class="prose prose-lg mt-10 max-w-prose prose-headings:tracking-tight prose-a:text-accent prose-img:rounded-lg">
+  </section>
+  <PressStrip />
+  <article class="wrap py-12">
+    <div class="prose prose-lg mx-auto max-w-prose">
       <Content />
     </div>
   </article>

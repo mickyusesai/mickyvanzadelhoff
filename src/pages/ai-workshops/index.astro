@@ -1,36 +1,36 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import WorkshopCard from '../../components/WorkshopCard.astro';
+import Blobs from '../../components/Blobs.astro';
 import { getCollection } from 'astro:content';
 import { SITE } from '../../config/site';
 
 const workshops = (await getCollection('workshops', ({ data }) => !data.draft)).sort((a, b) => a.data.order - b.data.order);
 ---
 <Layout title="AI-workshops voor bedrijven" description="Twee praktische AI-workshops: een introductie van drie uur voor het hele team, of een bouwweek waarin we met Claude Code een automatisering neerzetten die direct tijd bespaart.">
-  <section class="mx-auto max-w-6xl px-5 py-12">
-    <p class="text-sm font-semibold uppercase tracking-wide text-accent">In-company</p>
-    <h1 class="mt-2 text-4xl font-bold tracking-tight">AI-workshops die je team zelf laten bouwen</h1>
-    <p class="mt-3 max-w-prose text-lg text-muted">
-      De ontwikkelingen gaan hard en de meeste teams zien door de bomen het bos niet meer. Daarom zijn er twee workshops: één om te zien wat er kan, één om het ook echt te bouwen.
-    </p>
-    <div class="mt-10 grid gap-6 md:grid-cols-2">
-      {workshops.map((w) => (
-        <a href={`/ai-workshops/${w.data.slug}/`} class="grid content-start gap-3 rounded-xl border border-line bg-white p-6 hover:border-accent">
-          <p class="text-xs uppercase tracking-wide text-muted">{w.data.duration} · {w.data.location} · {w.data.participants}</p>
-          <h2 class="text-2xl font-semibold">{w.data.title}</h2>
-          <p class="text-muted">{w.data.subtitle}</p>
-          <ul class="mt-2 grid gap-1 text-sm">
-            {w.data.outcomes.map((o) => <li class="flex gap-2"><span class="text-accent" aria-hidden="true">✓</span>{o}</li>)}
-          </ul>
-          <p class="mt-2 font-semibold text-accent">{w.data.price} <span class="text-sm font-normal text-muted">{w.data.priceNote}</span></p>
-        </a>
-      ))}
+  <section class="relative overflow-hidden">
+    <Blobs />
+    <div class="wrap grid gap-5 py-14 sm:py-20">
+      <p class="eyebrow animate-rise">In-company · Nederland</p>
+      <h1 class="max-w-4xl text-[38px] font-extrabold leading-[1.04] tracking-tight animate-rise [animation-delay:.1s] sm:text-[56px]">AI-workshops die je team <span class="highlight">zelf</span> laten bouwen.</h1>
+      <p class="max-w-prose text-lg text-muted animate-rise [animation-delay:.2s] sm:text-xl">De ontwikkelingen gaan hard en de meeste teams zien door de bomen het bos niet meer. Daarom zijn er twee workshops: één om te zien wat er kan, één om het ook echt te bouwen.</p>
     </div>
-    <div class="mt-12 rounded-xl bg-accent-soft p-8">
-      <h2 class="text-2xl font-bold">Even kennismaken?</h2>
-      <p class="mt-2 max-w-prose text-muted">Grootse offertes kunnen, maar mailen of appen werkt eigenlijk het handigst. Dan bespreken we wat voor jouw team het meeste oplevert.</p>
-      <div class="mt-4 flex flex-wrap gap-3">
-        <a href={SITE.whatsappUrl} rel="noopener" class="rounded-md bg-accent px-5 py-3 font-semibold text-white hover:bg-accent-dark">Stuur een WhatsApp</a>
-        <a href={`mailto:${SITE.email}`} class="rounded-md border border-line bg-white px-5 py-3 font-semibold hover:border-accent hover:text-accent">Mail Micky</a>
+  </section>
+  <section class="wrap">
+    <div class="grid gap-8 md:grid-cols-2">
+      {workshops.map((w, i) => <WorkshopCard workshop={w} variant={i === 1 ? 'violet' : 'light'} delay={i + 1} />)}
+    </div>
+  </section>
+  <section class="wrap py-16 sm:py-24">
+    <div class="reveal sticker grid gap-6 bg-white p-8 sm:p-10 md:grid-cols-[3fr_2fr] md:items-center">
+      <div class="grid gap-3">
+        <p class="eyebrow">Even kennismaken?</p>
+        <h2 class="text-2xl font-bold sm:text-3xl">Grootse offertes kunnen. Appen werkt sneller.</h2>
+        <p class="max-w-prose text-muted">In een kort gesprek kijken we wat voor jouw team het meeste oplevert: eerst de introductie, of direct bouwen.</p>
+      </div>
+      <div class="flex flex-wrap gap-3 md:justify-end">
+        <a href={SITE.whatsappUrl} rel="noopener" class="btn btn-primary">Stuur een WhatsApp</a>
+        <a href={`mailto:${SITE.email}`} class="btn btn-ghost">Mail Micky</a>
       </div>
     </div>
   </section>

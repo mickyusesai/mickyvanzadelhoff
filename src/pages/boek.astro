@@ -1,16 +1,28 @@
 ---
 import { getEntry, render } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
+import Blobs from '../components/Blobs.astro';
 
 const page = await getEntry('pages', 'digital-nomad-boek');
 if (!page) throw new Error('src/content/pages/digital-nomad-boek.md is missing');
 const { Content } = await render(page);
+const cover = '/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp';
 ---
-<Layout title="Gratis boek: Digital nomad" description={page.data.description ?? ''} image="/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp">
-  <article class="mx-auto max-w-3xl px-5 py-12">
-    <p class="text-sm font-semibold uppercase tracking-wide text-accent">Gratis download</p>
-    <h1 class="mt-2 text-4xl font-bold tracking-tight">{page.data.title}</h1>
-    <div class="prose prose-lg mt-8 max-w-none prose-headings:tracking-tight prose-a:text-accent prose-img:rounded-lg prose-blockquote:border-accent">
+<Layout title="Gratis boek: Digital nomad" description={page.data.description ?? ''} image={cover}>
+  <section class="relative overflow-hidden">
+    <Blobs />
+    <div class="wrap grid items-center gap-10 py-14 md:grid-cols-[3fr_2fr] sm:py-20">
+      <div class="grid gap-5">
+        <p class="eyebrow animate-rise">Gratis download · geen e-mail nodig</p>
+        <h1 class="text-[36px] font-extrabold leading-[1.05] tracking-tight animate-rise [animation-delay:.1s] sm:text-[52px]">Digital nomad: verhalen en lessen uit een <span class="highlight">vrij leven</span></h1>
+        <p class="max-w-prose text-lg text-muted animate-rise [animation-delay:.2s]">Van een vanlife in de Balkan tot een fietstocht naar Turkije. Het eerlijke verhaal van een wereldreiziger die met vallen en opstaan een nieuwe levensstijl ontdekt. 176 pagina's.</p>
+        <div class="animate-rise [animation-delay:.3s]"><a href="/downloads/Digital-Nomad-Boek.pdf" class="btn btn-primary">Download het boek (PDF)</a></div>
+      </div>
+      <img src={cover} alt="Boekcover: Digital nomad, verhalen en lessen uit een vrij leven" width="800" height="1000" class="sticker mx-auto w-full max-w-xs rotate-2 object-cover animate-rise [animation-delay:.25s]" />
+    </div>
+  </section>
+  <article class="wrap py-8">
+    <div class="prose prose-lg mx-auto max-w-prose">
       <Content />
     </div>
   </article>

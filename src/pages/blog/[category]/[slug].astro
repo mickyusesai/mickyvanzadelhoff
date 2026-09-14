@@ -13,38 +13,69 @@ export async function getStaticPaths() {
   }));
 }
 const { article } = Astro.props;
-const { Content } = await render(article);
+const { Content, headings } = await render(article);
 const { title, description, category, date, updated, featuredImage } = article.data;
+const toc = headings.filter((h) => h.depth === 2).slice(0, 12);
+const words = article.body?.split(/\s+/).length ?? 0;
+const minutes = Math.max(1, Math.round(words / 220));
 const related = (await getPublishedArticles())
   .filter((a) => a.data.category === category && a.id !== article.id)
   .slice(0, 3);
 ---
-<Layout title={title} description={description} image={featuredImage || SITE.ogImage} type="article" published={date} modified={updated}>
-  <article class="mx-auto max-w-3xl px-5 py-12">
-    <header class="grid gap-4">
-      <p class="text-sm text-muted">
-        <a href="/blog/" class="text-accent">Blog</a> ›
-        <a href={`/blog/${category}/`} class="text-accent">{CATEGORY_LABELS[category] ?? category}</a>
+<Layout title={title} description={description} image={featuredImage || SITE.ogImage} type="article" published={date} modified={updated} progress>
+  <article class="wrap py-10 sm:py-14">
+    <header class="mx-auto grid max-w-3xl gap-5">
+      <p class="flex flex-wrap items-center gap-2 text-sm font-bold">
+        <a href="/blog/" class="text-violet hover:underline">Blog</a>
+        <span class="text-muted" aria-hidden="true">›</span>
+        <a href={`/blog/${category}/`} class="chip bg-lime">{CATEGORY_LABELS[category] ?? category}</a>
       </p>
-      <h1 class="text-3xl font-bold leading-tight tracking-tight md:text-4xl">{title}</h1>
-      <p class="text-sm text-muted">
-        Door Micky van Zadelhoff ·
+      <h1 class="text-[32px] font-extrabold leading-[1.08] tracking-tight sm:text-[44px]">{title}</h1>
+      <p class="flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-muted">
+        <img src="/images/micky/mick-van-zadelhoff-de-moderne-nomaden.webp" alt="" width="40" height="40" class="h-9 w-9 rounded-full border-2 border-ink object-cover" />
+        <span class="font-bold text-ink">Micky van Zadelhoff</span>
         <time datetime={date.toISOString()}>{formatDate(date)}</time>
-        {updated && updated > date && <span> · bijgewerkt <time datetime={updated.toISOString()}>{formatDate(updated)}</time></span>}
+        {updated && updated > date && <span>· bijgewerkt <time datetime={updated.toISOString()}>{formatDate(updated)}</time></span>}
+        <span>· {minutes} min lezen</span>
       </p>
-      {featuredImage && <img src={featuredImage} alt="" width="1200" height="675" class="mt-2 w-full rounded-xl object-cover" />}
     </header>
-    <div class="ad-slot" aria-hidden="true"></div>
-    <div class="prose prose-lg mt-8 max-w-none prose-headings:tracking-tight prose-a:text-accent prose-img:rounded-lg">
-      <Content />
+    {featuredImage && (
+      <div class="mx-auto mt-8 max-w-4xl">
+        <img src={featuredImage} alt="" width="1200" height="675" class="sticker w-full object-cover" />
+      </div>
+    )}
+    <div class="mx-auto mt-10 grid max-w-6xl gap-12 lg:grid-cols-[minmax(0,1fr)_280px]">
+      <div class="mx-auto w-full max-w-3xl">
+        <div class="ad-slot" aria-hidden="true"></div>
+        <div class="prose prose-lg">
+          <Content />
+        </div>
+        <div class="ad-slot" aria-hidden="true"></div>
+        <aside class="sticker mt-12 grid gap-4 bg-lime p-6 sm:grid-cols-[1fr_auto] sm:items-center">
+          <div>
+            <p class="eyebrow text-ink">Gratis boek</p>
+            <p class="mt-1 font-display text-lg font-bold">Digital nomad: verhalen en lessen uit een vrij leven</p>
+          </div>
+          <a href="/boek/" class="btn btn-primary">Download</a>
+        </aside>
+      </div>
+      {toc.length > 1 && (
+        <nav aria-label="In dit artikel" class="hidden lg:block">
+          <div class="sticker sticky top-24 p-5">
+            <p class="eyebrow mb-3">In dit artikel</p>
+            <ol class="grid gap-2 text-sm">
+              {toc.map((h) => <li><a href={`#${h.slug}`} class="text-ink hover:text-violet">{h.text}</a></li>)}
+            </ol>
+          </div>
+        </nav>
+      )}
     </div>
-    <div class="ad-slot" aria-hidden="true"></div>
   </article>
   {related.length > 0 && (
-    <section class="mx-auto max-w-6xl border-t border-line px-5 py-12">
-      <h2 class="text-2xl font-bold">Meer in {CATEGORY_LABELS[category] ?? category}</h2>
-      <div class="mt-6 grid gap-8 sm:grid-cols-3">
-        {related.map((a) => <ArticleCard article={a} />)}
+    <section class="wrap border-t-2 border-ink/10 py-14">
+      <h2 class="text-2xl font-bold sm:text-3xl">Meer in {CATEGORY_LABELS[category] ?? category}</h2>
+      <div class="mt-8 grid gap-8 sm:grid-cols-3">
+        {related.map((a, i) => <ArticleCard article={a} delay={i + 1} />)}
       </div>
     </section>
   )}
