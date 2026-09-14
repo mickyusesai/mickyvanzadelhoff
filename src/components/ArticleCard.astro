@@ -2,25 +2,24 @@
 import { CATEGORY_LABELS } from '../config/site';
 import { articlePath, formatDate, type Article } from '../lib/articles';
 
-interface Props { article: Article; }
-const { article } = Astro.props;
+interface Props { article: Article; delay?: number; }
+const { article, delay = 0 } = Astro.props;
 const { title, description, category, date, updated, featuredImage } = article.data;
 ---
-<article class="grid gap-3">
-  {featuredImage && (
-    <a href={articlePath(article)} class="block overflow-hidden rounded-lg bg-line" tabindex="-1" aria-hidden="true">
-      <img src={featuredImage} alt="" loading="lazy" decoding="async" class="aspect-[16/9] w-full object-cover" />
-    </a>
-  )}
-  <div class="grid gap-1">
-    <p class="text-xs uppercase tracking-wide text-muted">
-      <a href={`/blog/${category}/`} class="hover:text-accent">{CATEGORY_LABELS[category] ?? category}</a>
-      <span aria-hidden="true"> · </span>
+<article class="reveal sticker sticker-hover flex h-full flex-col overflow-hidden" data-delay={delay || undefined}>
+  <a href={articlePath(article)} class="block border-b-2 border-ink bg-violet-soft" tabindex="-1" aria-hidden="true">
+    {featuredImage
+      ? <img src={featuredImage} alt="" loading="lazy" decoding="async" width="640" height="360" class="aspect-[16/9] w-full object-cover" />
+      : <div class="aspect-[16/9] w-full bg-[radial-gradient(circle_at_30%_30%,#D4F75B,transparent_45%),radial-gradient(circle_at_75%_70%,#6D28D9,transparent_50%)]"></div>}
+  </a>
+  <div class="flex flex-1 flex-col gap-2 p-5">
+    <p class="flex flex-wrap items-center gap-2 text-xs font-bold text-muted">
+      <a href={`/blog/${category}/`} class="chip bg-lime">{CATEGORY_LABELS[category] ?? category}</a>
       <time datetime={(updated ?? date).toISOString()}>{formatDate(updated ?? date)}</time>
     </p>
-    <h3 class="text-lg font-semibold leading-snug">
-      <a href={articlePath(article)} class="hover:text-accent">{title}</a>
+    <h3 class="text-[19px] font-bold leading-snug">
+      <a href={articlePath(article)} class="hover:text-violet">{title}</a>
     </h3>
-    <p class="text-sm text-muted">{description}</p>
+    <p class="text-[15px] text-muted">{description}</p>
   </div>
 </article>

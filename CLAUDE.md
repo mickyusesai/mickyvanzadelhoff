@@ -162,15 +162,21 @@ When demodernenomaden.nl eventually points to this site, the old URL structure
 ---
 
 ## Design Guidelines
-- **Direction (Micky, D2):** modern tech vibe but playful (think NFT-site energy), colours in
-  the spirit of the "iTalk event conference" Elementor kit. Featured images later as custom
-  illustrations in brand colours (style reference: Lydia Hill, "Personal Sunset").
+- **Direction (Micky, D2 + D15):** "Electric playground": light violet-tinted ground, ink
+  `#17112E`, violet accent `#6D28D9`, lime highlighter `#D4F75B`, coral `#FF5C5C` sparingly,
+  sticker-style cards (2px ink border, hard offset shadow, 20px radius). Display face Unbounded,
+  body Manrope (self-hosted via @fontsource-variable). Executed with the feel of auxility.ca:
+  high-tech, clean, **plenty of motion** (scroll reveals, marquee, hover lifts, drifting blobs),
+  all transform/opacity only, and every animation disabled under `prefers-reduced-motion`.
+  Featured images later as custom illustrations in brand colours (Lydia Hill "Personal Sunset").
   Still personal and human, NOT corporate, NOT a generic AI aesthetic.
-- The current Tailwind tokens in `tailwind.config.mjs` are interim; Phase 2 replaces them.
+- Tokens live in `tailwind.config.mjs`; global styles and motion in `src/styles/global.css`.
 - **Typography:** Generous sizing, readable. Good for long-form Dutch text.
-- **Color palette:** Warm neutrals + one accent color. Avoid cold blues/greys.
 - **Mobile-first** — majority of blog traffic is mobile
-- **No heavy animations** — content loads fast, feels clean
+- **Fast:** motion must not cost content speed. No animation libraries; CSS + one small
+  IntersectionObserver script.
+- **Analytics:** Google Analytics via `PUBLIC_GA_MEASUREMENT_ID` (env var on Railway). The
+  snippet only renders when the variable is set.
 - **Micky's photo** should be prominent on homepage and about page
 - Press logos (NRC, Nu.nl, Vice, etc.) used as social proof on homepage and about page
 
@@ -200,11 +206,11 @@ When refreshing De Moderne Nomaden articles for this site:
 ---
 
 ## Open questions for Micky (everything else is decided, see docs/MIGRATION-PLAN.md §5)
-- **EasyReimburse one-liner:** what it does and for whom (TODO on the About page).
-- **Build-week programme:** day-by-day outline and an example result (TODO in the workshop file).
-- **Co-trainer:** is Bob Rekelhof still involved in the AI Introductie workshop?
-- **Analytics tool** on the new site (for the privacy page).
-- **Business address:** show one or not.
+- **EasyReimburse one-liner:** easyreimburse.ai is blocked from the sandbox; Micky pastes the
+  text or allows the domain (plan §7). TODO on the About page until then.
+- **Google Analytics Measurement ID** (`G-…`) to set as `PUBLIC_GA_MEASUREMENT_ID` on Railway.
+- **auxility.ca** is blocked from the sandbox too; the design is built from Micky's description.
 - **Logo:** none known; the name is used as a wordmark.
+- Micky prefers to answer questions **in chat**, so answers stay searchable.
 - **Headshot:** a newer high-quality photo is welcome; the current default is
   `/images/micky/mick-van-zadelhoff-de-moderne-nomaden.webp`.

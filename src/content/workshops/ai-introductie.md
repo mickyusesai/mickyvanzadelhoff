@@ -53,4 +53,3 @@ De investering is €1.500 excl. btw. Dit is inclusief reiskosten, trainer en vo
 
 **Wie geeft de workshop?**
 Micky van Zadelhoff. AI-trainer, ondernemer en helemaal thuis in de techwereld. Check gerust even [LinkedIn](https://www.linkedin.com/in/mick-van-zadelhoff-1ab40726/).
-<!-- TODO Micky: vroeger werd de training ook door Bob Rekelhof gegeven. Nog steeds? Dan hier toevoegen. -->

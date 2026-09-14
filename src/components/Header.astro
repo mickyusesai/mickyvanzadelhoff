@@ -1,19 +1,24 @@
 ---
 import { NAV, SITE } from '../config/site';
 const current = Astro.url.pathname;
-const isActive = (href: string) => (href === '/' ? current === '/' : current.startsWith(href));
+const isActive = (href: string) => current.startsWith(href);
 ---
-<header class="border-b border-line bg-paper">
-  <div class="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-4 px-5 py-4">
-    <a href="/" class="text-lg font-semibold tracking-tight">{SITE.name}</a>
-    <nav aria-label="Hoofdmenu">
-      <ul class="flex flex-wrap gap-x-5 gap-y-2 text-sm">
+<header class="sticky top-0 z-40 border-b-2 border-ink/10 bg-ground/85 backdrop-blur-md">
+  <div class="wrap flex h-[72px] items-center justify-between gap-4">
+    <a href="/" class="font-display text-[17px] font-bold tracking-tight sm:text-lg">
+      Micky <span class="text-violet">van Zadelhoff</span>
+    </a>
+    <nav aria-label="Hoofdmenu" class="hidden md:block">
+      <ul class="flex items-center gap-1">
         {NAV.map((item) => (
           <li>
             <a
               href={item.href}
               aria-current={isActive(item.href) ? 'page' : undefined}
-              class:list={['hover:text-accent', isActive(item.href) ? 'font-semibold text-accent' : 'text-ink']}
+              class:list={[
+                'inline-flex h-10 items-center rounded-full px-4 text-[15px] font-bold transition-colors',
+                isActive(item.href) ? 'bg-ink text-lime' : 'text-ink hover:bg-violet-soft',
+              ]}
             >
               {item.label}
             </a>
@@ -21,5 +26,31 @@ const isActive = (href: string) => (href === '/' ? current === '/' : current.sta
         ))}
       </ul>
     </nav>
+    <a href={SITE.whatsappUrl} rel="noopener" class="btn btn-lime hidden h-10 px-4 text-sm lg:inline-flex">Plan een gesprek</a>
+    <button id="menu-toggle" type="button" class="md:hidden inline-flex h-11 w-11 items-center justify-center rounded-xl border-2 border-ink bg-white shadow-sticker-sm" aria-expanded="false" aria-controls="mobile-menu" aria-label="Menu">
+      <svg width="22" height="22" viewBox="0 0 22 22" fill="none" aria-hidden="true"><path d="M3 6h16M3 11h16M3 16h16" stroke="#17112E" stroke-width="2.5" stroke-linecap="round"/></svg>
+    </button>
+  </div>
+  <div id="mobile-menu" hidden class="md:hidden border-t-2 border-ink/10 bg-ground">
+    <ul class="wrap grid gap-1 py-4">
+      {NAV.map((item) => (
+        <li>
+          <a href={item.href} aria-current={isActive(item.href) ? 'page' : undefined}
+             class:list={['block rounded-xl px-4 py-3 text-lg font-bold', isActive(item.href) ? 'bg-ink text-lime' : 'hover:bg-violet-soft']}>
+            {item.label}
+          </a>
+        </li>
+      ))}
+      <li class="pt-2"><a href={SITE.whatsappUrl} rel="noopener" class="btn btn-lime w-full">Plan een gesprek</a></li>
+    </ul>
   </div>
 </header>
+<script>
+  const btn = document.getElementById('menu-toggle');
+  const menu = document.getElementById('mobile-menu');
+  btn?.addEventListener('click', () => {
+    const open = menu!.hidden;
+    menu!.hidden = !open;
+    btn.setAttribute('aria-expanded', String(open));
+  });
+</script>

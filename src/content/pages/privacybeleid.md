@@ -10,9 +10,8 @@ lang: "nl"
 
 Nee, dat is een grapje. Privacy en leuk zijn best moeilijk te combineren… Maar dat betekent niet dat ik jouw privacy onbelangrijk vind. Op mijn website mickyvanzadelhoff.com ga ik dan ook respectvol om met jouw gegevens.
 
-**Statistieken**
-Ik wil graag weten welke pagina's het meest worden bezocht, zodat ik de website interessant kan houden voor mijn lezers. Daarvoor gebruik ik websitestatistieken. Ik gebruik deze gegevens niet voor retargeting en je zal dus ook geen advertenties van mij tegenkomen buiten deze website.
-<!-- TODO Micky: welke statistiektool gebruik je op de nieuwe site (Google Analytics, Plausible, geen)? -->
+**Google Analytics**
+Ik wil graag weten welke pagina's het meest worden bezocht, zodat ik de website interessant kan houden voor mijn lezers. Daarvoor gebruik ik Google Analytics, met geanonimiseerde IP-adressen. Ik gebruik deze gegevens niet voor retargeting en je zal dus ook geen advertenties van mij tegenkomen buiten deze website.
 
 **Contact**
 Stuur je me een mailtje of een WhatsApp-bericht, dan gebruik ik je gegevens alleen om je antwoord te geven. Ik deel ze niet met derden.

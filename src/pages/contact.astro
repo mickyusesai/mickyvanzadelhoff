@@ -1,22 +1,34 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import Blobs from '../components/Blobs.astro';
 import { SITE } from '../config/site';
 ---
 <Layout title="Contact" description="Vragen over een AI-workshop of hulp nodig? Mail of app Micky van Zadelhoff. Binnen 24 uur antwoord.">
-  <section class="mx-auto max-w-3xl px-5 py-12">
-    <h1 class="text-4xl font-bold tracking-tight">Contact opnemen</h1>
-    <p class="mt-4 max-w-prose text-lg text-muted">
-      Heb je vragen over de AI-workshops of kun je mijn hulp ergens bij gebruiken? Je mag me een mailtje sturen of appen. Hoe dan ook, <strong class="text-ink">binnen 24 uur</strong> krijg je van mij een antwoord ;).
-    </p>
-    <div class="mt-8 flex flex-wrap gap-3">
-      <a href={SITE.whatsappUrl} rel="noopener" class="rounded-md bg-accent px-5 py-3 font-semibold text-white hover:bg-accent-dark">WhatsApp {SITE.whatsapp}</a>
-      <a href={`mailto:${SITE.email}`} class="rounded-md border border-line bg-white px-5 py-3 font-semibold hover:border-accent hover:text-accent">{SITE.email}</a>
+  <section class="relative overflow-hidden">
+    <Blobs />
+    <div class="wrap grid gap-6 py-14 sm:py-20">
+      <p class="eyebrow animate-rise">Contact</p>
+      <h1 class="max-w-3xl text-[40px] font-extrabold leading-[1.02] tracking-tight animate-rise [animation-delay:.1s] sm:text-[58px]">Binnen 24 uur <span class="highlight">antwoord</span>.</h1>
+      <p class="max-w-prose text-lg text-muted animate-rise [animation-delay:.2s] sm:text-xl">
+        Heb je vragen over de AI-workshops of kun je mijn hulp ergens bij gebruiken? Je mag me een mailtje sturen of appen. Hoe dan ook krijg je snel van mij een antwoord ;).
+      </p>
+      <div class="grid gap-4 animate-rise [animation-delay:.3s] sm:grid-cols-2 sm:max-w-2xl">
+        <a href={SITE.whatsappUrl} rel="noopener" class="sticker sticker-hover grid gap-2 bg-lime p-6">
+          <p class="eyebrow text-ink">WhatsApp</p>
+          <p class="font-display text-xl font-bold">{SITE.whatsapp}</p>
+          <p class="text-sm text-ink/70">Het snelst. Stuur gewoon een berichtje.</p>
+        </a>
+        <a href={`mailto:${SITE.email}`} class="sticker sticker-hover grid gap-2 p-6">
+          <p class="eyebrow">E-mail</p>
+          <p class="font-display text-xl font-bold break-all">{SITE.email}</p>
+          <p class="text-sm text-muted">Voor offertes en langere vragen.</p>
+        </a>
+      </div>
+      <dl class="grid gap-1 text-sm text-muted">
+        <div class="flex gap-3"><dt class="w-20 font-bold text-ink">Naam</dt><dd>{SITE.name}</dd></div>
+        <div class="flex gap-3"><dt class="w-20 font-bold text-ink">KVK</dt><dd>{SITE.kvk}</dd></div>
+        <div class="flex gap-3"><dt class="w-20 font-bold text-ink">LinkedIn</dt><dd><a href={SITE.linkedin} rel="noopener" class="text-violet hover:underline">Micky van Zadelhoff</a></dd></div>
+      </dl>
     </div>
-    <dl class="mt-12 grid gap-2 text-sm text-muted">
-      <div class="flex gap-3"><dt class="w-24 font-semibold text-ink">Naam</dt><dd>{SITE.name}</dd></div>
-      <div class="flex gap-3"><dt class="w-24 font-semibold text-ink">KVK</dt><dd>{SITE.kvk}</dd></div>
-      <div class="flex gap-3"><dt class="w-24 font-semibold text-ink">LinkedIn</dt><dd><a href={SITE.linkedin} rel="noopener" class="text-accent">Micky van Zadelhoff</a></dd></div>
-    </dl>
-    <!-- TODO Micky: vestigingsadres tonen? (decision D8 noemt er geen) -->
   </section>
 </Layout>

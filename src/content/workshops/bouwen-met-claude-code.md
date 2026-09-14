@@ -31,7 +31,26 @@ Denk aan het automatiseren van de administratie, de klantenservice of de marketi
 
 Voor bedrijven die de introductie voorbij zijn en nu resultaat willen. Voorkennis van programmeren is niet nodig, wel de bereidheid om een week lang de handen uit de mouwen te steken. Maximaal drie deelnemers, zodat iedereen echt bouwt.
 
-<!-- TODO Micky: dagindeling van de 5 dagen (dag 1 kiezen en ontwerpen, dag 2–4 bouwen, dag 5 overdracht?) en 1–2 voorbeelden van wat eerdere teams bouwden. -->
+## Zo ziet de week eruit
+
+**Dag 1 · Kiezen en ontwerpen**
+Waar zijn jullie de meeste tijd kwijt? We brengen de processen in kaart, kiezen er één met de grootste winst en ontwerpen samen de automatisering: wat gaat erin, wat komt eruit, wie gebruikt het.
+
+**Dag 2 · Het fundament**
+We zetten Claude Code op, bouwen de eerste werkende versie en leren jullie de manier van werken: beschrijven wat je wilt, laten bouwen, testen, bijsturen.
+
+**Dag 3 · Bouwen met echte data**
+De automatisering draait op jullie eigen bestanden, mails of systemen. We lossen de dingen op die in de praktijk altijd anders zijn dan op papier.
+
+**Dag 4 · Afmaken en uitbreiden**
+Randgevallen, foutafhandeling en de eerste uitbreiding. Jullie bouwen zelf, ik kijk mee en stuur bij.
+
+**Dag 5 · Overdragen**
+Documentatie, onderhoud en een plan voor de volgende automatisering. Vanaf vandaag doen jullie het zelf.
+
+## Wat er bijvoorbeeld uit kan komen
+
+[EasyReimburse](https://easyreimburse.ai/) is een web-app die ik zelf op deze manier met AI bouwde. Het laat zien wat er mogelijk is als je AI niet alleen gebruikt om te schrijven, maar om iets neer te zetten dat een hele branche uren werk bespaart.
 
 ## Praktisch
 

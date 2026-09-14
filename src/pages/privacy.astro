@@ -7,9 +7,9 @@ if (!page) throw new Error('src/content/pages/privacybeleid.md is missing');
 const { Content } = await render(page);
 ---
 <Layout title={page.data.title} description={page.data.description ?? ''} noindex>
-  <article class="mx-auto max-w-3xl px-5 py-12">
-    <h1 class="text-4xl font-bold tracking-tight">{page.data.title}</h1>
-    <div class="prose prose-lg mt-8 max-w-none prose-a:text-accent">
+  <article class="wrap py-12 sm:py-16">
+    <h1 class="text-4xl font-extrabold tracking-tight">{page.data.title}</h1>
+    <div class="prose prose-lg mt-8 max-w-prose">
       <Content />
     </div>
   </article>

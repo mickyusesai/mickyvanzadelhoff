@@ -98,10 +98,22 @@ Actions per article in `docs/content-inventory.md`. Batches of 10–15: ondernem
 | D12 | English | **No English at all.** Site is Dutch-only; i18n removed. |
 | D13 | Funnel pages | Retired, and links to them removed from articles (24 unlinked). |
 | D14 | Launch timing | No deadline. |
+| D15 | Design direction | **A · Electric playground** colours, executed with the feel of auxility.ca: high-tech, clean, plenty of motion. (Claude's sandbox cannot open auxility.ca; see §7.) |
+| D16 | EasyReimburse one-liner | Micky pointed at easyreimburse.ai; blocked from the sandbox (§7). Generic line stays until the site is reachable or Micky pastes the text. |
+| D17 | Build-week programme | Claude drafted a 5-day programme; Micky adjusts later. EasyReimburse is the example result. |
+| D18 | Co-trainer | Only Micky. |
+| D19 | Analytics, address | Google Analytics (Measurement ID still needed: set `PUBLIC_GA_MEASUREMENT_ID` on Railway). No address on the contact page. |
 | — | Strategy | Migrate 1:1 first, refresh after launch. |
+| — | How Micky answers | In chat, not on the board, so the answers are searchable in the conversation. |
 | — | Workation page | Retired by Claude (cancelled 2023 event); old URL → workations article. |
 
 Article-level decisions (21 rows changed by Micky) are in `docs/content-inventory.md`.
+
+## 7. Blocked references (needs a change on Micky's side)
+
+The Claude Code environment's network policy blocks `auxility.ca`, `easyreimburse.ai`, `elements.envato.com` and `illustrators.com`. Two ways to fix:
+1. In the environment settings on claude.ai/code, allow these domains (or full internet access). See https://code.claude.com/docs/en/claude-code-on-the-web. A new session then can fetch them.
+2. Paste the text of easyreimburse.ai and a few notes on auxility.ca (colours, fonts, which movements) in chat.
 
 ## 6. Working agreement
 

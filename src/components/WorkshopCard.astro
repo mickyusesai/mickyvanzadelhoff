@@ -1,0 +1,33 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props { workshop: CollectionEntry<'workshops'>; variant?: 'light' | 'violet'; delay?: number; }
+const { workshop, variant = 'light', delay = 0 } = Astro.props;
+const d = workshop.data;
+const violet = variant === 'violet';
+---
+<a href={`/ai-workshops/${d.slug}/`}
+   class:list={['reveal sticker sticker-hover flex flex-col gap-4 p-7 sm:p-8', violet ? 'bg-violet text-white' : 'bg-surface text-ink']}
+   data-delay={delay || undefined}>
+  <p class:list={['text-xs font-extrabold uppercase tracking-[0.14em]', violet ? 'text-white/75' : 'text-muted']}>
+    {d.duration} · {d.participants}
+  </p>
+  <h3 class="font-display text-[26px] font-bold leading-tight sm:text-[30px]">{d.title}</h3>
+  <p class:list={['flex-1', violet ? 'text-white/85' : 'text-muted']}>{d.subtitle}</p>
+  <ul class="grid gap-1.5 text-sm">
+    {d.outcomes.map((o) => (
+      <li class="flex gap-2">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true" class="mt-0.5 flex-none"><path d="M4 10.5l4 4 8-9" stroke={violet ? '#D4F75B' : '#6D28D9'} stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <span>{o}</span>
+      </li>
+    ))}
+  </ul>
+  <div class="mt-2 flex items-center justify-between gap-4">
+    <p class:list={['font-display text-2xl font-bold', violet ? 'text-lime' : 'text-violet']}>
+      {d.price} <span class:list={['font-sans text-sm font-medium', violet ? 'text-white/70' : 'text-muted']}>{d.priceNote.split(',')[0]}</span>
+    </p>
+    <span class:list={['inline-flex h-10 w-10 items-center justify-center rounded-full border-2', violet ? 'border-lime text-lime' : 'border-ink text-ink']} aria-hidden="true">
+      <svg width="18" height="18" viewBox="0 0 18 18" fill="none"><path d="M3 9h12M10 4l5 5-5 5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </span>
+  </div>
+</a>
