@@ -1,8 +1,8 @@
 ---
-title: "13x Webinar software vergelijken – Platform reviews 2023"
-description: "De beste webinar software vergelijken? Dan zit je hier goed!"
+title: "17x Webinar software vergelijken – Platform reviews 2026"
+description: "Webinar software vergelijken in 2026: prijzen en functies van WebinarGeek, WebinarKit, Livestorm, Demio, Zoom, Teams en 11 andere platforms, plus mijn keuze."
 date: 2020-10-15
-updated: 2023-03-07
+updated: 2026-09-15
 category: "ondernemen"
 slug: "webinar-software-review"
 lang: "nl"
@@ -12,58 +12,57 @@ featuredImage: "/images/headers/webinar-software-review.webp"
 
 De **beste webinar software vergelijken**? Dan zit je hier goed!
 
-Toen ik mijn eerste webinar ging geven was het best wel even zoeken naar de juiste **webinar software**. Ik wilde een betaalde online training geven voor pakweg tien deelnemers.
+Toen ik mijn eerste webinar ging geven, was het best even zoeken naar de juiste **webinar software**. Ik wilde een betaalde online training geven voor pakweg tien deelnemers. Normaal gaven we dit soort trainingen offline, maar vanwege corona waren we toen verplicht om dit anders te doen. Inmiddels geef ik mijn [AI-workshops](/ai-workshops/) het liefst weer op locatie, maar voor kennismakingssessies, sales en evergreen trainingen blijft een webinar onverslaanbaar.
 
-Normaal gaven we dit soort trainingen offline, maar vanwege corona waren we toen verplicht om dit op een andere manier te doen. En tegenwoordig gaat het online ook prima! Maar als je dan zo zit te zoeken naar webinar software, dan kom je veel opties tegen. De een nog duurder dan de ander.
+In dit artikel vergelijk ik zeventien webinarplatforms op prijs, functies en voor wie ze geschikt zijn. Je leest welke tools sinds mijn vorige vergelijking van naam, prijs of eigenaar zijn veranderd (dat zijn er nogal wat), welke vier nieuwkomers in 2026 de moeite waard zijn en welke software ik zelf gebruik.
 
-Daarom bespreken we in dit artikel de verschillende **webinar software aanbieders**. Zo kun jij een goede keuze maken voor jouw eigen online seminar!
+Alle prijzen zijn gecontroleerd in september 2026 en veranderen regelmatig; ik noem de prijs bij jaarlijkse betaling tenzij anders vermeld. <!-- TODO: verify this data is still current -->
 
-> **Spoiler!** Zelf ben ik voor live webinars uiteindelijk aan de slag gegaan met het Nederlandse [**WebinarGeek**](/go/webinargeek). Het is de enige Nederlandse webinar software op de markt en biedt alles wat je nodig hebt! Ook handig; je kunt er gewoon met iDEAL betalen en hebt een Nederlandstalige klantenservice ;).
-> 
-> Voor geautomatiseerde (evergreen) webinars, voor bijvoorbeeld marketingfunnels, kun je het beste **[WebinarKit](/go/webinarkit)** gebruiken omdat zij dit doen tegen een eenmalige betaling (ipv maandelijks).
+> **Spoiler!** Zelf ben ik voor live webinars aan de slag gegaan met het Nederlandse [**WebinarGeek**](/go/webinargeek). Het biedt alles wat je nodig hebt, je kunt gewoon met iDEAL betalen en hebt een Nederlandstalige klantenservice ;).
+>
+> Voor geautomatiseerde (evergreen) webinars, bijvoorbeeld in een marketingfunnel, gebruik je het [premium pakket van WebinarGeek](/go/webinargeek-prijzen) of het gespecialiseerde **[WebinarKit](/go/webinarkit)**. Let op: de eenmalige betaling die WebinarKit vroeger bood, bestaat niet meer; het is nu ook een abonnement.
 
-## Webinars communicatie- en marketingtool
+## Webinars als communicatie- en marketingtool
 
-Webinars worden steeds vaker gegeven als **een alternatief voor (offline) seminars**. Tegelijk wordt het ook vaak ingezet als marketingtool. Sterker nog, **voor de B2B marketeer is er eigenlijk geen ontkomen meer aan**.
+Webinars worden steeds vaker gegeven als **een alternatief voor (offline) seminars**. Tegelijk worden ze vaak ingezet als marketingtool. Sterker nog, **voor de B2B-marketeer is er eigenlijk geen ontkomen meer aan**.
 
 En hoewel webinars sowieso goed zijn voor je marketing, moeten we bij webinar software kijken naar een aantal details die het verschil kunnen maken:
 
-*   Hoe is de ervaring in de ‘waiting room’ voor de kijkers?
+*   Hoe is de ervaring in de 'waiting room' voor de kijkers?
 *   Moeten kijkers een eigen app downloaden om het webinar bij te wonen?
 *   Hoeveel mensen kunnen tegelijkertijd presenteren?
 *   Hoe goed is de audiokwaliteit?
 *   Hoeveel mensen kunnen er tegelijk in jouw liveroom meedoen?
+*   Wat doet de tool met AI: samenvattingen, ondertiteling, een chat-assistent die vragen beantwoordt?
 
 ![Webinar organiseren](/images/migrated/webinar-organiseren-1.webp "Webinar organiseren")
 
 ### Het verschil tussen live en automated webinars
 
-Voor wie voor het eerst **naar webinar software zoekt** kan dit wat verwarrend zijn. Maar je hebt vaak aparte software voor **live** en voor **automated** webinars.
+Voor wie voor het eerst **naar webinar software zoekt** kan dit wat verwarrend zijn. Je hebt vaak aparte software (of aparte pakketten) voor **live** en voor **automated** webinars.
 
-Met een **live webinar** spreek je met een groep mensen af op een bepaald tijdstip in een digitale webinar omgeving. Het normale webinar zeg maar. Als dit is waar je naar zoekt, dan is de [software van WebinarGeek](/go/webinargeek) perfect ;).
+Met een **live webinar** spreek je met een groep mensen af op een bepaald tijdstip in een digitale webinaromgeving. Het normale webinar zeg maar. Als dit is waar je naar zoekt, dan is de [software van WebinarGeek](/go/webinargeek) perfect ;).
 
-Bij een **automated webinar** gaat het om een vooraf opgenomen webinar dat mensen op hun eigen moment kunnen kijken. Vaak wordt hierbij wel een ‘live gevoel’ gecreëerd door een tijd in te plannen en niet in de mogelijkheid te zijn om de ‘video’ vooruit te spoelen. Het is zelfs zo dat in veel gevallen kijkers helemaal niet doorhebben dat een webinar niet live is. Dit soort webinar wordt vaak gebruikt voor promotionele doeleinden. Als dit wat je zoekt, dan is de [software van WebinarKit](/go/webinarkit) hetgeen je nodig hebt!
+Bij een **automated webinar** gaat het om een vooraf opgenomen webinar dat mensen op hun eigen moment kunnen kijken. Vaak wordt hierbij wel een 'live gevoel' gecreëerd door een tijd in te plannen en de 'video' niet vooruit te kunnen spoelen. In veel gevallen hebben kijkers helemaal niet door dat een webinar niet live is. Dit soort webinar wordt vaak gebruikt voor promotionele doeleinden. Als dit is wat je zoekt, dan is de [software van WebinarKit](/go/webinarkit) daarvoor gebouwd.
 
-**Mocht je overigens ‘live’ én ‘automated webinars’ willen, dan kun je dit het beste allebei op WebinarGeek doen met hun betaalbare [premium versie](/go/webinargeek-prijzen).**
+**Wil je 'live' én 'automated webinars', dan kun je dit het beste allebei op WebinarGeek doen met hun [premium pakket](/go/webinargeek-prijzen).**
 
 ## Wat is een webinar?
 
-Het woord webinar is simpel gezegd opgedeeld in twee woorden, **web en seminar**. Het web staat voor het online gedeelte en het woord seminar kennen we natuurlijk allemaal. De webinar software heeft als doel een seminar live te kunnen geven in een online omgeving.
+Het woord webinar is simpel gezegd opgedeeld in twee woorden: **web en seminar**. Het web staat voor het online gedeelte en het woord seminar kennen we natuurlijk allemaal. Webinar software heeft als doel een seminar live te kunnen geven in een online omgeving.
 
-Webinar software helpt je over het algemeen om een online seminar zo moeiteloos mogelijk te kunnen organiseren. Het liefst zonder afgeleid te raken door de online omgeving. Vaak heeft dit opties voor een live chat om de interactie die je ‘in het echt’ zou hebben, ook online terug te laten komen.
+Webinar software helpt je om een online seminar zo moeiteloos mogelijk te organiseren. Het liefst zonder afgeleid te raken door de techniek. Vaak zijn er opties voor een live chat om de interactie die je 'in het echt' zou hebben, ook online terug te laten komen.
 
 ### Wat is de beste webinar software?
 
-De beste webinar software maakt het makkelijk om een webinar op te nemen zonder complicaties. Je wilt immers niet dat je de hele tijd wegvalt als je net een nieuw product aan het pitchen bent of in een belangrijke meeting zit.
+De beste webinar software maakt het makkelijk om een webinar te geven zonder complicaties. Je wilt immers niet dat je de hele tijd wegvalt als je net een nieuw product aan het pitchen bent.
 
 Naar mijn mening zijn de beste webinar software aanbieders:
 
-*   [WebinarGeek voor live webinars](/go/webinargeek)
-*   [WebinarKit voor automated webinars](/go/webinarkit)
+*   [WebinarGeek voor live webinars](/go/webinargeek) (en voor de meeste Nederlandse bedrijven ook voor automated)
+*   [WebinarKit voor pure evergreen funnels](/go/webinarkit)
 
-Daarmee ben je in staat om in hoge kwaliteit jouw online seminar of marketingboodschap te draaien.
-
-Laten we kijken naar de **beste webinar software aanbieders voor 2023**.
+Laten we kijken naar de **beste webinar software aanbieders voor 2026**.
 
 ## 1. WebinarGeek
 
@@ -71,117 +70,94 @@ Laten we kijken naar de **beste webinar software aanbieders voor 2023**.
 
 [![WebinarGeek Nederlandse webinar software](/images/migrated/webinargeek-webinar-software-nederland.webp)](/go/webinargeek)
 
-[**WebinarGeek**](/go/webinargeek) is **webinar software van Nederlandse gronden**. Daarmee ben je gelijk verzekerd van grote voordelen ten opzichte van de andere aanbieders in deze lijst, zoals een Nederlandstalige klantenservice en eenvoudige betaalmogelijkheden zoals iDEAL.
+[**WebinarGeek**](/go/webinargeek) is **webinar software van Nederlandse bodem** (Zoetermeer). Daarmee ben je gelijk verzekerd van grote voordelen ten opzichte van de meeste andere aanbieders in deze lijst, zoals een Nederlandstalige klantenservice, eenvoudige betaalmogelijkheden zoals iDEAL en Europese dataopslag.
 
-Met WebinarGeek kun je alles doen wat je maar kunt bedenken op webinar gebied. Het is dan ook niet voor niets dat ze grote Nederlandse gebruikers hebben aangetrokken zoals ING, Aegon, KNVB en ROC. Voor deze en kleine gebruikers kun je met WebinarGeek aan de slag met live, geautomatiseerde, hybride en zelfs betaalde webinars.
+Met WebinarGeek kun je alles doen wat je maar kunt bedenken op webinargebied. Het is niet voor niets dat ze grote Nederlandse gebruikers hebben aangetrokken zoals ING, Aegon, KNVB en ROC's. Voor deze en kleinere gebruikers kun je met WebinarGeek aan de slag met live, geautomatiseerde, on-demand, hybride en zelfs betaalde webinars.
 
 Alles binnen een overzichtelijke omgeving waar je met **eenvoudige tutorials** (de Academy geheten) de weg wordt gewezen. Hierdoor kan iedereen, zelfs zonder technische kennis, met vertrouwen een eigen webinar draaien.
 
 ![Tutorials WebinarGeek](/images/migrated/tutorials-webinargeek.webp "Tutorials WebinarGeek")
 
-De software van WebinarGeek wordt door bedrijven gebruikt voor **live events, sales generatie, online meetings, vraag en antwoord sessies, product demo’s en online trainingen**. De mogelijkheden van deze ene software zijn dus vrij eindeloos.
+De software van WebinarGeek wordt door bedrijven gebruikt voor **live events, salesgeneratie, online meetings, vraag-en-antwoordsessies, productdemo's en online trainingen**. De mogelijkheden zijn dus vrij eindeloos.
 
-Functies die daarbij van pas komen zijn de integraties met meer dan 5000 andere marketingtools via Zapier (en enkele directe integraties) en de mogelijkheid om video’s te delen, slides in te laden en **interactie te creëren met een quiz, poll of call-to-action**. Bij [WebinarGeek](/go/webinargeek) kun je ook gemakkelijk het hele registratieproces voor webinars en een daarbij horende e-mail flow regelen met de software.
+Functies die daarbij van pas komen zijn de integraties met duizenden andere marketingtools via Zapier (en directe integraties met onder meer HubSpot en Salesforce, als betaalde add-on) en de mogelijkheid om video's te delen, slides in te laden en **interactie te creëren met een quiz, poll of call-to-action**. Bij [WebinarGeek](/go/webinargeek) regel je ook het hele registratieproces en de bijbehorende e-mailflow in de software.
 
-Uniek aan WebinarGeek is de **hybride webinar mogelijkheid** waarbij je een combinatie maakt van live presentatie en vooraf opgenomen video. Hierdoor kun je je volledig focussen op de boodschap én interactie van het webinar.
+Nieuw sinds mijn vorige vergelijking: streamen via RTMP naar bijvoorbeeld LinkedIn of YouTube, automatische ondertiteling in vijf talen en een **AI-chatassistent** die vragen van kijkers beantwoordt (beide als add-on van €20 per maand).
 
-## Kenmerken WebinarGeek
+Uniek aan WebinarGeek is de **hybride webinar** waarbij je een combinatie maakt van live presentatie en vooraf opgenomen video. Hierdoor kun je je volledig focussen op de boodschap én interactie van het webinar.
+
+### Kenmerken WebinarGeek
 
 *   Nederlandse webinar software met Nederlandstalige klantenservice
-    
 *   Betalen via iDEAL mogelijk
-    
-*   Te gebruiken zonder technische kennis vanwege duidelijke tutorials
-    
-*   Alles in één (registratie, e-mail flow, betaalde webinars)
-    
-*   Live, automated en hybride webinars
-    
-*   Mogelijkheid om deelnemers te laten betalen voor een webinar
-    
-*   Interactie opties via polls, (publieke en privé) live chat, quiz en call-to-action
-    
+*   Te gebruiken zonder technische kennis dankzij duidelijke tutorials
+*   Alles-in-één (registratie, e-mailflow, betaalde webinars)
+*   Live, automated, on-demand en hybride webinars
+*   Interactie via polls, (publieke en privé) live chat, quiz en call-to-action
 *   Jouw eigen branding op alle communicatie
-    
-*   Oneindig veel marketingintegraties via Zapier
-    
-*   Directe integraties met e-mail marketing software zoals Enormail, Mailchimp en ActiveCampaign.
-    
-*   Tot 10 presentatoren in een webinar mogelijk
-    
-*   Ook te gebruiken voor interne meetings
-    
+*   Oneindig veel marketingintegraties via Zapier, plus HubSpot en Salesforce als add-on
+*   Directe integraties met e-mailmarketingsoftware zoals Mailchimp en ActiveCampaign
+*   Tot 100 presentatoren in een webinar (Premium)
+*   RTMP-streaming naar social media
+*   AI-chatassistent en automatische ondertiteling (add-ons)
 
-## Prijzen
+### Prijzen WebinarGeek (2026)
 
-**[› Basic](/go/webinargeek-prijzen)  
-**Met maandelijks €39,- is dit een van de goedkoopste en meest complete webinar software pakketten die je gaat vinden. Hiervoor kun je gebruikmaken van alle benodigde webinar functies. De enige beperking hierbij is dat de webinars maximaal 2 uur kunnen duren met 50 kijkers en 1 presentator.
+**[› Basic](/go/webinargeek-prijzen)**  
+€49 per maand bij jaarlijkse betaling (€69 per maand als je maandelijks betaalt). Hiervoor kun je gebruikmaken van alle benodigde live-webinarfuncties. De beperkingen: webinars van maximaal 2 uur met 50 kijkers en 1 presentator.
 
 **[› Premium](/go/webinargeek-prijzen)**  
-Voor dit premiumpakket betaal je slechts een tientje per maand meer en kom je uit op €49,-. Hiervoor krijg je alle basis functies plus de mogelijkheid voor automated webinars en tal van marketing integraties. Met het premium pakket kun je webinars geven van maximaal 8 uur met 125 kijkers en 10 presentatoren.
+€69 per maand bij jaarlijkse betaling (€99 maandelijks) voor 125 kijkers. Hiervoor krijg je alle basisfuncties plus automated en on-demand webinars, tot 100 presentatoren en webinars van maximaal 8 uur. Meer kijkers? 250 kijkers kost €99, 500 kijkers €139 en 1.000 kijkers €199 per maand (jaarlijks betaald). Enterprise begint bij €349 per maand.
 
-**Bij alle pakketten van WebinarGeek zit een [14 dagen GRATIS trial](/go/webinargeek-trial). De trial is zonder verplichtingen en verloopt automatisch na 14 dagen. Organiseer in die tijd net zoveel webinars als je wilt.**
+**Bij alle pakketten van WebinarGeek zit een [14 dagen GRATIS trial](/go/webinargeek-trial) met alle Premium-functies, zonder creditcard. De trial verloopt automatisch. Organiseer in die tijd net zoveel webinars als je wilt.**
 
 [Probeer WebinarGeek GRATIS](/go/webinargeek-trial)
 
 ## 2. WebinarKit
 
-### Beste automated webinar software ([automated webinars](/go/webinarkit))
+### Gespecialiseerde automated webinar software ([automated webinars](/go/webinarkit))
 
 [![Webinarkit homepage](/images/migrated/webinarkit-homepage-1.webp)](/go/webinarkit)
 
-[**WebinarKit**](/go/webinarkit) is vrij nieuwe webinar software die zowel opties biedt voor **live als automated webinars**.
+[**WebinarKit**](/go/webinarkit) is webinar software die zowel opties biedt voor **automated als live webinars**, met de nadruk op het eerste.
 
-Je zou kunnen stellen dat ze de markt **flink op stelten zetten**. Waar concurrenten vaak bizar hoge bedragen per jaar vragen, heeft WebinarKit voor automated webinars een **One-Time-Price**. Plots betaal je eenmalig maar $597 om gebruik te maken van volwaardige webinar software.
+Toen ik WebinarKit voor het eerst besprak, zetten ze de markt **flink op stelten** met een eenmalige betaling van $597 voor automated webinars. Dat aanbod is verdwenen: WebinarKit werkt nu, net als iedereen, met een abonnement. Wie per se eenmalig wil betalen, kan alleen nog een 'lifetime' Pro-licentie kopen van bijna $2.000. Voor de meeste ondernemers is dat niet meer de no-brainer van vroeger.
 
-Dat zet aan het denken, daar moet ergens een addertje onder het gras zitten toch? En ja dat klopt. Er zitten wat addertjes onder het gras. Zo is het belangrijk om te beseffen dat ze hun service meer hebben gescheiden dan andere aanbieders.
-
-Enerzijds heb je de **live webinar software** welke je kunt gebruiken voor trainingen, vergaderingen en noem maar op. Voor deze software betaal je per maand, maar deze is niet nodig om automated webinars te runnen.
+Wat overeind blijft: de software is gebouwd rond evergreen funnels. Het aantal kijkers van automated webinars is onbeperkt, je host de video's bij hen (geen apart Vimeo-abonnement nodig) en de chatsimulatie, opt-in pagina's en e-mailautoresponder zitten erbij.
 
 ![Webinarkit live](/images/migrated/webinarkit-live-1.webp "Webinarkit live")
 
-Webinarkit breidt steeds meer uit met **nieuwe functies** waarvan ik keer op keer denk; jeetje wat handig! Zo kun je nu met één druk op de knop je presentatie/slideshow delen, streamen op meerdere platforms tegelijk, een knop delen naar een pagina op je website en met meerdere mensen presenteren.
+Nieuw in 2026 is de **AI webinar builder**: je geeft je onderwerp en een script en slides worden voor je opgezet. Ook is er een AI-chatagent die tijdens automated webinars vragen beantwoordt en, als je wilt, verkoopt. Handig, al blijft mijn advies om je script zelf te schrijven; AI mag het skelet maken, jij de inhoud.
 
-**WebinarKit beschikt over alle functies die je maar kunt bedenken en is daarmee mijn nummer één als automated webinar software. Voor live webinars vind ik ze wat aan de dure kant voor wat ze te bieden hebben.**
+**Voor pure evergreen funnels blijft WebinarKit een sterke keuze. Voor live webinars vind ik ze, zeker met de nieuwe prijzen, minder interessant dan WebinarGeek.**
 
-## Kenmerken WebinarKit
+### Kenmerken WebinarKit
 
-*   Eenmalige betaling voor automated webinar software
-    
-*   Opties om automated webinars bij hen te hosten (geen extra kosten aan Vimeo)
-    
-*   Ingebouwde e-mail autoresponder
-    
-*   Integraties met Zapier en e-mail marketing software
-    
+*   Gespecialiseerd in automated webinars met onbeperkt aantal kijkers
+*   Video's bij hen gehost (geen extra kosten voor Vimeo)
+*   Ingebouwde e-mailautoresponder (20.000 e-mails per maand inbegrepen)
+*   AI webinar builder en AI-chatagent
+*   Integraties met Zapier en e-mailmarketingsoftware
 *   Chatsimulatie mogelijk
-    
-*   Werkt goed met verschillende browsers en besturingssystemen.
-    
 *   Optie voor live quiz
-    
-*   Super eenvoudige software
-    
-*   In één klik documenten delen met kijkers van een webinar
-    
-*   Meerdere presentatoren tegelijk mogelijk
-    
-*   Converterende opt-in pagina’s inbegrepen
-    
+*   Converterende opt-in pagina's inbegrepen
 *   Streamen op meerdere platforms mogelijk
-    
-*   Overzichtelijke analytics van iedere webinar
-    
+*   Overzichtelijke analytics van ieder webinar
 
-## Prijzen
+### Prijzen WebinarKit (2026)
 
-**[› Automated webinar software](/go/webinarkit)**  
-Eenmalig $597 voor de basisfuncties voor het organiseren van een automated webinar. Hiermee kun je al direct aan de slag als marketeer voor als je een webinar gebruikt in je sales funnel.
+**[› Automated Standard](/go/webinarkit)**  
+Vanaf $49 per maand bij jaarlijkse betaling. Hiermee kun je direct aan de slag als marketeer met een webinar in je salesfunnel.
 
-**[› WebinarKit Live](/go/webinarkit-live)**  
-$49 per maand voor jouw live webinars. Alle benodigde functies van live webinar software zijn hier inbegrepen.
+**[› Automated Pro](/go/webinarkit)**  
+Vanaf $69 per maand bij jaarlijkse betaling, met meer AI-credits en functies. Eenmalig kopen kan alleen in deze variant, voor $1.997.
 
-**Bij alle pakketten van WebinarKit zit een 14 dagen niet goed geld terug garantie inbegrepen en je kunt de software altijd 7 dagen lang voor slechts $1 uitproberen.**
+**[› Automated + Live](/go/webinarkit-live)**  
+Vanaf $49 per maand voor 50 live kijkers; hogere bundels voor 100, 500 en 1.000 kijkers.
+
+<!-- TODO: verify this data is still current (prijzen op de site werden getoond met een tijdelijke kortingscode van 15%; de maandelijkse prijzen zonder korting kon ik niet lezen) -->
+
+**Je kunt WebinarKit 7 dagen uitproberen voor $1.** Een gratis proefversie is er niet.
 
 [Probeer WebinarKit (automated)](/go/webinarkit)
 
@@ -193,226 +169,182 @@ $49 per maand voor jouw live webinars. Alle benodigde functies van live webinar 
 
 [![Livestorm webinar software homepage](/images/migrated/livestorm-webinar-software-homepage-1.webp)](/go/get-livestorm)
 
-[Livestorm](/go/get-livestorm) is een **uitgebreide tool** voor vele vormen van online communicatie. Toegankelijk voor ieder device en daarmee super **responsive**.
+[Livestorm](/go/get-livestorm) is een **uitgebreide tool** voor vele vormen van online communicatie, uit Frankrijk. Toegankelijk op ieder apparaat en daarmee super **responsive**.
 
-Met Livestorm webinar software kun je een **live, on-demand en geautomatiseerd webinar organiseren**. Uniek aan hun software is dat het webinar **tot wel 4 uur** kan duren en daarmee uitermate geschikt is voor online trainingen.
+Met Livestorm kun je een **live, on-demand en geautomatiseerd webinar organiseren**. Webinars mogen **tot wel 4 uur** duren en daarmee is de tool uitermate geschikt voor online trainingen.
 
-Je kunt eenvoudig promotionele mailings verzenden en hebt goed inzicht in de e-mail statistieken. Je hebt hiervoor dus **geen** extra e-mail marketing software nodig.
+Je kunt eenvoudig promotionele mailings verzenden en hebt goed inzicht in de e-mailstatistieken. Je hebt hiervoor dus **geen** extra e-mailmarketingsoftware nodig.
 
-Daarbij kun je Livestorm zien als een topper voor het voldoen aan alle **GDPR eisen**. Ze zijn **100% privacy proof**. Verder heb je in de webinar software nog functies voor polls en vraag en antwoord en kun je deze allemaal zo designen dat ze passen bij jouw brand.
+Daarbij is Livestorm een topper als het gaat om **GDPR/AVG**. Ze zijn Europees en volledig privacy-proof. Verder heb je functies voor polls en vraag-en-antwoord en kun je alles zo designen dat het bij jouw merk past. Nieuw is de **AI-ondertiteling die live vertaalt**: handig als je internationale deelnemers hebt.
 
-Deelnemers kunnen meedoen met een webinar met **één klik op de knop**. Software of een account hebben zij daarvoor niet nodig.
+Deelnemers kunnen meedoen met **één klik**. Software of een account hebben zij daarvoor niet nodig.
 
-## Kenmerken Livestorm
+### Kenmerken Livestorm
 
-*   Gebruiksvriendelijke webinar thema’s voor het uiterlijk van jouw online seminar
-    
-*   Interactieve polls en vraag en antwoord functies
-    
-*   Geweldig voor online trainingen of 1 op 1 presentaties
-    
-*   Veel automatiserings mogelijkheden
-    
-*   Geen account of software nodig voor webinar deelnemer
-    
-*   Met één klik registreren
-    
-*   Mogelijkheid data te exporteren via XLS en CSV
-    
+*   Gebruiksvriendelijke webinarthema's voor het uiterlijk van jouw online seminar
+*   Interactieve polls en vraag-en-antwoordfuncties
+*   Geweldig voor online trainingen of 1-op-1 presentaties
+*   Veel automatiseringsmogelijkheden
+*   Geen account of software nodig voor deelnemers
+*   Live vertaalde ondertiteling met AI
+*   Data exporteren via XLS en CSV
 *   Onbeperkt opnames bewaren
-    
-*   Plaats call-to-actions in jouw webinar
-    
-*   Gratis aan de slag met het basis pakket
-    
+*   Call-to-actions in jouw webinar
+*   Gratis aan de slag met het basispakket
 
-## Prijzen
+### Prijzen Livestorm (2026)
 
-Je kunt Livestorm [gratis uitproberen met het ‘basic’ pakket](/go/get-livestorm). De mogelijkheden zijn als volgt:
+Je kunt Livestorm [gratis gebruiken met het 'free' pakket](/go/get-livestorm). Het prijsmodel is sinds mijn vorige vergelijking flink veranderd: je betaalt niet meer per maand, maar per **deelnemer-credit**.
 
-![Prijzen livestorm webinar software](/images/migrated/prijzen-livestorm-webinar-software-1.webp "Prijzen livestorm webinar software")
+*   **Free:** gratis. 30 kijkers per webinar, maximaal 20 minuten, 10 events.
+*   **Pro:** €2,50 per deelnemer, in bundels vanaf 400 credits (€1.000 per jaar, alleen jaarlijks te betalen). Tot 3.000 live kijkers per event, onbeperkt aantal events en teamleden.
+*   **Enterprise:** op aanvraag.
 
-*   **Basic Plan:** Gratis. Voor 30 kijkers per webinar (van max. 20 minuten)
-*   **Premium Plan:** €79,- per maand tot 500 deelnemers per webinar
-
-Er zijn ook mogelijkheden om uit te breiden naar meer live attendees bij het webinar. Het beste kun je beginnen met het **gratis basic pakket** en wanneer nodig, deze upgraden.
+Dat maakt Livestorm goedkoop als je een paar grote webinars per jaar geeft, en duur als je wekelijks kleine sessies draait. Begin met het **gratis pakket** en reken uit wat een jaar je zou kosten.
 
 [Probeer Livestorm](/go/get-livestorm)
 
-## 4. Webinarninja
+## 4. WebinarNinja (nu ProProfs WebinarNinja)
 
-### Beste webinar software voor online coaches en trainers ([14 dagen gratis trial](/go/get-webinarninja))
+### Betalen per deelnemer ([14 dagen gratis trial](/go/get-webinarninja))
 
 [![WebinarNinja](/images/migrated/webinarninja-webinar-software.webp)](/go/get-webinarninja)
 
-[WebinarNinja](/go/get-webinarninja) heeft krachtige en betrouwbare webinar software voor een redelijke prijs. De software is enorm **overzichtelijk en gebruiksvriendelijk**. Daardoor is het mogelijk om in enkele minuten jouw eerste eigen webinar op te zetten zonder technische kennis.
+[WebinarNinja](/go/get-webinarninja) werd begin 2024 overgenomen door ProProfs en heet nu officieel ProProfs WebinarNinja. De software is nog steeds **overzichtelijk en gebruiksvriendelijk**: je zet in enkele minuten je eerste webinar op zonder technische kennis.
 
-Met WebinarNinja kun je eenvoudige **branding toevoegen, Q&A’s houden en polls plaatsen** tijdens een webinar. Uniek aan de webinar software is de integratie met populaire marketing tools die het gemakkelijk maken om WebinarNinja te gebruiken **binnen een bestaande marketingstrategie of funnel**.
-
-WebinarNinja biedt ook een scala aan opties voor het opnemen en opnieuw afspelen van webinars, zodat gebruikers deze kunnen delen met mensen die niet in staat waren om de live sessie bij te wonen.
-
-In het algemeen biedt WebinarNinja een **solide webinar software** met veel mogelijkheden voor personalisatie en interactie. Het is een goede keuze voor bedrijven en organisaties die op zoek zijn naar een manier om professionele en effectieve webinars te creëren. Door alle functionaliteiten **bespaart het tevens kosten**, omdat je niet los een videohostingservice of e-mail marketing service hoeft aan te schaffen.
+Met WebinarNinja kun je eenvoudig **branding toevoegen, Q&A's houden en polls plaatsen** tijdens een webinar. Er is een AI-functie die vragen in de chat beantwoordt en je kunt via Stripe betaalde webinars en zelfs complete online cursussen aanbieden (CourseNinja zit erbij).
 
 **Met WebinarNinja kun je vier soorten webinars opzetten:**
 
-*   **Live** – De daadwerkelijke live experience met interactie van de kijkers.
-*   **Automatisch** – Vooraf opgenomen webinars welke aanvoelen als live.
-*   **Serie** – Een groep bij elkaar horende webinars.
-*   **Hybride** – Een combinatie tussen automatische en live webinars.
+*   **Live** – de daadwerkelijke live-ervaring met interactie van de kijkers.
+*   **Automatisch** – vooraf opgenomen webinars die aanvoelen als live.
+*   **Serie** – een groep bij elkaar horende webinars.
+*   **Hybride** – een combinatie van automatische en live webinars.
 
-## Kenmerken WebinarNinja
+### Kenmerken WebinarNinja
 
 *   All-in-one software waarmee je kosten bespaart
-    
-*   Snelle interactie via de live chat
-    
+*   Snelle interactie via de live chat, met AI-antwoorden
 *   Schermdelen mogelijk
-    
-*   Pollfunctie
-    
-*   Mogelijkheid om aanbieding pop-up te tonen
-    
+*   Pollfunctie en aanbieding-pop-ups
 *   Autoresponder inbegrepen
-    
-*   Hoog converterende registratiepagina’s
-    
-*   Statistiek dashboard
-    
-*   Integratie met andere marketingtools via Zapier
-    
-*   Hybride webinars
-    
-*   Intuïtieve gebruikersinterface
-    
+*   Hoog converterende registratiepagina's
+*   Betaalde webinars en cursussen via Stripe
+*   Integratie met andere marketingtools via Zapier en API
+*   Webinars tot 8 uur
 
-## Prijzen
+### Prijzen WebinarNinja (2026)
 
-Ook WebinarNinja heeft een [gratis proefperiode van 14 dagen](/go/get-webinarninja) waarin je de webinar software kunt uitproberen. Maak hier ook zeker gebruik van. Daarna volgen er drie verschillende pakketten:
+Ook WebinarNinja heeft een [gratis proefperiode van 14 dagen](/go/get-webinarninja). Daarna betaal je niet meer per pakket, maar **per deelnemer**: $0,30 per deelnemer per maand bij jaarlijkse betaling ($0,60 bij maandelijkse betaling). Je kiest zelf het aantal deelnemers bij aanschaf; boven de 1.000 neem je contact op met sales.
 
-![Prijzen WebinarNinja](/images/migrated/prijzen-webinarninja-webinar-software-1.webp "Prijzen WebinarNinja")
+![Prijzen WebinarNinja](/images/migrated/prijzen-webinarninja-webinar-software-1.webp "Prijzen WebinarNinja (oude pakketten, ter illustratie)")
 
-*   **Basic Plan:** $29 per maand en goed voor 50 kijkers per webinar met max 1 presentator.
-*   **Pro Plan:** $99 per maand en goed voor 100 kijkers per webinar met max 4 presentatoren.
-*   **Business Plan:** $199 per maand en goed voor 100 kijkers per webinar met max 10 presentatoren.
+Voor 100 deelnemers ben je dus zo'n $30 per maand kwijt: scherp geprijsd voor kleine coaches en trainers.
 
-**[WebinarNinja](/go/get-webinarninja) is een uitgebreide tool waarmee het makkelijk is om binnen enkele minuten jouw eigen webinar op te zetten.**
+<!-- TODO: de affiliate-link /go/get-webinarninja (webinarninja.com/1402.html) geeft een foutmelding sinds de overname door ProProfs; nieuwe partnerlink aanvragen of de link naar webinarninja.com laten wijzen -->
 
 [Probeer WebinarNinja](/go/get-webinarninja)
 
-## 5. Easywebinar
+## 5. EasyWebinar
 
-### Gebruiksvriendelijke webinar software ([gratis 14 dagen trial](/go/get-easywebinar))
+### Gebruiksvriendelijke webinar software ([gratis 7 dagen trial](/go/get-easywebinar))
 
 [![Easywebinar](/images/migrated/easywebinar-webinar-software.webp)](/go/get-easywebinar)
 
-[Easywebinar](/go/get-easywebinar) heeft het op een unieke manier voor elkaar gekregen om webinar software te combineren met marketingdoeleinden.
+[EasyWebinar](/go/get-easywebinar) heeft het op een unieke manier voor elkaar gekregen om webinar software te combineren met marketingdoeleinden.
 
-Het heeft alle functionaliteiten die je als webinar marketeer nodig zult hebben. **Zowel bij live als geautomatiseerde webinars**. Er zijn mogelijkheden om met meerdere mensen tegelijk een webinar te presenteren en om de software to linken aan jouw e-mail marketing programma en leadtools.
+Het heeft alle functionaliteiten die je als webinarmarketeer nodig hebt. **Zowel voor live als geautomatiseerde webinars.** Er zijn mogelijkheden om met meerdere mensen tegelijk te presenteren en om de software te koppelen aan jouw e-mailmarketingprogramma en leadtools. Sinds kort zit er een eigen CRM in (EasyCRM) en een AI webinar builder.
 
-Wat Easywebinar onderscheid is dat ze ook een gehele trainingsmodule hebben om je **op weg te helpen met het organiseren van succesvolle webinars**. Je wordt hier zeker niet aan je lot overgelaten, maar komt precies te weten wat je moet doen om het webinar van je dromen te organiseren!
+Wat EasyWebinar onderscheidt, is dat ze ook een complete trainingsmodule hebben om je **op weg te helpen met het organiseren van succesvolle webinars**. Je wordt niet aan je lot overgelaten, maar leert precies wat je moet doen.
 
-## Kenmerken Easywebinar
+### Kenmerken EasyWebinar
 
-*   Interactieve livechat
-    
-*   Screenshare opties
-    
-*   Onbeperkt aantal kijkers
-    
-*   Wordpress integratie
-    
-*   Statistieken dashboard
-    
-*   Integratie met populaire apps zoals Mailchimp
-    
-*   Inclusief trainingsmodule
-    
+*   Interactieve live chat
+*   Screenshare-opties
+*   Multistreamen naar YouTube en Facebook
+*   WordPress-integratie
+*   Statistiekendashboard
+*   Integratie met ActiveCampaign, Kit en Zapier (vanaf Growth); HubSpot en Salesforce (Pro)
+*   Inclusief trainingsmodule en AI webinar builder
 
-## Prijzen
+### Prijzen EasyWebinar (2026)
 
-Je kunt Easywebinar [gratis voor 14 dagen uitproberen](/go/get-easywebinar). Daarna zijn de pakketten als volgt:
+Je kunt EasyWebinar [7 dagen gratis uitproberen](/go/get-easywebinar) met alle functies. Daarna zijn de pakketten als volgt (maandelijks betaald; jaarlijks betalen scheelt twee maanden):
 
-*   **Standard Plan:** $99 per maand voor 100 kijkers per webinar.
-*   **Pro Plan:** $199 per maand voor 500 kijkers per webinar.
-*   **Enterprise Plan:** $499 per maand voor 2000 kijkers per webinar.
+*   **Launch:** $44 per maand voor 50 live kijkers. Alleen live webinars.
+*   **Growth:** $116 per maand voor 200 live kijkers en 1.000 kijkers op automated webinars.
+*   **Pro:** $198 per maand, met native HubSpot- en Salesforce-koppeling.
+*   **Scale:** $349 per maand.
 
-Via Youtube Live (welke je aan EasyWebinar kunt koppelen) kun je altijd een onbeperkt aantal kijkers hebben bij jouw webinar. De aantallen hierboven zijn puur gebaseerd op wanneer je hun eigen webinar host gebruikt.
+Let op: automated webinars zitten pas vanaf Growth. Via YouTube Live (te koppelen aan EasyWebinar) kun je altijd een onbeperkt aantal kijkers hebben.
 
-[Probeer Easywebinar](/go/get-easywebinar)
+[Probeer EasyWebinar](/go/get-easywebinar)
 
 ## 6. Demio
 
-### Webinar software met marketing tools ([14 dagen gratis trial](/go/get-demio))
+### Webinar software met marketingtools ([14 dagen gratis trial](/go/get-demio))
 
 [![Demio Webinar Software](/images/migrated/demio-webinar-software.webp)](/go/get-demio)
 
-**[Demio](/go/get-demio) is webinar software met zeer uitgebreide marketing tools** om zoveel mogelijk leads te halen uit jouw sales webinar. Aan de visuele kant heeft het HD gestreamde video’s en een overzichtelijk platform.
+**[Demio](/go/get-demio) is webinar software met zeer uitgebreide marketingtools** om zoveel mogelijk leads te halen uit jouw saleswebinar. Demio is inmiddels onderdeel van Banzai, een Amerikaans marketingbedrijf. Aan de visuele kant heeft het HD-video en een overzichtelijk platform.
 
-Alles binnen Demio is geoptimaliseerd om het bij jouw merk te laten passen. Denk aan kleuren, registratiepagina’s en landingspagina’s. Ook kun je met Demio aan de slag met geautomatiseerde (evergreen) webinars. Handig voor de marketeers onder ons ;).
+Alles binnen Demio is te laten passen bij jouw merk. Denk aan kleuren, registratiepagina's en landingspagina's. Ook kun je met Demio aan de slag met geautomatiseerde (evergreen) webinars. Nieuw is **Demio AI**, dat tijdens on-demand webinars de chatvragen van kijkers beantwoordt.
 
-Bij alle verschillende pakketten zijn 24/7 support, onbeperkt aantal webinars, opslag voor 100 opnames en uitgebreide statistiek inbegrepen.
+Bij alle pakketten zijn support, een onbeperkt aantal webinars en uitgebreide statistieken inbegrepen. Op Premium koppel je native met HubSpot, Salesforce, Marketo en Pardot.
 
-## Kenmerken Demio
+### Kenmerken Demio
 
-*   Inclusief chats, polls, handouts en wachtpagina
-    
-*   Goed integreerbaar met andere marketing tools
-    
-*   Email autoresponder zit erbij
-    
+*   Inclusief chat, polls, hand-outs en wachtpagina
+*   Goed integreerbaar met andere marketingtools (HubSpot, Salesforce op Premium; Zapier op alle pakketten)
+*   E-mailautoresponder zit erbij
+*   Demio AI beantwoordt chatvragen bij on-demand webinars
+*   Tot 10 mensen 'op het podium'
 *   Uitgebreide statistieken
-    
 
-## Prijzen
+### Prijzen Demio (2026)
 
-Demio heeft een gratis proefperiode van 14 dagen. Zo kun je gerust alle opties in de webinar software uittesten. Hieronder vind je de prijzen per pakket:
+Demio heeft een gratis proefperiode van 14 dagen (met Growth-functies, 20 kijkers). De prijzen zijn per host:
 
-*   **Starter Plan:** $49 per maand voor 50 webinar deelnemers.
-*   **Growth Plan:** $99 per maand voor 150 webinar deelnemers.
+*   **Starter:** $45 per maand per host bij jaarlijkse betaling ($63 maandelijks) voor 50 kijkers, 1 host en webinars tot 3 uur.
+*   **Growth:** prijs alleen zichtbaar na inloggen. <!-- TODO: verify this data is still current -->
+*   **Premium:** $196 per maand per host bij jaarlijkse betaling, met CRM-koppelingen.
 
-**Over het algemeen is Demio dus ook nog eens helemaal geen dure webinar tool. Het ligt er vooral aan in welk formaat je wilt gaan werken.**
+**Demio is dus nog steeds geen dure tool om mee te beginnen. Het ligt er vooral aan in welk formaat je wilt werken.**
 
 [Probeer Demio](/go/get-demio)
 
-## 7. GoToWebinar
+## 7. GoTo Webinar
 
 ### Webinar software voor grote organisaties
 
 ![Gotowebinar software](/images/migrated/goto-webinar-software.webp "goto-webinar-software")
 
-Dan, **GoToWebinar**. Met deze webinar software heb je nooit problemen als het gaat om het soepel organiseren van jouw webinar en kun je je **focussen op het bereiken van meer mensen met jouw business**.
+Dan, **GoTo Webinar**. Met deze webinar software heb je nooit problemen als het gaat om het soepel organiseren van jouw webinar en kun je je **focussen op het bereiken van meer mensen met jouw business**. Veel grote Nederlandse organisaties gebruiken het, vaak omdat het al in het GoTo-pakket zit.
 
-GoToWebinar geeft je tal van opties om de webinarervaring optimaal te maken. Zo heb je de beschikbaarheid over vooraf gebouwde webinar templates die jou op weg helpen.
+GoTo Webinar geeft je tal van opties om de webinarervaring optimaal te maken. Zo heb je vooraf gebouwde templates die je op weg helpen, automatische e-mailreminders, polls en sinds 2025 AI-samenvattingen en transcripties van je webinars (vanaf het middelste pakket).
 
-Verder kun je met GoToWebinar e-mail reminders automatiseren, **creatieve webinar uitnodigingen maken** en polls houden.
+### Kenmerken GoTo Webinar
 
-## Kenmerken GoToWebinar
-
-*   Vooraf opgenomen webinars
-    
+*   Vooraf opgenomen (simulated live) webinars
 *   Polls en vragenlijsten
-    
 *   Automatische opnames
-    
+*   AI-samenvattingen en transcripties
 *   24/7 support
-    
 *   Uitgebreide statistieken
-    
-*   HD kwaliteit streamen
-    
-*   Integraties met GoToMeeting
-    
+*   HD-kwaliteit streamen
+*   Integraties met de rest van GoTo
 
-## Prijzen
+### Prijzen GoTo Webinar (2026)
 
-Bij GoToWebinar hebben ze **vier verschillende opties**. Houd er rekening mee dat je voor simulated live events, marketing integraties, replays en GoToMeeting minimaal het ‘Pro Plan’ nodig hebt.
+De pakketten heten inmiddels **Reach, Elevate en Complete**. GoTo toont de prijzen pas na het invullen van je gegevens, dus onderstaande cijfers komen van vergelijkingssites: <!-- TODO: verify this data is still current (GoTo-prijspagina is niet leesbaar zonder inloggen) -->
 
-*   **Lite Plan:** €55 per maand voor 250 kijkers per webinar.
-*   **Standaard Plan:** €129 per maand voor 500 kijkers per webinar.
-*   **Pro Plan:** €249 per maand voor 1000 kijkers per webinar.
-*   **Enterprise Plan:** €499 per maand voor 3000 kijkers per webinar.
+*   **Reach:** ongeveer $62 per maand bij jaarlijkse betaling voor 500 kijkers.
+*   **Elevate:** ongeveer $269 per maand voor 1.000 kijkers, inclusief AI-functies.
+*   **Complete:** 3.000 kijkers, prijs op aanvraag.
 
-[Probeer GoToWebinar](/go/gotomeeting)
+Er is een gratis proefperiode zonder creditcard.
+
+[Probeer GoTo Webinar](/go/gotomeeting)
 
 ## 8. LiveWebinar
 
@@ -420,76 +352,67 @@ Bij GoToWebinar hebben ze **vier verschillende opties**. Houd er rekening mee da
 
 ![Livewebinar Software](/images/migrated/livewebinar-software.webp "livewebinar-software")
 
-**LiveWebinar** is software om webinars op te nemen, het scherm te delen, live videos te streamen en via sociale media uit te zenden.
+**LiveWebinar** (uit Polen) is software om webinars op te nemen, je scherm te delen, live video te streamen en via social media uit te zenden.
 
-Om gelijk te laten zien waarom LiveWebinar zo goed is…
+Om gelijk te laten zien waarom LiveWebinar zo goed is… Ze hebben tientallen datacenters en mede daardoor **een uptime van ver boven de 99%**. Je hoeft dus niet bang te zijn dat je gaat haperen of wegvalt als je net een belangrijke meeting of webinar hebt.
 
-Ze hebben meer dan 42 datacenters en mede daardoor **een ‘uptime’ van ver boven de 99%**. Je hoeft dus niet bang te zijn dat je gaat haperen of wegvalt als je net een belangrijke meeting of webinar hebt.
+Mensen kunnen deelnemen aan jouw webinar **zonder daarvoor extra software nodig te hebben**. Het kan direct in de browser.
 
-Mensen kunnen deelnemen met jouw webinar via LiveWebinar **zonder daarvoor extra software nodig te hebben**. Het kan dus direct binnen de browser.
+### Kenmerken LiveWebinar
 
-## Kenmerken Livewebinar
-
-*   Met het whiteboard kun je jouw ideeën al tekenend delen
-    
-*   Van dit whiteboard kunnen ook de deelnemers gebruik maken
-    
+*   Met het whiteboard deel je jouw ideeën al tekenend; deelnemers kunnen meedoen
 *   Je kunt Prezi integreren
-    
-*   Tot 1000 deelnemers
-    
-*   Je kunt advertenties toevoegen aan jouw webinar
-    
+*   Tot 1.000 deelnemers
+*   Evergreen webinars op de hogere pakketten
 *   Realtime chatvertalingen
-    
+*   Breakout-rooms en streaming als betaalde add-ons
 
-## Prijzen
+### Prijzen LiveWebinar (2026)
 
-Je kunt LiveWebinar gratis uitproberen met het gratis plan. Dan kun je kijken of het iets voor jou is. Anders heb je de volgende twee opties:
+Je kunt LiveWebinar gratis uitproberen met het **gratis plan** (5 deelnemers, 30 minuten). De prijzen hangen af van het aantal deelnemers dat je kiest (schuifje van 25 tot 1.000) en zijn inclusief btw:
 
-*   **Pro Plan:** $11,99 per maand voor 100 kijkers per webinar.
-*   **Business Plan:** $95,20 per maand voor 500 kijkers per webinar.
+*   **Basic, 25 deelnemers:** $32 per maand ($25,58 bij jaarlijkse betaling).
+*   **Basic, 100 deelnemers:** $71 per maand ($66,42 jaarlijks).
+*   **Plus (25 deelnemers):** $42 per maand; **Premium (25 deelnemers):** $62 per maand, met evergreen webinars.
 
-Houd er rekening mee dat je met het Pro Plan geen opslag krijgt bij LiveWebinar. Je webinars worden dus gedaan via een platform als Vimeo, waar je apart voor moet betalen.
+Houd er rekening mee dat opslag op de lagere pakketten beperkt is.
 
 [Probeer LiveWebinar](/go/livewebinar)
 
-## 9. My Own Conference
+## 9. MyOwnConference
 
 ### Goede webinar software voor kleine groepen
 
 ![My Own Conference Webinar Software](/images/migrated/my-own-conference-webinar-software.webp "my-own-conference-webinar-software")
 
-**My Own Conference** is webinar software, vooral bedoelt voor kleinschalige communicatie.
+**MyOwnConference** is webinar software die in Europa wordt gehost, vooral bedoeld voor kleinschalige communicatie.
 
-Een van de vooraanstaande functies van My Own Conference is dat je meerdere webinars tegelijk kunt inplannen. Dat kun je bijvoorbeeld willen omdat er **een aantal groepsvergaderingen plaatsvinden**.
+Een van de fijne functies is dat je meerdere webinars tegelijk kunt inplannen. Dat kun je bijvoorbeeld willen omdat er **een aantal groepsvergaderingen tegelijk plaatsvinden**. Er zijn autowebinars, quizzen, een Telegram-bot en je kunt je eigen domein gebruiken.
 
-Deze webinar software is dan ook vooral bedoelt voor kleine groepen en dat valt ook op als je naar hun prijzen kijkt. Deze stijgen erg snel wanneer de groep groter wordt.
+Deze webinar software is vooral bedoeld voor kleine groepen en dat zie je aan de prijzen: die stijgen snel wanneer de groep groter wordt.
 
-## Kenmerken My Own Conference
+### Kenmerken MyOwnConference
 
-*   Mogelijkheid voor opname webinar
-    
+*   Opname van webinars
 *   Schermdeelfunctie
-    
-*   Uitgebreide chatfunctie gedurende webinar
-    
+*   Uitgebreide chatfunctie gedurende het webinar
 *   Direct vanuit de browser, geen download nodig
-    
-*   Quiz
-    
-*   99,98% uptime, geen haperingen
-    
+*   Quiz en autowebinars
+*   Eigen domein
+*   Hoge uptime, geen haperingen
 
-## Prijzen
+### Prijzen MyOwnConference (2026)
 
-De prijzen bij My Own Conference hangen volledig af van het aantal deelnemers dat meedoet aan jouw webinar.
+De prijzen hangen volledig af van het aantal deelnemers:
 
-*   **Indicatie Plan:** €42 per maand voor 150 kijkers per webinar.
+*   **Starter:** gratis, voor 5 deelnemers, met watermerk en 20 minuten opname.
+*   **Business, 20 deelnemers:** €22 per maand (of €211,20 per jaar).
+*   **Business, 30 deelnemers:** €27,50 per maand.
+*   **Business, 500 deelnemers:** €110 per maand.
 
-Ook kun je My Own Conference gratis gebruiken, alleen dan is de duur van het webinar beperkt tot 20 minuten.
+Handig: je kunt ook een **dagpas** kopen vanaf €11 als je maar één keer een webinar geeft.
 
-[Probeer My Own Conference](/go/myownconference)
+[Probeer MyOwnConference](/go/myownconference)
 
 ## 10. ClickMeeting
 
@@ -497,275 +420,274 @@ Ook kun je My Own Conference gratis gebruiken, alleen dan is de duur van het web
 
 ![Clickmeeting webinar software](/images/migrated/clickmeeting-homepage.webp "clickmeeting-homepage")
 
-**ClickMeeting** is een gebruiksvriendelijke webinar software en behoord tot een van de populairste op deze lijst.
+**ClickMeeting** (Polen) is gebruiksvriendelijke webinar software en behoort tot de populairste op deze lijst.
 
-Met ClickMeeting kun je **eenvoudig online trainingen geven** en sales webinars houden. Het is een simpel te gebruiken platform en geeft je mogelijkheden voor geautomatiseerde webinars.
+Met ClickMeeting kun je **eenvoudig online trainingen geven** en saleswebinars houden. Het is een simpel platform en biedt geautomatiseerde en on-demand webinars, betaalde webinars en sinds kort AI-transcripties.
 
-Alles wordt je zo simpel mogelijk gemaakt en er is goede support, hierdoor kan iedereen zonder ervaring er snel mee aan de slag.
+Alles wordt je zo simpel mogelijk gemaakt en er is goede support, waardoor iedereen zonder ervaring er snel mee aan de slag kan.
 
-## Kenmerken ClickMeeting
+### Kenmerken ClickMeeting
 
 *   Mogelijkheden voor quiz en polls
-    
-*   Chatfunctie tijdens webinar
-    
+*   Chatfunctie tijdens het webinar
 *   Opname mogelijk en simpel te downloaden
-    
-*   Meerdere presentatoren
-    
-*   Tot 25 camera’s (webcams) tegelijk
-    
+*   Meerdere presentatoren, tot 8 camera's tegelijk
+*   Automated en on-demand webinars
+*   AI-transcriptie
+*   Duizenden integraties
 
-## Prijzen
+### Prijzen ClickMeeting (2026)
 
-Een ideale tool voor live webinars en online meetings, dit zijn de opties:
+Ook ClickMeeting toont zijn prijzen pas na het kiezen van je aantal deelnemers; de betaalde pakketten beginnen bij 50 deelnemers. Als indicatie: <!-- TODO: verify this data is still current (cijfers van een vergelijkingssite uit maart 2026) -->
 
-*   **Live Plan:** $25 per maand voor meetings en live webinars.
-*   **Automated Plan:** $40 per maand voor geautomatiseerde webinars.
+*   **Live:** ongeveer $26 per maand bij jaarlijkse betaling.
+*   **Automated:** ongeveer $42 per maand bij jaarlijkse betaling.
 
-Ook kun je ClickMeeting gratis uitproberen. Bij de gratis optie heb je echter maximaal 30 minuten per webinar.
+Je kunt ClickMeeting 14 dagen gratis uitproberen met 25 deelnemers, zonder creditcard.
 
 [Probeer ClickMeeting](/go/clickmeeting)
 
 ## 11. GetResponse
 
-### Uitstekende e-mail marketing software integraties
+### Uitstekende e-mailmarketingintegratie
 
 ![GetResponse webinar software](/images/migrated/getresponse-webinar-software.webp "getresponse-webinar-software")
 
-In de basis is **GetResponse** e-mail marketing software met veel mogelijkheden.
+In de basis is **GetResponse** e-mailmarketingsoftware met veel mogelijkheden. Ze hebben webinars aan die mogelijkheden toegevoegd, waardoor er een naadloze koppeling is met je mailinglijst, **landingspagina's en funnels**.
 
-Nu hebben ze webinar software aan die mogelijkheden toegevoegd. Daardoor is er een geweldige e-mail integratie en kunnen tools als **landingspagina’s en marketing makkelijk worden gekoppeld**.
+Vooral voor de marketeer die toch al mailt, is de webinarfunctie van GetResponse een goede optie.
 
-Vooral voor de marketeer is de webinar software van GetResponse dan ook een goede optie.
+### Kenmerken GetResponse
 
-## Kenmerken GetResponse
-
-*   Zelf de webinar url kiezen
-    
-*   Vooraf gemaakte uinodigingen en reminders
-    
-*   Opname mogelijkheden
-    
+*   Zelf de webinar-URL kiezen
+*   Vooraf gemaakte uitnodigingen en reminders
+*   Opnamemogelijkheden
 *   Chatfunctie
-    
-*   Gekoppelde e-mail marketing
-    
+*   Betaalde webinars
+*   Gekoppelde e-mailmarketing en AI-contentgenerators
 
-## Prijzen
+### Prijzen GetResponse (2026)
 
-De webinar functie van GetResponse is inbegrepen vanaf het Plus Plan. Met het basispakket kun je dus nog geen webinars geven.
+De webinarfunctie zit tegenwoordig alleen in het **Creator**-pakket en in Enterprise. Met de goedkopere pakketten Starter en Marketer kun je dus geen webinars geven.
 
-*   **Plus Plan:** €45 per maand voor 100 kijkers per webinar.
-*   **Pro Plan:** €89 per maand voor 300 kijkers per webinar.
+*   **Creator:** $69 per maand ($56,58 bij jaarlijkse betaling) voor 100 kijkers, 3 presentatoren en 3 uur opslag.
+*   **Enterprise:** op aanvraag, tot 1.000 kijkers.
 
-Voor wie al gebruik maakt van GetResponse voor zijn e-mail marketing is dit de ideale tool om mee door te gaan, zo heb je geen zorgen meer over koppelingen etc.
+Met een gratis account kun je on-demand webinars geven voor maximaal 10 kijkers, en er is een proefperiode van 14 dagen.
+
+<!-- TODO: de link /go/getresponse wijst naar een Nederlandse featurepagina die niet meer bestaat en nu doorstuurt naar de homepage van getresponse.com; partnerlink bijwerken -->
 
 [Probeer GetResponse](/go/getresponse)
 
-## 12. Webinarjam
+## 12. WebinarJam
 
 ### Marketing webinar software ([14 dagen trial voor $1](/go/get-webinarjam))
 
 ![Webinarjam](/images/migrated/webinarjam-webinar-software.webp "webinarjam-webinar-software")
 
-[Webinarjam](/go/get-webinarjam)! Dit si makkelijk te gebruiken software. Je hebt er geen technische kennis of wat dan ook voor nodig. De opzet van een webinar doorloop je gemakkelijk met de stappen die al voor je zijn klaargelegd.
+[WebinarJam](/go/get-webinarjam) is makkelijk te gebruiken software. Je hebt er geen technische kennis voor nodig. De opzet van een webinar doorloop je met de stappen die al voor je zijn klaargelegd.
 
-Daarbij heeft Webinarjam de optie om direct te streamen naar jouw eigen Youtube kanaal, maar dan met een wachtwoord, waardoor je er een besloten meeting van kunt maken.
+Daarbij heeft WebinarJam de optie om direct te streamen naar jouw eigen YouTube-kanaal, maar dan met een wachtwoord, waardoor je er een besloten meeting van kunt maken.
 
-**Andere tools die erg handig zijn in Webinarjam:**
+**Andere tools die erg handig zijn in WebinarJam:**
 
-*   Ze hebben functies voor pop-ups via waar kijkers op product link kunnen klikken (en kopen) tijdens het webinar. (handig voor marketingdoeleinden)
-*   De livechat biedt ook de mogelijkheid om iemand niet alleen mee te laten chatten maar via beeld een vraag te laten stellen.
+*   Pop-ups waarmee kijkers tijdens het webinar op een productlink kunnen klikken (en kopen).
+*   De live chat biedt de mogelijkheid om iemand via beeld een vraag te laten stellen.
 
-Voor het gebruik van Werbinarjam heeft de kijker geen app of plugin nodig. Deze kan gelijk via een unieke link (eventueel beveiligd met wachtwoord) deelnemen.
+Voor het gebruik van WebinarJam heeft de kijker geen app of plug-in nodig. Deze kan direct via een unieke link (eventueel beveiligd met wachtwoord) deelnemen. Ook wordt elk webinar automatisch opgenomen, dus je kunt het altijd als replay sturen naar de kijkers.
 
-Ook is elk webinar automatisch opgenomen. Je kunt deze dus altijd achteraf als replay sturen naar de kijkers.
-
-## Kenmerken Webinarjam
+### Kenmerken WebinarJam
 
 *   Automatische opname
-    
-*   Ijzersterke klantenservice
-    
-*   Ingebouwde e-mail autoresponder
-    
-*   Integraties met social media
-    
-*   Werkt gemakkelijk met meerdere presentatoren
-    
-*   Werkt goed met verschillende browsers en besturingssystemen.
-    
+*   Ingebouwde e-mail- én sms-autoresponder
+*   Integraties met ActiveCampaign, GetResponse, Mailchimp, Kartra en Zapier
+*   Werkt makkelijk met meerdere presentatoren
 *   Optie voor live quiz
-    
 *   Zeer gebruiksvriendelijk
-    
 *   Opstartproces hoeft maar 1 minuut te duren
-    
 
-## Prijzen
+### Prijzen WebinarJam (2026)
 
-**Basic Plan:**  
-$499 per jaar ($41,58 per maand). Hiermee kun je maximaal 500 deelnemers hebben per webinar met drie presentatoren en 24/7 support.
+WebinarJam is sinds kort ook per maand te betalen; vroeger kon dat alleen per jaar.
 
-**Professional Plan:**  
-$699 per jaar ($58,25 per maand). Hiermee kun je maximaal 1000 deelnemers hebben per webinar met 4 presentatoren en 24/7 support.
+*   **Starter:** $49 per maand ($39 bij jaarlijkse betaling) voor 100 kijkers, 1 presentator en webinars tot 1 uur.
+*   **Basic:** $99 per maand ($79 jaarlijks) voor 500 kijkers, 2 presentatoren en 2 uur.
+*   **Professional:** $299 per maand ($229 jaarlijks) voor 2.000 kijkers.
+*   **Enterprise:** $499 per maand ($379 jaarlijks) voor 5.000 kijkers.
 
-**Premium Plan:**  
-$999 per jaar ($83,25 per maand). Hiermee kun je een business draaien die zeer afhankelijk is van webinars. Met maximaal 6 presentatoren en tot 5000 deelnemers per webinar.
+Je kunt het Basic-pakket 14 dagen uitproberen voor $1, met 30 dagen niet-goed-geld-terug. Let op: automated webinars zitten niet in WebinarJam; daarvoor heb je het zusje EverWebinar nodig.
 
-**Gebaseerd op de mogelijkheden met [Webinarjam](/go/get-webinarjam) en de relatief lage prijs van het Basic Plan is dit mijn persoonlijke favoriet op het gebied van webinar software!**
+<!-- TODO: de links /go/get-webinarjam en /go/get-everwebinar (mickyvz.krtra.com) geven een Kartra-foutmelding ('error/referrer'); partnerlinks opnieuw aanmaken in het Genesis Digital/Kartra-partnerprogramma -->
 
-[Probeer Webinarjam](/go/get-webinarjam)
+[Probeer WebinarJam](/go/get-webinarjam)
 
-## 13. Everwebinar
+## 13. EverWebinar
 
 ### Voor evergreen/automatische webinars ([14 dagen trial voor $1](/go/get-everwebinar))
 
 ![Everwebinar](/images/migrated/everwebinar-webinar-software.webp "everwebinar-webinar-software")
 
-[Everwebinar](/go/get-everwebinar) is een onderdeel van Webinarjam maar is ook op zichzelf te gebruiken.
+[EverWebinar](/go/get-everwebinar) is een onderdeel van WebinarJam, maar is ook op zichzelf te gebruiken.
 
-Zelf gebruik ik Everwebinar voor **automated webinars**. Deze zijn vooraf opgenomen maar voelen ‘live’ aan voor de kijker.
+Ik heb EverWebinar zelf een tijd gebruikt voor **automated webinars**. Deze zijn vooraf opgenomen, maar voelen 'live' aan voor de kijker. Ideaal voor een saleswebinar dat je week na week wilt laten draaien. Een echt live webinar is er **niet van te onderscheiden**, inclusief 'just-in-time' sessies die precies beginnen wanneer iemand de pagina opent.
 
-Ideaal voor wanneer je een sales webinar hebt welke je week na week wilt laten draaien. Een echt live webinar is hier eigenlijk **niet van te onderscheiden**.
+### Kenmerken EverWebinar
 
-## Kenmerken Everwebinar
-
-*   Mogelijkheid om een webinar uit Webinarjam één op één over te zetten naar een automated webinar
-    
+*   Een webinar uit WebinarJam één op één overzetten naar een automated webinar
 *   Chatfunctie kun je volledig zelf invullen
-    
 *   Pollfunctie
-    
-*   Mogelijkheid om aanbieding pop-up te tonen
-    
-*   Sales notificaties voor conversie verhoging
-    
-*   Statiek dashboard
-    
+*   Aanbieding-pop-ups
+*   Salesnotificaties voor conversieverhoging
+*   E-mail- en sms-reminders
+*   Statistiekendashboard
 *   Integratie met andere marketingtools via Zapier
-    
 
-## Prijzen
+### Prijzen EverWebinar (2026)
 
-[Je kunt Everwebinar voor $1 uitproberen](/go/get-everwebinar). Je krijgt dan 14 dagen toegang tot alle functies en kunt kijken of het iets voor jou is. De prijs van de pakketten hangt af van de betalingstermijn.
+[Je kunt EverWebinar 14 dagen uitproberen voor $1](/go/get-everwebinar) met toegang tot alle functies. Daarna hangt de prijs af van de betalingstermijn:
 
-![Everwebinar prijzen](/images/migrated/Everwebinar-plans.webp "Everwebinar-plans")
+![Everwebinar prijzen](/images/migrated/Everwebinar-plans.webp "Everwebinar-plans (oude weergave)")
 
-*   **Basic plan:** $41,58 per maand. Toegang tot alle functionaliteiten.
+*   **Maandelijks:** $199 per maand.
+*   **Jaarlijks:** $99 per maand ($1.188 vooraf).
+*   **Tweejaarlijks:** $79 per maand ($1.896 vooraf).
 
-**Met [Everwebinar](/go/get-everwebinar) kun je grote successen boeken op de automatisering van jouw sales webinars.**
+Daarmee is EverWebinar een stuk duurder geworden dan WebinarKit of WebinarGeek Premium voor hetzelfde doel. Kies het alleen als je al in WebinarJam werkt.
 
-[Probeer Everwebinar](/go/get-everwebinar)
+[Probeer EverWebinar](/go/get-everwebinar)
+
+## Nieuw in 2026: vier alternatieven die je moet kennen
+
+Sinds mijn vorige vergelijking zijn er een paar spelers bijgekomen (of volwassen geworden) die ik niet kan negeren. Voor deze vier heb ik geen partnerlink; ik noem ze omdat je ze in een eerlijke vergelijking niet kunt overslaan.
+
+### 14. Contrast
+
+Het tweede Nederlandse webinarplatform, opgericht in Amsterdam en gericht op B2B-marketing. <!-- TODO: verify (oprichtingsplaats Contrast) --> Contrast is gebouwd rond wat je ná het webinar doet: de AI knipt automatisch korte clips, schrijft een blog en een samenvatting, en de HubSpot-koppeling is de best beoordeelde in de HubSpot-marketplace. Gratis tot 30 registraties per webinar (30 minuten); Pro kost $99 per maand (100 tot 500 registraties per maand, 2 uur), 20% korting bij jaarlijks betalen. Prijzen zijn in september 2026 verhoogd voor nieuwe klanten. Voor een marketingteam dat op HubSpot draait, is dit de serieuze concurrent van WebinarGeek.
+
+### 15. Microsoft Teams webinars
+
+Voor veel MKB-bedrijven de olifant in de kamer: als je op Microsoft 365 zit, kun je webinars geven in Teams. Sinds 1 april 2026 zitten de uitgebreide webinar- en town-hall-functies (registratiepagina's, tot 3.000 interactieve deelnemers, 10.000 kijkers) in de gewone Teams Enterprise-licenties; je hebt daar geen Teams Premium meer voor nodig. <!-- TODO: verify this data is still current --> Het nadeel: de deelnemerservaring is minder gepolijst en marketingfuncties (funnels, evergreen, betaalde webinars) ontbreken. Voor interne trainingen of een kennissessie voor bestaande klanten is het gratis en goed genoeg.
+
+### 16. Zoom Webinars
+
+Iedereen kent Zoom, en dat is meteen het grootste voordeel: deelnemers hoeven niets te leren. Zoom Webinars is een losse licentie bovenop een betaald Zoom Workplace-abonnement en begint rond de $79 per maand voor 500 kijkers (jaarlijks betaald). <!-- TODO: verify this data is still current --> Sterk in stabiliteit en grote aantallen, zwak in marketing: registratiepagina's en e-mails zijn functioneel, meer niet. Combineer het met je eigen e-mailmarketingtool.
+
+### 17. StreamYard
+
+Geen klassieke webinartool, maar een studio in je browser waarmee je tegelijk naar LinkedIn, YouTube en Facebook streamt. In 2026 zitten er webinarfuncties in (registratie, privé-events, 4K-opname) vanaf het Advanced-pakket van $88,99 per maand ($68,99 jaarlijks); Core kost $44,99 ($35,99 jaarlijks). <!-- TODO: verify this data is still current --> Kies StreamYard als je bereik via social media belangrijker vindt dan een besloten webinaromgeving.
 
 ## Welke webinar software moet je kiezen?
 
-Als we zo kijken naar de (naar mijn mening) beste webinar software, vraag je je wellicht af welke jij nou moet kiezen. Wél, gelukkig hebben ze allemaal een trialperiode, gratis, of voor $1. Je kunt dus altijd even kijken welke jou het beste bevalt.
+Als we zo kijken naar de (naar mijn mening) beste webinar software, vraag je je wellicht af welke jij nou moet kiezen. Gelukkig hebben ze bijna allemaal een proefperiode, gratis of voor $1. Je kunt dus altijd kijken welke jou het beste bevalt.
 
-**Persoonlijk gaat mijn voorkeur uit naar [WebinarGeek](/go/webinargeek). Je kunt deze webinar software [hier](/go/webinargeek) gratis uitproberen.**
+Mijn korte advies per situatie:
+
+| Situatie | Mijn keuze |
+|---|---|
+| Live webinars en trainingen vanuit Nederland of België | [WebinarGeek](/go/webinargeek) Basic of Premium |
+| Live én automated in één tool | [WebinarGeek Premium](/go/webinargeek-prijzen) |
+| Pure evergreen salesfunnel, onbeperkt aantal kijkers | [WebinarKit](/go/webinarkit) |
+| Een paar grote events per jaar, privacy belangrijk | [Livestorm](/go/get-livestorm) |
+| Kleine groepen, laagste prijs | MyOwnConference of LiveWebinar |
+| B2B-marketing op HubSpot | Contrast of [Demio](/go/get-demio) |
+| Je zit al op Microsoft 365 en wilt niets extra's betalen | Teams webinars |
+
+**Persoonlijk gaat mijn voorkeur uit naar [WebinarGeek](/go/webinargeek). Je kunt deze webinar software [hier](/go/webinargeek-trial) gratis uitproberen.**
 
 ## De voordelen van een webinar
 
-Er zijn vele voordelen van het geven van een webinar ten opzicht van een seminar. Ik zet ze hier voor je op een rijtje.
+Er zijn veel voordelen van het geven van een webinar ten opzichte van een seminar. Ik zet ze hier voor je op een rijtje.
 
-## 1. Webinars zijn kostenefficiënt
+### 1. Webinars zijn kostenefficiënt
 
-Waar je bij een seminar waarschijnlijk een zaal zou moeten afhuren inclusief catering, kun je het bij een webinar wat simpeler houden. Met goede software, wat (betaalbare) geluidsapparatuur en de webcam van jouw laptop kom je al een heel eind.
+Waar je bij een seminar een zaal zou moeten afhuren inclusief catering, kun je het bij een webinar simpeler houden. Met goede software, wat (betaalbare) geluidsapparatuur en de webcam van je laptop kom je al een heel eind.
 
 **Over het algemeen heb je voor het geven van een webinar het volgende nodig:**
 
 *   Een webcam
-*   Een (externe) opname microfoon ([deze Rode mic is prima](/go/mic-van-bol))
+*   Een (externe) microfoon ([deze microfoon van bol is prima](/go/mic-van-bol))
 *   Een script
 *   Een presentatie
 *   Kijkers
 *   Goede webinar software
 
-De kosten voor het geven van een webinar zitten hem dus vooral in de webinar software zelf. En daarmee ben je er dan vaak al.
+De kosten voor het geven van een webinar zitten dus vooral in de software zelf. Dat is in geen zin te vergelijken met de kosten van een offline seminar.
 
-Dat is in geen zinnen te vergelijken met de kosten die een offline seminar met zich meebrengen.
+### 2. Het vergroten van je bereik
 
-## 2. Het vergroten van je bereik
+Waar in een zaal maar een beperkt aantal mensen past, is dit online vele malen meer. Natuurlijk hebben veel aanbieders een maximum op het aantal deelnemers (vaak tussen de 100 en 1.000), maar een webinar kun je vaak kosteloos herhalen.
 
-Waar in een zaal maar een beperkt aantal mensen past, is dit online vele malen meer. Natuurlijk hebben veel webinar software aanbieders een max op het aantal deelnemers (vaak tussen de 100 en 1000), maar een webinar kun je vaak kosteloos herhalen.
+Zeker wanneer je een geautomatiseerd webinar laat draaien met bijvoorbeeld [WebinarKit](/go/webinarkit) kun je oneindig veel mensen bereiken. Er zijn voorbeelden van mensen die **per dag zo'n 200 kijkers hebben** (op de Nederlandse markt) op hun automated webinar. Dat webinar hebben ze één keer gegeven.
 
-Zeker wanneer je een geautomatiseerd webinar laat draaien met bijvoorbeeld [WebinarKit Automated](/go/webinarkit) kun je oneindig veel mensen bereiken. Er zijn voorbeelden van mensen die **per dag zo’n 200 kijkers hebben** (op de Nederlandse markt) op hun automated webinar. Deze hebben ze slechts één keer hoeven geven en wordt daarna herhaald.
+### 3. Perfect voor leadopvolging
 
-## 3. Perfect voor lead opvolging
+Wanneer je een webinar inzet als onderdeel van je salesfunnel, kan dit een groot verschil maken. Het gebeurt niet vaak dat je meer dan een uur de volledige aandacht krijgt van een potentiële klant.
 
-Wanneer je een webinar inzet als onderdeel van de [sales funnel](https://bedrijvenconsultant.nl/sales-funnel/) kan dit een groot verschil maken. Het gebeurt niet vaak dat je meer dan een uur de volledige aandacht krijgt van je potentiële klant.
+En precies die aandacht zorgt ervoor dat je veel makkelijker verkoopt aan een bestaande doelgroep. Denk er eens aan om een webinar te organiseren voor mensen die al zijn ingeschreven op jouw [mailinglijst](/blog/ondernemen/leads-genereren-mailinglijst/), maar nog geen klant zijn.
 
-En precies die aandacht kan ervoor zorgen dat je veel makkelijker verkoopt aan een al bestaande doelgroep. Denk er bijvoorbeeld eens aan om een webinar te organiseren voor mensen die al zijn ingeschreven op jouw [mailinglijst](/blog/ondernemen/leads-genereren-mailinglijst/), maar nog geen klant zijn.
+### 4. Ideaal voor leadgeneratie
 
-## 4. Ideaal voor lead generatie
+Een gratis online training of webinar organiseren kan nieuwe mensen aantrekken richting jouw bedrijf. Promoot zo'n webinar op LinkedIn of via advertenties en verzamel de e-mailadressen van deze mensen.
 
-Een gratis online training of webinar organiseren kan nieuwe mensen aantrekken richting jouw bedrijf. Promoot zo’n webinar bijvoorbeeld op Facebook en krijg nieuwe e-mail adressen van deze mensen.
-
-Een webinar is de ideale kennismaking met een nieuwe doelgroep. Of eigenlijk kunnen we het ook een shortcut noemen om met die nieuwe doelgroep binnen no-time te binden.
+Een webinar is de ideale kennismaking met een nieuwe doelgroep. Zo doe ik het zelf ook: een korte online sessie over wat AI voor een bedrijf kan betekenen, en de bedrijven die meer willen, boeken daarna een [workshop op locatie](/ai-workshops/ai-introductie/).
 
 ## Tips voor het organiseren van een webinar
 
-Tot slot wil ik graag nog enkele tips delen rondom het organiseren van een webinar. Hier zijn een aantal tips die je wellicht **handig vind om te weten**!
+Tot slot wil ik graag nog enkele tips delen rondom het organiseren van een webinar. Hier zijn een aantal tips die je wellicht **handig vindt om te weten**!
 
-## 1. De duur van jouw webinar
+### 1. De duur van jouw webinar
 
-Een webinar **hoeft zeker niet kort te zijn**. Als online seminar is het juist dé tool om langer in contact te zijn met jouw doelgroep.
+Een webinar **hoeft zeker niet kort te zijn**. Als online seminar is het juist dé tool om langer in contact te zijn met jouw doelgroep. Echter kunnen we stellen dat te lang ook niet goed is.
 
-Echter kunnen we stellen dat te lang ook niet goed is.
+Als we kijken naar wat mensen als een fijne duur ervaren, dan komen we uit op **pakweg 45 minuten**.
 
-Als we kijken naar wat mensen als een fijne duur ervaren dan komen we uit op **pakweg 45 minuten**.
+> Zo'n **80% van de mensen** zoekt naar webinars die korter zijn dan 45 minuten.
 
-> Zo’n **80% van de mensen** zoekt naar webinars die korter zijn dan 45 minuten.
+Belangrijk is om binnen die tijd jouw waardevolle informatie te delen en de introductie kort te houden. Wanneer iemand eerst een half uur over zichzelf praat, haken de meeste deelnemers af.
 
-Belangrijk is om binnen die tijd jouw waardevolle informatie te delen en de introductie kort te houden.
+Mijn sterkste advies hierbij is om **een aantal waardevolle dingen te delen**, maar vooral niet te veel. Zorg ervoor dat deelnemers aan de slag kunnen met jouw informatie, maar 'overload' hen niet.
 
-Wanneer in de introductie iemand eerst een half uur over zichzelf zit te praten haken de meeste deelnemers af.
+### 2. Gebruik jouw webinarstatistieken
 
-Mijn sterkste advies hierbij is om **een aantal waardevolle dingen te delen**, maar vooral niet teveel. Zorg ervoor dat deelnemers in staat zijn om aan de slag te gaan met jouw informatie, maar ‘**overload**‘ hen niet.
+Na het geven van een webinar heb je bij vrijwel alle software de beschikking over **statistieken**. Gebruik deze.
 
-## 2. Gebruik jouw webinar statistiek
+**Kijk hoeveel mensen jouw webinar volledig hebben gevolgd en waar mensen zijn afgehaakt.**
 
-Na het geven van een webinar heb je bij vrijwel alle webinar software de beschikking over **statistieken**. Gebruik deze.
+Zie je dat veel mensen zijn afgehaakt voordat je bent begonnen met jouw salespitch (in het geval van een saleswebinar), kijk dan eens of de informatie die je geeft wel waardevol genoeg is, of kort het webinar in.
 
-**Kijk hoeveel mensen jouw webinar volledig hebben gevolgd en waar mensen eventueel zijn afgehaakt**.
-
-Zie je dat veel mensen zijn afgehaakt voordat je bent begonnen met jouw sales pitch (in het geval van een sales webinar), kijk dan eens of de informatie die je geeft wel genoeg waardevol is of kort het webinar in.
-
-Andere belangrijke en bruikbare statistiek zijn de **sign up rate** en **show up rate**.
+Andere belangrijke en bruikbare statistieken zijn de **sign-up rate** en **show-up rate**.
 
 ![Webinar statistiek en analytics](/images/migrated/webinar-statistiek-analytics.webp "webinar-statistiek-analytics")
 
-De sign up rate van jouw webinar zou ongeveer op de **35%** moeten liggen. Bij het voorbeeld hierboven is dat een stuk hoger vanwege een misleidende berekening.
+De sign-up rate van jouw webinar zou ongeveer op de **35%** moeten liggen. Bij het voorbeeld hierboven is dat een stuk hoger vanwege een misleidende berekening.
 
-**De show up rate van een gemiddeld webinar is ook zo rond de 35%.**
+**De show-up rate van een gemiddeld webinar ligt ook zo rond de 35%.**
 
-Is jouw show up rate lager? Kijk dan eens of je in de e-mail funnel wat **urgentie** toe kunt voegen of een **extra herinnering** met waarom mensen het webinar moeten volgen.
+Is jouw show-up rate lager? Kijk dan eens of je in de e-mailfunnel wat **urgentie** toe kunt voegen, of een **extra herinnering** met waarom mensen het webinar moeten volgen.
 
-## 3. Houd de aandacht van deelnemers vast
+### 3. Houd de aandacht van deelnemers vast
 
 Stel dat je een webinar organiseert en dat je alles op alles zet om mensen te laten deelnemen. Dat op zich is al een **flink proces**.
 
-Dan wil je natuurlijk wel dat die deelnemers jouw gehele webinar volgen en niet halverwege afhaken. Toch gaat het hier vaak mis. Het is namelijk nogal wat om zoveel aandacht te vragen van mensen en dan moet je daar zorgvuldig mee omgaan.
+Dan wil je natuurlijk wel dat die deelnemers jouw gehele webinar volgen en niet halverwege afhaken. Toch gaat het hier vaak mis. Het is nogal wat om zoveel aandacht te vragen van mensen, dus ga daar zorgvuldig mee om.
 
-**Gebruik deze tips om die aandacht vast houden:**
+**Gebruik deze tips om die aandacht vast te houden:**
 
 *   Zorg voor echt waardevolle content waar mensen wat mee kunnen.
-*   Reken op gemiddeld één slide per minuut voor jouw presentatie (als je die hebt). Zo blijft je webinar vlot en is er ook visueel wat te beleven.
+*   Reken op gemiddeld één slide per minuut voor jouw presentatie. Zo blijft je webinar vlot en is er visueel wat te beleven.
 *   Zorg dat je zelf óók in beeld bent en dus niet alleen jouw presentatie. Bewegende beelden houden de aandacht beter vast.
-*   Begin je webinar door alvast iets te vertellen over het einde zodat deelnemers daarnaar uit kunnen kijken.
-*   Houd de persoonlijke introductie kort. Mensen doen mee aan een webinar om informatie te krijgen en pas in de tweede plaats om jou te leren kennen.
-*   Weet wie jouw deelnemers zijn en gebruik hun spreektaal, maak er niet een te formeel gedoe van. Webinars zijn een uitstekende manier voor meer persoonlijke communicatie.
-*   Zorg dat de branding van jouw presentatie overeenkomt met die van het bedrijf, maak bijvoorbeeld gebruik van dezelfde kleuren als de huisstijl.
-*   Geef je webinar eerst voor een kleine groep mensen, evalueer de statistieke en pas dan dingen aan.
-*   Maak een globaal script, maar ga zeker niet voorlezen anders verliezen mensen direct de aandacht.
+*   Begin je webinar door alvast iets te vertellen over het einde, zodat deelnemers daarnaar uit kunnen kijken.
+*   Houd de persoonlijke introductie kort. Mensen doen mee voor informatie en pas in de tweede plaats om jou te leren kennen.
+*   Weet wie jouw deelnemers zijn en gebruik hun spreektaal; maak er niet een te formeel gedoe van.
+*   Zorg dat de branding van jouw presentatie overeenkomt met die van het bedrijf.
+*   Geef je webinar eerst voor een kleine groep, evalueer de statistieken en pas dan dingen aan.
+*   Maak een globaal script, maar ga zeker niet voorlezen, anders verliezen mensen direct de aandacht.
 *   Bedenk van tevoren momenten voor interactie. De meeste webinar software heeft daar tools voor zoals een live chat, poll en quiz.
+*   Laat AI de samenvatting en de follow-upmail schrijven, maar lees ze na. Een verkeerde naam of een verzonnen belofte in de nazorg kost je meer dan het webinar opleverde.
 
 Wees je ervan bewust dat mensen **naar het webinar komen voor informatie en niet voor een salespitch**. Met dat in het achterhoofd kun je jouw webinar op een waardevolle manier vullen. Dat moet lukken!
 
-–
-
-**Al met al zou ik het geven van webinars aan iedere online ondernemer aanraden. Kies goede webinar software en ga aan de slag. Mijn favorieten vind je hieronder:**
+**Al met al zou ik het geven van webinars aan iedere ondernemer aanraden. Kies goede webinar software en ga aan de slag. Mijn favorieten vind je hieronder:**
 
 Voor live webinars:  
 **[Probeer WebinarGeek](/go/webinargeek)**
@@ -773,6 +695,4 @@ Voor live webinars:
 Voor geautomatiseerde webinars:  
 [**Probeer WebinarKit Automated**](/go/webinarkit)
 
-
-<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
-
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>

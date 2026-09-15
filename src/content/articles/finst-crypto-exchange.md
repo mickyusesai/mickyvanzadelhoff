@@ -1,8 +1,8 @@
 ---
-title: "Finst review [2025] – Hoe betrouwbaar is deze crypto exchange?"
-description: "Voor iedereen die geïnteresseerd is in het handelen van cryptovaluta, is een betrouwbare exchange cruciaal. In deze review richten we ons op Finst, een…"
+title: "Finst review [2026] – Hoe betrouwbaar is deze crypto exchange?"
+description: "Finst review 2026: 0,15% vaste kosten, 400+ munten, MiCA-vergunning van de AFM, staking en auto invest. Is Finst betrouwbaar en voor wie is het geschikt?"
 date: 2024-02-20
-updated: 2025-01-20
+updated: 2026-09-15
 category: "review"
 slug: "finst-crypto-exchange"
 lang: "nl"
@@ -12,595 +12,354 @@ featuredImage: "/images/headers/finst-crypto-exchange.webp"
 
 **Is [Finst](/go/finst) de crypto exchange voor jou?**
 
-Voor iedereen die geïnteresseerd is in het handelen van cryptovaluta, is een betrouwbare exchange cruciaal. In deze review richten we ons op Finst, een prominente speler op de Nederlandse markt.
+Wie crypto wil kopen heeft een exchange nodig, en in Nederland komt je dan al snel bij twee namen uit: Bitvavo en Finst. In deze review duik ik in Finst, de jongste van de twee en inmiddels mijn eigen vaste exchange. In september 2026 heb ik alle cijfers opnieuw gecheckt: handelskosten, aanbod, staking, vergunning en wat er het afgelopen jaar is veranderd.
 
-Cryptovaluta worden steeds populairder, en in 2025 bezit al **7,5% van de wereldbevolking** crypto. Dit laat veel ruimte voor groei, aangezien 92,5% nog geen crypto in bezit heeft.
-
-Bij Finst kun je terecht voor het kopen, bewaren (zeer veilig met de Proof of Reserve), staken en verkopen van cryptovaluta. Dit platform is toegankelijk voor zowel beginners als ervaren handelaren, met een uitgebreide selectie aan munten.
-
-Naast bekende namen zoals Bitcoin, Ethereum, Cardano, Ripple, Dogecoin en Shiba, biedt Finst toegang tot **meer dan 240 altcoins**.
+Kort samengevat: Finst rekent **0,15% handelskosten zonder spread**, biedt **meer dan 400 munten**, heeft sinds juli 2025 een **MiCA-vergunning van de AFM** en werd in 2026 uitgeroepen tot beste cryptoplatform bij de IEX Gouden Stier. Ruim 110.000 mensen gebruiken het. Wat je in dit artikel leest: hoe je er in vijf minuten je eerste crypto koopt, hoe veilig je geld er staat, wat staking en auto invest opleveren en waar Finst nog tekortschiet.
 
 ![bitcoin-logo-to-the-moon-rocket-finst-crypto-exchange](/images/migrated/bitcoin-logo-to-the-moon-rocket-finst-crypto-exchange.webp "bitcoin-logo-to-the-moon-rocket-finst-crypto-exchange")
 
-Deze review helpt je om Finst te begrijpen als [crypto exchange](/blog/web3/beste-crypto-exchange/) en wallet. Het verkent de mogelijkheden om [met crypto geld te verdienen](/blog/web3/handelen-in-crypto-valuta/), inclusief inzichten in mijn eigen crypto portfolio en de uitdagingen binnen de cryptomarkt.
+**[Nog geen account? Via deze link meld je je gratis aan bij Finst. Nieuwe klanten krijgen een welkomstactie, die wisselt per maand.](/go/finst)**
 
-In 2024 heeft de cryptomarkt significante (hele positieve) veranderingen doorgemaakt, wat ook impact heeft op Finst. De details hierover vind je terug in het volledige artikel.
+<!-- TODO: verify welke welkomstactie de /go/finst-link op dit moment draagt (sept 2026: €20 in BTC met code FINST20 bij €1.000 handelsvolume, of de eerste €10.000 twee weken gratis handelen via de partnerpagina). Pas de zin hierboven aan als de actie verandert. -->
 
-**[Als je nog geen account](/go/finst) [hebt](/go/finst) [bij Finst, dan kun je je via deze link gratis aanmelden bij de allergoedkoopste crypto exchange van Nederland!](/go/finst)**
+## 1. Wat is Finst en hoe koop je je eerste crypto?
 
-## 1. Wat is Finst + Eerste crypto kopen
-**
-
-Het kopen van je eerste crypto is vaak een spannend moment, vooral vanwege de vele opties en de complexiteit van exchanges en wallets. Voor een betrouwbare start is een platform als [**Finst**](/go/finst) een uitstekende keuze.
-
-Als **Nederlandse exchange** (gevestigd aan de Herengracht in Amsterdam), valt Finst onder de Nederlandse wetgeving, wat extra vertrouwen biedt. Daarbij zijn ze de allergoedkoopste op de Nederlandse markt qua handelskosten en is een account aanmaken volledig gratis.
+Je eerste crypto kopen is voor iedereen spannend. Er zijn tientallen exchanges en wallets, en ze doen allemaal alsof ze de beste zijn. Voor een betrouwbare start is [**Finst**](/go/finst) wat mij betreft de makkelijkste keuze: een **Nederlandse exchange** aan de Herengracht in Amsterdam, met een vergunning van de AFM, de laagste handelskosten van Nederland en een account dat je gratis aanmaakt.
 
 [![finst-crypto-exchange-logo](/images/migrated/finst-crypto-exchange-logo.webp)](/go/finst)
 
-Om Bitcoin of andere crypto te kopen hoef je gelukkig geen genie te zijn. Volg gewoon de stappen en **je kunt al vanaf €1,- aan de slag via iDEAL of Bancontact**. Gewoon even om het te proberen dus!
+Om Bitcoin of een andere munt te kopen hoef je geen genie te zijn. Je kunt **al vanaf €1 aan de slag via iDEAL of Bancontact**, gewoon om het te proberen.
 
-### Crypto kopen – beknopt stappenplan
+### Crypto kopen in vier stappen
 
-*   **[Klik](/go/finst) [hier](/go/finst)** om gratis een Finst account aan te maken.
-    
-*   Vul je gegevens in en volg de stappen ter verificatie van Finst.
-    
-*   Stort euro’s op je account door op ‘storten’ te klikken en betaal met iDEAL of Bancontact.
-    
-*   Klik op de cryptomunt die jij wilt kopen en je ziet jouw eerste crypto verschijnen **bovenaan je Finst wallet**.
-    
-
-Best simpel toch!?
+*   **[Maak hier gratis een Finst-account aan](/go/finst)** en download de app.
+*   Vul je gegevens in en doorloop de verificatie (een foto van je ID en een selfie, klaar binnen een paar minuten).
+*   Stort euro's via iDEAL, Bancontact of een directe bankoverschrijving. Storten is gratis en het geld staat er meteen.
+*   Klik op de munt die je wilt kopen. Je ziet je eerste crypto direct bovenaan je Finst-portfolio.
 
 ![finst-website-nederlands](/images/migrated/finst-website-nederlands-1.webp "finst-website-nederlands")
 
-**[Finst](/go/finst)** is opgericht door Julien Vallet en Marcel Putina. Deze oprichters hebben samen meer dan tien jaar ervaring in het Europese investeringslandschap, eerst door de aandelenhandel in Europa te democratiseren en nu met **de focus op crypto**. Beide oprichters hebben elkaar ontmoet bij DEGIRO als vroege medewerkers, waar ze hebben bijgedragen aan het succes van dat platform.
+**[Finst](/go/finst)** werd opgericht door Julien Vallet, Marcel Putina en Maria Gallo. Vallet en Putina leerden elkaar kennen als vroege medewerkers van DEGIRO, de broker die beleggen in aandelen in Europa goedkoop maakte. Dat idee namen ze mee naar crypto. Het bedrijf werd in 2022 opgericht en het platform ging in 2023 live. Sindsdien ging het hard: eind 2024 nam Finst de klanten van Anycoin Direct over, begin 2026 haalde het 8 miljoen euro groeigeld op en in juni 2026 sloot het een partnerschap met BOTS Capital, waardoor tot 100.000 extra klanten naar Finst kunnen overstappen.
 
-De crypto exchange is sinds 2023 actief en daarmee best nieuw. Wat aan Finst echt opvalt is het gemak waarmee iedereen cryptomunten kan kopen, verkopen en bewaren. Simpeler kan het eigenlijk niet.
-
-*   Je logt in op jouw **Finst** account
-    
-*   Je koopt cryptomunten **met euro’s** die je stort op jouw account
-    
-
-Je betaalt voor die handelingen alleen **de laagste transactie fees** in de crypto markt.
-
-**Vergelijking met andere platforms** laat zien dat het proces bij kleinere exchanges vaak ingewikkelder is; je kunt daar niet direct met euro’s via iDEAL storten, maar moet eerst crypto zoals Bitcoin overmaken om te kunnen handelen. Dit proces vind ik persoonlijk verwarrend omdat het constant vereist dat je je cryptomunten omrekent naar Bitcoin en dan weer naar euro’s.
-
-Bovendien brengt het verplaatsen van Bitcoin vaak hoge transactiekosten met zich mee – ik heb zelfs een keer 12 euro betaald voor een enkele transactie. Dit soort kosten snijden direct in de winst die je hoopt te maken met het [handelen in crypto](/blog/web3/handelen-in-crypto-valuta/). Bij Finst zijn deze processen gestroomlijnd om het handelen zo **eenvoudig, veilig en kostenefficiënt mogelijk** te maken.
+Wat aan Finst opvalt is het gemak. Je logt in, stort euro's en koopt. Geen omrekenen naar Bitcoin, geen creditcard in dollars, geen verborgen spread. Bij veel buitenlandse exchanges moet je eerst ergens anders crypto kopen en die overmaken voordat je kunt handelen. Daar gaat van alles mis, en de netwerkkosten (ik heb ooit 12 euro betaald voor één transactie) eten je winst op voordat je begonnen bent met [handelen in crypto](/blog/web3/handelen-in-crypto-valuta/).
 
 [Finst account aanmaken](/go/finst)
 
 ## Is Finst betrouwbaar?
 
-**Jazeker!**
+**Ja.** Maar dat moet je niet zomaar van mij aannemen. Als je duizenden euro's bij een exchange stalt, wil je weten waar je geld staat en wie erop toeziet.
 
-Al moet je dat natuurlijk niet zomaar van mij aannemen ;) Je begrijpt dat als je duizenden euro’s bij een exchange onder gaat brengen, het enorm belangrijk is dat je de exchange met dat geld kunt vertrouwen.
+In het verleden zijn er genoeg exchanges geweest die er met het geld van klanten vandoor gingen, en eind 2022 viel FTX om, een van de grootste ter wereld. Dat had alles te maken met mismanagement van klanttegoeden. Dan helpt het als een exchange **niet op de Bahama's staat geregistreerd** (zoals FTX), maar in Nederland, met een echte vergunning. Dit is de stand in september 2026:
 
-In het verleden zijn er veel kleine exchanges geweest die er met het geld van klanten vandoor zijn gegaan. Ook is eind 2022 één van de grootste crypto exchanges omgevallen: FTX. Dit laatste had te maken met mismanagement van de tegoeden van klanten. **Wees dus zeker niet te naïef**.
-
-Vertrouwen is goed, maar controle is vele malen beter. Dan helpt het als een exchange **niet op de Bahama’s staat geregistreerd** (zoals FTX), maar gewoon in Nederland. Je weet dan in ieder geval dat ze aan bepaalde wet- en regelgeving moeten voldoen. Belangrijk om daarbij te weten is dat:
-
-*   **Registratie bij De Nederlandsche Bank (DNB)**: Finst B.V. staat geregistreerd als aanbieder van cryptodiensten onder nummer R189158. Hoewel het platform niet onder prudentieel toezicht van de DNB of de Autoriteit Financiële Markten (AFM) staat, zorgt de registratie ervoor dat het voldoet aan Nederlandse regelgeving.
-    
-*   **Proof of Reserves (PoR)**: Finst is de enige Nederlandse crypto exchange die onafhankelijke audits uitvoert via AuditNow. Dit PoR-proces bevestigt dat klanttegoeden één-op-één veilig zijn ondergebracht, volledig gescheiden van bedrijfsactiva. Dit klinkt vanzelfsprekend, maar Finst is de enige crypto exchange in de Nederlandse markt die dit level van transparantie heeft.
-    
-*   **Bunq als financiële partner**: Finst werkt samen met Bunq, een van de meest gerenommeerde banken in Nederland. Dit betekent dat je fiatgeld veilig wordt bewaard onder toezicht van een gereguleerde financiële instelling.
-    
-*   **Kamer van Koophandel-registratie**: Het platform staat geregistreerd onder KVK-nummer 85668117, wat hun juridische aanwezigheid in Nederland benadrukt.
-    
-
-Het maakt de Finst exchange juridisch betrouwbaar en veilig om te gebruiken.
+*   **MiCA-vergunning van de AFM.** Sinds 24 juli 2025 heeft Finst een vergunning als aanbieder van cryptodiensten onder de Europese MiCA-verordening (vergunningnummer 41000015). Dat is een flinke stap ten opzichte van de oude DNB-registratie, die op 30 juni 2025 is vervallen: MiCA stelt eisen aan kapitaal, klantbescherming en transparantie, en de AFM houdt er toezicht op. Met die vergunning mag Finst in de hele EU actief zijn.
+*   **Je euro's staan apart.** Fiatgeld wordt één op één bewaard bij bunq en ING, via de Stichting Finst Custody, gescheiden van het vermogen van Finst zelf. Gaat Finst failliet, dan is jouw geld geen onderdeel van de boedel.
+*   **Proof of Reserves.** Finst was in 2023 het eerste Nederlandse cryptoplatform dat een onafhankelijke audit liet doen die bevestigt dat alle klanttegoeden één op één aanwezig zijn. Het rapport op hun site is nog dat uit augustus 2023. <!-- TODO: verify of er een recentere Proof of Reserves-audit is gepubliceerd -->
+*   **KVK-nummer 85668117**, gevestigd aan de Herengracht 454 in Amsterdam.
 
 ![kvk-nummer-finst](/images/migrated/kvk-nummer-finst-1.webp "kvk-nummer-finst")
 
-## Veiligheid en beveiliging Finst exchange
+Twee kanttekeningen die je moet kennen. Staking valt volgens Finst zelf **niet onder MiCA**, dus daar geldt het toezicht niet voor. En een vergunning beschermt je niet tegen koersdalingen: crypto blijft crypto.
 
-Net zoals je verwacht dat een bank **goed beveiligd is**, mag je dit ook verwachten van een plek waar het ‘nieuwe geld’ samenkomt.
+## Veiligheid en beveiliging bij Finst
 
-Om een voorbeeld te geven van wat er kan gebeuren als dat niet het geval is. Er was een keer **een hack bij Ronin Network van 625 miljoen dollar**. Dat geld is dan weg en komt niet meer terug bij de rechtmatige eigenaar.
+Van een bank verwacht je dat hij goed beveiligd is. Dat mag je ook verwachten van een plek waar het 'nieuwe geld' samenkomt.
 
-Zelf ben ik ook een keer gehackt. Toen is iemand in mijn **persoonlijke crypto wallet** gekomen en heeft daar al mijn NFTs verkocht en de opbrengst direct overgemaakt naar een andere wallet. Hoe zou ik niet weten, maar goed is het dan wel om te weten dat **[een crypto exchange als Finst](/go/finst) er alles aan doet om jouw geld en crypto veilig te houden**.
+Om een idee te geven van wat er misgaat als dat niet zo is: bij de hack van het Ronin Network in 2022 verdween 625 miljoen dollar. Zelf ben ik ook een keer gehackt. Iemand kwam in mijn **persoonlijke crypto wallet**, verkocht al mijn NFT's en maakte de opbrengst over naar een andere wallet. Hoe, weet ik nog steeds niet. Sindsdien vind ik het prettig dat [een exchange als Finst](/go/finst) dit werk voor me doet.
 
 ![hacker-crypto-exchange](/images/migrated/hacker-crypto-exchange-1.webp "hacker-crypto-exchange")
 
-Zo’n grote hack als eerder genoemd komt overigens niet super vaak voor, maar het gaat wel al snel over **absurde bedragen**. Kijk maar eens naar deze **10 grootste hacks uit de crypto geschiedenis**.
+Dit doet Finst om jouw crypto en account te beschermen:
 
-*   **1\. Mt. Gox (2014)** – Ongeveer 850.000 bitcoins gestolen, geschatte waarde van €439,89 miljoen.
-    
-*   **2\. Coincheck (2018)** – Verlies van ongeveer €494,76 miljoen aan NEM-tokens.
-    
-*   **3\. Poly Network (2021)** – Meer dan €558 miljoen gestolen in verschillende cryptocurrencies, waarvan een groot deel later werd teruggegeven.
-    
-*   **4\. Bitfinex (2016)** – 120.000 bitcoins gestolen, geschatte waarde van €66,96 miljoen.
-    
-*   **5\. KuCoin (2020)** – Hackers stalen meer dan €261,33 miljoen aan diverse cryptocurrencies.
-    
-*   **6\. The DAO (2016)** – Ongeveer €46,5 miljoen aan Ethereum gestolen door een kwetsbaarheid in de code.
-    
-*   **7\. Binance (2019)** – Meer dan €37,2 miljoen aan bitcoins gestolen.
-    
-*   **8\. Wormhole (2022)** – Verlies van ongeveer €302,25 miljoen aan cryptocurrencies.
-    
-*   **9\. Ronin Network (2022)** – Een hack resulteerde in een verlies van ongeveer €581,25 miljoen, voornamelijk gebruikt in het Axie Infinity spel.
-    
-*   **10\. BitGrail (2018)** – Ongeveer €158,1 miljoen aan Nano (voorheen RaiBlocks) gestolen.
-    
-
-Dat gezegd hebbende vind je het waarschijnlijk fijn om te horen dat het qua beveiliging goed zit bij Finst. Tegenwoordig kun je ook niet anders als crypto exchange.
-
-Om je een idee te geven van wat Finst doet **om het platform te beschermen tegen hackers** en om jouw accountgegevens en communicatie veilig te houden:
-
-*   **Twee-factor authenticatie (2FA):** Dit houd in dat je om in te loggen bij Finst, je behalve je wachtwoord ook een code gebruikt die gegenereerd wordt door de app Google Authenticator. Deze code ververst iedere minuut en zorgt zo voor een extra laag beveiliging. Deze app is gratis te downloaden en zal je ook nodig hebben als je je aanmeld op andere crypto exchanges.
-    
-*   **Crypto currencies kluis:** Je digitale assets worden bewaard met Fireblocks, die gebruik maken van Multi-Party Computation (MPC)-technologie met hardware-isolatie om jouw assets te beschermen tegen externe aanvallen, interne collusie en menselijke fouten.
-    
-*   **Proof of Reserves (PoR):** Finst is het eerste en enige Nederlandse crypto platform dat succesvol een Proof of Reserves (PoR) heeft verkregen van een onafhankelijk en gerenommeerd auditbedrijf (Audit Now). Ook staat je geld apart van Finst vermogen en is het veilig 1-op-1 ondergebracht bij Bunq, een gereguleerde en een van de meest gerenommeerde Nederlandse banken.
-    
-*   **Medewerkers screening:** Alle werknemers van Finst ondergaan strenge antecedentenonderzoeken en zijn onderworpen aan voortdurende screening tijdens hun dienstverband.
-    
-*   **SSL verbinding:** Uiteraard worden gegevens bij Finst allemaal versleuteld verzonden via een SSL verbinding. Dit is het slotje dat je ziet in de balk en is verplicht in Europa wanneer een bedrijf persoonsgegevens verwerkt. De informatie die over een SSL (https://) verbinding wordt verzonden is gecodeerd en alleen leesbaar voor de zender (jij) en ontvanger. Een derde partij kan die versleuteling niet ‘decoderen’.
-    
-*   **Whitelist crypto wallet:** Voeg eenvoudig een extern wallet adres toe aan jouw whitelist. Hierdoor kun je crypto alleen daarnaartoe overmaken vanuit Finst. Dit voorkomt dat je per ongeluk een verkeerd adres invult of dat iemand de crypto naar een voor jou onbekende wallet kan overmaken. Dit is vooral handig als je van plan bent om vaker geld over te maken naar jouw eigen wallet. Je hoeft dan niet steeds zenuwachtig te checken of je het juiste adres hebt ingevoerd.
-    
-*   **Vertrouwde apparaten:** Je moet eerst bevestigen dat je een bepaalde telefoon of laptop toe wilt voegen aan je vertrouwde apparaten alvorens je daarmee acties kan nemen in jouw Finst account.
-    
-*   **Push notificaties:** Bij iedere transactie, opname of storting krijg je een notificatie of e-mail, zodat je altijd op de hoogte bent van wat er binnen jouw account gebeurt.
-    
+*   **Kluis met Fireblocks.** Je digitale assets worden bewaard met Fireblocks, dat werkt met Multi-Party Computation (MPC) en hardware-isolatie. Simpel gezegd: er is nooit één sleutel die alles opent.
+*   **Tweestapsverificatie staat standaard aan.** Inloggen gaat via een gekoppeld apparaat, e-mail plus sms of een QR-code in de app. Je hoeft geen aparte authenticator-app te installeren, maar het mag wel.
+*   **Vertrouwde apparaten.** Een nieuwe telefoon of laptop moet je eerst bevestigen voordat je er iets mee kunt doen in je account.
+*   **Whitelist voor wallets.** Je kunt vastleggen naar welke externe adressen je crypto mag sturen, zodat een typefout of een hacker je munten niet zomaar ergens anders naartoe krijgt.
+*   **Walletverificatie.** Sinds de Europese Travel Rule moet je een externe wallet eenmalig verifiëren voordat je ernaartoe kunt opnemen. Iets meer gedoe, wel veiliger.
+*   **Meldingen.** Van elke transactie, storting en opname krijg je een notificatie of e-mail.
+*   **Screening van medewerkers**, bij indiensttreding en daarna.
 
 ![crypto-wallet-extern](/images/migrated/crypto-wallet-extern-1.webp "crypto-wallet-extern")
 
-Omdat **Finst** een Nederlands bedrijf is, zal het Nederlandse recht op alle omstandigheden van toepassing zijn.
+_**Disclaimer:** hoe veilig een exchange ook is, elke exchange is een doelwit. Zie het als een bank: ook die wordt weleens beroofd. Bedenk bij grote bedragen of je ze op de exchange laat staan of op een eigen hardware wallet zet. Persoonlijk verkies ik inmiddels een exchange met vergunning boven mijn eigen slordigheid, maar dat is een keuze die je zelf moet maken._
 
-_**Disclaimer:** Hoewel Finst veilig en transparant is, is het belangrijk om te erkennen dat iedere exchange kwetsbaar is. Je kunt de exchange zien als een bank en ook die worden wel eens beroofd. Hackers weten dat er op de exchanges véél geld te vinden is en kiezen dit daarom vaak als doelwit. Bedenk bij grote bedragen of je die liever op de exchange laat staan of op een eigen crypto wallet zoals die van Ledger. Persoonlijk verkies ik inmiddels een exchange zoals Finst boven mijn ‘eigen beveiliging’, maar dat kan goed zijn omdat ik soms wat te slordig ben ;)_
+**[Een account bij Finst is gratis en beginnen kan vanaf €1. Meld je hier aan >>](/go/finst)**
 
-**[Een account](/go/finst) [aanmaken](/go/finst) [bij Finst is gratis en beginnen met traden kan al vanaf €1,-. Meld je hier aan >>](/go/finst)**
+## 2. Voor- en nadelen van Finst
 
+Finst verschilt op een paar punten duidelijk van andere exchanges. Bovenaan staan de handelskosten, direct daaronder de eenvoud.
 
-**2\. Voor- en nadelen Finst  
-**
-
-Finst heeft een aantal significante verschillen met andere crypto exchanges. Bovenaan het lijstje met die verschillen vind je de lage handelskosten en direct daaronder vind je de transparantie die bij Finst vele malen groter dan bij andere crypto bedrijven.
-
-Ook zijn er bij Finst mogelijkheden **om crypto in bundels te kopen**. Je kunt dan bijvoorbeeld een bundel aankopen met DeFi crypto of Metaverse crypto, en investeert zo met één klik in een gehele sector van de markt. Het scheelt je een hoop research in allemaal losse crypto projecten en maakt investeren makkelijker.
-
-Ook kun je bij Finst periodiek investeren. Het bekende **DCA (Dollar Cost Avaraging)**. Dit is een geweldige strategie voor wie niet te veel bezig wilt zijn met de dagelijkse koersschommelingen.
+Een groot voordeel is dat je Finst kunt zien als **een combinatie van een crypto-broker en een exchange**. Finst bewaart de munten van al zijn klanten samen, en jouw aankoop blijft binnen Finst. Daardoor betaal je geen netwerkkosten bij het kopen en verkopen, en zijn de handelskosten zo laag.
 
 ![crypto-koersen](/images/migrated/crypto-koersen-1.webp "crypto-koersen")
 
-Een groot te noemen voordeel van Finst is dat je hen kunt zien als **een combinatie tussen een crypto makelaar en crypto exchange**.
+### Voordelen van Finst
 
-Dit wil zeggen dat Finst zelf gigantische hoeveelheden crypto in bezit heeft. Of eigenlijk bezit de uiteindelijke trader die munten dan dus, maar worden ze door Finst **veilig bewaard**.
-
-Door deze strategie is handelen makkelijk **en kun je traden tegen enorm lage kosten**. Je hoeft dan immers niet steeds transactiekosten te betalen aan het cryptonetwerk zelf omdat de munt ‘letterlijk’ binnen Finst blijft.
-
-Wanneer je een munt zoals Bitcoin daadwerkelijk op een andere wallet wilt zetten (dus niet van Finst naar Finst) betaal je daar soms wel 12,- euro per transactie voor. Deze kosten betaal je binnen Finst voor het traden dus niet waardoor handelen een stuk aantrekkelijker wordt.
-
-## Voordelen Finst
-
-*   Allerlaagste handelskosten van Nederland (0.15%)
-    
-*   Gevestigd en wettelijk geregistreerd in Nederland
-    
-*   Eenvoudig met iDEAL of Bancontact euro’s storten in jouw Finst wallet
-    
-*   Meer dan 240 verschillende crypto beschikbaar
-    
-*   Verbeterde staking rendementen, waaronder flexibele lock-up-periodes en hogere beloningen op populaire munten zoals Ethereum en Solana.
-    
-*   Opties voor periodiek investeren (DCA)
-    
-*   Proof of Reserve (PoR) garandeerd jouw crypto
-    
-*   Opnames gaan snel (vaak binnen enkele minuten) en zijn gratis
-    
-*   Eenvoudig te gebruiken app en website
-    
-*   Investeren in crypto bundels mogelijk
-    
-*   Goed bereikbare klantenservice (reactietijd van 10 minuten)
-    
-*   Betrouwbare en transparante crypto exchange
-    
+*   **0,15% handelskosten zonder spread**, de laagste van Nederland. Bij Bitvavo betaal je met een marktorder 0,25%. Per €1.000 is dat €1,50 tegenover €2,50.
+*   **Meer dan 400 munten**, te handelen in euro's én in USDC.
+*   **MiCA-vergunning van de AFM** en klanttegoeden één op één apart bij bunq en ING.
+*   **Staking op 15 munten**, tot 10% per jaar, zonder lock-up en met wekelijkse uitbetaling.
+*   **Auto invest** (periodiek inleggen) op losse munten en bundels, met optioneel automatisch opnemen naar je eigen wallet.
+*   **Acht crypto-bundels**, waaronder de Top 10 en de CoinDesk 20, die maandelijks worden herwogen.
+*   Storten en opnemen in euro's is **gratis**, opnames staan meestal binnen minuten op je rekening.
+*   **Nederlandse klantenservice** via chat, mail en telefoon.
+*   Uitgeroepen tot **Beste Cryptoplatform** bij de IEX Gouden Stier 2025 (uitgereikt in maart 2026). Trustpilot: 4,3 uit 5 bij ruim 15.000 reviews.
 
 ![finst-klantenservice](/images/migrated/finst-klantenservice-1.webp "finst-klantenservice")
 
-## Nadelen Finst
+### Nadelen van Finst
 
-*   Kleine, beginnende crypto missen vaak op Finst
-    
-*   De waarde van munten zijn alleen in euro’s zichtbaar
-    
+*   Hele kleine, nieuwe munten vind je er niet. Voor 'crypto parels' heb je een buitenlandse exchange nodig.
+*   Er is **geen API**, dus koppelen met een handelsbot of een eigen tool gaat niet.
+*   Voor crypto opnemen naar een eigen wallet betaal je de netwerkkosten plus €2,50.
+*   Staking is handig, maar valt buiten het MiCA-toezicht.
 
-Dat de waarde van cryptomunten op Finst alleen zichtbaar is in euro’s, zie ik als een nadeel voor wie gevorderd wilt handelen. Dit omdat je voor technische analyse graag de dollar waarde gebruikt, omdat hier wereldwijd het meest naar wordt gekeken en deze daarmee meer accuraat is.
-
-**Dat gezegd hebbende is het toch eenvoudig om te concluderen dat Finst er voor de beginnende crypto trader met kop en schouders bovenuit steekt!**
+**Dat gezegd hebbende: voor de beginnende én de gemiddelde crypto-investeerder steekt Finst er in 2026 met kop en schouders bovenuit.**
 
 [Maak jouw Finst account](/go/finst)
 
 ## 3. Crypto kopen op Finst
-**
 
-Voor je kunt handelen heb je alleen eerst geld nodig in jouw Finst wallet. Je kunt daarvoor een storting doen in euro’s met iDEAL of Bancontact (of in crypto als je die al bezit).
-
-Ga, als je [jouw account hebt](/go/finst) [aangemaakt](/go/finst), in het Finst dashboard naar **Storten €**
+Voor je kunt handelen heb je euro's nodig in je Finst-account. Ga in de app of op [app.finst.com](/go/finst) naar **Storten**.
 
 ![euro-storten-finst-ideal-bancontact-bankoverschrijving](/images/migrated/euro-storten-finst-ideal-bancontact-bankoverschrijving-1.webp "euro-storten-finst-ideal-bancontact-bankoverschrijving")
 
-Je kunt jouw euro’s storten met **iDEAL** voor in Nederland of **Bancontact** voor in België. Een andere optie is een **Bankoverschrijving.**
+Je kunt storten met **iDEAL** (in Nederland), **Bancontact** (in België) of een **directe bankoverschrijving**. Heb je al crypto ergens anders staan, dan kun je die ook naar Finst overmaken.
 
-## Stortingskosten
+### Stortingskosten
 
-Voor iDEAL, Bancontact of een bankoverschrijving betaal je precies **0,00 % overboekingskosten**. Omdat opnemen óók gratis is, kun je dus zonder iets te verliezen jouw geld op Finst zetten en daarvan afhalen.
+Voor iDEAL, Bancontact en bankoverschrijvingen betaal je **0,00%**. Opnemen is ook gratis. Je kunt je geld dus zonder verlies op Finst zetten en er weer afhalen. Er is geen minimum, en Finst publiceert geen maximum.
 
-> Good to know: Op Finst heb je geen stortings- of opnamelimiet.
-
-Na een storting ontvang je direct een mailtje van Finst dat het succesvol is aangekomen. Het geld staat vanaf dan in euro’s op jouw Finst account en **je kunt er direct crypto mee kopen**.
+Na een storting krijg je direct een mailtje. Het geld staat in euro's op je account en **je kunt er meteen crypto mee kopen**, vanaf €1 per transactie. Naast gewone marktorders kun je ook **limietorders** en **stop-loss orders** plaatsen.
 
 ![jonge-vrouw-viert-succesvolle-crypto-trade](/images/migrated/jonge-vrouw-viert-succesvolle-crypto-trade-1.webp "jonge-vrouw-viert-succesvolle-crypto-trade")
 
-## Welke cryptomunten zijn interessant voor de beginnende crypto trader?
+## Welke munten zijn interessant als je begint?
 
-Als je net begint met het handelen in crypto, wil je natuurlijk weten in welke crypto je wilt investeren. Meestal investeer je het liefst in iets dat zoveel mogelijk in waarde kan gaan stijgen, of je kiest voor iets bekends zoals de Bitcoin.
-
-Wetende dat er bij Finst **meer dan 240 cryptomunten** zijn om uit te kiezen, vraag je je wellicht af hoe je die afweging kunt maken. Daarom bij deze een kleine introductie in het aanbod.
-
-Er zijn op drie verschillende categorieën cryptocurrencies: **Bitcoin, Alt-coins en Tokens**. Alle drie zijn deze op Finst te verhandelen. Ook biedt Finst crypto bundels aan waardoor je niet eerst van iedere individuele munt hoeft te onderzoeken of deze het investeren waard is.
+Met **meer dan 400 munten** op Finst vraag je je misschien af waar je moet beginnen. Daarom een korte introductie in het aanbod. Er zijn drie categorieën: **Bitcoin, altcoins en tokens**. Alle drie zijn ze op Finst te verhandelen, en met de bundels hoef je niet eerst elk project apart te onderzoeken.
 
 ### Bitcoin
 
-Bitcoin is de grootste en meest bekende cryptomunt. Het was de eerste munt die werd gemaakt op basis van **blockchain-technologie**. Het legde daarmee de basis voor crypto en staat nog altijd ruim aan top als het gaat om waarde.
+Bitcoin is de grootste en bekendste cryptomunt en de eerste die op **blockchain-technologie** werd gebouwd. Het staat nog altijd ruim bovenaan als het gaat om waarde.
 
 ![bitcoin-op-het-strand](/images/migrated/bitcoin-op-het-strand-1.webp "bitcoin-op-het-strand")
 
-Met waarde bedoel ik niet zozeer de waarde van één Bitcoin, maar de totale waarde (**market cap**). Dat is het aantal Bitcoin vermenigvuldigt met de prijs. Iedere cryptomunt heeft namelijk een andere maximale hoeveelheid (**supply**). Bij de Bitcoin zijn dit er maximaal 21.000.000.
+Met waarde bedoel ik niet de prijs van één Bitcoin, maar de totale waarde (**market cap**): het aantal munten maal de prijs. Elke cryptomunt heeft een andere maximale hoeveelheid (**supply**). Bij Bitcoin zijn dat er maximaal 21.000.000.
 
-Die **market cap is enorm belangrijk** en daarom geef ik je graag even het onderstaande voorbeeld.
+> ## Market cap uitleg
+>
+> Stel dat crypto A 100.000 munten in omloop heeft met een waarde van 50.000 euro. De market cap is dan (100.000 × 50.000) 5 miljard euro.
+>
+> Stel dat crypto B 1.000.000.000 munten in omloop heeft met een waarde van 12,50 euro. De market cap is dan (1.000.000.000 × 12,50) 12,5 miljard euro.
+>
+> **De market cap zegt veel meer over de groeipotentie van een munt dan de prijs. Wie denkt dat een munt van 'maar' 12,50 euro heel veel kan stijgen, vergeet dat er misschien miljarden van zijn.**
 
-> ## Market Cap uitleg
-> 
-> Stel dat crypto(A) 100.000 munten in omloop heeft met een waarde van 50.000 euro. Dan is de totale market cap (100.000×50.000) 5 miljard euro.
-> 
-> Stel dat crypto(B) 1.000.000.000 munten in omloop heeft met een waarde van 12,50 euro. Dan is de totale market cap (1.000.000.000×12,50) 12,5 miljard euro.
-> 
-> **Wanneer je gaat traden in crypto is de berekening van de market cap enorm belangrijk. Daar kun je namelijk uit opmaken hoeveel groeipotentie een munt in werkelijkheid heeft. Wanneer je te simpel denkt en beredeneerd dat de munt ‘maar’ 12,50 euro waard is en dus heel veel kan stijgen doe je jezelf tekort als deze simpelweg véél meer munten blijkt te hebben.**
+Bitcoin is zo groot dat er vaak naar de **Bitcoin-dominantie** wordt gekeken: het aandeel van Bitcoin in de totale cryptomarkt. In september 2026 ligt dat rond de 59%. Er zit dus meer geld in Bitcoin dan in alle andere munten bij elkaar. <!-- TODO: verify this data is still current -->
 
-De Bitcoin is zo groot in de cryptomarkt dat er zelfs vaak gekeken wordt naar de **Bitcoin dominantie**. Dit is het percentage Bitcoin ten opzichte van de totale crypto markt. **Deze ligt vaak rond de 45****%**, wat betekent dat er bijna evenveel geld in Bitcoin zit, als in alle andere cryptomunten bij elkaar.
+Bitcoin wordt waarschijnlijk geen alledaags betaalmiddel: de transactiekosten zijn daarvoor te hoog en het netwerk is er niet voor gemaakt. Wat Bitcoin wel is, is een **waardeopslag**, het digitale goud, waar investeerders naartoe gaan om inflatie te ontlopen. Handelen in Bitcoin kan als beginner, maar zie het vooral als iets **voor de lange termijn**.
 
-Het is dan ook niet gek om te bedenken dat veel andere cryptomunten worden gewaardeerd op basis van de Bitcoin. Zo kun je met één Bitcoin bijvoorbeeld xxx Ethereum kopen. Fiat (euro’s) zijn dan helemaal niet meer nodig.
+### Altcoins
 
-Tot slot is het voor Bitcoin nog belangrijk om te begrijpen dat dit voor de toekomst waarschijnlijk geen zinvol betaalmiddel wordt. De transactiekosten zijn te duur en het netwerk is er niet voor gemaakt. Wat Bitcoin wel is, is een waarde opslag. Zie het als **het digitale goud**, een waarde zekere plek waar investeerders naartoe gaan om de torenhoge inflatie te ontlopen.
-
-Handelen in Bitcoin kan als beginnende trader, maar houdt er rekening mee dat dit dan waarschijnlijk iets is dat je **voor de lange termijn** gaat doen.
-
-### Alt-coins
-
-Alt-coins verschillen van cryptocurrency als Bitcoin. De bekendste (hoewel continu verschillend) zijn **Ethereum, Cardano, Ripple, [OFFICIAL TRUMP](/blog/web3/official-trump-kopen-ideal/), Solana en Polkadot.**
+Alle munten die geen Bitcoin zijn heten altcoins. De bekendste (al verandert dat continu) zijn **Ethereum, Solana, Ripple, Cardano en Polkadot**, en in 2025 kwam daar ineens [OFFICIAL TRUMP](/blog/web3/official-trump-kopen-ideal/) bij.
 
 ![altcoins-kopen-finst](/images/migrated/altcoins-kopen-finst-1.webp "altcoins-kopen-finst")
 
-Er staan meer dan **25.000 alt-coins** geregistreerd. Je kunt deze ‘**alternatieve munten**‘ zien als een alternatief voor Bitcoin. Vaak presenteren ze zich binnen een specifieke niche zoals Decentralized Finance (DeFi), Kunstmatige Intelligentie (AI), [NFTs](/blog/web3/nft-uitleg/), of de [Metaverse](/blog/web3/metaverse-crypto/). Of ze gaan de directe strijd aan om het geld van de toekomst te worden.
+Er staan tienduizenden altcoins geregistreerd. Vaak richten ze zich op een niche: Decentralized Finance (DeFi), kunstmatige intelligentie, [NFT's](/blog/web3/nft-uitleg/) of de [Metaverse](/blog/web3/metaverse-crypto/). Voor het traden zijn altcoins interessant omdat ze harder bewegen dan Bitcoin. Het gebeurt dat er eentje 100% omhoog schiet op één dag. Er zijn altcoins die over meerdere jaren meer dan 50.000% zijn gestegen.
 
-Voor het traden zijn alt-coins erg interessant. Het gebeurt nogal eens dat er eentje 100% omhoog schiet binnen één dag. **Dan zou je dus zomaar van €1000,- naar €2000,- kunnen zijn gegaan**. Er zijn zelfs alt-coins die over meerdere jaren tijd een verhoging hebben gezien van boven de 50.000%. Dat betekent dat je jouw investering keer 500 ziet gaan.
-
-Ik vind zelf dit verhaal over deze situatie uit het **[Crypto Portfolio van Alles Over Crypto](/go/crypto-portfolio)** erg veelzeggend:
+Ik vind dit verhaal uit het **[Crypto Portfolio van Alles Over Crypto](/go/crypto-portfolio)** veelzeggend:
 
 > Toen wij besloten om wat fanatieker kleinere cryptoprojecten te onderzoeken, hadden we een lijst opgesteld met coins waarvan we vonden dat we die wat dieper moesten uitzoeken.
-> 
-> Het was een klein lijstje met ongeveer 10 coins. Bij twee van deze coins stond een uitroepteken, wat betekende “volgens mij is dit echt een topper! Doe hier meer onderzoek naar!”. Om onverklaarbare redenen is dit lijstje in de vergetelheid geraakt en zijn de coins nooit verder onderzocht en geheel uit onze gedachten verdwenen.
-> 
+>
+> Het was een klein lijstje met ongeveer 10 coins. Bij twee van deze coins stond een uitroepteken, wat betekende "volgens mij is dit echt een topper! Doe hier meer onderzoek naar!". Om onverklaarbare redenen is dit lijstje in de vergetelheid geraakt en zijn de coins nooit verder onderzocht en geheel uit onze gedachten verdwenen.
+>
 > 10 maanden later kwamen we de lijst weer tegen. De muntjes waar een uitroepteken bij stonden waren ondertussen wereldberoemd geworden en hadden ons enorme winsten op kunnen leveren.
-> 
+>
 > Helaas waren we vergeten dat we ze al kenden en we zijn deze winsten volledig misgelopen. AntShares (nu NEO) en RaiBlocks (nu NANO) waren de cryptomunten met een uitroepteken en deze hadden ons respectievelijk een winst kunnen brengen van 57.043% en 89.333%.
-> 
+>
 > Stel we hadden even helemaal gek gedaan en 100 euro geïnvesteerd in beide projecten toentertijd, dan hadden we hier bijna 150.000 euro aan verdiend. Bizar! En dat is de wereld waar we momenteel in leven.
-> 
+>
 > –
-> 
-> In het **crypto portfolio** houden Patrick en Derek tegenwoordig nieuwe crypto parels bij. Je kunt het **[hier](/go/crypto-portfolio)** kopen.
+>
+> In het **crypto portfolio** houden Patrick en Derek nieuwe crypto parels bij. Je kunt het **[hier](/go/crypto-portfolio)** kopen.
 
-Er liggen dus kansen, maar investeren in alt-coins is niet zonder risico. Het gebeurt regelmatig dat er een alt-coin omvalt of dat deze gewoonweg geen toekomst heeft. Mijn advies zou dan ook zijn om **kleinere bedragen te spreiden** over meerdere alt-coins waar je zelf in gelooft. OF, om gebruik te maken van de bundels die Finst aanbiedt. Dat is een zeer eenvoudige manier om in te zetten op een onderdeel van de markt, zonder al te veel research en met een gespreid risico.
+Er liggen dus kansen, maar het risico is net zo groot. Altcoins vallen regelmatig om. Mijn advies: **spreid kleine bedragen** over meerdere munten waar je zelf in gelooft, of gebruik de bundels van Finst.
 
-De **verschillende crypto bundels** die Finst aanbiedt op dit moment zijn voor de grootste cryptomunten, groene cryptomunten, [DeFi (Decentralized Finance)](/blog/web3/defi-crypto-munten/) en de Metaverse.
+### Crypto-bundels
+
+Met een bundel koop je in één klik een hele sector. Finst heeft er in 2026 acht: **Top 2, Top 5, Top 10, Top 25, de CoinDesk 20, Groene crypto, [DeFi](/blog/web3/defi-crypto-munten/) en Metaverse**. Elke maand worden ze herwogen, zodat de verhoudingen kloppen met de markt. Bovenop de 0,15% handelskosten betaal je voor een bundel 0,10% per maand. Voor wie geen zin heeft om tientallen projecten te onderzoeken is dit de makkelijkste manier om gespreid in te stappen.
 
 ![crypto-bundels-finst-lijst](/images/migrated/crypto-bundels-finst-lijst-1.webp "crypto-bundels-finst-lijst")
 
-[**Maak een account aan op Finst en investeer direct eenvoudig in de verschillende cryptobundels >>**](/go/finst)
+[**Maak een account aan op Finst en investeer direct in een van de cryptobundels >>**](/go/finst)
 
 ### Tokens
 
-Tokens zijn geen cryptomunten, maar wél te verhandelen op Finst. Het belangrijkste verschil tussen een token en een coin (cryptomunt) is dat een coin een eigen blockchain gebruikt, waar een token slechts op een bestaande blockchain is gebouwd.
-
-In de praktijk betekent dit dat veel cryptomunten hun eigen tokens hebben. Zo is Basic Attention Token (BAT) bijvoorbeeld gebouwd op Ethereum (ETH). **[Beiden zijn te verhandelen op Finst](/go/finst)**.
-
-Tokens worden in veel gevallen gebruikt om gegevens in op te slaan of iets fysieks te symboliseren. Zo zou je in een token, gegevens kunnen opslaan van een fysiek product en vervolgens de token verhandelen. Het token dient dan als registratie van de rechtmatige eigenaar van een fysiek object.
-
-De meest bekende manier van tokens gebruiken zijn, je raadt het al, [**NFT’s**](/blog/web3/nft-uitleg/) (Non-Fungible Tokens). Deze vertegenwoordigen uniek eigendom, zoals digitale kunst of verzamelobjecten. Als beginner kun je tokens gebruiken om te experimenteren met gedecentraliseerde toepassingen (dApps) of te speculeren op innovatieve projecten.
+Tokens zijn geen munten met een eigen blockchain, maar zijn gebouwd op een bestaande blockchain. Zo draait Basic Attention Token (BAT) op Ethereum. **[Beide zijn op Finst te verhandelen](/go/finst)**. De bekendste toepassing van tokens zijn [**NFT's**](/blog/web3/nft-uitleg/): unieke tokens die eigendom vastleggen van bijvoorbeeld digitale kunst.
 
 ![nft-non-fungible-tokens-verhandelen](/images/migrated/nft-non-fungible-tokens-verhandelen-1.webp "nft-non-fungible-tokens-verhandelen")
 
-Voor beginners is het cruciaal om risico’s te spreiden. Overweeg daarom een combinatie van Bitcoin, alt-coins en / of tokens.
+**Het klinkt ingewikkeld, maar in de praktijk koop je op Finst gewoon Bitcoin, altcoins en tokens met een paar tikken op je telefoon ;)**
 
-**Dit klinkt misschien allemaal best ingewikkeld, maar de praktijk is vooral dat jij op Finst Bitcoins, alt-coins en tokens kunt verhandelen ;)**
+**[Klaar om te beginnen? Meld je hier gratis aan bij Finst.](/go/finst)**
 
-**[Klaar om te beginnen met investeren? Meld je dan hier gratis aan bij Finst.](/go/finst)**
+## Je crypto-portfolio opbouwen
 
-## Jouw crypto portfolio opbouwen bij Finst
-
-Hieronder zie je een screenshot van mijn eigen crypto op Bitvavo. Zoals je ziet was dit toen al op een vrij goede dag. **Maar als je eens snel online kijkt, zul je zien dat ik er nu nog gelukkiger bij zit.**
+Hieronder zie je een screenshot van een portfolio van mij uit een eerdere bullmarkt. Een goede dag toen, en de meeste munten zijn daarna verder gestegen. Maar het ziet er niet altijd zo groen uit, en dat is precies waarom ik voor de lange termijn investeer.
 
 ![Mijn crypto portfolio op Bitvavo](/images/migrated/mijn-crypto-portfolio-op-bitvavo-1.webp "Mijn crypto portfolio op Bitvavo")
 
-Ik heb besloten om deze cryptocurrencies te kopen nadat ik mijn eigen onderzoekje heb gedaan.
+Ik ben geen financieel adviseur en ik raad je aan altijd je eigen onderzoek te doen. **Do Your Own Research (DYOR)**. Goed onderzoek betekent dat je:
 
-Ik ben geen financieel adviseur en ik raad je dan ook aan om altijd jouw eigen onderzoek te doen. **Do Your Own Research (DYOR)** wordt er vaak gezegd. Goed onderzoek houdt in dat je:
+1.  weet welk team achter een project zit (staat op de website),
+2.  weet wat de supply is en hoeveel daarvan in handen van de makers is,
+3.  weet wat de munt doet en wat de plannen zijn (de roadmap).
 
-1.  Achterhaald welk team achter een crypto project zit (dit kun je vinden op de website)
-2.  Weet wat de supply is en hoeveel daarvan in bezit is van de makers
-3.  Weet wat de functie van de munt is en wat de plannen zijn voor de toekomst (dit vind je in de roadmap van een crypto project)
+Ga nooit blind af op **wat een influencer op YouTube of TikTok zegt**. Die mensen worden er vaak voor betaald.
 
-Ga voor je onderzoek nooit blind uit van **wat een influencer op Youtube of TikTok zegt**. Deze mensen worden vaak betaald om dit te zeggen.
+Gelukkig is het aanbod van [Finst](/go/finst) zelf al een redelijke filter. Toch glipt er weleens iets doorheen, denk aan de Terra Luna-crash in 2022. **DYOR!** :)
 
-Gelukkig is de [Finst crypto exchange](/go/finst) zelf al een best goede filter om de rotzooi van de kwalitatieve crypto te onderscheiden. Toch komt hier soms wat door, bijvoorbeeld als we kijken naar de Terra Luna crash in 2022. Maar dat is weer een heel ander verhaal. **DYOR!** :)
+## 4. Geld verdienen met staking bij Finst
 
+Bij Finst kun je **crypto staken vanuit je eigen account**. Simpeler wordt het niet.
 
-**4\. Geld verdienen met staking bij Finst  
-**
-
-Uniek aan Finst is dat je ook **crypto kan staken** **in jouw Finst wallet**. Simpeler wordt het niet. Én dat je bij Finst de hoogste staking opbrengsten hebt die je gaat vinden!
-
-Staking houdt in dat je jouw cryptovaluta beschikbaar stelt voor de werking van het netwerk. In ruil hiervoor krijg je een vergoeding in de vorm van die cryptomunt. Het beste hieraan; **je hoeft er niets extra’s voor te doen**.
-
-Zie het als **rente die je krijgt op je spaarrekening**. Al is daar tegenwoordig niet zoveel meer van over.
+Staking betekent dat je jouw munten beschikbaar stelt voor de werking van het netwerk. In ruil krijg je een vergoeding in diezelfde munt, **zonder dat je er iets voor hoeft te doen**. Zie het als rente op een spaarrekening.
 
 ![staking-crypto-op-finst](/images/migrated/staking-crypto-op-finst.webp "staking-crypto-op-finst")
 
-Je kan staking activeren bij de instellingen van [jouw Finst account](/go/finst). Belangrijk om hierbij te weten is dat je jouw crypto nog ten alle tijden kan verkopen. **Het is dus niet zo dat jouw crypto ergens vaststaat omdat deze gestaked wordt**.
+Je zet staking aan in de instellingen van [je Finst-account](/go/finst). Belangrijk: **je crypto zit niet vast**. Je kunt op elk moment verkopen. De beloningen worden elke maandag uitgekeerd en automatisch weer meegestaked, en Finst dekt het risico op slashing (een boete van het netwerk) zelf af.
 
-Dat is mede mogelijk gemaakt doordat Finst behalve een crypto exchange ook een crypto makelaar is, zoals we eerder in dit artikel hebben besproken.
+In september 2026 kun je op Finst **15 munten staken**. De geschatte jaarlijkse rendementen op dat moment:
 
-Staking is niet beschikbaar bij alle crypto op Finst, maar alleen bij munten die gebruik maken van het **Proof of Stake (PoS)** mechanisme.
+*   Cosmos (ATOM) **~10,0%**
+*   Toncoin (TON) **~9,0%**
+*   Kusama (KSM) **~7,0%**
+*   Injective (INJ) **~3,4%**
+*   Tezos (XTZ) **~3,1%**
+*   NEAR Protocol (NEAR) **~2,9%**
+*   Solana (SOL) **~2,8%**
+*   Core (CORE) **~2,8%**
+*   Algorand (ALGO) **~2,7%**
+*   Celestia (TIA) **~2,5%**
+*   Polygon (POL) **~1,65%**
+*   Tron (TRX) **~1,6%**
+*   Ethereum (ETH) **~1,5%**
+*   Polkadot (DOT) **~1,25%**
+*   Cardano (ADA) **~1,2%**
 
-Hierbij gaat het om Cardano (ADA), Cosmos (ATOM), Ethereum (ETH), Near Protocol (NEAR), Polkadot (DOT), Polygon (MATIC) en Solana (SOL).
+<!-- TODO: verify this data is still current -->
 
-Zie hieronder de geschatte **jaarlijkse rendementen** als je de volgende crypto in je Finst wallet houdt en staking activeert.
+De percentages veranderen zonder aankondiging, dus check de actuele stand in de app. En nogmaals: staking valt buiten het MiCA-toezicht. Het is een extraatje op munten die je toch al voor langere tijd wilt houden, geen reden om een munt te kopen.
 
-![staking-finst-munten-2025](/images/migrated/Staking-rewards-Finst-small.webp "staking-finst-munten-2025")
+Veel mensen zien staking als [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/): geld over geld, zonder er iets voor te doen.
 
-In totaal kun je **7 verschillende soorten crypto staken** bij Finst.
+## 5. Periodiek investeren bij Finst (auto invest)
 
-Daarnaast onderzoekt Finst de mogelijkheid om nieuwe populaire PoS-munten toe te voegen, waaronder munten die zich richten op **AI** en **Web3**. Hoewel er nog geen officiële bevestiging is, blijven AI-gebaseerde crypto-projecten zoals SingularityNET (AGIX) en Render Token (RNDR) populair, wat hun opname in staking-opties een logische volgende stap maakt. We zullen dus zien wat 2025 gaat brengen.
-
-Veel mensen zien staking als een manier om [passief inkomen te genereren](/blog/online-geld-verdienen/passief-inkomen-genereren/). Dit omdat je geld over geld verdient zonder daar zelf iets extra voor te hoeven doen.
-
-## 5. Periodiek investeren bij Finst (DCA)
-**
-
-**Dollar-cost averaging (DCA)** is een investeringsstrategie waarbij je periodiek een vast bedrag in een asset investeert, ongeacht de prijs. Bij Finst kun je deze strategie toepassen op crypto-investeringen door regelmatig, bijvoorbeeld dagelijks, wekelijks, tweewekelijks of maandelijks, een vast bedrag te investeren. Deze aanpak helpt om het risico van marktvolatiliteit te verminderen en kan leiden tot een lagere gemiddelde aankoopprijs over tijd, doordat je zowel in markthoogtes als -laagtes koopt.
+**Dollar-cost averaging (DCA)** is een strategie waarbij je periodiek een vast bedrag inlegt, ongeacht de prijs. Je koopt dan zowel op toppen als in dalen, en over de tijd middelt je aankoopprijs uit. Niemand weet wanneer de bodem of de piek is, ook de doorgewinterde trader niet.
 
 ![dollar-cost-avarage-finst-auto-invest](/images/migrated/dollar-cost-avarage-finst-auto-invest-1.webp "dollar-cost-avarage-finst-auto-invest")
 
-Bij Finst heet deze functie ‘**auto invest**‘. Je kunt periodiek inleggen op zowel losse crypto’s als crypto bundels. Voor de beginnende crypto investeerder kan dit een goede manier zijn om zonder de hele tijd op de markt te hoeven letten, rendement te behalen. Voor de doorgewinterde crypto handelaar is het overigens ook een goede strategie, want eerlijk is eerlijk, niemand kan met zekerheid zeggen wanneer de prijs piekt of de bodem aantikt.
+Bij Finst heet dit **auto invest**. Je kiest een bedrag en een frequentie (dagelijks, wekelijks, tweewekelijks of maandelijks) en Finst koopt automatisch, op losse munten of op een bundel. Nieuw sinds 2025: je kunt de gekochte crypto ook **automatisch laten opnemen naar je eigen wallet**. Dat is voor mij de manier: elke maand een vast bedrag, en verder niet naar de koers kijken.
 
-Zoals je bij DCA periodiek investeert, kun je ook periodiek verkopen in een bull market. Dit kan bij Finst niet automatisch, maar zul je zelf moeten doen.
+Andersom, periodiek verkopen in een bullmarkt, moet je nog steeds zelf doen.
 
-[**Maak nu gebruik van auto invest bij Finst >>**](/go/finst)
+[**Zet auto invest aan bij Finst >>**](/go/finst)
 
+## 6. Handelskosten
 
-**6\. Handelskosten  
-**
+Een account [aanmaken](/go/finst) is gratis, storten en opnemen in euro's ook. Finst verdient aan de **handelskosten: een vast tarief van 0,15% per transactie**, zonder spread erbovenop. Dat laatste is belangrijk: veel exchanges adverteren met lage kosten en verstoppen het verschil in de koers.
 
-Het [aanmaken van een account](/go/finst) bij Finst is kosteloos, net zoals het storten van geld via iDEAL of Bancontact. Ook het overmaken van geld van Finst naar je bankrekening is **gratis**. Finst moet uiteraard ergens inkomsten vandaan halen, dus rekenen ze **transactiekosten per uitgevoerde transactie**. Deze handelskosten behoren tot de laagste in de markt, met een standaard tarief van slechts 0,15%.
+Ter vergelijking, per €1.000 aan aankoop (cijfers van Finst zelf, juli 2026):
 
-Zie hieronder de transactiekosten van een hoop [Nederlandse exchanges](/blog/web3/beste-crypto-exchange/) vergeleken met Finst. De bedragen zijn de handelskosten per 10.000 euro verhandelde crypto.
+*   **Finst** 0,15% en geen spread → **€1,50**
+*   **Bitvavo** 0,25% met een marktorder → **€2,50**
 
 ![Transactiekosten finst vergelijking](/images/migrated/transactiekosten-finst-vergelijking-1.webp "transactiekosten-finst-vergelijking")
 
-Zoals je ziet zitten er qua handelskosten enorme verschillen in de crypto exchanges. Vooral als je vaker crypto koopt en weer verkoopt kunnen deze kosten flink aantikken, dan is het fijn als je bij de crypto exchange bent met de laagste handelskosten van Nederland; [Finst](/go/finst).
+<!-- TODO: verify this data is still current -->
 
-Wat **Finst** ook onderscheidt van andere crypto exchanges zoals **Kucoin**, is dat je geen crypto hoeft te hebben om te beginnen met handelen. Bij veel exchanges kun je alleen crypto kopen als je al in het bezit bent van Bitcoin of Ethereum en kun je niet direct met euro’s geld storten. En als je al wel iets kan storten **dan moet dat vaak in dollars en via een credit card**.
+Koop je een keer voor 100 euro, dan merk je het verschil nauwelijks. Handel je elke maand, of leg je grotere bedragen in, dan tikt het aan. Voor de meeste Nederlandse gebruikers is [Finst](/go/finst) daarmee de goedkoopste keuze. Een uitgebreidere vergelijking vind je in mijn overzicht van [Nederlandse crypto exchanges](/blog/web3/beste-crypto-exchange/).
 
-Op **Finst** kun je je account eenvoudig aanvullen met euro’s om vervolgens crypto te kopen. Dit proces is goedkoop (lees: gratis), transparant en eenvoudig.
+Wat **Finst** verder onderscheidt van buitenlandse exchanges is dat je geen crypto hoeft te hebben om te beginnen. Je stort euro's, koopt, klaar. Wil je crypto naar een eigen wallet opnemen, dan betaal je de netwerkkosten plus €2,50.
 
-[![crypto-currencies-on-mountain](/images/migrated/crypto-currencies-on-mountain-1.webp)](/go/bitvavo)
+[![crypto-currencies-on-mountain](/images/migrated/crypto-currencies-on-mountain-1.webp)](/go/finst)
 
-Zelf verkies ik Finst boven andere exchanges. Al kan het in sommige gevallen ook zijn dat je van [meerdere exchanges](/blog/web3/beste-crypto-exchange/) gebruik wilt maken **om meer verschillende cryptomunten (buiten de 240 die je op het Finst platform vindt) te kunnen kopen**. Niet iedere munt is namelijk te vinden op ieder platform.
+Zelf gebruik ik Finst voor het grootste deel van mijn portfolio, naast [Bitvavo](/blog/review/bitvavo-review-crypto/) voor een paar munten die Finst niet heeft. Niet elke munt staat op elk platform, en ook de handelskosten verschillen.
 
-[**Maak nu gratis jouw account aan bij Finst en begin met traden.**](/go/finst)
+[**Maak nu gratis jouw account aan bij Finst en begin met handelen.**](/go/finst)
 
+## 7. Je Finst-account verifiëren
 
-**7\. Finst account verifiëren  
-**
-
-Een Finst account aanmaken is een eitje! Je kunt het account al aanmaken met de mobiele app of website. Het duurt slechts enkele minuten en je kunt vrijwel direct beginnen met het traden van cryptovaluta.
-
-In de verificatie zal je aan moeten tonen dat je burger bent van een van de op de website weergegeven 29 landen in Europa. Uiteraard valt Nederland daaronder.
+Een Finst-account aanmaken is een eitje. Het duurt een paar minuten en daarna kun je direct handelen. Finst is beschikbaar in 29 Europese landen, Nederland en België uiteraard inbegrepen.
 
 [maak een Finst account aan](/go/finst)
 
-**Start hier:** Ga naar de [de website van Finst](/go/finst) en vul jouw e-mail in. Vervolgens ontvang je een e-mail om jouw e-mail adres te bevestigen.
+**Start hier:** ga naar [de website van Finst](/go/finst) en vul je e-mailadres in. Je ontvangt een mail om je adres te bevestigen.
 
-[![account-aanmaken-finst](/images/migrated/account-aanmaken-finst-1.webp)](/go/bitvavo)
+[![account-aanmaken-finst](/images/migrated/account-aanmaken-finst-1.webp)](/go/finst)
 
-Als je jouw e-mail adres hebt geverifieerd, kun je de **Finst app downloaden** om de KYC te voltooien.
+Daarna download je de **Finst-app** om de verificatie af te ronden.
 
 ![finst-app-downloaden](/images/migrated/finst-app-downloaden-1.webp "finst-app-downloaden")
 
-## Verificatie van jouw Finst account
+### Verificatie (KYC)
 
-Verificatie bij Finst is noodzakelijk onder de **KYC (Know Your Customer)** regelgeving, wat inhoudt dat je jouw identiteit moet bevestigen om te kunnen handelen.
-
-Dit is niet alleen een wettelijke eis, maar het biedt ook extra veiligheid voor jouw account, vooral als er problemen zijn met je account of inloggegevens. Zo kan Finst verifiëren dat het account daadwerkelijk aan jou toebehoort, wat bijdraagt aan een betere ondersteuning in geval van problemen.
+Verificatie is verplicht onder de **KYC-regels (Know Your Customer)**: je moet aantonen dat jij bent wie je zegt dat je bent. Dat is niet alleen een wettelijke eis, het beschermt ook je account als er ooit iets misgaat met je inloggegevens.
 
 ![kyc-crypto-exchange-finst](/images/migrated/kyc-crypto-exchange-finst-1.webp "kyc-crypto-exchange-finst")
 
-Wat ze je vragen daarvoor te doen is een **foto te maken van jouw ID kaart, paspoort of rijbewijs**. Deze stappen kun je eenvoudig volgen via jouw mobiele telefoon in [de Finst app](/go/finst).
+Je maakt een **foto van je ID-kaart, paspoort of rijbewijs** en een selfie, allemaal in [de Finst-app](/go/finst). Vanaf dat moment ben je geverifieerd en kun je storten en handelen. Een storting via iDEAL of Bancontact, al is het maar €1, staat direct op je account.
 
-Vanaf dat moment ben je geverifieerd en kun je vrij handelen. Je kunt nu simpelweg geld storten met Ideal en direct jouw eerste crypto kopen. Wanneer je geld stort met iDEAL of Bancontact, ook al is het maar €1,- dan staat dit direct op je account.
+## 8. Klantenservice van Finst
 
-## 8. Klantenservice Finst
-**
+In de cryptowereld gaat er weleens iets mis, en dan is het fijn dat er iemand is die je snel kan helpen. De klantenservice van Finst is **Nederlandstalig** en bereikbaar op werkdagen van 9.00 tot 18.00 uur via de chat, per mail en, bijzonder voor een crypto exchange, ook **telefonisch**. Voor de meeste vragen heeft het helpcentrum al een antwoord.
 
-In de snel evoluerende wereld van crypto is het geruststellend te weten dat er ondersteuning beschikbaar is bij vragen of problemen. Finst biedt klantenservice in het Nederlands, volledig digitaal via live-chat op hun website en e-mail.
-
-De live-chat is toegankelijk tijdens kantooruren, maar e-mails kunnen ook buiten deze uren beantwoord worden. **Voor veelgestelde vragen biedt de website van Finst al antwoorden via een supportsectie**.
-
-–
-
-_Wellicht is het je al opgevallen dat er in deze Finst review meerdere [AI](/blog/ondernemen/ai-tools-lijst/) gegenereerde afbeeldingen staan. Zie de afbeelding hieronder van de Finst customer service dus maar als een grapje. Ze hebben een goede service, maar zien er vast niet uit als het groep secret agents op een missie…_
+_Misschien is het je opgevallen dat er in deze review een paar [AI-gegenereerde afbeeldingen](/blog/ondernemen/ai-tools-lijst/) staan. Zie de foto van de 'klantenservice' hieronder dus als een grapje. De service is goed, maar het zijn vast geen secret agents op een missie…_
 
 ![klantenservice-finst](/images/migrated/klantenservice-finst-1.webp "klantenservice-finst")
 
+## 9. Conclusie Finst review
 
-**9\. Conclusie Finst review  
-**
+Finst is in 2026 de voordeligste crypto exchange van Nederland, met een MiCA-vergunning van de AFM, meer dan 400 munten en klanttegoeden die één op één apart staan bij Nederlandse banken. Je begint vanaf €1, stort gratis via iDEAL en betaalt 0,15% per transactie zonder spread.
 
-Finst onderscheidt zich als de voordeligste crypto exchange in Nederland met een uitgebreid assortiment aan Bitcoin, alt-coins, en tokens. Met een minimale investering van slechts €1,-, biedt Finst niet alleen toegankelijkheid voor elke belegger, maar ook veiligheid onder Nederlandse wet- en regelgeving en de zekerheid van Proof of Reserves (PoR).
-
-De Nederlandstalige support, gecombineerd met functies zoals periodiek investeren en crypto bundels, maakt Finst ideaal voor zowel beginners als ervaren traders. Dit maakt Finst een topkeuze voor iedereen die in crypto wil handelen.
-
-Deze Finst review eindigen we dus met een positief advies! De beste exchange van Nederland om [geld te verdienen met crypto](/blog/web3/handelen-in-crypto-valuta/)? Wij vinden van wel.
+De Nederlandstalige support, staking zonder lock-up, auto invest en de bundels maken Finst geschikt voor beginners én voor wie al langer investeert. Wie handelsbots wil koppelen of op zoek is naar de allerkleinste munten, moet ergens anders zijn. Voor alle anderen eindigt deze Finst review met een positief advies: de beste exchange van Nederland om [geld te verdienen met crypto](/blog/web3/handelen-in-crypto-valuta/)? Ik vind van wel, en ik gebruik hem zelf.
 
 [Maak jouw Finst account aan](/go/finst)
 
-## 10. FAQ Finst
-**
-
-Het zou natuurlijk kunnen dat je na deze Finst review nog met vragen zit. Daarom hieronder nog eens de meest gestelde vragen rondom Finst beantwoord.
+## 10. Veelgestelde vragen over Finst
 
 #### Welke munten heeft Finst?
 
-Er zijn 240+ verschillende cryptomunten en tokens op het platform te vinden. Daarbij valt het op dat er maandelijks nieuwe munten aan het platform worden toegevoegd. Deze crypto kan je onder andere op Finst vinden:
-
-1.  Bitcoin (BTC)
-2.  Ethereum (ETH)
-3.  Tether (USDT)
-4.  Solana (SOL)
-5.  Ripple (XRP)
-6.  Cardano (ADA)
-7.  USD Coin (USDC)
-8.  Chainlink (LINK)
-9.  Avalanche (AVAX)
-10.  Dogecoin (DOGE)
-11.  Tron (TRX)
-12.  Polkadot (DOT)
-13.  Polygon (MATIC)
-14.  Binance Coin (BNB)
-15.  Uniswap (UNI)
-16.  Immutable X (IMX)
-17.  Stellar (XLM)
-18.  Shiba Inu (SHIB)
-19.  Hedera (HBAR)
-20.  Bitcoin Cash (BCH)
-21.  Litecoin (LTC)
-22.  Cosmos (ATOM)
-23.  Near Protocol (NEAR)
-24.  ETH Classic (ETC)
-25.  Render (RNDR)
-26.  Lido DAO (LDO)
-27.  dYdX (DYDX)
-28.  Cronos (CRO)
-29.  The Graph (GRT)
-30.  Axie Infinity (AXS)
-31.  Maker (MKR)
-32.  Algorand (ALGO)
-33.  Ape Coin (APE)
-34.  Quant (QNT)
-35.  The Sandbox (SAND)
-36.  Aave (AAVE)
-37.  Fantom (FTM)
-38.  Synthetix (SNX)
-39.  Curve Dao (CRV)
-40.  Tezos (XTZ)
-41.  Decentraland (MANA)
-42.  Chilliz (CHZ)
-43.  Fetch.ai (FET)
-44.  Ocean Protocol (OCEAN)
-45.  WOO Network (WOO)
-46.  Eos (EOS)
-47.  Gnosis (GNO)
-48.  Gala (GALA)
-49.  1inch (1INCH)
-50.  Stargate Finance (STG)
-51.  Enjin (ENJ)
-52.  Compound (COMP)
-53.  Rocket Pool (RPL)
-54.  Pepe (PEPE)
-55.  Moonbeam (GLMR)
-56.  UMA (UMA)
-57.  SKALE (SKL)
-58.  Livepeer (LPT)
-59.  Kusama (KSM)
-60.  Convex Finance (CVX)
-61.  Pax Gold (PAXG)
-62.  AMP (AMP)
-63.  Mask Network (MASK)
-64.  Basic Attention Token (BAT)
-65.  Powerledger (POWR)
-66.  0x (ZRX)
-67.  Coin98 (C98)
-68.  Loopring (LRC)
-69.  Numeraire (NMR)
-70.  Covalent (CQT)
-71.  SushiSwap (SUSHI)
-72.  Aragon (ANT)
-73.  Storj (STORJ)
-74.  Cartesi (CTSI)
-75.  Audius (AUDIO)
-76.  Ankr (ANKR)
-77.  Band Protocol (BAND)
-78.  Yearn Finance (YFI)
-79.  Balancer (BAL)
-80.  Perpetual Protocol (PERP)
-81.  Radworks (RAD)
-82.  Origin Protocol (OGN)
-83.  Kyber Network (KNC)
-84.  Phala Network (PHA)
-85.  Dent (DENT)
-86.  Stella (ALPHA)
-87.  MyNeighborAlice (ALICE)
-88.  Orchid (OXT)
-89.  Bancor (BNT)
-90.  OMG Network (OMG)
-91.  Ren (REN)
-92.  StaFi (FIS)
-93.  Enzyme (MLN)
-94.  Rarible (RARI)
-95.  BarnBridge (BOND)
-96.  Mirror Protocol (MIR)
-97.  Songbird (SGB)
-98.  Smooth Love Potion (SLP)
+Meer dan 400, te handelen in euro's en USDC. Onder andere Bitcoin, Ethereum, Solana, Ripple, Cardano, Dogecoin, Chainlink, Avalanche, Polkadot, Tron, Toncoin, Stellar, Litecoin, Cosmos, NEAR, Render, Uniswap, Hedera, Shiba Inu en Pepe. Er komen maandelijks munten bij; het volledige aanbod staat op de site van [Finst](/go/finst).
 
 #### Is Finst veilig?
 
-**Ja.** Finst doet er met 2FA, whitelisting wallets, anti phishing codes, Proof of Reserves en SSL alles aan om de veiligheid te waarborgen en volgt de veiligheidsregels zoals in de Nederlandse wetgeving.
+**Ja.** Finst bewaart crypto met Fireblocks (MPC), heeft tweestapsverificatie standaard aan, werkt met vertrouwde apparaten, walletverificatie en whitelists, en laat een Proof of Reserves uitvoeren.
 
 #### Is Finst betrouwbaar?
 
-Ja. Doordat het geld wat je op Finst stort op de rekening beland die gescheiden is van het eigen vermogen van Finst loop je geen risico dat bij een eventueel faillissement jij je geld verliest. Verder staat Finst onder toezicht van De Nederlandsche bank en staat het onafhankelijke audits toe die bevestigen dat jouw crypto er veilig zijn opgeslagen.
+Ja. Finst heeft sinds juli 2025 een MiCA-vergunning van de AFM. Je euro's staan één op één apart bij bunq en ING, gescheiden van het vermogen van Finst, dus bij een faillissement raak je ze niet kwijt.
 
 #### Heeft Finst een wallet?
 
-Ja. Wanneer je jouw account aanmaakt op Finst kun jij je geld en crypto in jouw eigen Finst wallet plaatsen.
+Ja. Je crypto en euro's staan in je eigen Finst-account, en je kunt crypto opnemen naar een externe wallet.
 
 #### Hoelang bestaat Finst?
 
-De Finst exchange is sinds 2023 te gebruiken door crypto traders.
+Het bedrijf werd in 2022 opgericht en het platform is sinds 2023 in gebruik. In 2026 heeft Finst ruim 110.000 gebruikers.
 
 #### Wat kost Finst?
 
-Een account aanmaken op Finst is gratis. Daarna betaal je tot 0.15 % transactiekosten om crypto te kopen en verkopen. Deze fees zijn de laagste op de Nederlandse markt.
+Een account is gratis. Je betaalt 0,15% per transactie, zonder spread. Storten en opnemen in euro's is gratis; crypto opnemen kost de netwerkkosten plus €2,50. Bundels kosten 0,10% per maand extra.
 
-#### Wat is staking Finst?
+#### Wat is staking bij Finst?
 
-Staking bij Finst houdt in dat je jouw crypto vergrendelt in ruil voor het ontvangen van beloningen/rewards, waarmee je bijdraagt aan het blockchainnetwerk. Bij Finst kun je staking eenvoudig activeren en alsnog jouw cryptovaluta verhandelen. Staking is mogelijk bij 7 verschillende crypto, namelijk: Cardano (ADA), Cosmos (ATOM), Ethereum (ETH), Near Protocol (NEAR), Polkadot (DOT), Polygon (MATIC) en Solana (SOL).
+Je stelt je munten beschikbaar aan het netwerk en krijgt daar wekelijks een beloning voor, tot zo'n 10% per jaar. Je crypto blijft verhandelbaar. Staking is mogelijk op 15 munten.
 
 #### Is Finst Nederlands?
 
-Finst is een Nederlands bedrijf dat opereert op de Europese markt en is opgericht door twee mensen van DEGIRO. Het hoofdkantoor is gevestigd aan de Herengracht in Amsterdam.
+Ja. Finst B.V. is gevestigd aan de Herengracht in Amsterdam, is opgericht door voormalige DEGIRO-medewerkers en staat onder toezicht van de AFM.
 
 #### Heeft Finst een app?
 
-Finst heeft een mobiele app (Android en IOS). [**Download de app hier >>**](/go/finst)
+Ja, voor Android en iOS, plus een webversie. [**Download de app hier >>**](/go/finst)
 
 [Maak jouw Finst account aan](/go/finst)

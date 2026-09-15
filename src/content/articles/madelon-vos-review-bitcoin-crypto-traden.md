@@ -1,8 +1,8 @@
 ---
-title: "Madelon Vos [Review 2025]: Bitcoin en Technische Analyse Academy & MoneyTalks"
-description: "In deze review over de Bitcoin en Technische Analyse Academy gaan we het hebben over Madelon Vos haar cursus en community."
+title: "Madelon Vos [Review 2026]: Bitcoin en Technische Analyse Academy & MoneyTalks"
+description: "Eerlijke review van Madelon Vos in 2026: wat de Bitcoin en Technische Analyse Academy, MoneyTalks en de BBB-opleiding kosten, wat je leert en voor wie het is."
 date: 2021-03-19
-updated: 2024-12-07
+updated: 2026-09-15
 category: "review"
 slug: "madelon-vos-review-bitcoin-crypto-traden"
 lang: "nl"
@@ -10,69 +10,73 @@ draft: false
 featuredImage: "/images/headers/madelon-vos-review-bitcoin-crypto-traden.webp"
 ---
 
-In deze **review over de** **Bitcoin en Technische Analyse Academy** gaan we het hebben over **Madelon Vos** haar cursus en community.
+In deze **review over Madelon Vos** bespreek ik haar **Bitcoin en Technische Analyse Academy**, de **MoneyTalks-community** en de opleiding **Bouw, Beheer & Bescherm Vermogen**. Wat leer je er, wat kost het in 2026 en voor wie is het wel en niet bedoeld?
 
-Ik ben zelf aan de slag gegaan met de **Bitcoin en Technische Analyse Academy** en ben lid geworden van de **Moneytalks community**. Twijfel je of deze crypto cursus ook wat voor jou is? Dan kom je er in deze review over Madelon Vos achter wat mijn ervaringen zijn en voor wie de cursussen wél en niet zijn bedoeld.
+Ik ben zelf aan de slag gegaan met de Academy en ben lid geweest van MoneyTalks. Twijfel je of deze cryptocursus ook wat voor jou is? Dan lees je hieronder mijn ervaringen, de actuele prijzen, de kritiek die ze de afgelopen jaren kreeg en wat ik zelf in de cursus miste.
 
 ## Wie is Madelon Vos?
 
-Nederlands vrouwelijke cryptoheld! Madelon Vos is al **sinds 2013** actief in de Bitcoin en crypto wereld en komt regelmatig voorbij in diverse programma’s. Zo was ze al te gast bij **RTL Z, Videoland, Pow, Telegraaf en Day1 van Jay-Jay Boske**. Zelf heeft ze een Youtube kanaal over beleggen in crypto met **meer dan 114.000 abonnees** en inmiddels ook een Engelstalig kanaal dat hard groeit.
+Madelon Vos is al **sinds 2013** actief in de Bitcoin- en cryptowereld en is inmiddels de bekendste Nederlandse vrouw in die niche. Ze is regelmatig te gast in media als RTL Z en De Telegraaf en heeft een YouTube-kanaal over beleggen in crypto met **ruim 126.000 abonnees**. <!-- TODO: verify this data is still current --> Daar verschijnt wekelijks haar programma **Madelon Praat**, waarin ze de markten bespreekt.
 
-Wellicht dat je het format **Madelon Navigeert** al eens op Youtube voorbij hebt zien komen. Daarin zit ze samen met een gast in de auto en worden de financiële markten besproken.
+Wellicht heb je het format **Madelon Navigeert** al eens voorbij zien komen. Daarin zit ze samen met een gast in de auto en worden de financiële markten besproken. Die reeks loopt nog steeds; begin 2026 zat ze bij aflevering 83.
 
 ![Madelon Vos](/images/migrated/madelon-vos.webp "madelon-vos")
 
-Wat opvalt is dat Madelon Vos online enorm zichtbaar is. Ze is een graag geziene gast en **een van de weinige Nederlanders** die zo zichtbaar actief is in de crypto niche.
+Wat opvalt is dat Madelon Vos online enorm zichtbaar is. Ze is een graag geziene gast en **een van de weinige Nederlanders** die zo zichtbaar actief is in de cryptoniche. In 2026 werd ze genomineerd voor de Dutch Blockchain Awards in de categorie 'Most Influential Women'.
 
 > _Dat Madelon Vos al vanaf haar 17e is begonnen met Bitcoin heeft waarschijnlijk te maken met het feit dat haar vader professioneel belegger is. Dan leer je niet anders dan dat geld meer geld creëert._
 
-Wat je vaak ziet is dat veel crypto ondernemers in Nederland het te simpel houden. Het niveau blijft dan steken op het voorlezen van wat recente nieuwsartikelen over de Bitcoin markt. Bij Madelon Vos kun je echter beter verwachten. Als **docent technische analyse aan de Hogeschool in Amsterdam** weet ze waar ze het over heeft.
+Wat je vaak ziet is dat veel crypto-ondernemers in Nederland het te simpel houden. Het niveau blijft dan steken op het voorlezen van wat recente nieuwsartikelen over de Bitcoin-markt. Bij Madelon Vos kun je beter verwachten. Ze gaf **les in technische analyse aan een hogeschool in Amsterdam** en dat merk je aan de manier waarop ze uitlegt.
+
+Haar cursussen worden aangeboden via haar bedrijf Fintastic Media Group B.V., dat het NRTO-keurmerk voor opleiders draagt. Dat zegt niets over de inhoud, wel dat ze aan de eisen voor een erkende opleider voldoet.
 
 ## Bitcoin en Madelon Vos
 
-Op de vraag waarom investeren in crypto zo een logische keuze is, zei Madelon Vos in een interview bij Manners het volgende:
+Op de vraag waarom investeren in crypto zo'n logische keuze is, zei Madelon Vos in een eerder interview: <!-- TODO: verify de bron van dit citaat (het oorspronkelijke Manners-interview is offline); anders het citaat verwijderen -->
 
 > _![Madelon Vos Bitcoin](/images/migrated/madelon-vos-bitcoin.webp "madelon-vos-bitcoin")_
-> 
-> _“Mijn vader zei altijd: ‘Breng je geld niet naar de bank, daar wordt het alleen maar minder waard. Geld wordt in de basis altijd minder waard. Binnen 20 jaar is 100.000 euro grofweg nog geen 50.000 euro aan koopkracht waard. Daarom kocht ik al in 2013 Bitcoin van het geld dat ik verdiende bij de pizzeria.” – Madelon Vos_
+>
+> _"Mijn vader zei altijd: 'Breng je geld niet naar de bank, daar wordt het alleen maar minder waard. Geld wordt in de basis altijd minder waard. Binnen 20 jaar is 100.000 euro grofweg nog geen 50.000 euro aan koopkracht waard. Daarom kocht ik al in 2013 Bitcoin van het geld dat ik verdiende bij de pizzeria." – Madelon Vos_
 
-Om bovenstaande statement wat verder uit te leggen… Euro’s (fiat) kunnen geprint worden en daardoor ontstaat inflatie op de lange termijn. Zeker met enorme kapitaalinjecties zoals tijdens de coronacrisis. Bitcoin daarentegen heeft een maximale beschikbaarheid, namelijk **rond de 21.000.000**. Er zullen nooit meer dan 21 miljoen Bitcoins bestaan, hoewel de vraag naar Bitcoin wel kan en zal stijgen. Bitcoin wordt dus per definitie meer waard over de tijd heen.
+Om bovenstaand statement wat verder uit te leggen… Euro's (fiat) kunnen bijgedrukt worden en daardoor ontstaat inflatie op de lange termijn. Zeker met enorme kapitaalinjecties zoals tijdens de coronacrisis. Bitcoin daarentegen heeft een maximale beschikbaarheid van **21.000.000 munten**. Er zullen nooit meer dan 21 miljoen Bitcoin bestaan, terwijl de vraag wel kan stijgen. Dat is de kern van het verhaal dat Madelon al jaren vertelt.
 
-En wanneer we naar Bitcoin kijken is er één ding dat mensen vaak over het hoofd zien. Vaak lijkt het op een enorme hype en valt de markt daarna weer in elkaar. Maar als je zoals Madelon Vos al sinds 2013 in de Bitcoin zit, dan begrijp je **dat de koers beweegt in marktcyclussen**. Zoals we de top van eind 2017 en de top van 2021 hebben, zo is dat al eerder gebeurt. Het is al vaker voorbij gekomen dat Bitcoin **honderden of duizenden procenten omhoog** schoot, alleen zijn die pieken nu niet meer zichtbaar vanwege die bizar hoge waarde die Bitcoin deze dagen heeft.
+En wanneer we naar Bitcoin kijken, is er één ding dat mensen vaak over het hoofd zien. Vaak lijkt het op een enorme hype en valt de markt daarna weer in elkaar. Maar als je zoals Madelon Vos al sinds 2013 in Bitcoin zit, dan begrijp je **dat de koers beweegt in marktcycli**. De top van eind 2017, die van 2021 en het record van ruim 125.000 dollar in oktober 2025: telkens gevolgd door een flinke daling, en telkens hoger dan de vorige top. <!-- TODO: verify this data is still current -->
 
 ![Bitcoin Marktcyclus](/images/migrated/bitcoin-marktcyclus.webp "bitcoin-marktcyclus")
 
-Bitcoin wordt steeds meer gezien als **het digitale goud** en daarmee een oppotmiddel dat ook aantrekkelijk is voor beleggers. Er zijn zelfs analisten die denken dat Bitcoin de rol van goud gaat overtreffen omdat het in tegenstelling tot goud, wel een vaststaande schaarste heeft.
+Bitcoin wordt steeds meer gezien als **het digitale goud** en daarmee een oppotmiddel dat ook aantrekkelijk is voor beleggers. Er zijn zelfs analisten die denken dat Bitcoin de rol van goud gaat overtreffen, omdat het in tegenstelling tot goud wel een vaststaande schaarste heeft.
 
-_In deze review zitten affiliate links. Als je iets aanschaft via de linkjes krijg ik daarvoor in ruil een kleine commissie zonder extra kosten voor jou. Geen zorgen, ik raad je dat aan waar ik zelf in geloof en bied je graag een onweerstaanbaar aanbod._
+_In deze review zitten affiliate links. Als je iets aanschaft via de linkjes krijg ik daarvoor een kleine commissie, zonder extra kosten voor jou. Geen zorgen, ik raad alleen aan waar ik zelf in geloof._
 
+## Het aanbod van Madelon Vos in 2026
+
+Niets staat stil in de wereld van Madelon Vos. Haar cursusaanbod is de afgelopen jaren meerdere keren veranderd. Op het moment van schrijven kun je bij haar terecht voor:
+
+*   **Bitcoin en Technische Analyse Academy** – de complete online cursus (de kern van deze review)
+*   **Opleiding Bouw, Beheer & Bescherm Vermogen** – de uitgebreidere vermogensopleiding
+*   **MoneyTalks-community** – de betaalde community met wekelijkse analyses
+*   **1-op-1 coaching** en een gratis kennismakingsgesprek
+
+_Dit aanbod varieert per jaar. Voorheen zag je bijvoorbeeld 'Bitcoin Basics & Crypto's', 'Handelen in Crypto's' en de 'Crypto & Trading Academy'. Sommige reviews hieronder verwijzen nog naar die oude namen._
+
+Volgens haar eigen site hebben inmiddels **meer dan 25.000 cursisten** haar trainingen gevolgd. Wie serieus aan de slag wil met crypto, heeft het meeste aan de **Bitcoin en Technische Analyse Academy**.
 
 ## Bitcoin en Technische Analyse Academy
 
-Niets staat stil in de wereld van Madelon Vos. Haar cursusaanbod is dus ook al vaker uitgebreid. Inmiddels kun je bij haar terecht voor:
-
-*   **Bitcoin en Technische Analyse Academy**
-*   **Opleiding Bouw, Beheer & Bescherm Vermogen**
-*   **Moneytalks Community**
-
-_Dit aanbod varieert elke jaar. Een must in een steeds sterk veranderende crypto markt. Voorheen zag je zo bijvoorbeeld: ‘Bitcoin Basics & Crypto’s’, ‘Handelen in Crypto’s’ en de ‘Crypto & Trading Community’_
-
-Inmiddels hebben al **meer dan 25.000 cursisten** haar trainingen gevolgd. Wie dan ook serieus aan de slag wilt gaan met crypto heeft het meeste aan haar: **Bitcoin en Technische Analyse Academy.**
-
 ![Crypto en Trading Academy Madelon Vos](/images/migrated/crypto-en-trading-academy-madelon-vos-1.webp "crypto-en-trading-academy-madelon-vos (1)")
 
-In de [Bitcoin en Technische Analyse Academy](/go/technische-analyse) van Madelon Vos leer je de basis van de cryptomarkt. In deze complete cursus leert zij je:
+In de [Bitcoin en Technische Analyse Academy](/go/technische-analyse) van Madelon Vos leer je de basis van de cryptomarkt. De cursus bestaat uit zo'n 50 lessen (ruim 13 uur video) en je houdt levenslang toegang. In deze complete cursus leert zij je:
 
-*   Winstgevend en veilig investeren en traden in Bitcoin/Crypto
-*   Complete basis voor bitcoin, cryptocurrencies en aandelen
-*   Technische analyse en trading strategieën
+*   Winstgevend en veilig investeren en traden in Bitcoin en crypto
+*   De complete basis van Bitcoin, cryptocurrencies en aandelen
+*   Technische analyse en tradingstrategieën
 *   Veilig kopen, verkopen en beheren van crypto
 
-Handig voor iedereen die interesse heeft in deze wereld en op onderzoek uitgaat. Dit is de stap voor iedere beginner die wilt gaan investeren in het digitale geld.
+Handig voor iedereen die interesse heeft in deze wereld en op onderzoek uitgaat. Dit is de stap voor iedere beginner die wil gaan investeren in digitaal geld.
 
-Verder in de cursus duik je de diepte in op het gebied van technische analyse en trading strategieën. Ook interessant dus voor de al meer gevorderde belegger of trader.
+Verder in de cursus duik je de diepte in op het gebied van technische analyse en tradingstrategieën. Ook interessant dus voor de al meer gevorderde belegger of trader.
 
-Laten we eens kijken naar welke modules langskomen.
+Laten we eens kijken welke modules langskomen.
 
 ### 1. Bitcoin Basics & Cryptocurrencies
 
@@ -83,25 +87,25 @@ Laten we eens kijken naar welke modules langskomen.
 *   Je hebt basiskennis van grafieken, indicatoren en patronen.
 *   Je begrijpt de rol van technische analyse in de financiële markten.
 
-Het is heerlijk om te zien hoe Madelon Vos hier in totale Jip en Janneke taal de principes van Bitcoin uitlegt. Voor iedereen die nieuw is in deze wereld is dit **een absolute meerwaarde**.
+Het is heerlijk om te zien hoe Madelon Vos hier in Jip-en-Janneketaal de principes van Bitcoin uitlegt. Voor iedereen die nieuw is in deze wereld is dit **een absolute meerwaarde**.
 
-In het eerste onderdeel gaat Madelon Vos echt even in op de basis. Je leert wat Bitcoin is en waarom het überhaupt bestaat. Ook leer je wat de functie van Bitcoin is **nu en in de toekomst**. Verder gaat Madelon nog in op de verschillende cryptocurrencies die er zijn, er is namelijk meer crypto dan alleen de Bitcoin ;)
+In het eerste onderdeel gaat Madelon Vos echt even in op de basis. Je leert wat Bitcoin is en waarom het überhaupt bestaat. Ook leer je wat de functie van Bitcoin is **nu en in de toekomst**. Verder gaat Madelon nog in op de verschillende cryptocurrencies die er zijn, er is namelijk meer crypto dan alleen Bitcoin ;)
 
-**Blockchain technologie**
+**Blockchaintechnologie**
 
 Je leert over de werking van de blockchain, de technologie achter Bitcoin. Hoe deze transacties valideert en vastlegt in een decentraal netwerk, en welke voordelen dit biedt ten opzichte van traditionele systemen.
 
 **Cryptocurrencies verkennen**
 
-Hier duik je in de verschillende cryptocurrencies. Er zijn er namelijk best wel wat. Inmiddels meer dan 25.000 geregistreerde munten. Het is daarom ook fijn als iemand je eens kan uitleggen welke populaire crypto er zijn en waar die allemaal voor worden gebruikt. Hint: Niet alleen om te betalen ;)
+Hier duik je in de verschillende cryptocurrencies. Er zijn er namelijk best wat: ruim 21.000 actieve munten. Het is daarom fijn als iemand je eens kan uitleggen welke populaire crypto er zijn en waar die allemaal voor worden gebruikt. Hint: niet alleen om te betalen ;)
 
 **Crypto kopen en verkopen**
 
-Hier leer je de vrij simpele stappen voor het kopen en verkopen van cryptocurrencies via betrouwbare exchanges en brokers. Je krijgt praktische tips over het kiezen van de juiste platforms, het plaatsen van orders en het beheren van je portfolio. Ook krijg je via deze cursus **70 euro gratis Bitcoin** via partners van Madelon Vos.
+Hier leer je de vrij simpele stappen voor het kopen en verkopen van cryptocurrencies via betrouwbare exchanges en brokers. Je krijgt praktische tips over het kiezen van de juiste platforms, het plaatsen van orders en het beheren van je portfolio. Via de partners van Madelon Vos krijg je bij deze cursus ook **70 euro gratis Bitcoin** als je een account opent. <!-- TODO: verify this data is still current -->
 
 **Veiligheid**
 
-Op markten lopen vaak zakkenrollers rond. Natuurlijk omdat het makkelijk is om jouw portemonnee weg te pikken in alle drukte. Zo is het voor cybercriminel ook erg makkelijk in de drukte van allerlei crypto amateurs om hier en daar een digitale wallet leeg te roven.
+Op markten lopen vaak zakkenrollers rond. Natuurlijk, omdat het makkelijk is om jouw portemonnee weg te pikken in alle drukte. Zo is het voor cybercriminelen ook erg makkelijk om in de drukte van allerlei crypto-amateurs hier en daar een digitale wallet leeg te roven.
 
 Madelon Vos leert je hoe je cryptocurrencies veilig kunt bewaren in verschillende soorten wallets, zoals software wallets, hardware wallets en paper wallets. Zo ken je straks alle mogelijkheden en kun je je beter beschermen.
 
@@ -113,89 +117,84 @@ Je ontdekt verschillende manieren om geld te verdienen met cryptocurrencies, zoa
 
 ![Bitcoin Basics en Crypto's lessen Madelon Vos](/images/migrated/bitcoin-en-crypto-basics-lessen-madelon-vos.webp "bitcoin-en-crypto-basics-lessen-madelon-vos")
 
-### 2. Technische Analyse
+### 2. Technische analyse
 
 *   Je kunt verschillende soorten grafieken lezen (lijn, bar, candlestick).
 *   Je begrijpt de werking van Japanese Candlesticks en Heikin Ashi.
-*   Je kunt candlestick patronen herkennen (Bullish/Bearish Engulfing, Hammers, Doji’s).
+*   Je kunt candlestick-patronen herkennen (Bullish/Bearish Engulfing, Hammers, Doji's).
 *   Je weet hoe je TradingView gebruikt voor technische analyse.
 
-Als je echt [geld wilt gaan verdienen met crypto](/blog/web3/handelen-in-crypto-valuta/) is je kennis over munten op zich handig, maar nog belangrijker is leren hoe jij up to date kan blijven in zo’n snel bewegende markt. Daarom leert Madelon je ook technische analyses maken. En erg uitgebreid.
+Als je echt [geld wilt gaan verdienen met crypto](/blog/web3/handelen-in-crypto-valuta/) is kennis over munten op zich handig, maar nog belangrijker is leren hoe jij up-to-date blijft in zo'n snel bewegende markt. Daarom leert Madelon je ook technische analyses maken. En erg uitgebreid.
 
 **Grafieken lezen en begrijpen**
 
 *   Soorten grafieken (lijn, bar, JC, HA)
 *   Het lezen van candlesticks
-*   De Exchange
+*   De exchange
 
 In de cursus werkt Madelon Vos met het programma TradingView. Dit is de meest vooraanstaande software als het gaat om **technische analyse**. Het is enorm uitgebreid en heeft eindeloos veel mogelijkheden.
 
-Madelon Vos bespreekt de functionaliteiten waar jij bij crypto traden gebruik van wilt maken. Je gaat voornamelijk aan de slag met de **Japanese Candlesticks**. Ook leer je in dit onderdeel over trading pairs en stop limit orders.
+Madelon Vos bespreekt de functionaliteiten waar jij bij crypto traden gebruik van wilt maken. Je gaat voornamelijk aan de slag met de **Japanese Candlesticks**. Ook leer je in dit onderdeel over trading pairs en stop-limit orders.
 
 ![Technische analyse Madelon Vos](/images/migrated/technische-analyse-madelon-vos.webp "technische-analyse-madelon-vos")
 
 **Japanese Candlesticks en Heikin Ashi**
 
-Japanese Candlesticks en Heikin Ashi zijn speciale soorten grafieken die je helpen trends te spotten. Ze laten je zien wat er gebeurt met de prijs van een cryptocurrency. Madelon vos legt je uit hoe je deze grafieken kunt interpreteren en zo de cryptos in jouw portfolio analyseren om trends te voorspellen.
+Japanese Candlesticks en Heikin Ashi zijn speciale soorten grafieken die je helpen trends te spotten. Ze laten je zien wat er gebeurt met de prijs van een cryptocurrency. Madelon Vos legt uit hoe je deze grafieken interpreteert en zo de crypto in jouw portfolio analyseert.
 
-**Candlestick patronen**
+**Candlestick-patronen**
 
-Zou je niet soms graag de toekomst willen kunnen voorspellen? Dat kun je na dit onderdeel als je leert hoe candlesticks werken en hoe je er patronen in kunt ontdekken. Ten minste, goed om te weten: zelfs als expert gaat dat niet altijd goed!
+Zou je niet soms graag de toekomst willen voorspellen? Dat lukt ook na dit onderdeel niet helemaal, maar je leert wel hoe candlesticks werken en hoe je er patronen in ontdekt. Goed om te weten: zelfs als expert gaat dat niet altijd goed!
 
-Maar candlestick patronen geven je wel hints over waar de koers naartoe zou kunnen gaan. Je leert patronen herkennen zoals Bullish/Bearish Engulfing, Hammers, Hanging Man en Doji’s. Deze patronen geven je belangrijke signalen over de toekomstige richting van de prijs.
+Candlestick-patronen geven je wel hints over waar de koers naartoe zou kunnen gaan. Je leert patronen herkennen zoals Bullish/Bearish Engulfing, Hammers, Hanging Man en Doji's. Deze patronen geven je signalen over de mogelijke richting van de prijs.
 
-#### Koersbewegingen
+**Koersbewegingen**
 
 De cryptomarkt is altijd in beweging. De ene keer schiet de koers omhoog, de andere keer duikelt hij naar beneden. Hoe zorg je ervoor dat je niet overrompeld wordt door al die ups en downs? Juist, door de koersbewegingen te leren begrijpen!
 
-Madelon Vos gaat hier in op zogenaamde resistance punten waardoor je beter kunt inspelen op de markt. Na dit onderdeel begrijp je wat een goed koop- of verkoopmoment is.
+Madelon Vos gaat hier in op zogenaamde steun- en weerstandspunten waardoor je beter kunt inspelen op de markt. Na dit onderdeel begrijp je wat een goed koop- of verkoopmoment is.
 
 **Trends**
 
-Madelon leert je in dit onderdeel de verschillende trends in de cryptomarkt te herkennen. Denk aan stijgende trends (bull market), dalende trends (bear market) en zijwaartse trends. Je begrijpt hoe je deze trends kunt gebruiken om je handelsstrategieën te bepalen en te profiteren van de momentum van de markt.
+Madelon leert je in dit onderdeel de verschillende trends in de cryptomarkt te herkennen. Denk aan stijgende trends (bull market), dalende trends (bear market) en zijwaartse trends. Je begrijpt hoe je deze trends kunt gebruiken om je handelsstrategie te bepalen.
 
 **Steun- en weerstandslijnen**
 
-Dit zijn die resistance punten waar ik het over had. Dit zijn als het ware obstakels waar de koers moeite mee heeft om doorheen te breken. Madelon legt je uit hoe je deze punten kunt herkennen, zodat je kunt anticiperen op wat er gaat gebeuren.Je leert hoe je steun- en weerstandslijnen kunt tekenen en interpreteren. Deze lijnen helpen je om belangrijke prijsniveaus te identificeren waar de prijs waarschijnlijk ondersteuning of weerstand zal vinden.
+Dit zijn als het ware obstakels waar de koers moeite mee heeft om doorheen te breken. Madelon legt uit hoe je deze punten herkent, zodat je kunt anticiperen op wat er gaat gebeuren. Je leert hoe je steun- en weerstandslijnen tekent en interpreteert.
 
 **Long en short gaan**
 
-Misschien heb je er wel eens van gehoord: long en short gaan. Maar na je avondje ‘Wolf of Wallstreet’ kijken, vraag je je misschien nog steeds af wat dat precies is. In deze cursus leer je wat beide concepten inhouden en natuurlijk wanneer je deze het beste inzet. Zo kun je straks niet alleen meegenieten van het succes van stijgende koersen, maar ook van de dalende.
+Misschien heb je er wel eens van gehoord: long en short gaan. Maar na je avondje 'Wolf of Wall Street' kijken, vraag je je misschien nog steeds af wat dat precies is. In deze cursus leer je wat beide concepten inhouden en wanneer je ze inzet. Zo kun je straks niet alleen meegenieten van stijgende koersen, maar ook van dalende. Mijn eigen kanttekening: short gaan met hefboom is de snelste manier om je geld kwijt te raken. Leer het begrijpen, wees zuinig met het doen.
 
-#### Tools
+**Tools**
 
 Bij dit onderdeel werd ik zelf enorm enthousiast! Dit is exact wat je wilt hebben als het gaat om technische analyse.
 
-Madelon Vos deelt hier haar eigen kennis op het vlak van analyse. Om er één onderdeel uit te pakken; **Fibonacci**. Dit is een wiskundige berekening die je los kunt laten op de koersen in het programma TradingView. Deze berekening kan de weerstandniveaus bepalen.
+Madelon Vos deelt hier haar eigen kennis op het vlak van analyse. Om er één onderdeel uit te pakken: **Fibonacci**. Dit is een wiskundige berekening die je loslaat op de koersen in TradingView en die mogelijke weerstandsniveaus bepaalt.
 
-Er komen hier **tal van technische aspecten aan bod** en wat Madelon Vos zo fijn doet is dat ze die eenvoudig weet te houden zonder in te leveren op de inhoudelijke kwaliteit.
+Er komen hier **tal van technische aspecten aan bod** en wat Madelon Vos zo fijn doet, is dat ze die eenvoudig weet te houden zonder in te leveren op de inhoudelijke kwaliteit.
 
 **Indicatoren**
 
-Je gaat ook aan de slag met indicatoren. Dit zijn wiskundige formules die prijs en volume analyseren om trends, momentum en potentiële omkeerpunten te identificeren. Ze geven je een objectieve kijk op de markt en helpen je emoties uit je trading te halen.
+Je gaat ook aan de slag met indicatoren. Dit zijn wiskundige formules die prijs en volume analyseren om trends, momentum en potentiële omkeerpunten te identificeren. Ze geven je een objectievere kijk op de markt en helpen je emoties uit je trading te halen.
 
 Enkele van de indicatoren die in de cursus voorbijkomen:
 
-*   **RSI (Relative Strength Index):** Meet de snelheid en verandering van prijsbewegingen om overbought en oversold condities te identificeren.
-    
-*   **Moving Average:** Geeft een gemiddelde prijs over een bepaalde periode weer, handig om trends te bepalen en steun- en weerstandsniveaus te identificeren.
-    
-*   **MACD (Moving Average Convergence Divergence):** Toont de relatie tussen twee voortschrijdende gemiddelden en geeft koop- of verkoopsignalen.
-    
-*   **Stochastics:** Vergelijkt de slotkoers van een cryptocurrency met de koersrange over een bepaalde periode om momentum en trendomkeringen te bepalen.
-    
-*   **Bollinger Bands:** Bestaat uit een set van lijnen die standaarddeviaties plotten van een voortschrijdend gemiddelde. Handig om volatiliteit te meten en uitbraken te voorspellen.
-    
+*   **RSI (Relative Strength Index):** meet de snelheid en verandering van prijsbewegingen om overbought- en oversold-condities te identificeren.
+*   **Moving Average:** geeft een gemiddelde prijs over een bepaalde periode weer, handig om trends te bepalen.
+*   **MACD (Moving Average Convergence Divergence):** toont de relatie tussen twee voortschrijdende gemiddelden en geeft koop- of verkoopsignalen.
+*   **Stochastics:** vergelijkt de slotkoers met de koersrange over een periode om momentum en trendomkeringen te bepalen.
+*   **Bollinger Bands:** lijnen die standaarddeviaties van een voortschrijdend gemiddelde plotten. Handig om volatiliteit te meten.
 
 **Fibonacci-lijnen**
 
-Je leert hoe je Fibonacci-lijnen kunt toepassen om steun- en weerstandsniveaus te bepalen en potentiële omkeerpunten in de markt te identificeren.
+Je leert hoe je Fibonacci-lijnen toepast om steun- en weerstandsniveaus te bepalen en potentiële omkeerpunten in de markt te vinden.
 
 **Grafiekpatronen**
 
-Je leert hoe je verschillende grafiekpatronen kunt herkennen, zoals Triangles, Wedges, Cup & Handle, en Head & Shoulders. Deze patronen geven je inzicht in de psychologie van de markt en helpen je om toekomstige koersbewegingen te voorspellen.
+Je leert verschillende grafiekpatronen herkennen, zoals Triangles, Wedges, Cup & Handle en Head & Shoulders. Deze patronen geven je inzicht in de psychologie van de markt.
 
-### De Toolset van Madelon Vos
+### De toolset van Madelon Vos
 
 *   Toolset op volgorde van belangrijkheid
 *   Slotwoord
@@ -204,103 +203,107 @@ Een afsluitend onderdeel waarin Madelon Vos nog één keer toelicht welke tools 
 
 **Tools in de praktijk**
 
-Het is hier duidelijk te zien dat Madelon Vos verstand heeft van waar ze over praat. En dat niet alleen, ze is er ook nog eens erg enthousiast over. Je krijgt inzicht in de specifieke tools die zij gebruikt voor haar technische analyses. Je leert hoe ze deze tools toepast in real-world scenario’s en hoe ze deze combineert om tot weloverwogen handelsbeslissingen te komen.
+Het is hier duidelijk te zien dat Madelon Vos verstand heeft van waar ze over praat. En dat niet alleen, ze is er ook nog eens erg enthousiast over. Je krijgt inzicht in de specifieke tools die zij gebruikt voor haar technische analyses en hoe ze die combineert tot een handelsbeslissing.
 
 **Complete analyse**
 
-Madelon Vos leert je hoe je verschillende tools en technieken combineert om een complete technische analyse uit te voeren. Dit is de laatste enorm waardevolle stap in je ‘nieuwe leven als cryptotrader’. Vooral fijn om dus even alles in duidelijke praktijkvoorbeelden langs te zien komen.
+Madelon Vos leert je hoe je verschillende tools en technieken combineert om een complete technische analyse uit te voeren. Dit is de laatste, enorm waardevolle stap. Vooral fijn om alles in duidelijke praktijkvoorbeelden langs te zien komen.
 
-–
+De **[Bitcoin en Technische Analyse Academy](/go/technische-analyse)** is voor mij enorm waardevol geweest. Waar ik bij het begin nog dacht dat het me allemaal iets te simpel was, leerde ik later in de cursus plots dingen waar ik nog nooit van had gehoord.
 
-De ‘**[Crypto & Trading Academy](/go/technische-analyse)**‘ is voor mij enorm waardevol geweest. Waar ik bij het begin nog dacht dat het me allemaal iets te simpel was, leerde ik later in de cursus plots dingen waar ik nog nooit van had gehoord.
+Dit maakt dat zowel de basics als de technische analyse van een heel saai onderwerp naar iets leuks zijn gegaan. Geen hogere wiskunde, maar **begrijpelijke analyses** die iedereen kan uitvoeren.
 
-Dit maakt dat zowel de basics als de technische analyse van een heel saai onderwerp, naar iets leuks is gegaan. Geen hogere wiskunde, maar **begrijpelijke analyses** die iedereen kan uitvoeren.
+### Prijs van de Academy in 2026
 
-De prijs van de Crypto & Trading Academy is **697 euro**. Hierbij krijg je ook twee maanden gratis in de MoneyTalks community!
+De adviesprijs van de Bitcoin en Technische Analyse Academy is **899 euro**; op het moment van schrijven wordt hij aangeboden voor **799 euro** (of in twee of drie termijnen). Er zit geen btw op, omdat ze een erkende opleider is. Je krijgt er 60 dagen MoneyTalks bij, hebt 14 dagen niet-goed-geld-terug en na een gratis kennismakingsgesprek geeft ze doorgaans nog 100 euro korting. <!-- TODO: verify this data is still current (prijzen en acties wisselen regelmatig) -->
 
-[Begin met de Crypto & Trading Academy](/go/technische-analyse)
+[Begin met de Bitcoin en Technische Analyse Academy](/go/technische-analyse)
 
-## MoneyTalks Community
+## MoneyTalks-community
 
 ![MoneyTalks Community](/images/migrated/moneytalks-community-1.webp "moneytalks-community (1)")
 
-De **[MoneyTalks Community](/go/moneytalkscommunity)** is een actief platform gericht op de Bitcoin en cryptomarkt.
+De **[MoneyTalks-community](/go/moneytalkscommunity)** is een actief platform gericht op de Bitcoin- en cryptomarkt.
 
-Je kunt hier al jouw vragen stellen over specifieke cryptomunten en ervaringen delen met gelijkgestemden. Het platform heeft inmiddels al meer dan 2000 leden en biedt **echt een meerwaarde aan jouw crypto trading avontuur**.
+Je kunt hier al jouw vragen stellen over specifieke cryptomunten en ervaringen delen met gelijkgestemden. Het platform heeft inmiddels meer dan 2.000 leden en biedt **echt een meerwaarde aan jouw crypto-avontuur**. <!-- TODO: verify this data is still current -->
 
-De community van MoneyTalks zorgt er namelijk voor dat jij altijd op de hoogte bent van de laatste trends en er is veel financieel advies te vinden die je houvast kan bieden. Wekelijks vindt je er een **technische analyse van Madelon Vos** zelf en een moment om vragen te stellen. Daarnaast zijn er voor de mensen die echt graag willen ook **wekelijkse Q&A’s** waar ook jij je crypto vragen kunt stellen. Je hebt in deze community natuurlijk gewoon toegang tot veel van de **Nederlandse crypto experts**.
+De community van MoneyTalks zorgt ervoor dat jij op de hoogte bent van de laatste trends. Wekelijks vind je er een **technische analyse van Madelon Vos** zelf en een moment om vragen te stellen. Daarnaast zijn er **wekelijkse Q&A's** waar ook jij je cryptovragen kunt stellen. Je hebt in deze community toegang tot veel van de **Nederlandse crypto-experts**.
 
-In de MoneyTalks community zijn verschillende kanalen te vinden namelijk:
+In de MoneyTalks-community zijn verschillende kanalen te vinden, namelijk:
 
 *   Chat
 *   Bitcoin only
-*   Alt-coins only
-*   Goed-zilver
+*   Altcoins only
+*   Goud-zilver
 *   Deel je technische analyse
 *   De beurs
 *   Technische analyse van Madelon Vos
 *   Dagelijkse update
 *   Belangrijke tweets
-*   Youtube video’s
+*   YouTube-video's
 *   Nieuwsfeed
 *   Q&A
 *   Cursussen
 *   Support links
 *   Feedback
 
-Wat je vooral vindt in de MoneyTalks community is **support** om jou verder op weg te helpen. Crypto is daarbij een enorm actuele markt en dingen kunnen van dag tot dag veranderen. Het is dan fijn als er een plek is die **up-to-date** blijft zodat jij steeds kunt inspelen op de laatste trends.
+Wat je vooral vindt in de MoneyTalks-community is **support** om jou verder op weg te helpen. Crypto is een enorm actuele markt en dingen kunnen van dag tot dag veranderen. Het is dan fijn als er een plek is die **up-to-date** blijft.
 
 Samen komen we verder, denk ik maar!
 
-De prijs voor de MoneyTalks community is **€33,08 per maand** als je deze direct voor een jaar afneemt. Een klein prijsje als je kijkt naar de waarde die zo’n community biedt.
+**Prijs MoneyTalks (op moment van schrijven):** €39,95 per maand, €107 per kwartaal of €399 per jaar (dat laatste komt neer op ruim 33 euro per maand). <!-- TODO: verify this data is still current -->
 
-Ook kun je met de knop hieronder **toegang krijgen tot de MoneyTalks Community voor €1,-**. Je hebt dan 30 dagen toegang om het eens uit te proberen.
+Ook kun je met de knop hieronder **30 dagen toegang krijgen tot MoneyTalks voor €1,-**. Let op: na die maand loopt het abonnement automatisch door tegen €39,95 per maand, dus zet een herinnering in je agenda als je alleen wilt proeven.
 
-[Meld je aan voor MoneyTalks Community](/go/moneytalkscommunity)
+[Meld je aan voor MoneyTalks](/go/moneytalkscommunity)
 
-## Prijs Crypto & Trading Academy
+## Opleiding Bouw, Beheer & Bescherm Vermogen
 
-De [Crypto en](/go/crypto-diamonds-deal) [Trading](/go/crypto-diamonds-deal) [Academy](/go/crypto-diamonds-deal) van Madelon Vos is er voor de echte fanatiekeling die direct goed aan de slag wilt met crypto en Bitcoin. Verder krijg je ook direct twee maanden toegang tot de MoneyTalks community.
+Naast de Academy heeft Madelon Vos een uitgebreidere opleiding: **Bouw, Beheer & Bescherm Vermogen** (BBB). Die gaat verder dan crypto alleen en behandelt hoe je vermogen opbouwt en spreidt over Bitcoin, aandelen, goud en zilver, en hoe je het beschermt tegen inflatie en slechte tijden. Zie het als de Academy plus vermogensplanning.
 
-Op de website van Madelon Vos kun je op dit moment nog de Crypto & Trading Academy bestellen **voor 697 euro**.
+De adviesprijs is 1.999 euro, op het moment van schrijven wordt de opleiding aangeboden voor 1.399 euro. <!-- TODO: verify this data is still current --> Ik heb deze opleiding zelf niet gevolgd, dus daar kan ik geen ervaring over delen. Voor wie alleen crypto wil leren begrijpen, is de Academy de logische keuze.
 
-Dit is ook de cursus waar ik zelf mee aan de slag ben gegaan en daar kan ik absoluut geen spijt van hebben. De technische analyses die ik leerde in dit pakket hebben me verder geholpen om daadwerkelijk winstgevende trades te maken.
+## Prijzen op een rij
 
-Je zou dan ook kunnen stellen dat de cursus van Madelon Vos **geen uitgave, maar een investering** is. Het helpt je immers om meer [geld te verdienen met crypto](/blog/web3/handelen-in-crypto-valuta/) en als we daarnaar kijken dan is het bedrag dat ze vraagt voor haar cursus een schijntje!
+| Product | Adviesprijs | Actieprijs (sept 2026) |
+|---|---|---|
+| Bitcoin en Technische Analyse Academy | €899 | €799, incl. 60 dagen MoneyTalks |
+| MoneyTalks-community | €39,95 p/m | €399 per jaar, of 30 dagen voor €1 |
+| Opleiding Bouw, Beheer & Bescherm Vermogen | €1.999 | €1.399 |
+
+<!-- TODO: verify this data is still current -->
+
+De [Academy](/go/crypto-diamonds-deal) van Madelon Vos is er voor wie direct goed aan de slag wil met crypto en Bitcoin. Dit is ook de cursus waar ik zelf mee aan de slag ben gegaan en daar heb ik geen spijt van. De technische analyses die ik leerde, hebben me geholpen om betere koop- en verkoopmomenten te kiezen.
+
+Je zou dan ook kunnen stellen dat de cursus van Madelon Vos **geen uitgave, maar een investering** is. Al blijft dat natuurlijk afhangen van wat je ermee doet: een cursus maakt je geen winstgevende trader, oefenen en discipline wel.
 
 ## Wat ik miste in de cursus van Madelon Vos
 
 Toch was er één ding dat ik miste in de cursus van Madelon Vos…
 
-De cursus is erg compleet als het gaat om Bitcoin en de grote cryptomunten. Je leert veel over technische analyses en noem het maar op. Maar waar het in de cursus niet over gaat zijn…
+De cursus is erg compleet als het gaat om Bitcoin en de grote cryptomunten. Je leert veel over technische analyse en noem maar op. Maar waar de cursus nauwelijks over gaat, zijn de **kleine altcoins**.
 
-**CRYPTO DIAMONDS**
+Ik bedoel dat als volgt. Natuurlijk kun je willen handelen in Bitcoin en andere grote cryptocurrencies. Maar het zou ook kunnen dat je een klein deel van je vermogen graag inzet op (nu nog) hele kleine cryptomunten die de potentie hebben om groot te worden. De markt kent **ruim 21.000 actieve munten**; hoe je daarin het kaf van het koren scheidt, komt in de Academy niet aan bod.
 
-Ik bedoel dat als volgt. Natuurlijk kun je willen handelen in Bitcoin en andere grote cryptocurrencies. Maar het zou ook kunnen dat je een deel van je vermogen graag inzet op (nu nog) hele kleine cryptomunten die de potentie hebben om héél groot te worden.
+Dat is een bewuste keuze van Madelon, en eerlijk gezegd een verdedigbare: de meeste kleine munten uit de vorige cyclus staan 80 tot 99% lager, en de verhalen over 100x-munten zijn vooral marketing. Wil je toch die kant op, lees dan eerst mijn artikel over [geld verdienen met crypto](/blog/web3/handelen-in-crypto-valuta/), waarin ik uitleg hoe ik daar zelf mee omga (klein deel van je portfolio, alleen geld dat je kunt missen).
 
-Het is belangrijk om te erkennen dat de markt **meer dan 25.000 geregistreerde cryptomunten** kent. Je zult nooit iedere kans kunnen benutten, maar toch.
+## Voor wie is de Academy bedoeld?
 
-Waar je bij Bitcoin 10x over de kop kunt gaan in een jaar, is dat bij sommige kleine munten wel **100x** (gevallen van 10.000x hebben zichzelf ook al laten zien).
+De [Bitcoin en Technische Analyse Academy](/go/crypto-diamonds-deal) is geschikt voor zowel beginners als gevorderden. Het begin was mij wat te simpel, maar enorm waardevol als je nieuw bent in de cryptowereld. Fijn is dat de cursus in niveau opbouwt, waardoor iedereen in staat is om de technische analyses mee te doen.
 
-Dat is absoluut niet zonder risico, maar je begrijpt dat zo’n investering zichzelf snel terugbetaald als je deze juist kunt spreiden.
+De cursus van Madelon Vos is niet voor jou bedoeld als je het niet interessant vindt om lichte analyses uit te voeren. Als je echt vies bent van cijfers, dan moet je je sowieso afvragen of actief traden wel de 'way to go' is. Periodiek een vast bedrag inleggen op Bitcoin vraagt geen cursus.
 
-Het is alsof je investeert in Bitcoin op het moment dat deze nog maar €100,- waard is…
+De aanvullende [**MoneyTalks-community**](/go/moneytalkscommunity) is vooral waardevol voor wie daadwerkelijk is begonnen met traden en op de hoogte wil blijven van de laatste ontwikkelingen.
 
-Ik zie het als een aanvulling op een gedegen crypto portfolio en denk dat dit voor iedereen die in crypto investeert waanzinnig interessant is om te weten welke nu nog kleine munten groot kunnen worden.
+## Kritiek op Madelon Vos
 
-Daarom wil ik je graag **een uniek aanbod doen in combinatie met de Crypto en Trading Academy van Madelon Vos**. Een aanbod waarmee je óók die crypto diamonds niet hoeft mis te lopen.
+Een eerlijke review noemt ook de kritiek. Begin 2023 schreef Follow the Money dat de cursussen van Madelon Vos voor ruim 2 miljoen euro via het STAP-budget (een overheidssubsidie voor scholing) waren gevolgd. Madelon reageerde dat haar opleidingen aan alle voorwaarden voldeden en het NRTO-keurmerk droegen; het STAP-budget bestaat inmiddels niet meer. In maart 2025 kwam haar naam voorbij in berichtgeving over een onderzoek naar 'finfluencers', waarop ze publiekelijk reageerde. <!-- TODO: verify de strekking van die berichtgeving en haar reactie voordat je dit uitbreidt -->
 
-## Voor wie is de Crypto & Trading Academy bedoelt?
-
-De [Bitcoin & Technische Analyse Academy](/go/crypto-diamonds-deal) is perfect voor zowel beginners als gevorderden. Het begin van de Crypto & Trading Academy was mij wat te simpel, maar enorm waardevol als je nieuw bent in de crypto wereld. Fijn is het in ieder geval dat de cursus in niveau opbouwt, waardoor iedereen in staat is om de technische analyses mee te doen.
-
-De cursus van Madelon Vos is niet voor jou bedoelt als je het niet interessant vind om lichte analyses uit te voeren. Als je echt vies bent van cijfers dan moet je je in ieder geval afvragen of crypto wel de ‘way to go’ is.
-
-De aanvullende [**MoneyTalks** **community**](/go/moneytalkscommunity) is daarbij enorm waardevol voor wie daadwerkelijk is begonnen met traden. Je wilt immers op de hoogte blijven van de laatste ontwikkelingen zodat je zeker bent dat je geld niet meer risico loopt dan je wenst.
+Wat ik zelf belangrijker vind: Madelon promoot ook partners waar ze zelf belang bij heeft, zoals goudhandelaar Goud999, en verdient aan de exchanges die ze aanraadt. <!-- TODO: verify (aandeelhouderschap Goud999) --> Dat is niet verkeerd (ik verdien ook aan de links in dit artikel), maar houd het in je achterhoofd als ze ergens enthousiast over is. Een waarschuwing van de AFM of een rechtszaak heb ik niet gevonden.
 
 ## Reviews Madelon Vos
 
-Wanneer je zelf een cursus aanschaft wil je natuurlijk weten wat anderen daarvan vinden. Daarom heb ik hieronder wat reviews opgesomd. Deze komen uit de honderden reviews die Madelon Vos krijgt via Facebook, Google en Instagram. Daar scoort ze tegen de **5 sterren** aan!
+Wanneer je zelf een cursus aanschaft, wil je natuurlijk weten wat anderen ervan vinden. Op Trustpilot scoort Madelon Vos op het moment van schrijven een **4,9 uit 5** op bijna 150 reviews. <!-- TODO: verify this data is still current --> Hieronder een paar reviews van cursisten, uit de tijd dat de cursussen nog 'Bitcoin Basics & Crypto's' en 'Handelen in Crypto's' heetten:
 
 > Madelon, je hebt het top gedaan, ik leer iedere dag meer, had eerst een cursus gedaan online bij een universiteit in Amerika.  
 > Daar heb ik ook veel geleerd, dit in combinatie met die van jou, begrijp ik nu heel veel meer.  
@@ -308,17 +311,14 @@ Wanneer je zelf een cursus aanschaft wil je natuurlijk weten wat anderen daarvan
 
 **Harry**, Bitcoin Basics & Crypto's
 
-> Deze cursus vond ik heel geweldig als beginner, het heeft mij kennis bij gebracht die ik nog niet wist en ik ga vast wel verder met de vervolg cursus A-Z.
+> Deze cursus vond ik heel geweldig als beginner, het heeft mij kennis bijgebracht die ik nog niet wist en ik ga vast wel verder met de vervolgcursus A-Z.
 
 **Luciano**, Bitcoin Basics & Crypto's
 
 > Zeer heldere uitleg en je leert hier zeker meer ivm technische analyse.  
 > Ik ben nooit een technische analist geweest maar was benieuwd naar wat ik nog kon leren
-> 
-> Zeker de moeite!  
-> Het knap gezichtje links onderaan is een pluspunt 😉
-> 
-> Thx voor de cursus Madelon
+>
+> Zeker de moeite!
 
 **Alex**, Handelen in Crypto's
 
@@ -326,29 +326,42 @@ Wanneer je zelf een cursus aanschaft wil je natuurlijk weten wat anderen daarvan
 
 **Henk**, Handelen in Crypto's
 
-Negatieve reviews heb ik niet kunnen vinden, dus we kunnen er vanuit gaan dat het goed zit bij Madelon Vos.
-
-Het enige dat af en toe voorbijkwam in de reviews was een gebrek aan informatie. Maar deze reviews doelde op de gratis cursussen die Madelon Vos aanbiedt. Dit zijn als het ware welkomstvideo’s en daarom erg beperkt.
+Een klein deel van de beoordelingen (zo'n 3%) geeft één of twee sterren. Lees die ook even voordat je koopt; het geeft een eerlijker beeld dan alleen de lovende reacties. Wat eerder in reviews voorbijkwam, was een gebrek aan diepgang, maar dat ging over de gratis cursussen: dat zijn als het ware welkomstvideo's en daarom beperkt.
 
 Daarover gesproken…
 
-## Gratis cursussen
+## Gratis cursussen en e-books
 
-Voor wie nog niet bekend is met Madelon Vos is het aan te raden om eerst een van haar gratis cursussen te volgen. Dan krijg je een beetje een idee van de trainingsstijl en weet je vast en zeker of de betaalde cursus aansluit op wat jij fijn vindt.
+Voor wie nog niet bekend is met Madelon Vos is het aan te raden om eerst iets van haar gratis materiaal te bekijken. Dan krijg je een idee van haar trainingsstijl en weet je of de betaalde cursus aansluit bij wat jij fijn vindt.
 
 [![Gratis trial Crypto en Trading Academy](/images/migrated/gratis-trail-crypto-en-trading-academy.webp)](/go/madelonvos)
 
-Ook kun je gratis het e-book downloaden ‘Bescherm uw vermogen’. Dit e-book gaat over het verdelen van vermogen over verschillende markten zoals crypto en aandelen. Als je een van haar gratis cursussen of e-book wilt ontvangen dan kan dat via [deze link](/go/madelonvos).
+Op het moment van schrijven biedt ze gratis aan: het e-book 'Bescherm je vermogen in de eindfase', een online masterclass, een minicursus en een Bullmarkt-rapport. <!-- TODO: verify this data is still current --> Als je haar gratis materiaal wilt ontvangen, kan dat via [deze link](/go/madelonvos).
 
 ## Conclusie Madelon Vos review
 
-Voor wie zichzelf wegwijs wilt maken in de cryptowereld is Madelon Vos de ‘place to be’! Met haar ervaring loopt ze voorop in Nederland op het gebied van Bitcoin en technische analyse.
+Voor wie zichzelf wegwijs wil maken in de cryptowereld is Madelon Vos nog steeds een van de beste Nederlandstalige opties. Met ruim tien jaar ervaring loopt ze voorop in Nederland op het gebied van Bitcoin en technische analyse, en ze legt het uit op een manier die blijft hangen.
 
-**Het aanbod van Madelon Vos:**
+**Het aanbod van Madelon Vos in 2026:**
 
-*   Crypto en Trading Academy
-*   MoneyTalks Community
+*   Bitcoin en Technische Analyse Academy (€799 op moment van schrijven)
+*   MoneyTalks-community (vanaf €1 voor de eerste 30 dagen)
+*   Opleiding Bouw, Beheer & Bescherm Vermogen
 
-Ik raad de content van Madelon Vos aan iedereen aan die zijn vermogen wil doen groeien. Zelf heb ik het meest gehad aan de technische analyse en op dat vlak enorm veel nieuwe dingen geleerd.
+Ik raad de Academy aan iedereen aan die actief met crypto aan de slag wil en bereid is om grafieken te leren lezen. Zelf heb ik het meest gehad aan de technische analyse en op dat vlak enorm veel nieuwe dingen geleerd. Wil je alleen maandelijks wat Bitcoin kopen en verder niets? Dan heb je deze cursus niet nodig en kun je beter mijn [gids over geld verdienen met crypto](/blog/web3/handelen-in-crypto-valuta/) lezen.
 
-**Succes met jouw crypto avontuur!**
+**Succes met jouw crypto-avontuur!**
+
+## Veelgestelde vragen over Madelon Vos
+
+**Is de cursus van Madelon Vos betrouwbaar?**
+Ja. Haar bedrijf Fintastic Media Group B.V. is een erkende opleider met NRTO-keurmerk, je hebt 14 dagen niet-goed-geld-terug en ze scoort 4,9 op Trustpilot. Verwacht alleen geen wonderen: technische analyse is een hulpmiddel, geen glazen bol.
+
+**Wat kost de Bitcoin en Technische Analyse Academy?**
+Adviesprijs €899, op het moment van schrijven €799 inclusief 60 dagen MoneyTalks. Betalen in termijnen kan.
+
+**Kan ik MoneyTalks eerst uitproberen?**
+Ja, 30 dagen voor €1 via [deze link](/go/moneytalkscommunity). Daarna loopt het abonnement automatisch door tegen €39,95 per maand, tenzij je opzegt.
+
+**Is Madelon Vos geschikt voor beginners?**
+Ja, de Academy begint bij nul. Gevorderden kunnen de eerste module overslaan en direct naar de technische analyse.
