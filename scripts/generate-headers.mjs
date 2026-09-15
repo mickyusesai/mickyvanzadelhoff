@@ -24,7 +24,7 @@ const ARTICLES = path.join(ROOT, 'src/content/articles');
 const OUT_DIR = path.join(ROOT, 'public/images/headers');
 const MOTIFS = JSON.parse(fs.readFileSync(path.join(ROOT, 'src/data/header-motifs.json'), 'utf8'));
 const ENDPOINT = 'https://fal.run/fal-ai/recraft/v3/text-to-image';
-const DEFAULT_STYLE = 'digital_illustration/grain';
+const DEFAULT_STYLE = 'digital_illustration/2d_art_poster'; // Micky's pick, round 1 (D22)
 const SIZE = { width: 1820, height: 1024 }; // Recraft's 16:9 size; resized to 1600x900 on save
 
 // Electric playground palette plus the tints needed for a landscape (see CLAUDE.md, design).
@@ -41,24 +41,27 @@ export const PALETTE = {
   coral: '#FF5C5C',
 };
 
+// The scene comes first because Recraft weights the start of the prompt most; the landscape is
+// only the backdrop, so every header is recognisable by its own object (Micky, round 1).
+export const BACKDROP_PROMPT =
+  'Backdrop: a simple flat landscape of rolling hills made of rounded overlapping shapes, a peach sun low behind the hills, ' +
+  'a few long clouds, one or two dark silhouetted trees at the edges, tall grass blades along the bottom.';
+
 export const STYLE_PROMPT =
-  'Flat, layered landscape illustration with a soft paper-grain texture, like the cover of a modern picture book: ' +
-  'rolling hills built from overlapping rounded shapes, a big soft sun with concentric sky bands, long drifting clouds, ' +
-  'simple trees with thin dark branches, tiny dotted highlights on the slopes, tall foreground grass blades and a few small round flowers. ' +
-  'Calm, warm, slightly whimsical, wide composition with open sky. No text, no letters, no logos, no faces.';
+  'Flat poster illustration with a subtle grain texture, bold simple shapes, minimal detail, no outlines, light and airy overall. ' +
+  'No text, no letters, no logos, no faces.';
 
 export const COLOUR_PROMPT =
-  'Colour palette, strictly: very pale lilac sky and clouds, lavender and electric violet hills, deep violet shadows, ' +
-  'lime and pale lime for the sunlit slopes, a peach sun glow, near-black indigo for the foreground silhouettes, ' +
-  'and coral only as tiny flower accents.';
+  'Colours, strictly: pale lilac sky and clouds, lavender and electric violet hills with deep violet shadows, ' +
+  'lime and pale lime sunlit slopes, a peach sun, near-black indigo silhouettes, and coral only for one small accent on the centerpiece.';
 
 const CATEGORY_MOTIF = {
-  ondernemen: 'a small desk with an open laptop standing on the nearest hilltop, a winding path leading up to it',
-  digitalenomaden: 'a traveller with a backpack, seen from behind, walking a winding path over the hills towards the sun',
-  'online-geld-verdienen': 'a small tree on the nearest hill whose round leaves look like coins, a winding path below it',
-  web3: 'a few floating geometric crystals above the hills, connected by thin lines like a constellation',
-  tips: 'a wooden signpost at a fork in a winding path over the hills',
-  review: 'a large magnifying glass resting on the nearest hilltop with the sun seen through its lens',
+  ondernemen: 'a big open laptop standing on the nearest hilltop',
+  digitalenomaden: 'a traveller with a large backpack, seen from behind, walking a winding path over the hills',
+  'online-geld-verdienen': 'a small tree whose round leaves are coins, standing alone on the nearest hill',
+  web3: 'a large faceted crystal floating above the nearest hill',
+  tips: 'a wooden signpost with three arms standing at a fork in a winding path',
+  review: 'a large magnifying glass standing upright on the nearest hilltop',
 };
 
 const args = process.argv.slice(2);
@@ -86,7 +89,7 @@ function readArticles() {
 
 export function buildPrompt(article) {
   const motif = MOTIFS[article.slug] || CATEGORY_MOTIF[article.category] || CATEGORY_MOTIF.tips;
-  return `${STYLE_PROMPT} Scene: ${motif}. ${COLOUR_PROMPT}`;
+  return `Centerpiece: ${motif}, drawn large in the middle of the frame, filling about half of the image height, clearly the main subject. ${BACKDROP_PROMPT} ${STYLE_PROMPT} ${COLOUR_PROMPT}`;
 }
 
 const hexToRgb = (h) => ({ r: parseInt(h.slice(1, 3), 16), g: parseInt(h.slice(3, 5), 16), b: parseInt(h.slice(5, 7), 16) });
