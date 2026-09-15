@@ -96,13 +96,13 @@ export function buildPrompt(article) {
 
 const hexToRgb = (h) => ({ r: parseInt(h.slice(1, 3), 16), g: parseInt(h.slice(3, 5), 16), b: parseInt(h.slice(5, 7), 16) });
 
-async function generate(prompt, style) {
+async function generate(prompt, style, size = SIZE) {
   const key = process.env.FAL_KEY;
   if (!key) throw new Error('FAL_KEY is not set (environment or .env)');
   const res = await fetch(ENDPOINT, {
     method: 'POST',
     headers: { Authorization: `Key ${key}`, 'Content-Type': 'application/json' },
-    body: JSON.stringify({ prompt, style, image_size: SIZE, colors: Object.values(PALETTE).map(hexToRgb) }),
+    body: JSON.stringify({ prompt, style, image_size: size, colors: Object.values(PALETTE).map(hexToRgb) }),
     signal: AbortSignal.timeout(180_000),
   });
   if (!res.ok) throw new Error(`fal ${res.status}: ${(await res.text()).slice(0, 300)}`);
@@ -184,4 +184,8 @@ async function main() {
   console.log(`done: ${done} ok, ${failed} failed`);
 }
 
-main().catch((e) => { console.error(e); process.exit(1); });
+// Only run when executed directly; scripts/generate-spots.mjs imports the palette and prompts.
+if (process.argv[1] && import.meta.url === new URL(`file://${path.resolve(process.argv[1])}`).href) {
+  main().catch((e) => { console.error(e); process.exit(1); });
+}
+export { generate, loadEnv };

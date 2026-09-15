@@ -2,22 +2,30 @@
 export const prerender = true;
 import Layout from '../layouts/Layout.astro';
 import Blobs from '../components/Blobs.astro';
-import { SITE } from '../config/site';
+import ClientStrip from '../components/ClientStrip.astro';
+import { FACTS, SITE } from '../config/site';
+import { spot } from '../lib/spots';
+
+const reasons = [
+  { icon: 'contact-workshop', title: 'Een workshop inplannen.', text: 'Een dagdeel introductie of een hele bouwweek, in-company door heel Nederland.' },
+  { icon: 'contact-sparren', title: 'Even sparren.', text: 'Je twijfelt of er in jouw processen iets te halen valt. Vaak is dat in tien minuten duidelijk.' },
+  { icon: 'contact-bouwen', title: 'Iets laten bouwen.', text: `Een tool, een automatisering, een koppeling. Zoals EasyReimburse, dat ${FACTS.easyReimburseOrgs.replace('+', '')} organisaties per project een werkweek scheelt.` },
+];
 ---
-<Layout title="Contact" description="Vragen over een AI-workshop of hulp nodig? Mail of app Micky van Zadelhoff. Binnen 24 uur antwoord.">
+<Layout title="Contact" description="Vraag over een AI-workshop, of een proces dat sneller kan? App of mail Micky van Zadelhoff. Binnen 24 uur antwoord, meestal dezelfde dag.">
   <section class="relative overflow-hidden">
     <Blobs />
     <div class="wrap relative z-10 grid gap-6 py-14 sm:py-20">
       <p class="eyebrow animate-rise">Contact</p>
       <h1 class="max-w-3xl text-[40px] font-extrabold leading-[1.02] tracking-tight animate-rise [animation-delay:.1s] sm:text-[58px]">Binnen 24 uur <span class="highlight">antwoord</span>.</h1>
       <p class="max-w-prose text-lg text-muted animate-rise [animation-delay:.2s] sm:text-xl">
-        Heb je vragen over de AI-workshops of kun je mijn hulp ergens bij gebruiken? Je mag me een mailtje sturen of appen. Hoe dan ook krijg je snel van mij een antwoord ;).
+        Heb je een vraag over de AI-workshops, of loopt er in jouw bedrijf een proces waarvan je vermoedt dat het sneller kan? App me gerust. Ik reageer zelf, meestal dezelfde dag. Je hoeft niet eerst uitgedacht te hebben wat je wil.
       </p>
       <div class="grid gap-4 animate-rise [animation-delay:.3s] sm:grid-cols-2 sm:max-w-2xl">
         <a href={SITE.whatsappUrl} rel="noopener" class="sticker sticker-hover grid gap-2 bg-lime p-6">
           <p class="eyebrow text-ink">WhatsApp</p>
           <p class="font-display text-xl font-bold">{SITE.whatsapp}</p>
-          <p class="text-sm text-ink/70">Het snelst. Stuur gewoon een berichtje.</p>
+          <p class="text-sm text-ink/70">Het snelst. Eén berichtje is genoeg.</p>
         </a>
         <a href={`mailto:${SITE.email}`} class="sticker sticker-hover grid gap-2 p-6">
           <p class="eyebrow">E-mail</p>
@@ -25,11 +33,29 @@ import { SITE } from '../config/site';
           <p class="text-sm text-muted">Voor offertes en langere vragen.</p>
         </a>
       </div>
-      <dl class="grid gap-1 text-sm text-muted">
-        <div class="flex gap-3"><dt class="w-20 font-bold text-ink">Naam</dt><dd>{SITE.name}</dd></div>
-        <div class="flex gap-3"><dt class="w-20 font-bold text-ink">KVK</dt><dd>{SITE.kvk}</dd></div>
-        <div class="flex gap-3"><dt class="w-20 font-bold text-ink">LinkedIn</dt><dd><a href={SITE.linkedin} rel="noopener" class="text-violet hover:underline">Micky van Zadelhoff</a></dd></div>
-      </dl>
     </div>
+  </section>
+
+  <section class="wrap py-6 sm:py-10">
+    <p class="eyebrow reveal">Waar mensen me meestal voor benaderen</p>
+    <ul class="mt-5 grid gap-5 md:grid-cols-3">
+      {reasons.map((r, i) => (
+        <li class="reveal sticker grid gap-3 bg-surface p-6" data-delay={i + 1}>
+          <img src={spot(r.icon)} alt="" width="96" height="96" loading="lazy" class="spot h-20 w-20" />
+          <p class="font-display text-lg font-bold">{r.title}</p>
+          <p class="text-muted">{r.text}</p>
+        </li>
+      ))}
+    </ul>
+  </section>
+
+  <div class="py-8"><ClientStrip compact /></div>
+
+  <section class="wrap pb-16">
+    <dl class="grid gap-1 text-sm text-muted">
+      <div class="flex gap-3"><dt class="w-20 font-bold text-ink">Naam</dt><dd>{SITE.name}</dd></div>
+      <div class="flex gap-3"><dt class="w-20 font-bold text-ink">KVK</dt><dd>{SITE.kvk}</dd></div>
+      <div class="flex gap-3"><dt class="w-20 font-bold text-ink">LinkedIn</dt><dd><a href={SITE.linkedin} rel="noopener" class="text-violet hover:underline">Micky van Zadelhoff</a></dd></div>
+    </dl>
   </section>
 </Layout>

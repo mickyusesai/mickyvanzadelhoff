@@ -1,33 +1,140 @@
 ---
 export const prerender = true;
-import { getEntry, render } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
-import PressStrip from '../components/PressStrip.astro';
 import Blobs from '../components/Blobs.astro';
+import ClientStrip from '../components/ClientStrip.astro';
+import StatBar from '../components/StatBar.astro';
+import PressRow from '../components/PressRow.astro';
+import { FACTS, SITE } from '../config/site';
+import { spot } from '../lib/spots';
 
-const page = await getEntry('pages', 'over-mij');
-if (!page) throw new Error('src/content/pages/over-mij.md is missing');
-const { Content } = await render(page);
+// Copy and structure follow Micky's repositioning briefing (2026-09-15, decision D23).
+const roots = [
+  { href: '/blog/tips/ervaring-turkije-fietsen/', img: '/images/headers/ervaring-turkije-fietsen.webp', label: 'Fietste naar Turkije' },
+  { href: '/blog/tips/ibiza-lounger/', img: '/images/headers/ibiza-lounger.webp', label: '200 stoelen op Ibiza' },
+  { href: '/blog/tips/wereldreis-maken-zonder-geld/', img: '/images/headers/wereldreis-maken-zonder-geld.webp', label: `${FACTS.countries} landen` },
+];
 ---
-<Layout title={page.data.title} description={page.data.description ?? ''} image="/images/micky/mick-van-zadelhoff-de-moderne-nomaden.webp">
+<Layout title="Over Micky" description={`Micky van Zadelhoff geeft AI-workshops aan bedrijven. ${FACTS.workshops} workshops, ${FACTS.participants} deelnemers, en software die hij zelf bouwde zonder programmeerachtergrond.`} image="/images/micky/workshop-technogym.webp">
   <section class="relative overflow-hidden">
     <Blobs />
-    <div class="wrap relative z-10 grid items-center gap-10 py-14 md:grid-cols-[3fr_2fr] sm:py-20">
+    <div class="wrap relative z-10 grid items-center gap-10 py-14 md:grid-cols-[5fr_6fr] sm:py-20">
       <div class="grid gap-5">
         <p class="eyebrow animate-rise">Over Micky</p>
         <h1 class="text-[40px] font-extrabold leading-[1.02] tracking-tight animate-rise [animation-delay:.1s] sm:text-[58px]">Micky van Zadelhoff</h1>
-        <p class="max-w-prose text-xl text-muted animate-rise [animation-delay:.2s]">Digital nomad, AI-trainer en luchtkasteelarchitect. Drie verhaaltjes zeggen meer dan een cv.</p>
+        <p class="max-w-prose text-lg text-muted animate-rise [animation-delay:.2s] sm:text-xl">AI-trainer, ondernemer en bouwer. Sinds {FACTS.workshopsSince} gaf ik {FACTS.workshops} AI-workshops aan ruim 2000 mensen: van Nederlandse familiebedrijven tot docenten in {FACTS.schoolCountries} Europese landen. Daarnaast bouw ik zelf software die ik een paar jaar geleden nooit had kunnen maken.</p>
       </div>
-      <div class="relative mx-auto w-full max-w-sm animate-rise [animation-delay:.3s]">
-        <img src="/images/micky/mick-van-zadelhoff-de-moderne-nomaden.webp" alt="Micky van Zadelhoff" width="1200" height="956" class="sticker w-full object-cover" />
-        <span class="chip absolute -left-3 top-6 bg-lime shadow-sticker-sm animate-bob [--tilt:-6deg]">Fietste naar Turkije</span>
+      <div class="relative animate-rise [animation-delay:.3s]">
+        <img src="/images/micky/workshop-technogym.webp" alt="Micky van Zadelhoff voor een groep tijdens een AI-workshop bij Technogym Benelux" width="1200" height="689" class="sticker w-full object-cover" />
+        <span class="chip absolute -left-3 top-6 bg-lime shadow-sticker-sm animate-bob [--tilt:-6deg]">{FACTS.workshops} workshops</span>
       </div>
     </div>
   </section>
-  <PressStrip />
-  <article class="wrap py-12">
-    <div class="prose prose-lg mx-auto max-w-prose">
-      <Content />
+
+  <section class="wrap pb-10">
+    <StatBar />
+  </section>
+
+  <ClientStrip />
+
+  <section class="wrap py-16 sm:py-24">
+    <div class="reveal grid items-center gap-10 md:grid-cols-[6fr_5fr]">
+      <div class="grid gap-4">
+        <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">Het begon met een nat turflijstje</h2>
+        <div class="prose prose-lg max-w-prose">
+          <p>Elke zomer runnen we een kamp voor vijftig singles per week. In de bar pakken mensen hun eigen drankjes uit de koelkast en zetten er een streepje voor op een lijst. Die lijsten worden nat. Ze scheuren. En aan het eind van de week zit iemand alles met de hand op te tellen. Dat kost echte uren, van iemand die in die uren ook gasten had kunnen helpen.</p>
+          <p>Begin 2026 heb ik er in een paar uur een app voor gebouwd. Geen weken werk, geen bureau, geen offerte. Diezelfde zomer bewees hij zich meteen.</p>
+          <p>Dat is precies het punt. Twee jaar eerder was dit onmogelijk. Om zoiets kleins zelf te maken had je serieuze programmeerkennis nodig en vooral heel veel tijd. Die drempel is weg. En zodra je dat doorhebt, zie je overal om je heen processen die hetzelfde lot verdienen. In jouw bedrijf ook. Daar durf ik geld op te zetten.</p>
+        </div>
+      </div>
+      <div class="relative mx-auto w-full max-w-sm">
+        <img src={spot('over-turflijstje')} alt="Illustratie: een nat turflijstje" width="640" height="640" loading="lazy" class="sticker w-full object-cover" />
+        <img src={spot('over-bar-app')} alt="" width="140" height="140" loading="lazy" class="spot absolute -bottom-6 -right-4 h-28 w-28 animate-bob [--tilt:6deg] sm:h-36 sm:w-36" />
+      </div>
     </div>
-  </article>
+  </section>
+
+  <section class="band-dark relative overflow-hidden">
+    <div aria-hidden="true" class="pointer-events-none absolute inset-0 z-0 overflow-hidden">
+      <div class="orb right-[5%] top-8 h-16 w-16 animate-drift [--orb-a:#D4F75B] [--orb-b:#8FBF1C] [--orb-c:#33470C] sm:h-24 sm:w-24"></div>
+      <div class="absolute -left-32 -bottom-32 h-96 w-96 rounded-full bg-violet/30 blur-3xl"></div>
+    </div>
+    <div class="wrap relative z-10 grid items-center gap-10 py-16 sm:py-24 md:grid-cols-[5fr_6fr]">
+      <div class="reveal grid gap-4">
+        <p class="eyebrow">EasyReimburse</p>
+        <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">Van bar-app naar echt product</h2>
+        <p class="max-w-prose text-white/80">Sindsdien ben ik doorgegaan. EasyReimburse is inmiddels een product dat op de markt staat: deelnemers aan Europese projecten uploaden hun reisbewijzen, AI leest ze uit en de coördinator krijgt een auditklaar rapport voor het Nationaal Agentschap. Ruim veertig organisaties gebruiken het. Het scheelt ze per project een volle werkweek.</p>
+        <p class="max-w-prose text-white/80">Ik bouwde het omdat ik er zelf elke keer dagen aan kwijt was. Zo werkt de <a href="/ai-workshops/bouwen-met-claude-code/" class="font-bold text-lime underline decoration-lime/50 underline-offset-2">bouwweek</a> ook: we pakken het proces waar jouw team de meeste tijd aan verliest, en aan het eind van de week draait het.</p>
+      </div>
+      <a href="https://easyreimburse.ai/" rel="noopener" target="_blank" class="reveal sticker sticker-hover grid gap-4 bg-surface p-7 text-ink sm:grid-cols-[auto_1fr] sm:items-center" data-delay="1">
+        <img src={spot('stat-easyreimburse')} alt="" width="120" height="120" loading="lazy" class="spot h-24 w-24 sm:h-28 sm:w-28" />
+        <div class="grid gap-2">
+          <p class="eyebrow">easyreimburse.ai</p>
+          <p class="font-display text-2xl font-bold leading-tight">Travel Reimbursements From Weeks to Minutes</p>
+          <p class="text-sm text-muted">Reisbewijzen uploaden via een link, AI leest routes, data en bedragen uit, een tweede AI controleert, één klik voor het auditrapport. Gebruikt door {FACTS.easyReimburseOrgs} organisaties.</p>
+          <span class="text-sm font-bold text-violet">Bekijk EasyReimburse →</span>
+        </div>
+      </a>
+    </div>
+  </section>
+
+  <section class="wrap py-16 sm:py-24">
+    <div class="reveal grid gap-8 md:grid-cols-[5fr_6fr] md:items-start">
+      <div class="grid gap-4">
+        <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">"AI werkt niet" bestaat niet</h2>
+        <div class="prose prose-lg max-w-prose">
+          <p>Als iemand me vertelt dat AI niet goed werkt, weet ik meestal genoeg. Diegene heeft het één keer iets gevraagd, kreeg een matig antwoord en concludeerde dat de technologie nog niet zover is. Terwijl het aan de vraag lag.</p>
+          <p>Wat ontbreekt zijn niet de modellen. Wat ontbreekt zijn de toepassingen: iemand die kijkt naar hoe jullie werken en daarna bouwt wat er nodig is. Daar kun je mij voor inhuren.</p>
+        </div>
+        <div class="flex flex-wrap gap-3 pt-2">
+          <a href="/ai-workshops/" class="btn btn-primary">Bekijk de AI-workshops</a>
+          <a href={SITE.whatsappUrl} rel="noopener" class="btn btn-lime">Stuur een WhatsApp</a>
+        </div>
+      </div>
+      <blockquote class="sticker relative bg-lime p-8 sm:p-10 md:mt-4">
+        <span aria-hidden="true" class="absolute -top-5 left-6 font-display text-7xl font-bold leading-none text-violet">"</span>
+        <p class="font-display text-2xl font-bold leading-snug sm:text-[32px]">AI kan in de huidige kwaliteit al de helft van al het kantoorwerk overnemen.</p>
+        <footer class="mt-4 text-sm font-bold text-ink/70">— Micky van Zadelhoff</footer>
+      </blockquote>
+    </div>
+  </section>
+
+  <section class="wrap py-8 sm:py-12">
+    <div class="reveal grid gap-8">
+      <div class="grid gap-4 md:max-w-3xl">
+        <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">Waar ik vandaan kom</h2>
+        <div class="prose prose-lg max-w-prose">
+          <p>Voor de duidelijkheid: ik ben geen programmeur. Ik heb geen programmeerachtergrond en kom uit online marketing, SEO en webdesign.</p>
+          <p>Wat ik wel deed. Ik fietste van Nederland naar Turkije zonder enige fietservaring, vertrekkend midden in de Europese winter. Ik bouwde De Moderne Nomaden uit tot een blog met tienduizenden lezers per maand en schreef er ruim 170 artikelen voor, <a href="/blog/">die nu allemaal hier staan</a>. Ik importeerde tweehonderd opblaasstoelen uit China om ze op Ibiza te verkopen, begreep niets van Spaanse importregels en gaf er uiteindelijk 165 weg aan een goed doel. Ik werkte en reisde in {FACTS.countries} landen en onderneem nog altijd internationaal.</p>
+          <p>Wat die jaren me opleverden is geen technische kennis. Het is de gewoonte om iets te proberen voordat ik weet of het gaat werken. Dat blijkt precies de vaardigheid die je nodig hebt om met AI te bouwen.</p>
+          <p class="text-base"><a href="/blog/tips/ibiza-lounger/">Lees het hele verhaal van de Ibiza-blunder</a> · <a href="/boek/">Download het gratis boek</a></p>
+        </div>
+      </div>
+      <ul class="grid gap-5 sm:grid-cols-3">
+        {roots.map((r, i) => (
+          <li>
+            <a href={r.href} class="reveal sticker sticker-hover block overflow-hidden bg-surface" data-delay={i + 1}>
+              <img src={r.img} alt="" width="700" height="394" loading="lazy" class="aspect-[16/9] w-full object-cover" />
+              <p class="px-4 py-3 text-sm font-bold">{r.label}</p>
+            </a>
+          </li>
+        ))}
+      </ul>
+      <PressRow />
+    </div>
+  </section>
+
+  <section class="wrap py-16 sm:py-24">
+    <div class="reveal sticker grid items-center gap-6 bg-violet-soft p-8 sm:grid-cols-[auto_1fr_auto] sm:p-10">
+      <img src={spot('over-koffie')} alt="" width="120" height="120" loading="lazy" class="spot h-24 w-24 animate-bob [--tilt:-4deg]" />
+      <div class="grid gap-2">
+        <h2 class="text-2xl font-bold sm:text-3xl">Koffie?</h2>
+        <p class="max-w-prose text-muted">Wil je sparren over AI in jouw bedrijf, stuur gerust een appje. Ik reageer zelf, meestal dezelfde dag. Grootse offertes kunnen, maar appen werkt sneller.</p>
+      </div>
+      <div class="flex flex-wrap gap-3">
+        <a href={SITE.whatsappUrl} rel="noopener" class="btn btn-primary">Stuur een WhatsApp</a>
+        <a href={`mailto:${SITE.email}`} class="btn btn-ghost">Mail Micky</a>
+      </div>
+    </div>
+  </section>
 </Layout>

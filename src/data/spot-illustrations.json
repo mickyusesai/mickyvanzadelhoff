@@ -1,0 +1,72 @@
+[
+  {
+    "name": "workshop-introductie",
+    "kind": "icon",
+    "prompt": "a big glowing light bulb with three small four-pointed sparkles around it"
+  },
+  {
+    "name": "workshop-bouwweek",
+    "kind": "icon",
+    "prompt": "a robot arm stacking three building blocks, the top block coral"
+  },
+  {
+    "name": "stat-workshops",
+    "kind": "icon",
+    "prompt": "a flipchart on an easel with a bold rising zigzag line drawn on the paper"
+  },
+  {
+    "name": "stat-deelnemers",
+    "kind": "icon",
+    "prompt": "a row of four simple chairs seen from the front, one chair coral"
+  },
+  {
+    "name": "stat-landen",
+    "kind": "icon",
+    "prompt": "a globe on a stand with a small paper plane circling it"
+  },
+  {
+    "name": "stat-easyreimburse",
+    "kind": "icon",
+    "prompt": "a train ticket with a big lime check mark on it and a small sparkle"
+  },
+  {
+    "name": "contact-workshop",
+    "kind": "icon",
+    "prompt": "a desk calendar with one day marked by a big coral dot"
+  },
+  {
+    "name": "contact-sparren",
+    "kind": "icon",
+    "prompt": "two coffee cups side by side with soft steam rising"
+  },
+  {
+    "name": "contact-bouwen",
+    "kind": "icon",
+    "prompt": "a big violet wrench and a lime gear wheel crossed over each other, on a plain pale lilac background"
+  },
+  {
+    "name": "over-turflijstje",
+    "kind": "icon",
+    "prompt": "a sheet of paper with rows of tally marks, damp and curling at the corners, with two water drops on it"
+  },
+  {
+    "name": "over-bar-app",
+    "kind": "icon",
+    "prompt": "a smartphone showing three tally bars on its screen and a big coral check mark"
+  },
+  {
+    "name": "over-geen-programmeur",
+    "kind": "icon",
+    "prompt": "an open laptop with a small plant sprouting from its keyboard, one leaf coral"
+  },
+  {
+    "name": "over-koffie",
+    "kind": "icon",
+    "prompt": "a coffee cup with a small rounded speech bubble floating above it"
+  },
+  {
+    "name": "waarom-bewijs",
+    "kind": "icon",
+    "prompt": "a rosette ribbon award badge with a lime centre"
+  }
+]

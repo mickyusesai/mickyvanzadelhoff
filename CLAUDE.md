@@ -14,6 +14,14 @@ His key expertises and products are:
 - **Digital Nomad Book** ("Verhalen en lessen uit een vrij leven") — free book, lead magnet
 - **De Moderne Nomaden** — his original content blog (demodernenomaden.nl), being migrated here
 
+**Positioning (Micky's briefing, 2026-09-15, decision D23):** the audience is the MKB director who is
+weighing an AI workshop; the wanted action is a WhatsApp or mail. Proof comes first, the nomad past is
+context only. The proof numbers live in `FACTS` in `src/config/site.ts` and must be used from there:
+142 AI-workshops since 2024, 2000+ participants, 53 countries, 40+ organisations on EasyReimburse,
+170+ articles; clients Technogym Benelux, Mooijer Volendam, Holstein Flowers (`CLIENTS`); press in
+`PRESS`. Never write "42 landen", "1000+ mensen" or "luchtkasteelarchitect" again. EasyApplications is
+not mentioned anywhere.
+
 The tone of the site is: **warm, personal, storytelling-driven**. Micky shares real experiences,
 not corporate speak. The design should feel like a person, not a brand agency.
 
@@ -46,13 +54,18 @@ URLs have no language prefix: `/blog/[category]/[slug]/`, `/over/`, `/boek/`, `/
 ## Site Structure & Pages
 
 ### Primary pages (AI workshops first, personal brand second):
-1. **Homepage** (`/`) — Micky's photo, the two AI workshops, press logos, free book, recent posts.
+Navigation is AI-workshops · Over Micky · Blog · Contact (the book is in the footer only, D23); the
+header button says "Stuur een WhatsApp".
+1. **Homepage** (`/`) — Micky's photo, the two AI workshops, client logos ("Gaf workshops bij"),
+   stat bar, "Ik bouw wat ik anderen leer bouwen" with a workshop photo, free book, recent posts.
 2. **AI-workshops** (`/ai-workshops/`) — Hub. One page per workshop at `/ai-workshops/[slug]/`,
    built from `src/content/workshops/*.md`: `ai-introductie` (3 h, €1.500) and
    `bouwen-met-claude-code` (5 days, max 3 people, €7.500). Adding a workshop = adding a file.
-3. **About** (`/over/`) — Personal story, press mentions. Also the only place Erasmus+ (one
-   paragraph) and EasyReimburse (built with AI, link to https://easyreimburse.ai/) are mentioned.
-   No separate EasyReimburse or Erasmus+ pages (decisions D9, D10).
+3. **About** (`/over/`) — Built directly in `over.astro` from the briefing: hero with workshop photo,
+   stat bar, client logos, "nat turflijstje" story, EasyReimburse, the "AI werkt niet bestaat niet"
+   stance with the big quote, "Waar ik vandaan kom" with a compact press row, coffee CTA. The old
+   `src/content/pages/over-mij.md` is no longer rendered. No separate EasyReimburse or Erasmus+
+   pages (decisions D9, D10).
 4. **Book** (`/boek/`) — Free book, **direct PDF download** at `/downloads/Digital-Nomad-Boek.pdf`.
    No email capture (D6).
 5. **Blog** (`/blog/`) — Secondary in navigation. Category `web3` is kept online but hidden from
@@ -183,6 +196,11 @@ to the same path on mickyvanzadelhoff.com (decision D21); no host check in the a
 - **Header images:** generated per article with `scripts/generate-headers.mjs` (Recraft V3 on fal.ai,
   needs `FAL_KEY`), scenes in `src/data/header-motifs.json`, output in `public/images/headers/`.
   Style and palette are defined in the script; see plan Phase 7.
+- **Spot illustrations / icons** for the main pages: `scripts/generate-spots.mjs`, prompts in
+  `src/data/spot-illustrations.json`, output in `public/images/spots/`, referenced through
+  `src/lib/spots.ts`. See plan Phase 8 for what worked and what did not.
+- **Photos:** `public/images/micky/workshop-technogym.webp` is the workshop photo used on the homepage
+  and /over/ (a 1200px copy of the migrated Technogym photo; Micky has sharper originals to add).
 - **Typography:** Generous sizing, readable. Good for long-form Dutch text.
 - **Mobile-first** — majority of blog traffic is mobile
 - **Fast:** motion must not cost content speed. No animation libraries; CSS + one small

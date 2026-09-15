@@ -1,0 +1,18 @@
+---
+/** Compact "In het nieuws" row: linked logos, wordmark for outlets without a logo file. Used on /over/ only. */
+import { PRESS } from '../config/site';
+---
+<section aria-label="In het nieuws" class="reveal grid gap-4">
+  <p class="text-[11px] font-extrabold uppercase tracking-[0.16em] text-muted">In het nieuws</p>
+  <ul class="flex flex-wrap items-center gap-x-7 gap-y-4">
+    {PRESS.map((p) => (
+      <li>
+        <a href={p.url} rel="noopener" target="_blank" title={`${p.name}: lees het artikel`} class="inline-flex items-center opacity-80 transition-opacity hover:opacity-100">
+          {p.logo
+            ? <img src={p.logo} alt={p.name} loading="lazy" class="h-6 w-auto max-w-[120px] grayscale" />
+            : <span class="font-display text-[14px] font-bold tracking-tight text-ink">{p.name}</span>}
+        </a>
+      </li>
+    ))}
+  </ul>
+</section>

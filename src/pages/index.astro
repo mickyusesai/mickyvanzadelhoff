@@ -3,31 +3,26 @@ export const prerender = true;
 import Layout from '../layouts/Layout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import WorkshopCard from '../components/WorkshopCard.astro';
-import PressStrip from '../components/PressStrip.astro';
+import ClientStrip from '../components/ClientStrip.astro';
+import StatBar from '../components/StatBar.astro';
 import Blobs from '../components/Blobs.astro';
 import { getCollection } from 'astro:content';
-import { SITE } from '../config/site';
+import { FACTS, SITE } from '../config/site';
 import { getListedArticles } from '../lib/articles';
 
 const workshops = (await getCollection('workshops', ({ data }) => !data.draft)).sort((a, b) => a.data.order - b.data.order);
 const recent = (await getListedArticles()).slice(0, 6);
 const headline = ['Hoi,', 'ik', 'ben', 'Micky.', 'Ik', 'help', 'bedrijven'];
-const stats = [
-  ['42', 'landen gewerkt en gereisd'],
-  ['1000+', 'mensen geholpen richting een vrij leven'],
-  ['170+', 'artikelen sinds 2017'],
-  ['50.000', 'keer gelezen per maand, op het hoogtepunt'],
-];
 ---
 <Layout
   title="Micky van Zadelhoff – AI-workshops voor bedrijven"
-  description="AI-trainer, ondernemer en schrijver. Praktische AI-workshops waarmee jouw team direct tijd bespaart, plus verhalen en lessen uit een vrij leven."
+  description={`AI-trainer en bouwer. ${FACTS.workshops} AI-workshops sinds ${FACTS.workshopsSince}, ${FACTS.participants} deelnemers, en software die hij zelf bouwde zonder programmeerachtergrond. In-company door heel Nederland.`}
 >
   <section class="relative overflow-hidden">
     <Blobs />
     <div class="wrap relative z-10 grid items-center gap-12 py-14 md:grid-cols-[6fr_5fr] md:py-20">
       <div class="grid gap-6">
-        <p class="eyebrow animate-rise">AI-trainer · ondernemer · schrijver</p>
+        <p class="eyebrow animate-rise">AI-trainer · ondernemer · bouwer</p>
         <h1 class="text-[40px] font-bold leading-[1.02] tracking-[-0.03em] sm:text-[54px] lg:text-[66px]">
           {headline.map((w, i) => <span class="hero-word" style={`--i:${i}`}>{w}</span>)}
           <span class="hero-word" style="--i:7"><span class="highlight">écht</span></span>
@@ -38,7 +33,7 @@ const stats = [
         </p>
         <div class="flex flex-wrap gap-3 animate-rise [animation-delay:.75s]">
           <a href="/ai-workshops/" class="btn btn-primary">Bekijk de AI-workshops</a>
-          <a href="/over/" class="btn btn-ghost">Wie is Micky?</a>
+          <a href={SITE.whatsappUrl} rel="noopener" class="btn btn-ghost">Stuur een WhatsApp</a>
         </div>
       </div>
       <div class="relative mx-auto w-full max-w-[460px] animate-rise [animation-delay:.3s]">
@@ -47,12 +42,12 @@ const stats = [
         <img src="/images/micky/mick-van-zadelhoff-de-moderne-nomaden.webp" alt="Micky van Zadelhoff" width="1200" height="956"
              class="relative aspect-square w-full rounded-[46%_54%_40%_60%/50%_40%_60%_50%] border-2 border-ink object-cover" />
         <span class="chip absolute -right-2 top-6 bg-lime shadow-sticker-sm animate-bob [--tilt:8deg]">AI-trainer</span>
-        <span class="chip absolute -left-3 bottom-10 bg-white shadow-sticker-sm animate-bob [--tilt:-6deg] [animation-delay:1.3s]">42 landen</span>
+        <span class="chip absolute -left-3 bottom-10 bg-white shadow-sticker-sm animate-bob [--tilt:-6deg] [animation-delay:1.3s]">{FACTS.workshops} workshops · {FACTS.countries} landen</span>
       </div>
     </div>
   </section>
 
-  <PressStrip />
+  <ClientStrip />
 
   <section class="band-dark relative overflow-hidden">
     <div aria-hidden="true" class="pointer-events-none absolute inset-0 z-0 overflow-hidden">
@@ -69,25 +64,21 @@ const stats = [
       <div class="mt-10 grid gap-8 md:grid-cols-2">
         {workshops.map((w, i) => <WorkshopCard workshop={w} variant={i === 1 ? 'violet' : 'light'} delay={i + 1} />)}
       </div>
-      <dl class="reveal mt-14 grid gap-6 border-t border-white/15 pt-8 sm:grid-cols-4" data-delay="2">
-        {stats.map(([n, label]) => (
-          <div class="grid gap-1">
-            <dt class="font-display text-3xl font-bold text-lime sm:text-4xl">{n}</dt>
-            <dd class="text-sm text-white/70">{label}</dd>
-          </div>
-        ))}
-      </dl>
+      <StatBar dark class="mt-14 border-t border-white/15 pt-10" />
     </div>
   </section>
 
   <section class="wrap py-16 sm:py-24">
-    <div class="reveal grid items-center gap-10 md:grid-cols-[2fr_3fr]">
-      <img src="/images/micky/mick.webp" alt="Micky van Zadelhoff in een fauteuil, met een banaan als telefoon" width="1200" height="1200" loading="lazy"
-           class="sticker w-full max-w-sm justify-self-center object-cover md:justify-self-start" />
+    <div class="reveal grid items-center gap-10 md:grid-cols-[3fr_3fr]">
+      <div class="relative">
+        <img src="/images/micky/workshop-technogym.webp" alt="Micky van Zadelhoff geeft een AI-workshop bij Technogym Benelux" width="1200" height="689" loading="lazy"
+             class="sticker w-full object-cover" />
+        <span class="chip absolute -left-3 -top-3 bg-lime shadow-sticker-sm animate-bob [--tilt:-5deg]">Live bij Technogym</span>
+      </div>
       <div class="grid gap-4">
         <p class="eyebrow">Over Micky</p>
-        <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">Digital nomad, AI-trainer en luchtkasteelarchitect.</h2>
-        <p class="max-w-prose text-lg text-muted">Ik fietste van Nederland naar Turkije, bouwde De Moderne Nomaden uit tot een blog met tienduizenden lezers per maand en verloor een zomer aan 200 opblaasstoelen op Ibiza. Sinds een paar jaar help ik bedrijven met AI, en bouw ik er zelf mee: <a href="https://easyreimburse.ai/" rel="noopener" class="font-bold text-violet underline decoration-lime decoration-[3px] underline-offset-2">EasyReimburse</a> brengt reiskostendeclaraties voor Erasmus+ projecten van weken naar minuten.</p>
+        <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">Ik bouw wat ik anderen leer bouwen.</h2>
+        <p class="max-w-prose text-lg text-muted">Op ons kamp telde iemand elke week met de hand natte turflijstjes op om te weten wie wat gedronken had. Begin 2026 bouwde ik daar in een paar uur een app voor. Datzelfde jaar bracht ik <a href="https://easyreimburse.ai/" rel="noopener" class="font-bold text-violet underline decoration-lime decoration-[3px] underline-offset-2">EasyReimburse</a> op de markt, dat ruim veertig organisaties per project een volle werkweek scheelt. Ik heb geen programmeerachtergrond. Dat is precies waarom ik weet dat jouw team dit ook kan.</p>
         <a href="/over/" class="btn btn-ghost w-fit">Lees mijn verhaal</a>
       </div>
     </div>
@@ -98,7 +89,7 @@ const stats = [
       <div class="grid gap-3">
         <p class="eyebrow text-ink">Gratis boek</p>
         <h2 class="text-2xl font-bold sm:text-3xl">Digital nomad: verhalen en lessen uit een vrij leven</h2>
-        <p class="max-w-prose text-ink/80">Van een vanlife in de Balkan tot een fietstocht naar Turkije: het eerlijke verhaal van zes jaar reizen en online werken. 176 pagina's, direct te downloaden, geen e-mail nodig.</p>
+        <p class="max-w-prose text-ink/80">Het boek over mijn jaren als digital nomad: van een vanlife in de Balkan tot een fietstocht naar Turkije. 176 pagina's, direct te downloaden, geen e-mail nodig.</p>
       </div>
       <div class="flex md:justify-end">
         <a href="/boek/" class="btn btn-primary">Download het boek</a>
@@ -111,6 +102,7 @@ const stats = [
       <div class="grid gap-2">
         <p class="eyebrow">Blog</p>
         <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">Uit het blog</h2>
+        <p class="text-muted">Ruim 170 artikelen uit mijn jaren als De Moderne Nomaden, plus wat ik nu over AI schrijf.</p>
       </div>
       <a href="/blog/" class="btn btn-ghost">Alle artikelen</a>
     </div>
@@ -127,7 +119,7 @@ const stats = [
         <h2 class="text-3xl font-bold tracking-tight sm:text-[40px] sm:leading-[1.08]">Klaar om je team écht met AI te laten werken?</h2>
         <p class="max-w-prose text-ink/80">Een appje is genoeg. In een kort gesprek kijken we wat voor jouw team het meeste oplevert.</p>
         <div class="flex flex-wrap gap-3">
-          <a href={SITE.whatsappUrl} rel="noopener" class="btn btn-primary">Plan een gesprek</a>
+          <a href={SITE.whatsappUrl} rel="noopener" class="btn btn-primary">Stuur een WhatsApp</a>
           <a href={`mailto:${SITE.email}`} class="btn btn-ghost">Mail {SITE.email}</a>
         </div>
       </div>
