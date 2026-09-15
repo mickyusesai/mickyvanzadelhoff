@@ -7,7 +7,7 @@ import { SITE } from '../../config/site';
 import { WORKSHOP_ICONS, spot } from '../../lib/spots';
 
 export async function getStaticPaths() {
-  const workshops = await getCollection('workshops', ({ data }) => !data.draft);
+  const workshops = await getCollection('workshops', ({ data }) => !data.draft && !data.href);
   return workshops.map((workshop) => ({ params: { slug: workshop.data.slug }, props: { workshop } }));
 }
 const { workshop } = Astro.props;
@@ -54,7 +54,7 @@ const icon = WORKSHOP_ICONS[d.slug];
   {others.length > 0 && (
     <section class="wrap py-6">
       {others.map((w) => (
-        <a href={`/ai-workshops/${w.data.slug}/`} class="reveal sticker sticker-hover flex flex-wrap items-center justify-between gap-4 bg-violet-soft p-6">
+        <a href={w.data.href ?? `/ai-workshops/${w.data.slug}/`} class="reveal sticker sticker-hover flex flex-wrap items-center justify-between gap-4 bg-violet-soft p-6">
           <div><p class="eyebrow">Ook interessant</p><p class="mt-1 font-display text-xl font-bold">{w.data.title}</p><p class="text-sm text-muted">{w.data.duration} · {w.data.participants} · {w.data.price}</p></div>
           <span class="btn btn-ghost">Bekijk</span>
         </a>

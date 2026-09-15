@@ -36,6 +36,7 @@ const workshops = defineCollection({
     subtitle: z.string(),
     description: z.string().max(170),
     slug: z.string(),
+    href: z.string().optional(),   // custom page instead of /ai-workshops/[slug]/ (e.g. /automatisering/)
     order: z.number().default(0),
     duration: z.string(),
     location: z.string(),

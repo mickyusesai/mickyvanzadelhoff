@@ -19,7 +19,7 @@ draft: false
 
 De ontwikkelingen gaan zo snel dat de meeste teams door de bomen het bos niet meer zien. Bij een eerdere training werd me zelfs gevraagd om iedere drie maanden terug te komen voor een update. Ondertussen kan AI in de huidige kwaliteit al de helft van het kantoorwerk overnemen. Wat ontbreekt zijn de toepassingen: iemand die kijkt naar hoe jullie werken en laat zien wat daarin kan.
 
-Dat is deze introductie. Geen praatje over de toekomst, maar drie uur waarin je team ziet wat ChatGPT, Claude en de andere tools vandaag al doen ([mijn lijst met de beste](/blog/ondernemen/ai-tools-lijst/)), en direct oefent op jullie eigen werk: administratie, klantenservice, marketing, HR, sales. Het is bewust een **introductie**. Je legt een basis waarop je als bedrijf verder kunt bouwen, bijvoorbeeld in de [bouwweek met Claude Code](/ai-workshops/bouwen-met-claude-code/).
+Dat is deze introductie. Geen praatje over de toekomst, maar drie uur waarin je team ziet wat ChatGPT, Claude en de andere tools vandaag al doen ([mijn lijst met de beste](/blog/ondernemen/ai-tools-lijst/)), en direct oefent op jullie eigen werk: administratie, klantenservice, marketing, HR, sales. Het is bewust een **introductie**. Je legt een basis waarop je als bedrijf verder kunt bouwen, bijvoorbeeld in de [AI-automatisering op maat](/automatisering/).
 
 ## Programma
 
@@ -65,8 +65,8 @@ Nee. De introductie is gemaakt voor het hele team, van directie tot receptie. Wi
 **Wij gebruiken al ChatGPT. Heeft het dan nog zin?**
 Juist dan. De meeste teams gebruiken het als een betere zoekmachine en laten de rest liggen: documenten analyseren, processen automatiseren, een eigen assistent maken. Ik pas het programma aan op waar jullie staan.
 
-**Kunnen we het combineren met de bouwweek?**
-Ja, en dat is de logische volgorde: eerst ziet het hele team wat er kan, daarna bouwen drie mensen een automatisering die het bedrijf direct tijd bespaart. Vaak plannen we de bouwweek een paar weken na de introductie.
+**Kunnen we het combineren met een automatiseringstraject?**
+Ja, en dat is de logische volgorde: eerst ziet het hele team wat er kan, daarna kom ik meedraaien en bouwen we samen met twee van jullie mensen een automatisering die het bedrijf direct tijd bespaart. Vaak plannen we dat traject een paar weken na de introductie. Lees meer over [AI-automatisering op maat](/automatisering/).
 
 **Hoe snel kan het?**
 Meestal binnen twee tot vier weken. App me en we prikken een datum.
