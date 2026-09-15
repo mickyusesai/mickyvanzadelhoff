@@ -181,9 +181,9 @@ Bij veel van de modules uit de training vind je ook testen om te kijken of je de
 
 **De 13 modules zijn als volgt opgebouwd.**
 
-### **Deel 1: Beginnen met crypto (8 modules)**
+### Deel 1: Beginnen met crypto (8 modules)
 
-### 1\. Het geld van de toekomst
+### 1. Het geld van de toekomst
 
 1.  De absolute kern – geld
 2.  Het digitale goud – Bitcoin
@@ -197,7 +197,7 @@ Deze eerste module kun je zien als **een inleiding in crypto**, blockchain, Bitc
 
 Je leert hier over **de historie van geld** en hoe dit gerelateerd is aan crypto. Ook begrijp je na deze module dat er toekomst in crypto zit en dat het nog op tijd is om **in Bitcoin te investeren** (onder bepaalde voorwaarden).
 
-### 2\. Je eerste cryptocurrency
+### 2. Je eerste cryptocurrency
 
 ![Je eerste crypto uitbetalen (les crypto masterclass)](/images/migrated/crypto-masterclass-je-eerste-crypto-les-bitvavo.webp "Je eerste crypto uitbetalen (les crypto masterclass)")
 
@@ -206,11 +206,11 @@ Je leert hier over **de historie van geld** en hoe dit gerelateerd is aan crypto
 3.  Crypto bemachtigen in de laagste regionen
 4.  Decentrale exchanges zijn de toekomst
 
-Je gaat jouw eerste crypto kopen via een crypto broker! Eerst doe je dit via **[Bitvavo](/go/bitvavo)** ([\> zie Bitvavo review](/blog/review/bitvavo-review-crypto/)) omdat dit relatief simpel is, daarna ga je in deze module de diepte in op het gebied van Binance ([\> zie Binance review](/blog/review/binance-review-crypto-exchange/)).
+Je gaat jouw eerste crypto kopen via een crypto broker! Eerst doe je dit via **[Bitvavo](/go/bitvavo)** ([› zie Bitvavo review](/blog/review/bitvavo-review-crypto/)) omdat dit relatief simpel is, daarna ga je in deze module de diepte in op het gebied van Binance ([› zie Binance review](/blog/review/binance-review-crypto-exchange/)).
 
 **Beiden zijn [cryptocurrency exchanges](/blog/web3/beste-crypto-exchange/)** (brokers), maar die laatste heeft wat meer opties en is dus minder gericht op de beginnende trader. Ook leer je hier over IDEX, BitMEX, marge trading, leverages en Litebit.
 
-### 3\. Maak een killer start!
+### 3. Maak een killer start!
 
 1.  Je grootste vijand ben jij
 2.  Ontmasker iedere oplichter
@@ -221,7 +221,7 @@ Zoals ik eerder al zei zijn ook de, hoe ik ze noem, Bitcoinboys, er niet in gesl
 
 In deze lessen nemen ze je mee door wat er allemaal fout kan gaan en hoe jij daar het beste op inspeelt.
 
-### 4\. Je onbreekbare kluis
+### 4. Je onbreekbare kluis
 
 1.  Jouw digitale kluis – crypto wallets
 2.  Je papieren portemonnee – paper wallets
@@ -237,7 +237,7 @@ In deze module leer je over die verschillende methoden, welke en hoe jij deze he
 
 > **Een van die methoden (en de meest gebruikte) is om jouw crypto op te slaan op een hardware wallet. In de Crypto Masterclass wordt daarvoor de [Ledger Nano S](/go/ledger-nano-s) aangeraden.**
 
-### 5\. Je winsten cashen!
+### 5. Je winsten cashen!
 
 ![Winsten uitbetalen via Bitvavo (les crypto masterclass)](/images/migrated/winsten-uitbetalen-bitvavo-crypto-masterclass.webp "Winsten uitbetalen via Bitvavo (les crypto masterclass)")
 
@@ -251,7 +251,7 @@ Je wilt dus weten **hoe je met een Bitcoin euro’s kunt kopen** en hoe je de ve
 
 In deze module gaan Patrick Suiker en Derek Westra in op de uitbetalingen via [Binance](/blog/review/binance-review-crypto-exchange/), Bitvavo, Bitonic en BitMEX. Die laatste vereist een uitbetaling door te ‘kraken’. **Alle info die je nodig hebt om je geld te innen dus**.
 
-### 6\. De allereerste investeerder zijn (ICO’s)
+### 6. De allereerste investeerder zijn (ICO’s)
 
 1.  Wat is een ICO?
 2.  Hoe doe je mee aan een ICO?
@@ -262,7 +262,7 @@ Hierbij koop je munten van een cryptovaluta die net is gestart of aan het starte
 
 Uit ‘The Zone’ (community) kan ik overigens opmaken dat ze bij AllesOverCrypto binnenkort een samenwerking lanceren met een betrouwbare partner. Deze samenwerking zal als gevolg hebben dat je kunt investeren in een cryptomunt nog **voordat deze verhandelbaar is**. Daar liggen grote kansen.
 
-### 7\. Een passief crypto inkomen
+### 7. Een passief crypto inkomen
 
 ![Passief crypto inkomen opbouwen](/images/migrated/passief-inkomen-crypto.webp "passief-inkomen-crypto")
 
@@ -276,7 +276,7 @@ Geld verdienen met crypto is breder dan alleen crypto verhandelen. Zo kun je ook
 
 Een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/) houdt overigens in dat je geld verdient terwijl je daar op dat moment niet voor werkt. Het is dus niet zo dat je niets doet, maar geld kan ook tijdens het slapen binnenkomen.
 
-### 8\. De crypto-trends de baas
+### 8. De crypto-trends de baas
 
 1.  Hoe werkt Metamask?
 2.  Hoe werkt Uniswap? Deel 1 – Swappen
@@ -286,9 +286,9 @@ In deze module worden nieuwe lessen neergezet over opkomende trends in de crypto
 
 Belangrijk om te weten wanneer je in crypto stapt; deze markt veranderd continu. Het is dus goed om te zien dat de Crypto Masterclass zich daar met regelmaat op aanpast.
 
-### **Deel 2: Geld verdienen met crypto (5 modules)**
+### Deel 2: Geld verdienen met crypto (5 modules)
 
-### 1\. The Winning Mindset
+### 1. The Winning Mindset
 
 ![Mindset training (les crypto masterclass)](/images/migrated/mindset-training-crypto-masterclass-1.webp "Mindset training (les crypto masterclass)")
 
@@ -307,7 +307,7 @@ Belangrijk om te weten wanneer je in crypto stapt; deze markt veranderd continu.
 
 Vaak heeft dat te maken met een gebrek aan motivatie. De skills worden namelijk net zoals bij de Crypto Masterclass prima aangeleerd, daar zal het niet liggen. Maar **de mindset om [online geld te verdienen](/blog/online-geld-verdienen/online-geld-verdienen/)** kun je dus ook leren en dat doe je in deze onmisbare module!
 
-### 2\. Vrijheid dankzij crypto trading
+### 2. Vrijheid dankzij crypto trading
 
 1.  Investeren versus crypto trading
 2.  De basis van trading: de crypto exchange
@@ -327,9 +327,9 @@ Het doel van deze module? **De vrijheid creëren** zodat jij kunt [werken vanwaa
 
 Je doet deer door te leren over technische analyse. Daardoor heb je meer grip op de koers en kun je beste koop en verkoopmomenten herkennen.
 
-### 3\. De beste crypto trading tools en indicatoren
+### 3. De beste crypto trading tools en indicatoren
 
-![](/images/migrated/crypto-trading-tools.webp "crypto-trading-tools")
+![Crypto trading tools](/images/migrated/crypto-trading-tools.webp "crypto-trading-tools")
 
 1.  Profiteer van de trend met de Moving Average
 2.  Voorspel elke reversal met RSI
@@ -343,7 +343,7 @@ Voor deze module heb je als cursist al kennis gemaakt met het lezen van grafieke
 
 Kennis is macht zou je kunnen stellen. Met **de technieken** die hier worden besproken ben je in staat om te voorspellen wat de koers gaat doen en dus waar jij jouw geld op in moet zetten.
 
-### 4\. Word crypto trading master
+### 4. Word crypto trading master
 
 1.  Word één met de markt met Order Flow Dynamics
 2.  Bitcoin is King
@@ -359,7 +359,7 @@ Als het goed is zie je nu dat deze training absoluut niet alleen voor de beginne
 
 In deze module gaat het vooral over de verschillende manieren van technische analyse. Als je daar nu nog bang van wordt, geen zorgen! Dit onderdeel is echt bedoelt voor de mensen die daarin geïnteresseerd zijn en niet vereist om te beginnen met traden.
 
-### 5\. Crypto trading extra lessen
+### 5. Crypto trading extra lessen
 
 1.  Letten op koop- of verkoopmomenten met timeframes?
 2.  Trendlijnen en Patronen
@@ -472,41 +472,41 @@ Verder heb je bij de Crypto Masterclass altijd **14 dagen bedenktijd**. In die t
 
 Met regelmaat hoor ik nog vragen over de [Crypto Masterclass](/go/crypto-training). Deze hoop ik in dit onderdeel nog wat beter te kunnen beantwoorden.
 
-#### [BEN IK TE LAAT OM MET CRYPTO TE STARTEN?](#1ec8efd13e9ffaa22)
+#### BEN IK TE LAAT OM MET CRYPTO TE STARTEN?
 
 **Nee**. Een grote misvatting is dat crypto alleen maar een hype is. Natuurlijk zijn de digitale munten hypegevoelig, maar crypto en blockchain zijn al een hele lange tijd met ons. Wat veel mensen niet weten is dat een piek zoals de Bitcoin die had in 2017 (en 2021) al 5 keer eerder is voorkomen, **procentueel** dan. Nu komt het steeds in het nieuws, maar de crypto beweegt al meer dan 10 jaar in marktcyclussen. Te laat ben je dus zeker niet, er zijn nog genoeg nieuwe cryptomunten met gigantische potentie te ontdekken. En wanneer jij nu begint met leren over crypto behoor je bij die eerste 5% die er verstand van heeft ;).
 
-#### [HOE SNEL VERDIEN IK MIJN 997,- EURO INVESTERING TERUG?](#1664efa3cdb2baf46)
+#### HOE SNEL VERDIEN IK MIJN 997,- EURO INVESTERING TERUG?
 
 Een investering van tegen de 1000 euro doe je niet zomaar. Dus hoe erg je ook gelooft in de training en de waarde daarvan vraag je je wellicht af hoe snel je jouw investering terug kunt verdienen. Natuurlijk ligt dit volledig aan jouw eigen inzet, maar uit de gesprekken in ‘The Zone’ (besloten community) kan ik opmaken dat veel mensen **binnen één maand** dit punt zijn gepasseerd. Zie de Crypto Masterclass dus ook zeker niet als een uitgave, maar als een investering die het meer dan waard is.
 
-#### [VOOR WIE IS DE CRYPTO MASTERCLASS?](#2448bd96811132e50)
+#### VOOR WIE IS DE CRYPTO MASTERCLASS?
 
 Nu kan ik een mooi verhaal ophangen en zeggen dat iedereen in crypto kan traden. Hoewel dat deels klopt, zal niet iedereen er succesvol mee worden. Buiten het gereedschap dat de Crypto Masterclass biedt, heb je tijd nodig om de vaardigheden aan te leren en moet je een zekere interesse hebben in het onderwerp.
 
 Als die twee dingen er zijn dan is crypto voor jou mogelijk en helpt de training **zowel de beginner als de gevorderde**. Afhankelijk van het instapniveau kun je beginnen bij les 1 of ergens halverwege instappen. Let wel op, voor beginners is het zeer aan te raden om de lessen op volgorde te doorlopen.
 
-#### [HOEVEEL GELD MOET IK IN CRYPTO INVESTEREN?](#24a12ab313d1b0014)
+#### HOEVEEL GELD MOET IK IN CRYPTO INVESTEREN?
 
 Een groot verschil met **[de aandelenmarkt](/blog/online-geld-verdienen/aandelen-handelen/)** is dat je bij crypto niet al rijk hoeft te zijn om rijk te worden. Vooral de alt-coins kunnen enorm omhoog schieten. Dan hebben we het niet over 10% op jaarbasis, maar over soms wel **50% per dag**. Daardoor kun je met een vrij klein kapitaal al beginnen met het traden van crypto. Zelf begon ik te traden met **slechts enkele honderden euro’s**.
 
-#### [ALLES OVER CRYPTO / MADELON VOS ?](#599f94d51d44864e0)
+#### ALLES OVER CRYPTO / MADELON VOS ?
 
 Op deze website ga ik ook in op de [**cursussen van Madelon Vos**](/blog/review/madelon-vos-review-bitcoin-crypto-traden/). Zij heeft een iets ander trainingsaanbod dan Alles Over Crypto. Het grootste verschil zit hem in de insteek. Alles Over Crypto gaat veelal over hoe je van weinig geld een groot vermogen kan maken door crypto. Bij **[Madelon Vos](/blog/review/madelon-vos-review-bitcoin-crypto-traden/)** ligt de insteek veel meer op het duurzaam laten groeien van al bestaand vermogen door te investeren in Bitcoin, goud en aandelen.
 
-#### [WAAR KAN IK CRYPTO CURRENCY KOPEN?](#7f4e38c3e8103e820)
+#### WAAR KAN IK CRYPTO CURRENCY KOPEN?
 
 Op deze vraag zijn vele antwoorden. Het simpele verhaal is dat je de **60 grootste cryptomunten** kunt kopen via het Nederlandse platform **Bitvavo** (**[lees hier de Bitvavo review](/blog/review/bitvavo-review-crypto/)**). Met **[deze link](/go/bitvavo)** kun je daar jouw eerste 1000,- euro traden zonder handelskosten ;).
 
 In de Crypto Masterclass ga je echter ook zoeken naar opkomende cryptomunten. Deze zijn nog erg klein en daarom niet beschikbaar in de grotere exchanges. Vaak koop je die munten bij **Hotbit, Binance en Trade Ogre**. Deze exchanges zijn moeilijker te gebruiken en daarom wel pas aan te raden voor mensen die zich in de materie hebben verdiept.
 
-#### [IN WELKE MUNTEN INVESTEER JIJ MICK?](#750aaee074e91f993)
+#### IN WELKE MUNTEN INVESTEER JIJ MICK?
 
 Op het moment van schrijven heb ik ingezet op een combinatie van **Vechain Thor (VET), Ethereum (ETH), Chainlink (LINK) en Zilliqa (ZIL)**. Deze munten zijn allemaal te koop via **[Bitvavo](/go/bitvavo)**.
 
 Een andere munt welke mij inspireerde na de Cryptocurrency cursus was Pirate Chain (ARRR). Daar heb ik dus ook enkele tientjes staan, maar deze was moeilijker te verkrijgen en daarbij waren de tips uit de cursus dus meer dan welkom!
 
-#### [WAAR KAN IK DE CRYPTO MASTERCLASS MET KORTING KOPEN?](#e8a7e546fbda407fb)
+#### WAAR KAN IK DE CRYPTO MASTERCLASS MET KORTING KOPEN?
 
 De Crypto Masterclass kun je op de website van AllesOverCypto kopen. Het enige nadeel is echter dat je daar dan wel de volle mep voor betaald. Om **gebruik te maken van de aanbieding voor 997,- euro**, zal je het webinar willen volgen. Deze is gratis en daarin krijg je de kans om de training met korting aan te schaffen.
 

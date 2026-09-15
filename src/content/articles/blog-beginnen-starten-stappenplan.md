@@ -32,7 +32,7 @@ Zo vind je op deze website vooral evergreen blogs, **welke goed indexeren in Goo
 
 In onderstaande video leg ik **binnen 20 minuten** uit hoe jij **jouw eigen blog start**. Je kunt deze bekijken of verder lezen, alle stappen worden ook in dit artikel beschreven.
 
-**\> Bekijk Blog Bonus Deal** _(opent in nieuw tabblad)_
+**› Bekijk Blog Bonus Deal** _(opent in nieuw tabblad)_
 
 ## Stap 1: Onderwerp/niche van jouw blog
 
@@ -104,7 +104,7 @@ Om je een idee te geven van **blog niches en onderwerpen** heb ik er hieronder *
     
 *   Zelfontwikkeling
     
-*   **[\> Bekijk 101+ blog niches](/blog/ondernemen/blog-niches/)**
+*   **[› Bekijk 101+ blog niches](/blog/ondernemen/blog-niches/)**
     
 
 Belangrijk om rekening mee te houden wanneer je zoekt naar een goed blogonderwerp is dat sommige niches winstgevender kunnen zijn dan anderen.
@@ -227,7 +227,7 @@ Als je de stappen tot nu toe hebt gevolgd wordt WordPress op dit moment geïnsta
 
 Wanneer je de volgende 4 mailtjes hebt gekregen van Cloud86 ben je er klaar voor!
 
-![](/images/migrated/mails-wordpress-blog-aangemaakt.webp "mails-wordpress-blog-aangemaakt")
+![Mails wordpress blog aangemaakt](/images/migrated/mails-wordpress-blog-aangemaakt.webp "mails-wordpress-blog-aangemaakt")
 
 Klik op **mail 1** om jouw e-mail te bevestigen. Dit is handig, mocht je ooit je inloggegevens vergeten. Vervolgens kun je in **mail 4** jouw loginnaam vinden voor WordPress.
 

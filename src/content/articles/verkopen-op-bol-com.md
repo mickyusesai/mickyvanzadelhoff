@@ -50,15 +50,15 @@ Om te starten zal je eerst een [verkoopaccount](/go/partner-bol) aan moeten make
 
 Bol.com stelt enkele voorwaarden voor het verkopen via hun platform. Hiermee willen ze de verwachtingen die klanten van hun hebben in stand houden. Jij als verkoper moet minstens aan het volgende voldoen:
 
-### 1\. Jouw artikelen moeten een EAN hebben
+### 1. Jouw artikelen moeten een EAN hebben
 
 **Een EAN-code is een unieke cijferreeks per product** waarmee het kan worden geïdentificeerd. Dit gebeurt op Europees niveau, EAN staat dan ook voor European Article Numbering. In het geval van boeken, volstaat een ISBN nummer.
 
-### 2\. Jouw producten
+### 2. Jouw producten
 
 Jouw producten moeten binnen 8 dagen geleverd kunnen worden, moeten binnen één van de al bestaande Bol.com categorieën passen en moeten binnen 30 dagen retour kunnen worden gezonden.
 
-### 3\. Klantenservice
+### 3. Klantenservice
 
 Je dient over een klantenservice te beschikken waar klanten binnen 24 uur antwoord kunnen krijgen op een vraag.
 
@@ -92,7 +92,7 @@ Dat is de voorraad en daarmee kunnen we gaan kijken naar hoe goed het product op
 
 Nu heb je als het goed is **vier getallen van de voorraad**. Daarmee kun je berekenen hoeveel producten er per dag zijn verkocht. Dat zou er als volgt uit moeten zien.
 
-![](/images/migrated/verkooptabel-bol-com.webp "verkooptabel-bol-com")
+![Verkooptabel bol com](/images/migrated/verkooptabel-bol-com.webp "verkooptabel-bol-com")
 
 _© Fictief aantal verkopen op Bol.com_
 
@@ -122,15 +122,9 @@ Dat is handig, want zo kun jij jouw versie van het product **onderscheidend make
 
 **LET OP**. Staar je niet blind op de inkoopprijs. De totale kostprijs van jouw product zal zich namelijk nog aanvullen met de **kosten van logistiek transport, BTW en importrechten**.
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
 
 ## De logistiek, BTW en invoerrechten
 
@@ -142,7 +136,7 @@ Ik **importeerde destijds air loungers (lamzakken) vanuit China**. De prijs per 
 
 **De totale kostprijs** voor dit proces was dus **12,50 dollar** per air lounger in plaats van de 5 dollar die ik in het begin op Alibaba tegenkwam. Nog steeds niet slecht, maar lang niet zo goed als eerst gedacht…
 
-![](/images/migrated/ibiza-lounger-bob-strand-relaxen.webp "ibiza-lounger-bob-strand-relaxen")
+![Ibiza lounger bob strand relaxen](/images/migrated/ibiza-lounger-bob-strand-relaxen.webp "ibiza-lounger-bob-strand-relaxen")
 
 Je doet er goed aan om eerst eens **een paar offertes aan te vragen** voor het gewenste aantal stuks **mét logistiek naar Nederland**. Vaak kunnen leveranciers in China dit voor jou berekenen.
 
@@ -194,7 +188,7 @@ Als alles in orde is kun je **een grotere partij gaan inkopen bij de leverancier
 
 Als alles in orde is, kun je kijken of je kunt herinvesteren. Misschien zijn er nog andere producten waarmee je aan de slag wilt. Je start het gehele proces overnieuw en onderhoud je al goed presterende product. Zo breid je beetje bij beetje uit tot een **booming business**!
 
-![](data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27498%27%20height%3D%27280%27%20viewBox%3D%270%200%20498%20280%27%3E%3Crect%20width%3D%27498%27%20height%3D%27280%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E "geld-gooien-gif")
+![Geld gooien gif](data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27498%27%20height%3D%27280%27%20viewBox%3D%270%200%20498%20280%27%3E%3Crect%20width%3D%27498%27%20height%3D%27280%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E "geld-gooien-gif")
 
 De kans dat je **grote fouten gaat maken** als je begint met een eigen e-commerce business is echter 100%. Verwacht dus zeker niet dat alles direct goed gaat zodra je begint met verkopen op Bol.com.
 
@@ -232,12 +226,3 @@ Daarom raad ik eenieder die wil gaan verkopen op Bol.com graag aan om zich erin 
 
 **Kijk altijd of je klein kunt beginnen en breid dan verder uit, zo loop je het minste risico! Succes.**
 
-#### _GRATIS Digital Nomad Boek_
-
-## **Dé inspiratie voor een vrij leven**
-
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

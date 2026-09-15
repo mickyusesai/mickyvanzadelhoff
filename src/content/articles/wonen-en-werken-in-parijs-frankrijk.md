@@ -14,7 +14,7 @@ Wonen en werken in Parijs als [digital nomad](/blog/digitalenomaden/digital-noma
 
 Parijs is echter wel een dure stad om te wonen als digital nomad. Ook heb ik vaak te maken gehad met Franse arrogantie. Al is dat misschien ook iets typisch voor grote westerse steden. Zo lang je maar genoeg mensen spreekt, vindt je de juiste mensen om je netwerk uit te breiden. Daarnaast is Parijs zo’n typische stad die nooit slaapt, waar altijd iets te beleven is. Deze levendigheid creëert een innovatieve en creatieve vibe, die wonen en werken als digital nomad er een stuk makkelijker maakt.
 
-# Mensen leren kennen in Parijs als digital nomad
+## Mensen leren kennen in Parijs als digital nomad
 
 Parijs is nu eenmaal een grote stad. Het is een aparte situatie, die heel onpersoonlijk aanvoelt. Op straat zie je veel mensen haasten en het is uiteraard heel erg druk. Ik was dan ook in Parijs in het hoogseizoen in midzomer. Mijn tip is dan ook om altijd de zomermaanden te vermijden. Maar ik was er dus wel in de drukste periode van het jaar en dat maakte alles wat onpersoonlijker.
 
@@ -30,27 +30,27 @@ Een wijk die ik echt aan zou raden, ook om toffe mensen te ontmoeten is, is Le M
 
 Daarnaast vinden in Parijs gewoon digital nomad meet-ups plaats. Dat is de ideale plek om mensen te leren kennen en kennis op te doen. Op meetup.com kun je gemakkelijk de ‘Paris Digital Nomads Meetup’ vinden.
 
-# Werken vanuit Parijs als digital nomad
+## Werken vanuit Parijs als digital nomad
 
 Echt, Parijs kent zoveel horecagelegenheden. Vooral ook hele charmante koffiezaakjes. Loop lekker veel rond, de stad is enorm en is gevuld met potentiële werkplekken voor digital nomads. Zelf ben ik constant ergens anders gaan zitten, omdat er zoveel keuze is. Heb je geen zin om door de stad te slenteren of ben je veel te druk om een leuk plekje te zoeken, heb ik toch een paar plekjes voor je verzameld.
 
-## **1\. Hubsy**
+## 1. Hubsy
 
 Dit café is echt een coworkingspace. Dat betekent wel dat je betaalt om hier te werken. Het bedraagt 20 euro per dag. Zelf houd ik hier niet zo van, maar het is ideaal om andere ondernemende mensen te leren kennen. Daarnaast is het café met twee verdiepingen vrij groot. Er is genoeg zitplaats om lekker te kunnen werken. Ook staan er hier en daar planten binnen, wat ik zelf erg fijn vindt in een productieve omgeving. Groen zorgt namelijk voor rust in je hoofd. Rustig koffie drinken en wat eten kan hier prima.
 
-## **2\. Anticafe Beaubourg**
+## 2. Anticafe Beaubourg
 
 Dit is weer zo’n typisch hip, jong café waar jij je inspiratie op kan doen. Deze plek is ook echt ingericht voor mensen die willen werken. Het eten wordt wel minder goed beoordeeld, maar de sfeer en prijs-kwaliteit verhouding weer heel erg goed. Er zijn op internet veel goede verhalen te vinden over deze sfeervolle werkplek van twee verdiepingen. Probeer wel op tijd aanwezig te zijn, want ik hoor dat het vrij druk kan worden.
 
-## **3\. Dose**
+## 3. Dose
 
 Ben je op zoek naar een café met vegetarische en vegan opties, dan is Dose misschien een plek voor jou. In dit knusse cafeetje, waar je heerlijk buiten kunt zitten, hangt ook een fijne sfeer. Hij staat op Tripadvisor zelfs in de top 10 koffiezaakjes, dus de kwaliteit kan bijna niet tegenvallen. Let er wel op dat dit knusse zaakje dicht is op zondag, voordat je onnodig lang reist om hier te komen ;).
 
-## **4\. Lomi Café**
+## 4. Lomi Café
 
 Het is een ontzettend grote hype: de lekkerste koffie willen maken op de meest unieke manier met de meest onbereikbare koffiebonen die er te vinden zijn. Ben je een beetje into this? Dan zou ik toch wel dit café aanraden. Deze mensen zijn zo erg bezig met de soorten koffie die zij serveren. Veel mensen geven de koffie dan ook een (zeer) positieve beoordeling. Ook hier kun je verder genieten van de huiselijke en industriële bekleding van de zaak.
 
-# Genieten van vrije tijd in Parijs als digital nomad
+## Genieten van vrije tijd in Parijs als digital nomad
 
 Oké, nu komen we bij een belangrijk onderdeel van dit artikel. Er is in Parijs echt heel veel te doen. Ik ga er alleen van uit dat je niet alleen de toeristische hotspots wilt zien. Ik bedoel, die heb je eigenlijk al gezien, al die keren dat ze op je tijdlijn verschenen. Je weet inmiddels ook wel dat de Eiffeltoren lijkt op een reuze-elektriciteitsmast en dat de Mona Lisa een vrouw is die je vanuit elk oogpunt lijkt aan te kijken.
 
@@ -68,32 +68,26 @@ Maar, genoeg met cultuur en historie. Soms wil je gewoon je hoofd op nul zetten 
 2.  HipHop, Jungle, Techno, waar je dan ook fan van bent, je kunt verwachten dat ze het een keer draaien in Batofar. Deze club bevindt zich zelfs op een boot in de Seine. Dat zorgt wel voor wat exclusiviteit en kost dus ook iets meer.
 3.  Een goedkopere optie is La Machine du Moulin Rouge. Deze club is met vier verdiepingen ook nog eens een van de grootste clubs in hartje Parijs. De bovenste verdieping fungeert zelfs als tapas-bar met terras. Dat betekent een avond gevuld met eten, muziek en goede vibes.
 
-# Wonen in Parijs als digital nomad
+## Wonen in Parijs als digital nomad
 
 Parijs is natuurlijk een internationale, westerse stad. Daar hangt een prijskaartje aan. De prijzen zijn natuurlijk wel afhankelijk van het seizoen. Zoals ik eerder al zei: ga alsjeblieft niet in de zomermaanden. Dat maakt het niet alleen veel drukker, maar ook duurder. Verder zijn er nog wel goedkope mogelijkheden om te wonen in Parijs als digital nomad.
 
-## **AirBnb**
+## AirBnb
 
 Op Airbnb vallen de meeste prijzen tussen de 40 en 150 euro per nacht. Het heeft heel erg te maken waar je wilt wonen. In het centrum van de Franse hoofdstad lopen de prijzen erg op, maar voor 25 tot 40 euro per nacht zijn er genoeg plekjes te vinden in de buitenwijken van Parijs.
 
-## **Hostels**
+## Hostels
 
 Hostels zijn hier vergelijkbaar met de Airbnb’s. De meeste vragen tussen de 40 en 60 euro per nacht. Er zijn echter wel een paar hostels die onder de 40 euro uitkomen, maar ook hiervoor moet je iets van kwaliteit inleveren of zit je verder uit het centrum. Let er wel op Parijs is vrij groot en ik moest zelf vanuit mijn hostel meer dan 30 minuten reizen met de metro naar het centrum. Dit is best te doen, maar soms wil je gewoon iets lekker in de buurt hebben zitten.
 
-# Prijzen in Parijs
+## Prijzen in Parijs
 
 De prijzen zijn over het algemeen hetzelfde als in Nederland. Ook hier kun je het natuurlijk zo duur maken als je zelf wilt. In het centrum zitten natuurlijk ook alle luxe winkels en restaurants, waar je flink voor kan betalen. Er zijn alleen ook goedkopere opties, zoals de eet zaakjes in de buurt van Saint-Michel en de supermarkten. Het is geen stad waar je elke avond uit eten zou gaan, zeg maar.
 
-# Conclusie wonen en werken in Parijs als digital nomad
+## Conclusie wonen en werken in Parijs als digital nomad
 
 Parijs is een interessante, bruisende stad. Echter, is de stad heel druk en aan de dure kant. Het is het zeker waard om de stad te bezoeken, maar ik merkte zelf dat ik het na een tijdje wel weer gezien had. Misschien heeft dat te maken met hoeveel het lijkt op andere westerse steden. Af en toe naar de culturele hotspots bleef een leuke activiteit. Ook kun je er wel heerlijk werken in de verschillende koffiezaakjes en coworkingplaces. Ik zou zeggen, veel plezier!
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

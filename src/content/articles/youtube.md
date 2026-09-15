@@ -43,15 +43,15 @@ Ga jij jouw Youtube kanaal nog maken? [Lees dan dit stappenplan](/blog/online-ge
 > *   **Camera** ([zie top 10 van Bol.com](/go/top10-cameras-van-bol))
 > *   **Microfoon** ([zie microons](/go/microfoons-camera-van-bol))
 > *   **Tripod / statief** ([zie statieven](/go/statieven-van-bol))
-> *   **Editing software** ([gebruik Adobe Premiere Pro](/go/adobe-premiere-pro)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==))
+> *   **Editing software** ([gebruik Adobe Premiere Pro](/go/adobe-premiere-pro)![Gif;base64,r0lgodlhaqabaaaaach5baekaaealaaaaaabaaeaaaictaeaow==](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==))
 > 
-> Verder raad ik je graag [Adobe Premiere Pro](/go/adobe-premiere-pro)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) aan. Dat is **professionele video editing software**. Voor de beginner kan dat wat onwennig zijn, maar als je er eenmaal in thuis bent kun je hiermee letterlijk ALLES zo bewerken zoals jij dat wilt.
+> Verder raad ik je graag [Adobe Premiere Pro](/go/adobe-premiere-pro)![Gif;base64,r0lgodlhaqabaaaaach5baekaaealaaaaaabaaeaaaictaeaow==](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) aan. Dat is **professionele video editing software**. Voor de beginner kan dat wat onwennig zijn, maar als je er eenmaal in thuis bent kun je hiermee letterlijk ALLES zo bewerken zoals jij dat wilt.
 
-# 8 Manieren om geld te verdienen met Youtube
+## 8 Manieren om geld te verdienen met Youtube
 
 Oké. We gaan er voor nu even vanuit dat je al een bestaand Youtube kanaal hebt. Je hebt een aantal kijkers en wil daar geld mee verdienen. Dan kun je gebruikmaken van deze 8 manieren.
 
-## 1\. Geld verdienen met je views op Youtube
+## 1. Geld verdienen met je views op Youtube
 
 ![Youtube inkomsten advertenties video dashboard](/images/migrated/youtube-inkomsten-advertenties-video-dashboard-1.webp "Youtube inkomsten advertenties video dashboard")
 
@@ -94,17 +94,11 @@ Zie hieronder een versimpelde indicatie van de verdiensten per 1000 views voor d
 
 Zoals je ziet zijn de inkomsten per 1000 views op Youtube allesbehalve vaststaand. Gebruik bovenstaande als indicatie, maar weet dus dat dit **flink kan fluctueren**.
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
-
-## 2\. Betaalde product- en projectreviews
+## 2. Betaalde product- en projectreviews
 
 Laat ik maar direct doorgaan met hoe wij zelf geld verdienen met [ons eigen Youtube kanaal over NFTs en de Metaverse](https://www.youtube.com/channel/UCX3nVifVo8QBjKof41GpqCQ). Wanneer je nog niet zoveel kijkers hebt, zullen advertenties je niet goed betalen, toch wil dat niet zeggen dat adverteerders je niet weten te vinden.
 
@@ -126,7 +120,7 @@ En ik hoor je nu denken. **Zevenhonderdvijftig dollar** voor één plaatsing op 
 
 Wanneer je product of project reviews aan gaat bieden, dan zal het aan jouw niche liggen wat je hiervoor kunt vragen. Te hoog inzetten en later je prijs verlagen is daarbij nooit een slecht plan!
 
-## 3\. Brand de brands op Youtube
+## 3. Brand de brands op Youtube
 
 Of ga geld verdienen met branding op Youtube! Wanneer je besluit om [een Youtube kanaal aan te maken](/blog/online-geld-verdienen/youtube-kanaal-beginnen/) en daar video’s op gaat posten, dan ga ik ervan uit dat je een specifiek onderwerp gaat belichten. Zomaar op een kanaal abonneren doen mensen natuurlijk niet, dus je kanaal moet wel ergens over gaan en uniek overkomen.
 
@@ -158,7 +152,7 @@ Hoe hoger die interactie, hoe meer geld het bedrijf ervoor over heeft. De reden 
 
 > “In de huidige Youtube wereld zie je dat bedrijven liever samenwerken met kleine Youtubers (micro [influencers](/blog/online-geld-verdienen/influencer-worden/)) die veel engagement hebben met hun volgers, dan met grote Youtubers waar die engagement laag is.”
 
-## 4\. Merchandise verkopen
+## 4. Merchandise verkopen
 
 Gek genoeg is dit vaak de eerste vorm waar mensen aan denken bij het verdienen van geld aan een Youtube kanaal. Bizar, want merchandise ga je pas verkopen als je échte fans hebt. Wanneer je die echte fans hebt is het inderdaad een goede vorm van inkomsten, maar **onderschat de moeite niet die het je kost qua productie en distributie van jouw merchandise**.
 
@@ -178,7 +172,7 @@ Daarmee voorkom je dat je hoge kosten maakt alvorens je iets hebt verkocht. Je k
 
 [Ga naar Shopify](/go/shopify)
 
-## 5\. Jouw eigen kennisproduct verkopen via Youtube
+## 5. Jouw eigen kennisproduct verkopen via Youtube
 
 Buiten merchandise kun je ook denken aan ander soort producten om te verkopen. Denk hierbij aan een eigen [video training](/blog/online-geld-verdienen/videotraining/) over iets waar je goed in bent of bijvoorbeeld [een eigen e-book](/blog/online-geld-verdienen/e-book/). Het gaat dan over **kennisproducten**. Dit is vooral interessant als je een Youtube kanaal hebt **met video’s die kennis overbrengen** zoals **explainers, nieuws updates of tutorials**.
 
@@ -205,17 +199,8 @@ Je zult begrijpen **dat een eigen online cursus niet 1-2-3 gemaakt is**. Maar na
 
 Sterker nog, je kunt jouw online cursus (eventueel met af en toe een update) jarenlang blijven verkopen zonder hier veel werk aan te hebben na publicatie. Zo kun je zelfs een [passief inkomen opbouwen](/blog/online-geld-verdienen/passief-inkomen-genereren/).
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
-
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
-
-## 6\. Geld verdienen met affiliate marketing op Youtube
+## 6. Geld verdienen met affiliate marketing op Youtube
 
 Een andere vorm om geld te verdienen met jouw Youtube kanaal is aan de hand van [affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/). Wellicht ben je er al bekend mee en anders leg ik het graag even uit.
 
@@ -231,7 +216,7 @@ Het meest gebruikte affiliate programma daarvoor in Nederland is [Tradetracker](
 
 Daarbuiten zijn er ook nog heel veel webshops **die een eigen affiliate programma hebben**. Maar daarvoor hoef je vaak slechts even te Googlen op jouw webshop met het woord ‘affiliate’ erbij, dan zie je vanzelf of ze op die manier actief zijn.
 
-![](/images/migrated/affiliate-marketing-infographic.webp "affiliate-marketing-infographic")
+![Affiliate marketing infographic](/images/migrated/affiliate-marketing-infographic.webp "affiliate-marketing-infographic")
 
 Lukraak affiliate links plaatsen onder jouw video’s zal je weinig opleveren. Bij mijzelf **duurde het best lang voordat affiliate marketing interessant werd**. Inmiddels verdien ik er duizenden euro’s per maand mee, iedere maand weer. Het is een passief inkomen geworden waar ik eigenlijk geen omkijken naar heb.
 
@@ -241,7 +226,7 @@ Zelf ben ik **bij tal van affiliate programma’s aangesloten**. Voor ons Youtub
 
 [**Wil je alle ditjes en datjes rondom affiliate marketing leren kennen? Dan is deze goedkope starterscursus de plek waar je moet zijn >>**](/go/affiliate-marketing-revolutie)
 
-## 7\. Vraag jouw abonnees om te doneren
+## 7. Vraag jouw abonnees om te doneren
 
 Aan het begin van ons Youtube kanaal dacht ik dat **geld verdienen met donaties** onmogelijk was. Wie doneert er nou geld om te kijken naar je video’s?
 
@@ -257,7 +242,7 @@ De engagement met onze kijkers is schijnbaar zo groot dat ze ons graag geld geve
 
 Er word zelfs wel eens beweert dat het goed is om jouw publiek een financiële transactie te laten doen naar jou omdat dit de betrokkenheid verhoogt. Deze manier is dus zeker het overwegen waard.
 
-## 8\. Youtube paid memberships en Patreon
+## 8. Youtube paid memberships en Patreon
 
 Geld verdienen met Youtube paid memberships is ook een interessante manier. Of je doet dit via Patreon, eigenlijk is daar niet echt een noemenswaardig verschil tussen.
 
@@ -297,12 +282,3 @@ Het eerste half jaar van jouw Youtube kanaal zou ik nog niet op gouden bergen re
 
 Daarom wens ik je alle **succes en doorzettingsvermogen** die je kunt wensen. Bedenk je daarbij ook dat geld verdienen met Youtube vaak niets anders is dan [een eigen onderneming starten](/blog/ondernemen/eigen-bedrijf-starten/). Zie het ook zo; als bouwen aan jouw bedrijf!
 
-#### _GRATIS Digital Nomad Boek_
-
-## **Dé inspiratie voor een vrij leven**
-
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

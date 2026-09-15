@@ -28,7 +28,7 @@ Hoe je **begint met affiliate marketing** en hoe je hier succesvol mee wordt bes
 
 Oké, details aside, wat is affiliate marketing eigenlijk?
 
-## 1\. Wat is affiliate marketing en hoe werkt het?
+## 1. Wat is affiliate marketing en hoe werkt het?
 
 **Affiliate marketing is een vorm van online marketing waarbij affiliates (bedrijven) publishers (bloggers) betalen in ruil voor promotie van hun product of dienst. Uniek aan affiliate marketing is dat de publisher veelal betaald krijgt per verkoop (commissie).**
 
@@ -54,7 +54,7 @@ Als iemand nu besluit om het product te kopen, dan krijg jij daar **een vooraf a
 
 Zie hieronder het versimpelde model over hoe je geld verdient met affiliate marketing.
 
-![](/images/migrated/affiliate-marketing-infographic.webp "affiliate-marketing-infographic")
+![Affiliate marketing infographic](/images/migrated/affiliate-marketing-infographic.webp "affiliate-marketing-infographic")
 
 Je kunt altijd inzien hoeveel er op jouw unieke affiliate links wordt geklikt en hoeveel er wordt gekocht in een affiliate dashboard. Het is dus een relatief transparante wereld, zeker als je het vergelijkt met een advertentie in bijvoorbeeld een krant. **Een bedrijf heeft dan geen flauw idee wat dit oplevert**.
 
@@ -64,7 +64,7 @@ Maar voordat jij affiliate commissies ontvangt, zullen we eerst moeten kijken na
 
 Wil je begrijpen hoe je goed geld kunt verdienen met affiliate marketing? Nicole verdient meer dan €2000,- per maand on-the-side met affiliate marketing en legt in haar cursus haarfijn uit hoe jij jezelf succesvol door affiliate land navigeert! Met de code **succesmetaffiliatemarketing10** krijg je zelfs 10% korting ;)_._ [Je vind de cursus hier >>](/go/affiliate-succes)
 
-## 2\. Jouw affiliate kanaal opzetten
+## 2. Jouw affiliate kanaal opzetten
 
 Beginnen met affiliate marketing kan iedereen. Geen zorgen dus. Je hebt hiervoor geen technische skills nodig. Wat je wel nodig hebt is doorzettingsvermogen, maar daarover later meer.
 
@@ -97,7 +97,7 @@ Bekijk Blog Bonus Deal
 
 Als je al een kanaal hebt, dan kun je daar natuurlijk ook mee aan de slag. Dan wordt het vooral belangrijk om te kijken naar welke affiliate producten passen bij jouw doelgroep of [niche](/blog/ondernemen/blog-niches/).
 
-## 3\. Aanmelden affiliate netwerken en programma’s
+## 3. Aanmelden affiliate netwerken en programma’s
 
 Als je jouw kanaal compleet hebt en jouw blog online staat, is het tijd om te gaan zoeken naar die affiliate partners waar we het eerder al over hadden.
 
@@ -113,7 +113,7 @@ Wanneer je net begint met affiliate marketing, doe je er goed aan om je eerst aa
 
 Ik zal hieronder **de twee meest interessante affiliate netwerken** aan je voorstellen.
 
-### 1\. PayPro – Nederlands affiliate netwerk voor digitale producten met hoge commissies
+### 1. PayPro – Nederlands affiliate netwerk voor digitale producten met hoge commissies
 
 ![Paypro Affiliate Programma](/images/migrated/paypro-affiliate-programma-1.webp "Paypro Affiliate Programma")
 
@@ -127,7 +127,7 @@ Natuurlijk betalen niet alle producten bij PayPro je bijna €300,- commissie ui
 
 [Aanmelden PayPro Affiliate Netwerk](/go/paypro-affiliate)
 
-### 2\. Tradetracker – Grootste affiliate netwerk van Nederland
+### 2. Tradetracker – Grootste affiliate netwerk van Nederland
 
 ![Tradetracker affiliate platform](/images/migrated/tradetracker-affiliate-platform-1.webp "Tradetracker affiliate platform")
 
@@ -137,7 +137,7 @@ Je kunt samenwerken met grote partijen zoals mijndomein.nl of met tal van feestw
 
 [Aanmelden Tradetracker Affiliate Netwerk](/go/tradetracker)
 
-## **3.2 Affiliate programma’s**
+## 3.2 Affiliate programma’s
 
 Er zijn enorm veel affiliate programma’s waarbij je je via Tradetracker en PayPro aan kunt melden. Maar wie ga je nou promoten?
 
@@ -155,11 +155,11 @@ Er was alleen één groot nadeel. Deze producten sloten totaal niet aan op mijn 
 
 Dat gezegd hebbende, stel ik voor om een kijkje te nemen bij affiliate programma’s waarvoor je je los aan kunt melden. Bij deze drie affiliate programma’s ben ik zelf aangesloten en deze promoot ik actief op deze website. Ze zorgen bij elkaar voor het grootste deel van mijn [passieve inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/).
 
-*   **Bitvavo** [\> Aanmelden Bitvavo affiliate programma](/go/bitvavo)  
+*   **Bitvavo** [› Aanmelden Bitvavo affiliate programma](/go/bitvavo)  
     Bij deze crypto exchange krijg je 15% commissie over de trading fees die gebruikers betalen die zich via jouw affiliate link hebben aangemeld. Om te beginnen met dit affiliate programma hoef je slechts zelf een gratis account op Bitvavo aan te maken.
-*   **Pictory** [\> Aanmelden Pictory affiliate programma](/go/pictory)  
+*   **Pictory** [› Aanmelden Pictory affiliate programma](/go/pictory)  
     Met deze AI tool kunnen contentcreators super makkelijk video editen voor meerdere media. De affiliate commissie voor dit programma is 20% en krijg je iedere maand zolang de gebruiker een abonnement heeft. Ook hierbij hoef je slechts een gratis account aan te maken om te beginnen als affiliate.
-*   **Cloud86** [\> Aanmelden Cloud86 affiliate programma](/go/cloud86)  
+*   **Cloud86** [› Aanmelden Cloud86 affiliate programma](/go/cloud86)  
     De beste webhosting van Nederland voor een redelijke prijs. Bij Cloud86 krijg je €35,- per persoon die via jouw link webhosting aanschaft plus een percentage van de abonnementskosten. Om dit affiliate programma te promoten dien je wel jouw eigen website te hebben gehost bij Cloud86.
 
 ### Zo vind je relevante affiliate programma’s
@@ -191,7 +191,7 @@ Hoe relevanter, hoe meer je verdient. Staar je hierbij niet alleen blind op de c
 
 > Wil je begrijpen hoe je goed geld kunt verdienen met affiliate marketing? Nicole verdient meer dan €2000,- per maand on-the-side met affiliate marketing en legt in haar cursus haarfijn uit hoe jij jezelf succesvol door affiliate land navigeert! Met de code **succesmetaffiliatemarketing10** krijg je zelfs 10% korting ;)_._ [Je vind de cursus hier >>](/go/affiliate-succes)
 
-## **4\. Affiliate linkjes plaatsen**
+## 4. Affiliate linkjes plaatsen
 
 Wanneer je een passend affiliate programma hebt gevonden en je daarbij hebt aangesloten is het tijd om de affiliate links op je website te plaatsen of te promoten via je [Instagram](/blog/online-geld-verdienen/geld-verdienen-met-instagram-2/), [Youtube](/blog/online-geld-verdienen/youtube/) of ander kanaal. **Verwacht niet dat je gewoon door links te plaatsen geld verdient**.
 
@@ -205,7 +205,7 @@ De kanttekening die hierbij wel geplaatst moet worden is **dat het Bol.com partn
 
 Statistiek helpt goed om te groeien en mag dan ook nooit onderschat worden :). En zo doe ik dat dan eigenlijk met alle affiliate programma’s waar ik naartoe verwijs. Leer dus zeker statistiek te **interpreteren en te gebruiken**.
 
-## **5\. Commissies krijgen en geld verdienen**
+## 5. Commissies krijgen en geld verdienen
 
 **Met affiliate marketing valt veel geld te verdienen.**
 
@@ -259,19 +259,19 @@ Mijn affiliate programma bij crypto exchange [Bitvavo](/blog/review/bitvavo-revi
 
 Van de ruim 2000 mensen die zich daar inmiddels via mijn affiliate link hebben aangemeld, krijg ik steeds weer **opnieuw commissie** als zij een trade maken. Soms is mijn commissie een paar tientjes per dag, soms honderd euro, maar in ieder geval iedere dag weer iets!
 
-## **6\. Blijf groeien in je passief inkomen**
+## 6. Blijf groeien in je passief inkomen
 
 Door gewoon te **beginnen met affiliate marketing** zal je tijd bij tijd leren hoe je meer verkoopt en meer verdient. Er zijn tal van valkuilen waar iedereen steeds opnieuw weer instapt en dat is zo ontzettend zonde van de tijd die men daarin steekt.
 
 Zo zie je veel mensen die refereren naar producten **die niet relevant zijn voor de doelgroep**, gewoon puur omdat ze een hoge commissie hebben. Uiteindelijk verdien je er dan alsnog niets aan. Refereer naar producten en diensten waar je zelf in gelooft, dan gelooft jouw doelgroep hier ook in.
 
-![](/images/migrated/laptop-strand-werken.webp "laptop-strand-werken")
+![Laptop strand werken](/images/migrated/laptop-strand-werken.webp "laptop-strand-werken")
 
 Als je affiliate marketing op de juiste manier toepast is het voor iedereen mogelijk om **hier een fulltime inkomen** uit te halen.
 
 Dat moet voor iedereen binnen 6 maanden te doen zijn als je er volledig je tijd en aandacht aan besteed. Al kun je er natuurlijk ook voor kiezen om het langzaam on-the-side op te bouwen. Duurt allemaal wat langer, maar dan kun je **steeds een beetje minder gaan werken vanwege de passieve inkomsten**!
 
-## **7\. Word zelf affiliate in plaats van publisher**
+## 7. Word zelf affiliate in plaats van publisher
 
 Heb je **een eigen product of dienst**? Kijk dan eens of je affiliate marketing andersom in zou kunnen zetten. Dat je zelf aanbieder wordt van een product dat anderen kunnen promoten en verkopen.
 
@@ -298,14 +298,6 @@ Meld je vervolgens aan bij de voor jou relevante affiliate programma’s en netw
 
 Succes!
 
-![training-ai-kunstmatige-intelligentie-in-company](/images/migrated/training-ai-kunstmatige-intelligentie-in-company-2.webp "training-ai-kunstmatige-intelligentie-in-company")
 
-### **Training AI op locatie 2024**
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
-De wereld waarin we werken veranderd ontzettend snel. Breng jezelf en jouw team op de hoogte van de laatste ontwikkelingen en leer **hoe AI tools zoals ChatGPT en Gemini zijn in te zetten voor productiviteit, (werk)geluk en succes!**
-
-Duur: 3 uur  
-Investering: 950,- ex BTW  
-Formaat: Tot 30 deelnemers
-
-[Contact voor meer info](/contact/)

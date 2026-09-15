@@ -16,7 +16,7 @@ Wanneer je handelt in crypto valuta zal je veelal een crypto exchange gebruiken 
 
 In Nederland is de marktleider [Bitvavo](/blog/review/bitvavo-review-crypto/), maar er zijn best wat traders die aan hun functionaliteiten niet voldoende hebben. **Bij Binance is dan ook veel meer mogelijk** en al die functionaliteiten zullen in deze review voorbij komen zodat jij een goede afweging kunt maken.
 
-## **1\. Over Binance**
+## 1. Over Binance
 
 Binance is **de grootste crypto exchange ter wereld**, opgericht door Binance Changpeng Zhao in 2017. Ze staan geregistreerd op de Kaaimaneilanden in Seychellen en bieden hun diensten wereldwijd aan.
 
@@ -84,7 +84,7 @@ Hieronder zal ik andere redenen opsommen die ik op het internet ben tegengekomen
 
 Veel mensen gebruiken Binance in combinatie met [andere crypto exchanges](/blog/web3/beste-crypto-exchange/). Dit om een zo groot mogelijk aantal munten te kunnen verhandelen en gebruik te maken van alle mogelijke functionaliteiten.
 
-## **2\. Binance account aanmaken en verifiëren**
+## 2. Binance account aanmaken en verifiëren
 
 Een Binance account aanmaken is erg simpel. Je volgt slechts de volgende 5 stappen.
 
@@ -130,7 +130,7 @@ In de niet geverifieerde categorie kan je slechts traden tot 300 dollar. Een ext
 
 **Zelf heb ik mijn account tot intermediate geverifieerd, net zoals 80% van de andere Binance gebruikers.**
 
-## **3\. Deze crypto vind je op Binance  
+## 3. Deze crypto vind je op Binance
 **
 
 Binance heeft een gevarieerd aanbod aan verschillende crypto. Er zijn meer dan **500 digitale activa** te vinden om in te traden. In trading pairs komt dat uit op 1274 mogelijkheden voor handel.
@@ -139,7 +139,7 @@ Op de spotmarkt (wat je het beste kan zien als de ‘normale’ crypto trades) k
 
 Mocht je benieuwd zijn, dan vind je hieronder een lijstje met meer dan 150 cryptovaluta die bij Binance te verhandelen zijn.
 
-#### [Bekijk aanbod crypto Binance](#a134bfbe907fb77fb)
+### Bekijk aanbod crypto Binance
 
 1.  1inch
 2.  Aave
@@ -351,13 +351,13 @@ Etana Account Balance
 
 [Maak een Binance account aan](/go/binance)
 
-## **4\. Handelsmogelijkheden op Binance**
+## 4. Handelsmogelijkheden op Binance
 
 De handelsmogelijkheden bij Binance zijn groter dan ik ergens anders heb kunnen vinden. Je kan ‘normaal’ traden en gewoon crypto kopen en verkopen, maar daar blijft het zeker niet bij. **Deze functies zijn uitgebreid met opties voor margin en future trading**. Laten we ze hier allemaal doorlopen.
 
 ![binance crypto handelsfuncties](/images/migrated/trading-1.webp "binance crypto handelsfuncties")
 
-## 1\. Convert trading
+## 1. Convert trading
 
 Dit is de simpelste handelsmogelijkheid op Binance, maar geeft je niet echt een idee van de koers. Je kan hier simpelweg **jouw euro’s of crypto converteren naar andere fiat of crypto**.
 
@@ -369,7 +369,7 @@ De wisselkoers die wordt gebruikt is diegene die op dat moment geldt en wordt vo
 
 **Simpel dus**. Alleen mis je hierbij wel al het overzicht van welke kant de markt opgaat. Het zou dan ook niet mijn advies zijn om deze handelsoptie te gebruiken.
 
-## 2\. Classic trading
+## 2. Classic trading
 
 Dit is de meest gebruikte handelsfunctie van Binance. De basis van dat je iets koopt en verkoopt is uiteraard hetzelfde als bij convert trading, alleen heb je nu **het overzicht**.
 
@@ -392,11 +392,11 @@ Voor de beginnende traders kan bovenstaande overzicht wat onduidelijk zijn. Late
 
 Deze **klassieke handelsfunctie van Binance** is de meest gebruikte. Deze kan soms wat overweldigend aanvoelen wanneer je net [begint met crypto traden](/blog/web3/handelen-in-crypto-valuta/). Weet dan dat je vooral moet begrijpen hoe je crypto koopt en verkoopt. De rest van de kennis komt vanzelf. Wanneer je echter meer geavanceerd wilt traden, heeft Binance nog meer mogelijkheden. Deze bespreken we hieronder.
 
-## 3\. Advanced trading
+## 3. Advanced trading
 
 De advanced trading view is er vooral voor mensen die al wat langer in crypto zitten. Veelal wil je overschakelen naar advanced als je binnen Binance technische analyse wilt doen. Deze blijft dan niet beperkt tot wat **moving averages**, maar verbreed zich met functionaliteiten als de **fibonacci retracement**, lijnen en honderden modellen die onder traders bekend zijn. Je hebt dan als het ware ‘**Trading View**‘ paraat binnen Binance zelf.
 
-## 4\. Margin trading
+## 4. Margin trading
 
 Een van de functies waarvoor veel mensen naar Binance komen is **margin trading**. Dit was voor mij zelf ook de reden om een Binance account te openen. Hierdoor kon ik namelijk met een relatief kleine inleg, grotere winsten boeken.
 
@@ -410,7 +410,7 @@ Het grote risico is natuurlijk dat je verliezen ook x10 gelden en **je kan worde
 
 Om dat risico te managen heb je bij Binance de keuze uit **cross margin en isolated margin**. Daarmee kies je in feite of je pas geliquideerd wilt worden als je hele portfolio op 0 uitkomt (cross) of wanneer die specifieke trade onder de 0 uitkomt (isolated).
 
-## 5\. P2P trading
+## 5. P2P trading
 
 P2P staat voor peer-to-peer en gaat over het principe dat je handelt met anderen zonder tussenkomst van een derde partij. Je kunt dus direct traden met andere gebruikers van Binance, maar betaald hiervoor geen trading fees en dergelijken.
 
@@ -418,7 +418,7 @@ P2P staat voor peer-to-peer en gaat over het principe dat je handelt met anderen
 
 Het nadeel van P2P trading is dat je ook zelf het risico loopt op een frauduleuze transactie. Bijvoorbeeld wanneer je geld overmaakt naar een scammer.
 
-## 6\. Futures trading
+## 6. Futures trading
 
 Dan heb je bij Binance ook nog de mogelijkheid om te handelen in futures onder het kopje ‘derivatives’. Hier handel je op basis van contracten, dus je verhandelt hier niet de crypto zelf. Je kunt hier handelen op basis van stable coins zoals de USDS.
 
@@ -428,7 +428,7 @@ Ook bij futures gaat het vaak om traden met leverage. Maar in plaats van de daad
 
 Houd er wel rekening mee dat je voor toegang tot deze tradingsoptie eerst moet slagen voor een test waardoor je aangeeft de risico’s te begrijpen. Mocht je de risico’s begrijpen, maar niet geheel schadeloos door de test komen, dan vind je hieronder de antwoorden (deze heb je niet van mij hè! ;)).
 
-#### [Antwoorden Binance futures quiz](#e68e5e84765f18618)
+### Antwoorden Binance futures quiz
 
 1\. What is the maximum leverage available on Binance Futures？
 
@@ -480,7 +480,7 @@ Houd er wel rekening mee dat je voor toegang tot deze tradingsoptie eerst moet s
 
 Andere functionaliteiten van Binance zoals de **Binance card, vanilla options en leveraged tokens** laat ik in deze Binance review even voor wat het is. Je kan ze beter stap voor stap ontdekken en zal een hoop waarschijnlijk nooit gebruiken.
 
-## **5\. Kosten Binance**
+## 5. Kosten Binance
 
 **Een Binance account aanmaken is gratis**. Je betaald vervolgens alleen handelskosten per keer dat je een trade maakt. De kosten zijn onderverdeeld in de **Maker Fee** en **Taker Fee**. In principe zijn er geen kosten voor het storten van geld, tenzij jouw bank daar geld voor rekent.
 
@@ -556,7 +556,7 @@ Onderstaande tabel laat de kosten zien. Het volume is het bedrag dat jij in de a
 
 Vergeleken met [Bitvavo](/blog/review/bitvavo-review-crypto/) is Binance iets goedkoper, net zoals dat geld voor veel [andere crypto exchanges](/blog/web3/beste-crypto-exchange/). Alleen is het wel zo dat je bij Bitvavo al lagere fees krijgt als je bijvoorbeeld 25.000,- euro hebt verhandelt.
 
-## **6\. Binance beveiliging en veiligheid**
+## 6. Binance beveiliging en veiligheid
 
 Veiligheid is belangrijk als het op geld aankomt. Je wilt er ten alle tijden zeker van kunnen zijn dat je jouw geld niet verliest.
 
@@ -566,7 +566,7 @@ Zelf kan je de veiligheid van jouw Binance account garanderen door **2FA** (bijv
 
 ![Security methods on Binance account](/images/migrated/binance-safety-2-1.webp "Binance security methods")
 
-## **7\. De verschillende Binance wallets**
+## 7. De verschillende Binance wallets
 
 Binance heeft veel verschillende manieren om crypto te verhandelen en gebruikt bij veel handelsfuncties ook aparte wallets. Deze staan allemaal in jouw Binance account en veelal kan je jouw saldo van de ene naar de andere wallet overboeken.
 
@@ -577,7 +577,7 @@ Geld storten en opnemen gaat altijd via de standaard fiat en spot wallet. Vanaf 
 *   ![Binance wallet appearance for Margin trading](/images/migrated/binance-margin-1.webp)
 *   ![Binance wallet appearance for futures trading](/images/migrated/binance-futures-1.webp)
 *   ![Binance wallet appearance for P2P trading](/images/migrated/binance-p2p-1.webp)
-*   ![](/images/migrated/binance-earn-1.webp)
+*   ![Binance earn](/images/migrated/binance-earn-1.webp)
 *   ![Binance pool interface](/images/migrated/binance-pool-1.webp)
 *   ![Binance interface for Vanilla options project](/images/migrated/biannce-vanilla-1.webp)
 
@@ -585,7 +585,7 @@ Buiten de wallets van Binance zelf, is het natuurlijk ook mogelijk (en aan te ra
 
 ![Hoe te crypto trekken uiBinance om crypto wallet](/images/migrated/binanvce-1.webp "Binance crypto-opnamepagina")
 
-## **8\. Conclusie Binance review**
+## 8. Conclusie Binance review
 
 Binance is de grootste speler op de cryptomarkt en heeft daarom als belangrijke voordeel een gigantische liquiditeit die je nergens anders kan vinden. Hierdoor heb je de meest reële prijs bij iedere transactie.
 
@@ -627,25 +627,25 @@ Andere redenen waarom mensen Binance wel en niet gebruiken vind je hieronder.
 
 [Maak nu een binance account](/go/binance)
 
-## **9\. Binance FAQ  
+## 9. Binance FAQ
 **
 
-#### [Is Binance een betrouwbare crypto exchange?](#50df96017235be0b7)
+### Is Binance een betrouwbare crypto exchange?
 
 **Ja**. Binance is sinds 2017 actief en heeft zijn eigen cryptocurrency BNB. Ze hebben één keer een kleine hack gehad en hebben toen alle verloren crypto uit eigen zak vergoed.
 
-#### [Welke fiat-valuta's kan ik op Binance storten?](#27fe557e317b14bd2)
+### Welke fiat-valuta's kan ik op Binance storten?
 
 Binance accepteert **47 verschillende fiat-valuta’s** waaronder EUR, GBP, AUD en USD.
 
-#### [Welke crypto vind ik op Binance?](#88f5ef3c8edc444be)
+### Welke crypto vind ik op Binance?
 
 Binance biedt meer dan **500 digitale activa** waaronder Bitcoin, Ethereum, Litecoin, Dogecoin, VeChain, Cardano, Enjin, Chainlink, Polkadot, Ripple, Tezos en yearn.finance. In totaal zijn er 1274 handelsparen.
 
-#### [Heeft Binance een mobiele app?](#13257aa58f11ec74c)
+### Heeft Binance een mobiele app?
 
 **Ja.** Binance heeft een geweldige mobiele app (IOS en Android). Met de app heb je toegang tot alle handelsfuncties die de desktop versie ook biedt.
 
-#### [Is een Binance account gratis?](#cc872543eccb70c0a)
+### Is een Binance account gratis?
 
 **Ja.** Een Binance-account is volledig gratis. Vervolgens betaal je alleen kosten telkens als je iets verhandelt.

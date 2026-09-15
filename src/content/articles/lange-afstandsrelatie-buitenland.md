@@ -30,6 +30,6 @@ Wanneer we elkaar niet zien houden we zo nu en dan, een keer per week, contact v
 
 Maar als je mij nu zou vragen of lange afstandsrelaties voor iedereen werken moet ik je teleurstellen. Ik geloof dat het feit dat je beiden avontuurlijk bent, bewust bezig bent met je persoonlijke groei en je over de aarde beweegt als een onafhankelijk individu toch wel essentieel is. We zeggen ook altijd dat we niet elkaars wederhelft zijn maar 2 losstaande figuren die elkaars leven mooier maken. Het maakt alles net wat makkelijker, want je laat elkaar volledig vrij in het doen en laten. Maar als je wilt, werkt alles misschien wel :).
 
-![](/images/migrated/liefde-in-schotland.webp "liefde in schotland")
+![Liefde in schotland](/images/migrated/liefde-in-schotland.webp "liefde in schotland")
 
-![](/images/migrated/mick-van-zadelhoff-vriendin-brno-tram.webp "mick-van-zadelhoff-vriendin-brno-tram")
+![Mick van zadelhoff vriendin brno tram](/images/migrated/mick-van-zadelhoff-vriendin-brno-tram.webp "mick-van-zadelhoff-vriendin-brno-tram")

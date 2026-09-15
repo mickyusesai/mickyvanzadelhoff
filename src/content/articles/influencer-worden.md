@@ -89,7 +89,7 @@ Maar bij die samenwerkingen met bedrijven blijft het niet. Er zijn nog vele ande
 
 ### Affiliate marketing
 
-Influencers linken door naar producten of diensten. Als een volger via die link het product of de dienst afneemt krijgt de influencer hier een commissie voor. [\> Lees meer over affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/)
+Influencers linken door naar producten of diensten. Als een volger via die link het product of de dienst afneemt krijgt de influencer hier een commissie voor. [› Lees meer over affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/)
 
 ### Merchandise
 

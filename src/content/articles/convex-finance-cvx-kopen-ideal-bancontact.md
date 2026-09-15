@@ -22,15 +22,15 @@ Convex Finance is een DeFi-protocol dat zich richt op het optimaliseren van de b
 
 De CVX-token, de inheemse cryptocurrency van het Convex-platform, wordt pro-rata gemunt voor elke geclaimde CRV-token op het platform. Houders van CVX kunnen de tokens staken om cvxCRV te ontvangen, wat leidt tot een deel van de Curve LP’s CRV-inkomsten en een deel van de vergoedingen​​.
 
-## Hier **koop je** Convex Finance (CVX) **met iDEAL en Bancontact**
+## Hier koop je Convex Finance (CVX) met iDEAL en Bancontact
 
 Voor het aanschaffen van CVX kun je terecht bij verschillende crypto exchanges, waaronder Finst en Bitvavo. Bij [Finst](/go/finst) profiteer je van lage handelskosten en een gebruiksvriendelijk platform, terwijl [Bitvavo](/go/bitvavo) bekend staat om zijn eenvoudige interface en een breed scala aan beschikbare cryptomunten.
 
-## **De beste NL Exchanges om te investeren in crypto**
+## De beste NL Exchanges om te investeren in crypto
 
 ![Finst Crypto Kopen](/images/migrated/finst-crypto-kopen-2.webp "Finst Crypto Kopen")
 
-### 1\. Finst
+### 1. Finst
 
 Goedkoopste exchange. Mogelijkheid tot investeren in bundels.
 
@@ -45,7 +45,7 @@ of [lees Finst review](/blog/review/finst-crypto-exchange/)
 
 ![Bitvavo affiliate programma](/images/migrated/bitvavo-affiliate-programma-1.webp "Bitvavo affiliate programma")
 
-### 2\. Bitvavo
+### 2. Bitvavo
 
 Grootste crypto exchange van de Benelux met veel crypto.
 

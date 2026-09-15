@@ -20,7 +20,7 @@ Laten we het begrip dus even ontleden in content én marketing. Content kan een 
 
 Voor als je dacht dat content marketing altijd in de vorm van een blog artikel naar buiten komt, dan heb je het mis. Het woord ‘marketing’ houdt in dat we de content gebruiken om een product of dienst te vermarkten. We gebruiken de content dus in plaats van, of als toevoeging op, advertenties.
 
-![](/images/migrated/soorten-content.webp "soorten-content")
+![Soorten content](/images/migrated/soorten-content.webp "soorten-content")
 
 In de praktijk komt content marketing neer op een blog op iemands website of een Youtube kanaal vol instructie video’s. Het gaat in bijna alle gevallen om gratis toegankelijke content zodat het zoveel mogelijk mensen bereikt. Het doel is om **door het geven van de gratis content** de potentiële klant te helpen, te adviseren en te binden.
 
@@ -34,35 +34,27 @@ Als we content marketing in een marketing funnel zouden moeten plaatsen dan zou 
 
 Bovenstaand voorbeeld is hoe content marketing in de meeste gevallen wordt toegepast. Zo gaat dat ook op deze website. Ik geef allemaal gratis informatie waarvan ik weet dat die waardevol is voor mijn website bezoekers. Als zij vervolgens meer willen weten kunnen ze overgaan tot de aankoop van een product of een inschrijving op mijn mailinglijst.
 
-![training-ai-kunstmatige-intelligentie-in-company](/images/migrated/training-ai-kunstmatige-intelligentie-in-company-2.webp "training-ai-kunstmatige-intelligentie-in-company")
 
-### **Training AI op locatie 2024**
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
-De wereld waarin we werken veranderd ontzettend snel. Breng jezelf en jouw team op de hoogte van de laatste ontwikkelingen en leer **hoe AI tools zoals ChatGPT en Gemini zijn in te zetten voor productiviteit, (werk)geluk en succes!**
-
-Duur: 3 uur  
-Investering: 950,- ex BTW  
-Formaat: Tot 30 deelnemers
-
-[Contact voor meer info](/contact/)
 
 ## Voor wie is content marketing (niet) interessant?
 
 Niet ieder bedrijf kan content marketing toepassen. Maar voor 99% van de gevallen is content marketing wel toepasbaar en effectief. Met content marketing kun je op een laagdrempelige manier laten zien dat jij de expert bent in wat je doet. Het opzetten is in veel gevallen relatief goedkoop en het niet toepassen is dan ook zonde. Veel ondernemers vinden het moeilijk om te bedenken op welke manier content marketing valt toe te passen binnen hun bedrijf. Daarom hieronder vier specifieke voorbeelden van hoe dat allemaal kan.
 
-### **Voorbeeld 1: Van rouwkapel naar dakkapel**
+### Voorbeeld 1: Van rouwkapel naar dakkapel
 
 Een bedrijf dat dakkapellen verkoopt biedt op zijn website een e-book aan genaamd: “Hoe zorg je ervoor dat je dakkapel geen rouwkapel wordt?”. Website bezoekers kunnen dit e-book kosteloos downloaden in ruil voor hun e-mail adres. Na het lezen van het e-book worden ze per mail opgevolgd. Super slim want op deze manier splits je een grote beslissing (een dakkapel kopen) op in kleine stappen. Tevens helpt het e-book om de potentiële klant te informeren, deze heeft hoogstwaarschijnlijk namelijk geen verstand van dakkapellen.
 
-### **Voorbeeld 2: Bloemschik video’s**
+### Voorbeeld 2: Bloemschik video’s
 
 Een bedrijf dat bloemen verkoopt heeft een Youtube kanaal met daarop wekelijks een video over bloemschikken. Geïnteresseerden vinden deze video’s en raken verbonden met de vrouw die de gratis bloemschik uitlegvideo’s geeft. Zij kopen vervolgens hun bloemen niet meer bij de plaatselijke bloemist maar bij ‘de vrouw die ze kennen van de video’s’.
 
-### **Voorbeeld 3: Blogs over depressie op de werkvloer**
+### Voorbeeld 3: Blogs over depressie op de werkvloer
 
 Een bedrijf dat coaching aanbiedt voor werknemers die kampen met depressie, heeft blogs online staan met onderwerpen als: “Tien manieren om depressie op de werkvloer aan te pakken”. Werkgevers vinden deze blogs bij hun zoektocht via Google. Zij vinden de informatie nuttig en kloppen vervolgens bij deze coach aan om hen verder te helpen.
 
-### **Voorbeeld 4: Persbericht over geboortekaartjes**
+### Voorbeeld 4: Persbericht over geboortekaartjes
 
 Een bedrijf dat geboortekaartjes verkoopt maakt een persbericht over de meest voorkomende babynamen van dat jaar. Dit persbericht sturen ze naar kranten en wordt gepubliceerd met hun naam erbij. Een goede manier voor zo’n bedrijf om naamsbekendheid op te bouwen zonder daarvoor te hoeven betalen.
 
@@ -82,14 +74,3 @@ Nu je een duidelijk beeld hebt van wat content marketing inhoud kun je aan de sl
 
 Vind bloggers en andere content markteers via een [platform als Fiverr](/go/fiverr-blogger)!
 
-![training-ai-kunstmatige-intelligentie-in-company](/images/migrated/training-ai-kunstmatige-intelligentie-in-company-2.webp "training-ai-kunstmatige-intelligentie-in-company")
-
-### **Training AI op locatie 2024**
-
-De wereld waarin we werken veranderd ontzettend snel. Breng jezelf en jouw team op de hoogte van de laatste ontwikkelingen en leer **hoe AI tools zoals ChatGPT en Gemini zijn in te zetten voor productiviteit, (werk)geluk en succes!**
-
-Duur: 3 uur  
-Investering: 950,- ex BTW  
-Formaat: Tot 30 deelnemers
-
-[Contact voor meer info](/contact/)

@@ -12,7 +12,7 @@ featuredImage: "/images/migrated/affiliate-marketing-revolutie-jacko-meijaard.we
 
 **Is de Affiliate Marketing Revolutie van Jacko Meijaard iets voor jou?** Dat is een vraag die nu waarschijnlijk in je hoofd rondspookt. Of je er geld mee kunt verdienen en of dit voor jou toepasbaar is vind je in dit artikel. Maar behalve dat vind je hier vooral hoe het kan dat deze cursus ervoor heeft gezorgd dat ik maandelijks 3000,- euro aan passief inkomen heb. Wat dat inhoud en hoe ik dat heb gerealiseerd daar kom ik later op terug. Eerst wil ik graag een screenshot met je delen van de inkomsten vanuit één affiliate programma. Gewoon zodat je weet dat ik hier geen onzin zit te praten ;).
 
-[![](/images/migrated/affiliate-marketing-revolutie-resultaten.webp)](/images/migrated/affiliate-marketing-revolutie-resultaten.webp "affiliate-marketing-revolutie-resultaten")
+[![Affiliate marketing revolutie resultaten](/images/migrated/affiliate-marketing-revolutie-resultaten.webp)](/images/migrated/affiliate-marketing-revolutie-resultaten.webp "affiliate-marketing-revolutie-resultaten")
 
 ## Wat is de Affiliate Marketing Revolutie?
 
@@ -24,17 +24,9 @@ En dat is dus waar de Affiliate Marketing Revolutie van Jacko Meijaard over gaat
 
 **[Wil je zelf starten met affiliate marketing? Volg dan de Affiliate Marketing Revolutie en bouw aan een passief inkomen.](/go/affiliate-marketing-revolutie)**
 
-![training-ai-kunstmatige-intelligentie-in-company](/images/migrated/training-ai-kunstmatige-intelligentie-in-company-2.webp "training-ai-kunstmatige-intelligentie-in-company")
 
-### **Training AI op locatie 2024**
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
-De wereld waarin we werken veranderd ontzettend snel. Breng jezelf en jouw team op de hoogte van de laatste ontwikkelingen en leer **hoe AI tools zoals ChatGPT en Gemini zijn in te zetten voor productiviteit, (werk)geluk en succes!**
-
-Duur: 3 uur  
-Investering: 950,- ex BTW  
-Formaat: Tot 30 deelnemers
-
-[Contact voor meer info](/contact/)
 
 ## Na het volgen van de affiliate marketing revolutie begint het echte werk
 
@@ -54,7 +46,7 @@ Maar dat bleek allemaal nergens voor nodig. Jacko Meijaard is een goede internet
 
 Zelf komt Jacko Meijaard uit Zeeland. Zijn successen zijn **niet bepaald onder de radar gebleven**. Onder andere het Algemeen Dagblad schreef er al een stuk over. Grappig is dat Jacko Meijaard en ik één ding gemeen hebben. We hebben allebei onze opleiding niet afgerond. Maar schijnbaar wel een sterke drive om er het beste van te maken op onze eigen manier. Wist je trouwens dat Jacko Meijaard een community over affiliate marketing beheert met 6000(!) leden?
 
-![](/images/migrated/Jacko-Meijaard-algemeen-dagblad.webp "Jacko-Meijaard-algemeen-dagblad")
+![Jacko meijaard algemeen dagblad](/images/migrated/Jacko-Meijaard-algemeen-dagblad.webp "Jacko-Meijaard-algemeen-dagblad")
 
 ## Volg de Affiliate Marketing Revolutie niet als…
 
@@ -72,14 +64,3 @@ De training is niet gratis en dat is maar goed ook. Ik sta er vaak op dat mensen
 
 [**Als je klaar bent om te beginnen met de Affiliate Marketing Revolutie, klik dan hier. Wellicht zien we elkaar dan nog op het affiliate marketing forum!**](/go/affiliate-marketing-revolutie)
 
-![training-ai-kunstmatige-intelligentie-in-company](/images/migrated/training-ai-kunstmatige-intelligentie-in-company-2.webp "training-ai-kunstmatige-intelligentie-in-company")
-
-### **Training AI op locatie 2024**
-
-De wereld waarin we werken veranderd ontzettend snel. Breng jezelf en jouw team op de hoogte van de laatste ontwikkelingen en leer **hoe AI tools zoals ChatGPT en Gemini zijn in te zetten voor productiviteit, (werk)geluk en succes!**
-
-Duur: 3 uur  
-Investering: 950,- ex BTW  
-Formaat: Tot 30 deelnemers
-
-[Contact voor meer info](/contact/)

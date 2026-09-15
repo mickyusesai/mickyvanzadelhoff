@@ -24,7 +24,7 @@ Dit gedecentraliseerde karakter biedt enkele unieke voordelen. Ten eerste verhoo
 
 STORJ-tokens worden gebruikt als betalingsmiddel binnen het netwerk. Gebruikers die extra opslagruimte nodig hebben, betalen in STORJ, terwijl degenen die opslagruimte aanbieden op hun harde schijven beloond worden in STORJ. Dit creëert een zelfvoorzienend economisch model dat gebaseerd is op vraag en aanbod.
 
-## Hier **koop je** Storj (STORJ) **met iDEAL en Bancontact**
+## Hier koop je Storj (STORJ) met iDEAL en Bancontact
 
 Voor het kopen van STORJ met iDEAL of Bancontact zijn er verschillende platforms beschikbaar, maar twee van de meest prominente zijn [Finst](/go/finst) en [Bitvavo](/go/bitvavo). Beide bieden een toegankelijke manier om STORJ aan te schaffen, maar ze hebben elk hun unieke kenmerken.
 
@@ -32,11 +32,11 @@ Finst onderscheidt zich door zijn lage handelskosten, wat het een aantrekkelijke
 
 Bitvavo, aan de andere kant, staat bekend om zijn uitgebreide selectie van cryptomunten en geavanceerde handelsopties. Dit kan vooral aantrekkelijk zijn voor gebruikers die diversificatie in hun cryptoportfolio zoeken.
 
-## **De beste NL Exchanges om te investeren in crypto**
+## De beste NL Exchanges om te investeren in crypto
 
 ![Finst Crypto Kopen](/images/migrated/finst-crypto-kopen-2.webp "Finst Crypto Kopen")
 
-### 1\. Finst
+### 1. Finst
 
 Goedkoopste exchange. Mogelijkheid tot investeren in bundels.
 
@@ -51,7 +51,7 @@ of [lees Finst review](/blog/review/finst-crypto-exchange/)
 
 ![Bitvavo affiliate programma](/images/migrated/bitvavo-affiliate-programma-1.webp "Bitvavo affiliate programma")
 
-### 2\. Bitvavo
+### 2. Bitvavo
 
 Grootste crypto exchange van de Benelux met veel crypto.
 

@@ -34,7 +34,7 @@ Als je bij dit artikel terecht bent gekomen, dan ga ik ervan uit dat je al weet 
 
 Dan kunnen we hier door met het echte werk. De komende acht stappen kun je gebruiken om te onderzoeken **of een NFT project een succesvolle flip op kan leveren**. Het voorbeeld dat we gebruiken om de research toe te lichten is die van _Ape Harmony Monster Club_.
 
-### 1\. Hoe groot is de NFT collectie?
+### 1. Hoe groot is de NFT collectie?
 
 First things first. Je zou natuurlijk direct kunnen kijken naar de potentiële vraag naar een NFT project, want een **hogere vraag betekent een hogere prijs**. Maar daarvoor is ook het aanbod, vaak ook de **supply** genoemd, enorm belangrijk.
 
@@ -48,7 +48,7 @@ Of als het NFT project niet genoeg aandacht weet te genereren, dan zal de prijs 
 
 Het aanbod bij ons voorbeeld is hier dus 1100 (1.1K items). Daarmee is het een **relatief kleine collectie**. Op zichzelf staand is dit niet een gegeven waar je iets mee kan, maar je zult het later in je NFT onderzoek gebruiken om te weten hoe het aanbod met de vraag in verhouding staat.
 
-### 2\. Hoeveel NFTs staan er te koop uit een collectie?
+### 2. Hoeveel NFTs staan er te koop uit een collectie?
 
 Nu je weet hoeveel NFTs er zijn is het goed om te weten **hoeveel daarvan er te koop staan**.
 
@@ -62,7 +62,7 @@ In dit voorbeeld gaat het om **175 items**. Zo’n **15% van de totale collectie
 
 Goed om hierbij te weten is dat bij dit voorbeeld **de gehele collectie al is gemint**. Wanneer dat bij een NFT project nog niet het geval is, dan is dit niet relevant en zullen andere stappen in dit NFT onderzoek interessanter zijn.
 
-### 3\. Wat is het handelsvolume?
+### 3. Wat is het handelsvolume?
 
 Is er veel handelsvolume in dit NFT project? In ons voorbeeld is er al zo’n **810 Ethereum** verhandelt. Wanneer we daar dieper induiken kunnen we ook zien of dit handelsvolume recent is geweest. Vooral dat laatste is belangrijk. Je wilt er namelijk zeker van zijn dat als jij de NFT koopt, je deze later weer kan doorverkopen.
 
@@ -72,7 +72,7 @@ Je ziet in bovenstaande grafiek, die je kunt vinden op OpenSea, dat het handelsv
 
 Zo geeft de blauwe lijn het handelsvolume in Ethereum aan en de lichtblauwe balkjes het aantal verhandelde NFTs. Samengevat worden nu dus **in totaal minder NFTs verhandeld, maar wel tegen een hogere prijs per NFT**.
 
-### 4\. NFT Secrets methode sales berekening
+### 4. NFT Secrets methode sales berekening
 
 Dan nu een interessant onderdeel. Namelijk berekenen **hoeveel verkopen er nodig** zijn voordat de floor price van een NFT collectie is gestegen tot **jouw gewenste verkoopprijs**.
 
@@ -92,7 +92,7 @@ In totaal staan er dus 70 (175-105) NFTs te koop tussen de huidige floor price e
 
 Natuurlijk is dit model niet waterdicht, maar het geeft je wel inzicht in een **mogelijke prijsstijging** ;).
 
-### 5\. De website van het NFT project
+### 5. De website van het NFT project
 
 Oké, dit is niet super [web 3](/blog/web3/web-3-decentralisatie/), maar als je op de vorige stappen positief bent uitgekomen, dan is het tijd om te kijken naar de website van het NFT project. Online zichtbaarheid zegt een hoop over de NFT en helpt je om het verdere onderzoek te doen.
 
@@ -115,7 +115,7 @@ Nu je toch op de website bent van het NFT project is dit ook direct een mooi mom
 
 De utility van een NFT project kan zo gek of zinloos zijn als het is. Belangrijk is dus om te kijken of deze daadwerkelijk waarde toevoegt. Soms kom je echt hele vette dingen tegen, **dat zou een signaal moeten zijn** dat het een goed NFT project betreft.
 
-### 6\. Get to know the team
+### 6. Get to know the team
 
 Misschien wel de belangrijkste stap van het NFT onderzoek. **Wie zit er achter een NFT project?** Kijk naar of dit bekende mensen zijn met een bepaalde reputatie. Zo ja, dan weet je zeker dat ze die reputatie niet voor een NFT project willen vergooien. Die zekerheid heb je lang niet bij iedere NFT collectie.
 
@@ -125,7 +125,7 @@ Wanneer de eigenaren **anoniem** zijn, en dat gebeurt nogal eens, zou ik voorzic
 
 Bij ons voorbeeld zit het met het team van de NFT collectie wel goed. Deze kunnen we namelijk ook **verifiëren** door naar de socials te gaan.
 
-### 7\. Check de Twitter following en engagement
+### 7. Check de Twitter following en engagement
 
 **Twitter is het kanaal van de crypto en NFT space geworden**. Waarom weet ik niet precies, maar vrijwel ieder NFT project is op Twitter te vinden. Ook die van het team van Ape Harmony Monster Club.
 
@@ -135,7 +135,7 @@ Staar je bij een Twitter account niet blind op het aantal volgers. Deze zijn gem
 
 Dingen waar je op Twitter naar kan kijken is **een combinatie van activiteit, aantal volgers, reacties en interactie**.
 
-### 8\. De Discord community
+### 8. De Discord community
 
 Iedere NFT collectie heeft een Discord community. Althans bijna allemaal dan. Dit is een plek **waar de community samenkomt**.
 

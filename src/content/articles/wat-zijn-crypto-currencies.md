@@ -44,11 +44,11 @@ Cryptocurrency is beschikbaar als munten of tokens. Munten zijn meer als traditi
 
 Bitcoin was de eerste geïntroduceerde cryptocurrency en is de meest verhandelde. Ethereum is de op een na meest waardevolle cryptocurrency en kan worden gebruikt voor complexe transacties. Andere bekende cryptocurrencies, de zogenaamde altcoins, zijn onder andere Cardano, Solana, Dogecoin en XRP.
 
-## **De beste NL Exchanges om te investeren in crypto**
+## De beste NL Exchanges om te investeren in crypto
 
 ![Finst Crypto Kopen](/images/migrated/finst-crypto-kopen-2.webp "Finst Crypto Kopen")
 
-### 1\. Finst
+### 1. Finst
 
 Goedkoopste exchange. Mogelijkheid tot investeren in bundels.
 
@@ -63,7 +63,7 @@ of [lees Finst review](/blog/review/finst-crypto-exchange/)
 
 ![Bitvavo affiliate programma](/images/migrated/bitvavo-affiliate-programma-1.webp "Bitvavo affiliate programma")
 
-### 2\. Bitvavo
+### 2. Bitvavo
 
 Grootste crypto exchange van de Benelux met veel crypto.
 

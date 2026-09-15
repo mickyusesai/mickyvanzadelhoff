@@ -42,6 +42,5 @@ Ironisch genoeg, heb ik nu het financieel wat meer vanzelf gaat ([vanwege een pa
 
 Als jij je in dit verhaal herkent en het je leuk lijkt om aan zo’n dag deel te nemen, dan kom ik graag met je in contact. Wanneer je je e-mail hieronder achterlaat (ik stuur je niets anders dan dingen over dit project), krijg ik een beeld van de interesse en kan ik zo’n dag gaan organiseren. Uiteraard houd ik je dan op de hoogte als er een datum wordt geprikt. Het lijkt me tof om **meer waarde te geven en dit woord verder te verspreiden**. Delen van dit artikel wordt dan ook gewaardeerd ?.
 
-# Laten we het goede doen.
+## Laten we het goede doen.
 
-\[enormail\_form form\_id=7\]

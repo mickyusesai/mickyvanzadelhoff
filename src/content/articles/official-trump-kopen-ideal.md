@@ -32,6 +32,7 @@ TRUMP is een typische **meme coin**. Dit betekent dat het geen intrinsieke waard
 
 Net als andere meme coins, zoals [Dogecoin](/blog/web3/dogecoin-doge-kopen-ideal-bancontact/) en [Shiba Inu](/blog/web3/shiba-inu-shib-kopen-ideal-bancontact/), kan TRUMP extreem volatiel zijn. De waarde wordt voornamelijk gedreven door hype en speculatie. Hoewel sommige beleggers aanzienlijke winsten hebben gemaakt met meme coins, is er ook een risico dat de prijs snel kan dalen, vooral als vroege investeerders hun tokens verkopen.
 
+<!-- TODO: verify this data is still current (meme-coin promo, Pikamoon pick "begin 2025", MEXC) -->
 ## Klaar om de volgende 100x meme-coin sensatie te ontdekken? 🚀
 
 Duik in de wereld van meme-coins en grijp potentieel enorme winsten! Maar hoe koop je die veelbelovende tokens **voordat** ze op de grote exchanges verschijnen? 🤯
@@ -63,7 +64,7 @@ Critici waarschuwen dat het bezit van **80% van de tokens door Trump-gerelateerd
 
 ![official-trump-coin-crypto](/images/migrated/official-trump-coin-crypto-1.webp "official-trump-coin-crypto")
 
-## Hier **koop je** OFFICIAL TRUMP (TRUMP) **met iDEAL en Bancontact**
+## Hier koop je OFFICIAL TRUMP (TRUMP) met iDEAL en Bancontact
 
 Wil je investeren in de Official Trump Coin? Gelukkig kun je $TRUMP eenvoudig kopen via betrouwbare crypto exchanges die werken met **iDEAL** of **Bancontact**. Twee platforms die we aanraden zijn **[Finst](/go/finst)** en **[Bitvavo](/go/bitvavo)**.
 
@@ -85,11 +86,11 @@ Wil je investeren in de Official Trump Coin? Gelukkig kun je $TRUMP eenvoudig ko
 
 Als je twijfelt tussen Finst en Bitvavo, kun je overwegen om beide platforms uit te proberen en te kijken welke je het beste bevalt.
 
-## **De beste NL Exchanges om te investeren in crypto**
+## De beste NL Exchanges om te investeren in crypto
 
 ![Finst Crypto Kopen](/images/migrated/finst-crypto-kopen-2.webp "Finst Crypto Kopen")
 
-### 1\. Finst
+### 1. Finst
 
 Goedkoopste exchange. Mogelijkheid tot investeren in bundels.
 
@@ -104,7 +105,7 @@ of [lees Finst review](/blog/review/finst-crypto-exchange/)
 
 ![Bitvavo affiliate programma](/images/migrated/bitvavo-affiliate-programma-1.webp "Bitvavo affiliate programma")
 
-### 2\. Bitvavo
+### 2. Bitvavo
 
 Grootste crypto exchange van de Benelux met veel crypto.
 

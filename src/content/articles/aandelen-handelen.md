@@ -16,7 +16,7 @@ Als je **begint met beleggen in aandelen** dan kun je dat het beste doen door ge
 
 In dit artikel vertel ik je **hoe je kunt beleggen in aandelen****, hoe daar geld mee wordt verdient, wat beleggingsfondsen, ETF´s en CFD´s zijn en we duiken in de risico’s**. Om goed van start te gaan, even terug naar de basics; wat is een aandeel eigenlijk?
 
-## **1\. Wat is een aandeel?**
+## 1. Wat is een aandeel?
 
 Een aandeel is in theorie **een stukje bedrijf wat jij kunt bezitten**. Je koopt dan een aandeel in een bedrijf en bent daarmee letterlijk een beetje de eigenaar. Bedrijven brengen deze aandelen vaak uit om geld in te zamelen voor een grote investering. Dat gebeurt dan via een zogenoemde **beursgang**.
 
@@ -38,7 +38,7 @@ Wanneer je gaat investeren in aandelen, is het goed **om de juiste strategieën 
 
 [**Leer hoe je de juiste aandelen kunt vinden en deze eenvoudig kunt analyseren. Bekijk deze cursus >>**](/go/cursus-aandelen)
 
-## **2\. Kies een broker om te beleggen in aandelen**
+## 2. Kies een broker om te beleggen in aandelen
 
 In het algemeen heb je voor het beleggen in aandelen altijd een investeringsaccount nodig. In veel gevallen kun je dan spreken van een zogenaamde ‘**broker**’.
 
@@ -78,7 +78,7 @@ Tegenwoordig kun je ook **starten met beleggen** in aandelen met jouw eigen bank
 
 Of de broker **aansluit op jouw strategie** hangt af van of je aandelen vooral snel wilt verhandelen als swing trader, of dat je ze voor de lange termijn vast wilt houden. Veel brokers rekenen namelijk kosten voor het hebben van aandelen in jouw portefeuille. Iets voor de lange termijn vasthouden kan daarmee duurder worden.
 
-## 3\. Het verschil tussen aandelen en een beleggingsfonds
+## 3. Het verschil tussen aandelen en een beleggingsfonds
 
 Er is een groot verschil tussen beleggingsfondsen en op de beurs verhandelde aandelen. Bij een beleggingsfonds kun je **met één transactie gelijk een hele hoop verschillende aandelen kopen**. Deze zitten als het ware in één pakket. Een beleggingsfonds haalt in feite **collectief geld** op om hier een gedifferentieerde portefeuille van te maken.
 
@@ -108,17 +108,11 @@ Instappen in zo’n ETF kan [via eToro](/go/etoro-trading) en is daarmee relatie
 
 Je kunt hierbij kiezen voor een zeer algemene ETF of een ETF die specifiek gericht is op bijvoorbeeld de tech sector. Alleen al op eToro **vind je meer dan 300 verschillende ETF’s om in te investeren**.
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
-
-## 4\. Creëer een budget om te beleggen in aandelen
+## 4. Creëer een budget om te beleggen in aandelen
 
 Wanneer je nieuw bent met het beleggen in aandelen zit je nu waarschijnlijk **met twee vragen**.
 
@@ -134,7 +128,7 @@ Als je via fondsen of ETF’s belegt, dan kun je daar een groot deel van je verm
 
 Wanneer we het hebben over individuele aandelen wordt het een heel ander verhaal. Hier is het verstandig om **jouw kansen te spreiden**. Kijk bijvoorbeeld of je jouw investering kunt verdelen tussen hoog risico aandelen en laag risico aandelen.
 
-## **5\. Focus op de lange termijn**
+## 5. Focus op de lange termijn
 
 **Beleggen in aandelen gaat vaak gepaard met ingewikkelde strategieën**. Al is dat niet zozeer altijd nodig. Zo houden veel beleggers gewoon vast aan een aantal vuistregels.
 
@@ -162,7 +156,7 @@ Wanneer je nu **€10.000** investeert met een gemiddeld rendement van 7,1%, dan
 
 Zie je wat hier gebeurt? De bedragen lopen zo snel op omdat je ook rendement over rendement krijgt. **Lange termijn investeren loont dus**.
 
-## **6\. CFD’s, leverage en het hefboomeffect**
+## 6. CFD’s, leverage en het hefboomeffect
 
 Oké, we hebben het nu gehad over het langetermijndenken. Echter zijn er ook andere manieren om met een minimale investering geld te verdienen met aandelen. Dat doe je door te handelen in aandelen met een hefboomeffect.
 
@@ -184,7 +178,7 @@ Bij eToro kun je de optie voor CFD’s vinden onder de term ‘[leverage](/go/cf
 
 Omdat leverage traden grote risico’s met zich meebrengt is het lang niet voor iedereen aan te raden. Wees jezelf **bewust van deze risico’s** en gebruik bij het handelen in CFD’s altijd een stoploss om te voorkomen dat je meer verliest dan je zou willen riskeren… Als je niet weet wat een stoploss is, dan is leverage traden nu nog niet the way to go ;).
 
-## **7\. Risico’s bij beleggen in aandelen**
+## 7. Risico’s bij beleggen in aandelen
 
 Beleggen in aandelen is **nooit zonder risico’s**. Laten we daarom kijken naar welke risico’s het eigenlijk met zich meebrengt. Zoals eerder al gezegd is het risico met een beleggingsfonds of ETF kleiner, dan met individuele aandelen. Maar ook met minder potentieel.
 
@@ -202,7 +196,7 @@ Als je belegt in Amerikaanse aandelen en dus met dollars, dan kan een wijziging 
 
 De liquiditeit van een bedrijf gaat over in hoeverre een bedrijf kan beschikken over financiële middelen. Een liquiditeitsrisico houdt in dat aandelen niet of moeizaam worden verkocht en daardoor een prijsdaling van een aandeel teweegbrengen. Met die prijsdaling wordt de vraag naar een aandeel weer opgekrikt.
 
-## **8\. Conclusie beleggen in aandelen**
+## 8. Conclusie beleggen in aandelen
 
 Klaar om te beleggen in aandelen? [Maak een account aan bij een online broker](/go/etoro-trading) en je kunt vandaag nog beginnen met het opbouwen van jouw portefeuille. Afhankelijk van het risico dat jij acceptabel vindt, kun je kiezen voor:
 
@@ -216,12 +210,3 @@ Succes met het **beleggen in aandelen** gewenst!
 
 [**Leer hoe je de juiste aandelen kunt vinden en deze eenvoudig kunt analyseren. Bekijk deze cursus >>**](/go/cursus-aandelen)
 
-#### _GRATIS Digital Nomad Boek_
-
-## **Dé inspiratie voor een vrij leven**
-
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

@@ -32,7 +32,7 @@ Dat verdient best goed en zorgt voor een stabiel inkomen tijdens mijn reizen. On
 
 [Bekijk online marketing cursus](/go/imu-online-marketing-cursus)
 
-## **Dit doet een online marketeer**
+## Dit doet een online marketeer
 
 Als online marketeer heb je vaak **twee doelen.** Zorgen dat er meer mensen bekend raken met een bedrijf én zorgen dat die mensen meer kopen bij het bedrijf.
 
@@ -92,27 +92,21 @@ Denk alleen maar aan de opkomst van chatbots, [metaverse](/blog/web3/geld-verdie
 
 Om aan de slag te gaan als online marketeer leer je dus de basis van online marketing en verdiep je je in één van de vele specialisaties. Daarna volgt de volgende stap; **het krijgen van online marketing klanten!**
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
 
 ## Klanten krijgen als online marketeer
 
 Als online marketeer werk je waarschijnlijk als zelfstandige of binnen [jouw eigen bedrijf](/blog/ondernemen/eigen-bedrijf-starten/). Om geld te verdienen zul je klanten nodig hebben. Om aan klanten te komen gebruik je één van deze **vijf manieren**.
 
-### 1\. Klanten krijgen via jouw netwerk
+### 1. Klanten krijgen via jouw netwerk
 
 Het zou gek zijn om niet te beginnen met jouw eigen netwerk. Geloof het of niet, maar daar zitten waarschijnlijk **jouw eerste klanten**. Omdat deze mensen al bekend zijn met jou is het makkelijker om hen aan je te binden; het vertrouwen is er dan al.
 
 Je klanten hoeven niet per se uit je **directe netwerk** te komen. Delen wat je doet in de online marketing kan er namelijk ook toe leiden dat je via via wat klanten scoort.
 
-### 2\. Acquisitie mail met jouw aanbod
+### 2. Acquisitie mail met jouw aanbod
 
 **Mail bedrijven met de vraag of jij ze mag helpen om extra online verkopen te realiseren**. Dit was voor mij aan het begin dé manier om aan mijn klanten te komen.
 
@@ -120,13 +114,13 @@ Natuurlijk zal lukraak mailen je niets opleveren. Maar wanneer je dit goed doet,
 
 Als dit voor jou ook een goede manier zou zijn om aan je eerste klanten te komen, kijk dan eens naar hoe je zelf zo’n mail schrijft in [dit artikel](/blog/ondernemen/acquisitie-mail-voorbeeld1/). Daar vind je tevens de mail die ik gebruikte om aan mijn eerste klanten te komen.
 
-### 3\. Gebruik je website voor een passieve klantenstroom
+### 3. Gebruik je website voor een passieve klantenstroom
 
 Tegenwoordig krijg ik zelf de meeste klanten voor online marketing opdrachten via de website waar je nu op zit. Op deze website heb ik tal van artikelen geschreven en krijg ik [meer dan 50.000 bezoekers per maand](/blog/ondernemen/meer-website-bezoekers/) via Google. In sommige artikelen vraag ik mensen **of ik iets voor ze kan betekenen** en dat leidt tot nieuwe klanten.
 
 Fijn aan deze methode is dat ik er niet veel werk meer aan heb omdat de artikelen al op mijn website staan en dus bezoekers trekken. Ook direct een mooi voorbeeld van **practice what you preach**! Zo zien andere ondernemers immers dat ik weet hoe ik mijn eigen website zichtbaar maak.
 
-### 4\. Cold calling
+### 4. Cold calling
 
 Dit zou mijn manier niet zijn, maar er zijn veel online marketeers die dit doen. **Ze bellen simpelweg bedrijven** die ze vinden op het internet en proberen vervolgens een afspraak te maken voor een gesprek.
 
@@ -134,7 +128,7 @@ Tijdens zo’n gesprek kun je laten zien wat jouw online marketing diensten alle
 
 Heb je deze resultaten nog niet? Dan is het waarschijnlijk een goed idee om eerst een keer **gratis** voor iemand aan de slag te gaan, zodat je de resultaten daarvan aan toekomstige potentiële klanten kunt voorleggen.
 
-### 5\. Adverteren op social media
+### 5. Adverteren op social media
 
 Mocht jouw online marketing specialisatie zijn dat je **advertenties opzet voor bedrijven op social media**, dan ligt het voor de hand om die bedrijven ook te bereiken via die social media.
 
@@ -163,7 +157,7 @@ Houdt er bij online marketing rekening mee dat je verdiensten ook veel afhangen 
 *   **Contentmarketing**: €1500,- per maand, afhankelijk van het aantal artikelen/video’s dat je voor de klant maakt en de kwaliteit daarvan.
 *   **Affiliate marketing**: Gemiddeld 10% van de verkoopwaarde van het product of de dienst.
 
-## **Weet wat je doet met online marketing**
+## Weet wat je doet met online marketing
 
 Dan is er nog een laatste tip die ik aan je mee wil geven als je geld wilt verdienen met online marketing en er een succes van wilt maken. **Je hoeft het wiel niet opnieuw uit te vinden**.
 
@@ -177,12 +171,3 @@ Succes!
 
 [Ga aan de slag met de meest uitgebreide online marketing cursus en community op de Nederlandse markt. >>](/go/imu-online-marketing-cursus)
 
-#### _GRATIS Digital Nomad Boek_
-
-## **Dé inspiratie voor een vrij leven**
-
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

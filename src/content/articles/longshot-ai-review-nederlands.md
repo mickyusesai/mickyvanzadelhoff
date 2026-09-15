@@ -1,8 +1,8 @@
 ---
-title: "LongShot de beste AI tool voor Nederlandse content? [2023 Review]"
-description: "Een AI tool die hoogwaardige Nederlandse content kan schrijven… Het was even zoeken, maar met LongShot heb ik er één gevonden! Niet zozeer om al het…"
+title: "LongShot AI review 2026 – De beste AI tool voor Nederlandse SEO content?"
+description: "LongShot AI review uit eigen ervaring: wat de tool kan, hoe je er Nederlandse SEO-artikelen mee schrijft, wat het kost en of het in 2026 nog beter is dan ChatGPT."
 date: 2023-02-03
-updated: 2023-02-03
+updated: 2026-09-14
 category: "review"
 slug: "longshot-ai-review-nederlands"
 lang: "nl"
@@ -10,113 +10,102 @@ draft: false
 featuredImage: "/images/migrated/longshot-ai-review-nederlands-1.webp"
 ---
 
-Een **AI tool** die hoogwaardige **Nederlandse content** kan schrijven… Het was even zoeken, maar met **LongShot** heb ik er één gevonden! Niet zozeer om al het schrijfwerk volledig van mij als blogger over te nemen, maar vooral om in te schakelen als kwalitatieve schrijf assistent.
+Een **AI tool** die hoogwaardige **Nederlandse content** kan schrijven. Begin 2023 was dat nog even zoeken, en met **LongShot** vond ik er één. Niet om al het schrijfwerk van mij als blogger over te nemen, maar als kwalitatieve schrijfassistent die ook nog eens zijn feiten checkt.
 
-Met LongShot lukt het om binnen no-time blogs te schrijven en zit ik nooit meer zonder ideeën. In deze **LongShot review** lees je over de verschillende toepassingen en integraties van deze AI tool en voor welke **hoe je deze het beste kunt gebruiken.**
-
-Door deze review heen wordt vanzelf duidelijk waarom je als **copywriter** liever met een AI tool als LongShot aan de slag gaat, dan met ChatGPT. ;)
+In deze **LongShot review** lees je wat de tool kan, hoe je er stap voor stap een Nederlands artikel mee schrijft, wat het kost en, de vraag van 2026, **of je LongShot nog nodig hebt nu ChatGPT en Claude ook op internet kunnen zoeken**. De screenshots komen uit mijn eigen account.
 
 ## Wat is LongShot en wat kun je ermee?
 
-Longshot is een applicatie die kunstmatige intelligentie gebruikt om teksten te schrijven. Een zogenoemde **AI copywriting tool**.
+LongShot is een **AI-schrijftool voor SEO-content**: artikelen die goed moeten scoren in Google. De tool is gespecialiseerd in **long-form content** (1000+ woorden) en neemt je mee door het hele proces: onderzoek, outline, tekst, optimalisatie.
 
-![AI schrijf assistent LongShot](/images/migrated/ai-schrijf-assistent-longshot-1.webp "AI schrijf assistent LongShot")
+![AI schrijfassistent LongShot](/images/migrated/ai-schrijf-assistent-longshot-1.webp "AI schrijfassistent LongShot")
 
-LongShot is bedoelt om **kwalitatieve SEO content** te creëren die helpt om hoog te ranken in Google met jouw website of blog. De AI tool is specifiek goed in het genereren van **long-form content** (1000+ woorden) en kan dus volledige artikelen voor jou schrijven.
+Naar mijn mening werkt LongShot het beste als **writing assistant**. Tijdens het schrijven van een blog laat ik de AI stukken onder bepaalde kopjes genereren, vooral de delen waar ik normaal onderzoek voor moet doen. Dat versnelt het research- en schrijfproces enorm.
 
-Naar mijn mening werkt LongShot het beste als ‘**writing assistent**‘. Tijdens het schrijven van een blog laat ik de AI teksten voor onder bepaalde kopjes genereren. Vooral voor stukken waar je normaal onderzoek voor moet doen, **versneld dit het research en schrijf proces** enorm!
+## De functies van LongShot
 
-## Functies van LongShot
+Toen ik voor het eerst door de functies bladerde, was ik verrast. Het grootste verschil met een gewone chatbot: **LongShot doet live onderzoek op internet en zet bronnen bij wat het schrijft**. In 2023 was dat uniek (ChatGPT dacht toen nog dat de queen leefde). In 2026 kunnen ChatGPT, Claude en Gemini dat ook, maar LongShot heeft het ingebouwd in een SEO-workflow, en dat is het verschil.
 
-Toen ik voor het eerst door de **functies van LongShot** bladerde was ik verrast met de mogelijkheden. Daar kwam namelijk ook gelijk het allergrootste en meest essentiële verschil met het gratis te gebruiken [ChatGPT](/blog/ondernemen/chat-gpt-ai-voor-ondernemers/) om de hoek ;).
+![LongShot functies en templates](/images/migrated/longshot-functies-templates-1.webp "LongShot functies en templates")
 
-LongShot kan **actueel feiten checken en schrijven**. Deze functie vereist wat geduld (omdat de tool **live research doet** op het internet), maar is van gigantische waarde. Op basis van de laatste artikelen/updates kan LongShot al direct na een voetbalwedstrijd een samenvatting van die wedstrijd schrijven. Je hoeft dus nooit meer bang te zijn voor **verouderde en onjuiste informatie**. De tool is daardoor ook goed te gebruiken als fact checker!
+De functies die ik zelf het meest gebruik:
 
-Mij valt op dat met deze functie ‘**Factual instruct (Web style instruct)**‘ ook veel artikelen over actuele onderwerpen er hoogwaardig uitkomen. Want stel dat je iets laat schrijven over relatief nieuwe producten (of over actualiteiten), dan is het wel belangrijk dat deze teksten accurate informatie bevatten, **daar gaat het bij ChatGPT namelijk steeds mis** omdat zij werken met een dataset uit 2021 (volgens hen leeft de queen nog).
+- **Blog writer:** van zoekwoord naar outline naar volledig artikel, in stappen waar jij bij elke stap invloed op houdt. Niets zo vervelend als een AI die een artikel schrijft waar je niets aan hebt.
+- **Fact-checker:** LongShot controleert claims en zet bronnen erbij. Onmisbaar voor artikelen over actuele onderwerpen, producten en prijzen.
+- **Rephraser:** een bestaande tekst (bijvoorbeeld van een concurrent) herschrijven tot unieke content, zonder plagiaat.
+- **Samenvatting of conclusie schrijven** voor een lang stuk tekst.
+- **Explain like I'm 5:** een ingewikkeld stuk leesbaar maken voor iedereen. Voor mij handig toen ik over crypto schreef.
+- **SEO-suggesties:** zoekwoorden, vragen uit Google en de outlines van concurrenten, direct in de editor.
 
-![LongShot functies templates](/images/migrated/longshot-functies-templates-1.webp "LongShot functies templates")
+Er zit ook een functie in die reviews genereert die door echte mensen geschreven lijken. Niet heel ethisch als je het mij vraagt; die laat ik links liggen.
 
-Uiteraard heeft deze AI copywriting tool ook **alle functies** die je graag zou hebben als fanatiek blogger en tekstschrijver. Ik bespreek er hieronder enkelen:
+<!-- TODO: verify this data is still current (huidige functies en naamgeving in LongShot, bijvoorbeeld de fact-check functie en integraties) -->
 
-*   **Rephraser:** Herschrijf content vanuit een bestaande blog zonder dat er sprake is van plagiaat. Dit kan handig zijn wanneer je een zelfde soort blog wilt als bijvoorbeeld een concurrent.
-*   **Blog schrijver:** Schrijf uit het niets een long form (1000+ woorden) blog én blijf invloed houden op het schrijfproces. Niets zo vervelend als een AI die een artikel schrijft waar je niets aan hebt! Bij LongShot schrijf je een blog in meerdere stappen die de AI allemaal voor jou (en met jou) uitvoert. Van blog idee en research, naar blog outline en daadwerkelijke content.
-*   **Actuele fact checker:** LongShot heeft wél toegang tot het internet en kan teksten genereren die feitelijk zijn op basis van actualiteit. De AI tool schrijft dus geen achterhaalde informatie.
-*   **Samenvatting of conclusie schrijven:** Als je een lang stuk tekst geeft aan LongShot dan kan de AI daar een samenvatting of conclusie voor schrijven.
-*   **Explain Like I’m 5:** Je raad het al, deze functie maakt eens stuk tekst leesbaar voor iedereen. Dit was voor mijzelf in het bijzonder handig toen ik crypto gerelateerde artikelen aan het schrijven was.
-*   **Reviews:** Niet heel ethisch als je het mij vraagt, maar deze AI kan reviews genereren voor jouw bedrijf die geschreven lijken door échte mensen.
-
-![training-ai-kunstmatige-intelligentie-in-company](/images/migrated/training-ai-kunstmatige-intelligentie-in-company-2.webp "training-ai-kunstmatige-intelligentie-in-company")
-
-### **Training AI op locatie 2024**
-
-De wereld waarin we werken veranderd ontzettend snel. Breng jezelf en jouw team op de hoogte van de laatste ontwikkelingen en leer **hoe AI tools zoals ChatGPT en Gemini zijn in te zetten voor productiviteit, (werk)geluk en succes!**
-
-Duur: 3 uur  
-Investering: 950,- ex BTW  
-Formaat: Tot 30 deelnemers
-
-[Contact voor meer info](/contact/)
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Zo gebruik je LongShot in het Nederlands
 
-Eerlijk is eerlijk, mijn eerste ervaring met LongShot was er een vol irritatie. Nou gebeurt dat al snel met een AI copywriting tool en dat heeft vooral te maken met het feit dat ik **Nederlandse output** wil. Als je dit niet duidelijk aangeeft, dan krijg je het niet.
+Eerlijk is eerlijk: mijn eerste ervaring met LongShot was er een vol irritatie. Dat gebeurt snel met een AI-schrijftool, en het had vooral te maken met het feit dat ik **Nederlandse output** wil. Als je dat niet duidelijk instelt, krijg je het niet.
 
-Je moet dus eerst **leren samenwerken met de AI assistent** voordat je er zeeën van tijd mee bespaart. Dat leren samenwerken en toepassen van de verschillende funties kostte mijzelf slechts een klein uurtje.
+Je moet dus eerst **leren samenwerken met de assistent** voordat je er zeeën van tijd mee bespaart. Bij mij kostte dat een klein uurtje.
 
-### Blog schrijven met LongShot
+### Stap 1: kies de blog-template en stel Nederlands in
 
-Wanneer je een ([1$ trial](/go/longshot)) account hebt aangemaakt kun je direct beginnen met het schrijven van teksten. Dit doe je veelal door een template te kiezen, laten we voor dit voorbeeld de gewone **‘blog’ template** kiezen.
-
-Daar kunnen we al direct invullen **welke taal, welk keyword en welke focus** we als output willen.
+Wanneer je een [account](/go/longshot) hebt aangemaakt, kies je een template. Voor dit voorbeeld de gewone **blog-template**. Daar vul je direct in **welke taal, welk zoekwoord en welke focus** je wilt.
 
 ![Onderzoek doen met LongShot voor een blog](/images/migrated/research-longshot-2.webp "Onderzoek doen met LongShot voor een blog")
 
-Het is belangrijk om hier niet te vergeten **de Nederlandse taal in te stellen**. Zo weten we zeker dat er een goede outline voor een blog uitkomt. Wat me bij deze functie is opgevallen is overigens wel dat als je een onderwerp kiest dat veel Engelse termen bevat, LongShot ook Engelstalige suggesties gaat geven (dit is het geval met bijvoorbeeld crypto, AI en tech). Voor ons voorbeeld onderwerp is dit niet het geval.
+Vergeet niet **Nederlands in te stellen**. Wat me opviel: kies je een onderwerp met veel Engelse termen (crypto, AI, tech), dan geeft LongShot ook Engelse suggesties. Voor de meeste onderwerpen is dat geen probleem.
 
-LongShot geeft nu **relevante zoekwoorden, subtitels (uit andere artikelen), vragen en fact sheet** weer. Hieruit kunnen we simpelweg op wat dingen klikken die we graag in het artikel zouden hebben. Zie het als de ingrediënten voor jouw uiteindelijke blog. Hier kan de AI dan vervolgens mee aan de slag.
+### Stap 2: kies je ingrediënten
 
-![Suggesties LongShot AI](/images/migrated/suggesties-longshot-ai-1.webp "Suggesties LongShot AI")
+LongShot geeft nu **relevante zoekwoorden, tussenkoppen uit andere artikelen, vragen en een fact sheet**. Klik aan wat je in het artikel wilt hebben. Zie het als de ingrediënten voor je blog.
 
-Bij deze fase is het wel belangrijk om al direct selectief te zijn. LongShot staat je namelijk **niet** toe om meer dan 500 woorden te gebruiken om de ‘context’ van de uiteindelijke blog aan te geven. En geloof me, meer dan 500 woorden heb je daar ook zeker niet voor nodig! Selecteer dus alleen dat wat de veelzijdigheid (**context** dus) van jouw gewenste blog aangeeft.
+![Suggesties van LongShot AI](/images/migrated/suggesties-longshot-ai-1.webp "Suggesties van LongShot AI")
 
-In de volgende stap kun je **een titel voor jouw blog laten genereren**. Mocht je hier zelf al iets voor in gedachten hebben dan kun je die ook zelf invoeren door aan de rechterkant op het pennetje te klikken. Handig aan het laten genereren van een titel is echter dat LongShot al gelijk aangeeft **of het een goede of slechte titel is** (met betrekking tot doorklikpercentages op Google etc.)
+Wees hier selectief. LongShot staat maximaal **500 woorden context** toe, en geloof me, meer heb je niet nodig. Selecteer alleen wat de veelzijdigheid van je gewenste blog aangeeft.
 
-![Titel genereren blog LongShot](/images/migrated/titel-genereren-blog-longshot-1.webp "Titel genereren blog LongShot")
+### Stap 3: titel en outline
 
-Dat was al een goed deel van onze input, top! Nu is het tijd om de volledige outline voor onze blog te checken en aan te passen. Cool hieraan is dat je ook direct **de outline kan zien van de zelfde soort blogs van de concurrentie**. Daarbij geeft de AI ook advies voor het aantal tussenkoppen op basis van het gemiddelde aantal kopjes bij andere relevante blogs.
+Laat een titel genereren of voer je eigen titel in. Handig: LongShot geeft direct aan **of het een goede of slechte titel is** voor het doorklikpercentage in Google.
 
-Het is nu letterlijk zo simpel als **het aanklikken van verschillende titels die we in de uiteindelijke blog willen hebben**.
+![Titel genereren voor een blog met LongShot](/images/migrated/titel-genereren-blog-longshot-1.webp "Titel genereren voor een blog met LongShot")
 
-Vervolgens zet LongShot deze outline in een text editor neer en kun je **teksten genereren**. Let hierbij op dat een van de beste manieren om dat te doen is door de ‘**instruct me**‘ functie te gebruiken. Dan komen er kant-en-klare teksten uitrollen waar ik zelf vaak niets aan hoef aan te passen om ze te gebruiken!
+Daarna check je de outline. Je ziet **de outlines van vergelijkbare artikelen van de concurrentie** en krijgt advies over het aantal tussenkoppen. Het is letterlijk zo simpel als tussenkoppen aanklikken.
 
-![Instruct me functie LongShot](/images/migrated/instruct-me-functie-longshot-1.webp "Instruct me functie LongShot")
+### Stap 4: teksten genereren
 
-Qua workflow is het bij LongShot vooral kijken wat je zelf handig vind. Nu hebben we een blog gegenereerd volgens deze stappen, maar als je al een outline voor een blog hebt, dan kun je ook kortere teksten genereren met de stand alone **instruct me** functie. Beiden werken voor mij.
+LongShot zet de outline in een editor en nu laat je per kopje tekst genereren. Gebruik daarbij de **instruct-functie**: je zegt in gewone taal wat je onder een kopje wilt hebben en er komt een kant-en-klaar stuk uit dat ik vaak zonder aanpassingen kan gebruiken.
 
-Het feit is dat als je er eenmaal aan gewend bent, je binnen korte tijd **een kwalitatieve blog weet te produceren**.
+![Instruct-functie van LongShot](/images/migrated/instruct-me-functie-longshot-1.webp "Instruct-functie van LongShot")
 
-## LongShot uitproberen & prijzen
+Qua workflow is het vooral kijken wat je zelf handig vindt. Heb je al een outline, dan werkt de losse instruct-functie ook prima. Zodra je eraan gewend bent, produceer je in korte tijd een **kwalitatieve blog** waar je zelf nog een ronde overheen gaat voor je eigen ervaringen en mening. Dat laatste blijft in 2026 het verschil tussen een artikel dat scoort en een artikel dat verdwijnt tussen alle AI-tekst.
 
-Fijn om te weten; LongShot is zeker **niet de duurste** AI copywriting tool op de markt! Voor een paar tientjes per maand kun je al volwaardig aan de slag. Daarbij valt op dat je voor dat geld wel al direct veel ‘**credits**‘ krijgt. Deze heb je nodig om woorden te creëren met de AI. Het is een fijn idee dat je er zoveel krijgt dat je je er niet door beperkt hoeft te voelen.
+## LongShot uitproberen en prijzen
 
-Voordat je een betaald plan afneemt kun je eerst [LongShot voor 1$ uitproberen](/go/longshot). Deze trial duurt 5 dagen en geeft je direct **alle functies om de tool eens goed uit te proberen.**
-
-[LongShot uitproberen voor 1$](/go/longshot)
-
-Wanneer je vervolgens overstapt naar een betaald plan, kun je kiezen tussen **Pro, Team of Agency**. Voor de meesten zal de Pro variant voldoen, tenzij je met meerdere mensen op één account aan de slag wilt. Bijvoorbeeld wanneer je binnen één bedrijf meerdere marketeers hebt die met LongShot aan de slag gaan.
+LongShot is **niet de duurste** AI-schrijftool. Voor een paar tientjes per maand kun je volwaardig aan de slag, en je krijgt genoeg credits om je niet beperkt te voelen. De plannen lopen van een individueel abonnement tot team- en agency-varianten voor wie met meerdere marketeers werkt. Maandelijks opzeggen kan, jaarlijks betalen is goedkoper.
 
 ![LongShot AI prijzen](/images/migrated/longshot-ai-prijzen-1.webp "LongShot AI prijzen")
 
-In plaats van jaarlijks, kun je ook kiezen voor een maandelijks opzegbare optie. Dan komt er 10$ per maand bij voor het Pro of Team membership.
+Toen ik deze review schreef, kon je LongShot een paar dagen uitproberen voor 1 dollar. Check op de site wat de huidige proefperiode is.
 
-Al met al is LongShot een **goedkope kwalitatieve optie** als je het naast andere AI copywriting tools zet. Ook krijg je **méér woorden/credits** voor je geld.
+<!-- TODO: verify this data is still current (proefperiode, prijzen en plannen van LongShot) -->
+
+[LongShot uitproberen](/go/longshot)
+
+## LongShot of gewoon ChatGPT?
+
+De eerlijke afweging in 2026:
+
+- **Kies ChatGPT of Claude** als je af en toe een tekst schrijft en er graag over doorpraat. Ze zoeken inmiddels ook op internet en schrijven uitstekend Nederlands.
+- **Kies LongShot** als je **regelmatig SEO-artikelen** maakt en een vaste workflow wilt: onderzoek, concurrentie-analyse, outline, fact-check en tekst op één plek, met een team dat dezelfde stappen volgt.
+
+Zelf gebruik ik beide. Chatbots voor denken en schaven, LongShot voor het productiewerk van artikelen die moeten ranken.
 
 ## Conclusie LongShot review
 
-LongShot AI is een **geweldige tool voor het schrijven van (lange) blogs**. Aan het begin is het een beetje wennen aan de workflow, maar wanneer je eenmaal in de vibe zit, versneld het schrijfproces enorm! Het feit dat LongShot ook **actuele data** van het internet afhaalt, maakt de tool een stuk accurater dan andere tools die werken met verouderde data. Hierdoor is het ook voor meerdere soorten blogs in te zetten.
+LongShot is een **goede tool voor het schrijven van lange SEO-blogs**. In het begin is het wennen aan de workflow, maar zodra je erin zit, versnelt het schrijfproces enorm. Dat LongShot zijn feiten checkt en bronnen toevoegt, maakt het bruikbaar voor meer soorten artikelen dan de gemiddelde schrijftool.
 
-LongShot schrijft **goed in het Nederlands**, maar is af en toe een beetje onhandig wanneer je content wilt publiceren over onderwerpen waar veel Engelse woorden bij gebruikt worden (zoals crypto, tech en AI). Voor alle andere onderwerpen doet deze AI tool precies wat die belooft te doen; het neemt jouw werk uit handen.
+LongShot schrijft **goed in het Nederlands**, met af en toe een Engelse hobbel bij tech-onderwerpen. Voor copywriters, contentmarketeers en ondernemers met een blog die veel schrijven, blijft het een aanrader: je doet veel meer in veel minder tijd. Voor de incidentele schrijver is een chatbot genoeg.
 
-Ik zou LongShot aan iedereen aanraden die veel schrijft voor zijn werk. Of dit nu is als copywriter, content marketeer, of omdat je voor jouw bedrijf een blog op de website wilt. Het staat je toe om veel meer te doen in veel minder tijd!
-
-[LongShot uitproberen voor 1$](/go/longshot)
+[LongShot uitproberen](/go/longshot)

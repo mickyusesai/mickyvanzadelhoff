@@ -22,13 +22,13 @@ VeChain, oftewel VET, is niet zomaar een cryptomunt; het is een revolutionair bl
 
 De unieke kracht van VeChain ligt in de combinatie van Internet of Things (IoT) technologie en blockchain. Hierdoor kunnen bedrijven hun logistieke processen efficiënter en transparanter maken. Dit heeft geleid tot samenwerkingen met grote namen in verschillende sectoren, waaronder luxe goederen, wijnindustrie, en automotive.
 
-## Hier **koop je VeChain (VET) met iDEAL en Bancontact**
+## Hier koop je VeChain (VET) met iDEAL en Bancontact
 
 Als je VeChain wilt kopen, zijn [Bitvavo](/go/bitvavo) en [Finst](/go/finst) twee uitstekende platforms om te overwegen. Bitvavo staat bekend om zijn gebruiksgemak en klantvriendelijkheid, wat het een ideale keuze maakt voor zowel beginners als ervaren crypto-investeerders. Het platform ondersteunt zowel iDEAL als Bancontact, wat het aankoopproces voor Nederlandse en Belgische gebruikers vergemakkelijkt.
 
 [![Crypto kopen met iDEAL op Bitvavo](/images/migrated/crypto-kopen-met-ideal-op-bitvavo-1.webp)](/go/bitvavo)
 
-### 1\. Bitvavo
+### 1. Bitvavo
 
 Grootste van de Benelux met zeer lage handelskosten.
 
@@ -41,7 +41,7 @@ Grootste van de Benelux met zeer lage handelskosten.
 
 [![Finst Crypto Kopen](/images/migrated/finst-crypto-kopen-2.webp)](/go/blox)
 
-### 2\. Finst
+### 2. Finst
 
 Mogelijkheid tot investeren in bundels.
 

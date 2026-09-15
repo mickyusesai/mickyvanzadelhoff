@@ -12,7 +12,7 @@ featuredImage: "/images/migrated/wonen-en-werken-in-berlijn-e1541449360535.webp"
 
 Berlijn, de stad van techno, hippe start-ups en een vrije levensstijl. Klinkt als een ideale plek voor digital nomads, maar is dat ook zo? In dit artikel vertel ik je hoe het is om te wonen en te werken in Berlijn oftewel, de stad van de vrijheid.
 
-# Mensen leren kennen als digital nomad in Berlijn
+## Mensen leren kennen als digital nomad in Berlijn
 
 Berlijn kent een grote diversiteit aan mensen. Arm en rijk, jong en oud, punker of zakenman, voor iedereen is er een plekje in Berlijn. Deze diversiteit zorgt ervoor dat het vrij gemakkelijk is om als digital nomad connecties te leggen met locals.
 
@@ -20,7 +20,7 @@ In Berlijn gebeuren veel (aparte) dingen. Loop vooral veel rond en observeer. He
 
 > De mensen zijn erg open minded en staan vaak open voor een gesprek. Zelf ging ik naar parken, barretjes en hostels om mensen te leren kennen in Berlijn. Op deze manier, heb ik gemerkt, groeit je vriendenkring in hoog tempo in deze stad.
 
-# Werken vanuit Berlijn als digital nomad
+## Werken vanuit Berlijn als digital nomad
 
 Werken kan erg goed in Berlijn. Het werkte voor mij erg inspirerend om koffiezaakjes af te wisselen met de kunstige straten. De sfeer en stijl brachten mij veel dagelijkse inspiratie.
 
@@ -30,7 +30,7 @@ Daarnaast is er het Betahaus Café in Kruezberg. Dit café biedt goedkope flexwe
 
 > De app ‘moving nomads’ is een handige tool om te gebruiken bij het vinden van geschikte werkplekken in Berlijn. Ook bij veel andere steden hebben andere digital nomads al tips en adviezen gegeven over de beschikbare (goedkope) werkplekken.
 
-# Genieten van vrije tijd in Berlijn
+## Genieten van vrije tijd in Berlijn
 
 Yes, je bent in de hoofdstad van Duitsland, ik snap het. Je wilt eerst lekker de toerist uithangen voordat je je volgende routine creëert in Berlijn. Dan kom je uit bij de Berliner Dom, Branderburger Tor, Berlijnse muur en de Reichstag. Dat zouden zo ongeveer de eerste in je rijtje moeten zijn van je lokale bucketlist. Heb je tijd om meteen musea mee te pakken? Tof! Check dan ook meteen het Neues museum, Bauhaus Archives, Joods museum en het fotografie museum.
 
@@ -46,17 +46,17 @@ Berlijn staat ook bekend om zijn techno. Een avondje naar de club kun je dus eig
 
 Daarnaast zijn er nog clubs als Watergate en Matrix. Deze clubs draaien voornamelijk techno en zijn dus echt bedoeld voor de liefhebber. Verder ken ik weinig uitgaansgelegenheden. Wel weet ik, dat als je van jazz houdt, je echt nog even bij de Zig Zag Jazz club moet zijn geweest.
 
-# Wonen in Berlijn als digital nomad
+## Wonen in Berlijn als digital nomad
 
 Wonen in Berlijn wordt helaas ook steeds duurder. Toch zijn er zeker nog mogelijkheden om goedkoop te kunnen wonen. Zoals ik eerder al zei, is het Oosten van Berlijn iets armer, en dus ook iets goedkoper. Er is zelfs de mogelijkheid je tentje op te zetten midden in de stad, helemaal gratis! Er wonen namelijk veel daklozen in (dit deel van) Berlijn. Je denkt waarschijnlijk dat ik een grap maak, maar dat is niet het geval. Daklozen creëren allemaal hun eigen plekje. Hierdoor zie je soms meerdere tentjes of zelfgebouwde mini-huisjes staan. Let er maar eens op.
 
 Ik ga er alleen vanuit dat de meeste van jullie niet snel zullen overnachten in een tentje. Het brengt risico’s met zich mee en je slaapt niet goed. Als digital nomad in Berlijn wil je liever iets meer comfort zodat je de volgende dag weer fris bent om te werken en de stad te verkennen. Ik zal je uitleggen wat je kunt verwachten van de accommodatiemogelijkheden van de stad.
 
-## AirBnb in Berlijn
+### AirBnb in Berlijn
 
 De beschikbare woonplekken op AirBnb zijn vrij goedkoop. De meeste mensen kunnen een Airbnb hebben voor 20 tot 30 euro per nacht. Wil je graag je eigen plekje tijdens het rondreizen, dan is een Airbnb zeker een optie in Berlijn.
 
-## Tijdelijk wonen in hostels
+### Tijdelijk wonen in hostels
 
 De hostels in Berlijn zijn ook zeer goedkoop. Je kunt al voor 15 tot 20 euro klaar zijn per nacht. Daarnaast is een hostel een aangename plek om mensen te leren kennen. In Berlijn zitten een boel (goedkope) hostels. Voor een goed hostel ben je niet veel meer kwijt dan 20 euro per nacht. Twee hippe hostels waar ik zelf graag naartoe ga, zijn
 
@@ -64,7 +64,7 @@ De hostels in Berlijn zijn ook zeer goedkoop. Je kunt al voor 15 tot 20 euro kla
 *   Generator (Mitte) is een kleurrijk hostel met een minimalistisch interieur. Dit hostel bevindt zich in het oude communistische partij kantoor en biedt zo’n beetje alles dat nodig is om een fijne tijd te hebben in Berlijn.
 *   Tot slot deel ik met jullie het Baxpax Downtown Hostel (Mitte). Dit backpackersverblijf straalt iets hips en jongs uit. Je hebt er heerlijk eten, en een groot aanbod. Tot slot gaat het er vooral om dat je hier goed kunt verblijven.
 
-# Prijzen in Berlijn
+## Prijzen in Berlijn
 
 Berlijn is niet de goedkoopste stad, maar zoals ik al zei heeft het communisme zijn sporen achtergelaten in het oosten. Dit merk je echter pas als je in een koffie- of eet zaakje zit. Producten uit de supermarkt, kledingwinkels en musea kosten ongeveer even veel als in Nederland.
 
@@ -72,16 +72,10 @@ Berlijn is niet de goedkoopste stad, maar zoals ik al zei heeft het communisme z
 
 Maar eerlijk, Berlijn is een prachtige, levendige stad. Het is de moeite waard om iets meer lopend te doen. Desnoods kun je zelfs een fiets huren voor ongeveer een tientje per dag. Deze biedt een kaart met alle mogelijke fietshuur-mogelijkheden in de stad.
 
-# Conclusie wonen en werken in Berlijn als digital nomad
+## Conclusie wonen en werken in Berlijn als digital nomad
 
 Dus, al bij al kunnen we zeggen dat Berlijn een heerlijke stad kan zijn om te wonen en werken als digital nomad. De prijzen kunnen wel wat oplopen in deze West-Europese stad. Probeer daarom als je niet veel geld uit wilt geven goedkope plekken te vinden om te eten en te werken, die voornamelijk te vinden zijn in het oosten van Berlijn. Rondlopen blijft de key in deze veelzijdige stad om mensen te leren kennen en ervaringen op te doen. Veel plezier!
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

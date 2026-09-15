@@ -1,7 +1,7 @@
 # Migration plan: demodernenomaden.nl → mickyvanzadelhoff.com
 
-**Status (2026-09-14, end of session 3):** Phases 0–4 done. The "Electric playground" design is applied to every page (D15).
-**Next:** Phase 5 pre-launch part (refresh the 6 AI articles), then Phase 6 (Railway server, real 301s, launch). Still needed from Micky: the Google Analytics Measurement ID and the EasyReimburse text (see §7).
+**Status (2026-09-14, end of session 5):** Phases 0–4 done, Phase 5 pre-launch part done: article markup repaired site-wide and the 6 AI articles refreshed to 2026. Google Analytics wired (G-S08XB20E5W).
+**Next:** Phase 6 (Railway server with real 301s, launch checklist). After launch: Phase 5 batches.
 **Source of truth for this project.** Every session starts by reading this file and `docs/content-inventory.md`.
 Update the status lines and the decision log at the end of each session.
 
@@ -47,8 +47,10 @@ Done by `scripts/cleanup-content.py` (re-runnable): link rewrite (1,771 links), 
 - Homepage: Micky + workshops first, book, blog secondary. web3 hidden from listings (D3).
 - Still open: the EasyReimburse one-liner (TODO on the About page), the analytics tool on the privacy page, whether to show a business address.
 
-### Phase 5 — Content triage and refresh  ⏳ after launch, except the 6 AI articles
-Actions per article in `docs/content-inventory.md`. Batches of 10–15: ondernemen → online-geld-verdienen → digitalenomaden → review → web3. Claude drafts, Micky reviews, push.
+### Phase 5 — Content triage and refresh  ◐ pre-launch part done
+**Markup repair (all 174 articles, 2026-09-14):** `scripts/fix-article-markup.py` fixed the WordPress/Elementor conversion damage: 1,064 headings unwrapped from bold, stray H1s merged, levels normalised, 19 empty headings merged or removed, 107 FAQ-toggle anchor links unwrapped, leaked bol.com widget script and form/popup remnants removed, the repeated book and workshop promo blocks replaced by one styled box each (`.cta-box`), the meme-coin promo flagged, 122 image alt texts added. Left as is on purpose: 196 bold-only lines (emphasis, not headings), duplicated affiliate call-to-action lines.
+**Refreshed to 2026 (6 AI articles):** ai-tools-lijst (rebuilt as 50 tools by category; duplicates and 13 wrong links removed), chat-gpt-ai-voor-ondernemers (15 uses, tips, risks), sora-open-ai (Sora 2, availability, alternatives), longshot-ai-review-nederlands, copymatic-review, ai-crypto-kunstmatige-intelligentie (15 projects, presale coins and meme promo dropped, no price claims). Every uncertain fact carries a `<!-- TODO: verify -->` comment; Micky reviews those before launch.
+**After launch:** the remaining articles per `docs/content-inventory.md`, batches of 10–15: ondernemen → online-geld-verdienen → digitalenomaden → review → web3. Claude drafts, Micky reviews, push.
 
 ### Phase 6 — Launch and redirects  ⏳
 1. Add `@astrojs/node` (standalone) so Railway has a start command and `redirects` become real 301s instead of meta-refresh pages. Add a middleware: any request with host `demodernenomaden.nl` or `www.demodernenomaden.nl` gets a 301 to the same path on `mickyvanzadelhoff.com`, which then resolves through the redirect table. That lets Micky cancel WordPress hosting.
@@ -100,7 +102,7 @@ Actions per article in `docs/content-inventory.md`. Batches of 10–15: ondernem
 | D16 | EasyReimburse one-liner | Resolved from Micky's reference pack (PDF, 2026-09-14): AI travel reimbursement for Erasmus+ projects, weeks to minutes, Micky is founder. Applied on About and the build-week page. |
 | D17 | Build-week programme | Claude drafted a 5-day programme; Micky adjusts later. EasyReimburse is the example result. |
 | D18 | Co-trainer | Only Micky. |
-| D19 | Analytics, address | Google Analytics (Measurement ID still needed: set `PUBLIC_GA_MEASUREMENT_ID` on Railway). No address on the contact page. |
+| D19 | Analytics, address | Google Analytics, Measurement ID G-S08XB20E5W (default in `src/config/site.ts`, overridable with `PUBLIC_GA_MEASUREMENT_ID`). No address on the contact page. |
 | — | Strategy | Migrate 1:1 first, refresh after launch. |
 | — | How Micky answers | In chat, not on the board, so the answers are searchable in the conversation. |
 | — | Workation page | Retired by Claude (cancelled 2023 event); old URL → workations article. |
@@ -111,7 +113,7 @@ Article-level decisions (21 rows changed by Micky) are in `docs/content-inventor
 
 The Claude Code environment's network policy blocks `auxility.ca`, `easyreimburse.ai`, `elements.envato.com` and `illustrators.com`. Micky supplied a reference pack (PDF with full-page screenshots and written descriptions of auxility.ca and easyreimburse.ai) in chat on 2026-09-14; the facts are summarised in CLAUDE.md. Design refinements taken from it: dark bands with lime accents, glossy floating shapes, a lime spotlight in the hero, a stats strip, one repeated call to action.
 
-Still open: Google Analytics needs the **Measurement ID** (`G-…`), not the account ID.
+Google Analytics Measurement ID received (G-S08XB20E5W) and wired.
 
 ## 6. Working agreement
 

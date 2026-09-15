@@ -18,7 +18,7 @@ Eerst even dit. We hebben het hier dus over advertorials, branded en sponsored c
 
 Een advertorial is een advertentie in de vorm van een artikel, welke past binnen het geheel van jouw blog. Het hoeft dus niet opvallend af te wijken. Het is in feite gewoon een artikel waarvoor is betaald omdat er toevallig een bedrijf in voorkomt.
 
-![](/images/migrated/voorbeeld-advertorial-1.webp "voorbeeld-advertorial (1)")
+![Voorbeeld advertorial](/images/migrated/voorbeeld-advertorial-1.webp "voorbeeld-advertorial (1)")
 
 Hierboven zie je een voorbeeld van een advertorial op de website van Nu.nl.
 
@@ -36,7 +36,7 @@ Advertorials zijn dus erg zinvol voor bedrijven en wanneer jij een platform/blog
 
 Whitepress is **een platform waar bedrijven en bloggers/publishers samenkomen**. Als blogger kun je er een aanbieding op plaatsen. Als in, je laat weten of er ruimte op jouw blog beschikbaar is en tegen welke voorwaarden. Daar vraag je dan vervolgens een bedrag voor, afhankelijk van wat redelijk is. Op mijn eigen blog [demodernenomaden.nl](/) is dat bijvoorbeeld 250,- euro. Aan de bedrijven vervolgens de kans om met jou samen te werken.
 
-![](/images/migrated/whitepress-stappen.webp "whitepress-stappen")
+![Whitepress stappen](/images/migrated/whitepress-stappen.webp "whitepress-stappen")
 
 Bij Whitepress kies je volledig zelf alle opties. Jij kiest of de advertorial door het bedrijf of jouzelf geschreven wordt. Jij kiest de kwaliteitstandaard, het aantal linkjes naar de bedrijfswebsite en de prijs. Je hebt het dus volledig zelf in de hand en bedrijven reageren op wat voor hen interessant is.
 
@@ -44,12 +44,6 @@ Voor bloggers is dit een mooie optie om extra geld te verdienen. Vooral voor die
 
 **[Aanmelden op Whitepress doe je hier binnen vijf minuten.](/go/whitepress)**
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

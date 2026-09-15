@@ -30,7 +30,7 @@ Voor mijzelf was de reden in ieder geval duidelijk. Ik wilde nieuwe mensen berei
 
 **Wil je het onderste uit de kan halen? Gebruik dan mijn handboek voor het schrijven van een 10K+ acquisitie mail.**
 
-## 1\. Van start: Kies een kleine doelgroep voor je acquisitie mail
+## 1. Van start: Kies een kleine doelgroep voor je acquisitie mail
 
 Gewoon lukraak acquisitie mails gaan sturen **zal geen zin hebben**. Je zult zien dat er dan nauwelijks reactie op komt. Niemand zit immers te wachten op een mail van een vreemde. Je belandt dan in de spam en mensen drukken zwaar geïrriteerd op de verwijderknop.
 
@@ -42,7 +42,7 @@ Door een niche te kiezen kun je de doelgroep van je mailing gericht aanspreken. 
 > 
 > Dat werd een compact groepje. Mijn acquisitie mail ging uiteindelijk naar 250 adressen toe. Maar daarover straks meer…
 
-## 2\. Verzamel e-mail adressen van de doelgroep aan wie je wilt verkopen
+## 2. Verzamel e-mail adressen van de doelgroep aan wie je wilt verkopen
 
 Wanneer je de doelgroep succesvol hebt **afgebakend voor koude acquisitie**, is het tijd om e-mail adressen van de doelgroep te gaan verzamelen.
 
@@ -54,7 +54,7 @@ Het zal je wellicht verbazen als ik zeg dat ik **gewoon mijn zusje heb gevraagd*
 > 
 > Als je B2C mailt gaat dit allemaal net even wat moeilijker. Dan zul je actief een [mailinglijst moeten laten groeien](/blog/ondernemen/leads-genereren-mailinglijst/), maar dat is een heel ander verhaal.
 
-## 3\. De opbouw van een succesvolle acquisitie mail
+## 3. De opbouw van een succesvolle acquisitie mail
 
 Super, je hebt de e-mail adressen nu of weet in ieder geval hoe je daaraan kunt komen. Nu is het tijd **om de acquisitie mail te gaan schrijven.**
 
@@ -75,7 +75,7 @@ Het aspect uit de formule dat zorgt voor het succes zit hem in het volgende: “
 
 Uiteindelijk zijn we allemaal mensen en luisteren we ook liever naar échte mensen dan naar online verkopers. Om dat te begrijpen zal ik je in die authentieke stappen van de acquisitie mail meenemen.
 
-## 4\. Welk probleem los je op?
+## 4. Welk probleem los je op?
 
 Om het onderbewuste aan te spreken zal je de lezer van de acquisitie mail gaan **confronteren met een probleem**. Niet zomaar een probleem, maar het probleem dat jouw dienst of product voor de lezer op kan lossen.
 
@@ -93,7 +93,7 @@ Het is belangrijk om te weten welk probleem je oplost omdat daar de volledige be
 
 **Wil je voorbeelden van een probleemstelling en een uitgebreid handboek? Ideaal om erbij te houden wanneer je jouw eigen acquisitie mail schrijft. Je vind het hier!**
 
-## 5\. Wat zijn de consequenties van het probleem?
+## 5. Wat zijn de consequenties van het probleem?
 
 Met alleen het probleem ben je er nog niet. We zullen namelijk ook uit moeten leggen waarom dat probleem zo vervelend is voor de ontvanger alvorens deze **noodzaak voelt om actie (kopen) te ondernemen**.
 
@@ -109,7 +109,7 @@ Om je een idee te geven wat zo’n consequentie inhoud kun je het beste weer eve
 
 Als het goed is voel je bij bovenstaand voorbeeld aan dat het dieper ingaat op de emotie en dat daarmee het probleem verergert voor de ontvanger.
 
-## 6\. Oplossing van het probleem
+## 6. Oplossing van het probleem
 
 Dan is het nu tijd om jouw oplossing aan te gaan bieden. Laat weten hoe jij het probleem en de daaraan hangende consequenties op kunt lossen.
 
@@ -121,7 +121,7 @@ Belangrijk is om **de oplossing zo te formuleren** dat die aansluit op de eerder
 
 Na de oplossing zul je nog wel aan de lezer moeten overtuigen waarom hij of zij voor jou moet kiezen.
 
-## 7\. Gratis content in acquisitie mail
+## 7. Gratis content in acquisitie mail
 
 Je kunt content in jouw acquisitie mail plaatsen of gewoon iets gratis weggeven. Die content kan van alles zijn en zorgt ervoor dat jij in de ogen van de ontvanger, het juiste bedrijf bent om zijn of haar probleem op te lossen.
 
@@ -133,7 +133,7 @@ Of zoals je het marketeers wel eens hoort zeggen. Je hebt bij verkopen drie ding
 
 > _Om de content terug te pakken op de DJ’s. Voor die acquisitie mail linkte ik naar een pagina op mijn website met daarop tips voor meer boekingen als DJ. Door die tips werd duidelijk dat ik de expert was om het probleem van de DJ op te lossen._
 
-## 8\. Call-to-action
+## 8. Call-to-action
 
 Een onmisbare stap. Natuurlijk verwacht je dat iemand nu enthousiast genoeg is **om uit zichzelf contact met je op te nemen**, maar het kan zeker geen kwaad hem of haar daar een handje bij te helpen.
 
@@ -177,7 +177,7 @@ Om je nog net dat laatste beetje inspiratie te geven voor het schrijven van een 
 
 Deze eerste acquisitie mail is verstuurd naar 250 bedrijven in de DJ branche en leverde zo’n 11 reacties op. Van die 11 mensen zijn er 7 klant geworden. Dat wilde zeggen, 7 bedrijven die maandelijks 500,- euro betalen voor marketing werkzaamheden. In totaal leverde de e-mail daarmee 18.000 euro omzet op.
 
-#### [Bekijk acquisitie mail](#12321de661676c7d4)
+#### Bekijk acquisitie mail
 
 **ONDERWERP REGEL: Tips voor meer boekingen met je DJ drive-in show**
 
@@ -242,12 +242,6 @@ Het mag inmiddels duidelijk zijn wat een (koude) acquisitie mail je op kan lever
 
 Het zou natuurlijk kunnen dat je dat **liever uitbesteed**. Daarvoor verwijs ik je graag door [deze copywriter op Fiverr](/go/fiverr-sales-email). Hij kan het snel en voor een mooi bedrag voor jou regelen.
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

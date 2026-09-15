@@ -41,7 +41,7 @@ Nu zal jouw streven niet zijn om 445 miljoen volgers te krijgen op je Instagram 
 
 Doorloop de volgende stappen om zelf succes te boeken met Instagram. Om te beginnen; **waar gaat jouw kanaal over en wie is je doelgroep**?
 
-## **Stap 1: Jouw Instagram niche bepalen**
+## Stap 1: Jouw Instagram niche bepalen
 
 Simpel gezegd; meer volgers is meer cash. Al is er nog iets anders erg belangrijk, namelijk de doelgroep van jouw Instagram kanaal. Natuurlijk kun je miljoenen volgers hebben, maar **welk bedrijf wilt er betalen om richting die volgers te promoten?**
 
@@ -117,7 +117,7 @@ Wanneer je op zoek bent naar ideeën voor niches, dan vind je hieronder wat voor
     
 *   Zelfontwikkeling
     
-*   [**\> Zie 101+ niches**](/blog/ondernemen/blog-niches/)
+*   [**› Zie 101+ niches**](/blog/ondernemen/blog-niches/)
     
 
 Het afbakenen van jouw doelgroep helpt je uiteindelijk om **goed betalende adverteerders te vinden voor jouw Instagram kanaal**. Met een specifieke doelgroep is je account meer waard voor de adverteerder. Zo kun je met minder volgers meer geld verdienen. Engagement genereren, daar gaat het om!
@@ -136,7 +136,7 @@ Best vet toch! Als je zelf ook zo’n feel wilt creëren voor jouw Instagram acc
 
 Voor content kun je kiezen uit een combinatie van **foto’s, filmpjes, quotes, give-aways, memes, vragen, before en after, review van een klant, product test, tutorial, behind-the-scenes** en noem maar op. Er is genoeg om te delen!
 
-## **Stap 3: Instagram volgers krijgen**
+## Stap 3: Instagram volgers krijgen
 
 Een business maken op Instagram doe je niet zomaar. Voordat je er geld mee kan verdienen, zal je volgers moeten hebben. **Hoeveel volgers je nodig hebt** om betaalde adverteerders te krijgen of een fatsoenlijk aantal producten te verkopen, hangt volledig af van jouw niche. Sommige niches lenen zich namelijk beter voor de zogenoemde **micro influencer**.
 
@@ -204,7 +204,7 @@ Manieren waarmee je kwalitatieve volgers krijgt, zijn de volgende:
 
 ![Instagram followers krijgen](/images/migrated/instagram-followers-krijgen-1.webp "Instagram followers krijgen")
 
-## **Stap 4: Kies jouw Instagram verdienmodel**
+## Stap 4: Kies jouw Instagram verdienmodel
 
 Nu je de volgers hebt op Instagram of in ieder geval weet hoe je die kan krijgen, is het tijd om te kijken hoe je hier geld mee kunt verdienen. Ik ga hierbij in op 3 verschillende manieren; geld verdienen met een eigen product/dienst/Instagram shopping, affiliate marketing en als social [influencer](/blog/online-geld-verdienen/influencer-worden/). Let’s go!
 
@@ -240,7 +240,7 @@ Wanneer jij nu op die link klikt en het boek koopt, herkent Bol.com dat ik je he
 
 Dat werkt als volgt. Jij meldt je aan bij een affiliate programma van een bedrijf en **ontvangt jouw unieke affiliate link**. Deze plaats je in je Instagram bio of via de link sticker bij je stories. Wanneer mensen hierop klikken en het product kopen wordt dat geregistreerd. Daarna ontvang jij de commissie op het product.
 
-![](/images/migrated/affiliate-marketing-infographic.webp "affiliate-marketing-infographic")
+![Affiliate marketing infographic](/images/migrated/affiliate-marketing-infographic.webp "affiliate-marketing-infographic")
 
 Zelf kun je op deze manier **relevante producten promoten** met jouw Instagram account en daar geld mee verdienen.
 
@@ -265,43 +265,37 @@ Alweer, **niet te pusherig promoten** want je kunt op een fatsoenlijke manier he
 
 Afhankelijk van het soort product dat je promoot [als influencer](/blog/online-geld-verdienen/influencer-worden/) en het aantal volgers dat je hebt kun je hier best wat geld voor vragen. Een indicatie van wat je per ‘**branded post**‘ kunt vragen vind je hieronder.
 
-#fusion-chart-2 .fusion-chart-legend-wrap li:nth-child(1) span{color: #ffffff;}
+## fusion-chart-2 .fusion-chart-legend-wrap li:nth-child(1) span{color: #ffffff;}
 
 #### Hoeveel verdien je met Instagram
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
 
 ## Nieuwe Instagram functies om geld te verdienen
 
 Instagram veranderd constant. Sommige functies komen erop en gaan vervolgens weer weg, anderen blijven hangen. Als je geld wilt verdienen met Instagram is het goed om te weten welke functies er zijn waar je nu wellicht nog geen gebruik van maakt.
 
-### 1\. Link sticker
+### 1. Link sticker
 
 Via Instagram stories kun je gebruik maken van de ‘link sticker’ om te verwijzen naar een website of naar [jouw Shopify webshop](/go/shopify) ;).
 
 ![Instagram link sticker](/images/migrated/instagram-link-sticker-1.webp "Instagram link sticker")
 
-### 2\. Collabs functie
+### 2. Collabs functie
 
 Je kunt één Instagram post op twee kanalen tegelijk plaatsen door de collabs functie te gebruiken. Zo ben je allebei eigenaar van deze ene post.
 
-### 3\. Instagram video
+### 3. Instagram video
 
 Het vroegere IGTV is veranderd in Instagram video. Je kunt video’s tot 60 minuten plaatsen, in de feed zien jouw volgers daarvan de eerste minuut en kunnen deze daarna in Instagram video verder kijken.
 
-### 4\. Posten vanaf laptop
+### 4. Posten vanaf laptop
 
 Dit kon een lange tijd niet (op een fatsoenlijke manier), maar vanaf heden kun je via jouw laptop op dezelfde manier foto’s en video’s posten als vanaf je mobiel.
 
-### 5\. Instagram analytics
+### 5. Instagram analytics
 
 Hier had je eerst allemaal externe tools voor, maar tegenwoordig kun je binnen Instagram zelf gewoon bekijken wie (in statistiek) jouw kanaal volgen of op je posts reageren.
 
@@ -311,7 +305,7 @@ De mogelijkheden van Instagram en in de brede zin social media zijn enorm. Daaro
 
 Elk medium vereist zijn **eigen soort content**. Denk aan korte versus lange video’s, staand versus liggend en tekst versus beeld. Je kunt dus niet overal hetzelfde posten. Kies er daarom een paar specifiek uit waar je mee aan de slag wilt en zet daar vol op in. Beter één heel goed en actief kanaal, dan tal van inactieve socials.
 
-## **Doorzettingsvermogen is ‘key’ bij Instagram**
+## Doorzettingsvermogen is ‘key’ bij Instagram
 
 **Wanneer je nog geen beroemdheid bent** bij het starten van je eigen Instagram account zul je zien dat het moeilijk is om te groeien. Het vergt een lange adem om met Instagram je geld te verdienen en veel mensen zullen daar afhaken.
 
@@ -319,12 +313,3 @@ Tevens zal je misschien verleid worden **tot het kopen van volgers, likes of and
 
 **Geld verdienen met Instagram** is een lange weg, maar niet onmogelijk. Zorg dat je naar Instagram kunt kijken vanuit een online marketing blik en je maakt een goede kans. Of je nu geld wilt verdienen met [een eigen webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/), adverteerders of [affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/), ik wens je alle succes!
 
-#### _GRATIS Digital Nomad Boek_
-
-## **Dé inspiratie voor een vrij leven**
-
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

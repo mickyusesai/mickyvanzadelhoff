@@ -43,6 +43,17 @@
   /* Ad slot placeholder (see CLAUDE.md, Monetization) */
   .ad-slot { @apply my-8 min-h-[1px]; }
 
+  /* In-article boxes written as HTML inside markdown (scripts/fix-article-markup.py) */
+  .cta-box { @apply sticker my-10 grid gap-3 p-6 sm:grid-cols-[1fr_auto] sm:items-center; }
+  .cta-box--book { @apply bg-lime; }
+  .cta-box--workshop { @apply bg-violet-soft; }
+  .cta-box__eyebrow { @apply text-[12px] font-extrabold uppercase tracking-[0.16em] text-violet; }
+  .cta-box--book .cta-box__eyebrow { @apply text-ink; }
+  .cta-box p { @apply m-0 text-[16px] leading-relaxed; }
+  .cta-box .btn { @apply justify-self-start sm:justify-self-end; }
+  .video { @apply sticker my-8 overflow-hidden bg-ink; aspect-ratio: 16 / 9; }
+  .video iframe { @apply h-full w-full border-0; }
+
   /* Dark band: the rhythm change borrowed from the reference site */
   .band-dark { @apply bg-ink text-white; }
   .band-dark .eyebrow { @apply text-lime; }

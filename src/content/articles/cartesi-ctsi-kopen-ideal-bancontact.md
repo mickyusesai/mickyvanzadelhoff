@@ -24,17 +24,17 @@ De kern van Cartesi’s technologie is de Cartesi Machine, een virtuele machine 
 
 Cartesi’s CTSI-token dient als het primaire utility-token binnen het ecosysteem, gebruikt voor transactiekosten, staking en als onderdeel van het governance-model. Dit maakt CTSI niet alleen een belangrijke schakel in het Cartesi-netwerk, maar ook een potentieel waardevolle toevoeging aan de beleggingsportefeuille van crypto-enthousiastelingen.
 
-## Hier **koop je Cartesi (CTSI) met iDEAL en Bancontact**
+## Hier koop je Cartesi (CTSI) met iDEAL en Bancontact
 
 Voor het aanschaffen van Cartesi (CTSI) met iDEAL of Bancontact, zijn er verschillende platforms beschikbaar, maar twee van de meest prominente zijn [Finst](/go/finst) en [Bitvavo](/go/bitvavo). Beide exchanges bieden een gebruikersvriendelijke ervaring, maar hebben elk hun eigen unieke kenmerken.
 
 Finst staat bekend om zijn lage handelskosten, wat het een aantrekkelijke optie maakt voor zowel nieuwe als ervaren beleggers. Daarnaast biedt Finst een eenvoudige en overzichtelijke interface, wat het kopen van CTSI toegankelijk maakt voor iedereen. Bitvavo, aan de andere kant, staat bekend om zijn gebruiksgemak en brede scala aan beschikbare cryptocurrencies, waaronder Cartesi (CTSI).
 
-## **De beste NL Exchanges om te investeren in crypto**
+## De beste NL Exchanges om te investeren in crypto
 
 ![Finst Crypto Kopen](/images/migrated/finst-crypto-kopen-2.webp "Finst Crypto Kopen")
 
-### 1\. Finst
+### 1. Finst
 
 Goedkoopste exchange. Mogelijkheid tot investeren in bundels.
 
@@ -49,7 +49,7 @@ of [lees Finst review](/blog/review/finst-crypto-exchange/)
 
 ![Bitvavo affiliate programma](/images/migrated/bitvavo-affiliate-programma-1.webp "Bitvavo affiliate programma")
 
-### 2\. Bitvavo
+### 2. Bitvavo
 
 Grootste crypto exchange van de Benelux met veel crypto.
 

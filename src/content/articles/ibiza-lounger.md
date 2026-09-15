@@ -28,7 +28,7 @@ Overdag als we zaten te ‘air loungen’ op het strand kwamen er steeds mensen 
 
 Daarop werd mijn ondernemersinstinct aangewakkerd, hier moest ik wat mee. Schijnbaar was er vraag naar een product dat nog niet werd verkocht. Laat ik dan een keer de persoon zijn die daar verandering in brengt en de winst opstrijkt, dacht ik.
 
-![](/images/migrated/zonsongang-strand-ibiza-bomen-heuvels.webp "zonsongang-strand-ibiza-bomen-heuvels")
+![Zonsongang strand ibiza bomen heuvels](/images/migrated/zonsongang-strand-ibiza-bomen-heuvels.webp "zonsongang-strand-ibiza-bomen-heuvels")
 
 ## Importeren uit China als onwetende
 
@@ -48,7 +48,7 @@ Even iets over de cijfers, waar ik op het eerste gezicht dacht vijf euro per Ibi
 
 Daarna ging het ook nog niet helemaal lekker. De spullen kwamen drie weken later dan gepland aan in Nederland en dit maakte me nerveus. Hierdoor werd het wel erg laat in het seizoen. Het was inmiddels al halverwege september. Mensen om mij heen hadden het al over een leeg Ibiza. Ik was bang voor het feit dat ik daar straks met tweehonderd Ibiza Loungers zou staan zonder afzetmarkt.
 
-![](/images/migrated/ibiza-lounger-mick-gras-nederland.webp "ibiza-lounger-mick-gras-nederland")
+![Ibiza lounger mick gras nederland](/images/migrated/ibiza-lounger-mick-gras-nederland.webp "ibiza-lounger-mick-gras-nederland")
 
 ## Het verkopen op Ibiza ging niet zoals gepland
 
@@ -91,7 +91,7 @@ Sergei bleef erop aandringen dat hij wilde betalen, maar wij weerhielden hem daa
 
 Na de hippiemarkt reden we naar het dorp waar het charity festival de volgende dag plaats zou vinden. We gingen daar op het strand slapen op onze Ibiza Loungers. Die nacht was het druk op het strand. Veelal met mensen die iets met het festival van doen hadden. We waren dan ook niet de enige die op het strand gingen slapen, maar werden vergezeld door een Amsterdammer, hippie en Duitse backpackster. We gaven ze allemaal een Ibiza Lounger zodat ook zij een comfortabele nachtrust konden hebben. Als een soort commune lagen we daar onder de sterrenhemel. Het was een mooie avond.
 
-![](/images/migrated/strand-verkopen-ibiza-loungers-bob-rekelhof.webp "strand-verkopen-ibiza-loungers-bob-rekelhof")
+![Strand verkopen ibiza loungers bob rekelhof](/images/migrated/strand-verkopen-ibiza-loungers-bob-rekelhof.webp "strand-verkopen-ibiza-loungers-bob-rekelhof")
 
 ## De magie van Ibiza
 
@@ -105,7 +105,7 @@ Verder ontmoetten we die dag Jack. Hij was een ondernemer op Ibiza en bezat enke
 
 We spraken die dag ook met Thomas, een hippie. Hij leefde op Ibiza. Het was een beetje een vrije vogel. Hij legde ons uit waarom Ibiza voor zoveel hippies een goede plek is. Dit kwam volgens hem doordat de ‘law of attraction’ hier heel direct werkt. Of in andere woorden, dat het eiland heel snel reageert op jouw verlangens en gevoelens. Volgens Thomas was dit doordat het een eiland is, relatief ver van de stedelijke energieën. Ik bewonderde zijn denkwijze en sloot mij erbij aan.
 
-![](/images/migrated/ibiza-lounger-zee-water-bob.webp "ibiza-lounger-zee-water-bob")
+![Ibiza lounger zee water bob](/images/migrated/ibiza-lounger-zee-water-bob.webp "ibiza-lounger-zee-water-bob")
 
 ## De les die ik hieruit heb gehaald
 

@@ -38,7 +38,7 @@ In dit artikel bespreken we hoe je jouw webshop kunt beginnen met een **WordPres
 
 Laten we beginnen!
 
-## **Stap 1: Jouw webshop software opzetten**
+## Stap 1: Jouw webshop software opzetten
 
 Allereerst moet ik je wijzen op een grote fout die veel mensen maken bij het starten van een webshop. **Ze kiezen het verkeerde platform…**
 
@@ -111,11 +111,11 @@ Voldoe de betaling **via Ideal** en jij bent vanaf nu **de officiële eigenaar v
 
 Nu is het tijd om te gaan kijken hoe we WordPress en Woocommerce werkend krijgen. Gelukkig is dat met Siteground super makkelijk.
 
-## **Stap 2: WordPress instellen**
+## Stap 2: WordPress instellen
 
 Als het goed is heb je nu van Siteground een aantal mailtjes gekregen. In een van die mailtjes (“Important Information About Your New Hosting Plan”) kun je aan de slag met **het instellen van WordPress op jouw website**. Je komt dan als het goed is op deze pagina terecht.
 
-![](/images/migrated/siteground-wordpress-hosting.webp "siteground-wordpress-hosting")
+![Siteground wordpress hosting](/images/migrated/siteground-wordpress-hosting.webp "siteground-wordpress-hosting")
 
 Om het je makkelijk te maken kun je hier gelijk **WordPress installeren**. Kies nog even voor de ‘WordPress’ solo optie, op Woocommerce komen we later terug. Vul jouw gebruikersnaam (email) en wachtwoord in en ga door.
 
@@ -151,7 +151,7 @@ Nu is het tijd om enkele plugins in te stellen. De belangrijkste zijn **Contact 
 
 Zorg dat je die twee selecteert en rond de WordPress Starter af.
 
-## **Stap 3: Webshop beveiliging via SSL (https) instellen**
+## Stap 3: Webshop beveiliging via SSL (https) instellen
 
 De volgende stap is om **beveiliging toe te voegen aan jouw webshop**. Dat gaat om dat slotje wat je vaak in de balk van de browser ziet.
 
@@ -185,13 +185,13 @@ Je klikt op ‘**go ahead, activate SSL**‘ en hebt nu een beveiligde webshop!
 
 Super. Dan kunnen we nu door met het instellen van jouw **Woocommerce webshop**!
 
-## **Stap 4: Woocommerce instellen**
+## Stap 4: Woocommerce instellen
 
 Voordat je met jouw webshop kunt beginnen met verkopen, hebben we Woocommerce nodig. Deze is al geïnstalleerd op jouw WordPress, maar heeft nog wat **configuratie** nodig.
 
 Ga in jouw WordPress menu naar ‘**Woocommerce**‘ en klik op ‘**Home**‘. Als het goed is kom je dan in het configuratiescherm van Woocommerce, gezien dit de eerste keer is dat je de app opent.
 
-![](/images/migrated/woocommerce-webshop-opzetten.webp "woocommerce-webshop-opzetten")
+![Woocommerce webshop opzetten](/images/migrated/woocommerce-webshop-opzetten.webp "woocommerce-webshop-opzetten")
 
 Doorloop de stappen voor de configuratie en **vul jouw webshop gegevens in**.
 
@@ -209,11 +209,11 @@ Als je daarop klikt zal je zien dat er meerdere opties zijn. Zo kun je **betalin
 
 Hierbij is er eentje in het bijzonder belangrijk, **namelijk Stripe**. Wanneer je betalingen via Stripe instelt heb je alle andere betaalopties eigenlijk niet meer nodig. Klik dus op ‘**set up**‘.
 
-![](/images/migrated/betalingen-via-stripe.webp "betalingen-via-stripe")
+![Betalingen via stripe](/images/migrated/betalingen-via-stripe.webp "betalingen-via-stripe")
 
 Je kunt nu Stripe installeren binnen jouw Woocommerce. Nu heb je alleen nog de twee ‘**keys**‘ nodig. Deze kun je verkrijgen door een account aan te maken op Stripe.com. Ga daarnaartoe via de link ‘**create one**‘.
 
-![](/images/migrated/stripe-account-aanmaken.webp "stripe-account-aanmaken")
+![Stripe account aanmaken](/images/migrated/stripe-account-aanmaken.webp "stripe-account-aanmaken")
 
 Een account aanmaken op Stripe is **gratis**. Je betaald vervolgens alleen per transactie die er wordt gedaan. De kosten daarvoor zijn 1,4% + €0,25.
 
@@ -225,7 +225,7 @@ Vervolgens doorloop je nog de stappen bij belastingen (kies hier voor ‘**set u
 
 Als je dit hebt doorlopen is het tijd voor het allerleukste onderdeel bij het starten van een webshop; **de producten toevoegen**!
 
-## **Stap 5: Producten toevoegen aan jouw webshop**
+## Stap 5: Producten toevoegen aan jouw webshop
 
 Laten we beginnen met het **toevoegen van een product** in jouw webshop.
 
@@ -247,7 +247,7 @@ Als je dat hebt gedaan is het **tijd voor de foto of productafbeelding**!
 
 Deze kun je invoegen via het stukje ‘**product image**‘ wat je ook in de rechterkolom vind. Upload het daar.
 
-### **Instellen gegevens product**
+### Instellen gegevens product
 
 Na de basisinstellingen kunnen we gaan kijken naar de **Woocommerce gegevens van het product**.
 
@@ -261,13 +261,13 @@ Daarna klik je rechtsboven bij de pagina op publiceren en **staat jouw allereers
 
 Klik op de product link en kijk of alles naar wens is.
 
-## **Stap 6: Webshop beginnen én marketing**
+## Stap 6: Webshop beginnen én marketing
 
 Dus je webshop staat online en er staan producten op… Dan is er nog een stap te zetten, namelijk bezoekers en verkopen!
 
 Dat kun je het beste doen aan de hand van marketing en daarom heb ik hieronder enkele simpele manieren om daarmee aan de slag te gaan!
 
-## 1\. Onderscheidend vermogen van jouw webshop
+## 1. Onderscheidend vermogen van jouw webshop
 
 Omdat er veel webshops zijn, is het belangrijk om jezelf te onderscheiden van de rest.
 
@@ -281,7 +281,7 @@ Dat kunnen dingen zijn als levertijd, kwaliteit, unieke product eigenschap, extr
 
 Wat je ook kunt doen om jezelf te onderscheiden is door jouw kennis van een product **expliciet op te schrijven** in de product beschrijving. Je zou daar zelfs bij ieder product een video van kunnen maken. Op die manier wordt jouw webshop persoonlijker en kan het goed zijn dat mensen het jou gunnen en daarom bij jouw webshop het product aanschaffen.
 
-## 2\. Search Engine Optimalisation voor jouw webshop
+## 2. Search Engine Optimalisation voor jouw webshop
 
 Een van de grootste bezoekersstromen richting jouw webshop zal waarschijnlijk via Google komen. Die mensen komen dan op jouw webshop omdat ze ergens specifiek naar op zoek zijn en ze jou bovenin de zoekresultaten vinden.
 
@@ -291,7 +291,7 @@ Zonder SEO zal je geen (of heel weinig) bezoekers trekken via Google. Om je een 
 
 **Hoe meer bezoekers er op jouw webshop komen, hoe meer mensen je iets kunt verkopen**.
 
-## 3\. Zorg voor reviews op jouw webshop
+## 3. Zorg voor reviews op jouw webshop
 
 Online is de wereld net iets anders dan offline. Je hebt niet automatisch mensen hun vertrouwen met een webshop, hoe goed deze er ook uitziet.
 
@@ -305,12 +305,6 @@ Een andere manier om betrouwbaarheid te creëren is met reviews. Maak een Google
 
 **[Wil je het bouwen van een webshop liever uitbesteden? Dan kan eenvoudig met een professional op Fiverr! >>](/go/fiverr-webshop-bouwer)**
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

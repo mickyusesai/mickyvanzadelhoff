@@ -28,7 +28,7 @@ Voor een passief inkomen zit dat anders. Je levert geen inspanning op het moment
 
 > “Zelf leef ik inmiddels 5 jaar als [digital nomad](/over/). Dat wil zeggen dat ik werken en reizen combineer. **Ongeveer 8 maanden per jaar zit ik in het buitenland**. Op dit moment is 10% van mijn inkomen actief en 90% passief. Dat passieve inkomen groeit iedere maand weer verder.”
 
-![](/images/migrated/eigen-webshop-beginnen.webp "eigen-webshop-beginnen")
+![Eigen webshop beginnen](/images/migrated/eigen-webshop-beginnen.webp "eigen-webshop-beginnen")
 
 _In Macedonië, die links dat ben ik ;)_
 
@@ -48,19 +48,19 @@ Dit is dan ook gelijk de reden waarom veel mensen geen passief inkomen hebben. Z
 
 Pas bij de manieren hieronder dus op dat je niet keihard van start gaat, maar na een maand opgeeft omdat je nog niets heb verdient. Weet dat de beloning op zich laat wachten en bedenk je steeds wat een fulltime passief inkomen allemaal wel niet voor je kan betekenen.
 
-> Als ik naar mijzelf kijk dan is het passief inkomen de reden geweest waardoor mijn digital nomad levenstijl mogelijk is geworden. Het is de reden waarom ik een half jaar kon gaan fietsen naar Turkije, een boek ([\> gratis download](/boek/)) kon schrijven en mijn familie maandenlang kon helpen op de camping in Frankrijk zonder daar iets voor te hoeven hebben.
+> Als ik naar mijzelf kijk dan is het passief inkomen de reden geweest waardoor mijn digital nomad levenstijl mogelijk is geworden. Het is de reden waarom ik een half jaar kon gaan fietsen naar Turkije, een boek ([› gratis download](/boek/)) kon schrijven en mijn familie maandenlang kon helpen op de camping in Frankrijk zonder daar iets voor te hoeven hebben.
 > 
 > Kortom, een passief inkomen is **financiële vrijheid zonder dat je** **miljonair** hoeft te zijn.
 
 Goed, laten we gaan kijken naar hoe jij passief geld kunt verdienen!
 
-# Manieren om passief inkomen te genereren
+## Manieren om passief inkomen te genereren
 
 Hieronder beschrijf ik **de verschillende manieren waarmee mensen passief inkomen genereren**. De meeste manieren heb ik zelf ervaren.
 
 Ik zal bij die manieren dan ook beschrijven hoe mij dit afging en **hoe jij er een succes van kunt maken**.
 
-## 1\. Je eigen online product
+## 1. Je eigen online product
 
 Een eigen online product is een ideale manier voor het genereren van passief inkomen. Wanneer je namelijk een online product verkoopt heb je naar de verkoop en afhandeling vaak geen omkijken, dit kun je namelijk allemaal automatiseren.
 
@@ -70,7 +70,7 @@ Wees dus niet de zoveelste die start met een online training over ‘snel rijk w
 
 Maar als je dan wel ergens verstand van hebt, maak dan gerust een online kennis product en **zorg voor een goed verkoopkanaal** zoals een website of social media. You got this!
 
-[\> Wil je leren hoe je jouw eigen webshop opzet? Dat lees je hier.](/blog/online-geld-verdienen/eigen-webshop-beginnen/)
+[› Wil je leren hoe je jouw eigen webshop opzet? Dat lees je hier.](/blog/online-geld-verdienen/eigen-webshop-beginnen/)
 
 > “Zelf verkoop ik op mijn website een [training](/). Deze is al opgenomen en betreft het dus passief inkomen. Het idee erachter is dat ik veel kennis bezit die voor iemand anders waardevol is. Daarbij is trainen, online of offline, gewoon hartstikke leuk om te doen.”
 
@@ -78,13 +78,13 @@ Verder ken ik ook mensen die [een eigen videocursus](/blog/online-geld-verdienen
 
 Een zeer lucratief verdienmodel als je je bedenkt dat zo’n cursus al snel 997,- euro per deelnemer oplevert. Maar omdat het hier om een videotraining gaat is ook dat proces geautomatiseerd en daarmee is het **een legitieme manier om passief inkomen te genereren**. Interessant aan hun verhaal is vooral hoe ze de online training promoten. Zij doen dit namelijk niet alleen via hun eigen kanaal maar ook via [affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/). Maar daarover lees je meer onder het volgende kopje.
 
-## 2\. Affiliate marketing als publisher
+## 2. Affiliate marketing als publisher
 
 Voor mensen die passief inkomen genereren zonder vooraf miljoenen op de bank te hebben, is affiliate marketing waarschijnlijk het gene waarmee zij zijn begonnen. Waarom? **Omdat affiliate marketing heel simpel is op te zetten** nog zonder dat je zelf een product of dienst nodig hebt.
 
 Simpel gezegd is affiliate marketing **het promoten van andermans producten op basis van een vooraf afgesproken commissie**. Als publisher zet jij linkjes naar producten tussen je posts, op je Instagram, Youtube, Facebook, e-mail of ander kanaal. Wanneer iemand op een van die linkjes klikt en het product koopt krijg jij daar een commissie over. Dat ziet er als volgt uit:
 
-![](/images/migrated/affiliate-marketing-infographic.webp "affiliate-marketing-infographic")
+![Affiliate marketing infographic](/images/migrated/affiliate-marketing-infographic.webp "affiliate-marketing-infographic")
 
 Een voorbeeld van zo’n affiliate link is als ik jou zou aanraden [Webinarjam te gebruiken](/go/get-webinarjam) (geweldig systeem trouwens ;)). Als jij nu op bovenstaande link klikt en denkt, Webinarjam, dat vind ik wel wat. Dan krijg ik bij jouw aankoop een commissie van Webinarjam **als bedankje voor de verwijzing.** Een top systeem, want jij als koper betaald hier niets extra’s voor. Het is immers gewoon onderdeel van Webinarjam zijn marketingbudget, die commissie.
 
@@ -102,7 +102,7 @@ Voordat ik mijn maandelijkse 3000,- euro begon te verdienen was ik een flinke ti
 
 **[Wil je meer weten over affiliate marketing als publisher? In mijn GRATIS training ga ik uitgebreid in op dit verdienmodel. Je volgt hem hier.](/blog/ondernemen/blog-beginnen-starten-stappenplan/)**
 
-## 3\. Affiliate marketing als verkoper
+## 3. Affiliate marketing als verkoper
 
 Passief inkomen genereren kan ook op een andere manier. Doorgaand op de vorige manier kun je affiliate marketing ook andersom inzetten. Stel bijvoorbeeld dat je zelf een product hebt gemaakt zoals een videotraining of e-book. Dan kun je er ook voor kiezen om deze **zelf te verkopen via een affiliate netwerk**. Je biedt je product dan aan zodat anderen deze voor jou kunnen promoten in ruil voor een commissie.
 
@@ -110,19 +110,19 @@ Je kunt je voorstellen dat als je dit goed doet en honderden websites jouw produ
 
 Dit is dan ook wat ik zelf deed. Ik verkocht mijn boek via een affiliate netwerk en dus tientallen andere websites. Zij krijgen per verkoop dan een commissie :). Zo genereren de publishers én ik als affiliate een passief inkomen.
 
-## 4\. Je eigen webshop beginnen
+## 4. Je eigen webshop beginnen
 
 In plaats van zelf een product te bedenken en te ontwerpen kun je natuurlijk ook allemaal producten van anderen verkopen via een [webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/). Je bouwt dan je eigen online winkel en verkoopt producten online. Helaas ben je er dan alleen nog niet. Want op deze manier betreft het niet volledig een passief inkomen. Je kunt je namelijk voorstellen dat je de producten dan nog wel zelf op moet slaan in een magazijn en deze moet versturen richting de klanten. Daarbij kan het zijn dat iemand iets wilt retourneren of een klacht heeft. Dan ben jij de klantenservice.
 
 En daar komt dan ook een interessante trend voorbij; dropshipping. Bij dropshipping heb je niet zelf de producten op voorraad en hoef je deze niet zelf te verzenden. Ze worden direct vanuit de groothandel verzonden naar de klant. Jij bent dus slechts het marketing middel om de verkoop te maken. Nu alleen nog iemand inhuren voor je klantenservice en je hebt geen omkijken meer naar je dropshipping business. Het spreekt voor zich dat deze manier om passief inkomen te genereren veel ervaring vereist. Zomaar een succesvolle webshop opzetten is in een verzadigde markt geen eitje, maar het is zeker mogelijk.
 
-## 5\. Passief inkomen genereren als auteur of muzikant
+## 5. Passief inkomen genereren als auteur of muzikant
 
 Buiten een e-book over een specifiek onderwerp kun je natuurlijk ook gewoon schrijver van een écht boek worden. Je kunt je voorstellen dat dat niet zomaar gedaan is. De gemiddelde roman heeft 55.000 woorden en dat is best wat werk kan ik je zo vertellen (ik ben zelf nog een hardcover boek schrijven). Maar hoeveel tijd hier ook in gaat zitten, wanneer deze is gepubliceerd is het een vorm van passief inkomen wanneer je deze verkoopt.
 
 Als muziek meer jouw ding is kan dat ook een vorm zijn van passief inkomen. Je verdient wanneer je muziek online zet namelijk via veel verschillende kanalen geld. Het meest bekende kanaal is de verkoop van je muziek. Maar dat is zeker niet de enige. Je kunt namelijk ook verdienen met je streams op Spotify. En je kunt zelfs nog verdienen aan de rechten van je muziek… En nu hoor ik je denken, ik ben helemaal geen bekend muzikant, dus dat gaat niet lukken. Dan zou je, wanneer je in de producer/DJ kant zit zelfs nog kunnen gaan ghost producen voor grotere DJ’s. Je verdient dan steeds geld aan de rechten van die muziek wanneer deze wordt gedraaid. Maar ja, dat voor de muzikanten onder ons, als het gaat om passief inkomen genereren is dit wellicht wat ver gezocht.
 
-## 6\. Geld verdienen met bloggen, vloggen of als influencer
+## 6. Geld verdienen met bloggen, vloggen of als influencer
 
 Wanneer je **[geld wilt verdienen met bloggen](/blog/ondernemen/blog-beginnen-starten-stappenplan/)**, vloggen of als influencer kan dit in veel gevallen passief zijn. Al is het hierbij wel belangrijk dat je up to date blijft richting jouw volgers, dus zo nu en dan zal er toch wat werk moeten worden verzet om interessant te blijven.
 
@@ -130,7 +130,7 @@ Het is dus in ieder geval mogelijk om passief inkomen te genereren op deze manie
 
 Daarbij is het zo dat als je veel mensen bereikt via jouw medium, of dit nu Instagram, Youtube, [Facebook](/blog/online-geld-verdienen/facebook/) of een blog is, dit interessant is voor tal van verdienmodellen. Je kunt je voorstellen dat als je veel volgers hebt deze op wat voor manier dan ook geld waard zijn. Plots ben je dan ook in staat om eigen producten te lanceren en deze te verkopen. Begrijp je hem? Tal van opties dus!
 
-## 7\. Passief inkomen genereren met beleggen en investeren
+## 7. Passief inkomen genereren met beleggen en investeren
 
 Geld maakt geld. Wanneer je dus al een spaarpotje hebt is passief inkomen genereren eigenlijk best wel makkelijk. Denk bijvoorbeeld aan het investeren in vastgoed. Hier valt een goed rendement mee te verdienen. Maar je kunt er natuurlijk ook voor kiezen om te gaan [handelen in crypto valuta](/blog/web3/handelen-in-crypto-valuta/) of aandelen.
 
@@ -138,7 +138,7 @@ Een gemiddeld rendement op investeren komt al snel op 6% tot 8% per jaar uit. He
 
 Buiten deze vormen van investeren kun je met jouw geld ook start-ups ondersteunen in ruil voor aandelen of websites opkopen die over de jaren winst opleveren.
 
-# Conclusie passief inkomen genereren
+## Conclusie passief inkomen genereren
 
 Het is voor iedereen mogelijk om passief inkomen te genereren. Ook wanneer je nog geen cent hebt in te leggen kun je hier al mee starten met bovengenoemde (op de laatste na) manieren.
 
@@ -150,12 +150,6 @@ Hoe dan ook. Alle succes gewenst!
 
 **[Wil je je verder verdiepen in passief inkomen opbouwen? Volg dan mijn GRATIS training over de verdienmodellen rondom bloggen.](/blog/ondernemen/blog-beginnen-starten-stappenplan/)**
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

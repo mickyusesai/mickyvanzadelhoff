@@ -32,57 +32,57 @@ _Prijzen op deze pagina zijn aan verandering onderhevig en allemaal exclusief BT
 
 ## Workations 2023
 
-[**1\. Business Bootcamp Italië**](#business-bootcamp-italie)
+**1\. Business Bootcamp Italië**
 
 *   10 dagen | Lazio, Italië | 18 deelnemers | Gedeelde kamer | All-in | €1612,- | Demodernenomaden.nl
     
 
-[**2\. Workation Oostenrijk**](#workation-oostenrijk)
+**2\. Workation Oostenrijk**
 
 *   5 dagen | Leogang, Oostenrijk | 15 deelnemers | Privé kamer | All-in | €2797,- | Structuurjunkie.nl
     
 
-[**3\. Workation Spanje**](#workation-spanje)
+**3\. Workation Spanje**
 
 *   5 dagen | Malaga, Spanje | 8 deelnemers | Privé kamer | All-in | €1395,- | Cascaramoments.com
     
 
-[**4\. Workation Marokko**](#workation-marokko)
+**4\. Workation Marokko**
 
 *   5 dagen | Marrakech, Marokko | 10 deelnemers | Gedeelde kamer | All-in | €1697,- | Thesoukdepartment.com
     
 
-[**5\. Business Retreat België**](#business-retreat-belgie)
+**5\. Business Retreat België**
 
 *   6 dagen | Zwevegem, België | 8 deelnemers | Gedeelde kamer | All-in | €2500,- | Houseofmindstyle.be
     
 
-[**6\. Workation Portugal**](#workation-portugal)
+**6\. Workation Portugal**
 
 *   6 dagen | Faro, Portugal | 9 deelnemers | Privé kamer | All-in | €4400,- | Elinemassin.be
     
 
-[**7\. Workation Bali**](#workation-bali)
+**7\. Workation Bali**
 
 *   9 dagen | Bali, Indonesië | 12 deelnemers | Privé kamer | All-in | €4950,- | Dutchdigitalnomad.nl
     
 
-[**8\. Groepsworkation Spanje**](#groepsworkation-spanje)
+**8\. Groepsworkation Spanje**
 
 *   7 dagen | Valencia, Spanje | 10 deelnemers | Gedeelde kamer | Inclusief ontbijt | €702,- | Workingremotely.nl
     
 
-[**9\. Ondernemersreis Albanië**](#ondernemersreis-albanie)
+**9\. Ondernemersreis Albanië**
 
 *   4 dagen | Tirana, Albanië | 10 deelnemers | Gedeelde kamer | All-in | €1595,- | Edgeplore.nl
     
 
-[**10\. Sportieve workation**](#sportieve-workation)
+**10\. Sportieve workation**
 
 *   14 dagen | Spanje of Portugal | 6 deelnemers | Travelies.nl
     
 
-## 1\. Business Bootcamp Italië
+## 1. Business Bootcamp Italië
 
 [Meer info](/blog/ondernemen/workations-ondernemersreizen/)
 
@@ -107,11 +107,11 @@ Deze workation is bedoelt voor beginnende ondernemers en ZZP’ers of mensen die
 
 Iedere dag worden er twee workshops georganiseerd met onderwerpen als marketing, financiën, contentcreatie en mindset. De rest van de tijd kun je de opgedane kennis direct implementeren met de vele coaching mogelijkheden. Natuurlijk kun je ook genieten van de Italiaanse zon, het eten en de heuvels.
 
-[\> Meer informatie](/blog/ondernemen/workations-ondernemersreizen/)
+[› Meer informatie](/blog/ondernemen/workations-ondernemersreizen/)
 
 _Deze workation is inclusief verblijf, eten, drinken, workshops, uitje, fotoshoot en transfer. Exclusief reis naar Italië._
 
-## 2\. Workation Oostenrijk
+## 2. Workation Oostenrijk
 
 [Meer info](https://structuurjunkie.nl/workation)
 
@@ -136,11 +136,11 @@ Vijf dagen lang verblijf je met een groep vrouwlijke ondernemers in een luxe hot
 
 Er is eenmalig een workshop door Structuurjunkie en een voorbereidingssessie om je week zo goed mogelijk in te plannen.
 
-[\> Meer informatie](https://structuurjunkie.nl/workation)
+[› Meer informatie](https://structuurjunkie.nl/workation)
 
 _Deze workation is inclusief verblijf, eten, drinken, workshop, fotoshoot en gondelticket. Exclusief reis naar Oostenrijk._
 
-## 3\. Workation Spanje
+## 3. Workation Spanje
 
 [Meer info](https://cascaramoments.com/worqation/)
 
@@ -165,11 +165,11 @@ Tijdens deze workation creëer je een helikopterview van jouw business. Bedoelt 
 
 Aan de hand van workshops stel je een duizenddagen doel op om structuur aan te brengen in de groei van jouw bedrijf.
 
-[\> Meer informatie](https://cascaramoments.com/worqation/)
+[› Meer informatie](https://cascaramoments.com/worqation/)
 
 _Deze workation is inclusief verblijf, eten, drinken, enkele workshops en boottocht. Exclusief reis naar Spanje._
 
-## 4\. Workation Marokko
+## 4. Workation Marokko
 
 [Meer info](https://www.thesoukdepartment.com/workation/)
 
@@ -194,15 +194,15 @@ Tijdens deze georganiseerde workation verblijf je in een privé riad in de hoofd
 
 Doordat de organisator zelf woonachtig is in Marrakech, zal je alle ins en outs van de cultuur te zien krijgen. Lekker eten gegarandeerd! Deze ondernemersreis is specifiek voor vrouwen.
 
-[\> Meer informatie](https://www.thesoukdepartment.com/workation/)
+[› Meer informatie](https://www.thesoukdepartment.com/workation/)
 
 _Deze workation is inclusief verblijf, eten, drinken, workshops, shopping- en food tour. Exclusief reis naar Marokko._
 
-## 5\. Business Retreat België
+## 5. Business Retreat België
 
 [Meer info](https://www.houseofmindstyle.be/workation/)
 
-![](data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%272560%27%20height%3D%271707%27%20viewBox%3D%270%200%202560%201707%27%3E%3Crect%20width%3D%272560%27%20height%3D%271707%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E "2Q3A7534 kopie")
+![2q3a7534 kopie](data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%272560%27%20height%3D%271707%27%20viewBox%3D%270%200%202560%201707%27%3E%3Crect%20width%3D%272560%27%20height%3D%271707%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E "2Q3A7534 kopie")
 
 *   27 november t/m 2 december 2022
     
@@ -221,11 +221,11 @@ _Deze workation is inclusief verblijf, eten, drinken, workshops, shopping- en fo
 
 Buiten yogasessies en een powerdance ga je hier vooral aande slag met jouw business. Ondersteunt met enkele workshops en een balans tussen werk en plezier. Vooral belangrijk is dat je bij deze workation wordt omgeven door andere ondernemers waardoor je jouw solopreneursbestaan vaarwel kunt zeggen.
 
-[\> Meer informatie](https://www.houseofmindstyle.be/workation/)
+[› Meer informatie](https://www.houseofmindstyle.be/workation/)
 
 _Deze workation is inclusief verblijf, eten, drinken, workshops, yoga en massage. Exclusief reis naar België._
 
-## 6\. Workation Portugal
+## 6. Workation Portugal
 
 [Meer info](https://www.elinemassin.be/businessretreat)
 
@@ -248,11 +248,11 @@ _Deze workation is inclusief verblijf, eten, drinken, workshops, yoga en massage
 
 Bij deze business retreat ga je concreet aan de slag met verschillende businessmodellen. Jouw business wordt specifiek onder de loep genomen en in de verschillende workshops werk je jouw plannen uit. Op sommige ochtenden is er yoga en als extra doe je ook mee met een showcooking sessie.
 
-[\> Meer informatie](https://www.elinemassin.be/businessretreat)
+[› Meer informatie](https://www.elinemassin.be/businessretreat)
 
 _Deze workation is inclusief verblijf, eten, drinken, workshops, yoga, showcookingsesssie en een kennismakingsetentje vooraf. Exclusief reis naar Portugal._
 
-## 7\. Workation Bali
+## 7. Workation Bali
 
 [Meer info](https://www.dutchdigitalnomad.nl/workation-bali/)
 
@@ -277,11 +277,11 @@ Deze workation in Bali is voor gedreven ondernemers die richting de 10K+ p/maand
 
 Met drie gastsprekers kun je op deze reis flink wat workshops verwachten om jouw bedrijf naar een hoger niveau te tillen.
 
-[\> Meer informatie](https://www.dutchdigitalnomad.nl/workation-bali/)
+[› Meer informatie](https://www.dutchdigitalnomad.nl/workation-bali/)
 
 _Deze workation is inclusief verblijf, eten, drinken, uitjes, fotoshoot, scooterhuur en transfer. Exclusief reis naar Bali._
 
-## 8\. Groepsworkation Spanje
+## 8. Groepsworkation Spanje
 
 [Meer info](https://workingremotely.nl/workation-aanbod/groeps-workation-valencia-oktober/)
 
@@ -306,11 +306,11 @@ Tijdens deze workation ga je flexwerken onder de Spaanse zon. Met een groep geli
 
 Behalve voor ondernemers, kun je aan deze georganiseerde workation ook deelnemen als je in loondienst werkt.
 
-[\> Meer informatie](https://workingremotely.nl/workation-aanbod/groeps-workation-valencia-oktober/)
+[› Meer informatie](https://workingremotely.nl/workation-aanbod/groeps-workation-valencia-oktober/)
 
 _Deze workation is inclusief verblijf, enkele uitjes en ontbijt. Exclusief andere maaltijden en reis naar Spanje._
 
-## 9\. Ondernemersreis Albanië
+## 9. Ondernemersreis Albanië
 
 [Meer info](https://edgeplore.nl/ondernemersreis-albanie/)
 
@@ -335,11 +335,11 @@ Tijdens deze avontuurlijke ondernemersreis ga je met een 4×4 de Albanese bergen
 
 Gedurende deze reis komt er van hard werken misschien niet zoveel terecht, wel is dit het moment om samen met de coach en andere (ervaren) ondernemers actiepunten te bedenken om mee aan de slag te gaan.
 
-[\> Meer informatie](https://edgeplore.nl/ondernemersreis-albanie/)
+[› Meer informatie](https://edgeplore.nl/ondernemersreis-albanie/)
 
 _Deze workation is inclusief verblijf, eten, drinken, workshops, uitjes en reis._
 
-## 10\. Sportieve workation
+## 10. Sportieve workation
 
 [Meer info](https://www.travelies.nl/workation/)
 
@@ -362,7 +362,7 @@ _Deze workation is inclusief verblijf, eten, drinken, workshops, uitjes en reis.
 
 Een workation zonder yoga, zonder workshops en zonder gastsprekers. In deze workation staan chillen, werken en surfen voorop. De datum en locatie voor deze workation worden bepaald door de deelnemers. Zolang er maar gesurft kan worden!
 
-[\> Meer informatie](https://www.travelies.nl/workation/)
+[› Meer informatie](https://www.travelies.nl/workation/)
 
 _Deze workation is inclusief verblijf. Exclusief maaltijden en reis._
 

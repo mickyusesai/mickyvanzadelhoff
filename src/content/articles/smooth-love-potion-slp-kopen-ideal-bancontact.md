@@ -22,15 +22,15 @@ Smooth Love Potion, aangeduid als SLP, is niet zomaar een cryptomunt. Het is een
 
 SLP werd geïntroduceerd in 2020 als antwoord op de groeiende vraag naar een fokmechanisme binnen Axie Infinity. Het fungeert als een ruilmiddel binnen het Axie Infinity-ecosysteem, waardoor spelers niet alleen van het spel kunnen genieten, maar ook echt geld kunnen verdienen door hun SLP te verkopen. Dit heeft ertoe geleid dat de waarde van SLP is toegenomen door de groeiende vraag en het wijdverspreide gebruik in het fokproces van Axies​​.
 
-## Hier **koop je** Smooth Love Potion (SLP) **met iDEAL en Bancontact**
+## Hier koop je Smooth Love Potion (SLP) met iDEAL en Bancontact
 
 Voor de aankoop van SLP met iDEAL of Bancontact zijn platforms zoals [Finst](/go/finst) en [Bitvavo](/go/bitvavo) ideaal. Finst biedt lage handelskosten en gebruiksvriendelijkheid, wat het voor beginners aantrekkelijk maakt. Bitvavo, aan de andere kant, staat bekend om zijn betrouwbaarheid en een breed scala aan beschikbare cryptomunten, waaronder SLP.
 
-## **De beste NL Exchanges om te investeren in crypto**
+## De beste NL Exchanges om te investeren in crypto
 
 ![Finst Crypto Kopen](/images/migrated/finst-crypto-kopen-2.webp "Finst Crypto Kopen")
 
-### 1\. Finst
+### 1. Finst
 
 Goedkoopste exchange. Mogelijkheid tot investeren in bundels.
 
@@ -45,7 +45,7 @@ of [lees Finst review](/blog/review/finst-crypto-exchange/)
 
 ![Bitvavo affiliate programma](/images/migrated/bitvavo-affiliate-programma-1.webp "Bitvavo affiliate programma")
 
-### 2\. Bitvavo
+### 2. Bitvavo
 
 Grootste crypto exchange van de Benelux met veel crypto.
 

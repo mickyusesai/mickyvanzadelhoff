@@ -12,7 +12,7 @@ featuredImage: "/images/migrated/lake-vassiviere-france-scaled.webp"
 
 Hier lees je het hoofdstuk ‘Levensklok’ uit mijn boek ‘Neuk Het Systeem’. Goed om te weten wellicht, is dat ik dat boek nooit het uitgebracht. Daar waren diverse redenen voor, maar dit eerste hoofdstuk wilde ik toch graag nog eens met de wereld delen. So, here we go!
 
-# De Levensklok
+## De Levensklok
 
 De klok tikt door, de levensklok wel te verstaan. Met iedere seconde vergaat er een seconde om te leven. Het leven is namelijk eindig en zolang de technologie daar niets voor bedenkt is dat een vaststaand feit. De tijd die voorbijgaat is niet te stoppen en tikt door. Ongeacht wat je gelooft, dit is al zeker. Het is daarom goed om te kijken naar hoe jij jouw tijd hier op aarde besteed. Je daar bewust van worden kan helpen de juiste keuzes te maken om de tijd die je in dit leven hebt de moeite waard te maken.
 

@@ -1,8 +1,8 @@
 ---
-title: "Dit kun je met ChatGPT als ondernemer – Aan de slag met OpenAI"
-description: "Soms is er plots iets waar je als ondernemer niet meer omheen kunt. Soms waaien die dingen gewoon over, en soms is het iets fundamenteels zoals…"
+title: "Dit kun je met ChatGPT als ondernemer in 2026 – 15 toepassingen"
+description: "Van klantenservice tot facturen en van content tot automatisering: 15 manieren om ChatGPT als ondernemer in te zetten, plus tips voor betere antwoorden en de valkuilen."
 date: 2023-01-03
-updated: 2024-02-23
+updated: 2026-09-14
 category: "ondernemen"
 slug: "chat-gpt-ai-voor-ondernemers"
 lang: "nl"
@@ -10,137 +10,121 @@ draft: false
 featuredImage: "/images/migrated/chat-gpt-open-ai-ondernemer-functies-1.webp"
 ---
 
-Soms is er plots iets waar je als ondernemer niet meer omheen kunt. Soms waaien die dingen gewoon over, en soms is het iets fundamenteels zoals **ChatGPT**. Oftewel een chatbot gemaakt door **OpenAI** die jou toegang geeft tot het beste van **kunstmatige intelligentie**!
+Soms is er plots iets waar je als ondernemer niet meer omheen kunt. Soms waaien die dingen over, en soms is het iets fundamenteels zoals **ChatGPT**. Toen ik dit artikel begin 2023 schreef, was het een leuke chatbot waar je een blogidee uit kon halen. Inmiddels is het voor veel bedrijven een collega die nooit slaapt.
 
-Nu is dit typisch zo’n artikel dat ik had kunnen **genereren met een van [de vele AI tools](/blog/ondernemen/ai-tools-lijst/) zoals [LongShot.ai](/go/longshot)**, maar dan had ik jou geen reden gegeven om het hier te komen lezen. Daarbij werkt dat niet héél erg lekker voor Google’s algoritme. Toch heb ik uit AI zoals Chat GPT en LongShot.ai wel inspiratie weten te halen voor de **12 beste manieren** om deze **Artificial Intelligence** in te zetten als **ondernemer**. Want echt waar; er ligt plots een wereld open om in te ondernemen!
+In dit artikel lees je **wat ChatGPT in 2026 kan, 15 concrete manieren om het als ondernemer in te zetten, hoe je betere antwoorden krijgt en waar je op moet letten**. Alles uit eigen ervaring: ik gebruik het dagelijks en train bedrijven erin.
 
-## Is Chat GPT een buitenaards wezen?
+## Wat is ChatGPT in 2026?
 
-Nee.
+'GPT' staat voor **Generative Pre-trained Transformer**: een taalmodel dat is getraind op gigantische hoeveelheden tekst en daardoor zelf tekst kan genereren. Zo simpel is het nog steeds. Maar ChatGPT is allang niet meer alleen een tekstvak:
 
-Gelukkig niet.
+- Het **ziet en maakt afbeeldingen**, leest je PDF's en spreadsheets en kan die analyseren.
+- Het **zoekt live op internet** en zet bronnen erbij, dus het "dataset uit 2021"-probleem van vroeger is verleden tijd.
+- Het **onthoudt** wat je eerder vertelde (als je dat aanzet), zodat je niet elke keer opnieuw hoeft uit te leggen wie je bent.
+- Je kunt **praten** in plaats van typen, ook onderweg.
+- Met **Deep Research** doet het zelfstandig uitgebreid onderzoek en levert een rapport op, en in agent-modus kan het taken in je browser uitvoeren.
+- Je kunt je eigen **GPT's** maken: een versie met jouw instructies en documenten, voor jezelf of je team.
 
-Maar het komt wel in de buurt als het hebben over intelligent leven. ‘GPT’ staat hier voor **Generative Pre-training Transformer**. Hierbij staat _generative_ voor de tekst generatie van de chatbot, _pre-training_ voor de gigantische hoeveelheden data die vooraf is gevoed aan deze AI en _transformer_ voor het neurale netwerk dat wordt gebruikt.
+De gratis versie is prima om mee te beginnen. Wil je de sterkste modellen, meer gebruik en de agent-functies, dan zit je op een betaald abonnement. En ChatGPT is niet de enige: **Claude** (van Anthropic) en **Gemini** (van Google) doen hetzelfde en zijn op onderdelen beter. In mijn workshops laat ik ze naast elkaar zien. Voor de toepassingen hieronder maakt het weinig uit welke je kiest.
 
-![Chatbots online marketing](/images/migrated/chatbots-online-marketing-1.webp "Chatbots online marketing")
+Zo liet ik ChatGPT ooit [mijn boek](/boek/) van 176 pagina's samenvatten. Binnen tien seconden rolde de samenvatting eruit. Dat trucje werkt nog steeds, alleen kun je er nu ook een podcastscript, een lesplan of een LinkedIn-serie van laten maken.
 
-Met Chat GPT kun je dus **tekst genereren**. Dat doe je door de AI vragen te stellen. Dit kan letterlijk van alles zijn. Zo kun je vragen wie de premier van Nederland is, maar veel interessanter wordt het wanneer je de chatbot vraagt om een verslag op te stellen of iets samen te vatten.
+## 15 manieren om ChatGPT in te zetten als ondernemer
 
-Zo heb ik Chat GPT gebruikt om [mijn boek](/boek/) (176 pagina’s) samen te vatten. Binnen 10 seconden rolde de samenvatting er zo uit! Ook vroeg ik naar **de 12 manieren om Chat GPT als ondernemer te gebruiken** en schreef ik daar dit artikel over!
+### 1. Content schrijven (en herschrijven)
 
-Goed om te weten is dat Chat GPT slechts één van de apps is die is gebouwd op de technologie van Open AI. Voor specifieke taken merk je vaak dat een speciaal daarvoor ontworpen app wat beter helpt ([zie hier een lijst van AI apps](/blog/ondernemen/ai-tools-lijst/)). Het eerder genoemde [LongShot.ai](/go/longshot) is zo´n app, specifiek voor het schrijven van (uitgebreide) blog content.
+Blogs, nieuwsbrieven, productteksten, webpagina's. Het beste resultaat krijg je niet met "schrijf een blog over X", maar door je eigen kennis erin te stoppen: een lijstje met punten, een eerdere tekst als voorbeeld van je stijl, je doelgroep. Dan wordt het jouw verhaal, sneller geschreven. Goed voor je [contentmarketing](/blog/ondernemen/content-marketing/), en Google beloont inmiddels inhoud die echt iets toevoegt, niet AI-tekst zonder eigen inbreng.
 
-Wil je gebruikmaken van kunstmatige intelligentie (AI) voor het schrijven van jouw blog content, e-book, video scripts of web teksten? Ga dan aan de slag met LongShot.ai. Je kunt het [**hier**](/go/longshot) voor 1$ uitproberen.
+### 2. Klantenservice
 
-×
+De veelgestelde vragen van [jouw webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/) of dienst laat je beantwoorden door een chatbot die getraind is op jouw eigen informatie. Kant-en-klare tools zoals [ChatBot](/go/chatbot-com) koppel je aan je site; met een eigen GPT of via de API bouw je iets op maat.
 
-## 12 Manieren om Chat GPT in te zetten als bedrijf
+### 3. Social media
 
-Leuk zo’n kunstmatige intelligentie, maar wat kunnen wij daar als ondernemer mee? Hieronder heb ik Chat GPT **12 ideeën laten genereren**. Die eerste zal je dus vast niet verbazen ;).
+Geef de tone-of-voice, je doelgroep en drie eerdere posts, en laat een maand aan posts uitwerken die je vervolgens zelf bijschaaft. Tools als [Ocoya](/go/ocoya) plannen ze direct in.
 
-### 1\. Blogs schrijven
+### 4. E-mail
 
-Je kunt Chat GPT blogs voor jou laten schrijven. Daar komen niet zozeer kant-en-klare volwaardige artikelen uitrollen, maar het is zeker een manier om **inspiratie voor goede content** op te doen. Dat is goed voor jouw [content marketing strategie](/blog/ondernemen/content-marketing/). Wil je wél een AI die zo goed als kant-en-klare artikelen genereert, check dan eens [LongShot.ai](/go/longshot)
+Antwoorden op standaardmails, een nette afwijzing, een [acquisitiemail](/blog/ondernemen/acquisitie-mail-voorbeeld1/) volgens het AIDA-model, een opvolgmail na een offerte. Plak de mail erin, zeg wat je wilt bereiken, en je hebt binnen een minuut een concept. Handig voor je [e-mailmarketing](/blog/ondernemen/e-mail-marketing/).
 
-### 2\. Automatische antwoorden
+### 5. Samenvatten en uitleggen
 
-Je kunt AI gebruiken om een chatbot te maken voor bijvoorbeeld [jouw eigen webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/). Daarin kun je de veel gestelde vragen **automatisch laten beantwoorden** door een robot. Een AI applicatie die je hiervoor kunt gebruiken is [ChatBot](/go/chatbot-com).
+Lange rapporten, contracten, vergaderverslagen, een wetswijziging: plak het erin en vraag om de kern, de risico's of een uitleg alsof je vijf bent. Dit is de functie die mij persoonlijk de meeste tijd bespaart.
 
-### 3\. Social media content
+### 6. Data-analyse
 
-Ik ken al mensen die deze AI inzetten **om content te creëren** voor Twitter, [Instagram](/blog/online-geld-verdienen/geld-verdienen-met-instagram-2/) en [Facebook](/blog/online-geld-verdienen/facebook/). Het is best makkelijk om de **tone-of-voice** aan te geven en zo geschikte posts te laten bedenken. Een AI tool die zich specifiek richt op content voor social media is [Ocoya](/go/ocoya).
+Upload een spreadsheet met je omzet, klanten of advertentiedata en stel vragen in gewoon Nederlands: "welke maand was het beste, en waarom?" ChatGPT rekent, maakt grafieken en spot patronen. Geen formules nodig.
 
-### 4\. Product aanbevelingen
+### 7. Ideeën en strategie
 
-Laat de AI **relevante producten aanraden** wanneer iemand iets in een webshop wil bestellen. De bot kan hier prima zien welke producten relevant zijn.
+Brainstormen over nieuwe diensten, een naam, een campagne, bezwaren van klanten. Vraag om twintig ideeën, laat er drie uitwerken en laat het model daarna zijn eigen ideeën afkraken. Hoe specifieker jouw context, hoe beter de output.
 
-### 5\. E-mail
+### 8. Sollicitaties en HR
 
-Automatiseer sommige antwoorden van je e-mail met Chat GPT. Niet al je mailcontact vereist menselijke communicatie en deze kan dus ook worden gedaan door een robot. Ook handig voor de optimalisatie van jouw [e-mail marketing](/blog/ondernemen/e-mail-marketing/). Je kunt Chat GPT namelijk ook een [acquisitie mail](/blog/ondernemen/acquisitie-mail-voorbeeld1/) laten opstellen volgens het AIDA model.
+Een vacaturetekst schrijven, honderd cv's screenen op relevante ervaring, interviewvragen opstellen, een onboardingplan maken. Let hier extra op privacy: haal persoonsgegevens weg of gebruik een zakelijk account waarbij je data niet wordt gebruikt voor training.
 
-### 6\. Sollicitaties
+### 9. Leads en acquisitie
 
-Stel je voor dat je door 100 CV’s moet bladeren voor een sollicitatieronde. Dan zou je ook aan de AI kunnen vragen om deze voor jou door te kijken op zoek naar relevante skillsets.
+Een lijst met potentiële klanten onderzoeken, gepersonaliseerde eerste berichten opstellen, bezwaren voorbereiden. Met [SmartWriter](/go/smartwriter) automatiseer je gepersonaliseerde LinkedIn-berichten; ChatGPT zelf is prima voor de voorbereiding van je [leadgeneratie](/blog/ondernemen/leads-genereren-mailinglijst/).
 
-### 7\. Generatie van leads
+### 10. Afspraken en planning
 
-Zoals de kunstmatige intelligentie door CV’s kan bladeren, zo kan deze dat ook door potentiële leads, voor jouw B2B promotie bijvoorbeeld. Wil je dus [leads genereren](/blog/ondernemen/leads-genereren-mailinglijst/), dan kun je deze AI inzetten voor het eerste contact. Met [Smartwriter](/go/smartwriter) kun je zelfs gepersonaliseerde LinkedIN berichten laten versturen ;).
+Een chatbot die afspraken inplant voor een salon, praktijk of adviesbureau, of gewoon: "maak een weekplanning van deze takenlijst, ik werk woensdag niet." Kleine winst, elke dag.
 
-![training-ai-kunstmatige-intelligentie-in-company](/images/migrated/training-ai-kunstmatige-intelligentie-in-company-2.webp "training-ai-kunstmatige-intelligentie-in-company")
+### 11. Facturen en administratie
 
-### **Training AI op locatie 2024**
+Van een losse mail een nette offerte maken, een herinnering opstellen, bonnetjes uitlezen. Voor het echte automatiseren van je administratie kom je uit bij een koppeling met je boekhoudpakket, zie punt 15.
 
-De wereld waarin we werken veranderd ontzettend snel. Breng jezelf en jouw team op de hoogte van de laatste ontwikkelingen en leer **hoe AI tools zoals ChatGPT en Gemini zijn in te zetten voor productiviteit, (werk)geluk en succes!**
+### 12. Vertalen en corrigeren
 
-Duur: 3 uur  
-Investering: 950,- ex BTW  
-Formaat: Tot 30 deelnemers
+Nederlands naar Engels en terug, op het niveau van een goede vertaler, inclusief de juiste toon. En elke tekst even laten nakijken op spelling en stijl voordat je 'm verstuurt.
 
-[Contact voor meer info](/contact/)
+### 13. SEO en titels
 
-### 8\. Afspraken maken
+Tientallen klikbare titels voor een artikel of YouTube-video, een meta-omschrijving, een lijst met zoekintenties rond een onderwerp. Jij kiest de beste. Voor echt zoekwoordenonderzoek gebruik je daarnaast een SEO-tool.
 
-Als je een bedrijf hebt dat afspraken met klanten maakt (bijvoorbeeld een schoonheidssalon of een tandarts), kun je chat GPT inzetten om online afspraken te maken via een chatbot.
+### 14. Leren en jezelf trainen
 
-### 9\. Facturatie
+Vraag om een leerplan voor een nieuwe vaardigheid, laat je overhoren, of laat een lastig onderwerp in drie niveaus uitleggen. Ik gebruik het zelf om snel in een nieuwe branche te duiken voordat ik daar een workshop geef.
 
-Je kunt AI gebruiken om automatisch **facturen op te stellen** op basis van een bepaald soort input die jij geeft.
+### 15. Processen automatiseren
 
-### 10\. Samenvatten
+Dit is waar het in 2026 echt interessant wordt. Met tools als Zapier, Make of n8n koppel je ChatGPT aan je mailbox, CRM of boekhouding: elke inkomende aanvraag wordt automatisch samengevat, gelabeld en beantwoord. En met **Claude Code** bouw je zelf, zonder programmeerervaring, een complete automatisering die precies doet wat jouw bedrijf nodig heeft. Dat is precies wat we in mijn [bouwweek](/ai-workshops/bouwen-met-claude-code/) doen.
 
-Gebruik Chat GPT om een lang document binnen enkele seconden samen te vatten. Dit kan handig zijn als je door veel verschillende rapporten heen moet kijken om conclusies te trekken en te weten **wat er in grote lappen tekst eigenlijk staat**.
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
-### 11\. Ideeën opdoen
+## Zo krijg je betere antwoorden
 
-Zoek je naar een **creatief idee**? Dan kun je Chat GPT eenvoudig ideeën voor je laten bedenken. Een beetje zoals dit lijstje is samengesteld kun je dit ook met andere dingen doen. Houd er hierbij rekening mee; dat hoe specifieker jouw vraag is, hoe beter het antwoord!
+- **Geef context.** Wie je bent, voor wie de tekst is, wat het doel is. "Ik ben hovenier in Venray, mijn klanten zijn particulieren met een grote tuin" verandert alles.
+- **Geef voorbeelden.** Een eerdere tekst van jezelf zegt meer dan tien bijvoeglijke naamwoorden over je stijl.
+- **Werk in stappen.** Eerst een opzet, dan per onderdeel uitwerken, dan aanscherpen. Niet alles in één vraag.
+- **Vraag om alternatieven en kritiek.** "Geef drie versies" en "wat is zwak aan dit stuk?" leveren meer op dan één antwoord accepteren.
+- **Zet je voorkeuren vast** in de instellingen of in een eigen GPT, zodat je ze niet elke keer hoeft te herhalen.
 
-### 12\. SEO en titels
+## Waar je op moet letten
 
-Zoek je naar een **goede klikbare titel** voor jouw artikel of Youtube video? Dan kun je deze eenvoudig door Chat GPT laten genereren. Of beter gezegd, je kunt eenvoudig tientallen titels laten genereren en kiest zelf vervolgens de beste uit.
+- **Controleer feiten.** ChatGPT klinkt altijd zeker, ook als het fout zit. Cijfers, namen, wetsartikelen en prijzen check je zelf.
+- **Privacy en de AVG.** Zet geen klantgegevens in een gratis account. Gebruik een zakelijk abonnement waarbij je gegevens niet voor training worden gebruikt, of anonimiseer.
+- **Blijf zelf de eigenaar.** AI schrijft het concept, jij bepaalt wat er naar buiten gaat. Klanten merken het verschil tussen een tekst met en zonder mening.
 
-## Belangrijk om te weten: Chat GPT of OpenAI
+## ChatGPT of een gespecialiseerde tool?
 
-Chat GPT is één applicatie van OpenAI. Deze is **gratis te gebruiken** en daarom erg aantrekkelijk om eens wat mee te proberen. Veel van bovenstaande toepassingen voor ondernemers kun je daarmee uitvoeren, maar niet allemaal.
+Voor de meeste taken hierboven is ChatGPT (of Claude of Gemini) genoeg. Gespecialiseerde tools winnen het wanneer je iets **vaak en op dezelfde manier** doet: ze hebben templates, integraties en een workflow. Een paar voorbeelden die ik zelf gebruikte:
 
-![Functies OpenAI en Chat GPT](/images/migrated/functies-open-ai-1.webp "Functies OpenAI en Chat GPT")
+- [Synthesia](/go/synthesia): video's met een AI-presentator, ook in het Nederlands.
+- [Ocoya](/go/ocoya): social media schrijven en inplannen op één plek.
+- [Sembly AI](/go/sembly): vergaderingen transcriberen en notuleren.
+- [Murf AI](/go/murf-ai): tekst naar natuurlijke spraak voor voice-overs.
+- [Browse AI](/go/browse-ai): websites van concurrenten in de gaten houden.
+- [Looka](/go/looka): logo en huisstijl laten ontwerpen.
+- [Pictory](/go/pictory): van tekst of lange video's korte social clips maken.
+- [Originality](/go/originality): checken of een tekst door AI is geschreven.
+- [LongShot](/go/longshot) en [Copymatic](/go/copymatic): AI-schrijftools met SEO-workflow.
 
-Wanneer je de technologie van OpenAI wil toepassen op [jouw eigen website](/blog/online-geld-verdienen/geld-verdienen-met-website/), bijvoorbeeld met een eigen chatbot, dan zul je hiervoor eerst de juiste instructies moeten geven aan OpenAI en deze **op je website moeten integreren**. Daar wordt het al snel ingewikkeld. Ga hiervoor dus zeker in contact met je developer of webbouwer ;).
+<!-- TODO: verify this data is still current (bestaan en aanbod van bovenstaande tools, affiliate links) -->
 
-Ook komen er in 2023 veel applicaties uit die zijn gebouwd op de technologie van OpenAI. Daarmee wordt het al direct een stuk **makkelijker om de technologie te gebruiken**. Wel zijn vrijwel al deze applicaties betaald. Voorbeelden hiervan zijn:
+De volledige lijst, per categorie, vind je in [mijn overzicht van de beste AI tools](/blog/ondernemen/ai-tools-lijst/).
 
-*   **[LongShot.ai](/go/longshot):** Hier komen volledige blogs uitrollen.
-*   **[Looka](/go/looka)**: AI design tool voor logo en huisstijl.
-*   [**Synthesia**](/go/synthesia): Bespaar tijd door video’s te maken met AI.
-*   [**Ocoya**](/go/ocoya): Social media management op de automatische piloot.
-*   [**Sembly AI**](/go/sembly): Transcriberen en notuleren bij vergaderingen.
-*   [**Murf AI**](/go/murf-ai): Van tekst naar mensechte spraak.
-*   [**Browse AI**](/go/browse-ai): Onderzoekt jouw concurrentie hun websites.
-*   [**ChatBot**](/go/chatbot-com): Een als mens voelende chatbot op jouw website.
-*   [**Pictory**](/go/pictory): AI die videocontent maakt voor jouw socials.
-*   [**SmartWriter**](/go/smartwriter): Gepersonaliseerde LinkedIN berichten laten schrijven en versturen.
-*   [**Originality**](/go/originality): App die checkt of teksten door een AI geschreven zijn.
-*   [**Pencil**](/go/trypencil): Converterende social media advertenties maken met AI.
-*   [**CopyMonkey**](/go/copymonkey): E-commerce productbeschrijvingen laten schrijven.
-*   [**Podcastle**](/go/podcastle): Professionele podcasts opnemen zonder dure apparatuur.
+## Conclusie
 
-Dit soort applicaties ([zie hier de uitgebreide lijst](/blog/ondernemen/ai-tools-lijst/)) schieten met de ontwikkeling van OpenAI als paddenstoelen uit de grond. Zoek dus zeker even op het internet als je een specifiek soort functie zou willen hebben. **Grote kans dat iemand daar al mee bezig is!**
-
-## Conclusie OpenAI en Chat GPT voor ondernemers
-
-De kansen liggen voor het oprapen. Als je kijkt naar hoeveel processen je met de **technologie achter Chat GPT** kan versimpelen dan is het niet moeilijk om hier de toekomst van in te zien.
-
-Veel van het werk dat we zelf eerst deden, kan nu door een AI worden gedaan. Je daar alvast op voorbereiden en ermee aan de slag gaan kan zeker geen kwaad en is zelfs nodig in een **snel veranderende wereld**.
-
-Wil je het schrijven van blog content, web teksten of hele e-books uitbesteden? [Probeer dan voor 1$ de AI app LongShot.ai](/go/longshot) en kom er als vanzelf achter wat die intelligente robots voor je kunnen doen ;).
-
-![training-ai-kunstmatige-intelligentie-in-company](/images/migrated/training-ai-kunstmatige-intelligentie-in-company-2.webp "training-ai-kunstmatige-intelligentie-in-company")
-
-### **Training AI op locatie 2024**
-
-De wereld waarin we werken veranderd ontzettend snel. Breng jezelf en jouw team op de hoogte van de laatste ontwikkelingen en leer **hoe AI tools zoals ChatGPT en Gemini zijn in te zetten voor productiviteit, (werk)geluk en succes!**
-
-Duur: 3 uur  
-Investering: 950,- ex BTW  
-Formaat: Tot 30 deelnemers
-
-[Contact voor meer info](/contact/)
+De kansen liggen nog steeds voor het oprapen, alleen is de vraag verschoven. In 2023 was het: "wat kan dat ding?" In 2026 is het: "welke van mijn processen laat ik erdoor doen, en hoe zorg ik dat mijn team het echt gebruikt?" Begin klein, met één taak die je elke week irriteert. Als dat werkt, pak je de volgende. En wil je het in één keer goed neerzetten met je hele team, dan weet je [waar je me kunt vinden](/ai-workshops/).

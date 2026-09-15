@@ -26,13 +26,13 @@ Holo onderscheidt zich door zijn unieke architectuur. Deze architectuur staat be
 
 Een andere belangrijke feature van Holo is de nadruk op decentralisatie en gebruikersautonomie. Het platform stelt gebruikers in staat om met elkaar te communiceren en gegevens uit te wisselen zonder tussenkomst van centrale autoriteiten. Dit maakt Holo een aantrekkelijk platform voor ontwikkelaars die applicaties willen bouwen die privacy en gegevenssoevereiniteit benadrukken.
 
-## Hier **koop je Holo (HOT) met iDEAL en Bancontact**
+## Hier koop je Holo (HOT) met iDEAL en Bancontact
 
 Voor het kopen van Holo met iDEAL of Bancontact zijn Bitvavo en Finst twee betrouwbare opties. [Bitvavo](/go/bitvavo) is bekend om zijn gebruiksvriendelijkheid en is een van de toonaangevende crypto-exchanges in Europa. Het biedt een eenvoudige interface die ideaal is voor beginners.
 
 [![Crypto kopen met iDEAL op Bitvavo](/images/migrated/crypto-kopen-met-ideal-op-bitvavo-1.webp)](/go/bitvavo)
 
-### 1\. Bitvavo
+### 1. Bitvavo
 
 Grootste van de Benelux met zeer lage handelskosten.
 
@@ -45,7 +45,7 @@ Grootste van de Benelux met zeer lage handelskosten.
 
 [![Finst Crypto Kopen](/images/migrated/finst-crypto-kopen-2.webp)](/go/blox)
 
-### 2\. Finst
+### 2. Finst
 
 Mogelijkheid tot investeren in bundels.
 

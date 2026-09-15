@@ -22,15 +22,15 @@ OMG Network, oorspronkelijk bekend als OmiseGO, is een betalingssysteem gebouwd 
 
 Het netwerk is opgericht door Jun Hasegawa en Ezra Don Harinsut en streeft ernaar de snelheidsbeperkingen van het Ethereum-netwerk te overwinnen en de kosten van transacties te verlagen. OMG Network maakt het ook mogelijk om ERC-20 en ETH-tokens sneller en goedkoper uit te wisselen dan op het Ethereum-netwerk zelf​.
 
-## Hier **koop je** OMG Network **met iDEAL en Bancontact**
+## Hier koop je OMG Network met iDEAL en Bancontact
 
 Voor het kopen van OMG Network met iDEAL of Bancontact zijn de platforms [Finst](/go/finst) en [Bitvavo](/go/bitvavo) uitstekende opties. Finst onderscheidt zich met lage handelskosten, terwijl Bitvavo bekend staat om zijn gebruiksgemak. Beide platforms bieden een veilige en toegankelijke manier voor het aanschaffen van OMG.
 
-## **De beste NL Exchanges om te investeren in crypto**
+## De beste NL Exchanges om te investeren in crypto
 
 ![Finst Crypto Kopen](/images/migrated/finst-crypto-kopen-2.webp "Finst Crypto Kopen")
 
-### 1\. Finst
+### 1. Finst
 
 Goedkoopste exchange. Mogelijkheid tot investeren in bundels.
 
@@ -45,7 +45,7 @@ of [lees Finst review](/blog/review/finst-crypto-exchange/)
 
 ![Bitvavo affiliate programma](/images/migrated/bitvavo-affiliate-programma-1.webp "Bitvavo affiliate programma")
 
-### 2\. Bitvavo
+### 2. Bitvavo
 
 Grootste crypto exchange van de Benelux met veel crypto.
 

@@ -12,7 +12,7 @@ featuredImage: "/images/migrated/eigen-bedrijf-starten.webp"
 
 Een eigen bedrijf starten? Dat is niet zomaar iets en daar komt best wel wat bij kijken. Oké een inschrijving bij de kamer van koophandel is één ding, dat is zo gedaan. Maar eigenlijk is het echte starten van een bedrijf alles wat daarvoor en daarna komt. Zorgen dat je klanten krijgt, dat er geld wordt verdient. Het is geen geheim dat 40% van de bedrijven die zich inschrijft bij de kamer van koophandel, na drie jaar niet meer bestaat. In dit artikel help ik je met het voorkomen van dat scenario en vertel ik je over alles wat er bij het starten van een eigen bedrijf komt kijken. Tevens neem ik je aan de hand van één voorbeeld mee door het proces, een van mijn eigen bedrijfjes.
 
-# Waarom wil je een eigen bedrijf starten?
+## Waarom wil je een eigen bedrijf starten?
 
 Alles begint bij de ‘Why’ zou Simon Sinek zeggen. Waarom wil je iets doen? Later zul je pas kijken naar hoe je dat gaat doen en wat je daadwerkelijk gaat doen. Maar natuurlijk gaat dat bij het echte ondernemen vaak andersom. Waarschijnlijk heb je een kans gezien in de markt of heb je gewoonweg iets wat je heel erg leuk vind en wil je daar een bedrijf van maken. Of het nu gaat om een webshop, een cateringbedrijf of een huis-aan-huis kapper, het kan letterlijk van alles zijn.
 
@@ -20,7 +20,7 @@ Belangrijk is in ieder geval om jezelf af te vragen waarom je dat bedrijf eigenl
 
 > _Zo was ik zelf met een vriend op vakantie naar Ibiza. Wij hadden zo’n air lounger van de Action meegenomen om op het strand te relaxen. Toen we daarop lagen kwamen er veel mensen naar ons toe die vroegen waar we dat hadden gekocht. We kwamen erachter dat op Ibiza dit product nog helemaal niet beschikbaar was. En zo was een nieuw bedrijfsidee geboren, air loungers verkopen op Ibiza!_
 
-# Marktonderzoek is essentieel en kan ook super leuk zijn
+## Marktonderzoek is essentieel en kan ook super leuk zijn
 
 Je zult voor je je überhaupt inschrijft eerst eens kunnen kijken of wat jij wilt gaan doen wel gewild is. Kijken of er een kans van slagen is. Dat valt natuurlijk nooit met zekerheid te zeggen, maar het valt vaak wel met zekerheid te zeggen als iets helemaal geen kans van slagen heeft. Zeker een belangrijke stap dus om wat marktonderzoek te gaan doen. Denk daar ook vooral niet te moeilijk over.
 
@@ -28,7 +28,7 @@ Je kunt marktonderzoek doen door in gesprek te gaan met je netwerk en te vragen 
 
 > _Voor de air loungers waar ik het eerder al over had besloot ik wat marktonderzoek via mijn vrienden op Facebook te verrichten. Ik vroeg daar wat ze van het product vonden en wat ze dachten dat mensen daar op Ibiza voor zouden betalen. Op die manier kon ik beredeneren of het een goed plan was ze te gaan inkopen. Verder heb ik datzelfde netwerk nog gebruikt om keuzes te maken voor het logo, het product en heb ik zo zelfs mijn logistieke partner gevonden. Sharing is caring._
 
-![](/images/migrated/ibiza-lounger-bob-strand-relaxen.webp "ibiza-lounger-bob-strand-relaxen")
+![Ibiza lounger bob strand relaxen](/images/migrated/ibiza-lounger-bob-strand-relaxen.webp "ibiza-lounger-bob-strand-relaxen")
 
 ## Deel en leer van anderen
 
@@ -42,7 +42,7 @@ Pak nu alle resultaten van jouw marktonderzoek en het onderzoek van jezelf bij e
 
 > _Bij de air loungers, die uiteindelijk Ibiza Loungers zijn gaan heten, kwam ik tot de conclusie dat ik zelf wel heel veel wist van marketing, sales en design (logo etc.) maar simpelweg NIETS over import. Daaruit kon ik opmaken dat een logistieke partij nodig was om mij te adviseren. Als je jezelf niet onderzoekt kom je hier pas later in het proces achter en dat is enorm zonde, want dat gaat je geld kosten._
 
-# Eigen bedrijf starten begint bij de Kamer Van Koophandel
+## Eigen bedrijf starten begint bij de Kamer Van Koophandel
 
 Je zult je gaan inschrijven bij de Kamer Van Koophandel. Dat kan vrij eenvoudig. Vandaar ook dat heel veel mensen die alleen maar een idee hebben dat ook doen. Je maakt online een afspraak bij de Kamer Van Koophandel en geeft daar de suggestie voor je bedrijfsnaam op.
 
@@ -62,7 +62,7 @@ Bij de inschrijving heb je een gesprekje met iemand van de Kamer Van Koophandel.
 
 Na je inschrijving bij de Kamer Van Koophandel ben je verplicht om ieder kwartaal (in geval van een eenmanszaak) je BTW aangifte te doen. Kijk hiervoor een paar tutorials en screen de website van de belastingdienst, dan moet dat allemaal lukken. Wil je het liever uitbesteden, die boekhouding? [Ik heb een vriend die is boekhouder](https://be-innovative.org), levert top werk ;). Nu op naar het interessante deel van een eigen bedrijf starten!
 
-# Aan de slag met het daadwerkelijk starten van je eigen bedrijf
+## Aan de slag met het daadwerkelijk starten van je eigen bedrijf
 
 Ik kan er lang of kort over praten maar ik heb zo vaak gezien dat mensen in mijn omgeving een eigen bedrijf wilden starten maar het idee niet werd omgezet in een activiteit. De reden hiervoor was veelal dat het bleef steken bij angst voor de regels en wetgeving. Bij het gevoel dat het te moeilijk zou zijn om uit te voeren of bij de risico’s die het met zich meebrengt.
 
@@ -76,7 +76,7 @@ Heb je bijvoorbeeld al een logo, visitekaartjes, website, linked-in profiel, per
 
 > _Voor de Ibiza Loungers hebben we een logo gemaakt, t-shirts en petjes gedrukt en zelf beachflags laten maken. We wilde zeker zijn dat iedereen ons zou zien bij de verkoop op Ibiza strand. Nu was het tijd om te verkopen!_
 
-# Conclusie eigen bedrijf starten
+## Conclusie eigen bedrijf starten
 
 Ik ben zelf inmiddels al meerdere bedrijfjes begonnen (en gestopt). Ik ben een paar keer flink hard gevallen (lees dit verhaal maar eens), maar stond net iets vaker weer op. En dat is ondernemen. De weg is niet altijd duidelijk, maar wanneer je begint kom je daar vanzelf achter. Soms is het juist de weg van vallen en opstaan waarin je het meeste gaat leren en het meeste kunt bereiken. Dat maakt dan ook dat een eigen bedrijf starten niet voor iedereen is weggelegd. Immers niet iedereen kan zichzelf genoeg motiveren of disciplineren om door dat proces heen te gaan.
 
@@ -95,12 +95,6 @@ En om het nog even samen te vatten, de stappen waar je rekening mee moet houden 
 
 **Succes met het starten van je eigen bedrijf!**
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

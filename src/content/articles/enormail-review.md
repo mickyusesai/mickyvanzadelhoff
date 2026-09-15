@@ -14,7 +14,7 @@ Ik maak al jaren gebruik van **Enormail** en ben er razend enthousiast over. Van
 
 In deze review over Enormail ga ik in op waarom ik het programma gebruik, de tips, de tops en waarom ik het aan zou raden. Ook leg ik uit hoe je zelf succesvol met Enormail aan de slag kunt gaan.
 
-**[\> Zelf beginnen met Enormail](/go/enormail)**
+**[› Zelf beginnen met Enormail](/go/enormail)**
 
 ## Wat is Enormail?
 
@@ -24,7 +24,7 @@ Behalve voor mailings en het beheren van contacten heeft Enormail sinds 2019 ook
 
 Inmiddels heeft Enormail zelf een functie om opt-in pagina’s en formulieren te maken. Mensen laten daar hun e-mail achter en komen automatisch in jouw [mailinglijst](/blog/ondernemen/leads-genereren-mailinglijst/). Vervolgens kun je ze geautomatiseerd e-mails laten verzenden via een autoresponder. Je hoeft de mails alleen nog maar zelf te typen ?.
 
-![](/images/migrated/enormail-opt-in-formulier-1.webp "enormail-opt-in-formulier")
+![Enormail opt in formulier](/images/migrated/enormail-opt-in-formulier-1.webp "enormail-opt-in-formulier")
 
 ## Waarvoor gebruik je Enormail?
 
@@ -34,7 +34,7 @@ Ook kun je Enormail gebruiken om je mailinglijst te segmenteren zodat iedereen d
 
 Zie bijvoorbeeld hieronder de statistiek van een [acquisitie mail](/blog/ondernemen/acquisitie-mail-voorbeeld1/) die ik voor een van mijn klanten had opgesteld. Die statistiek vinden mijn klanten geweldig en is enorm handig ter optimalisatie. Zo zet ik altijd onderaan mijn mail een link naar een webpagina of artikel. Met Enormail kan ik zien of mensen daarop hebben geklikt, en zelfs wie daarop heeft geklikt. Interessante informatie voor verdere opvolging dus ?.
 
-![](/images/migrated/resultaten-mailing-enormail.webp "resultaten-mailing-enormail")
+![Resultaten mailing enormail](/images/migrated/resultaten-mailing-enormail.webp "resultaten-mailing-enormail")
 
 ## Enormail vs. Mailchimp
 
@@ -80,7 +80,7 @@ Domeinauthenticatie is een techniek die helpt om te verifiëren of een verzonden
 
 Bij Enormail kun je dit **eenvoudig** regelen (wellicht met een klein helpend handje van de webbouwer). Het werkt zeer bevorderend om uit de spambox te blijven.
 
-![](/images/migrated/domein-authentificatie-enormail.webp "domein-authentificatie-enormail")
+![Domein authentificatie enormail](/images/migrated/domein-authentificatie-enormail.webp "domein-authentificatie-enormail")
 
 ## Nadelen van Enormail
 
@@ -100,7 +100,7 @@ Omdat ik zelf klant ben van Enormail kan ik jou de pakketten die zij hebben met 
 
 Er is ook een goedkopere variant, maar daarmee kun je maar 2500 contacten hebben. Voor een beetje een bedrijf is dat al snel veel te weinig. Zeker wanneer je gebruik gaat maken van de opt-in formulieren.
 
-# Aan de slag met Enormail
+## Aan de slag met Enormail
 
 Oké, stel je hebt een Enormail account aangemaakt ([met 30 dagen gratis proefversie](/go/enormail))… Dan is het nu tijd om jouw account op de juiste manier in te stellen en mailcontacten te verkrijgen.
 
@@ -110,15 +110,15 @@ De eerste stap om te nemen is het toevoegen van een afzender e-mail adres. Dit i
 
 Ga als je bent ingelogd, rechts bovenin je scherm naar jouw account, beweeg je muis erover en klik op **account**.
 
-![](/images/migrated/mijn-account-enormail.webp "mijn-account-enormail")
+![Mijn account enormail](/images/migrated/mijn-account-enormail.webp "mijn-account-enormail")
 
 Je komt nu in jouw accountomgeving terecht. Klik daar op **mijn afzender adressen**.
 
-![](/images/migrated/account-enormail.webp "account-enormail")
+![Account enormail](/images/migrated/account-enormail.webp "account-enormail")
 
 Nu kun je onderaan de pagina een e-mail adres toevoegen. **Vul daar het e-mail adres in van waaruit jij e-mails wilt gaan verzenden** richting jouw contacten. Dit is dus ook het e-mail adres waarop je zelf mails terugkrijgt als mensen ‘antwoorden’. Houdt er rekening mee dat je oneindig veel afzender adressen toe kunt voegen voor toekomstige campagnes.
 
-![](/images/migrated/afzender-e-mail-adres-toevoegen-enormail.webp "afzender-e-mail-adres-toevoegen-enormail")
+![Afzender e mail adres toevoegen enormail](/images/migrated/afzender-e-mail-adres-toevoegen-enormail.webp "afzender-e-mail-adres-toevoegen-enormail")
 
 Klik op **afzender toevoegen** en je ontvangt een mailtje van Enormail met daarin de verificatiecode/link. Volg de stappen in de mail en jouw e-mail adres is geverifieerd! Je kunt nu vanuit jouw eigen mailadres berichten versturen via Enormail!
 
@@ -128,11 +128,11 @@ Het zou natuurlijk kunnen dat je al een hele lijst met contacten hebt. Dan kun j
 
 Allereerst zullen we daarvoor een contactenlijst aan moeten maken. Om dat te doen klik je in het hoofdmenu op **contacten**.
 
-![](/images/migrated/contacten-enormail.webp "contacten-enormail")
+![Contacten enormail](/images/migrated/contacten-enormail.webp "contacten-enormail")
 
 Nu zie je de verschillende mailinglijsten die je hebt. Waarschijnlijk heb je er nog geen en dus is het tijd om er een aan te maken door op **nieuwe mailinglijst** te klikken.
 
-![](/images/migrated/contacten-nieuwe-mailinglijst.webp "contacten-nieuwe-mailinglijst")
+![Contacten nieuwe mailinglijst](/images/migrated/contacten-nieuwe-mailinglijst.webp "contacten-nieuwe-mailinglijst")
 
 Bedenk een naam voor jouw mailinglijst. Wat dat is maakt niet zozeer uit, primair is deze alleen voor jou zichtbaar. De opties voor herinschrijven en notificaties maken op dit moment niet zo heel veel uit. Klik op **opslaan**.
 
@@ -142,7 +142,7 @@ Nu zie je jouw kersverse mailinglijst in je contacten staan, super!
 
 Nu is het tijd om daar ook daadwerkelijk e-mail adressen in te zetten. Wanneer je al een lijst hebt in bijvoorbeeld een Excel of Kladblok bestand kun je deze daarvoor gebruiken. Klik bij de mailinglijst op **importeren**.
 
-![](/images/migrated/importeren-contacten-enormail.webp "importeren-contacten-enormail")
+![Importeren contacten enormail](/images/migrated/importeren-contacten-enormail.webp "importeren-contacten-enormail")
 
 Nu wordt je gevraagd of je dit via een **CSV bestand of handmatig** wilt doen. Als je meer dan een paar contacten toe wilt voegen, dan doe je er goed aan dit via een CSV bestand te doen.
 
@@ -150,7 +150,7 @@ Nu wordt je gevraagd of je dit via een **CSV bestand of handmatig** wilt doen. A
 
 **Heb je al jouw contacten gewoon in een Word bestand staan?** Kopieer deze dan naar een kladblok bestand en sla deze op als bijv. ‘contacten.csv’. Wees er dan zeker van dat je bij opslaan als, ‘alle bestanden’ hebt geselecteerd om dit te laten werken. Vervolgens kun je dit bestand dan uploaden bij Enormail.
 
-![](/images/migrated/importeren-csv-enormail.webp "importeren-csv-enormail")
+![Importeren csv enormail](/images/migrated/importeren-csv-enormail.webp "importeren-csv-enormail")
 
 Nadat dit is gelukt zal Enormail de contactgegevens koppelen (e-mail aan e-mail) en je vragen of je meer gegevens wilt koppelen. Kijk hier zelf even wat je allemaal nodig hebt.
 
@@ -160,7 +160,7 @@ Nadat dit is gelukt zal Enormail de contactgegevens koppelen (e-mail aan e-mail)
 
 Nu is het tijd om jouw eerste e-mail te gaan verzenden of in te plannen. Ga hiervoor naar **mailingen** in het hoofdmenu en klik op **nieuwe mailing**.
 
-![](/images/migrated/standaard-mailing-enormail.webp "standaard-mailing-enormail")
+![Standaard mailing enormail](/images/migrated/standaard-mailing-enormail.webp "standaard-mailing-enormail")
 
 Hier kun je kiezen voor twee opties; **standaard mailing en de live designer**. In dit geval kies ik zelf vaak voor de standaard mailing omdat deze de minste kans heeft om in de spambox te belanden en daarbij ook als een natuurlijke mail overkomt op de ontvanger. Niet zo’n marketingmail die iedereen direct weg klikt.
 
@@ -200,7 +200,7 @@ Deze functie zal je nu waarschijnlijk niet nodig hebben, maar kan handig zijn wa
 
 Tijd om op **Opslaan en doorgaan naar verzenden te klikken**. Je bent klaar om jouw eerste mail te gaan versturen.
 
-![](/images/migrated/verzenden-mailing-enormail.webp "verzenden-mailing-enormail")
+![Verzenden mailing enormail](/images/migrated/verzenden-mailing-enormail.webp "verzenden-mailing-enormail")
 
 Enormail zal je nu vragen of je de mail nu of op een later tijdstip wilt verzenden. Selecteer jouw voorkeur en hoppa, jouw mail is onderweg!
 
@@ -210,12 +210,6 @@ Oké, tot zover. Ik zou je nog tal van dingen uit kunnen leggen over de Enormail
 
 **[Enormail](https://enormail.eu?ref=YFhynSSLyz) is mijn favoriete e-mail marketing software en jij kunt deze [GRATIS voor 30 dagen uitproberen](/go/enormail). Niets te verliezen toch? Succes!**
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

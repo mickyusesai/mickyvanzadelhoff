@@ -16,7 +16,7 @@ Maar **eerlijk is eerlijk**. Er gebeurde iets wat ik nog nooit had ervaren.
 
 > Vanaf het strand in Thailand voelde ik een gevoel opkomen dat ik nog nooit had gekend. Ik belandde in een nieuwe zoektocht naar mezelf en mijn dromen. Of hoe je het anders zou kunnen formuleren, ik belandde in een **depressie**. En die periode wil ik graag met je delen.
 
-# **De utopie van mijn bestaan**
+## De utopie van mijn bestaan
 
 Want iets voelde heel raar toen dit allemaal opkwam. Ik leefde precies het leven waarvan ik zelf dacht dat het super mooi was. Ik kon mijn paniekaanvallen, huilbuien, angstgevoelens en negatieve gedachten dan ook niet plaatsen. Steeds wanneer ik me slecht voelde relativeerde ik voor mijzelf de situatie, dat het allemaal ‘wel’ leuk was. En daar ging het waarschijnlijk fout.
 
@@ -24,7 +24,7 @@ Want iets voelde heel raar toen dit allemaal opkwam. Ik leefde precies het leven
 
 Behalve de mooie plaatjes is het namelijk ook een leven in **eenzaamheid en onzekerheid**. Maar mag ik dat rauwe randje wel aan de wereld laten zien? Kom ik niet super verwend over als ik zeg dat ik nog steeds niet gelukkig ben met alle vrijheden die ik heb?
 
-# **Alles viel uit elkaar in Marokko**
+## Alles viel uit elkaar in Marokko
 
 Toen ik uit Thailand terug kwam zat dit gevoel een paar weken in me. Ik dacht dat het gewoon zo’n realisatie momentje was. Zo’n moment dat je even alle ervaringen tot je moet nemen en dat vanzelf weer over waait. Terug in Nederland liet ik er dan ook geen week over heen gaan om mijn koffers weer te pakken en richting Marokko te gaan. Ik wilde daar een video training opnemen en mijn zusje ging mee om die te filmen.
 
@@ -32,13 +32,13 @@ Toen ik uit Thailand terug kwam zat dit gevoel een paar weken in me. Ik dacht da
 
 Mijn zusje had tevens ook geen idee wat ze daar nou mee moest, die situatie. Zonder het doel te hebben behaald om de training te filmen vloog ik eerder dan gepland terug naar Nederland. Ik was tot de conclusie gekomen dat iets écht fout was. Ik was niet meer mezelf. Ik moest wat doen. Ik wilde koste wat het kost herstellen van dit gevoel en vertrok daarom richting Frankrijk **om me terug te trekken** in het in de natuur gelegen huis van mijn ouders.
 
-# **Maanden gingen voorbij zonder duidelijke uitkomst**
+## Maanden gingen voorbij zonder duidelijke uitkomst
 
 Maanden gingen voorbij in Frankrijk, en hoewel het me heel erg aan het denken zetten, al die tijd die ik daar had, bracht het me nog niet de oplossing. Ik wist namelijk niet waar mijn ongeluk vandaan kwam. Dus zocht ik naar oorzaken als een vitamine tekort, overmatig alcohol gebruik en nog duizend andere redenen.
 
 > Omdat de Franse rust me binnen 2 maanden nog niet de oplossing had geboden en ik mij nog steeds klote en hopeloos voelde, besloot ik naar Nederland te gaan en daar wat testjes te doen en een **psycholoog** te vinden. En godzijdank lag daar dan ook de oplossing, in Nederland.
 
-# **Kunnen we eens een keer eerlijk en open zijn?**
+## Kunnen we eens een keer eerlijk en open zijn?
 
 Na een eerste open gesprek met de psycholoog kon ik alvast één conclusie trekken. Ik moest opener zijn naar mezelf en naar anderen over de goede, maar met name **over de slechte dingen**. Ik deelde dan ook met iedereen die ik kende mijn huidige situatie. En met het delen van die situatie was er één ding wat mijn wereld opstekop zette.
 
@@ -52,7 +52,7 @@ Maar waarom hebben we dat hiervoor dan nooit met elkaar gedeeld? Is dat niet jui
 
 Ik voelde me in Nederland dan ook direct begrepen toen ik mijn problemen deelde. Ik kwam erachter dat ik hier zeker niet alleen in stond en dat had een grote waarde.
 
-# **Wat ik heb geleerd en leer van mijn depressie**
+## Wat ik heb geleerd en leer van mijn depressie
 
 Als er dan ook iets is wat ik heb geleerd, dan is het dat, **het leven niet perfect is en het dat ook niet kan zijn**.
 

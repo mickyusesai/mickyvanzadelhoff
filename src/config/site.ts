@@ -12,6 +12,8 @@ export const SITE = {
   linkedin: 'https://www.linkedin.com/in/mick-van-zadelhoff-1ab40726/',
   /** Default social-share image (OG). TODO: replace with a branded image once the design is done. */
   ogImage: '/images/micky/mick-van-zadelhoff-de-moderne-nomaden.webp',
+  /** Google Analytics 4 Measurement ID (public by nature). Override with PUBLIC_GA_MEASUREMENT_ID on Railway. */
+  gaMeasurementId: 'G-S08XB20E5W',
 } as const;
 
 /** Categories kept online but left out of the homepage and the blog overview (decision D3). */

@@ -24,13 +24,13 @@ Een ander uniek aspect van Ripple is het consensusprotocol, wat anders is dan de
 
 Ripple heeft zich vooral gericht op samenwerkingen met banken en financiële instellingen. Hierdoor heeft XRP een sterke positie verworven in de financiële sector, iets wat uniek is in de wereld van cryptocurrencies. Deze focus heeft Ripple een stabiele en groeiende gebruikersbasis opgeleverd, zowel onder investeerders als financiële instellingen.
 
-## Hier **koop je Ripple (XRP) met iDEAL en Bancontact**
+## Hier koop je Ripple (XRP) met iDEAL en Bancontact
 
 Voor het kopen van Ripple met iDEAL of Bancontact zijn er verschillende platforms beschikbaar, maar Bitvavo en [Finst](/go/finst) springen eruit. Bitvavo, een toonaangevende Nederlandse crypto exchange, staat bekend om zijn gebruiksvriendelijkheid en veiligheid. Het biedt een eenvoudig proces voor het kopen van XRP, wat het een ideale keuze maakt voor zowel beginners als ervaren investeerders.
 
 [![Crypto kopen met iDEAL op Bitvavo](/images/migrated/crypto-kopen-met-ideal-op-bitvavo-1.webp)](/go/bitvavo)
 
-### 1\. Bitvavo
+### 1. Bitvavo
 
 Grootste van de Benelux met zeer lage handelskosten.
 
@@ -43,7 +43,7 @@ Grootste van de Benelux met zeer lage handelskosten.
 
 [![Finst Crypto Kopen](/images/migrated/finst-crypto-kopen-2.webp)](/go/blox)
 
-### 2\. Finst
+### 2. Finst
 
 Mogelijkheid tot investeren in bundels.
 

@@ -22,17 +22,9 @@ Er zijn flink wat redenen waarvoor een blog niche kiezen een goed idee is. Zo vr
 
 Het probleem bij zo’n diversiteit op een blog is alleen dat mensen het idee kunnen hebben dat ze op de verkeerde blog zijn beland. Bedenk je bijvoorbeeld eens wat je op jouw homepage neer moet zetten om duidelijk te maken dat je niet alleen fashion, maar ook motoren bespreekt. Het kan natuurlijk zijn dat jij het allebei hartstikke boeiend vindt, maar dat zal niet gelden voor het merendeel van jouw lezers. In zo’n situatie doe je er beter aan om tussen beide blog niches te kiezen of eventueel twee verschillende blogwebsites op te zetten.
 
-![training-ai-kunstmatige-intelligentie-in-company](/images/migrated/training-ai-kunstmatige-intelligentie-in-company-2.webp "training-ai-kunstmatige-intelligentie-in-company")
 
-### **Training AI op locatie 2024**
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
-De wereld waarin we werken veranderd ontzettend snel. Breng jezelf en jouw team op de hoogte van de laatste ontwikkelingen en leer **hoe AI tools zoals ChatGPT en Gemini zijn in te zetten voor productiviteit, (werk)geluk en succes!**
-
-Duur: 3 uur  
-Investering: 950,- ex BTW  
-Formaat: Tot 30 deelnemers
-
-[Contact voor meer info](/contact/)
 
 ## Blog niches en gratis lezers krijgen via Google
 
@@ -60,7 +52,7 @@ Drie vragen die je graag met ‘JA’ wilt beantwoorden zijn:
 
 Zo ja, dan zit je helemaal goed. Dan kun je met een gerust hart een blog niche kiezen ?. Kijk gerust bij de lijst hieronder om jou keuze te maken uit één van de 101+ blog niches.
 
-# 101+ Blog niche ideeën voor 2023
+## 101+ Blog niche ideeën voor 2023
 
 Meer dan 101 blog niche ideeën ter inspiratie voor jouw nieuwe blog onderverdeeld in categorieën.
 
@@ -210,14 +202,3 @@ Tot zover alle blog niche ideeën die we bij [De Moderne Nomaden](/) konden bede
 
 [**Wil je succesvol geld gaan verdienen met jouw eigen blog? Volg dan onze GRATIS online training over ‘De 5 Simpele Stappen Naar Jouw Eigen Winstgevende Blog’.**](/blog/ondernemen/blog-beginnen-starten-stappenplan/)
 
-![training-ai-kunstmatige-intelligentie-in-company](/images/migrated/training-ai-kunstmatige-intelligentie-in-company-2.webp "training-ai-kunstmatige-intelligentie-in-company")
-
-### **Training AI op locatie 2024**
-
-De wereld waarin we werken veranderd ontzettend snel. Breng jezelf en jouw team op de hoogte van de laatste ontwikkelingen en leer **hoe AI tools zoals ChatGPT en Gemini zijn in te zetten voor productiviteit, (werk)geluk en succes!**
-
-Duur: 3 uur  
-Investering: 950,- ex BTW  
-Formaat: Tot 30 deelnemers
-
-[Contact voor meer info](/contact/)

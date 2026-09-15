@@ -14,7 +14,7 @@ featuredImage: "/images/migrated/beste-meme-coins-kopen-crypto-1.webp"
 
 Ik heb soms enorme winsten geboekt, zoals 15.000% (150x). Maar ik ben ook heel vaak opgelicht. Hier zijn mijn belangrijkste inzichten voor het kopen van kleine meme-coins in 2025.
 
-### **Platforms voor het kopen van meme-coins**
+### Platforms voor het kopen van meme-coins
 
 Er zijn veel [crypto exchanges](/blog/web3/beste-crypto-exchange/) welke je misschien wel kent waar je met iDEAL crypto kan kopen. Bekende exchanges in Nederland zijn bijvoorbeeld [Finst](/blog/review/finst-crypto-exchange/) en [Bitvavo](/blog/review/bitvavo-review-crypto/). Echter, als je een meme-coin wilt kopen die nog veel groeipotentieel heeft, zal deze waarschijnlijk nog niet op een exchange staan. Deze koop je meestal zo:
 
@@ -25,7 +25,7 @@ Er zijn veel [crypto exchanges](/blog/web3/beste-crypto-exchange/) welke je miss
 
 Als je geen zin hebt om SOL naar een wallet te sturen, kun je ook SOL kopen in de app via Moonpay (met een creditcard).
 
-### **Strategieën om meme-coins te vinden die 100x kunnen gaan**
+### Strategieën om meme-coins te vinden die 100x kunnen gaan
 
 Er zijn drie strategieën voor investeren in meme coins:
 
@@ -36,6 +36,7 @@ Er zijn drie strategieën voor investeren in meme coins:
 3.  **Insider-informatie**  
     Word vrienden met influencers en ontwikkelaars van coins, zodat je er vroeg bij bent. Help hen door bijvoorbeeld hun Telegram te beheren, hun website te maken, memes te posten, etc.
 
+<!-- TODO: verify this data is still current (meme-coin promo, Pikamoon pick "begin 2025", MEXC) -->
 ## Klaar om de volgende 100x meme-coin sensatie te ontdekken? 🚀
 
 Duik in de wereld van meme-coins en grijp potentieel enorme winsten! Maar hoe koop je die veelbelovende tokens **voordat** ze op de grote exchanges verschijnen? 🤯
@@ -84,11 +85,11 @@ De derde strategie is de veiligste, maar ook het moeilijkst om in te breken. Je 
 *   **Betrouwbaarheid**: Een dev kan je dumpen (is mij overkomen), zelfs als je hen hebt geholpen.
 *   **Humor**: Zijn ze grappig? Het gaat tenslotte om meme coins. Je wilt niet werken met iemand zonder gevoel voor humor.
 
-### **Belangrijke tip: Optimaliseer je X**
+### Belangrijke tip: Optimaliseer je X
 
 Maak een nieuw X-account aan en volg alleen de beste influencers. Engage met hun posts zodat X je meer relevante inhoud laat zien. Hoe beter je X-feed, hoe beter je kansen om succesvol te investeren.
 
-### **Een paar regels die je moet volgen**
+### Een paar regels die je moet volgen
 
 *   Investeer alleen wat je kunt missen.
 *   Vermijd coins die scherp dalen.
@@ -100,20 +101,6 @@ Maak een nieuw X-account aan en volg alleen de beste influencers. Engage met hun
 
 Veel succes met traden!
 
-## Klaar om de volgende 100x meme-coin sensatie te ontdekken? 🚀
-
-Duik in de wereld van meme-coins en grijp potentieel enorme winsten! Maar hoe koop je die veelbelovende tokens **voordat** ze op de grote exchanges verschijnen? 🤯
-
-**Volg deze simpele stappen:**
-
-1.  Open een account op dé crypto exchange voor kleine munten; [MEXC](/go/mexc)
-2.  Stort je funds op je MEXC account (bijv. USDT of Cardano) of gebruik Moonpay om met euro crypto te kopen.
-3.  Ga op jacht naar de nieuwste meme-coins: Doe je onderzoek en vind die verborgen pareltjes met x10 of zelfs x100 potentieel! (onze meme-coin pick voor begin 2025 is [PIKAMOON](https://www.pikamoon.io/))
-4.  Koop de meme coin en fingers crossed! 🤞
-
-**Let op:** Investeer alleen wat je kunt missen. Meme-coins zijn volatiel en risicovol. Doe altijd je eigen onderzoek!
-
-**Ready? [Maak je account op MEXC](/go/mexc) en check onze favoriete meme-coin Pikamoon!**
 
 ![pikamoon-kopen](/images/migrated/pikamoon-kopen-1.webp "pikamoon-kopen")
 

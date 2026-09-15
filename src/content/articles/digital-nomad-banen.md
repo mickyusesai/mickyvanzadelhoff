@@ -132,17 +132,11 @@ Zelf heb ik best veel door Oost-Europa gereisd met een Nederlands inkomen. Keer 
 
 **[Wil je precies weten hoe ik het zelf heb aangepakt? In mijn 174 pagina tellende boek vind je mijn gehele verhaal. Je download deze hier gratis >>](/boek/)**
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
 
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
-
-# Top 10 banen voor digital nomads in 2024
+## Top 10 banen voor digital nomads in 2024
 
 Hieronder vind je de **top 10 digital nomad jobs**. Dat zijn ze uiteraard niet allemaal, maar dit zijn wel de banen die ik het meest voorbij zie komen bij mensen die [reizen en werken combineren](/blog/digitalenomaden/reizen-en-werken-combineren/).
 
@@ -150,18 +144,18 @@ Als jij [digital nomad wilt worden](/blog/digitalenomaden/digital-nomad-worden/)
 
 ### Deze jobs gaan we bespreken
 
-1.  [Online trainer](#trainer)
-2.  [Online adverteerder](#adverteerder)
-3.  [Copywriter](#content-marketeer)
-4.  [Webdesigner](#webdesigner)
-5.  [E-book schrijven](#e-book)
-6.  [Online doceren](#doceren)
-7.  [Dropshipper](#dropshipper)
-8.  [Online vertalen](#vertaler)
-9.  [Video editor](#video-editor)
-10.  [Social media manager](#social-manager)
+1.  Online trainer
+2.  Online adverteerder
+3.  Copywriter
+4.  Webdesigner
+5.  E-book schrijven
+6.  Online doceren
+7.  Dropshipper
+8.  Online vertalen
+9.  Video editor
+10.  Social media manager
 
-## **1\. Online trainer worden als digital nomad**
+## 1. Online trainer worden als digital nomad
 
 ![Je eigen videotraining als digital nomad inkomen](/images/migrated/videotraining-digital-nomad-inkomen-1.webp "Je eigen videotraining als digital nomad inkomen")
 
@@ -179,7 +173,7 @@ Het maken kost je uiteraard veel tijd, je wilt tenslotte wel het onderste uit de
 
 De prijzen voor zo’n cursus variëren van €50,- tot €1000,-. De prijssetting wordt vaak bepaald door het onderwerp. **Is het een cursus waar de cursist zelf geld mee verdient of veel kosten bespaart**, dan is de cursist vaak bereid om meer uit te geven.
 
-## **2\. Digital nomad baan als online adverteerder**
+## 2. Digital nomad baan als online adverteerder
 
 ![Online advertising](/images/migrated/online-adverteerder-marketeer-1.webp "Online advertising")
 
@@ -199,7 +193,7 @@ Om met online advertenties geld te verdienen moet je wel weten waarover je het h
 
 Zo’n cursus helpt je om niet alleen de skills van een adverteerder onder de knie te krijgen, maar ook om te begrijpen hoe je zelf aan goed betalende klanten komt.
 
-## **3\. Locatie onafhankelijk geld verdienen als copywriter**
+## 3. Locatie onafhankelijk geld verdienen als copywriter
 
 ![Digital nomads op eiland](/images/migrated/digital-nomads-op-eiland-1.webp "Digital nomads op eiland")
 
@@ -221,7 +215,7 @@ Om je een idee te geven hoeveel je kunt vragen voor de content die je schrijft v
 
 Veel bedrijven kiezen voor artikelen van **meer dan 1000 woorden** omdat de garantie dat deze hoog in Google komen dan groter is.
 
-## **4\. Webdesigner als digital nomad baan**
+## 4. Webdesigner als digital nomad baan
 
 ![Webdesigner worden als digital nomad](/images/migrated/webdesigner-worden-als-digital-nomad-1.webp "Webdesigner worden als digital nomad")
 
@@ -237,7 +231,7 @@ Klanten krijgen voor webdesign gaat vaak **via een al bestaand netwerk**. Je zal
 
 Om te beginnen kun je ervoor kiezen om eerst gratis een website voor iemand te maken die je kent. Dit helpt je om te experimenteren en geeft je alvast **een portfolio**.
 
-## **5\. E-book publiceren en met je verdiensten rondreizen**
+## 5. E-book publiceren en met je verdiensten rondreizen
 
 ![E-book schrijven en geld verdienen](/images/migrated/e-book-schrijven-en-geld-verdienen-1-scaled.webp "E-book schrijven en geld verdienen")
 
@@ -253,7 +247,7 @@ Wanneer je een [e-book hebt geschreven en gepubliceerd](/blog/online-geld-verdie
 
 De voorwaarde is dan natuurlijk wel dat je een platform of social media pagina hebt met genoeg bezoekers, anders is er automatisch niemand geïnteresseerd in wat jij aanbiedt. En de voorwaarde, **je moet natuurlijk wel ergens écht verstand van hebben als je het e-book zelf schrijft**. Rotzooi is er al genoeg ;).
 
-## **6\. Online doceren van over de hele wereld**
+## 6. Online doceren van over de hele wereld
 
 ![Online docent](/images/migrated/online-docent-1.webp "Online docent")
 
@@ -267,7 +261,7 @@ Wanneer je wilt doceren als digital nomad baan kan het erg helpen wanneer je al 
 
 Je zou er ook voor kunnen kiezen om het online doceren te combineren met bijvoorbeeld Engelse les geven in Taiwan. Maar meer daarover vind je in een artikel geweid aan [banen die je op de bestemmingen zelf kunt doen](/blog/digitalenomaden/reizen-en-werken-combineren/).
 
-## **7\. Dropshipping als werk voor een digital nomad bestaan**
+## 7. Dropshipping als werk voor een digital nomad bestaan
 
 ![Dropshipping business opzetten](/images/migrated/dropshipping-business-opzetten-1.webp "Dropshipping business opzetten")
 
@@ -285,7 +279,7 @@ Dropshipping is hoe dan ook een **goed businessmodel** voor digital nomads en wo
 
 Start dus zeker niet met dropshipping als je geen doorzetter bent. Heb je wel een ondernemende spirit? Ga er dan ook vol voor.
 
-## **8\. Online vertalen als digital nomad baan**
+## 8. Online vertalen als digital nomad baan
 
 ![Vertalen als digital nomad baan](/images/migrated/vertalen-als-digital-nomad-baan-1.webp "Vertalen als digital nomad baan")
 
@@ -299,7 +293,7 @@ Belangrijk is dat je op zijn minst twee talen **perfect spreekt en schrijft**. J
 
 Interessant is dat afhankelijk van welke talen je spreekt je meer kunt verdienen. Sommige talen zijn nou eenmaal meer gewild dan anderen ;).
 
-## **9\. Video editor als digital nomad**
+## 9. Video editor als digital nomad
 
 ![Video editor](/images/migrated/video-editor-1.webp "Video editor")
 
@@ -315,7 +309,7 @@ Ik merkte zelf dat toen ik [mijn Youtube kanaal](https://www.youtube.com/channel
 
 Wanneer je dus echt **locatie onafhankelijk** aan de slag wilt als video editor, doe je er goed aan om contact op te nemen met videobedrijven die dat graag uitbesteden.
 
-## **10. Social media manager**
+## 10. Social media manager
 
 ![Social media manager](/images/migrated/social-media-manager-1.webp "Social media manager")
 
@@ -327,15 +321,6 @@ Sociale media zijn daarmee enorm belangrijk geworden maar er is heel veel werk a
 
 Zo kun jij vanaf waar dan ook ter wereld hun social media beheren. Leuk aan deze **digital nomad baan**, is dat je er doorlopend betaald voor kunt krijgen. Je zoekt dus een aantal klanten en kunt op maandelijkse basis werkzaamheden voor hen uitvoeren. Zo voorkom je geldstress wanneer jij in het buitenland zit.
 
-#### _GRATIS Digital Nomad Boek_
-
-## **Dé inspiratie voor een vrij leven**
-
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
 
 ## Mijn digital nomad job
 
@@ -349,55 +334,55 @@ Veel digital nomads hebben een hand vol met digital nomad banen en bouwen daarna
 
 **Wil je weten hoe ik het zelf heb aangepakt? Dan vind je in [mijn boek](/boek/) het hele verhaal! Je kunt hem gratis downloaden.**
 
-## **Digital nomad vacatures**
+## Digital nomad vacatures
 
 Wanneer je zoekt naar digital nomad jobs dan zijn er verschillende platformen om vacatures te vinden. Dit kunnen vacatures zijn voor een volledige functie of voor een enkele opdracht als zelfstandige. De volgende platformen helpen je in ieder geval op weg!
 
-### 1\. Skilora.com
+### 1. Skilora.com
 
 Uitgebreide vacaturebank voor remotejobs in onder andere grafisch ontwerp, data analyse, software ontwikkeling en online marketing.
 
-### 2\. Remotive.io
+### 2. Remotive.io
 
 Platform dat specifiek bedoelt is voor werken op afstand met een actieve community. Niet al te groot, maar je vind er toch voldoende vacatures op het gebied van marketing, software, design en klantenservice.
 
-### 3\. Weworkremotely.com
+### 3. Weworkremotely.com
 
 Relatief oud platform waar je werk vind als programmeur, software ontwikkelaar, marketeer en grafisch ontwerper. Specifiek bedoelt voor freelance opdrachten.
 
-### 4\. Workingnomads.co
+### 4. Workingnomads.co
 
 Een platform met prima vacatures voor de telefonische klantenservice. Verder vind je er digital nomad jobs binnen 200 verschillende vaardigheden zoals schrijven, marketing en ontwerp.
 
-### 5\. Careersremote.com
+### 5. Careersremote.com
 
 Hier vind je een combinatie van andere platforms qua aanbod. Daardoor is dit een makkelijke website om je zoektocht naar een digital nomad vacature of opdracht te beginnen.
 
-### 6\. Glassdoor.nl
+### 6. Glassdoor.nl
 
 Glassdoor is een klassieke vacaturebank waar je door goed te zoeken nog best wat remote jobs tegenkomt.
 
-### 7\. Hired.com
+### 7. Hired.com
 
 Platform met focus op tech en IT-gebied. Primair bedoelt voor zeer ervaren specialisten.
 
-### 8\. Angel.com
+### 8. Angel.com
 
 Start-up gericht platform voor digital nomads die op afstand willen werken bij of voor start-ups.
 
-### 9\. Smart.ly
+### 9. Smart.ly
 
 Smartly is een educatie platform dat tegelijk te gebruiken is om te zoeken naar werk. Je kunt hier werk vinden rondom web en product design (inclusief UX/UI).
 
-### 10\. UpWork.com
+### 10. UpWork.com
 
 Een platform waar zo ongeveer iedereen wel eens van heeft gehoord. Je vind er opdrachten in de gehele breedte, maar met gigantisch veel concurrerende digital nomads en daardoor vaak lage vergoedingen voor opdrachten. Naarmate je meer beoordelingen ontvangt, kan je hieruit meer werk verwachten.
 
-### 11\. Fiverr.com
+### 11. Fiverr.com
 
 Een bekend platform voor het zoeken naar freelance projecten op het gebied van content creatie, design, videografie, fotobewerking, illustraties en logo-ontwikkeling. Jouw portfolio op Fiverr zal je succes maken of breken.
 
-### 12\. LinkedIn
+### 12. LinkedIn
 
 Wanneer je actief bent op LinkedIn kan je dit platform ook inzetten om werk te vinden. Plaats simpelweg een berichtje met wat je te bieden hebt en wie weet!
 
@@ -407,12 +392,3 @@ Voor wie digital nomad wil worden en online werk zoekt is er genoeg te kiezen. D
 
 Vaak zie je dat digital nomads binnen meerdere vakgebieden tegelijkertijd [online geld verdienen](/blog/online-geld-verdienen/online-geld-verdienen/). Dat kan zowel als freelancer als in loondienst. Gebruik de platforms in dit artikel en je kunt gelijk van start.
 
-#### _GRATIS Digital Nomad Boek_
-
-## **Dé inspiratie voor een vrij leven**
-
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

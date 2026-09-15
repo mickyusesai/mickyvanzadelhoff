@@ -24,13 +24,13 @@ Sei onderscheidt zich door het oplossen van het Exchange Trilemma, waarbij decen
 
 Deze kenmerken maken Sei aantrekkelijk voor verschillende toepassingen binnen de Web3-ruimte, zoals NFT-marktplaatsen en gaming-economieën, door de beste gebruikerservaring te bieden.
 
-## Hier **koop je Sei (SEI) met iDEAL en Bancontact**
+## Hier koop je Sei (SEI) met iDEAL en Bancontact
 
 Voor het aanschaffen van Sei met iDEAL of Bancontact kun je terecht op verschillende platforms. [Bitvavo](/go/bitvavo) en [Finst](/go/finst) zijn twee prominente crypto exchanges waar Sei verkrijgbaar is. Deze platforms onderscheiden zich door hun gebruiksgemak, veiligheid en klantondersteuning.
 
 [![Crypto kopen met iDEAL op Bitvavo](/images/migrated/crypto-kopen-met-ideal-op-bitvavo-1.webp)](/go/bitvavo)
 
-### 1\. Bitvavo
+### 1. Bitvavo
 
 Grootste van de Benelux met zeer lage handelskosten.
 
@@ -43,7 +43,7 @@ Grootste van de Benelux met zeer lage handelskosten.
 
 [![Finst Crypto Kopen](/images/migrated/finst-crypto-kopen-2.webp)](/go/blox)
 
-### 2\. Finst
+### 2. Finst
 
 Mogelijkheid tot investeren in bundels.
 

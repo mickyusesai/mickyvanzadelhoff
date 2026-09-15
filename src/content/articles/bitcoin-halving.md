@@ -28,11 +28,11 @@ Mining wordt gebruikt om transacties permanent aan de blockchain toe te voegen, 
 
 Er zijn tot nu toe drie Bitcoin halvings geweest: de eerste in november 2012, waarbij de blokbeloning daalde van 50 naar 25 bitcoins per blok; de tweede halving was in juli 2016, waarbij de beloning per blok weer werd verlaagd van 25 naar 12,5 bitcoins per blok; de derde halving vond plaats in mei 2020, waarbij de beloningen daalden van 12,5 bitcoins per blok naar 6,25 bitcoins per blok.
 
-## **De beste NL Exchanges om te investeren in crypto**
+## De beste NL Exchanges om te investeren in crypto
 
 ![Finst Crypto Kopen](/images/migrated/finst-crypto-kopen-2.webp "Finst Crypto Kopen")
 
-### 1\. Finst
+### 1. Finst
 
 Goedkoopste exchange. Mogelijkheid tot investeren in bundels.
 
@@ -47,7 +47,7 @@ of [lees Finst review](/blog/review/finst-crypto-exchange/)
 
 ![Bitvavo affiliate programma](/images/migrated/bitvavo-affiliate-programma-1.webp "Bitvavo affiliate programma")
 
-### 2\. Bitvavo
+### 2. Bitvavo
 
 Grootste crypto exchange van de Benelux met veel crypto.
 

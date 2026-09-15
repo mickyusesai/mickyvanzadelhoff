@@ -58,11 +58,11 @@ Ethereum 1.0 was een PoW-keten waar gebruikers moesten concurreren in rekenkrach
 
 Echter, met de overgang, transformeerde Ethereum 2.0 in een PoS-netwerk waar validators 32 ETH moeten inzetten om een node te activeren en de transacties te valideren. Een validator wordt gekozen voor elk voorgesteld blok en verdient netwerkvergoedingen van de transacties. Dit faciliteerde een sterke daling in energieverbruik, omdat er geen noodzaak is voor validators om dure en energieverslindende mining rigs te bezitten.
 
-## **De beste NL Exchanges om te investeren in crypto**
+## De beste NL Exchanges om te investeren in crypto
 
 ![Finst Crypto Kopen](/images/migrated/finst-crypto-kopen-2.webp "Finst Crypto Kopen")
 
-### 1\. Finst
+### 1. Finst
 
 Goedkoopste exchange. Mogelijkheid tot investeren in bundels.
 
@@ -77,7 +77,7 @@ of [lees Finst review](/blog/review/finst-crypto-exchange/)
 
 ![Bitvavo affiliate programma](/images/migrated/bitvavo-affiliate-programma-1.webp "Bitvavo affiliate programma")
 
-### 2\. Bitvavo
+### 2. Bitvavo
 
 Grootste crypto exchange van de Benelux met veel crypto.
 

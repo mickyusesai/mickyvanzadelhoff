@@ -24,12 +24,6 @@ Locaties die geliefd zijn bij [digital nomads](/blog/digitalenomaden/digital-nom
 
 Er zijn online veel verschillende sites en platforms te vinden waar je een mooi overzicht vindt van de co working spaces op de locatie waar je heen gaat. Kijk bijvoorbeeld eens op coworker.com, daar staan allemaal coworking spaces op van over de hele wereld. Je kunt hier foto’s zien van de locatie, welke faciliteiten ze bieden, maar ook reviews lezen van anderen. Is de wifi wel echt zo snel als dat ze claimen en kun je er eventueel ook netwerken of niet? Kijk ook of er een lokale facebook pagina is voor digital nomads. Hier kun je ook werkplekken vinden en ook nog eens makkelijk nieuwe mensen ontmoeten. Ook zijn er in het buitenland veel leuke activiteiten en borrels die voor digital nomads georganiseerd worden. Perfect om te netwerken!
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")

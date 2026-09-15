@@ -16,7 +16,7 @@ De verschillende districten bieden kansen voor alle soorten mensen. Bezoek Abbey
 
 > Londen is een van de drukst bezochte steden ter wereld. Dit maakt het een drukke en dure stad. Het is daarom ook handiger om als digital nomad niet in het hoogseizoen naar Londen te reizen. Het is rustiger en voordeliger om buiten de zomermaanden deze stad te bezoeken.
 
-# Mensen leren kennen in Londen als digital nomad
+## Mensen leren kennen in Londen als digital nomad
 
 Hoe je mensen leert kennen in Londen is uiteraard voor iedereen verschillend. Het kan vrij lastig zijn om echt goede vrienden te maken tijdens je verblijf. Engelsen kennen een bepaalde afstand tot buitenlanders, merkten ik en andere mensen die ik ken. Het lukt nog wel goed om een gesprek aan te knopen met iemand, maar die draait zich vaak net zo gemakkelijk weer om richting zijn vriendengroep. Hierdoor is het lastiger om diepgaandere vriendschappen aan te gaan in deze stad. Echter, als je genoeg probeert, kom je altijd wel like-minded mensen tegen.
 
@@ -26,7 +26,7 @@ Natuurlijk kun je naar coworkingspaces gaan, koffiezaakjes, marktjes of andere p
 
 En natuurlijk moet je ook even een bezoekje brengen aan de SLG, ofwel: South London Gallery. Hier hangt al sinds 1891 contemporary art. Nu nog steeds wordt de galerie gebruikt voor dit doeleinde. En ik kan je een geheimpje vertellen: de tentoonstellingen zijn gratis te bezoeken.
 
-# Werken vanuit Londen als digital nomad
+## Werken vanuit Londen als digital nomad
 
 Werken vanuit Londen kan echt heerlijk zijn als digital nomad. Iedereen spreekt Engels, dus kun je jezelf sowieso verstaanbaar maken. Mits je Engels spreekt, maar hey, dat moet je wel onder de knie hebben als je voor deze leefstijl kiest. Daarnaast kent Londen heel veel authentieke zaakjes waarin je goed kunt werken. Echter, betaal je wel redelijk wat voor koffie en iets te eten. Ik zal je wat goedkopere en wat duurdere opties geven.
 
@@ -38,7 +38,7 @@ De coworkingspaces in Londen zijn vooral heel duur. Een interessante plek is The
 
 > Ben je veel te avontuurlijk om op één plek vast te werken, loop dan vooral veel rond. Londen kent zo ongelooflijk veel aangename zaakjes. Je vindt er vast één die het beste bij jou aansluit. Dat is het voordeel van een grote westerse stad ;)
 
-# Genieten van vrije tijd in Londen
+## Genieten van vrije tijd in Londen
 
 Oh, en er is ook zoveel te doen in Londen. Het ligt er een beetje aan waar je op uit bent. Wil je over de stad heen kijken vanaf een van de grootste reuzenraden van Europa, dan kun je een bezoekje brengen aan de London Eye. Bezichtig de Big Ben en check de Tower of London als je daar behoefte aan hebt, maar deze activiteiten zijn best saai. Vind ik. Ik zal een aantal dingen noemen die veel leuker zijn. Zie het maar als je eigen voorgekauwde bucketlist.
 
@@ -52,34 +52,28 @@ En ook, dit is echt de laatste, de Sherlock Holmes fanaten hebben van alles te d
 
 Zo, dat was wel even genoeg verafgoding van onze helden. Laten we even een pauze nemen. Maar hoe kan dat beter in Engeland dan onder het genot van een kop thee? Een plek die ik je wil aanraden is dan ook een design theehuis. Sketches vullen de muren en je kunt in een ontzettend luxe sfeer genieten van een echt Brits kopje thee.
 
-# Wonen in Londen
+## Wonen in Londen
 
 Ik hoef het eigenlijk al niet meer te zeggen, maar Londen bevindt zich in één van de hoogste niveaus van huizenprijzen ter wereld. Dat betekent dat de Airbnb’s en de hostels ook een stuk prijziger zijn. Denk eraan dat je, als je vaak nog krap bij kas bent, dus niet in het hoogseizoen in Londen wilt wonen.
 
-## **AirBnb**
+### AirBnb
 
 De Airbnb’s zijn vooral te verdragen in het laagseizoen. Dan ben je ongeveer 30 tot 50 euro per nacht kwijt voor je eigen stekje. Dat is natuurlijk wel het fijnste, want als digitale nomade wil je ook een dag thuis kunnen werken of lekker kunnen slapen na een werkdag. Daarnaast is er ook de mogelijkheid om een privékamer te huren. Dan ben je ongeveer 20 euro kwijt per nacht.
 
-## **Hostels**
+### Hostels
 
 Hostels kunnen in deze stad een ideale oplossing bieden. Voor ongeveer 10 tot 15 euro per nacht kun je al heel wat mogelijkheden vinden. Tevens is dit een ideale manier om (internationale) mensen te leren kennen. Ondanks dat veel mensen in hostels ook weer snel verdwijnen. Het kan soms echt heel goed voor je zijn om een sterke band op te bouwen met iemand op de plek waar je woont. Dit is erg waardevol en biedt een bepaalde balans in jezelf. Zo ervaar ik dat ten minste altijd. Just a tip ;)
 
-# Prijzen in Londen voor digital nomads
+## Prijzen in Londen voor digital nomads
 
 Als je het artikel een beetje hebt doorgelezen, hoef ik je al niet meer te vertellen hoe het staat met de prijzen. Bedenk wel dat Londen oplossingen en mogelijkheden kan bieden om daarmee te dealen. Het is een enorm dure stad als digital nomad. Ben je echter capabel genoeg met het spreken van Engels of het vakgebied dat je uitoefent, dan is het de moeite waard om misschien bij wat Engelse bedrijven langs te gaan. Vraag maar eens na of ze jou kunnen gebruiken, of laat ze weten dat zij jou nodig hebben. Een paar goed betaalde opdrachten zouden het leven in Groot-Brittannië simpelweg iets aangenamer maken.
 
-# Conclusie wonen en werken in Londen als digital nomad
+## Conclusie wonen en werken in Londen als digital nomad
 
 Londen is weer een typische westerse stad. Er is veel te doen, van toeristische attracties tot aan Ghost tours. Er zijn heel wat interessante en artistieke wijken. De stad leeft.
 
 Wel moet je flink wat geld neerleggen om comfortabel te kunnen wonen en werken in Londen als digital nomad. Wees daar op voorbereidt. Maar als je er eenmaal bent, weet ik zeker dat je er een hele toffe tijd gaat hebben.
 
-#### _GRATIS Digital Nomad Boek_
 
-## **Dé inspiratie voor een vrij leven**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-Met een eigen online business werk je **waar en wanneer je wilt**. Een geweldige levensstijl **vol vrijheid** welke ik zelf al vijf jaar mag ervaren. Alle inzichten en verhalen die dat opleverde vind je in mijn boek! Dat is leuk om te lezen en geeft je gelijk de berg aan inspiratie om zelf **je beste leven** te leven.
-
-[Ga naar boek](/boek/)
-
-![Digital nomad verhalen en lessen uit een vrij leven boek cover](/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp "Digital nomad verhalen en lessen uit een vrij leven boek cover")
