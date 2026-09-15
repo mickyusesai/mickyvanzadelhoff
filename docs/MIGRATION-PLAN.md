@@ -66,6 +66,14 @@ The new site was already live on mickyvanzadelhoff.com (Railway behind Cloudflar
 7. ⏳ **Cloud86:** cancel the WordPress hosting package but keep the domain registration (check with Cloud86 that the two are separate). Keep the domain and the Cloudflare rule for at least 12 months.
 8. ⏳ **Post-launch:** watch Search Console coverage and 404 reports weekly for 8 weeks; Lighthouse mobile pass; canonical/OG spot-check.
 
+### Phase 7 — Illustrated header images  ⏳
+Micky wants one illustrated header per article in the style of the reference he sent (flat, layered picture-book landscape: rolling hills, big soft sun with sky bands, long clouds, silhouetted trees, grainy texture, small coral flowers), translated into the brand colours (D2, D15).
+
+- **Pipeline:** `scripts/generate-headers.mjs` calls Recraft V3 on fal.ai (`fal-ai/recraft/v3/text-to-image`, $0.04 per image, ~$7 for all 174 articles). One shared style prompt + colour prompt, the palette passed as Recraft's `colors` hint, one scene per article from `src/data/header-motifs.json` (category default when no motif is written). Output 1600×900 webp in `public/images/headers/`, `--apply` rewrites `featuredImage`. Needs `FAL_KEY` (environment or git-ignored `.env`).
+- **Palette for the landscapes:** ink #17112E (foreground silhouettes), deep violet #4C1D95, violet #6D28D9, lavender #A78BFA, lilac #DDD6FE, ground #F5F3FF (sky, clouds), lime #D4F75B and pale lime #EEF9B8 (sunlit slopes), peach #FFC9B8 (sun glow), coral #FF5C5C (tiny flower accents only).
+- **Step 1 (waiting for FAL_KEY):** 6 samples, 3 articles × 2 Recraft substyles (`grain`, `2d_art_poster`), for Micky to judge (D22). Style is prompt-based, no artist's work uploaded as a style reference.
+- **Step 2:** write a motif for every article (11 done), generate all, `--apply`, rebuild, commit. Old migrated featured images stay in the repo untouched.
+
 ---
 
 ## 4. URL map (new site)
@@ -113,6 +121,7 @@ The new site was already live on mickyvanzadelhoff.com (Railway behind Cloudflar
 | D19 | Analytics, address | Google Analytics, Measurement ID G-S08XB20E5W (default in `src/config/site.ts`, overridable with `PUBLIC_GA_MEASUREMENT_ID`). No address on the contact page. |
 | D20 | Dead affiliate tools | Claude's call, 2026-09-15, for Micky to confirm: when a tool behind a `/go/` link no longer exists (LongShot), the link is replaced by a link to the review that explains the shutdown, the review URL is kept for its Google ranking, and a living tool takes the slot in the tools list. The `/go/longshot` redirect itself stays in `redirects.json`. |
 | D21 | Old-domain redirect | Cloudflare does it, not Railway: demodernenomaden.nl is a Cloudflare zone with a placeholder `192.0.2.1` A record and one Redirect Rule to the same path on mickyvanzadelhoff.com (301, query preserved). Chosen because Cloud86 DNS cannot point a bare domain at Railway, Micky already had Cloudflare for the new domain, and it keeps working even if the Railway service is down. The Node server on Railway only turns the redirect table into 301s. Micky executed it on 2026-09-15. |
+| D22 | Header-image style | Pending: Micky judges the first 6 Recraft samples (Phase 7). |
 | — | Strategy | Migrate 1:1 first, refresh after launch. |
 | — | How Micky answers | In chat, not on the board, so the answers are searchable in the conversation. |
 | — | Workation page | Retired by Claude (cancelled 2023 event); old URL → workations article. |

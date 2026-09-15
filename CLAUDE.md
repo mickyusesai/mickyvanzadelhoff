@@ -180,6 +180,9 @@ to the same path on mickyvanzadelhoff.com (decision D21); no host check in the a
   Featured images later as custom illustrations in brand colours (Lydia Hill "Personal Sunset").
   Still personal and human, NOT corporate, NOT a generic AI aesthetic.
 - Tokens live in `tailwind.config.mjs`; global styles and motion in `src/styles/global.css`.
+- **Header images:** generated per article with `scripts/generate-headers.mjs` (Recraft V3 on fal.ai,
+  needs `FAL_KEY`), scenes in `src/data/header-motifs.json`, output in `public/images/headers/`.
+  Style and palette are defined in the script; see plan Phase 7.
 - **Typography:** Generous sizing, readable. Good for long-form Dutch text.
 - **Mobile-first** — majority of blog traffic is mobile
 - **Fast:** motion must not cost content speed. No animation libraries; CSS + one small
