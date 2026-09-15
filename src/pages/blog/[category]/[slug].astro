@@ -33,7 +33,7 @@ const related = (await getPublishedArticles())
       </p>
       <h1 class="text-[32px] font-extrabold leading-[1.08] tracking-tight sm:text-[44px]">{title}</h1>
       <p class="flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-muted">
-        <img src="/images/micky/mick-van-zadelhoff-de-moderne-nomaden.webp" alt="" width="40" height="40" class="h-9 w-9 rounded-full border-2 border-ink object-cover" />
+        <img src="/images/micky/micky-van-zadelhoff-portret.webp" alt="" width="40" height="40" class="h-9 w-9 rounded-full border-2 border-ink object-cover" />
         <span class="font-bold text-ink">Micky van Zadelhoff</span>
         <time datetime={date.toISOString()}>{formatDate(date)}</time>
         {updated && updated > date && <span>· bijgewerkt <time datetime={updated.toISOString()}>{formatDate(updated)}</time></span>}
