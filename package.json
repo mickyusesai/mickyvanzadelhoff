@@ -5,9 +5,11 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "migrate": "node scripts/migrate-wordpress.js"
+    "migrate": "node scripts/migrate-wordpress.js",
+    "start": "HOST=0.0.0.0 node ./dist/server/entry.mjs"
   },
   "dependencies": {
+    "@astrojs/node": "^9.5.5",
     "@astrojs/rss": "^4.0.19",
     "@astrojs/sitemap": "^3.7.0",
     "@astrojs/tailwind": "^6.0.2",

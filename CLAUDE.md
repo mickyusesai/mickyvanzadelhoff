@@ -23,7 +23,10 @@ not corporate speak. The design should feel like a person, not a brand agency.
 - **Framework:** Astro (static site generation)
 - **Styling:** Tailwind CSS
 - **Content:** Markdown (.md) files with frontmatter in /src/content/
-- **Deployment:** Railway — auto-deploys on every push to main branch on GitHub
+- **Deployment:** Railway — auto-deploys on every push to main branch on GitHub. The site is
+  built with `output: 'server'` + `@astrojs/node` (standalone) but every page is prerendered, so
+  it is static HTML served by a small Node server (`npm run start`, see `railway.json`). The
+  server exists only so the `redirects` table answers real 301s.
 - **Domain:** mickyvanzadelhoff.com (Dutch only)
 - **Business details:** see `src/config/site.ts` (name Micky van Zadelhoff, email mickyvz@live.nl,
   WhatsApp +31681081589, KVK 62568299, no BTW number shown). Never use the old
@@ -150,8 +153,10 @@ featuredImage: ""      # path to image in /public/images/
 ### Redirect strategy:
 When demodernenomaden.nl eventually points to this site, the old URL structure
 `demodernenomaden.nl/[category]/[postname]/` maps to
-`mickyvanzadelhoff.com/blog/[category]/[postname]/`. This is already in `redirects`
-(static meta-refresh now, real 301s once the Node adapter is added at launch, Phase 6).
+`mickyvanzadelhoff.com/blog/[category]/[postname]/`. This is in `redirects` and served
+as real 301s by the Node server. The old domain itself lives in Cloudflare (nameservers moved from
+Cloud86 on 2026-09-15) with a placeholder A record and one Redirect Rule that sends every request
+to the same path on mickyvanzadelhoff.com (decision D21); no host check in the app.
 
 ---
 

@@ -1,6 +1,6 @@
 # Migration plan: demodernenomaden.nl → mickyvanzadelhoff.com
 
-**Status (2026-09-15, end of session 6):** Phases 0–4 done, Phase 5 pre-launch part done: article markup repaired site-wide, the 6 AI articles refreshed to 2026 and fact-checked with web search, and the AI-tools list has a homepage screenshot per tool. Google Analytics wired (G-S08XB20E5W). Next: Phase 6.
+**Status (2026-09-15, session 6):** Phases 0–5 (pre-launch part) done. Phase 6 in progress: the site runs on the Node adapter with real 301s (on the branch, waiting for Micky to merge), the old domain is in Cloudflare with the redirect rule deployed and the nameservers switched at Cloud86 (propagating). Next: verify the redirect chain once DNS has propagated, Search Console change of address, cancel Cloud86 hosting.
 **Next:** Phase 6 (Railway server with real 301s, launch checklist). After launch: Phase 5 batches.
 **Source of truth for this project.** Every session starts by reading this file and `docs/content-inventory.md`.
 Update the status lines and the decision log at the end of each session.
@@ -54,11 +54,17 @@ Done by `scripts/cleanup-content.py` (re-runnable): link rewrite (1,771 links), 
 **Tool screenshots (done 2026-09-15):** every one of the 50 tools in `ai-tools-lijst` has a homepage screenshot under its heading: 45 fresh captures in `public/images/tools/` (headless Chromium through the proxy, 1200 px webp, 1.9 MB in total) and 5 fallbacks from the old article where the site blocks headless browsers (Perplexity, ChatGPT images, Adobe Firefly, Looka, Ocoya). Re-capture: `scratchpad/shot-tools.mjs` + `insert-tool-images.py` (not committed; the insert step is idempotent).
 **After launch:** the remaining articles per `docs/content-inventory.md`, batches of 10–15: ondernemen → online-geld-verdienen → digitalenomaden → review → web3. Claude drafts, Micky reviews, push.
 
-### Phase 6 — Launch and redirects  ⏳
-1. Add `@astrojs/node` (standalone) so Railway has a start command and `redirects` become real 301s instead of meta-refresh pages. Add a middleware: any request with host `demodernenomaden.nl` or `www.demodernenomaden.nl` gets a 301 to the same path on `mickyvanzadelhoff.com`, which then resolves through the redirect table. That lets Micky cancel WordPress hosting.
-2. Pre-launch checklist: build green, spot-check 20 old URLs from the export against the redirect table, sitemap complete, robots.txt, canonical/OG on every page, Lighthouse mobile.
-3. Launch: DNS for both domains → Railway. Google Search Console: both properties, "Change of Address", new sitemap.
-4. Post-launch: watch coverage and 404 reports weekly for 8 weeks. Keep the old domain and its redirects for at least 12 months.
+### Phase 6 — Launch and redirects  🔄
+The new site was already live on mickyvanzadelhoff.com (Railway behind Cloudflare) when this phase started, so "launch" means moving the old domain, not the new one.
+
+1. ✅ **Node adapter (2026-09-15, on the branch).** `output: 'server'` + `@astrojs/node` standalone; every page has `export const prerender = true`, so the build is still static HTML (189 sitemap URLs, unchanged) and only the 513 redirects are on-demand routes, answered with real 301s. Verified locally: old article/category/page/feed URLs → 301 to the new path, `/go/*` → 301 to the affiliate target, unknown URLs → the new `404.astro`. Internal targets get a relative `Location` (the browser resolves it against https://mickyvanzadelhoff.com), `/go/` targets an absolute one; GET answers 301, other methods 308 (Astro's default). `npm run start` = `HOST=0.0.0.0 node ./dist/server/entry.mjs`; `railway.json` sets build/start commands and a `/` healthcheck so a broken deploy never replaces a working one. The host-based middleware from the original plan is dropped (D21): Cloudflare redirects the old domain before it reaches Railway.
+2. ✅ **Old domain in Cloudflare (Micky, 2026-09-15).** Zone demodernenomaden.nl added on the free plan; root A record `192.0.2.1` proxied (the imported `www` CNAME to the root is proxied too); Redirect Rule "All incoming requests" → dynamic `concat("https://mickyvanzadelhoff.com", http.request.uri.path)`, 301, preserve query string. Nameservers changed at Cloud86 (Domeinen → Mijn domeinen → Nameservers beheren). Mailboxes on the old domain are unused (Micky), so the MX/mail records were left to die.
+3. ⏳ **Verify after propagation** (resolvers cached the Cloud86 nameservers with a 4-hour TTL at switch time): `demodernenomaden.nl/ondernemen/ai-tools-lijst/` → 301 → `mickyvanzadelhoff.com/ondernemen/ai-tools-lijst/` → 301 → `/blog/ondernemen/ai-tools-lijst/`. Spot-check 20 old URLs from the export, including `/go/`, categories, `/feed/`, `/over-mij/`, an upload PDF.
+4. ⏳ **Merge the branch into main** so Railway deploys the Node server (Micky). Check after deploy: homepage 200, an old URL 301 (not meta-refresh), `/sitemap-index.xml`, `/rss.xml`, `/dit-bestaat-niet/` shows the 404 page.
+5. ⏳ **www of the new domain:** in the Cloudflare zone of mickyvanzadelhoff.com add A `www` → `192.0.2.1` proxied plus a Redirect Rule www → root, path preserved (currently `www.mickyvanzadelhoff.com` does not resolve).
+6. ⏳ **Google Search Console:** add demodernenomaden.nl as a domain property (TXT record in Cloudflare), "Change of address" to the mickyvanzadelhoff.com property, submit `/sitemap-index.xml` on the new property.
+7. ⏳ **Cloud86:** cancel the WordPress hosting package but keep the domain registration (check with Cloud86 that the two are separate). Keep the domain and the Cloudflare rule for at least 12 months.
+8. ⏳ **Post-launch:** watch Search Console coverage and 404 reports weekly for 8 weeks; Lighthouse mobile pass; canonical/OG spot-check.
 
 ---
 
@@ -106,6 +112,7 @@ Done by `scripts/cleanup-content.py` (re-runnable): link rewrite (1,771 links), 
 | D18 | Co-trainer | Only Micky. |
 | D19 | Analytics, address | Google Analytics, Measurement ID G-S08XB20E5W (default in `src/config/site.ts`, overridable with `PUBLIC_GA_MEASUREMENT_ID`). No address on the contact page. |
 | D20 | Dead affiliate tools | Claude's call, 2026-09-15, for Micky to confirm: when a tool behind a `/go/` link no longer exists (LongShot), the link is replaced by a link to the review that explains the shutdown, the review URL is kept for its Google ranking, and a living tool takes the slot in the tools list. The `/go/longshot` redirect itself stays in `redirects.json`. |
+| D21 | Old-domain redirect | Cloudflare does it, not Railway: demodernenomaden.nl is a Cloudflare zone with a placeholder `192.0.2.1` A record and one Redirect Rule to the same path on mickyvanzadelhoff.com (301, query preserved). Chosen because Cloud86 DNS cannot point a bare domain at Railway, Micky already had Cloudflare for the new domain, and it keeps working even if the Railway service is down. The Node server on Railway only turns the redirect table into 301s. Micky executed it on 2026-09-15. |
 | — | Strategy | Migrate 1:1 first, refresh after launch. |
 | — | How Micky answers | In chat, not on the board, so the answers are searchable in the conversation. |
 | — | Workation page | Retired by Claude (cancelled 2023 event); old URL → workations article. |
