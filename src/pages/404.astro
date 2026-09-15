@@ -1,0 +1,22 @@
+---
+export const prerender = true;
+import Layout from '../layouts/Layout.astro';
+import Blobs from '../components/Blobs.astro';
+---
+<Layout title="Pagina niet gevonden" description="Deze pagina bestaat niet (meer). Ga naar de homepage, het blog of de AI-workshops van Micky van Zadelhoff." noindex>
+  <section class="relative overflow-hidden">
+    <Blobs />
+    <div class="wrap relative z-10 grid gap-6 py-14 sm:py-24">
+      <p class="eyebrow animate-rise">404</p>
+      <h1 class="max-w-3xl text-[40px] font-extrabold leading-[1.02] tracking-tight animate-rise [animation-delay:.1s] sm:text-[58px]">Deze pagina is <span class="highlight">verhuisd</span> of bestaat niet.</h1>
+      <p class="max-w-prose text-lg text-muted animate-rise [animation-delay:.2s] sm:text-xl">
+        Kwam je hier via een oude link van De Moderne Nomaden? De meeste artikelen staan nu op het blog. Zoek je iets anders, stuur me dan even een berichtje.
+      </p>
+      <div class="flex flex-wrap gap-3 animate-rise [animation-delay:.3s]">
+        <a href="/blog/" class="btn btn-primary">Naar het blog</a>
+        <a href="/ai-workshops/" class="btn btn-lime">AI-workshops</a>
+        <a href="/contact/" class="btn btn-ghost">Contact</a>
+      </div>
+    </div>
+  </section>
+</Layout>
