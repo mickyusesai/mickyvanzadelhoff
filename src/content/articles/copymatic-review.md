@@ -43,7 +43,7 @@ Dit is de eerlijke vraag. Een chatbot als ChatGPT of Claude schrijft in 2026 min
 
 Waar de chatbots winnen: alles wat nuance, eigen kennis en heen-en-weer denken vraagt. Mijn advies in 2026: gebruik een chatbot als sparringpartner en schrijver van je belangrijkste teksten, en een tool als Copymatic voor het volume-werk.
 
-Andere AI-schrijftools die je tegenkomt: Jasper, Copy.ai, Writesonic, Rytr en [LongShot](/blog/review/longshot-ai-review-nederlands/). De verschillen zitten in prijs, talen en de workflow, niet meer zozeer in de kwaliteit van de tekst.
+Andere AI-schrijftools die je tegenkomt: Jasper, Copy.ai, Writesonic, Rytr en Frase. LongShot, waar ik ook een [review](/blog/review/longshot-ai-review-nederlands/) over schreef, is in 2025 gestopt. De verschillen zitten in prijs, talen en de workflow, niet meer zozeer in de kwaliteit van de tekst.
 
 ![AI copywriting tools](/images/migrated/AI-copywriting-tools-2023-1.webp "AI copywriting tools")
 
