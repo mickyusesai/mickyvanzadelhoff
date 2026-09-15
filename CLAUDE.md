@@ -249,5 +249,6 @@ When refreshing De Moderne Nomaden articles for this site:
 ## Open questions for Micky (everything else is decided, see docs/MIGRATION-PLAN.md §5)
 - **Logo:** none known; the name is used as a wordmark.
 - Micky prefers to answer questions **in chat**, so answers stay searchable.
-- **Headshot:** a newer high-quality photo is welcome; the current default is
-  `/images/micky/mick-van-zadelhoff-de-moderne-nomaden.webp`.
+- **Headshot:** the homepage hero uses `/images/micky/micky-van-zadelhoff-portret.webp` (2025, square crop
+  of the photo Micky shared on 2026-09-15; the original is `IMG_1680.JPG` in his Drive folder "Claude").
+  The blog author box uses the same file; the old `mick-van-zadelhoff-de-moderne-nomaden.webp` stays in the repo unused.
