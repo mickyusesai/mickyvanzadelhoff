@@ -7,7 +7,7 @@ category: "tips"
 slug: "interview-mick-van-zadelhoff"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/interview-mick-van-zadelhoff-ik-ben-op-reis-e1524324645684.webp"
+featuredImage: "/images/headers/interview-mick-van-zadelhoff.webp"
 ---
 
 _NOTE: Dit interview is afgenomen door Tim Bakker voor het platform IkBenOpReis.nl_

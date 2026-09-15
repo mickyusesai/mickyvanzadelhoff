@@ -7,7 +7,7 @@ category: "web3"
 slug: "crypto-kopen-met-ideal-stappenplan"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/crypto-kopen-met-ideal-1.webp"
+featuredImage: "/images/headers/crypto-kopen-met-ideal-stappenplan.webp"
 ---
 
 **Bitcoin en crypto kopen met iDEAL in 2024**? Dan zit je hier goed. Met onderstaande stappenplan heb je dat binnen 5 minuten gefixt. Dit stappenplan is ook te volgen als je het Belgische Bancontact wilt gebruiken.

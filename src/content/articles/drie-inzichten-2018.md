@@ -7,7 +7,7 @@ category: "tips"
 slug: "drie-inzichten-2018"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/IMG-20181212-WA0032.webp"
+featuredImage: "/images/headers/drie-inzichten-2018.webp"
 ---
 
 Het afgelopen jaar was een prachtige rollercoaster voor me, maar ik kan je wel vertellen dat ik op het moment erg geniet van die rit. Het heeft me enorm veel inzichten gegeven en dat brengt me bij de vraag wat ik mee zou willen geven aan anderen voor 2019.

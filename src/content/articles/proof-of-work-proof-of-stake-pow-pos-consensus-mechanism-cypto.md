@@ -7,7 +7,7 @@ category: "web3"
 slug: "proof-of-work-proof-of-stake-pow-pos-consensus-mechanism-cypto"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/proof-of-work-versus-proof-of-stake-consensus-mechanism-1.webp"
+featuredImage: "/images/headers/proof-of-work-proof-of-stake-pow-pos-consensus-mechanism-cypto.webp"
 ---
 
 Cryptocurrencies zijn ontworpen om gedecentraliseerd en gedistribueerd te zijn, waarbij de transacties op de blockchain transparant zijn en door iedereen geverifieerd kunnen worden. Door de onveranderlijke aard van de meeste blockchains betekent dit dat de ingevoerde data grotendeels onomkeerbaar is.

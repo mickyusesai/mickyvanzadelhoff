@@ -7,7 +7,7 @@ category: "online-geld-verdienen"
 slug: "videotraining"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/online-cursus-maken-en-verkopen-1.webp"
+featuredImage: "/images/headers/videotraining.webp"
 ---
 
 Welkom in de wereld van **online cursussen**. Waar veel te leren is én waar veel slechte verhalen over te vertellen zijn. Na alle social media promoties waarbij je na een gratis webinar voor 997,- euro iemands videotraining kan kopen, is het tijd voor een grondig artikel dat uitlegt **hoe je een waardige online cursus kunt maken en verkopen**.

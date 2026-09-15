@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "leads-genereren-mailinglijst"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/mailinglijst.webp"
+featuredImage: "/images/headers/leads-genereren-mailinglijst.webp"
 ---
 
 Ervan uitgaande dat u al aan uw eerste e-mailmarketingcampagne begint. Super goed!

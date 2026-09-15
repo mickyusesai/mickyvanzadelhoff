@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "workations-ondernemersreizen"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/wokrations-2023.webp"
+featuredImage: "/images/headers/workations-ondernemersreizen.webp"
 ---
 
 **Je werk en vakantie combineren? Hier vindt je alle georganiseerde workations voor ondernemers, zelfstandigen en ZZP’ers in 2023**.

@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "wonen-en-werken-in-berlijn-duitsland"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/wonen-en-werken-in-berlijn-e1541449360535.webp"
+featuredImage: "/images/headers/wonen-en-werken-in-berlijn-duitsland.webp"
 ---
 
 Berlijn, de stad van techno, hippe start-ups en een vrije levensstijl. Klinkt als een ideale plek voor digital nomads, maar is dat ook zo? In dit artikel vertel ik je hoe het is om te wonen en te werken in Berlijn oftewel, de stad van de vrijheid.

@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "wonen-en-werken-in-parijs-frankrijk"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/wonen-en-werken-in-parijs-e1541539684522.webp"
+featuredImage: "/images/headers/wonen-en-werken-in-parijs-frankrijk.webp"
 ---
 
 Wonen en werken in Parijs als [digital nomad](/blog/digitalenomaden/digital-nomad-worden/), hoe is dat eigenlijk? We reizen we af naar de stad van de liefde. Al lange tijd wilde ik graag eens Parijs bezoeken, de Eiffeltoren zien en mijn buik vullen met zachte, luchtige croissantjes die net uit de oven komen. Uiteindelijk bleek het zeker te bevallen. Vooral de kunst- en cultuur nomaden onder ons zullen genieten van dit artistieke stadje, met een rijke historie.

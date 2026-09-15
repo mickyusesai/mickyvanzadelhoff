@@ -7,7 +7,7 @@ category: "web3"
 slug: "smooth-love-potion-slp-kopen-ideal-bancontact"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/smooth-love-potion-slp-kopen-ideal-bancontact-1.webp"
+featuredImage: "/images/headers/smooth-love-potion-slp-kopen-ideal-bancontact.webp"
 ---
 
 In 2024 blijft de wereld van cryptocurrency evolueren, met nieuwe munten en technologieën die voortdurend opduiken. Eén van deze spannende munten is Smooth Love Potion (SLP), een unieke cryptomunt die nauw verbonden is met het populaire blockchain-spel Axie Infinity. Als je interesse hebt in het kopen van SLP met iDEAL of Bancontact, dan is dit het perfecte moment om te beginnen.

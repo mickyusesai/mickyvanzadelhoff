@@ -7,7 +7,7 @@ category: "online-geld-verdienen"
 slug: "passief-inkomen-genereren"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/passief-inkomen-genereren-1.webp"
+featuredImage: "/images/headers/passief-inkomen-genereren.webp"
 ---
 
 **Hoe kun je een passief inkomen genereren?** Het zal je wellicht verbazen, maar daar zijn tal van manieren voor!

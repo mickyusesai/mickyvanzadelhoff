@@ -7,7 +7,7 @@ category: "tips"
 slug: "spontane-ontmoeting-in-kiev"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/oekraine-universiteit-nederlands-les.webp"
+featuredImage: "/images/headers/spontane-ontmoeting-in-kiev.webp"
 ---
 
 Hieronder lees je een verhaal uit mijn boek ‘Digital nomad – Verhalen en lessen uit een vrij leven’. Het is een passage uit mijn treinreis door Moldavië en Oekraïne en gaat over een zeer spontane ontmoeting in Kiev.

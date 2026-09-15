@@ -7,7 +7,7 @@ category: "tips"
 slug: "ervaring-turkije-fietsen"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/DSC01092.webp"
+featuredImage: "/images/headers/ervaring-turkije-fietsen.webp"
 ---
 
 Zo [reizend op de fiets door Turkije](https://youtube.com/journeyofconnection) kan ik het niet meer bijhouden. Hoe vaak hier de vraag aan mij word gesteld door Turkse mensen, wat ze moeten doen om naar Nederland te verhuizen. Er heerst een sterk gevoel dat het bij ons beter is. Maar is ons gras daadwerkelijk groener? In dit artikel ga ik daarop in.

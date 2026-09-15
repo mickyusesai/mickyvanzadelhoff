@@ -7,7 +7,7 @@ category: "review"
 slug: "cloud86-webhosting-review"
 lang: "nl"
 draft: false
-featuredImage: ""
+featuredImage: "/images/headers/cloud86-webhosting-review.webp"
 ---
 
 Is Cloud86 **de beste hosting voor jouw website**?

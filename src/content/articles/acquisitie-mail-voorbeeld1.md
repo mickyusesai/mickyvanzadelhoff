@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "acquisitie-mail-voorbeeld1"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/acquisitie-mail-schrijven.webp"
+featuredImage: "/images/headers/acquisitie-mail-voorbeeld1.webp"
 ---
 
 Zelf een acquisitie mail schrijven? Vind hier een voorbeeld van een acquisitie mail en leer hoe jij zelf een converterende e-mail schrijft.

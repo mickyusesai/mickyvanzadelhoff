@@ -7,7 +7,7 @@ category: "tips"
 slug: "depressie"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/depressie-digital-nomad-e1528717887599.webp"
+featuredImage: "/images/headers/depressie.webp"
 ---
 
 **Wat nou als ik mij klote voel?** Over die vraag had ik nog niet nagedacht toen ik begon met reizen. Want zeg nou eerlijk. Wanneer je bevoegd bent om vanaf idyllische plekken te werken, waarom zou dat je dan niet gelukkig maken?

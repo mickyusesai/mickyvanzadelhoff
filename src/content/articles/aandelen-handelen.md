@@ -7,7 +7,7 @@ category: "online-geld-verdienen"
 slug: "aandelen-handelen"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/geld-verdienen-met-aandelen.webp"
+featuredImage: "/images/headers/aandelen-handelen.webp"
 ---
 
 **Beleggen in aandelen** kan een geweldige manier zijn om jouw vermogen te doen groeien en te voorkomen dat jouw geld verdampt door inflatie. Voor lange termijn beleggers zijn aandelen **een goede investering gebleken**, zelfs wanneer de markt veel heen en weer beweegt.

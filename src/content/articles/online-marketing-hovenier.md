@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "online-marketing-hovenier"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/20171212_172236-e1525261267847.webp"
+featuredImage: "/images/headers/online-marketing-hovenier.webp"
 ---
 
 ### Als online marketeer vind ik het altijd leuk om nieuwe markten te ontdekken. Zo ook de hoveniers branche. Vanuit mijn vakgebied ben ik eens gaan kijken naar de websites van hoveniers en hoe je als hovenier meer aanvragen en klanten kunt krijgen via online kanalen. Met een beetje creativiteit, kwamen daar ideeën uit die zich in andere markten al meermaals bewezen hebben, maar die in de hoveniers markt vaak (nog) niet gebruikt worden. Daarom hier mijn top 3 voor meer klanten via je website als hovenier.

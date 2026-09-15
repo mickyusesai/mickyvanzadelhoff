@@ -7,7 +7,7 @@ category: "web3"
 slug: "nft-uitleg"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/nft-geld-verdienen-kopen-verkopen.webp"
+featuredImage: "/images/headers/nft-uitleg.webp"
 ---
 
 **Geld verdienen met NFT’s?** Een jaar geleden leek het even of er een bom ontplofte rondom de NFT hype, maar dat is nu in 2023 wel anders. Toch zal je de term NFT inmiddels al vaak voorbij hebben zien komen. Wellicht heb je meegekregen dat onderstaande plaatje ‘_Everydays: The first 5000 days_’ voor meer dan 69 miljoen dollar werd verkocht.

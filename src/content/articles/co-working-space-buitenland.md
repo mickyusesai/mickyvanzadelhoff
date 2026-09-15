@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "co-working-space-buitenland"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/co-working-space-buitenland-scaled.webp"
+featuredImage: "/images/headers/co-working-space-buitenland.webp"
 ---
 
 Voor digital nomads is het hebben van een fijne werkplaats van groot belang. Wat voor werk je ook op afstand doet, de kans is groot dat er ook genoeg momenten zijn dat je echt even gefocust achter je laptop aan de slag moet. Een goede co working plek kan hier het verschil in maken. Maar hoe kies je de beste plek hiervoor uit? We geven onze tips!

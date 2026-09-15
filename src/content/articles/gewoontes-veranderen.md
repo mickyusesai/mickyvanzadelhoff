@@ -7,7 +7,7 @@ category: "tips"
 slug: "gewoontes-veranderen"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/marokko-rabat-digital-nomad-e1524325131244.webp"
+featuredImage: "/images/headers/gewoontes-veranderen.webp"
 ---
 
 Aan de slag gaan met gewoontes waar je eigenlijk vanaf wil of jezelf nieuwe gewoontes aanleren.

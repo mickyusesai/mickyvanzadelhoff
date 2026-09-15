@@ -7,7 +7,7 @@ category: "review"
 slug: "madelon-vos-review-bitcoin-crypto-traden"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/madelon-vos-review.webp"
+featuredImage: "/images/headers/madelon-vos-review-bitcoin-crypto-traden.webp"
 ---
 
 In deze **review over de** **Bitcoin en Technische Analyse Academy** gaan we het hebben over **Madelon Vos** haar cursus en community.

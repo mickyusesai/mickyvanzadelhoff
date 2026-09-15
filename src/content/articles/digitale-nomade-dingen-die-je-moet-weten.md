@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "digitale-nomade-dingen-die-je-moet-weten"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/lop-buri-thailand-zonnebloem-berg.webp"
+featuredImage: "/images/headers/digitale-nomade-dingen-die-je-moet-weten.webp"
 ---
 
 _NOTE: Onderstaande blog is als gastblog geplaatst bij Money You._

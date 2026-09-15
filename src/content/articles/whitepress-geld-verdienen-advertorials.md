@@ -7,7 +7,7 @@ category: "online-geld-verdienen"
 slug: "whitepress-geld-verdienen-advertorials"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/advertorials-whitepress-geld-verdienen.webp"
+featuredImage: "/images/headers/whitepress-geld-verdienen-advertorials.webp"
 ---
 
 Stel je hebt een blog en bent op zoek naar manieren om daar geld mee te verdienen… Je komt dan al snel uit op advertenties, Google Adsense, nog meer advertenties en vormen van [affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/). Maar wist je dat er ook zoiets bestaat als **[Whitepress](/go/whitepress)**? Een platform dat jou als blogger zichtbaar maakt bij bedrijven die graag een **advertorial, branded of sponsored content** willen plaatsen. **Geld krijgen voor het plaatsen van een artikel op jouw blog** dus. In dit artikel lees je er alles over.

@@ -7,7 +7,7 @@ category: "review"
 slug: "siteground-hosting-review-nederland"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/siteground-cover-image-1.webp"
+featuredImage: "/images/headers/siteground-hosting-review-nederland.webp"
 ---
 
 **SiteGround hosting review. Is dit de beste hosting? Alle voordelen en nadelen van Siteground in 2023 vind je hier.**

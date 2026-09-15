@@ -7,7 +7,7 @@ category: "tips"
 slug: "wereldreis-maken-zonder-geld"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/reizen-zonder-budget-e1510889548230.webp"
+featuredImage: "/images/headers/wereldreis-maken-zonder-geld.webp"
 ---
 
 ## Wereldreis maken zonder geld

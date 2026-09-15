@@ -7,7 +7,7 @@ category: "web3"
 slug: "ethereum-eth-kopen-ideal-bancontact"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/ethereum-kopen-ideal-bancontact-1.webp"
+featuredImage: "/images/headers/ethereum-eth-kopen-ideal-bancontact.webp"
 ---
 
 In 2024, blijft de dynamische wereld van cryptocurrency zich ontwikkelen met nieuwe en innovatieve platforms die de aandacht trekken. Ethereum, bekend onder de afkorting ETH, is een van deze prominente platforms. Het onderscheidt zich door zijn revolutionaire slimme contracten en gedecentraliseerde applicaties (dApps).

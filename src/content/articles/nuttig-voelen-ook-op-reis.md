@@ -7,7 +7,7 @@ category: "tips"
 slug: "nuttig-voelen-ook-op-reis"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/mick-van-zadelhoff-in-macedonie-1-e1524324071633.webp"
+featuredImage: "/images/headers/nuttig-voelen-ook-op-reis.webp"
 ---
 
 Ik wil het hebben over het zinvol maken van een [leven als digital nomad](/blog/digitalenomaden/digital-nomad-worden/). Bij lang reizen kan het allemaal weleens zinloos gaan voelen. Hier een blog over hoe je daar dan toch **zin aan geeft**.

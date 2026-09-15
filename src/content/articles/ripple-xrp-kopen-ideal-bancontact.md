@@ -7,7 +7,7 @@ category: "web3"
 slug: "ripple-xrp-kopen-ideal-bancontact"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/ripple-xrp-kopen-ideal-bancontact.webp"
+featuredImage: "/images/headers/ripple-xrp-kopen-ideal-bancontact.webp"
 ---
 
 In de snel evoluerende wereld van cryptocurrency blijft 2024 een spannend jaar. Met steeds meer mensen die de crypto-markt betreden, is het belangrijk om goed geïnformeerd te zijn over de verschillende opties. Een interessante speler in deze markt is Ripple, bekend onder de ticker XRP, die zich onderscheidt door zijn unieke kenmerken en toepassingen. Benieuwd hoe je Ripple kunt kopen met iDEAL of Bancontact?

@@ -7,7 +7,7 @@ category: "web3"
 slug: "nft-guide"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/nft-gids-nederland-1.webp"
+featuredImage: "/images/headers/nft-guide.webp"
 ---
 
 **Leer in deze NFT guide wat NFTs zijn en hoe je ze maakt, koopt en verkoopt.**

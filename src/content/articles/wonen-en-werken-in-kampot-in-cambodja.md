@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "wonen-en-werken-in-kampot-in-cambodja"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/100144090_s-e1543467780556.webp"
+featuredImage: "/images/headers/wonen-en-werken-in-kampot-in-cambodja.webp"
 ---
 
 Het was best wel even zoeken online, voor ik als zelf als [digital nomad](/blog/digitalenomaden/digital-nomad-worden/) de plek had gevonden waar ik wilde verblijven in Cambodja. Ik was er nooit geweest en moest het dus hebben van de informatie op het internet. Wel kwam ik er al snel achter dat je in Cambodja op meer moet letten dan of een plek wel Wifi heeft. Vandaar dit artikel over mijn verblijf in Kampot in Cambodja en hoe ik daar als digital nomad terecht kwam.

@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "burn-out-als-digitale-nomade"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/porto-bridge-train-view-portugal-e1524324773263.webp"
+featuredImage: "/images/headers/burn-out-als-digitale-nomade.webp"
 ---
 
 De hele wereld rondreizen en dan eindigen met een burn-out? Dat kan niet zou je zeggen. Toch is niets minder waar. Ik durf zelf te beweren dat je als digital nomad een verhoogde kans hebt op een burn-out. Hoe gek dat ook klinkt…

@@ -7,7 +7,7 @@ category: "web3"
 slug: "cartesi-ctsi-kopen-ideal-bancontact"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/cortesi-ctsi-kopen-ideal-bancontact-1.webp"
+featuredImage: "/images/headers/cartesi-ctsi-kopen-ideal-bancontact.webp"
 ---
 
 In 2024 blijft de wereld van cryptocurrency zich razendsnel ontwikkelen. Een van de opvallende spelers in deze dynamische markt is Cartesi (CTSI). Cartesi onderscheidt zich door een unieke aanpak waarbij traditionele programmeeromgevingen worden gecombineerd met blockchain-technologie, waardoor het voor ontwikkelaars gemakkelijker wordt om gedecentraliseerde applicaties (dApps) te bouwen. Het kopen van CTSI, de native token van Cartesi, is nu eenvoudiger dan ooit, vooral met betaalmethoden zoals iDEAL en Bancontact.

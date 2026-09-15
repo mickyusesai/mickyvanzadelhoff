@@ -7,7 +7,7 @@ category: "web3"
 slug: "meme-coins-kopen-crypto"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/beste-meme-coins-kopen-crypto-1.webp"
+featuredImage: "/images/headers/meme-coins-kopen-crypto.webp"
 ---
 
 **Meme-coin-mania is hier!** Het is geweldig om te zien, maar ik weet dat veel mensen veel geld verliezen aan rug pulls. De afgelopen zes maanden heb ik mezelf helemaal ondergedompeld in het meme-coin-ecosysteem. Ik volg de juiste influencers op X, zit in de juiste Telegram-groepen en ik heb vele coins gekocht.

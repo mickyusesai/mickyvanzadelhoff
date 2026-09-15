@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "usp-voorbeelden-unique-selling-point"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/usp-voorbeelden-unique-selling-point.webp"
+featuredImage: "/images/headers/usp-voorbeelden-unique-selling-point.webp"
 ---
 
 Het is een van de eerste dingen waar ik met mijn klanten naar kijk bij een website optimalisatie, de **Unique Selling Points**. En dat is niet voor niets. Een goede **USP** overtuigd namelijk en laat zien wat het verschil is tussen jouw bedrijf en dat van de concurrent.

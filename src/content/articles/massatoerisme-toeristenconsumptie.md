@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "massatoerisme-toeristenconsumptie"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/cappedocie-luchtballon-massatoerisme.webp"
+featuredImage: "/images/headers/massatoerisme-toeristenconsumptie.webp"
 ---
 
 Het wordt toch tijd om een keertje over **massatoerisme** te schrijven. Moeilijk is dat wel. Ik besef me namelijk dat ik zelf net zo goed een onderdeel van het probleem ben als de eventuele oplossing. Tegelijk zijn thema’s als **massatoerisme en toeristenconsumptie** in een [leven als digital nomad](/blog/digitalenomaden/digital-nomad-worden/) onvermijdelijk. Zelf reis en werk ik simultaan en dan kom je ook wel eens op plaatsen terecht waarvan je denkt, is dat nou echt nodig?

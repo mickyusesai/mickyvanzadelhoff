@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "digital-nomad-belasting"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/digital-nomad-belasting.webp"
+featuredImage: "/images/headers/digital-nomad-belasting.webp"
 ---
 
 Ik krijg vaak de vraag hoe ik belasting betaal als digital nomad. Want wanneer je als digital nomad altijd op reis bent en vanuit verre landen je geld verdient, zal dit allemaal wel moeilijk worden… Althans dat wordt vaak gedacht. In dit artikel ga ik in op hoe ik de digital nomad belasting betaal. Ik vertel je daarover naar aanleiding van een gesprek met een bevriende boekhouder.

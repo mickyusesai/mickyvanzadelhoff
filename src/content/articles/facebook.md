@@ -7,7 +7,7 @@ category: "online-geld-verdienen"
 slug: "facebook"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/geld-verdienen-met-facebook-groep-pagina-ads-1.webp"
+featuredImage: "/images/headers/facebook.webp"
 ---
 
 **Wil jij geld verdienen met jouw Facebook ads, pagina of groep?** Dan zit je hier goed. Sommige mensen denken dat Facebook anno 2023 al volledig is afgeschreven maar dat is niet helemaal waar…

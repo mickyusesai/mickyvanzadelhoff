@@ -7,7 +7,7 @@ category: "online-geld-verdienen"
 slug: "youtube"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/geld-verdienen-met-youtube.webp"
+featuredImage: "/images/headers/youtube.webp"
 ---
 
 Wil jij **geld verdienen met Youtube**? Dan zijn daar meer dan genoeg mogelijkheden voor! Zo kun je jouw bekendheid als **nano-, micro- of macro influencer** omzetten in solide online inkomsten. En het mooie is, daar hoef je nog geen miljoenen abonnees voor te hebben.

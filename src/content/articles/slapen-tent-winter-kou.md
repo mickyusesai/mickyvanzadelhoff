@@ -7,7 +7,7 @@ category: "tips"
 slug: "slapen-tent-winter-kou"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/slapen-tent-winter-kou-kamperen.webp"
+featuredImage: "/images/headers/slapen-tent-winter-kou.webp"
 ---
 
 Met koud weer in een tent slapen is niet voor iedereen weggelegd. Het brengt hoe dan ook een bepaald level van discomfort met zich mee. Zeker wanneer de temperaturen dalen tot onder de 0 graden. Dit ondervonden wij zelf tijdens [onze fietstocht van Nederland naar India](https://journeyofconnection.com) welke wij in de winter begonnen. Vrij hoopvol begonnen we toen in een tent te slapen maar toen het -6 graden Celsius werd, was dit voor ons even schrikken. In dit artikel neem ik je mee in de oplossingen die wij hebben gevonden voor het slapen in een tent in de winter om jezelf warm te houden.

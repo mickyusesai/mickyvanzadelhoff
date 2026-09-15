@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "eigen-bedrijf-starten"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/eigen-bedrijf-starten.webp"
+featuredImage: "/images/headers/eigen-bedrijf-starten.webp"
 ---
 
 Een eigen bedrijf starten? Dat is niet zomaar iets en daar komt best wel wat bij kijken. Oké een inschrijving bij de kamer van koophandel is één ding, dat is zo gedaan. Maar eigenlijk is het echte starten van een bedrijf alles wat daarvoor en daarna komt. Zorgen dat je klanten krijgt, dat er geld wordt verdient. Het is geen geheim dat 40% van de bedrijven die zich inschrijft bij de kamer van koophandel, na drie jaar niet meer bestaat. In dit artikel help ik je met het voorkomen van dat scenario en vertel ik je over alles wat er bij het starten van een eigen bedrijf komt kijken. Tevens neem ik je aan de hand van één voorbeeld mee door het proces, een van mijn eigen bedrijfjes.

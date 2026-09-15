@@ -7,7 +7,7 @@ category: "online-geld-verdienen"
 slug: "influencer-worden"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/influencer-worden.webp"
+featuredImage: "/images/headers/influencer-worden.webp"
 ---
 
 Influencer worden? Geld verdienen met je Instagram pagina of Youtube kanaal. Het is de droom van veel mensen. Veel volgers hebben en een positieve impact achterlaten. Je bent dan een influencer!

@@ -7,7 +7,7 @@ category: "tips"
 slug: "lange-afstandsrelatie-buitenland"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/lange-afstand-relatie-wereld.webp"
+featuredImage: "/images/headers/lange-afstandsrelatie-buitenland.webp"
 ---
 
 De wereld over [reizen en werken](/blog/digitalenomaden/reizen-en-werken-combineren/) als digital nomad, voor veel mensen zou een relatie daar niet tussen passen. Maar, zoals je weet, sommige dingen kunnen gebeuren, die dingen heb je namelijk niet volledig zelf in de hand. Dingen als een ware liefde, die plots op je pad komt bijvoorbeeld. Sinds juli 2017 heb ik namelijk een vriendin en het is niet ongewoon als er soms een afstand van 11.000 kilometer tussen ons zit. Zij is namelijk Slowaaks, en studeert in Tsjechië. Ik ben Nederlands en reis als [digital nomad](/blog/digitalenomaden/digital-nomad-worden/) de wereld over. Een lange afstandsrelatie in het buitenland dus. Gelukkig houden we allebei van een uitdaging, maar hoe zoiets nou werkt, lees je hieronder. :)

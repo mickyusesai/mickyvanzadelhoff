@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "verkooptekst-schrijven-voorbeeld"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/zee-horizon-mick-e1530349786745.webp"
+featuredImage: "/images/headers/verkooptekst-schrijven-voorbeeld.webp"
 ---
 
 Hoe schrijf je nou een goede verkooptekst? Om je dat gemakkelijk te maken vind je in dit artikel voorbeelden van succesvolle verkoopteksten die ik heb geschreven met daarbij uitgelegd waarom deze meer verkoop opleveren. Zelf gebruik ik deze techniek om bijvoorbeeld klanten te krijgen voor mijn trainingen of gewoonweg om mijn marketing klanten te helpen. Allereerst zal ik met je delen wat de basis is van een goede verkooptekst en waar je op kunt letten bij het schrijven.

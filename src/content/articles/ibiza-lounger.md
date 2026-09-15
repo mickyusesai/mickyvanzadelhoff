@@ -7,7 +7,7 @@ category: "tips"
 slug: "ibiza-lounger"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/ibiza-lounger-bob-strand-relaxen.webp"
+featuredImage: "/images/headers/ibiza-lounger.webp"
 ---
 
 Dit is een blog over mijn Ibiza Lounger Project. Ik importeerde tweehonderd van deze air loungers uit China met het doel ze te verkopen op Ibiza. Maar dat ging volledig fout! Welkom bij een verhaal over falen (en opstaan).

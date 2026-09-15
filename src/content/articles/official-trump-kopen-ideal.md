@@ -7,7 +7,7 @@ category: "web3"
 slug: "official-trump-kopen-ideal"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/official-trump-coin-crypto-1.webp"
+featuredImage: "/images/headers/official-trump-kopen-ideal.webp"
 ---
 
 De wereld van cryptocurrency blijft verrassen, en de lancering van de **Official Trump Coin (TRUMP)** is daar het nieuwste bewijs van. Deze meme coin, gelanceerd door Donald Trump zelf, heeft in korte tijd veel aandacht getrokken en een marktkapitalisatie van miljarden dollars bereikt. Maar hoe kun je **TRUMP** kopen met iDEAL of Bancontact in 2025? In dit artikel leggen we het je stap voor stap uit.

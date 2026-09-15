@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "online-marketing-slotenmaker"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/marokko-fez-digital-nomad-e1524325208345.webp"
+featuredImage: "/images/headers/online-marketing-slotenmaker.webp"
 ---
 
 ### Slotenmakers hebben het niet erg makkelijk. In de markt zijn namelijk veel oplichters actief, dit maakt het voor de goedwillenden in de branche lastig. De kosten voor een klik op Adwords (_Google Advertenties_) stijgen tot boven de 25 euro en hier kun je als slotenmaker nooit winst op behalen. De vraag is dus hoe je als slotenmaker je [online marketing](/blog/online-geld-verdienen/online-marketing/) zo kunt regelen dat het voor jou werkt en je website wel klanten en dus geld oplevert.

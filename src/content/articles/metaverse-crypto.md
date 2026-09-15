@@ -7,7 +7,7 @@ category: "web3"
 slug: "metaverse-crypto"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/metaverse-crypto-kopen.webp"
+featuredImage: "/images/headers/metaverse-crypto.webp"
 ---
 
 Een virtuele wereld waarin alles mogelijk is. Welkom in de Metaverse! Of, althans, dé Metaverse is op dit moment wat moeilijk te zeggen. Er zijn namelijk tal van Metaverse projecten opgekomen in de laatste jaren. Dus is de grote vraag, welke Metaverse crypto er in 2024 nog toe doen.

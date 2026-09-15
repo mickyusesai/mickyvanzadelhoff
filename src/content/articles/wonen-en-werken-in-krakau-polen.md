@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "wonen-en-werken-in-krakau-polen"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/wonen-en-werken-in-krakau-e1541505318206.webp"
+featuredImage: "/images/headers/wonen-en-werken-in-krakau-polen.webp"
 ---
 
 Wonen en werken in Krakau als [digital nomad](/blog/digitalenomaden/digital-nomad-worden/), een interessante keuze! Dus jij wilt misschien een tijdje verblijven in deze Poolse stad? Nou, de stad heeft charme, maar je moet ervan houden. Krakau is, net als heel Polen, heel religieus. De stad is dan ook gevuld met kerken, kathedralen en kloosters. Daarnaast zijn de straten gevuld met toeristen, je kunt er letterlijk amper lopen. De stad is te klein voor het aantal toeristen dat hier rondloopt. Dat is jammer aan de stad, maar er zijn nog altijd een paar plekken die echt de moeite waard zijn om te bezoeken. Ik zal ze in dit artikel noemen, zodat je ook lekker de kans hebt om te hangen met locals wanneer je je als digital nomad in Krakau begeeft. ;)

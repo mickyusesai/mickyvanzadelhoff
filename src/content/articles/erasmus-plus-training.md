@@ -7,7 +7,7 @@ category: "tips"
 slug: "erasmus-plus-training"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/erasmus-plus-training.webp"
+featuredImage: "/images/headers/erasmus-plus-training.webp"
 ---
 
 **Gratis op reis en nuttige dingen leren? Welkom bij de wereld van Erasmus Plus trainingen.**

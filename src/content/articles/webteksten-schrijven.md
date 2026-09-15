@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "webteksten-schrijven"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/webteksten-schrijven.webp"
+featuredImage: "/images/headers/webteksten-schrijven.webp"
 ---
 
 Bezig met het schrijven van webteksten? Dat is niet zomaar iets. Het internet is als een volle zandbak (met meer dan 1,7 miljard websites) waarin je probeert op te vallen. Goede webteksten zijn daar het middel voor. Wetende dat maar liefs 55% van de mensen een website al binnen 15 seconden weer verlaat kun je eigenlijk niet om de essentie van webteksten heen. Een goede webtekst moet de aandacht namelijk al binnen een paar seconde hebben gepakt als je wilt dat de website bezoeker de tekst uitleest. Daarom vind je in dit artikel tips voor het schrijven van webteksten.

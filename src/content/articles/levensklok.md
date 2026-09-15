@@ -7,7 +7,7 @@ category: "tips"
 slug: "levensklok"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/lake-vassiviere-france-scaled.webp"
+featuredImage: "/images/headers/levensklok.webp"
 ---
 
 Hier lees je het hoofdstuk ‘Levensklok’ uit mijn boek ‘Neuk Het Systeem’. Goed om te weten wellicht, is dat ik dat boek nooit het uitgebracht. Daar waren diverse redenen voor, maar dit eerste hoofdstuk wilde ik toch graag nog eens met de wereld delen. So, here we go!

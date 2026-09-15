@@ -7,7 +7,7 @@ category: "web3"
 slug: "gratis-crypto-bitcoin-cursussen"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/crypto-pic-1.webp"
+featuredImage: "/images/headers/gratis-crypto-bitcoin-cursussen.webp"
 ---
 
 Crypto is trending, maar hoe zit het precies met al die blockchain en wallets? Als je **geld wilt verdienen met crypto en Bitcoin**, dan weet je hoe belangrijk het is om over de juiste kennis te beschikken.

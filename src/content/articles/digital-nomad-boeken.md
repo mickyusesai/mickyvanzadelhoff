@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "digital-nomad-boeken"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/digital-nomad-boeken.webp"
+featuredImage: "/images/headers/digital-nomad-boeken.webp"
 ---
 
 Inspiratie opdoen voor een leven als digital nomad kan op vele manieren. Je kunt lekker surfen online of je probeert het eens met een **boek over digital nomads**. Of nog liever, een boek van een digital nomad.

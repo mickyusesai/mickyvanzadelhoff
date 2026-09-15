@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "social-media-strategie"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/social-media-strategie.webp"
+featuredImage: "/images/headers/social-media-strategie.webp"
 ---
 
 Hoe maak je nou voor je bedrijf een social media strategie? Natuurlijk zou ik dit artikel kunnen beginnen met zoiets als social media, daar kun je de laatste tijd niet omheen. Maar dat ga ik niet doen. Er is namelijk iets veel fundamentelers aan de hand. Het lijkt erop dat social media geen trend is, maar een permanente verandering van hoe wij als mensen communiceren.

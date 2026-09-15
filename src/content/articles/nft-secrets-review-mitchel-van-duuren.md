@@ -7,7 +7,7 @@ category: "review"
 slug: "nft-secrets-review-mitchel-van-duuren"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/Untitled-2-1-1.webp"
+featuredImage: "/images/headers/nft-secrets-review-mitchel-van-duuren.webp"
 ---
 
 Geld verdienen met het ‘flippen’ van NFT’s? In deze **review over NFT Secrets van Mitchel van Duuren** vertel ik je alles over [zijn programma](/go/nft-secrets) en hoe deze cursus jou kan helpen om winstgevende NFT trades te maken.

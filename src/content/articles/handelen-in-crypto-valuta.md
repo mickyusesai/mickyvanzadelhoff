@@ -7,7 +7,7 @@ category: "web3"
 slug: "handelen-in-crypto-valuta"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/crypto-geld-verdienen-2024-1.webp"
+featuredImage: "/images/headers/handelen-in-crypto-valuta.webp"
 ---
 
 **Geld verdienen met crypto in 2025?** Je hebt er vast wel eens over gelezen online: jonge mensen die miljonair zijn geworden met het verhandelen van crypto zoals Bitcoin. Al bijna 600 miljoen mensen wereldwijd hebben crypto, en dat aantal groeit nog steeds. De cryptomarkt is in 2025 dan ook niet meer wat het ooit was.

@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "wonen-en-werken-in-boedapest-hongarije"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/wonen-en-werken-in-budapest-e1541504663670.webp"
+featuredImage: "/images/headers/wonen-en-werken-in-boedapest-hongarije.webp"
 ---
 
 Sziá, mede-avonturiers! We gaan het hebben over wonen en werken in Boedapest als digital nomad. Het is namelijk één van de populairdere steden onder de digital nomads. Deze goedkope en hippe plek kent echter twee gezichten. Voornamelijk heeft dit te maken met zomer en wintertijd. Ik ben zelf twee keer als digital nomad in Boedapest geweest. Eén keer in de zomer, de andere keer in de winter. De zomer brengt geluk met zich mee, kleine festivals vullen hier en daar de stad en de mensen staan vrijwel altijd open voor een gesprek, vooral wanneer je je best doet om een beetje van de taal te spreken ;).

@@ -7,7 +7,7 @@ category: "online-geld-verdienen"
 slug: "youtube-kanaal-beginnen"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/youtube-kanaal-beginnen.webp"
+featuredImage: "/images/headers/youtube-kanaal-beginnen.webp"
 ---
 
 Jouw eigen **Youtube kanaal maken**? Wil je beginnen in de wondere wereld van kattenfilmpjes en gratis e-learningvideos?

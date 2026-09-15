@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "sporten-op-reis"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/sport-op-reis-e1525453687610.webp"
+featuredImage: "/images/headers/sporten-op-reis.webp"
 ---
 
 Of je nu voor een week op vakantie gaat of een jaar lang op reis, wanneer je gewent bent te sporten is het natuurlijk wel lekker dit ook op reis te blijven doen. Zelf [reis ik inmiddels al een jaar als digitale nomade](/blog/digitalenomaden/digital-nomad-worden/) en vind het dan belangrijk fit en in vorm te blijven. Echter was dit aan het begin wel even zoeken, ik was telkens op een andere plek en had natuurlijk geen wereldwijd sportschool abonnement. Gelukkig kreeg ik wat tips van mijn vader, die zelf een sportschool heeft gehad en personal training geeft, en ging het sporten op reis me goed af. Ik sport ook op reis 3 keer per week, en afhankelijk van de plek doe ik dat op een andere manier voor de afwisseling, ik deel hier de mogelijkheden die ik zelf gebruik.

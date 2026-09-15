@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "werken-lapland-digital-nomad"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/digital-nomad-lapland-werken-scaled.webp"
+featuredImage: "/images/headers/werken-lapland-digital-nomad.webp"
 ---
 
 Tegenwoordig leven steeds meer mensen als een [digital nomad](/blog/digitalenomaden/digital-nomad-banen/). In plaats van vijf dagen per week van 9 tot 5 op kantoor te zitten, kiezen steeds meer mensen voor de vrijheid om locatie afhankelijk te werken en op die manier de hele wereld over te reizen. Overwinteren op een zonnige bestemming? Dat kan! Wil je juist de kou opzoeken en het magische Lapland ontdekken? Dan mag je onderstaande plekken zeker niet missen!

@@ -7,7 +7,7 @@ category: "review"
 slug: "activecampaign-review"
 lang: "nl"
 draft: false
-featuredImage: ""
+featuredImage: "/images/headers/activecampaign-review.webp"
 ---
 
 ## Wat is Activecampaign? Is het een vooruitstrevende marketingsoftware in 2023?

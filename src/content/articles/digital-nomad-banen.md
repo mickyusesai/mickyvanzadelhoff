@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "digital-nomad-banen"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/digital-nomad-banen-jobs-1.webp"
+featuredImage: "/images/headers/digital-nomad-banen.webp"
 ---
 
 **Op zoek naar jouw digital nomad job?** Veel reizen is natuurlijk niet gratis. Je zult dus geld moeten verdienen. Sommige mensen sparen dit van te voren, anderen kiezen ervoor om een online inkomen te hebben terwijl ze op pad zijn.

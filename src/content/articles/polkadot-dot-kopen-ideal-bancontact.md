@@ -7,7 +7,7 @@ category: "web3"
 slug: "polkadot-dot-kopen-ideal-bancontact"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/polkadot-crypto-kopen-ideal-bancontact-1.webp"
+featuredImage: "/images/headers/polkadot-dot-kopen-ideal-bancontact.webp"
 ---
 
 In 2024 is de wereld van cryptocurrency levendiger dan ooit. Van Bitcoin tot Ethereum, elke munt biedt unieke mogelijkheden. Onder deze digitale valuta’s springt Polkadot (DOT) eruit als een veelbelovende speler. Geïnteresseerd in het kopen van Polkadot met iDEAL of Bancontact? Lees verder om te ontdekken hoe.

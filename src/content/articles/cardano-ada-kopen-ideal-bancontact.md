@@ -7,7 +7,7 @@ category: "web3"
 slug: "cardano-ada-kopen-ideal-bancontact"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/Cardano-kopen-met-ideal-en-bancontact-2024.webp"
+featuredImage: "/images/headers/cardano-ada-kopen-ideal-bancontact.webp"
 ---
 
 Terwijl we door 2024 navigeren, blijft de fascinerende wereld van cryptocurrency zich ontwikkelen, waarbij nieuwe en innovatieve platforms de aandacht trekken. **Cardano, bekend onder de afkorting ADA**, is een van deze toonaangevende platformen, dat zich onderscheidt door zijn unieke focus op duurzaamheid en wetenschappelijke benadering.

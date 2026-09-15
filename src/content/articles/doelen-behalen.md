@@ -7,7 +7,7 @@ category: "tips"
 slug: "doelen-behalen"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/DSC00853-e1550329186367.webp"
+featuredImage: "/images/headers/doelen-behalen.webp"
 ---
 
 Als er iets de hedendaagse drang naar succes tekent is het dat we vooral snel succesvol willen worden. We zetten onze eerste stappen en zijn teleurgesteld als dit niet direct tot het gewenste resultaat leidt. Maar als iets [mijn fietstocht van Nederland naar India](https://journeyofconnection.com) tekent, dan is het dat het behalen van een doel, tijd kost en gepaard gaat met kleine, hele kleine stappen.

@@ -7,7 +7,7 @@ category: "online-geld-verdienen"
 slug: "online-vertalen"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/geld-verdienen-met-online-vertalen-1.webp"
+featuredImage: "/images/headers/online-vertalen.webp"
 ---
 
 **Wel eens nagedacht over het inzetten van je talenknobbel?** Dan kun je online gaan vertalen en daar geld mee verdienen vanachter je laptop.

@@ -7,7 +7,7 @@ category: "tips"
 slug: "alternatieve-depressie-behandeling"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/DSC00958.webp"
+featuredImage: "/images/headers/alternatieve-depressie-behandeling.webp"
 ---
 
 Ik heb er een tijdje over nagedacht of ik dit artikel over een alternatieve depressie behandeling wel moet schrijven. Ik ben geen psycholoog of neurowetenschapper, maar een wereldburger die op dit moment [van Nederland naar India fietst](https://journeyofconnection.com). Ik heb zelf [drie maanden een depressie gehad](/blog/tips/depressie/) en ben hier sterk uitgekomen en **dankbaar** voor de ervaring.

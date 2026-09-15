@@ -7,7 +7,7 @@ category: "tips"
 slug: "tiny-house-nederland"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/tiny-house-in-bollenveld-e1536314746801.webp"
+featuredImage: "/images/headers/tiny-house-nederland.webp"
 ---
 
 Vanwege mijn vaste column in [Klein Wonen Magazine](http://www.kleinwonenmagazine.nl/), het magazine in Nederland over tiny houses, voelde ik de behoefte hier een keer over te gaan schrijven. Mede omdat ik veel mensen om mij heen hoor die de term leren kennen en mensen die daadwerkelijk bezig zijn met het zetten van stappen om in zo’n tiny house te gaan wonen. Het lijkt er dan ook op dat het type mens dat in een tiny house wilt wonen, nog best eens overeen kan komen met het type mens dat wil [leven als digital nomad](/blog/digitalenomaden/digital-nomad-banen/).

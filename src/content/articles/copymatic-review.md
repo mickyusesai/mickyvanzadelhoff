@@ -7,7 +7,7 @@ category: "review"
 slug: "copymatic-review"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/copymatic-review-ai-copywriting-1.webp"
+featuredImage: "/images/headers/copymatic-review.webp"
 ---
 
 **Copywriting** doe je niet zomaar even. Het aantal keren dat ik dagenlang aan een artikel heb zitten werken, is niet meer op één hand te tellen. Begin 2023 vond ik in [**Copymatic**](/go/copymatic) een tool die dat werk flink versnelde. Inmiddels heeft iedereen ChatGPT of Claude op zijn telefoon staan, dus de vraag is anders geworden: **heb je in 2026 nog een aparte AI-schrijftool nodig?**

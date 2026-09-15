@@ -7,7 +7,7 @@ category: "review"
 slug: "affiliate-marketing-revolutie-jacko-meijaard"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/affiliate-marketing-revolutie-jacko-meijaard.webp"
+featuredImage: "/images/headers/affiliate-marketing-revolutie-jacko-meijaard.webp"
 ---
 
 **Is de Affiliate Marketing Revolutie van Jacko Meijaard iets voor jou?** Dat is een vraag die nu waarschijnlijk in je hoofd rondspookt. Of je er geld mee kunt verdienen en of dit voor jou toepasbaar is vind je in dit artikel. Maar behalve dat vind je hier vooral hoe het kan dat deze cursus ervoor heeft gezorgd dat ik maandelijks 3000,- euro aan passief inkomen heb. Wat dat inhoud en hoe ik dat heb gerealiseerd daar kom ik later op terug. Eerst wil ik graag een screenshot met je delen van de inkomsten vanuit één affiliate programma. Gewoon zodat je weet dat ik hier geen onzin zit te praten ;).

@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "digital-nomad-worden"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/digital-nomad-worden-guide-1.webp"
+featuredImage: "/images/headers/digital-nomad-worden.webp"
 ---
 
 **Een leven als digital nomad, wie wil dat nou niet?** Lekker **locatie onafhankelijk werken** met je laptop vanaf een plek die jij wilt. Zo verdien je al reizende je geld en heb je vaak ook de vrijheid om zelf te kiezen wanneer je werkt.

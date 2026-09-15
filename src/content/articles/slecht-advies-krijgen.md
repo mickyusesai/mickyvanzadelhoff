@@ -7,7 +7,7 @@ category: "tips"
 slug: "slecht-advies-krijgen"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/digitale-nomade-in-koh-panghan-thailand.webp"
+featuredImage: "/images/headers/slecht-advies-krijgen.webp"
 ---
 
 Noem is **10 dingen** op waar je zelf voor hebt gekozen maar **waar je oprecht spijt van hebt**…

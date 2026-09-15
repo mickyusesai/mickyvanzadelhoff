@@ -7,7 +7,7 @@ category: "review"
 slug: "finst-crypto-exchange"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/finst-review-crypto-exchange-1.webp"
+featuredImage: "/images/headers/finst-crypto-exchange.webp"
 ---
 
 **Is [Finst](/go/finst) de crypto exchange voor jou?**

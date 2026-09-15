@@ -7,7 +7,7 @@ category: "tips"
 slug: "de-meeste-mensen-deugen-rutger-bregman-recensie"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/de-meeste-mensen-deugen-rutger-bregman-review.webp"
+featuredImage: "/images/headers/de-meeste-mensen-deugen-rutger-bregman-recensie.webp"
 ---
 
 Een review/recensie over [het boek ‘De Meeste Mensen Deugen’](/go/rutger-bregman-de-meeste-mensen-deugen-boek).

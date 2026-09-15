@@ -7,7 +7,7 @@ category: "online-geld-verdienen"
 slug: "online-marketing"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/geld-verdienen-met-online-marketing-1.webp"
+featuredImage: "/images/headers/online-marketing.webp"
 ---
 
 **Geld verdienen met online marketing** of klaar om **jouw eigen marketing bureau te beginnen**? Dan zit je hier goed! In dit artikel duiken we in alles wat je nodig hebt om succesvol te worden als **online marketeer**.

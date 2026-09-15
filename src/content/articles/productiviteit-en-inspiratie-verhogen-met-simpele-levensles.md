@@ -7,7 +7,7 @@ category: "tips"
 slug: "productiviteit-en-inspiratie-verhogen-met-simpele-levensles"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/zee-palmboom-strand-uitzicht.webp"
+featuredImage: "/images/headers/productiviteit-en-inspiratie-verhogen-met-simpele-levensles.webp"
 ---
 
 Ik kom inmiddels uit een periode waarin ik enorm veel moest doen. Soms gaf dat mij stress en ik wist dan niet goed hoe ik daarmee om moest gaan. Ik betrapte mijzelf erop dat er momenten waren dat ik uren **inspiratieloos en doelloos** naar mijn scherm aan het staren was en dat ik constant **zocht naar afleiding**.

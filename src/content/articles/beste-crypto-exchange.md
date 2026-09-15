@@ -7,7 +7,7 @@ category: "web3"
 slug: "beste-crypto-exchange"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/crypto-exchange3-1.webp"
+featuredImage: "/images/headers/beste-crypto-exchange.webp"
 ---
 
 **Op zoek naar een goede exchange om crypto te traden?** Dan vind je hier de 6 beste crypto exchanges van Nederland.

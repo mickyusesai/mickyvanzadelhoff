@@ -7,7 +7,7 @@ category: "tips"
 slug: "eindejaarsupdate-2020"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/20201113_154812-1-scaled.webp"
+featuredImage: "/images/headers/eindejaarsupdate-2020.webp"
 ---
 
 Natuurlijk was 2020 een bijzonder jaar. Voor [De Moderne Nomaden](/) betekende het een flinke koerswijziging ten opzichte van de eerste plannen. Het eindresultaat is dat ik inmiddels naar **100% passief inkomen** ben gegaan en daar wil ik het in dit blog graag met je over hebben.

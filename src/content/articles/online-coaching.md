@@ -7,7 +7,7 @@ category: "online-geld-verdienen"
 slug: "online-coaching"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/online-coach-worden-1.webp"
+featuredImage: "/images/headers/online-coaching.webp"
 ---
 
 Is 2023 het jaar dat jij **jouw eigen online coaching business** gaat opzetten? Dan zit je hier goed! Wie online coach wil worden moet het een en ander weten, daarom bespreken we in dit artikel de verschillende stappen om te **beginnen als coach**.

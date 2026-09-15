@@ -7,7 +7,7 @@ category: "online-geld-verdienen"
 slug: "paypro"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/paypro.webp"
+featuredImage: "/images/headers/paypro.webp"
 ---
 
 **PayPro**, wat is het en wat kun je ermee?
