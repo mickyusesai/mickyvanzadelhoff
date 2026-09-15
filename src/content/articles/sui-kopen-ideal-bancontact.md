@@ -7,7 +7,7 @@ category: "web3"
 slug: "sui-kopen-ideal-bancontact"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/sui-kopen-ideal-bancontact-1.webp"
+featuredImage: "/images/headers/sui-kopen-ideal-bancontact.webp"
 ---
 
 De wereld van cryptocurrency blijft in 2024 boeiend en dynamisch, met tal van nieuwe mogelijkheden en munten die op de markt komen. Een van deze opkomende sterren is Sui, een cryptomunt die zich snel een weg baant in de crypto-arena. SUI, de ticker van Sui, begint steeds meer aandacht te trekken van investeerders die op zoek zijn naar innovatieve blockchain-projecten. Het kopen van Sui met iDEAL en Bancontact is een proces dat gemakkelijk en toegankelijk is geworden, vooral voor investeerders in Nederland en België.

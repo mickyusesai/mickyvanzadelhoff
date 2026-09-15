@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "ai-tools-lijst"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/ai-tools-voor-productiviteit.webp"
+featuredImage: "/images/headers/ai-tools-lijst.webp"
 ---
 
 Of je nu freelancer, ondernemer, hobbyist of student bent: er zijn altijd een paar **AI tools** die op jou liggen te wachten. Toen ik deze lijst begin 2023 begon, was ChatGPT net uit en was elke tool een verrassing. In 2026 is de vraag niet meer óf je AI gebruikt, maar **welke tools echt tijd besparen** en welke je kunt overslaan.

@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "blog-niches"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/blog-niches-ideeen.webp"
+featuredImage: "/images/headers/blog-niches.webp"
 ---
 
 In dit blog bespreken we **101+ winstgevende blog niches (blogcategorieën)**. Dat is een flinke lijst! Handig als je [jouw eigen blog wilt starten](/blog/ondernemen/blog-beginnen-starten-stappenplan/) en op zoek bent naar ideeën en inspiratie. Maar voor het zover is, eerst even wat basistips die je zeker handig zult vinden :).

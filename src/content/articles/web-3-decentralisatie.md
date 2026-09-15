@@ -7,7 +7,7 @@ category: "web3"
 slug: "web-3-decentralisatie"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/Web3-decentralisatie-1.webp"
+featuredImage: "/images/headers/web-3-decentralisatie.webp"
 ---
 
 Wat is **web 3**? Stel je een **decentraal internet** voor waar het niet de grote tech bedrijven zijn zoals Google en Meta die het internet beheren, maar jij en ik. Geen centrale partijen meer die rijk worden door het verkopen van jouw privé data, maar zelf kunnen kiezen wat hiermee gebeurt. Web 3 komt met oplossingen in de vorm van **AI**, **Crypto**, **NFTs** en de **Metaverse**.

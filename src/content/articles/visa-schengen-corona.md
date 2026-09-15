@@ -7,7 +7,7 @@ category: "tips"
 slug: "visa-schengen-corona"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/mariia-zavtur-visum-schengen-corona.webp"
+featuredImage: "/images/headers/visa-schengen-corona.webp"
 ---
 
 Mijn grote doel is om **deze kerst in Nederland samen te vieren met mijn vriendin Mariia**. Met haar Russische paspoort is dat normaal al best wat gedoe, maar in coronatijd is dat echt een uitdaging.

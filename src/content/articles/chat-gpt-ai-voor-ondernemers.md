@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "chat-gpt-ai-voor-ondernemers"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/chat-gpt-open-ai-ondernemer-functies-1.webp"
+featuredImage: "/images/headers/chat-gpt-ai-voor-ondernemers.webp"
 ---
 
 Soms is er plots iets waar je als ondernemer niet meer omheen kunt. Soms waaien die dingen over, en soms is het iets fundamenteels zoals **ChatGPT**. Toen ik dit artikel begin 2023 schreef, was het een leuke chatbot waar je een blogidee uit kon halen. Inmiddels is het voor veel bedrijven een collega die nooit slaapt.

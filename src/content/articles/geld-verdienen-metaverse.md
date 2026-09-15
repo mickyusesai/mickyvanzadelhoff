@@ -7,7 +7,7 @@ category: "web3"
 slug: "geld-verdienen-metaverse"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/geld-verdienen-in-de-metaverse-1.webp"
+featuredImage: "/images/headers/geld-verdienen-metaverse.webp"
 ---
 
 **Geld verdienen met de Metaverse**, of in de Metaverse, maar net wat jij wilt. Met de opkomst van de Metaverse zijn er tal van mogelijkheden die kunnen worden aangepakt. Denk aan **Play2Earn, Learn2Earn, Build2Earn** of het **organiseren van events in de Metaverse**.

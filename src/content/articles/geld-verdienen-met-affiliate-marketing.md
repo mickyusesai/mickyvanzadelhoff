@@ -7,7 +7,7 @@ category: "online-geld-verdienen"
 slug: "geld-verdienen-met-affiliate-marketing"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/geld-verdienen-affiliate-marketing-1.webp"
+featuredImage: "/images/headers/geld-verdienen-met-affiliate-marketing.webp"
 ---
 
 **Geld verdienen met affiliate marketing**; dat is een zeer bijzondere wereld. Als je er online over leest lijkt het soms bijna alsof je slapend rijk kunt worden. En hoewel dat te mooi klinkt om waar te zijn, zit er zeker een punt in.

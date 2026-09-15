@@ -7,7 +7,7 @@ category: "tips"
 slug: "2021-eindejaarsupdate"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/20210808_222951.webp"
+featuredImage: "/images/headers/2021-eindejaarsupdate.webp"
 ---
 
 **Een eindejaarsupdate van 2021**. Bij het bedenken wat ik hier allemaal in zal gaan delen, besef ik mij direct hoe belangrijk het is om dit op te schrijven.

@@ -7,7 +7,7 @@ category: "web3"
 slug: "ai-crypto-kunstmatige-intelligentie"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/ai-crypto-kunstmatige-intelligentie-blockchain-1.webp"
+featuredImage: "/images/headers/ai-crypto-kunstmatige-intelligentie.webp"
 ---
 
 We leven in een snel veranderende wereld en dat geldt al helemaal voor **kunstmatige intelligentie**. Combineer AI met **blockchaintechnologie** en je krijgt **AI crypto**: projecten die rekenkracht, data en AI-modellen decentraal aanbieden, met een eigen token als brandstof.

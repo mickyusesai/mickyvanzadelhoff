@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "verkopen-op-bol-com"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/verkopen-op-bol-com-1.webp"
+featuredImage: "/images/headers/verkopen-op-bol-com.webp"
 ---
 
 **Verkopen op Bol.com** is iets wat iedereen zou kunnen doen met een ondernemende instelling. Veel mensen weten alleen nog niet hoe dat in praktijk exact werkt. Je zult immers eerst **jouw eigen product** moeten hebben om op Bol.com te verkopen.

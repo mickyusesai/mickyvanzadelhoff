@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "reizen-en-werken-combineren"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/reizen-en-werken.webp"
+featuredImage: "/images/headers/reizen-en-werken-combineren.webp"
 ---
 
 In dit artikel ga ik in op alle manieren om reizen en werken te combineren. [Zelf leef ik als digital nomad](/over/) en werk op die manier vanaf welke plek dan ook op de wereld. Ik doe dat dan via werk vanachter mijn laptop.

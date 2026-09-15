@@ -7,7 +7,7 @@ category: "tips"
 slug: "inspirerend-speech-geluk-en-inspireren"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/presentatie-fontys-digitale-nomade.webp"
+featuredImage: "/images/headers/inspirerend-speech-geluk-en-inspireren.webp"
 ---
 
 Ik werd uitgenodigd door mijn oude opleiding, Communicatie op Fontys Hogescholen. Ze vroegen mij om te komen vertellen over mijn [leven als digital nomad](/blog/digitalenomaden/digital-nomad-worden/) en daarmee huidige studenten te inspireren.

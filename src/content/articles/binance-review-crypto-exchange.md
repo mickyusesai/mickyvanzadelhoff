@@ -7,7 +7,7 @@ category: "review"
 slug: "binance-review-crypto-exchange"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/binance-article-cover-2-1.webp"
+featuredImage: "/images/headers/binance-review-crypto-exchange.webp"
 ---
 
 Weten of de **Binance crypto exchange** wat voor jou is? In deze review duiken we de diepte in en bespreek ik mijn eigen ervaringen met Binance.

@@ -7,7 +7,7 @@ category: "tips"
 slug: "niet-betalende-klanten"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/niet-betalende-klanten.webp"
+featuredImage: "/images/headers/niet-betalende-klanten.webp"
 ---
 
 Niet betalende klanten, als webdesigner kreeg ik er laatst voor het eerst mee te maken. In dit artikel ga ik in op een case van een niet betalende klant van mij. Ik ben een sociaal ondernemer en doe veel zaken op basis van vertrouwen, contracten vind ik maar niets. Het was laatst pas voor het eerst dat ik daar de nadelen van ondervond. Met het delen van mijn ervaring kan ik even mijn ei kwijt over deze 1300,- misgelopen euro’s ;).

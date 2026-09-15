@@ -7,7 +7,7 @@ category: "online-geld-verdienen"
 slug: "huiswerk-begeleiding"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/huiswerkbegeleider-worden-1.webp"
+featuredImage: "/images/headers/huiswerk-begeleiding.webp"
 ---
 
 Wil jij **online huiswerkbeleider worden** en daarmee online geld verdienen? Wanneer je jouw school hebt afgerond, ben jij waarschijnlijk in staat om daar nu anderen mee te helpen door huiswerkbegeleiding te geven. Ook als je nu nog studeert aan het HBO/WO kun je al huiswerkbegeleiding geven aan middelbaar scholieren.

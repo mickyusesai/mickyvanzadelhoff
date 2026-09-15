@@ -7,7 +7,7 @@ category: "tips"
 slug: "mensen-ontmoeten-op-reis"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/youth-exchange-mensen-ontmoeten-op-reis-e1532858440641.webp"
+featuredImage: "/images/headers/mensen-ontmoeten-op-reis.webp"
 ---
 
 Allereerst, dit artikel is niet heilig. Mensen ontmoeten op reis is namelijk **voor iedereen anders** en ik kan je daar geen letterlijk handboek voor geven. Wel kan ik je helpen met het delen van mijn ervaring. In mijn eerste jaar dat ik op reis ben geweest als [digital nomad](/blog/digitalenomaden/digital-nomad-worden/) was mensen ontmoeten namelijk iets wat steeds weer terug kwam. Steeds wanneer ik op een nieuwe plek was, ontmoette ik nieuwe mensen of moest ik mijzelf daartoe zetten. Want zeg nou zelf, om al die reizen helemaal alleen te doen is wellicht wat saai… Daarom bij deze de **10 verschillende manieren** die leiden tot al mijn nieuwe vrienden wanneer ik [alleen op reis](/blog/tips/alleen-reizen-wereld-voordelen-en-nadelen/) ben.

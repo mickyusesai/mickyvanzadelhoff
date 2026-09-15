@@ -7,7 +7,7 @@ category: "online-geld-verdienen"
 slug: "geld-verdienen-met-website"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/geld-verdienen-met-website.webp"
+featuredImage: "/images/headers/geld-verdienen-met-website.webp"
 ---
 
 **Geld verdienen met jouw website**? Daar zijn tal van manieren voor. In dit artikel bespreek ik **alle manieren** die ik heb leren kennen sinds ik geld verdien met mijn eigen website.

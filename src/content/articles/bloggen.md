@@ -7,7 +7,7 @@ category: "online-geld-verdienen"
 slug: "bloggen"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/geld-verdienen-met-blog-1.webp"
+featuredImage: "/images/headers/bloggen.webp"
 ---
 
 Wat zou het voor jou betekenen **als je geld kunt verdienen met een eigen blog**? Dat je kunt werken **vanuit huis of tijdens een wereldreis**. Een ideaal verdienmodel om op te zetten naast je huidige job!

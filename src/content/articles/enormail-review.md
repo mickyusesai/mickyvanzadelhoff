@@ -7,7 +7,7 @@ category: "review"
 slug: "enormail-review"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/enormail-e-mail-marketing-review.webp"
+featuredImage: "/images/headers/enormail-review.webp"
 ---
 
 Ik maak al jaren gebruik van **Enormail** en ben er razend enthousiast over. Vandaar dat het tijd werd voor een **review over deze e-mail marketing software**. Enormail heeft mij namelijk geholpen om een grote following op te bouwen met mijn bedrijf [De Moderne Nomaden](/) en genereert op de automatische piloot inkomsten.

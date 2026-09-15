@@ -7,7 +7,7 @@ category: "web3"
 slug: "defi-crypto-munten"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/DALL%C2%B7E-2024-02-07-20.46.22-Design-an-isometric-high-tech-digital-style-image-that-encapsulates-the-concept-of-decentralized-finance-DeFi.-The-artwork-should-include-symbols-o-1.webp"
+featuredImage: "/images/headers/defi-crypto-munten.webp"
 ---
 
 De wereld van de crypto staat nooit stil, zeker niet als het om het zogenoemde Decentralized Finance gaat; vaak afgekort als DeFi. Met de vele verschillende DeFi-cryptoprojecten die tegenwoordig beschikbaar zijn, is het belangrijker dan ooit om zorgvuldig te onderzoeken wat het kaf en wat het koren is ;). De juiste investering kan leiden tot een 10x, maar een verkeerde keuze zal in een beruchte crypto bear market, niets van over blijven.

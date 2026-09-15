@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "affiliate-programma"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/affiliate-marketing-programma-netwerken-1.webp"
+featuredImage: "/images/headers/affiliate-programma.webp"
 ---
 
 Op zoek naar **affiliate programma’s** in Nederland om online geld te verdienen? Het vinden van een goed affiliate programma of netwerk kan een flinke klus zijn. Lukraak zoeken naar producten om te promoten op jouw website, [mailinglijst](/blog/ondernemen/leads-genereren-mailinglijst/) of social media kanaal is namelijk niet altijd even makkelijk. Er zijn er zoveel (ook in Nederland en België) dat je soms door de bomen het bos niet ziet.

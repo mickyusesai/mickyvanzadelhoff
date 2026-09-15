@@ -7,7 +7,7 @@ category: "tips"
 slug: "digital-nomad-thailand-covid-19"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/thailand-digital-nomad-vast-scaled.webp"
+featuredImage: "/images/headers/digital-nomad-thailand-covid-19.webp"
 ---
 
 Het was een pittige beslissing die ik op 20 maart moest maken. Ik zat op dat moment in St. Petersburg. Daar was ik toen al twee weken aan het rond dwarrelen met mijn vriendin Maria. We hadden het erg naar ons zin, maar er was iets aparts aan de hand. In die twee weken was er zo enorm veel gebeurt in de wereld. Toen ik naar St. Petersburg was vertrokken was er in Nederland nog niets aan de hand, maar op 20 maart was dat anders. Mijn vlucht terug naar Nederland was gecanceld en ik had een visum in mijn hand dat binnen 36 uur zou verlopen. Oeps.

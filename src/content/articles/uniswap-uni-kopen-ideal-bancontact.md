@@ -7,7 +7,7 @@ category: "web3"
 slug: "uniswap-uni-kopen-ideal-bancontact"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/uniswap-uni-kopen-ideal-bancontact-1.webp"
+featuredImage: "/images/headers/uniswap-uni-kopen-ideal-bancontact.webp"
 ---
 
 Het jaar 2024 markeert een nieuwe fase in de evolutie van cryptocurrency, met technologieën die steeds geavanceerder en toegankelijker worden. Onder deze digitale valuta’s springt Uniswap (UNI) eruit als een belangrijke speler op de crypto-markt. Voor velen in Nederland en België is het kopen van UNI met betalingsmethoden zoals iDEAL en Bancontact een aantrekkelijke optie. Maar wat maakt Uniswap zo uniek en hoe kun je deze cryptomunt eenvoudig aanschaffen?

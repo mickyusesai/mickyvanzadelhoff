@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "koude-acquisitie"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/koude-acquisitie.webp"
+featuredImage: "/images/headers/koude-acquisitie.webp"
 ---
 
 Koude acquisitie is niet datgene **waar menig ondernemer warm voor loopt**. Het koud bellen of mailen van klanten brengt vaak toch best wat druk met zich mee. En dat is best wel jammer, want koude acquisitie, zowel telefonisch als per mail, kan dé manier zijn om snel aan nieuwe klanten te komen. Het resultaat ten opzichte van andere marketingkanalen is veel directer.

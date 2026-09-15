@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "thuis-komen-als-digital-nomad"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/eigen-huis-in-novi-sad-e1532332878847.webp"
+featuredImage: "/images/headers/thuis-komen-als-digital-nomad.webp"
 ---
 
 Ik ben tot de ontdekking gekomen dat er iets is wat [de digital nomad lifestyle](/blog/digitalenomaden/digital-nomad-worden/) nog beter maakt…

@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "digital-nomad-waarom"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/live-like-a-nomad.webp"
+featuredImage: "/images/headers/digital-nomad-waarom.webp"
 ---
 
 Ongeveer anderhalf jaar geleden zei ik mijn baan op en ging ik op reis. Een reis van oorspronkelijk drie maanden, maar waar nooit een einde aan kwam. Een reis die mij niet alleen nieuwe culturen liet zien, maar die mij ook als persoon veranderde. En die mij omvormde tot een Digital Nomad.

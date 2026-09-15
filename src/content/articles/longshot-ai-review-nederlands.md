@@ -7,7 +7,7 @@ category: "review"
 slug: "longshot-ai-review-nederlands"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/longshot-ai-review-nederlands-1.webp"
+featuredImage: "/images/headers/longshot-ai-review-nederlands.webp"
 ---
 
 Een **AI tool** die hoogwaardige **Nederlandse content** kan schrijven. Begin 2023 was dat nog even zoeken, en met **LongShot** vond ik er één. Twee jaar lang was het mijn vaste schrijfassistent voor artikelen die in Google moesten scoren. En toen was het klaar: **LongShot AI is medio 2025 gestopt**.

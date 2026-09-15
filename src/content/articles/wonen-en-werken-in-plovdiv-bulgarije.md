@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "wonen-en-werken-in-plovdiv-bulgarije"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/wonen-en-werken-in-plovdiv-e1541601239426.webp"
+featuredImage: "/images/headers/wonen-en-werken-in-plovdiv-bulgarije.webp"
 ---
 
 Wil jij wonen en werken in Plovdiv? Dan volgt hier een lijst met tips voor de [digital nomad](/blog/digitalenomaden/digital-nomad-worden/). Bulgarije bouwt langzaam aan een mooier land. Het communisme is nog merkbaar op veel plekken, maar dit trekt momenteel bij. De stad Plovdiv, de oudste stad van Europa, is erg interessant om te verblijven als digital nomad. Bulgarije is geen rijk land en gebruikt nog steeds zijn eigen munt, de Lev. Het leven is hierdoor ook goedkoop in Plovdiv en kent veel mogelijkheden.

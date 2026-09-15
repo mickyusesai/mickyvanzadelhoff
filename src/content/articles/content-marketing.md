@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "content-marketing"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/content-marketing.webp"
+featuredImage: "/images/headers/content-marketing.webp"
 ---
 
 **Wat is content marketing?** Het lijkt zo’n simpele vraag maar een antwoord laat zich niet volledig eenzijdig geven. Dat eerste woord, content, is namelijk een verzamel begrip. Marketing ook trouwens. Zelf heb ik het met content marketing voor elkaar gekregen om op deze website maandelijks 50.000 bezoekers te trekken. Iedere maand opnieuw en daar hoef ik niets voor te betalen. Om nog maar niet te spreken over de omzet die al die mensen opleveren. In dit artikel bespreek ik wat content marketing is en hoe jij dit succesvol toepast.

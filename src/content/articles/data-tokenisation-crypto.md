@@ -7,7 +7,7 @@ category: "web3"
 slug: "data-tokenisation-crypto"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/data-tokenisation-crypto-1.webp"
+featuredImage: "/images/headers/data-tokenisation-crypto.webp"
 ---
 
 In het huidige digitale tijdperk is databeveiliging van het grootste belang. Terwijl organisaties enorme hoeveelheden gevoelige informatie verzamelen en opslaan, wordt het beschermen ervan een kritieke taak. Een methode die de afgelopen jaren aanzienlijke aandacht heeft gekregen, is data tokenisation.

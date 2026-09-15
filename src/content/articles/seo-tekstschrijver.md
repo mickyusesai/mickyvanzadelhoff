@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "seo-tekstschrijver"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/seo-tekstschrijver.webp"
+featuredImage: "/images/headers/seo-tekstschrijver.webp"
 ---
 
 Waarschijnlijk kom je op dit artikel terecht doordat je zocht op het zoekwoord ‘SEO tekstschrijver’. Dat komt niet doordat ik als tekstschrijver zo voortvarend SEO heb toegepast maar heeft andere redenen. Het beroep SEO tekstschrijver is in de laatste jaren irrelevant geworden en overbodig. Daarom ga ik in dit artikel in op hoe je wél bovenaan in Google komt met jouw webteksten.

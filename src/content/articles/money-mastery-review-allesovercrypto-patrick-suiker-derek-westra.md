@@ -7,7 +7,7 @@ category: "review"
 slug: "money-mastery-review-allesovercrypto-patrick-suiker-derek-westra"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/crypto-masterclass-allesovercrypto-review.webp"
+featuredImage: "/images/headers/money-mastery-review-allesovercrypto-patrick-suiker-derek-westra.webp"
 ---
 
 _\*2024: Deze Money Mastery review is geüpdatete voor de laatste versie van de cursus.\*_

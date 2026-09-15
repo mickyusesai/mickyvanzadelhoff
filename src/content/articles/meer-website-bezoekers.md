@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "meer-website-bezoekers"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/IMG_20180811_174035-e1536326848572.webp"
+featuredImage: "/images/headers/meer-website-bezoekers.webp"
 ---
 
 Meer website bezoekers krijgen, dat wilde mij tot vorig jaar maar niet lukken. Ik had [mijn website](/) opgezet over een [leven als digital nomad](/blog/digitalenomaden/digital-nomad-worden/). Op de website plaatste ik artikelen en bood ik mijn diensten aan als webdesigner en trainer. Er was alleen een ding wat me enorm tegenzat. De eerste maanden kreeg ik hooguit drie bezoekers per dag via organische kanalen als Google. Maar hier had ik natuurlijk niets aan, hier ging het massa is kassa principe niet voor op.

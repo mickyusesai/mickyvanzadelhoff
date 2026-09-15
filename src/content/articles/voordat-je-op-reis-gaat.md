@@ -7,7 +7,7 @@ category: "tips"
 slug: "voordat-je-op-reis-gaat"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/20170605_135550-1-e1510890085515.webp"
+featuredImage: "/images/headers/voordat-je-op-reis-gaat.webp"
 ---
 
 Jeetje wat een week was dit… Ik hoor je nu denken, maar je bent toch nog helemaal niet weg? **Klopt**.

@@ -7,7 +7,7 @@ category: "web3"
 slug: "bitcoin-halving"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/bitcoin-halving-2024-1.webp"
+featuredImage: "/images/headers/bitcoin-halving.webp"
 ---
 
 Bitcoin bezit diverse kenmerken in zijn code, geprogrammeerd met een totale maximale voorraad van 21 miljoen BTC. Twee belangrijke aspecten van Bitcoin zijn zijn vaste voorraad en afnemende block rewards, die ongeveer elke vier jaar plaatsvinden. Deze periodieke afname in het aantal uitgegeven bitcoins wordt ‘Bitcoin halving’ genoemd.

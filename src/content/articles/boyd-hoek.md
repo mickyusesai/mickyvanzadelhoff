@@ -7,7 +7,7 @@ category: "review"
 slug: "boyd-hoek"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/boyd-hoek-wie-is-het.webp"
+featuredImage: "/images/headers/boyd-hoek.webp"
 ---
 
 Boyd Hoek zijn naam komt steeds vaker voorbij. Ik zie continu zijn advertenties op met name Youtube en Instagram. Veelal in video praat hij dan rechtstreeks in de camera. Ik zag die filmpjes op een gegeven moment zo vaak dat ik nieuwsgierig werd naar wie hij is. Hij praat in zijn advertenties vaak over zijn eigen **Social Media Marketing Business** (SMMB) en daar wilde ik wel eens meer over weten. Wat bedoelt hij exact met ‘SMMB’ en wie is Boyd Hoek om mij daar iets over te vertellen?

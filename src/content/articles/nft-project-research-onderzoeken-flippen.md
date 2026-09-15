@@ -7,7 +7,7 @@ category: "web3"
 slug: "nft-project-research-onderzoeken-flippen"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/nft-flippen-onderzoek-1.webp"
+featuredImage: "/images/headers/nft-project-research-onderzoeken-flippen.webp"
 ---
 
 Voor wie geld wilt verdienen met NFTs is de meest toegankelijke manier vaak om **NFTs te flippen**. Je koopt een NFT in voor een lage prijs en verkoopt deze voor meer. Het verschil in prijs is jouw winst.

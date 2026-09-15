@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "e-mail-marketing"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/e-mail-marketing.webp"
+featuredImage: "/images/headers/e-mail-marketing.webp"
 ---
 
 **E-mail marketing**, je hebt er waarschijnlijk al vaak over gehoord en zet inmiddels stappen om ermee aan de slag te gaan.

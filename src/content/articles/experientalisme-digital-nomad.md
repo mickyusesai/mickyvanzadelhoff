@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "experientalisme-digital-nomad"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/IMG_20181011_171419-1-e1542717791549.webp"
+featuredImage: "/images/headers/experientalisme-digital-nomad.webp"
 ---
 
 Heel vaak schop ik zelf tegen dingen als materialisme. Het hechten van waarde aan spullen en het altijd ‘meer’ willen hebben spreekt mij niet aan. Het voelt als een oneindige ratrace. Een bezigheidstherapie om maar niet in de diepte van je eigen leven te hoeven kijken. Om maar niet de échte betekenis op te zoeken.

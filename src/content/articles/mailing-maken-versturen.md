@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "mailing-maken-versturen"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/mailing-maken-versturen.webp"
+featuredImage: "/images/headers/mailing-maken-versturen.webp"
 ---
 
 Wil je een **mailing maken en versturen**? Je hebt de mailcontacten verzamelt en bent klaar om jouw mailing op te stellen. Dus nu vraag je je waarschijnlijk af **hoe je een goede mailing maakt**.

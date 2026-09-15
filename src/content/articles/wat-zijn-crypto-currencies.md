@@ -7,7 +7,7 @@ category: "web3"
 slug: "wat-zijn-crypto-currencies"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/DALL%C2%B7E-2024-01-25-09.11.49-Create-an-isometric-high-tech-digital-style-image-to-represent-the-concept-of-cryptocurrencies.-The-image-should-feature-a-variety-of-cryptocurrency-1.webp"
+featuredImage: "/images/headers/wat-zijn-crypto-currencies.webp"
 ---
 
 Cryptocurrency, ook bekend als crypto, is een vorm van digitaal geld die geen bank of financiële instelling nodig heeft om transacties te verifiëren. Het wordt gebruikt voor aankopen of als investering. Transacties worden geverifieerd en vastgelegd op een blockchain, een onveranderlijk grootboek dat activa en handelingen registreert.

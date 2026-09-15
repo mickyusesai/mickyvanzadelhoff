@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "wonen-en-werken-in-wenen-oostenrijk"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/wonen-en-werken-in-wenen-e1541602776257.webp"
+featuredImage: "/images/headers/wonen-en-werken-in-wenen-oostenrijk.webp"
 ---
 
 Wonen en werken in Wenen als digital nomad, is dat wat voor jou? Het is de stad van Wolfgang Amadeus Mozart, Ludwig van Beethoven en Sigmund Frued. Alle drie hebben ze een deel van hun leven doorgebracht in de Oostenrijkse hoofdstad. De stad bracht hen inspiratie, en werk. En jij kunt je aansluiten in het rijtje van beroemdheden, want Wenen voor digital nomads is best een goede keus.

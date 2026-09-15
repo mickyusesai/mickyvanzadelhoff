@@ -7,7 +7,7 @@ category: "online-geld-verdienen"
 slug: "eigen-webshop-beginnen"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/webshop-beginnen.webp"
+featuredImage: "/images/headers/eigen-webshop-beginnen.webp"
 ---
 
 Wil jij jouw eigen **webshop beginnen**? Dan ben je hier aan het goede adres!

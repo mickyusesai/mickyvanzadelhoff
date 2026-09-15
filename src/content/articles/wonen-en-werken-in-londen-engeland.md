@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "wonen-en-werken-in-londen-engeland"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/wonen-en-werken-in-londen-e1541538408888.webp"
+featuredImage: "/images/headers/wonen-en-werken-in-londen-engeland.webp"
 ---
 
 Wonen en werken in Londen als [digital nomad](/blog/digitalenomaden/digital-nomad-worden/), hoe is dat? Eindelijk na al die jaren mocht ik over Abbey Road heen lopen. De hoofdstad van Engeland klonk altijd vrij elitair in mijn oren. Ik zag klassieke boekhandeltjes, dure koffiezaakjes en veel Beatles en Harry Potter verwijzingen voor me. Ondanks dat hier ook een kern van waarheid in zit, heeft deze westerse stad vele kanten. De stad deed mij zelfs denken aan [Berlijn](/blog/digitalenomaden/wonen-en-werken-in-berlijn-duitsland/).

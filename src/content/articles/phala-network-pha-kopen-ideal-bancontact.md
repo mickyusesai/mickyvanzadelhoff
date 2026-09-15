@@ -7,7 +7,7 @@ category: "web3"
 slug: "phala-network-pha-kopen-ideal-bancontact"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/phala-network-pha-kopen-ideal-bancontact-1.webp"
+featuredImage: "/images/headers/phala-network-pha-kopen-ideal-bancontact.webp"
 ---
 
 In 2024 is de wereld van cryptocurrency dynamischer dan ooit. In dit bruisende landschap is Phala Network (PHA) een opmerkelijke speler. Deze cryptomunt, bekend onder de ticker PHA, heeft unieke kenmerken die het onderscheiden op de markt. Wil je PHA kopen met iDEAL of Bancontact? Dan ben je hier aan het juiste adres. We gaan dieper in op wat Phala Network precies is, en hoe je deze cryptomunt gemakkelijk en veilig kunt aanschaffen.

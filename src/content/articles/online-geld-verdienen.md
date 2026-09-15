@@ -7,7 +7,7 @@ category: "online-geld-verdienen"
 slug: "online-geld-verdienen"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/online-geld-verdienen-betrouwbare-manieren-1.webp"
+featuredImage: "/images/headers/online-geld-verdienen.webp"
 ---
 
 Op zoek naar alle **manieren om online geld te verdienen**? Dan zit je hier goed! Zelf reis ik al zes jaar de wereld over als [digital nomad](/over/). Ik doe mijn werk op mijn laptop en kan dat doen vanaf waar dan ook ter wereld.

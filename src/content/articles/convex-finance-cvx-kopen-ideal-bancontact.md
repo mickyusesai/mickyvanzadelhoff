@@ -7,7 +7,7 @@ category: "web3"
 slug: "convex-finance-cvx-kopen-ideal-bancontact"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/convex-finance-kopen-ideal-bancontact-1.webp"
+featuredImage: "/images/headers/convex-finance-cvx-kopen-ideal-bancontact.webp"
 ---
 
 Cryptocurrency blijft in 2024 een opkomende financiële kracht, waarbij nieuwe cryptomunten regelmatig verschijnen. Een opvallende speler in deze markt is Convex Finance (CVX), een platform dat de manier waarop investeerders interageren met de DeFi-ruimte revolutioneert. In dit artikel ontdekken we hoe je CVX kunt kopen met iDEAL en Bancontact.

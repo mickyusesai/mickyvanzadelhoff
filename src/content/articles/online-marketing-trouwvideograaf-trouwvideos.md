@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "online-marketing-trouwvideograaf-trouwvideos"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/trouwvideo-promoten-op-internet.webp"
+featuredImage: "/images/headers/online-marketing-trouwvideograaf-trouwvideos.webp"
 ---
 
 ### Voor een trouwvideograaf mocht ik een mooie online marketing opdracht doen. Hij filmde al jaren op evenementen maar wilde nu in het specifiek meer bruiloften gaan doen. Hiervoor moest hij natuurlijk wel meer aanvragen krijgen. Na een klein onderzoekje hebben we besloten dit via een Facebook advertentie te realiseren. Hier lees je precies hoe we de [social media campagne](/blog/ondernemen/social-media-strategie/) hebben opgezet en hoe het lukte om in de eerste maand dat de campagne liep, 30 extra offerte aanvragen te krijgen via zijn website. Reclame maken als trouwvideograaf is makkelijker dan je denkt.

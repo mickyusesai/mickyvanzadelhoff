@@ -7,7 +7,7 @@ category: "online-geld-verdienen"
 slug: "e-book"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/geld-verdienen-met-het-schrijven-van-een-e-book.webp"
+featuredImage: "/images/headers/e-book.webp"
 ---
 
 **Jouw eigen E-book schrijven, publiceren en verkopen?** E-books zijn een kansrijke manier om te starten met een eigen online product en je kunt er vrij eenvoudig mee beginnen.

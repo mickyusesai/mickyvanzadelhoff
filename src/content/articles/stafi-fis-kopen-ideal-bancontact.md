@@ -7,7 +7,7 @@ category: "web3"
 slug: "stafi-fis-kopen-ideal-bancontact"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/stafi-kopen-ideal-bancontact-1.webp"
+featuredImage: "/images/headers/stafi-fis-kopen-ideal-bancontact.webp"
 ---
 
 2024, een spannend jaar voor de cryptocurrency wereld! Een van de veelbelovende spelers op de crypto-markt is StaFi, ook bekend onder de ticker FIS. Wil je weten hoe je StaFi kunt kopen met iDEAL of Bancontact? Lees dan verder!

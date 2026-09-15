@@ -7,7 +7,7 @@ category: "tips"
 slug: "spirituele-groei-en-inzicht"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/bergen-pai-thailand-darling-view-point-hostel.webp"
+featuredImage: "/images/headers/spirituele-groei-en-inzicht.webp"
 ---
 
 **Spirituele groei door inzichten**, er kwam best wat op me af in het bergdorpje Pai, ergens in het Noorden van Thailand.

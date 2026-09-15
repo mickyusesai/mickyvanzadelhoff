@@ -7,7 +7,7 @@ category: "tips"
 slug: "overgerespecteerd-en-totaal-onbegrepen"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/received_1504684462887495-e1510890015363.webp"
+featuredImage: "/images/headers/overgerespecteerd-en-totaal-onbegrepen.webp"
 ---
 
 In deze beginperiode als [digital nomad](/blog/digitalenomaden/digital-nomad-worden/) was het voor mij tijd om weer terug naar Nederland te gaan, voor even.

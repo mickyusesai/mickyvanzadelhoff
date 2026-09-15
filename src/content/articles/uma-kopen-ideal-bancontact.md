@@ -7,7 +7,7 @@ category: "web3"
 slug: "uma-kopen-ideal-bancontact"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/uma-crypto-kopen-ideal-bancontact-1.webp"
+featuredImage: "/images/headers/uma-kopen-ideal-bancontact.webp"
 ---
 
 In 2024 blijft de wereld van cryptocurrency zich razendsnel ontwikkelen, waarbij nieuwe spelers zoals UMA (Universal Market Access) hun intrede doen op de markt. UMA, met de ticker UMA, onderscheidt zich door zijn unieke benadering van financiële derivaten op de blockchain. Ben je geïnteresseerd in hoe je UMA kunt kopen met iDEAL en Bancontact? Lees dan snel verder!

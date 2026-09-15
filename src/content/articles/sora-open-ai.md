@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "sora-open-ai"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/sora-open-ai-text-to-video-2.webp"
+featuredImage: "/images/headers/sora-open-ai.webp"
 ---
 
 Toen OpenAI in februari 2024 de eerste Sora-video's liet zien, ging het internet even op zijn kop. Levensechte beelden, gemaakt van een paar zinnen tekst. Ik schreef er toen enthousiast over. Twee jaar later is het verhaal anders afgelopen dan iedereen dacht: **OpenAI heeft Sora in het voorjaar van 2026 stopgezet.**

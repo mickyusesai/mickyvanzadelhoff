@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "blog-beginnen-starten-stappenplan"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/blog-starten-beginnen.webp"
+featuredImage: "/images/headers/blog-beginnen-starten-stappenplan.webp"
 ---
 
 **Jouw eigen blog beginnen** is niet zo moeilijk als het lijkt. Je hoeft slechts een onderwerp en leuke naam te bedenken en vervolgens je online webadres en hosting te regelen. Deze stappen samen met vele tips voor het starten van een blog bespreken we allemaal in dit artikel. Zo kun jij binnen 20 minuten **jouw eigen blog online** hebben staan!

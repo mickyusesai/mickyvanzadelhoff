@@ -7,7 +7,7 @@ category: "tips"
 slug: "het-goede-doen"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/het-goede-doen.webp"
+featuredImage: "/images/headers/het-goede-doen.webp"
 ---
 
 Ken je dat gevoel, dat je in een spagaat ligt? Je hebt een diepe passie en wil het goede doen voor de mens of de wereld als geheel. Je hebt een stevige drang om iets positiefs bij te dragen maar voelt je daarin belemmert. Je hebt goede ideeën **maar de uitwerking laat zich vaak verstoren** omdat er ook nog ‘geld moet worden verdient’. Het is immers leuk om zoveel om de mens(heid) te geven, maar waar brengt dat je als je zelf in constante geldnood zit en leeft in onzekerheid?

@@ -7,7 +7,7 @@ category: "web3"
 slug: "nft-ideeen-bedrijf"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/bedrijf-nft-ideeen-voorbeelden-1.webp"
+featuredImage: "/images/headers/nft-ideeen-bedrijf.webp"
 ---
 
 **Wat kun je als bedrijf met NFTs?** Leuk natuurlijk al die nieuwe technologie, maar hoe doe je daar iets mee?

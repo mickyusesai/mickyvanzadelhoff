@@ -7,7 +7,7 @@ category: "tips"
 slug: "stoppen-school-studie-en-echt-gaan-leven"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/vrienden-in-bangkok-e1524324363268.webp"
+featuredImage: "/images/headers/stoppen-school-studie-en-echt-gaan-leven.webp"
 ---
 
 Inmiddels is het vier jaar geleden. **Ik stopte met mijn studie** Communicatie aan Fontys Hogescholen (eerder al met Vrijetijdsmanagement aan NHTV). Ik zat al in mijn derde jaar van mijn opleiding, maar voelde nog maar weinig vordering in mijn leerproces. Daarbij vond ik het een enorm eng idee **om me zo te binden aan een toekomst met een papiertje**, want wat was dat eigenlijk waard?

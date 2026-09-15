@@ -7,7 +7,7 @@ category: "tips"
 slug: "alleen-reizen-wereld-voordelen-en-nadelen"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/busje-beklad-mick-van-zadelhof-e1524325038860.webp"
+featuredImage: "/images/headers/alleen-reizen-wereld-voordelen-en-nadelen.webp"
 ---
 
 Als digital nomad **reisde ik vaak alleen** totdat ik een vriendin kreeg. Die ervaringen en wat daar de voor- en nadelen van zijn deel ik graag met je in dit blog. Want wat maakte **alleen reizen** nou soms zo leuk en soms juist zo verschrikkelijk?

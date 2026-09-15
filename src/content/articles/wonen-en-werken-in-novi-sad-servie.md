@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "wonen-en-werken-in-novi-sad-servie"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/novi-sad-e1534191180962.webp"
+featuredImage: "/images/headers/wonen-en-werken-in-novi-sad-servie.webp"
 ---
 
 Novi Sad, hoe is het om daar te [wonen en werken als digitile nomade](/blog/digitalenomaden/digital-nomad-worden/)? Best wel chill kan ik je zeggen. Ik heb er een maand geleefd en vertel je graag over mijn ervaringen. Van het sluiten van vriendschappen, tot de praktische zaken als waar vandaan ik werk. Hoe dan ook, deze stad in het noorden van Servië blijft mij verbazen!

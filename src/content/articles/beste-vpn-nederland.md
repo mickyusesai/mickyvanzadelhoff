@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "beste-vpn-nederland"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/beste-vpn-nederland-netflix.webp"
+featuredImage: "/images/headers/beste-vpn-nederland.webp"
 ---
 
 Op zoek naar de **beste VPN** (**Virtual Private Network**)?

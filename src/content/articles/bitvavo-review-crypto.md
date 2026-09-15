@@ -7,7 +7,7 @@ category: "review"
 slug: "bitvavo-review-crypto"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/bitvavo-logo-review-crypto-exchange.webp"
+featuredImage: "/images/headers/bitvavo-review-crypto.webp"
 ---
 
 **Is [Bitvavo](/go/bitvavo) de crypto exchange voor jou?**

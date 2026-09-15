@@ -11,6 +11,8 @@
  *   node scripts/generate-headers.mjs --sample a,b --styles grain,2d_art_poster --out /tmp/headers
  *   node scripts/generate-headers.mjs --all [--force] [--apply]                 every article (skips existing)
  *   node scripts/generate-headers.mjs --only a,b --apply                        specific articles, into the repo
+ *   node scripts/generate-headers.mjs --all --concurrency 4                     four requests at a time
+ *   node scripts/generate-headers.mjs --apply-only                              point every article with a header file at it
  * --apply rewrites `featuredImage` in the article frontmatter to /images/headers/<slug>.webp.
  * Cost: $0.04 per image (Recraft V3 on fal, digital_illustration styles).
  */
@@ -89,7 +91,7 @@ function readArticles() {
 
 export function buildPrompt(article) {
   const motif = MOTIFS[article.slug] || CATEGORY_MOTIF[article.category] || CATEGORY_MOTIF.tips;
-  return `Centerpiece: ${motif}, drawn large in the middle of the frame, filling about half of the image height, clearly the main subject. ${BACKDROP_PROMPT} ${STYLE_PROMPT} ${COLOUR_PROMPT}`;
+  return `Centerpiece: ${motif}, drawn large in the middle of the frame, filling about half of the image height, clearly the main subject, under a pale lilac sky. ${COLOUR_PROMPT} ${BACKDROP_PROMPT} ${STYLE_PROMPT}`;
 }
 
 const hexToRgb = (h) => ({ r: parseInt(h.slice(1, 3), 16), g: parseInt(h.slice(3, 5), 16), b: parseInt(h.slice(5, 7), 16) });
@@ -114,7 +116,8 @@ async function generate(prompt, style) {
 
 async function save(buffer, dest) {
   fs.mkdirSync(path.dirname(dest), { recursive: true });
-  await sharp(buffer).resize(1600, 900, { fit: 'cover' }).webp({ quality: 82 }).toFile(dest);
+  // 1400x788 is plenty for the 1200px article header, the cards and the 1200x630 OG image.
+  await sharp(buffer).resize(1400, 788, { fit: 'cover' }).webp({ quality: 78 }).toFile(dest);
 }
 
 function applyFrontmatter(article, publicPath) {
@@ -127,6 +130,16 @@ function applyFrontmatter(article, publicPath) {
 async function main() {
   loadEnv();
   const all = readArticles().filter((a) => !a.draft);
+  if (flag('apply-only')) {
+    let n = 0;
+    for (const a of all) {
+      const rel = `/images/headers/${a.slug}.webp`;
+      if (!fs.existsSync(path.join(ROOT, 'public', rel))) continue;
+      if (a.featuredImage !== rel) { applyFrontmatter(a, rel); n++; }
+    }
+    console.log(`${n} article(s) now point at their generated header`);
+    return;
+  }
   const styles = list(opt('styles')).map((s) => (s.includes('/') ? s : `digital_illustration/${s}`));
   if (!styles.length) styles.push(DEFAULT_STYLE);
   const sample = list(opt('sample'));
@@ -147,19 +160,28 @@ async function main() {
     jobs.push({ a, style, dest });
   }
   console.log(`${jobs.length} image(s) to generate, about $${(jobs.length * 0.04).toFixed(2)}${flag('dry-run') ? ' (dry run)' : ''}`);
-  for (const { a, style, dest } of jobs) {
-    const prompt = buildPrompt(a);
-    if (flag('dry-run')) { console.log(`\n[${a.slug}] ${style}\n${prompt}`); continue; }
-    process.stdout.write(`${a.slug} (${style.split('/').pop()}) … `);
-    try {
-      const buf = await generate(prompt, style);
-      await save(buf, dest);
-      console.log(`ok → ${path.relative(ROOT, dest)}`);
-      if (flag('apply') && !sample.length) applyFrontmatter(a, `/images/headers/${path.basename(dest)}`);
-    } catch (e) {
-      console.log(`FAILED: ${e.message}`);
-    }
+  if (flag('dry-run')) {
+    for (const { a, style } of jobs) console.log(`\n[${a.slug}] ${style}\n${buildPrompt(a)}`);
+    return;
   }
+  const concurrency = Math.max(1, Number(opt('concurrency') || 1));
+  let next = 0, done = 0, failed = 0;
+  const worker = async () => {
+    while (next < jobs.length) {
+      const { a, style, dest } = jobs[next++];
+      try {
+        const buf = await generate(buildPrompt(a), style);
+        await save(buf, dest);
+        if (flag('apply') && !sample.length) applyFrontmatter(a, `/images/headers/${path.basename(dest)}`);
+        console.log(`${++done + failed}/${jobs.length} ok      ${a.slug} (${style.split('/').pop()})`);
+      } catch (e) {
+        failed++;
+        console.log(`${done + failed}/${jobs.length} FAILED  ${a.slug}: ${e.message}`);
+      }
+    }
+  };
+  await Promise.all(Array.from({ length: concurrency }, worker));
+  console.log(`done: ${done} ok, ${failed} failed`);
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });

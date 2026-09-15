@@ -7,7 +7,7 @@ category: "web3"
 slug: "sei-kopen-ideal-bancontact"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/Sei-kopen-ideal-bancontact-1.webp"
+featuredImage: "/images/headers/sei-kopen-ideal-bancontact.webp"
 ---
 
 Welkom in de boeiende wereld van cryptocurrencies in 2024, waar innovatie en technologische doorbraken dagelijkse kost zijn. Een van de meest opvallende nieuwkomers in deze snel evoluerende markt is Sei (SEI), een cryptomunt die zich onderscheidt door zijn unieke eigenschappen en gespecialiseerde toepassingen. In dit artikel verkennen we hoe je Sei kunt kopen met iDEAL en Bancontact en duiken we in de wereld van deze intrigerende digitale munt.

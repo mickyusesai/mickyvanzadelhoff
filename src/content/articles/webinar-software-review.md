@@ -7,7 +7,7 @@ category: "ondernemen"
 slug: "webinar-software-review"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/webinar-software-nederland.webp"
+featuredImage: "/images/headers/webinar-software-review.webp"
 ---
 
 De **beste webinar software vergelijken**? Dan zit je hier goed!

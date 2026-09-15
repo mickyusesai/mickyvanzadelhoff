@@ -7,7 +7,7 @@ category: "web3"
 slug: "bitcoin-cash-bch-kopen-ideal-bancontact"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/bitcoin-cash-bch-kopen-ideal-bancontact-1.webp"
+featuredImage: "/images/headers/bitcoin-cash-bch-kopen-ideal-bancontact.webp"
 ---
 
 De wereld van cryptocurrency blijft in 2024 onverminderd groeien. Nieuwe technologieën en munten komen en gaan, maar enkele blijven prominent aanwezig. Een van deze blijvers is Bitcoin Cash (BCH), een fork van Bitcoin die zich heeft ontwikkeld tot een veelgebruikte en gerespecteerde cryptomunt. Voor degenen die geïnteresseerd zijn in het kopen van Bitcoin Cash met iDEAL of Bancontact, is dit artikel een must-read.

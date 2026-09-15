@@ -7,7 +7,7 @@ category: "digitalenomaden"
 slug: "irritaties-digital-nomad"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/IMG_20181127_120420-e1543469993665.webp"
+featuredImage: "/images/headers/irritaties-digital-nomad.webp"
 ---
 
 Misschien dacht je tot nu toe dat [het leven van een digital nomad](/blog/digitalenomaden/digital-nomad-worden/) alleen bestaat uit vakantie vieren. Maar uiteraard moet er ook gewerkt worden. En wanneer je dat vanaf overal ter wereld doet kan dat nogal eens irritaties opleveren. En dan heb ik het niet alleen over slechte Wifi, maar over dingen die nog vele malen irritanter zijn. Je leest mijn drie grootste irritaties hieronder.

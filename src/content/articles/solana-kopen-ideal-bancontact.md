@@ -7,7 +7,7 @@ category: "web3"
 slug: "solana-kopen-ideal-bancontact"
 lang: "nl"
 draft: false
-featuredImage: "/images/migrated/solana-kopen-met-ideal-en-bancontact.webp"
+featuredImage: "/images/headers/solana-kopen-ideal-bancontact.webp"
 ---
 
 In 2024 blijft de wereld van cryptocurrency zich ontwikkelen met een ongekende snelheid. In deze dynamische markt heeft **Solana (SOL)** zich onderscheiden als een van de meest belovende digitale valuta’s. Bekend om zijn innovatieve technologie en snelle transacties, trekt Solana zowel nieuwe als ervaren investeerders aan.
