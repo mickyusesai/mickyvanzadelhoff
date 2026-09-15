@@ -88,9 +88,7 @@ Toen ik deze review in 2023 schreef, deed ik een experiment: **ik liet de AI het
 
 ## Prijzen van Copymatic
 
-Copymatic is zeker niet de duurste AI-tool voor copywriting. Je betaalt voor een aantal woorden per maand; ongebruikte woorden schuiven door naar de volgende maand. Je begint gratis met een beperkt aantal woorden om de tool uit te proberen, daarna beginnen de abonnementen bij een paar euro per maand voor lichte gebruikers en lopen ze op voor teams en bulk.
-
-<!-- TODO: verify this data is still current (actuele prijzen en woordlimieten van Copymatic, gratis proefwoorden) -->
+Copymatic is zeker niet de duurste AI-tool voor copywriting. Je betaalt voor een aantal woorden per maand en kiest zelf hoeveel; ongebruikte woorden schuiven door naar de volgende maand. De **eerste 1.500 woorden zijn gratis**, zodat je de tool kunt uitproberen. Daarna beginnen de abonnementen bij ongeveer **9 dollar per maand** voor lichte gebruikers en lopen ze op naarmate je meer woorden wilt (stand september 2026, check de site voor de actuele bedragen).
 
 ![Copymatic prijzen](/images/migrated/Copymatic-prijzen-woorden-1.webp "Copymatic prijzen")
 

@@ -140,17 +140,17 @@ Looka ontwerpt een logo op basis van je voorkeuren en verwerkt het direct in all
 
 ## Video
 
-### 19. Sora – Video's van tekst, van OpenAI
+### 19. Google Veo – Video met geluid, in Gemini
 
-Sora was in 2024 de demo die iedereen versteld deed staan; inmiddels zit het in ChatGPT en maakt het clips met geluid. Ideaal voor B-roll, social content en conceptvideo's. [Alles over Sora en hoe je het gebruikt](/blog/ondernemen/sora-open-ai/).
-
-[Ga naar Sora](https://sora.com/)
-
-### 20. Google Veo – Video met geluid, in Gemini
-
-De videogenerator van Google, te gebruiken via Gemini. Veo maakt sinds 2025 video's inclusief passend geluid en dialoog en is voor veel toepassingen minstens zo goed als Sora. Probeer ze allebei met dezelfde prompt.
+De videogenerator van Google, te gebruiken via Gemini. Veo maakt video's inclusief passend geluid en dialoog, in hoge resolutie, en is in 2026 voor de meeste mensen de beste allrounder. Nu OpenAI [met Sora is gestopt](/blog/ondernemen/sora-open-ai/), is dit de tool waar ik mee begin als iemand vraagt "hoe maak ik een AI-video?".
 
 [Ga naar Gemini](https://gemini.google.com/)
+
+### 20. Kling – Cinematische AI-video, scherp geprijsd
+
+Kling, van het Chinese Kuaishou, is de videogenerator die in 2026 het meeste waar voor je geld geeft: cinematische beweging, meerdere shots achter elkaar met dezelfde personages en geluid dat over de cuts heen klopt. Werkt gewoon vanuit de browser.
+
+[Ga naar Kling](https://klingai.com/)
 
 ### 21. Runway – Creatieve videotool voor makers
 
@@ -208,11 +208,11 @@ Murf biedt meer dan honderd stemmen in twintig talen met instelbare toonhoogte, 
 
 [Ga naar Murf AI](/go/murf-ai)
 
-### 30. Podcastle – Podcasts opnemen en bewerken
+### 30. Async (voorheen Podcastle) – Podcasts en video opnemen en bewerken
 
-Opnemen in hoge kwaliteit, achtergrondruis weghalen, gasten op afstand opnemen en automatisch editen. Met Podcastle maak je professionele podcasts zonder dure apparatuur.
+Opnemen in hoge kwaliteit, achtergrondruis weghalen, gasten op afstand opnemen en automatisch editen. Podcastle heet sinds begin 2026 **Async** en is uitgegroeid van podcasttool tot een complete studio voor audio, video, AI-stemmen en avatars. Je maakt er nog steeds professionele podcasts mee zonder dure apparatuur.
 
-[Ga naar Podcastle](/go/podcastle)
+[Ga naar Async](/go/podcastle)
 
 ## Vergaderen, notuleren en productiviteit
 
@@ -344,9 +344,9 @@ Een bijzondere toepassing die laat zien hoe breed AI inzetbaar is: Urbanist AI b
 
 ## Tools die niet meer in de lijst staan
 
-Sinds de vorige versie zijn een paar tools verdwenen of ingehaald. **DALL·E** is opgegaan in ChatGPT. **Replit Ghostwriter** heet nu Replit Agent. **Arc Browser** stond hier vanwege de slimme AI-functies, maar de makers zijn gestopt met de ontwikkeling ervan en werken aan een opvolger. **Texts.com**, de app die al je berichten samenbracht, is overgenomen en niet meer los beschikbaar.
+Sinds de vorige versie zijn een paar tools verdwenen of ingehaald. **Sora** van OpenAI is in april 2026 stopgezet ([het hele verhaal](/blog/ondernemen/sora-open-ai/)). **DALL·E** is opgegaan in ChatGPT. **Replit Ghostwriter** heet nu Replit Agent. **Arc Browser** stond hier vanwege de slimme AI-functies, maar de makers stopten in 2025 met nieuwe functies (het werkt nog, maar wordt alleen onderhouden) en bouwen nu aan de AI-browser Dia, sinds de overname door Atlassian. **Texts.com**, de app die al je berichten samenbracht, is opgegaan in Beeper, dat hetzelfde doet onder een andere naam.
 
-<!-- TODO: verify this data is still current (status van Arc/Dia en Texts.com, prijzen en gratis versies van de genoemde tools, affiliate links) -->
+Alle tools in deze lijst heb ik in september 2026 gecontroleerd op bestaan en aanbod. Prijzen veranderen snel; check ze op de site van de tool.
 
 ## Conclusie: welke AI tools heb je in 2026 echt nodig?
 

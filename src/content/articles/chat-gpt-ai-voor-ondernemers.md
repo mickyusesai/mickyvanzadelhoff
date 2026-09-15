@@ -121,8 +121,6 @@ Voor de meeste taken hierboven is ChatGPT (of Claude of Gemini) genoeg. Gespecia
 - [Originality](/go/originality): checken of een tekst door AI is geschreven.
 - [LongShot](/go/longshot) en [Copymatic](/go/copymatic): AI-schrijftools met SEO-workflow.
 
-<!-- TODO: verify this data is still current (bestaan en aanbod van bovenstaande tools, affiliate links) -->
-
 De volledige lijst, per categorie, vind je in [mijn overzicht van de beste AI tools](/blog/ondernemen/ai-tools-lijst/).
 
 ## Conclusie

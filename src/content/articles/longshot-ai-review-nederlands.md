@@ -39,8 +39,6 @@ De functies die ik zelf het meest gebruik:
 
 Er zit ook een functie in die reviews genereert die door echte mensen geschreven lijken. Niet heel ethisch als je het mij vraagt; die laat ik links liggen.
 
-<!-- TODO: verify this data is still current (huidige functies en naamgeving in LongShot, bijvoorbeeld de fact-check functie en integraties) -->
-
 <aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Zo gebruik je LongShot in het Nederlands
@@ -83,13 +81,11 @@ Qua workflow is het vooral kijken wat je zelf handig vindt. Heb je al een outlin
 
 ## LongShot uitproberen en prijzen
 
-LongShot is **niet de duurste** AI-schrijftool. Voor een paar tientjes per maand kun je volwaardig aan de slag, en je krijgt genoeg credits om je niet beperkt te voelen. De plannen lopen van een individueel abonnement tot team- en agency-varianten voor wie met meerdere marketeers werkt. Maandelijks opzeggen kan, jaarlijks betalen is goedkoper.
+LongShot is **niet de duurste** AI-schrijftool. De plannen in september 2026: een **gratis plan** om te kijken, **Pro** voor zo'n 19 dollar per maand (genoeg voor een individuele blogger), **Team** voor zo'n 49 dollar en **Agency** voor bureaus. Er is ook een losse pay-as-you-go optie voor wie maar af en toe publiceert. Jaarlijks betalen is goedkoper dan maandelijks.
 
 ![LongShot AI prijzen](/images/migrated/longshot-ai-prijzen-1.webp "LongShot AI prijzen")
 
-Toen ik deze review schreef, kon je LongShot een paar dagen uitproberen voor 1 dollar. Check op de site wat de huidige proefperiode is.
-
-<!-- TODO: verify this data is still current (proefperiode, prijzen en plannen van LongShot) -->
+De **proefperiode van vijf dagen voor 1 dollar** bestaat nog steeds en geeft je alle functies om de tool goed uit te proberen. Check de site voor de actuele bedragen.
 
 [LongShot uitproberen](/go/longshot)
 
