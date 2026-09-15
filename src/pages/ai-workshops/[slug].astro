@@ -2,7 +2,9 @@
 export const prerender = true;
 import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import ClientStrip from '../../components/ClientStrip.astro';
 import { SITE } from '../../config/site';
+import { WORKSHOP_ICONS, spot } from '../../lib/spots';
 
 export async function getStaticPaths() {
   const workshops = await getCollection('workshops', ({ data }) => !data.draft);
@@ -12,8 +14,10 @@ const { workshop } = Astro.props;
 const { Content } = await render(workshop);
 const d = workshop.data;
 const others = (await getCollection('workshops', ({ data }) => !data.draft)).filter((w) => w.id !== workshop.id);
+const icon = WORKSHOP_ICONS[d.slug];
 ---
 <Layout title={`${d.title} – AI-workshop`} description={d.description} image={d.featuredImage || SITE.ogImage}>
+  <div class="pt-8"><ClientStrip compact /></div>
   <article class="wrap py-10 sm:py-14">
     <p class="text-sm font-bold"><a href="/ai-workshops/" class="text-violet hover:underline">AI-workshops</a></p>
     <div class="mt-3 grid gap-10 lg:grid-cols-[minmax(0,1fr)_360px]">
@@ -25,6 +29,7 @@ const others = (await getCollection('workshops', ({ data }) => !data.draft)).fil
         </div>
       </div>
       <aside class="sticker h-fit grid gap-4 p-6 lg:sticky lg:top-24">
+        {icon && <img src={spot(icon)} alt="" width="120" height="120" loading="lazy" class="spot -mt-2 h-24 w-24 justify-self-end animate-bob [--tilt:5deg]" />}
         <dl class="grid gap-3 text-[15px]">
           <div class="flex justify-between gap-4"><dt class="text-muted">Duur</dt><dd class="font-bold">{d.duration}</dd></div>
           <div class="flex justify-between gap-4"><dt class="text-muted">Locatie</dt><dd class="font-bold">{d.location}</dd></div>
@@ -40,7 +45,7 @@ const others = (await getCollection('workshops', ({ data }) => !data.draft)).fil
           ))}
         </ul>
         <div class="grid gap-2 pt-2">
-          <a href={SITE.whatsappUrl} rel="noopener" class="btn btn-primary">Plan een gesprek via WhatsApp</a>
+          <a href={SITE.whatsappUrl} rel="noopener" class="btn btn-primary">Stuur een WhatsApp</a>
           <a href={`mailto:${SITE.email}?subject=${encodeURIComponent(d.title)}`} class="btn btn-ghost">Mail {SITE.email}</a>
         </div>
       </aside>

@@ -2,27 +2,52 @@
 export const prerender = true;
 import Layout from '../../layouts/Layout.astro';
 import WorkshopCard from '../../components/WorkshopCard.astro';
+import ClientStrip from '../../components/ClientStrip.astro';
 import Blobs from '../../components/Blobs.astro';
 import { getCollection } from 'astro:content';
-import { SITE } from '../../config/site';
+import { FACTS, SITE } from '../../config/site';
+import { spot } from '../../lib/spots';
 
 const workshops = (await getCollection('workshops', ({ data }) => !data.draft)).sort((a, b) => a.data.order - b.data.order);
+const why = [
+  { icon: 'stat-workshops', text: `${FACTS.workshops} AI-workshops sinds ${FACTS.workshopsSince}, bij bedrijven en op scholen in ${FACTS.schoolCountries} Europese landen.` },
+  { icon: 'stat-easyreimburse', text: `Bouwde zelf EasyReimburse, inmiddels gebruikt door ${FACTS.easyReimburseOrgs} organisaties.` },
+  { icon: 'over-geen-programmeur', text: 'Geen programmeerachtergrond, dus ik weet precies hoe het is om te beginnen.' },
+];
 ---
-<Layout title="AI-workshops voor bedrijven" description="Twee praktische AI-workshops: een introductie van drie uur voor het hele team, of een bouwweek waarin we met Claude Code een automatisering neerzetten die direct tijd bespaart.">
+<Layout title="AI-workshops voor bedrijven" description={`Twee praktische AI-workshops, in-company door heel Nederland: een introductie van drie uur voor het hele team, of een bouwweek met Claude Code. ${FACTS.workshops} workshops, ${FACTS.participants} deelnemers.`}>
   <section class="relative overflow-hidden">
     <Blobs />
     <div class="wrap relative z-10 grid gap-5 py-14 sm:py-20">
       <p class="eyebrow animate-rise">In-company · Nederland</p>
       <h1 class="max-w-4xl text-[38px] font-extrabold leading-[1.04] tracking-tight animate-rise [animation-delay:.1s] sm:text-[56px]">AI-workshops die je team <span class="highlight">zelf</span> laten bouwen.</h1>
-      <p class="max-w-prose text-lg text-muted animate-rise [animation-delay:.2s] sm:text-xl">De ontwikkelingen gaan hard en de meeste teams zien door de bomen het bos niet meer. Daarom zijn er twee workshops: één om te zien wat er kan, één om het ook echt te bouwen.</p>
+      <p class="max-w-prose text-lg text-muted animate-rise [animation-delay:.2s] sm:text-xl">De ontwikkelingen gaan hard en de meeste teams zien door de bomen het bos niet meer. Ondertussen kan AI in de huidige kwaliteit al de helft van het kantoorwerk overnemen. Wat ontbreekt zijn de toepassingen. Daarom zijn er twee workshops: één om te zien wat er kan, één om het ook echt te bouwen.</p>
     </div>
   </section>
-  <section class="wrap">
+  <ClientStrip compact />
+  <section class="wrap pt-10">
     <div class="grid gap-8 md:grid-cols-2">
       {workshops.map((w, i) => <WorkshopCard workshop={w} variant={i === 1 ? 'violet' : 'light'} delay={i + 1} />)}
     </div>
   </section>
   <section class="wrap py-16 sm:py-24">
+    <div class="reveal grid gap-6 md:grid-cols-[1fr_2fr] md:items-start">
+      <div class="grid gap-3">
+        <p class="eyebrow">Waarom ik</p>
+        <h2 class="text-3xl font-bold tracking-tight">Ik doe dit niet vanaf de zijlijn.</h2>
+        <a href="/over/" class="btn btn-ghost w-fit">Lees mijn verhaal</a>
+      </div>
+      <ul class="grid gap-4">
+        {why.map((w, i) => (
+          <li class="reveal sticker flex items-center gap-4 bg-surface p-4 sm:p-5" data-delay={i + 1}>
+            <img src={spot(w.icon)} alt="" width="80" height="80" loading="lazy" class="spot sm:h-20 sm:w-20" />
+            <p class="text-lg font-semibold leading-snug">{w.text}</p>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+  <section class="wrap pb-16 sm:pb-24">
     <div class="reveal sticker relative overflow-hidden bg-lime p-8 sm:p-12">
       <div aria-hidden="true" class="absolute inset-y-0 right-0 hidden w-[38%] bg-ink [clip-path:polygon(28%_0,100%_0,100%_100%,0_100%)] md:block"></div>
       <div aria-hidden="true" class="orb right-[9%] top-1/2 hidden h-20 w-20 -translate-y-1/2 animate-drift [--orb-a:#D4F75B] [--orb-b:#8FBF1C] [--orb-c:#33470C] md:block"></div>

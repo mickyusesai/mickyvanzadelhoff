@@ -1,0 +1,18 @@
+---
+/** The four proof numbers with their spot icons. `dark` for the ink band on the homepage. */
+import { STATS } from '../config/site';
+import { spot } from '../lib/spots';
+interface Props { dark?: boolean; class?: string; }
+const { dark = false, class: extra = '' } = Astro.props;
+---
+<dl class:list={['reveal grid gap-6 sm:grid-cols-2 lg:grid-cols-4', extra]}>
+  {STATS.map((s, i) => (
+    <div class:list={['flex items-center gap-4 rounded-2xl border-2 p-4', dark ? 'border-white/15 bg-white/5' : 'border-ink bg-surface shadow-sticker-sm']} data-delay={i + 1}>
+      <img src={spot(s.icon)} alt="" width="72" height="72" loading="lazy" class="spot" />
+      <div class="grid gap-0.5">
+        <dt class:list={['font-display text-[28px] font-bold leading-none sm:text-[32px]', dark ? 'text-lime' : 'text-violet']}>{s.value}</dt>
+        <dd class:list={['text-sm', dark ? 'text-white/70' : 'text-muted']}>{s.label}</dd>
+      </div>
+    </div>
+  ))}
+</dl>

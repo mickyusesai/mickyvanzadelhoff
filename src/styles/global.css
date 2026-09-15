@@ -24,6 +24,8 @@
   .btn-lime { @apply bg-lime text-ink border-2 border-ink shadow-sticker-sm; }
   .btn-lime:hover { transform: translate(-2px, -2px); box-shadow: 6px 6px 0 #17112E; }
   .btn-ghost { @apply bg-transparent text-ink border-2 border-ink; }
+  /* Spot illustrations (public/images/spots) are full-bleed mini scenes; frame them like stickers. */
+  .spot { @apply h-16 w-16 flex-none rounded-2xl border-2 border-ink bg-surface object-cover shadow-sticker-sm; }
   .btn-ghost:hover { @apply bg-white; }
 
   /* Sticker cards */

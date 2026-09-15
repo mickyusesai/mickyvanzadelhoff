@@ -13,23 +13,33 @@ outcomes:
   - "Een werkende automatisering die jullie direct gebruiken"
   - "Teamleden die het zelf kunnen onderhouden en uitbreiden"
   - "AI krijgt een vaste plek in jullie processen"
-featuredImage: "/images/migrated/training-de-moderne-nomaden.webp"
+featuredImage: "/images/micky/workshop-technogym.webp"
 draft: false
 ---
 
-Weten wat AI kan is één ding. Het ook echt in je bedrijf laten werken is iets anders. In deze workshopweek gaan we met maximaal drie mensen uit jouw bedrijf **direct en actiegericht aan de slag**. We bouwen met [Claude Code](https://claude.com/claude-code) iets dat jullie meteen kunnen toepassen om processen te automatiseren en AI een vaste plek in het bedrijf te geven.
+Elke zomer runnen we een kamp voor vijftig singles per week. In de bar pakken mensen hun eigen drankjes uit de koelkast en zetten er een streepje voor op een lijst. Die lijsten worden nat, ze scheuren, en aan het eind van de week zit iemand alles met de hand op te tellen. Begin 2026 bouwde ik daar in een paar uur een app voor. Geen weken werk, geen bureau, geen offerte. Diezelfde zomer bewees hij zich meteen.
 
-Denk aan het automatiseren van de administratie, de klantenservice of de marketing. Wat het precies wordt, bepalen we samen op dag één op basis van waar jullie de meeste tijd kwijt zijn.
+Dat is letterlijk wat een week opleveren kan. Twee jaar geleden had je voor zoiets kleins serieuze programmeerkennis nodig en vooral heel veel tijd. Die drempel is weg. In deze bouwweek gaan we met maximaal drie mensen uit jouw bedrijf **direct aan de slag** met [Claude Code](https://claude.com/claude-code): we pakken het proces waar jullie team de meeste tijd aan verliest, en aan het eind van de week draait het.
 
-## Wat je na de week hebt
+## Wat er in een week haalbaar is
 
-- Een werkende automatisering die tijd bespaart vanaf de dag dat we klaar zijn.
-- Teamleden die zelf in staat zijn de automatisering te onderhouden en uit te breiden. Je bent niet afhankelijk van mij.
-- Extreme tijds- en kostenbesparing. Gegarandeerd.
+Wat het precies wordt, bepalen we samen op dag één. Voorbeelden van automatiseringen die in vijf dagen staan:
 
-## Voor wie
+- **Urenregistratie** die zichzelf invult vanuit agenda en e-mail.
+- **Offertes genereren** uit een kort intakeformulier, in jullie eigen huisstijl.
+- **Facturen en bonnetjes uitlezen** en klaarzetten voor de boekhouding.
+- **Rapportages** die elke maandag automatisch klaarstaan.
+- **Voorraad** bijhouden en bestellen op basis van verkoop.
+- **Inkomende mail sorteren**, samenvatten en van een conceptantwoord voorzien.
+- **Een klantenservice-assistent** die getraind is op jullie eigen documenten.
 
-Voor bedrijven die de introductie voorbij zijn en nu resultaat willen. Voorkennis van programmeren is niet nodig, wel de bereidheid om een week lang de handen uit de mouwen te steken. Maximaal drie deelnemers, zodat iedereen echt bouwt.
+## Wie er van jullie kant bij zit
+
+Maximaal drie mensen, zodat iedereen echt bouwt. Ideaal is: één iemand die het proces van binnen en buiten kent, en één iemand die de automatisering daarna wil onderhouden. Programmeerervaring is niet nodig. Wel de bereidheid om een week lang de handen uit de mouwen te steken.
+
+## Wat jullie houden
+
+Alles. De code, de toegang, de kennis en de manier van werken. Geen abonnement bij mij, geen afhankelijkheid: vanaf dag vijf doen jullie het zelf. Ik ben er daarna voor vragen, niet omdat het zonder mij stopt.
 
 ## Zo ziet de week eruit
 
@@ -48,16 +58,16 @@ Randgevallen, foutafhandeling en de eerste uitbreiding. Jullie bouwen zelf, ik k
 **Dag 5 · Overdragen**
 Documentatie, onderhoud en een plan voor de volgende automatisering. Vanaf vandaag doen jullie het zelf.
 
-## Wat er bijvoorbeeld uit kan komen
+## Het bewijs dat het resultaat productiewaardig is
 
-[EasyReimburse](https://easyreimburse.ai/) is een web-app die ik zelf op deze manier met AI bouwde. Erasmus+ coördinatoren waren weken kwijt aan reiskostendeclaraties: tickets verzamelen, bedragen overtypen, wisselkoersen opzoeken, alles controleren. Nu uploaden deelnemers hun tickets via een link, leest AI de routes, data en bedragen uit, controleert een tweede AI het dossier en rolt er met één klik een auditrapport voor het Nationaal Agentschap uit. Van weken naar minuten, zo'n 90% minder tijd. Gebouwd omdat ik het zelf nodig had, en inmiddels gebruikt door organisaties in heel Europa.
+[EasyReimburse](https://easyreimburse.ai/) bouwde ik op precies deze manier. Coördinatoren van Europese projecten waren weken kwijt aan reiskostendeclaraties: tickets verzamelen, bedragen overtypen, wisselkoersen opzoeken, alles controleren. Nu uploaden deelnemers hun tickets via een link, leest AI de routes, data en bedragen uit, controleert een tweede AI het dossier en rolt er met één klik een auditrapport voor het Nationaal Agentschap uit. Ruim veertig organisaties gebruiken het en het scheelt ze per project een volle werkweek.
 
 Wat EasyReimburse voor Erasmus+ doet, bouwen we in deze week voor jullie proces.
 
 ## Praktisch
 
-**Waar?** Bij jou op locatie, vijf aaneengesloten dagen.
+**Waar?** Bij jou op locatie, vijf aaneengesloten dagen, door heel Nederland.
 
 **Wat kost het?** €7.500 excl. btw voor de hele week, voor maximaal drie deelnemers.
 
-**Hoe beginnen we?** Stuur een appje of mailtje. In een kort gesprek kijken we welk proces de meeste winst oplevert en of de week bij jullie past.
+**Hoe beginnen we?** Stuur een appje of mailtje. In een kort gesprek kijken we welk proces de meeste winst oplevert en of de week bij jullie past. Vaak gaat de [AI Introductie](/ai-workshops/ai-introductie/) eraan vooraf, zodat het hele team weet waarom die drie collega's een week gaan bouwen.

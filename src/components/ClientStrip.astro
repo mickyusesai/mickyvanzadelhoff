@@ -1,0 +1,29 @@
+---
+/**
+ * "Gaf workshops bij": client logos as social proof (briefing §2/§3/§5). Logos are SVGs shown
+ * in ink at a fixed height; a client without a logo file gets a wordmark chip so nothing breaks.
+ * `compact` adds the proof line and drops the school subtitle (for the workshops hub and contact).
+ */
+import { CLIENTS, FACTS } from '../config/site';
+interface Props { compact?: boolean; }
+const { compact = false } = Astro.props;
+---
+<section aria-label="Gaf workshops bij" class:list={[compact ? 'reveal' : 'border-y-2 border-ink bg-white']}>
+  <div class:list={['wrap flex flex-wrap items-center gap-x-8 gap-y-4', compact ? 'sticker bg-surface px-6 py-5' : 'py-5']}>
+    <p class="flex-none text-[11px] font-extrabold uppercase tracking-[0.16em] text-muted">Gaf workshops bij</p>
+    <ul class="flex flex-wrap items-center gap-x-8 gap-y-3">
+      {CLIENTS.map((c) => (
+        <li>
+          {c.logo
+            ? <img src={c.logo} alt={c.name} loading="lazy" class="h-7 w-auto max-w-[150px] grayscale opacity-90 sm:h-8" />
+            : <span class="font-display text-[15px] font-bold tracking-tight text-ink/85">{c.name}</span>}
+        </li>
+      ))}
+    </ul>
+    <p class="text-sm text-muted sm:ml-auto">
+      {compact
+        ? <>{FACTS.workshops} workshops · {FACTS.participants} deelnemers · in-company door heel Nederland</>
+        : <>En op scholen in meer dan {FACTS.schoolCountries} Europese landen.</>}
+    </p>
+  </div>
+</section>
