@@ -48,8 +48,8 @@ export const BACKDROP_PROMPT =
   'a few long clouds, one or two dark silhouetted trees at the edges, tall grass blades along the bottom.';
 
 export const STYLE_PROMPT =
-  'Flat poster illustration with a subtle grain texture, bold simple shapes, minimal detail, no outlines, light and airy overall. ' +
-  'No text, no letters, no logos, no faces.';
+  'Flat poster illustration with a subtle grain texture, bold simple shapes, minimal detail, no outlines, light and airy overall, ' +
+  'daytime with a light pastel sky (never a dark, black, blue or teal sky). No text, no letters, no logos, no faces.';
 
 export const COLOUR_PROMPT =
   'Colours, strictly: pale lilac sky and clouds, lavender and electric violet hills with deep violet shadows, ' +
