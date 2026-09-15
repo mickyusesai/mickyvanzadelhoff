@@ -82,7 +82,7 @@ Bij web 3 speelt kunstmatige intelligentie een gigantische rol. Dat is simpelweg
 
 Zoiets als die plaatjes van Google heeft zich nu omgezet in [AI tools](/blog/ondernemen/ai-tools-lijst/) die letterlijk uit het niets een afbeelding of foto kunnen genereren. Kunstmatige intelligentie heeft dit jaar echt een grote sprong vooruit gemaakt. Kijk maar eens naar deze lijst met toepassingen:
 
-*   **[LongShot.ai](/go/longshot):** Hier komen volledige blogs uitrollen.
+*   **LongShot.ai** (inmiddels [gestopt](/blog/review/longshot-ai-review-nederlands/)): hier kwamen volledige blogs uitrollen.
 *   **[Looka](/go/looka)**: AI design tool voor logo en huisstijl.
 *   [**Synthesia**](/go/synthesia): Bespaar tijd door video’s te maken met AI.
 *   [**Ocoya**](/go/ocoya): Social media management op de automatische piloot.

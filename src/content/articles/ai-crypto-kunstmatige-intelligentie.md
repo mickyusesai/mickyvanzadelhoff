@@ -87,9 +87,9 @@ Daarmee is The Graph een bouwsteen voor AI-toepassingen en gedecentraliseerde ap
 
 ![Artificial Superintelligence Alliance](/images/migrated/articial-superintelligence-alliance-small.webp "Artificial Superintelligence Alliance")
 
-Een van de meest ambitieuze AI-cryptoprojecten. De alliantie ontstond in 2024 uit een **fusie van Fetch.ai, Ocean Protocol en SingularityNET**, met als doel AI te decentraliseren en toegankelijker te maken, als tegenwicht voor de dominantie van Big Tech.
+Een van de meest ambitieuze AI-cryptoprojecten. De alliantie ontstond in 2024 uit een **fusie van Fetch.ai, Ocean Protocol en SingularityNET**, met als doel AI te decentraliseren en toegankelijker te maken, als tegenwicht voor de dominantie van Big Tech. De tokens van de drie projecten gingen op in één token: FET, later hernoemd naar ASI.
 
-ASI combineert **autonome agents, een marktplaats voor AI-diensten en veilige data-uitwisseling** in één ecosysteem. De token (op de meeste exchanges nog genoteerd als FET) is de brandstof daarvan. Let op: de alliantie heeft in 2025 nog veranderingen in samenstelling doorgemaakt; check de actuele situatie voordat je instapt.
+ASI combineert **autonome agents, een marktplaats voor AI-diensten en veilige data-uitwisseling** in één ecosysteem. Belangrijk om te weten: in **oktober 2025 stapte Ocean Protocol uit de alliantie**, met een openlijk conflict over het beheer van de gezamenlijke middelen als reden. De koers van FET kreeg daar een flinke klap van en OCEAN is weer een losse token. De alliantie gaat door met Fetch.ai en SingularityNET, maar het laat zien hoe snel de situatie bij dit soort samenwerkingen kan veranderen. Doe je huiswerk voordat je instapt.
 
 [› Koop ASI op Finst](/go/finst)
 
@@ -99,7 +99,7 @@ ASI combineert **autonome agents, een marktplaats voor AI-diensten en veilige da
 
 Bittensor is een open protocol voor een **gedecentraliseerd machine-learningnetwerk**. In "subnets" concurreren deelnemers met elkaar om de beste AI-diensten te leveren, en het netwerk beloont wie het meeste bijdraagt.
 
-De TAO-token betaalt validators, subnet-eigenaren en miners. Net als bitcoin heeft TAO een **maximale voorraad van 21 miljoen** en een halvering van de uitgifte, waardoor het project veel aandacht kreeg van durfkapitaal. Bittensor is technisch het meest ambitieuze project in deze lijst, en daarmee ook een van de meest volatiele.
+De TAO-token betaalt validators, subnet-eigenaren en miners. Net als bitcoin heeft TAO een **maximale voorraad van 21 miljoen** en een halvering van de uitgifte. De **eerste halvering vond plaats in december 2025**: de dagelijkse uitgifte ging van 7.200 naar 3.600 TAO. Het project kreeg veel aandacht van durfkapitaal en is technisch het meest ambitieuze in deze lijst, en daarmee ook een van de meest volatiele.
 
 [› Koop Bittensor op Finst](/go/finst)
 

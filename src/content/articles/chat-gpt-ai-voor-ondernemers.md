@@ -119,9 +119,7 @@ Voor de meeste taken hierboven is ChatGPT (of Claude of Gemini) genoeg. Gespecia
 - [Looka](/go/looka): logo en huisstijl laten ontwerpen.
 - [Pictory](/go/pictory): van tekst of lange video's korte social clips maken.
 - [Originality](/go/originality): checken of een tekst door AI is geschreven.
-- [LongShot](/go/longshot) en [Copymatic](/go/copymatic): AI-schrijftools met SEO-workflow.
-
-<!-- TODO: verify this data is still current (bestaan en aanbod van bovenstaande tools, affiliate links) -->
+- [Copymatic](/go/copymatic) en Frase: AI-schrijftools met templates en een SEO-workflow. LongShot, dat hier eerst stond, is [in 2025 gestopt](/blog/review/longshot-ai-review-nederlands/).
 
 De volledige lijst, per categorie, vind je in [mijn overzicht van de beste AI tools](/blog/ondernemen/ai-tools-lijst/).
 
