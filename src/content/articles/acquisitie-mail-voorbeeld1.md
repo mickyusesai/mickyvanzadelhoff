@@ -18,8 +18,7 @@ Om die reden schreef ik ruim tien jaar geleden mijn eerste acquisitie mail. Dat 
 
 In dit artikel leer je hoe je zelf een acquisitie mail schrijft en welke formule hoge conversies oplevert. Je leest welke regels er in 2026 gelden voor koude e-mail aan bedrijven, hoe je AI wél en niet inzet bij het schrijven, met welke tools je verstuurt, en je krijgt mijn allereerste acquisitie mail woord voor woord. Die mail was goed **voor €18.000 extra omzet** ;). Dat zonder ook maar €1 te investeren.
 
-**[Wil je het schrijven van een acquisitie mail liever uitbesteden? Dan vind je hier een betaalbare optie. >>](/go/fiverr-sales-email)**
-<!-- TODO: partnerlink /go/fiverr-sales-email is mogelijk dood: de gig van verkoper 'renshageman' is in september 2026 niet meer te vinden op Fiverr (de verkoper lijkt nu SEO-diensten aan te bieden). Fiverr blokkeert automatische controles, dus zelf even klikken en zo nodig een nieuwe gig kiezen -->
+**[Wil je het schrijven van een acquisitie mail liever uitbesteden? Op Fiverr vind je betaalbare tekstschrijvers die dit voor je doen. >>](/go/fiverr-sales-email)**
 
 ## Waarom wil je klanten krijgen met een koude acquisitie mail?
 

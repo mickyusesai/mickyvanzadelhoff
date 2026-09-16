@@ -81,8 +81,10 @@ header button says "Stuur een WhatsApp".
 7. **Contact** (`/contact/`) — WhatsApp + mail buttons, no form backend (D7).
    **Intake form** (`/intake/`, D27) is the one exception: "Plan een gratis intake" posts to the on-demand
    route `src/pages/api/intake.ts`, which mails Micky through SMTP with nodemailer (env on Railway:
-   `SMTP_USER`, `SMTP_PASS`, optional `SMTP_HOST`/`SMTP_PORT`/`INTAKE_TO`; with Gmail use an app
-   password) and redirects back with `?status=`. Fields: name, company, e-mail, phone, what to automate,
+   `SMTP_USER`, `SMTP_PASS`, optional `SMTP_HOST`/`SMTP_PORT`/`INTAKE_TO`). Micky's mickyvz@live.nl
+   is an Outlook account and Microsoft no longer allows password/app-password SMTP for personal
+   accounts (since Sept 2025), so the sender is his Gmail (mickyvanzadelhoff@gmail.com with an app
+   password) and `INTAKE_TO` stays the live.nl address; the endpoint redirects back with `?status=`. Fields: name, company, e-mail, phone, what to automate,
    what costs time, two proposed moments (45 min, Google Meet); Micky confirms within a day.
 8. **Privacy** (`/privacy/`).
 

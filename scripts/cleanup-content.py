@@ -77,6 +77,15 @@ MANUAL_LINKS = {          # old paths the redirect chain cannot resolve
     '/ondernemen/nft-alpha-jia-ruan-bv/': None,
     '/plaatsen/wonen-en-werken-in-londen-engeland/': '/blog/digitalenomaden/wonen-en-werken-in-londen-engeland/',
 }
+GO_OVERRIDES = {          # affiliate targets that no longer exist (Micky, 2026-09-16): send old /go/ URLs somewhere sane
+    '/go/get-webinarjam': 'https://www.webinarjam.com/',
+    '/go/get-everwebinar': 'https://www.everwebinar.com/',
+    '/go/get-webinarninja': 'https://www.webinarninja.com/',
+    '/go/getresponse': 'https://www.getresponse.com/',
+    # dead Fiverr gigs: keep the affiliate tracking, land on the Fiverr homepage
+    '/go/fiverr-websteksten-schrijven': 'https://go.fiverr.com/visit/?bta=340671&brand=fiverrcpa&landingPage=https%3A%2F%2Fwww.fiverr.com%2F',
+    '/go/fiverr-sales-email': 'https://go.fiverr.com/visit/?bta=340671&brand=fiverrcpa&landingPage=https%3A%2F%2Fwww.fiverr.com%2F',
+}
 OLD_EMAILS = ['mick@demodernenomaden.nl', 'info@demodernenomaden.nl']
 NEW_EMAIL = 'mickyvz@live.nl'
 DOC_EXT = ('.pdf', '.xlsx', '.zip', '.mp4')
@@ -306,7 +315,7 @@ for slug, dst in KEPT_PAGES.items():
 for slug in sorted(ALL_PAGE_SLUGS - set(KEPT_PAGES)):    # retired pages
     add(f'/{slug}/', resolve(f'/{slug}/') or '/')
 for src, tgt in go_links.items():                        # affiliate links
-    add(src, tgt)
+    add(src, GO_OVERRIDES.get(src, tgt))
 for src, tgt in legacy.items():                          # legacy WordPress redirects, re-resolved
     add(src, resolve(src) or '/')
 for src, tgt in other.items():

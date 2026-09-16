@@ -15,7 +15,6 @@ Bezig met het schrijven van webteksten? Dat is niet zomaar iets. Het internet is
 In dit artikel vind je mijn elf tips voor het schrijven van webteksten: van de juiste toon en opbouw tot koppen, links en een call-to-action. Nieuw sinds de vorige versie zijn twee onderwerpen die ik in mijn [AI-workshops](/ai-workshops/) elke week voorbij zie komen: hoe je ChatGPT of Claude verstandig inzet bij het schrijven, en wat de AI-antwoorden van Google betekenen voor je teksten.
 
 **[Het schrijven van webteksten liever uitbesteden? Op Fiverr vind je tal van professionals die dit snel voor jou kunnen doen. >>](/go/fiverr-websteksten-schrijven)**
-<!-- TODO: partnerlink /go/fiverr-websteksten-schrijven is dood: de gig van dorieneising bestaat niet meer, Fiverr stuurt bezoekers door naar de categoriepagina 'Articles & Blog Posts' (301). De tracking via go.fiverr.com werkt nog; kies een nieuwe landingspagina in het Fiverr-partnerprogramma. -->
 
 ## 1. Ken je doelgroep
 

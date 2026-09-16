@@ -206,11 +206,11 @@ Dat maakt Livestorm goedkoop als je een paar grote webinars per jaar geeft, en d
 
 ## 4. WebinarNinja (nu ProProfs WebinarNinja)
 
-### Betalen per deelnemer ([14 dagen gratis trial](/go/get-webinarninja))
+### Betalen per deelnemer ([14 dagen gratis trial](https://www.webinarninja.com/))
 
-[![WebinarNinja](/images/migrated/webinarninja-webinar-software.webp)](/go/get-webinarninja)
+[![WebinarNinja](/images/migrated/webinarninja-webinar-software.webp)](https://www.webinarninja.com/)
 
-[WebinarNinja](/go/get-webinarninja) werd begin 2024 overgenomen door ProProfs en heet nu officieel ProProfs WebinarNinja. De software is nog steeds **overzichtelijk en gebruiksvriendelijk**: je zet in enkele minuten je eerste webinar op zonder technische kennis.
+[WebinarNinja](https://www.webinarninja.com/) werd begin 2024 overgenomen door ProProfs en heet nu officieel ProProfs WebinarNinja. De software is nog steeds **overzichtelijk en gebruiksvriendelijk**: je zet in enkele minuten je eerste webinar op zonder technische kennis.
 
 Met WebinarNinja kun je eenvoudig **branding toevoegen, Q&A's houden en polls plaatsen** tijdens een webinar. Er is een AI-functie die vragen in de chat beantwoordt en je kunt via Stripe betaalde webinars en zelfs complete online cursussen aanbieden (CourseNinja zit erbij).
 
@@ -235,15 +235,14 @@ Met WebinarNinja kun je eenvoudig **branding toevoegen, Q&A's houden en polls pl
 
 ### Prijzen WebinarNinja (2026)
 
-Ook WebinarNinja heeft een [gratis proefperiode van 14 dagen](/go/get-webinarninja). Daarna betaal je niet meer per pakket, maar **per deelnemer**: $0,30 per deelnemer per maand bij jaarlijkse betaling ($0,60 bij maandelijkse betaling). Je kiest zelf het aantal deelnemers bij aanschaf; boven de 1.000 neem je contact op met sales.
+Ook WebinarNinja heeft een [gratis proefperiode van 14 dagen](https://www.webinarninja.com/). Daarna betaal je niet meer per pakket, maar **per deelnemer**: $0,30 per deelnemer per maand bij jaarlijkse betaling ($0,60 bij maandelijkse betaling). Je kiest zelf het aantal deelnemers bij aanschaf; boven de 1.000 neem je contact op met sales.
 
 ![Prijzen WebinarNinja](/images/migrated/prijzen-webinarninja-webinar-software-1.webp "Prijzen WebinarNinja (oude pakketten, ter illustratie)")
 
 Voor 100 deelnemers ben je dus zo'n $30 per maand kwijt: scherp geprijsd voor kleine coaches en trainers.
 
-<!-- TODO: de affiliate-link /go/get-webinarninja (webinarninja.com/1402.html) geeft een foutmelding sinds de overname door ProProfs; nieuwe partnerlink aanvragen of de link naar webinarninja.com laten wijzen -->
 
-[Probeer WebinarNinja](/go/get-webinarninja)
+[Probeer WebinarNinja](https://www.webinarninja.com/)
 
 ## 5. EasyWebinar
 
@@ -475,17 +474,16 @@ De webinarfunctie zit tegenwoordig alleen in het **Creator**-pakket en in Enterp
 
 Met een gratis account kun je on-demand webinars geven voor maximaal 10 kijkers, en er is een proefperiode van 14 dagen.
 
-<!-- TODO: de link /go/getresponse wijst naar een Nederlandse featurepagina die niet meer bestaat en nu doorstuurt naar de homepage van getresponse.com; partnerlink bijwerken -->
 
-[Probeer GetResponse](/go/getresponse)
+[Probeer GetResponse](https://www.getresponse.com/)
 
 ## 12. WebinarJam
 
-### Marketing webinar software ([14 dagen trial voor $1](/go/get-webinarjam))
+### Marketing webinar software ([14 dagen trial voor $1](https://www.webinarjam.com/))
 
 ![Webinarjam](/images/migrated/webinarjam-webinar-software.webp "webinarjam-webinar-software")
 
-[WebinarJam](/go/get-webinarjam) is makkelijk te gebruiken software. Je hebt er geen technische kennis voor nodig. De opzet van een webinar doorloop je met de stappen die al voor je zijn klaargelegd.
+[WebinarJam](https://www.webinarjam.com/) is makkelijk te gebruiken software. Je hebt er geen technische kennis voor nodig. De opzet van een webinar doorloop je met de stappen die al voor je zijn klaargelegd.
 
 Daarbij heeft WebinarJam de optie om direct te streamen naar jouw eigen YouTube-kanaal, maar dan met een wachtwoord, waardoor je er een besloten meeting van kunt maken.
 
@@ -517,17 +515,16 @@ WebinarJam is sinds kort ook per maand te betalen; vroeger kon dat alleen per ja
 
 Je kunt het Basic-pakket 14 dagen uitproberen voor $1, met 30 dagen niet-goed-geld-terug. Let op: automated webinars zitten niet in WebinarJam; daarvoor heb je het zusje EverWebinar nodig.
 
-<!-- TODO: de links /go/get-webinarjam en /go/get-everwebinar (mickyvz.krtra.com) geven een Kartra-foutmelding ('error/referrer'); partnerlinks opnieuw aanmaken in het Genesis Digital/Kartra-partnerprogramma -->
 
-[Probeer WebinarJam](/go/get-webinarjam)
+[Probeer WebinarJam](https://www.webinarjam.com/)
 
 ## 13. EverWebinar
 
-### Voor evergreen/automatische webinars ([14 dagen trial voor $1](/go/get-everwebinar))
+### Voor evergreen/automatische webinars ([14 dagen trial voor $1](https://www.everwebinar.com/))
 
 ![Everwebinar](/images/migrated/everwebinar-webinar-software.webp "everwebinar-webinar-software")
 
-[EverWebinar](/go/get-everwebinar) is een onderdeel van WebinarJam, maar is ook op zichzelf te gebruiken.
+[EverWebinar](https://www.everwebinar.com/) is een onderdeel van WebinarJam, maar is ook op zichzelf te gebruiken.
 
 Ik heb EverWebinar zelf een tijd gebruikt voor **automated webinars**. Deze zijn vooraf opgenomen, maar voelen 'live' aan voor de kijker. Ideaal voor een saleswebinar dat je week na week wilt laten draaien. Een echt live webinar is er **niet van te onderscheiden**, inclusief 'just-in-time' sessies die precies beginnen wanneer iemand de pagina opent.
 
@@ -544,7 +541,7 @@ Ik heb EverWebinar zelf een tijd gebruikt voor **automated webinars**. Deze zijn
 
 ### Prijzen EverWebinar (2026)
 
-[Je kunt EverWebinar 14 dagen uitproberen voor $1](/go/get-everwebinar) met toegang tot alle functies. Daarna hangt de prijs af van de betalingstermijn:
+[Je kunt EverWebinar 14 dagen uitproberen voor $1](https://www.everwebinar.com/) met toegang tot alle functies. Daarna hangt de prijs af van de betalingstermijn:
 
 ![Everwebinar prijzen](/images/migrated/Everwebinar-plans.webp "Everwebinar-plans (oude weergave)")
 
@@ -554,7 +551,7 @@ Ik heb EverWebinar zelf een tijd gebruikt voor **automated webinars**. Deze zijn
 
 Daarmee is EverWebinar een stuk duurder geworden dan WebinarKit of WebinarGeek Premium voor hetzelfde doel. Kies het alleen als je al in WebinarJam werkt.
 
-[Probeer EverWebinar](/go/get-everwebinar)
+[Probeer EverWebinar](https://www.everwebinar.com/)
 
 ## Nieuw in 2026: vier alternatieven die je moet kennen
 
