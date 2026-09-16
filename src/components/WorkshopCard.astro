@@ -8,7 +8,7 @@ const d = workshop.data;
 const violet = variant === 'violet';
 const icon = WORKSHOP_ICONS[d.slug];
 ---
-<a href={`/ai-workshops/${d.slug}/`}
+<a href={d.href ?? `/ai-workshops/${d.slug}/`}
    class:list={['reveal sticker sticker-hover flex flex-col gap-4 p-7 sm:p-8', violet ? 'bg-violet text-white' : 'bg-surface text-ink']}
    data-delay={delay || undefined}>
   <div class="flex items-start justify-between gap-4">

@@ -1,0 +1,291 @@
+---
+export const prerender = true;
+import Layout from '../layouts/Layout.astro';
+import ClientStrip from '../components/ClientStrip.astro';
+import { FACTS, SITE } from '../config/site';
+
+// Briefing 2 (2026-09-15): the fixed-price "Bouwen met Claude Code" week became this service page.
+// Sells the outcome (a working automation, built with the customer's own people), not the tool.
+const intakeUrl = `mailto:${SITE.email}?subject=${encodeURIComponent('Gratis intake AI-automatisering')}`;
+
+const areas = [
+  { icon: 'receipt', title: 'Administratie en facturen', items: [
+    'Inkoopfacturen uitlezen en klaarzetten voor de boekhouding, met een signaal als factuur en bestelling niet matchen',
+    'Pakbonnen automatisch matchen met facturen',
+    'Urenbriefjes van monteurs, ook als ze als WhatsApp-foto binnenkomen, direct in de urenregistratie',
+    'Bonnetjes en declaraties verwerken en controleren',
+  ] },
+  { icon: 'tag', title: 'Verkoop en offertes', items: [
+    'Een offerte genereren uit een telefoonnotitie of een binnengekomen mail, in eigen huisstijl en met de juiste staffelprijzen',
+    'Binnenkomende aanvragen classificeren, in het CRM zetten en voorzien van een vervolgactie',
+    'Tenders en aanbestedingen doorlezen en omzetten naar een checklist met knelpunten',
+  ] },
+  { icon: 'chat', title: 'Klantcontact', items: [
+    'De inbox sorteren en concept-antwoorden klaarzetten. Verzenden blijft bij een mens',
+    'Veelgestelde vragen beantwoorden op basis van jullie eigen handleidingen, niet op basis van wat AI toevallig denkt te weten',
+    'Klachten samenvatten en bij de juiste persoon neerleggen',
+  ] },
+  { icon: 'boxes', title: 'Voorraad en planning', items: [
+    'Bestellijsten op basis van verkoopdata in plaats van op gevoel',
+    'Een concept-rooster of ritplanning waar de planner op doorwerkt',
+    'Kwaliteits- en opleverrapporten uit foto’s van de werkvloer',
+  ] },
+  { icon: 'chart', title: 'Rapportage', items: [
+    'Een wekelijkse managementsamenvatting uit systemen die niet met elkaar praten',
+    'Exports uit het ERP omzetten naar het rapport dat iemand nu elke maandagochtend in elkaar klikt',
+  ] },
+  { icon: 'people', title: 'Personeel', items: [
+    'Vacatureteksten en een eerste beoordeling van binnengekomen sollicitaties',
+    'Vragen over verlof, verzuim en regelingen beantwoorden uit jullie eigen personeelshandboek',
+  ] },
+  { icon: 'megaphone', title: 'Marketing en webshop', items: [
+    'Productteksten uit specsheets, honderden artikelen tegelijk',
+    'De hele catalogus vertalen naar Duits, Engels of Frans',
+    'Social posts uit projectfoto’s',
+  ] },
+  { icon: 'book', title: 'Kennis en documenten', items: [
+    'Alle handleidingen, contracten en normen doorzoekbaar maken, zodat niemand meer door een archiefmap spit',
+    'Lange documenten samenvatten tot wat er voor jullie in staat',
+  ] },
+];
+
+// One line icon per category, same stroke everywhere (briefing §4).
+const icons: Record<string, string> = {
+  receipt: '<path d="M6 3h12v18l-3-2-3 2-3-2-3 2V3z"/><path d="M9 8h6M9 12h6"/>',
+  tag: '<path d="M3 12l9-9h9v9l-9 9-9-9z"/><circle cx="16" cy="8" r="1.5"/>',
+  chat: '<path d="M4 5h16v11H9l-5 4V5z"/><path d="M8 9h8M8 12h5"/>',
+  boxes: '<path d="M3 9h8v8H3zM13 9h8v8h-8zM8 3h8v6H8z"/>',
+  chart: '<path d="M4 20V10M10 20V4M16 20v-8M22 20H2"/>',
+  people: '<circle cx="9" cy="8" r="3.5"/><path d="M2.5 20a6.5 6.5 0 0113 0"/><path d="M16 4.5a3.5 3.5 0 010 7M17.5 14a6 6 0 014 6"/>',
+  megaphone: '<path d="M3 10v4h3l8 5V5L6 10H3z"/><path d="M17 9a4 4 0 010 6"/>',
+  book: '<path d="M4 4h7a3 3 0 013 3v13a2 2 0 00-2-2H4V4z"/><path d="M20 4h-7a3 3 0 00-3 3v13a2 2 0 012-2h8V4z"/>',
+};
+
+const steps = [
+  { title: 'Intake, vrijblijvend', text: 'We bespreken wat je stoort, hoe het werk nu loopt en wat je hoopt te bereiken. Hierna weet je of het zin heeft, en krijg je een offerte met een inschatting van de tijd die nodig is.' },
+  { title: 'Verkennen op de werkvloer', text: 'Ik draai mee en kijk hoe het bij jullie écht gaat. Dit is het moment waarop er dingen bovenkomen waarvan niemand wist dat ze konden. Daarna bepalen we samen wat we wel en niet aan AI overlaten. Dat "niet" is net zo belangrijk: sommige dingen horen bij een mens te blijven.' },
+  { title: 'Bouwen', text: 'Ik bouw het systeem, samen met de mensen die het straks gebruiken. Zij kijken niet toe, ze doen mee. Dat is precies waarom het daarna blijft werken.' },
+  { title: 'In gebruik nemen', text: 'Zodra het staat gaat het gebruikt worden, met echt werk en echte data. Niet als demo, maar in productie.' },
+  { title: 'Verbeteren en overdragen', text: 'Wat in de praktijk schuurt passen we aan. Daarna kijken we vooruit: hoe houd je het scherp, wie beheert het, wat doe je als er iets verandert.' },
+];
+
+const results = [
+  'Een werkende automatisering, tool of applicatie, gebouwd voor jouw bedrijf en jouw manier van werken',
+  'Twee mensen die begrijpen hoe het in elkaar zit en het zelf kunnen bijstellen',
+  '<strong>Een jaar service van mij</strong> voor onderhoud als dat nodig is. Meestal is dat niet nodig, maar je weet dat je niet alleen staat',
+  'Alles staat bij jullie. Geen abonnement bij mij, geen afhankelijkheid',
+];
+
+const faq = [
+  { q: 'Moet ons team technisch zijn?', a: 'Nee. Ik heb zelf geen programmeerachtergrond. Wat wel helpt is iemand die het proces echt kent, want die weet welke uitzonderingen erin zitten.' },
+  { q: 'Werkt dit ook als we nog niets met AI doen?', a: 'Ja. Als je team eerst een gezamenlijke basis wil, is de <a href="/ai-workshops/ai-introductie/" class="font-bold text-violet underline underline-offset-2">AI Introductie</a> van drie uur daar de snelste manier voor.' },
+  { q: 'Van wie is wat we bouwen?', a: 'Van jullie. De code, de toegang, de data. Ik bouw het bij jullie, niet bij mij.' },
+  { q: 'Wat als het over drie maanden stukgaat?', a: 'Daar is de service van een jaar voor. Wat daaronder valt spreken we af in de offerte, omdat het per systeem enorm verschilt.' },
+  { q: 'Gaan er banen verdwijnen?', a: 'Niet in wat ik bouw. Wat verdwijnt is het overtypen, het uitzoeken en het handmatig optellen. De mensen die dat nu doen weten meestal als eerste waar de volgende winst zit.' },
+  { q: 'Kom je ook buiten de Randstad?', a: 'Ik werk door heel Nederland en daarbuiten. Reis- en verblijfkosten staan in de offerte.' },
+];
+---
+<Layout
+  title="AI-automatisering voor jouw bedrijf"
+  description="Ik kom een periode meedraaien binnen je afdeling en automatiseer wat te veel tijd kost. Samen met je eigen mensen, zodat zij er daarna zelf mee verder kunnen."
+>
+  <!-- Hero: copy left, "chaos becomes order" illustration right -->
+  <section class="relative overflow-hidden">
+    <div aria-hidden="true" class="pointer-events-none absolute inset-0 z-0 overflow-hidden">
+      <div class="orb right-[8%] top-8 h-24 w-24 animate-drift [--orb-a:#D4F75B] [--orb-b:#8FBF1C] [--orb-c:#33470C] sm:h-32 sm:w-32"></div>
+    </div>
+    <div class="wrap relative z-10 grid items-center gap-10 py-14 sm:py-20 md:grid-cols-[7fr_5fr]">
+      <div class="grid gap-5">
+        <p class="text-sm font-bold animate-rise"><a href="/ai-workshops/" class="text-violet hover:underline">AI-workshops</a></p>
+        <p class="eyebrow animate-rise [animation-delay:.05s]">Op locatie · in-company</p>
+        <h1 class="max-w-3xl text-[38px] font-extrabold leading-[1.04] tracking-tight animate-rise [animation-delay:.1s] sm:text-[54px]">Ik kom meedraaien en automatiseer wat <span class="highlight">te veel tijd</span> kost.</h1>
+        <p class="max-w-prose text-lg text-muted animate-rise [animation-delay:.2s] sm:text-xl">Geen presentatie over wat AI ooit zou kunnen. Ik kom naar je bedrijf, kijk mee met hoe het werk nu echt gaat, en bouw samen met je eigen mensen een systeem dat het saaiste deel overneemt. Aan het eind draait het, en begrijpen jullie precies hoe het werkt.</p>
+        <div class="flex flex-wrap gap-3 animate-rise [animation-delay:.3s]">
+          <a href={SITE.whatsappUrl} rel="noopener" class="btn btn-primary">Stuur een WhatsApp</a>
+          <a href={intakeUrl} class="btn btn-ghost">Plan een gratis intake</a>
+        </div>
+      </div>
+      <div class="relative mx-auto w-full max-w-[460px] animate-rise [animation-delay:.3s]">
+        <svg viewBox="0 0 520 400" class="h-auto w-full" aria-hidden="true" fill="none" stroke="#17112E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <!-- left: scattered documents -->
+          <g transform="rotate(-14 90 120)"><rect x="50" y="70" width="80" height="100" rx="12" fill="#FFFFFF"/><path d="M66 94h48M66 110h48M66 126h30" stroke="#A78BFA"/></g>
+          <g transform="rotate(11 150 250)"><rect x="110" y="200" width="80" height="100" rx="12" fill="#EDE9FE"/><path d="M126 224h48M126 240h48M126 256h30" stroke="#6D28D9"/></g>
+          <g transform="rotate(-6 70 320)"><rect x="30" y="270" width="80" height="100" rx="12" fill="#FFFFFF"/><path d="M46 294h48M46 310h48M46 326h30" stroke="#A78BFA"/></g>
+          <g transform="rotate(24 200 100)"><rect x="160" y="50" width="80" height="100" rx="12" fill="#F1FBC9"/><path d="M176 74h48M176 90h48M176 106h30" stroke="#6D28D9"/></g>
+          <g transform="rotate(-20 215 200)"><rect x="175" y="150" width="80" height="100" rx="12" fill="#FFFFFF"/><path d="M191 174h48M191 190h48M191 206h30" stroke="#A78BFA"/></g>
+          <!-- the flow: three violet threads converging into one -->
+          <path d="M240 110 C 290 110, 300 200, 350 200" stroke="#6D28D9" stroke-width="3"/>
+          <path d="M255 210 C 300 210, 300 200, 350 200" stroke="#6D28D9" stroke-width="3"/>
+          <path d="M215 320 C 290 320, 300 200, 350 200" stroke="#6D28D9" stroke-width="3"/>
+          <path d="M350 200 H 372" stroke="#6D28D9" stroke-width="3"/>
+          <!-- right: a neat, even stream -->
+          <g>
+            <rect x="380" y="98" width="110" height="40" rx="10" fill="#FFFFFF"/><rect x="392" y="112" width="24" height="12" rx="6" fill="#D4F75B" stroke="none"/><path d="M426 118h48" stroke="#A78BFA"/>
+            <rect x="380" y="152" width="110" height="40" rx="10" fill="#FFFFFF"/><rect x="392" y="166" width="24" height="12" rx="6" fill="#D4F75B" stroke="none"/><path d="M426 172h48" stroke="#A78BFA"/>
+            <rect x="380" y="206" width="110" height="40" rx="10" fill="#FFFFFF"/><rect x="392" y="220" width="24" height="12" rx="6" fill="#D4F75B" stroke="none"/><path d="M426 226h48" stroke="#A78BFA"/>
+            <rect x="380" y="260" width="110" height="40" rx="10" fill="#FFFFFF"/><rect x="392" y="274" width="24" height="12" rx="6" fill="#D4F75B" stroke="none"/><path d="M426 280h48" stroke="#A78BFA"/>
+          </g>
+          <!-- hard offset shadow, sticker-style -->
+          <rect x="386" y="104" width="110" height="196" rx="14" fill="none" stroke="#17112E" stroke-dasharray="4 6" opacity=".35"/>
+        </svg>
+      </div>
+    </div>
+  </section>
+
+  <!-- Recognition -->
+  <section class="wrap py-6 sm:py-10">
+    <div class="reveal sticker grid gap-5 bg-surface p-7 sm:p-10 md:grid-cols-[2fr_3fr] md:gap-10">
+      <h2 class="text-2xl font-bold tracking-tight sm:text-[32px] sm:leading-[1.15]">Bijna elk bedrijf heeft een proces dat niemand meer ter discussie stelt</h2>
+      <div class="grid gap-4 text-lg text-muted">
+        <p>Iemand die elke maandag exports uit drie systemen met de hand aan elkaar plakt. Een postbus waar aanvragen binnenkomen die iemand overtypt in het CRM. Een map met vierhonderd pdf's waar niemand meer iets in terugvindt. Dat werk wordt gedaan omdat het altijd zo gegaan is, niet omdat het zo moet.</p>
+        <p>Het gekke is dat de meeste ondernemers pas tijdens het meekijken ontdekken hoeveel er kan. In de intake noem je één ding dat je stoort. In de week erna komen er vijf bij waarvan je niet wist dat ze weg konden.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- What I take on: eight cards -->
+  <section class="wrap py-14 sm:py-20">
+    <div class="reveal grid max-w-3xl gap-3">
+      <p class="eyebrow">Waar ik mee aan de slag ga</p>
+      <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">Dit is geen menukaart, maar een indruk.</h2>
+      <p class="text-lg text-muted">De vraag is nooit "welke van deze wil je", maar "welke hiervan doet iemand bij jullie nog met de hand".</p>
+    </div>
+    <div class="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+      {areas.map((a, i) => (
+        <div class="reveal sticker flex flex-col gap-4 bg-surface p-6" data-delay={(i % 4) + 1}>
+          <span class="inline-flex h-12 w-12 items-center justify-center rounded-2xl border-2 border-ink bg-lime shadow-sticker-sm" aria-hidden="true">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#17112E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" set:html={icons[a.icon]} />
+          </span>
+          <h3 class="font-display text-lg font-bold leading-snug">{a.title}</h3>
+          <ul class="grid gap-2.5 text-[15px] leading-snug text-muted">
+            {a.items.map((it) => (
+              <li class="flex gap-2"><span class="mt-[9px] h-1.5 w-1.5 flex-none rounded-full bg-violet" aria-hidden="true"></span><span>{it}</span></li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </div>
+    <p class="reveal mt-8 text-lg font-semibold">Staat het er niet bij? <a href={SITE.whatsappUrl} rel="noopener" class="text-violet underline underline-offset-2">App me.</a> De kans is groot dat het toch kan.</p>
+  </section>
+
+  <!-- How it goes: five steps + side box -->
+  <section class="band-dark relative overflow-hidden">
+    <div class="wrap relative z-10 py-16 sm:py-24">
+      <div class="reveal grid gap-3">
+        <p class="eyebrow">Zo ziet zo'n traject eruit</p>
+        <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">Hoe het gaat</h2>
+      </div>
+      <div class="mt-10 grid gap-10 lg:grid-cols-[3fr_2fr] lg:gap-16">
+        <ol class="relative grid gap-8 before:absolute before:bottom-6 before:left-[22px] before:top-6 before:w-[3px] before:bg-violet before:content-['']">
+          {steps.map((s, i) => (
+            <li class="reveal relative grid grid-cols-[46px_1fr] gap-4" data-delay={i + 1}>
+              <span class:list={['relative z-10 inline-flex h-[46px] w-[46px] items-center justify-center rounded-full border-2 border-ink font-display text-lg font-bold', i === 0 ? 'bg-lime text-ink' : 'bg-surface text-ink']}>{i + 1}</span>
+              <div class="pt-2">
+                <h3 class="font-display text-xl font-bold">{s.title}</h3>
+                <p class="mt-2 max-w-prose text-white/80">{s.text}</p>
+              </div>
+            </li>
+          ))}
+        </ol>
+        <aside class="reveal sticker h-fit bg-violet p-6 text-white sm:p-8 lg:sticky lg:top-24" data-delay={2}>
+          <p class="eyebrow text-lime">Ter illustratie</p>
+          <p class="mt-3 text-lg leading-relaxed">Bij een afgebakende automatisering staat het geheel vaak op dag vier voor de lunch, en wordt het diezelfde middag in gebruik genomen. De laatste dag is voor de verbeterronde. Hoeveel tijd jouw vraagstuk kost, bepalen we in de intake.</p>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <!-- Who sits at the table + what you keep -->
+  <section class="wrap py-16 sm:py-24">
+    <div class="grid gap-8 md:grid-cols-2">
+      <div class="reveal sticker grid gap-4 bg-violet-soft p-7 sm:p-9">
+        <p class="eyebrow">Wie erbij zit</p>
+        <h2 class="text-2xl font-bold tracking-tight sm:text-[30px] sm:leading-[1.15]">Twee mensen van jouw kant, meer niet</h2>
+        <p class="text-muted">Iemand die het proces door en door kent, want die weet welke uitzonderingen er in de praktijk zijn. En iemand die hoger in de organisatie zit, want er moeten knopen worden doorgehakt zonder dat we een week op akkoord wachten.</p>
+        <p class="font-semibold">Beiden hoeven niets van techniek te weten. Ik heb zelf geen programmeerachtergrond.</p>
+      </div>
+      <div class="reveal sticker grid gap-4 bg-surface p-7 sm:p-9" data-delay={1}>
+        <p class="eyebrow">Wat je overhoudt</p>
+        <h2 class="text-2xl font-bold tracking-tight sm:text-[30px] sm:leading-[1.15]">Aan het eind staat er iets dat werkt</h2>
+        <ul class="grid gap-3">
+          {results.map((r) => (
+            <li class="flex gap-3">
+              <svg width="22" height="22" viewBox="0 0 20 20" fill="none" aria-hidden="true" class="mt-0.5 flex-none"><path d="M4 10.5l4 4 8-9" stroke="#6D28D9" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              <span set:html={r} />
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- Proof -->
+  <section class="wrap pb-6">
+    <div class="reveal grid gap-6 md:grid-cols-[1fr_2fr] md:items-start">
+      <div class="grid gap-3">
+        <p class="eyebrow">Bewijs</p>
+        <h2 class="text-3xl font-bold tracking-tight">Ik bouw zelf ook</h2>
+        <a href="/over/" class="btn btn-ghost w-fit">Lees mijn verhaal</a>
+      </div>
+      <div class="grid gap-4 text-lg text-muted">
+        <p>Op het kamp dat we elke zomer runnen, telde iemand elke week met de hand natte turflijstjes op om te weten wie wat gedronken had. Ik bouwde er in een paar uur een app voor. Diezelfde zomer bewees hij zich.</p>
+        <p>Datzelfde jaar bracht ik <a href="https://easyreimburse.ai/" rel="noopener" class="font-bold text-violet underline underline-offset-2">EasyReimburse</a> op de markt: deelnemers aan Europese projecten uploaden hun reisbewijzen, AI leest ze uit en de coördinator krijgt een auditklaar rapport. Ruim {FACTS.easyReimburseOrgs.replace('+', '')} organisaties gebruiken het en het scheelt ze per project een volle werkweek.</p>
+        <p class="font-semibold text-ink">Sinds {FACTS.workshopsSince} gaf ik daarnaast {FACTS.workshops} AI-workshops aan meer dan {FACTS.participants.replace('+', '')} mensen.</p>
+      </div>
+    </div>
+  </section>
+  <ClientStrip compact />
+
+  <!-- Price -->
+  <section class="wrap py-16 sm:py-24">
+    <div class="reveal sticker relative overflow-hidden bg-lime p-8 sm:p-12">
+      <div class="relative z-10 grid gap-8 md:grid-cols-[3fr_2fr] md:items-center">
+        <div class="grid gap-4">
+          <p class="eyebrow text-ink">Wat het kost</p>
+          <h2 class="text-2xl font-bold sm:text-[36px] sm:leading-[1.1]">Elk bedrijf is anders, dus een vaste prijs zou een slag in de lucht zijn.</h2>
+          <p class="max-w-prose text-ink/80">Ik werk op basis van een uurtarief. Na de intake krijg je een offerte met een inschatting van de benodigde tijd, zodat je vooraf weet waar je aan toe bent. De intake is gratis en verplicht je tot niets.</p>
+          <div class="flex flex-wrap gap-3">
+            <a href={intakeUrl} class="btn btn-primary">Plan een gratis intake</a>
+            <a href={SITE.whatsappUrl} rel="noopener" class="btn btn-ghost">Stuur een WhatsApp</a>
+          </div>
+        </div>
+        <div class="sticker grid gap-1 bg-surface p-6 text-center sm:p-8">
+          <p class="font-display text-[44px] font-bold leading-none text-violet sm:text-[56px]">€150</p>
+          <p class="text-sm font-bold uppercase tracking-[0.14em] text-muted">per uur, excl. btw</p>
+          <p class="mt-3 text-sm text-muted">Offerte na een gratis intake. Een jaar service inbegrepen.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="wrap pb-16 sm:pb-24">
+    <div class="reveal grid gap-3">
+      <p class="eyebrow">Veelgestelde vragen</p>
+      <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">Wat ondernemers me eerst vragen</h2>
+    </div>
+    <dl class="mt-8 grid gap-5 md:grid-cols-2">
+      {faq.map((f, i) => (
+        <div class="reveal sticker bg-surface p-6" data-delay={(i % 2) + 1}>
+          <dt class="font-display text-lg font-bold leading-snug">{f.q}</dt>
+          <dd class="mt-2 text-muted" set:html={f.a} />
+        </div>
+      ))}
+    </dl>
+  </section>
+
+  <!-- Closing CTA -->
+  <section class="wrap pb-16 sm:pb-24">
+    <div class="reveal sticker relative overflow-hidden bg-violet p-8 text-white sm:p-12">
+      <div aria-hidden="true" class="orb right-[6%] top-1/2 hidden h-24 w-24 -translate-y-1/2 animate-drift [--orb-a:#D4F75B] [--orb-b:#8FBF1C] [--orb-c:#33470C] md:block"></div>
+      <div class="relative z-10 grid max-w-2xl gap-4">
+        <h2 class="text-2xl font-bold sm:text-[36px] sm:leading-[1.1]">Welk proces kost bij jullie te veel tijd?</h2>
+        <p class="max-w-prose text-white/80">Je hoeft het niet uitgedacht te hebben. Eén berichtje met wat je stoort is genoeg om te bepalen of er iets te halen valt.</p>
+        <div class="flex flex-wrap gap-3">
+          <a href={SITE.whatsappUrl} rel="noopener" class="btn btn-lime">Stuur een WhatsApp</a>
+          <a href={`mailto:${SITE.email}`} class="btn btn-ghost border-white text-white hover:bg-white/10">Mail Micky</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>

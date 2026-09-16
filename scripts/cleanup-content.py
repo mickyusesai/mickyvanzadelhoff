@@ -317,6 +317,8 @@ for name in download_files:                              # old upload URLs for d
             add(r['source'], '/downloads/' + name)
 add('/e-book/digital-nomad', '/downloads/Digital-Nomad-Boek.pdf')
 add('/e-book/online-geld-verdienen', '/downloads/Online-Geld-Verdienen-2021-E-book.pdf')
+# Briefing 2 (2026-09-15): the fixed-price bouwweek became the custom service page /automatisering/.
+add('/ai-workshops/bouwen-met-claude-code/', '/automatisering/')
 add('/feed', '/rss.xml'); add('/sitemap_index.xml', '/sitemap-index.xml'); add('/post-sitemap.xml', '/sitemap-index.xml'); add('/page-sitemap.xml', '/sitemap-index.xml')
 
 os.makedirs('src/data', exist_ok=True)

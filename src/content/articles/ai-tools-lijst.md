@@ -388,7 +388,7 @@ Als ex-webdesigner kon ik er uren mee bezig zijn: een website bouwen die lijkt o
 
 ![Homepage van Claude Code](/images/tools/claude-code.webp "Claude Code")
 
-Dit is de tool die mijn eigen manier van werken het meest heeft veranderd. Claude Code werkt in gewone taal: je beschrijft wat je wilt ("lees deze bonnetjes uit en zet ze in een spreadsheet") en het bouwt, test en past aan. Zo bouwde ik [EasyReimburse](https://easyreimburse.ai/), en het is de tool waarmee we in mijn [bouwweek](/ai-workshops/bouwen-met-claude-code/) automatiseringen voor bedrijven maken.
+Dit is de tool die mijn eigen manier van werken het meest heeft veranderd. Claude Code werkt in gewone taal: je beschrijft wat je wilt ("lees deze bonnetjes uit en zet ze in een spreadsheet") en het bouwt, test en past aan. Zo bouwde ik [EasyReimburse](https://easyreimburse.ai/), en het is de tool waarmee we in mijn [automatiseringstrajecten](/automatisering/) automatiseringen voor bedrijven maken.
 
 [Ga naar Claude Code](https://claude.com/claude-code)
 

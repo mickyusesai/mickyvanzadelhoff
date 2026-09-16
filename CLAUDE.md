@@ -58,20 +58,28 @@ Navigation is AI-workshops · Over Micky · Blog · Contact (the book is in the 
 header button says "Stuur een WhatsApp".
 1. **Homepage** (`/`) — Micky's photo, the two AI workshops, client logos ("Gaf workshops bij"),
    stat bar, "Ik bouw wat ik anderen leer bouwen" with a workshop photo, free book, recent posts.
-2. **AI-workshops** (`/ai-workshops/`) — Hub. One page per workshop at `/ai-workshops/[slug]/`,
-   built from `src/content/workshops/*.md`: `ai-introductie` (3 h, €1.500) and
-   `bouwen-met-claude-code` (5 days, max 3 people, €7.500). Adding a workshop = adding a file.
-3. **About** (`/over/`) — Built directly in `over.astro` from the briefing: hero with workshop photo,
+2. **AI-workshops** (`/ai-workshops/`) — Hub with two cards from `src/content/workshops/*.md`:
+   `ai-introductie` (3 h, €1.500, rendered at `/ai-workshops/ai-introductie/`) and `automatisering`
+   (the card for the custom service; its `href` points to `/automatisering/`, so no page is built
+   under `/ai-workshops/`). Adding a workshop = adding a file; an entry with `href` is card-only.
+3. **AI-automatisering** (`/automatisering/`) — Custom service page built in `automatisering.astro`
+   from Micky's briefing 2 (2026-09-15, decision D26): he works alongside a department and automates
+   what costs too much time, with two of the customer's own people; €150 per hour excl. btw, offerte
+   after a free intake (a mail link), one year of service included. Sells the outcome, not the tool.
+   Inline SVG hero, eight areas with line icons, five-step timeline, FAQ. The old
+   `/ai-workshops/bouwen-met-claude-code/` answers 301 (added in `scripts/cleanup-content.py`).
+   Never write "€7.500", "5 dagen" or "bouwweek" again.
+4. **About** (`/over/`) — Built directly in `over.astro` from the briefing: hero with workshop photo,
    stat bar, client logos, "nat turflijstje" story, EasyReimburse, the "AI werkt niet bestaat niet"
    stance with the big quote, "Waar ik vandaan kom" with a compact press row, coffee CTA. The old
    `src/content/pages/over-mij.md` is no longer rendered. No separate EasyReimburse or Erasmus+
    pages (decisions D9, D10).
-4. **Book** (`/boek/`) — Free book, **direct PDF download** at `/downloads/Digital-Nomad-Boek.pdf`.
+5. **Book** (`/boek/`) — Free book, **direct PDF download** at `/downloads/Digital-Nomad-Boek.pdf`.
    No email capture (D6).
-5. **Blog** (`/blog/`) — Secondary in navigation. Category `web3` is kept online but hidden from
+6. **Blog** (`/blog/`) — Secondary in navigation. Category `web3` is kept online but hidden from
    the homepage and blog overview (D3); see `HIDDEN_FROM_LISTINGS` in `src/config/site.ts`.
-6. **Contact** (`/contact/`) — WhatsApp + mail buttons, no form backend (D7).
-7. **Privacy** (`/privacy/`).
+7. **Contact** (`/contact/`) — WhatsApp + mail buttons, no form backend (D7).
+8. **Privacy** (`/privacy/`).
 
 ### Blog / content:
 - Individual articles: `/blog/[category]/[slug]/`
