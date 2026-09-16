@@ -18,9 +18,7 @@ Kort samengevat: Finst rekent **0,15% handelskosten zonder spread**, biedt **mee
 
 ![bitcoin-logo-to-the-moon-rocket-finst-crypto-exchange](/images/migrated/bitcoin-logo-to-the-moon-rocket-finst-crypto-exchange.webp "bitcoin-logo-to-the-moon-rocket-finst-crypto-exchange")
 
-**[Nog geen account? Via deze link meld je je gratis aan bij Finst. Nieuwe klanten krijgen een welkomstactie, die wisselt per maand.](/go/finst)**
-
-<!-- TODO: verify welke welkomstactie de /go/finst-link op dit moment draagt (sept 2026: €20 in BTC met code FINST20 bij €1.000 handelsvolume, of de eerste €10.000 twee weken gratis handelen via de partnerpagina). Pas de zin hierboven aan als de actie verandert. -->
+**[Nog geen account? Via deze link meld je je gratis aan bij Finst. Tot en met 30 september 2026 krijgen nieuwe klanten €20 in Bitcoin met de promotiecode FINST20, zodra ze voor €1.000 hebben gehandeld. De welkomstactie wisselt regelmatig.](/go/finst)**
 
 ## 1. Wat is Finst en hoe koop je je eerste crypto?
 
@@ -53,7 +51,7 @@ In het verleden zijn er genoeg exchanges geweest die er met het geld van klanten
 
 *   **MiCA-vergunning van de AFM.** Sinds 24 juli 2025 heeft Finst een vergunning als aanbieder van cryptodiensten onder de Europese MiCA-verordening (vergunningnummer 41000015). Dat is een flinke stap ten opzichte van de oude DNB-registratie, die op 30 juni 2025 is vervallen: MiCA stelt eisen aan kapitaal, klantbescherming en transparantie, en de AFM houdt er toezicht op. Met die vergunning mag Finst in de hele EU actief zijn.
 *   **Je euro's staan apart.** Fiatgeld wordt één op één bewaard bij bunq en ING, via de Stichting Finst Custody, gescheiden van het vermogen van Finst zelf. Gaat Finst failliet, dan is jouw geld geen onderdeel van de boedel.
-*   **Proof of Reserves.** Finst was in 2023 het eerste Nederlandse cryptoplatform dat een onafhankelijke audit liet doen die bevestigt dat alle klanttegoeden één op één aanwezig zijn. Het rapport op hun site is nog dat uit augustus 2023. <!-- TODO: verify of er een recentere Proof of Reserves-audit is gepubliceerd -->
+*   **Proof of Reserves.** Finst was in 2023 het eerste Nederlandse cryptoplatform dat een onafhankelijke audit liet doen die bevestigt dat alle klanttegoeden één op één aanwezig zijn. Het rapport op hun site is nog dat uit augustus 2023.
 *   **KVK-nummer 85668117**, gevestigd aan de Herengracht 454 in Amsterdam.
 
 ![kvk-nummer-finst](/images/migrated/kvk-nummer-finst-1.webp "kvk-nummer-finst")
@@ -153,7 +151,7 @@ Met waarde bedoel ik niet de prijs van één Bitcoin, maar de totale waarde (**m
 >
 > **De market cap zegt veel meer over de groeipotentie van een munt dan de prijs. Wie denkt dat een munt van 'maar' 12,50 euro heel veel kan stijgen, vergeet dat er misschien miljarden van zijn.**
 
-Bitcoin is zo groot dat er vaak naar de **Bitcoin-dominantie** wordt gekeken: het aandeel van Bitcoin in de totale cryptomarkt. In september 2026 ligt dat rond de 59%. Er zit dus meer geld in Bitcoin dan in alle andere munten bij elkaar. <!-- TODO: verify this data is still current -->
+Bitcoin is zo groot dat er vaak naar de **Bitcoin-dominantie** wordt gekeken: het aandeel van Bitcoin in de totale cryptomarkt. In september 2026 ligt dat rond de 59%. Er zit dus meer geld in Bitcoin dan in alle andere munten bij elkaar.
 
 Bitcoin wordt waarschijnlijk geen alledaags betaalmiddel: de transactiekosten zijn daarvoor te hoog en het netwerk is er niet voor gemaakt. Wat Bitcoin wel is, is een **waardeopslag**, het digitale goud, waar investeerders naartoe gaan om inflatie te ontlopen. Handelen in Bitcoin kan als beginner, maar zie het vooral als iets **voor de lange termijn**.
 
@@ -230,7 +228,7 @@ Je zet staking aan in de instellingen van [je Finst-account](/go/finst). Belangr
 In september 2026 kun je op Finst **15 munten staken**. De geschatte jaarlijkse rendementen op dat moment:
 
 *   Cosmos (ATOM) **~10,0%**
-*   Toncoin (TON) **~9,0%**
+*   Gram (GRAM, voorheen Toncoin) **~9,0%**
 *   Kusama (KSM) **~7,0%**
 *   Injective (INJ) **~3,4%**
 *   Tezos (XTZ) **~3,1%**
@@ -244,8 +242,6 @@ In september 2026 kun je op Finst **15 munten staken**. De geschatte jaarlijkse 
 *   Ethereum (ETH) **~1,5%**
 *   Polkadot (DOT) **~1,25%**
 *   Cardano (ADA) **~1,2%**
-
-<!-- TODO: verify this data is still current -->
 
 De percentages veranderen zonder aankondiging, dus check de actuele stand in de app. En nogmaals: staking valt buiten het MiCA-toezicht. Het is een extraatje op munten die je toch al voor langere tijd wilt houden, geen reden om een munt te kopen.
 
@@ -273,8 +269,6 @@ Ter vergelijking, per €1.000 aan aankoop (cijfers van Finst zelf, juli 2026):
 *   **Bitvavo** 0,25% met een marktorder → **€2,50**
 
 ![Transactiekosten finst vergelijking](/images/migrated/transactiekosten-finst-vergelijking-1.webp "transactiekosten-finst-vergelijking")
-
-<!-- TODO: verify this data is still current -->
 
 Koop je een keer voor 100 euro, dan merk je het verschil nauwelijks. Handel je elke maand, of leg je grotere bedragen in, dan tikt het aan. Voor de meeste Nederlandse gebruikers is [Finst](/go/finst) daarmee de goedkoopste keuze. Een uitgebreidere vergelijking vind je in mijn overzicht van [Nederlandse crypto exchanges](/blog/web3/beste-crypto-exchange/).
 
@@ -328,7 +322,7 @@ De Nederlandstalige support, staking zonder lock-up, auto invest en de bundels m
 
 #### Welke munten heeft Finst?
 
-Meer dan 400, te handelen in euro's en USDC. Onder andere Bitcoin, Ethereum, Solana, Ripple, Cardano, Dogecoin, Chainlink, Avalanche, Polkadot, Tron, Toncoin, Stellar, Litecoin, Cosmos, NEAR, Render, Uniswap, Hedera, Shiba Inu en Pepe. Er komen maandelijks munten bij; het volledige aanbod staat op de site van [Finst](/go/finst).
+Meer dan 400, te handelen in euro's en USDC. Onder andere Bitcoin, Ethereum, Solana, Ripple, Cardano, Dogecoin, Chainlink, Avalanche, Polkadot, Tron, Gram (voorheen Toncoin), Stellar, Litecoin, Cosmos, NEAR, Render, Uniswap, Hedera, Shiba Inu en Pepe. Er komen maandelijks munten bij; het volledige aanbod staat op de site van [Finst](/go/finst).
 
 #### Is Finst veilig?
 

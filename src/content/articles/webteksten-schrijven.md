@@ -1,8 +1,8 @@
 ---
 title: "Webteksten schrijven – Schrijven voor het internet als een pro"
-description: "Bezig met het schrijven van webteksten? Dat is niet zomaar iets. Het internet is als een volle zandbak (met meer dan 1,7 miljard websites) waarin je…"
+description: "Elf tips voor webteksten die mensen én Google lezen, plus wat ChatGPT, Claude en de AI-antwoorden van Google in 2026 veranderen aan schrijven voor het web."
 date: 2019-10-05
-updated: 2022-02-20
+updated: 2026-09-16
 category: "ondernemen"
 slug: "webteksten-schrijven"
 lang: "nl"
@@ -10,77 +10,107 @@ draft: false
 featuredImage: "/images/headers/webteksten-schrijven.webp"
 ---
 
-Bezig met het schrijven van webteksten? Dat is niet zomaar iets. Het internet is als een volle zandbak (met meer dan 1,7 miljard websites) waarin je probeert op te vallen. Goede webteksten zijn daar het middel voor. Wetende dat maar liefs 55% van de mensen een website al binnen 15 seconden weer verlaat kun je eigenlijk niet om de essentie van webteksten heen. Een goede webtekst moet de aandacht namelijk al binnen een paar seconde hebben gepakt als je wilt dat de website bezoeker de tekst uitleest. Daarom vind je in dit artikel tips voor het schrijven van webteksten.
+Bezig met het schrijven van webteksten? Dat is niet zomaar iets. Het internet is een overvolle zandbak: Netcraft telde in juli 2026 bijna 1,5 miljard websites, waarvan ruim 200 miljoen actief. Daartussen probeer jij op te vallen, bij lezers die binnen een paar seconden beslissen of ze doorlezen of wegklikken. Goede webteksten zijn het middel om die paar seconden te winnen.
+
+In dit artikel vind je mijn elf tips voor het schrijven van webteksten: van de juiste toon en opbouw tot koppen, links en een call-to-action. Nieuw sinds de vorige versie zijn twee onderwerpen die ik in mijn [AI-workshops](/ai-workshops/) elke week voorbij zie komen: hoe je ChatGPT of Claude verstandig inzet bij het schrijven, en wat de AI-antwoorden van Google betekenen voor je teksten.
 
 **[Het schrijven van webteksten liever uitbesteden? Op Fiverr vind je tal van professionals die dit snel voor jou kunnen doen. >>](/go/fiverr-websteksten-schrijven)**
 
 ## 1. Ken je doelgroep
 
-Wanneer je weet voor wie je schrijft kun je pas weten hoe je schrijft. Het verschilt enorm per branche wat een goede schrijfstijl is, noem het de tone-of-voice. Te vaak zie ik websites die super formeel taalgebruik toepassen waar dat helemaal niet nodig is. Sterker nog, het is niet alleen onnodig, het schrikt de lezer ook af. Een goede webtekst schrijft richting de doelgroep zoals deze graag wordt aangesproken.
+Wanneer je weet voor wie je schrijft, weet je pas hoe je schrijft. Wat een goede schrijfstijl is, verschilt enorm per branche; noem het de tone of voice. Te vaak zie ik websites met superformeel taalgebruik waar dat helemaal niet nodig is. Het is niet alleen onnodig, het schrikt de lezer ook af. Een goede webtekst spreekt de doelgroep aan zoals die graag wordt aangesproken.
 
-Dat begint bij het verschil tussen ‘u’ en ‘jij’. Met het begin van het internet was de u-vorm zwaar overheersend. Tegenwoordig zie je al dat bijna iedere website ‘jij’ gebruikt. Vraag dat dan ook voor jezelf af. Hoe spreek jij jouw doelgroep aan wanneer je in direct contact met hen bent (bijvoorbeeld in een winkel)? Gebruik dezelfde tone-of-voice online en je weet zeker dat je schrijfstijl aansluit.
+Dat begint bij het verschil tussen 'u' en 'jij'. In de begintijd van het internet was de u-vorm overheersend. Tegenwoordig gebruikt bijna iedere website 'jij', deze ook. Vraag jezelf af: hoe spreek jij je doelgroep aan als je direct contact hebt, bijvoorbeeld in de winkel of aan de telefoon? Gebruik online dezelfde toon en je weet zeker dat je schrijfstijl aansluit.
 
-Buiten ‘u’ en ‘jij’ gaat dit nog wat verder. Schrijf exact zoals je een bezoeker ook offline aan zou spreken. Voor velen is dit moeilijk. Het kan dan ook helpen om letterlijk een klantgesprek op te nemen en uit te typen. Zo’n transcript komt op een website nog het meest natuurlijk over en dit geeft de website bezoeker een vertrouwt gevoel.
+Het gaat verder dan 'u' of 'jij'. Schrijf zoals je een bezoeker ook offline zou aanspreken. Voor velen is dat moeilijk. Wat helpt: neem een klantgesprek op (met toestemming) en laat ChatGPT of Claude het uittypen en samenvatten. De woorden waarmee je klant zijn probleem omschrijft, zijn de woorden die op je website horen. Zo'n tekst komt natuurlijk over en geeft de bezoeker een vertrouwd gevoel.
 
 ## 2. Bewaar details voor het eind
 
-Wanneer mensen aan een webtekst beginnen is het fijn om niet gelijk de diepte in te duiken. Het kan goed zijn om juist aan het begin de wat bredere informatie van jouw bedrijf neer te zetten. Hoe verder de webtekst wordt doorgelezen hoe dieper je kunt gaan omtrent details.
+Wanneer mensen aan een webtekst beginnen, is het fijn om niet gelijk de diepte in te duiken. Zet aan het begin juist de bredere informatie over je bedrijf neer. Hoe verder iemand leest, hoe dieper je de details in kunt.
 
-Het te vroeg vertellen van details in een webtekst, laat mensen afhaken. Zo komen bij mijn verkooppagina’s de details van wat ik verkoop pas aan het einde. De webtekst begint gewoonweg bij waar een training of seminar over gaat. Pas aan het eind komen data en kosten aan bod. Daarmee voorkom ik dat de lezer al afhaakt zonder dat deze weet of wat ik te bieden heb interessant is voor hem of haar.
+Te vroeg details vertellen laat mensen afhaken. Op mijn verkooppagina's komen de details van wat ik verkoop dan ook pas aan het einde. De tekst begint bij waar een [workshop](/ai-workshops/) over gaat en wat die oplevert; pas aan het eind komen duur en kosten aan bod. Zo voorkom ik dat de lezer afhaakt voordat hij weet of mijn aanbod interessant voor hem is.
 
-## 3. Goede webteksten schijven doe je actief
+## 3. Goede webteksten schrijf je actief
 
-Zorg dat de lezer van jouw webteksten zich aangesproken voelt. Praat dus in de actieve vorm. Zeg dus niet ‘producten kunnen worden besteld op onze website’, maar ‘je kunt producten bestellen op onze website’. Die laatste is een actieve vorm.
+Zorg dat de lezer van je webteksten zich aangesproken voelt. Schrijf dus in de actieve vorm. Niet 'producten kunnen worden besteld op onze website', maar 'je kunt producten bestellen op onze website'.
 
-Er wordt in de wereld van het webteksten schijven ook vaak gesproken over het praten over je klant in plaats van over jezelf. En dat is best een moeilijk. Veel websites beginnen al fout. Zij openen dan met zoiets als ‘wij hebben de beste keukens’. Dat is een statement over het bedrijf zelf en niet over de klant. Hoe je die zin beter zou kunnen formuleren is ‘de beste plek voor jouw keuken’. Nu gaat de tekst over de bezoeker. Dat komt in de basis al minder arrogant over en spreekt een bezoeker daadwerkelijk aan.
+In de wereld van het webteksten schrijven gaat het ook vaak over praten over je klant in plaats van over jezelf. En dat is best moeilijk. Veel websites beginnen al fout, met zoiets als 'wij hebben de beste keukens'. Dat is een uitspraak over het bedrijf, niet over de klant. Beter is 'de beste plek voor jouw keuken'. Nu gaat de tekst over de bezoeker. Dat komt minder arrogant over en spreekt de bezoeker daadwerkelijk aan.
 
-## 4. Leg je USP’s uit
+## 4. Leg je USP's uit
 
-Oké, eerst even dit. Een USP is een Unique Selling Point. En een Unique Selling Point is iets wat jouw bedrijf onderscheid van de concurrent. Het belang daarvan valt niet te onderschatten. In jouw webteksten kun je USP’s gebruiken om de lezer te laten weten waarom jij ‘beter’ bent dan de andere partijen in de markt. Het zijn redenen waarom een klant voor jouw bedrijf kiest. Maar het gaat vaak fout met het schrijven van USP’s. Dat kan ik beste uitleggen aan de hand van een voorbeeld. Zo kwam ik deze USP’s op de website van een bouwbedrijf tegen:
+Oké, eerst even dit. Een USP is een Unique Selling Point: iets wat jouw bedrijf onderscheidt van de concurrent. In je webteksten gebruik je USP's om de lezer te laten weten waarom jij 'beter' bent dan de andere partijen in de markt. Maar het gaat vaak fout met het schrijven ervan. Zo kwam ik deze USP's tegen op de website van een bouwbedrijf:
 
 *   Klantgericht
 *   Netjes
 *   Allround
 
-Op zich prima USP’s, maar je kunt begrijpen dat er geen klant is die hier wat mee kan. De lezer kan er gewoonweg niet uit opmaken wat dat voor hem of haar betekent. En daar ligt een belangrijke stap. Zorg ervoor dat je jouw USP’s uitlegt aan de klant zodat deze de uitleg niet zelf hoeft in te vullen. Dit doe je door bovenstaande USP’s als volgt te beschrijven:
+Op zich prima USP's, maar geen klant kan hier iets mee. De lezer kan er niet uit opmaken wat dat voor hem of haar betekent. Leg je USP's dus uit, zodat de klant de uitleg niet zelf hoeft in te vullen:
 
-*   Klantgericht: Bij aankomst maken we altijd eerst even een praatje, dan bespreken we samen wat er gaat gebeuren, dat is wel zo betrouwbaar.
-*   Netjes: Sommige klussen kunnen wat troep veroorzaken. Maar wees gerust, ik ga nooit weg voordat alles netjes is opgeruimd.
-*   Allround: Je wilt natuurlijk niet voor ieder klein klusje een andere klusjesman moeten huren. Daarom ben ik allround en kan ik met bijna alles aan de slag.
+*   Klantgericht: bij aankomst maken we eerst even een praatje en bespreken we samen wat er gaat gebeuren. Dat is wel zo betrouwbaar.
+*   Netjes: sommige klussen veroorzaken wat troep. Maar wees gerust, ik ga nooit weg voordat alles netjes is opgeruimd.
+*   Allround: je wilt niet voor ieder klein klusje een andere klusjesman moeten huren. Daarom kan ik met bijna alles aan de slag.
 
-Natuurlijk begrijpt de schrijver van die eerste USP’s wel wat hij ermee bedoelt, maar het gaat hier om de klant. Wat heeft die eraan? Als je dat bij je USP weet aan te vullen ben je duidelijker en tegelijk meer onderscheidend. Want verder kan natuurlijk iedereen wel zeggen dat die kwaliteit, snelheid en ervaring aanbiedt. Maar het is nietszeggend.
+De schrijver van die eerste USP's begrijpt natuurlijk wat hij ermee bedoelt, maar het gaat om de klant. Wat heeft die eraan? Vul dat aan en je bent duidelijker én onderscheidender. Iedereen kan immers zeggen dat hij kwaliteit, snelheid en ervaring biedt; het is nietszeggend. Meer inspiratie vind je in mijn [USP-voorbeelden](/blog/ondernemen/usp-voorbeelden-unique-selling-point/).
 
 ## 5. De opbouw van een webtekst
 
-Ook een webtekst moet globaal te lezen zijn. Dit doe je door bij het schrijven van webteksten, gebruik te maken van titels. Eigenlijk net zoals je dat bij een offline document zou doen. Het enige verschil is dat je nu niet gebruik maakt van slechts een groter lettertype, maar van H1, H2 en H3. Hiermee kun je het belang van een titel aangeven. Zet de kop van je tekst in H1 en gebruik voor tussenkopjes H2. Dat is ook op deze pagina zo gedaan. Kleinere punten die je minder wilt laten opvallen maar die wel een titel verdienen kun je de H3 tag geven.
+Ook een webtekst moet te scannen zijn. Dat doe je met koppen, net als in een offline document. Het verschil is dat je online niet alleen een groter lettertype gebruikt, maar de H1-, H2- en H3-tags. De titel van je pagina is de H1, tussenkoppen zijn H2 en kleinere punten die wel een kop verdienen krijgen H3. Zo is het ook op deze pagina gedaan.
 
-Het belang van al die H-tjes is best groot. Want Google scant jouw webteksten en H-tjes op wat daarin staat en kan daaruit afleiden wat het onderwerp is van de webpagina. En dat zorgt dan weer voor een betere ranking in Google en meer website bezoekers. Zorg dus ook zeker dat jouw zoekwoorden in de titels terug komen. Dat is dan ook direct handig voor de lezer.
+Het belang van die H-tjes is groot. Google leest je koppen om te bepalen waar de pagina over gaat. En sinds Google zelf antwoorden schrijft (daarover straks meer) geldt dat dubbel: een duidelijke kop met daaronder direct het antwoord is precies wat zo'n AI-samenvatting overneemt. Zorg dus dat je zoekwoorden in de koppen terugkomen. Dat is meteen handig voor de lezer.
 
-Extra tip: Wil je een lange webtekst aan lezers voorschotelen? Uit onderzoek is gebleken dat de kans dat iemand een tekst uitleest groter is wanneer je de titels nummers. Ook dat is gedaan in dit artikel dat je nu leest.
+Extra tip: bij lange webteksten nummer ik mijn koppen, zoals in dit artikel. De lezer ziet hoeveel er nog komt en dat maakt doorlezen makkelijker.
 
-## 6. Visueel vs tekst
+## 6. Beeld en tekst
 
-Zo’n 90% van wat mensen tot zich nemen is visueel. Afbeeldingen zijn immers sneller te interpreteren dan tekst. Staar je dus niet te lang blind op een webtekst wanneer een afbeelding meer zou zeggen. Zorg voor een juiste balans tussen tekst en beeld. Het maakt je tekst makkelijker leesbaar wanneer deze zo nu en dan door een afbeelding wordt onderbroken.
+Een afbeelding is sneller te begrijpen dan een alinea tekst. Staar je dus niet blind op een webtekst als een foto, schema of screenshot meer zegt. Zorg voor een balans: een lange tekst leest makkelijker als die af en toe door een afbeelding wordt onderbroken.
+
+Gebruik wel echte beelden. Een foto van jou, je team of je werk zegt meer dan een stockfoto of een generiek AI-plaatje, en het is precies het soort bewijs van eigen ervaring waar Google steeds zwaarder aan tilt.
 
 ## 7. Webteksten schrijven met linkjes
 
-Een groot verschil tussen een webtekst en een offline tekst, is dat je in een webtekst door kunt linken naar andere artikelen. Doe dat dus ook zeker. Link vanuit je webteksten door naar relevante artikelen of pagina’s op je website. Op die manier ontstaat er een soort digitaal spinnenweb dat een bezoeker helpt zichzelf te navigeren.
+Een groot verschil tussen een webtekst en een offline tekst is dat je in een webtekst kunt doorlinken naar andere artikelen. Doe dat dus ook. Link vanuit je webteksten naar relevante artikelen of pagina's op je website. Zo ontstaat een digitaal spinnenweb dat de bezoeker helpt zichzelf te navigeren.
 
-Zeker in het huidige tijdperk is dat spinnenweb van linkjes belangrijk. Waar op de website waar je nu bent zo’n 70% van de bezoekers al via mobiel komt, zijn linkjes in de tekst essentieel. Mobiel wordt het menu namelijk vele malen minder gebruikt, dan bij desktop gebruikers. Door linken vanuit de tekst zorgt er dan voor dat bezoekers langer op mijn website blijven en doorlezen.
+Zeker nu is dat spinnenweb belangrijk. In Nederland komt bijna 55% van het webverkeer via mobiel (StatCounter, augustus 2026), en op mobiel wordt het menu veel minder gebruikt dan op desktop. Links in de tekst zorgen ervoor dat bezoekers langer op je website blijven en doorlezen.
 
 ## 8. Call-to-action
 
-Ken je dat, dat je helemaal warm bent gemaakt op een website voor een product of dienst maar dat je geen idee hebt wat je te doen staat en daardoor afkoelt en de website verlaat? Misschien kun je je niet direct zo’n situatie bedenken, maar op het internet gebeurt het nog te vaak. Zorg dus dat je met het schrijven van een webtekst rekening houd met wat het doel ervan is.
+Ken je dat? Je bent op een website helemaal warm gemaakt voor een product of dienst, maar je hebt geen idee wat je nu moet doen. Je koelt af en verlaat de website. Op het internet gebeurt het nog steeds te vaak. Houd bij het schrijven van een webtekst dus rekening met het doel ervan.
 
-Wat wil je dat de lezer na het lezen van de tekst gaat doen? Zorg dat je daarnaartoe schrijft en dat er aan het einde van de tekst een duidelijke call-to-action is. Dat kan door aan het einde van de tekst een button te plaatsen of door te linken naar wat voor jou relevant is. Call-to-actions kunnen zoiets zijn als ‘download’, ‘lees meer’, ‘koop nu’, ‘vraag offerte aan’ of ‘neem contact op’.
+Wat wil je dat de lezer na het lezen gaat doen? Schrijf daarnaartoe en zorg dat er aan het einde een duidelijke call-to-action staat: een button of een link naar wat voor jou relevant is. Denk aan 'download', 'lees meer', 'koop nu', 'vraag offerte aan' of 'neem contact op'. Op deze site is dat een WhatsApp-knop: de laagste drempel voor mijn klanten.
 
-## 9. Pro tip: verkoopteksten schrijven
+## 9. Webteksten schrijven met ChatGPT of Claude
 
-Verkoopteksten zijn weer net wat anders dan gewone webteksten. Ze hebben een andere opbouw. Vaak begin je dan met het probleem wat je gaat oplossen voor de klant. Dat is een proces van behoefte creëren. Dat versterk je met consequenties en daarna verkoop je pas je product. Voor het onderdeel webteksten schrijven gaat dat net wat ver, maar wanneer je online wat verkoopt is het wel essentieel. Daarom verwijs ik je graag door naar mijn [artikel over het schrijven van verkoopteksten](/blog/ondernemen/verkooptekst-schrijven-voorbeeld/).
+Sinds ChatGPT eind 2022 verscheen, is er geen tekstschrijver meer die er niet mee te maken heeft. In mijn workshops zie ik twee uitersten: bedrijven die hun hele website door AI laten schrijven (herkenbaar aan 'in de snel veranderende wereld van vandaag') en bedrijven die het uit principe niet aanraken. Allebei zonde. Zo gebruik ik het zelf:
+
+*   **Geef de AI je grondstof.** Het transcript uit tip 1, je uitgelegde USP's, de toon (u of jij) en het doel van de pagina. Zonder die input krijg je de tekst die iedereen krijgt.
+*   **Laat het een eerste versie maken, niet de laatste.** Vraag om drie varianten van je intro en schrijf daarna zelf verder.
+*   **Gebruik het als redacteur.** 'Welke zinnen zijn passief?', 'Waar praat ik over mezelf in plaats van over de klant?', 'Herschrijf dit op B1-niveau.'
+*   **Lees alles na.** AI verzint feiten, prijzen en cijfers met evenveel zelfvertrouwen als de rest.
+
+Bang dat Google je afstraft voor AI-teksten? Google zegt sinds februari 2023 dat het niet uitmaakt hoe een tekst is gemaakt, zolang die er niet vooral is om de ranking te manipuleren. Wat wel wordt afgestraft, is het massaal produceren van nietszeggende pagina's. Een goede tekst is een goede tekst, ongeacht wie hem typte.
+
+Wat het kost: voor webteksten zijn de gratis versies van ChatGPT en Claude ruim voldoende; de betaalde versies kosten $20 per maand (Claude Pro $17 bij jaarbetaling). Voor Nederlandse spelling en stijl is de online [Schrijfassistent](https://www.schrijfassistent.be/) van de KU Leuven, VRT en De Standaard handig. Draai je op WordPress, dan controleert Yoast SEO Premium ($118,80 per jaar) de leesbaarheid en schrijft het een voorzet voor je metabeschrijving. Zoekwoordtools als Semrush ($139 per maand) en Ahrefs ($129 per maand) zijn voor de meeste MKB-sites overkill; Google Search Console is gratis en laat zien op welke zoekopdrachten je nu al wordt gevonden.
+
+## 10. Schrijven voor de AI-antwoorden van Google
+
+Sinds mei 2025 toont Google in Nederland AI Overviews: een door AI geschreven antwoord bovenaan de zoekresultaten. Sinds oktober 2025 is er ook de AI-modus in het Nederlands, waarin je doorvraagt als in een chat. Het gevolg zie je in de cijfers van Pew Research (juli 2025): als er een AI-samenvatting staat, klikt een zoeker in 8% van de gevallen nog op een zoekresultaat, tegen 15% zonder samenvatting.
+
+Voor je webteksten betekent dit dat algemene informatie ('wat is een USP?') steeds vaker in Google zelf wordt beantwoord. Waar mensen nog wél voor doorklikken, en wat de AI-samenvatting graag citeert:
+
+*   **Een direct antwoord onder elke kop.** Eerst het antwoord in twee zinnen, dan de uitleg.
+*   **Eigen ervaring, eigen cijfers, eigen voorbeelden.** Het bouwbedrijf hierboven kan een AI niet opzoeken.
+*   **Een mening.** Wat vind jij, en waarom? Dat staat in geen enkele samenvatting.
+*   **Een echte auteur.** Zet je naam, foto en achtergrond bij je teksten.
+
+Kortom: schrijf wat een AI niet kan opzoeken. Dat is toevallig ook precies wat een lezer van een mens verwacht.
+
+## 11. Pro tip: verkoopteksten schrijven
+
+Verkoopteksten zijn net wat anders dan gewone webteksten. Ze hebben een andere opbouw: je begint met het probleem dat je voor de klant oplost, versterkt dat met de consequenties en verkoopt pas daarna je product. Voor dit artikel gaat dat te ver, maar wie online iets verkoopt, kan er niet omheen. Daarom verwijs ik je graag door naar mijn [artikel over het schrijven van verkoopteksten](/blog/ondernemen/verkooptekst-schrijven-voorbeeld/).
 
 ## Conclusie webteksten schrijven
 
-Webteksten schrijven wordt soms gezien als een vak apart maar is zeker iets wat iedereen zou moeten kunnen. Je moet het jezelf vooral niet te moeilijk maken. Niet te moeilijk denken. Vaak is een tekst in spreektaal juist exact datgene dat werkt. Alle succes en veel schrijfplezier!
+Webteksten schrijven wordt soms gezien als een vak apart, maar het is iets wat iedereen zou moeten kunnen. Maak het jezelf vooral niet te moeilijk. Vaak is een tekst in spreektaal precies wat werkt, en AI is daarbij een prima hulpje, zolang jij bepaalt wat erin staat. Alle succes en veel schrijfplezier!
 
 [**Wil je het schrijven van webteksten liever uitbesteden? Dan vind je hier een goed betaalbare optie. >>**](/go/fiverr-websteksten-schrijven)
 

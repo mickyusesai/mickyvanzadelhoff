@@ -1,6 +1,6 @@
 ---
 title: "Madelon Vos [Review 2026]: Bitcoin en Technische Analyse Academy & MoneyTalks"
-description: "Eerlijke review van Madelon Vos in 2026: wat de Bitcoin en Technische Analyse Academy, MoneyTalks en de BBB-opleiding kosten, wat je leert en voor wie het is."
+description: "Eerlijke review van Madelon Vos: wat de Bitcoin en Technische Analyse Academy, MoneyTalks en de BBB-opleiding kosten, wat je leert en voor wie het is."
 date: 2021-03-19
 updated: 2026-09-15
 category: "review"
@@ -16,7 +16,7 @@ Ik ben zelf aan de slag gegaan met de Academy en ben lid geweest van MoneyTalks.
 
 ## Wie is Madelon Vos?
 
-Madelon Vos is al **sinds 2013** actief in de Bitcoin- en cryptowereld en is inmiddels de bekendste Nederlandse vrouw in die niche. Ze is regelmatig te gast in media als RTL Z en De Telegraaf en heeft een YouTube-kanaal over beleggen in crypto met **ruim 126.000 abonnees**. <!-- TODO: verify this data is still current --> Daar verschijnt wekelijks haar programma **Madelon Praat**, waarin ze de markten bespreekt.
+Madelon Vos is al **sinds 2013** actief in de Bitcoin- en cryptowereld en is inmiddels de bekendste Nederlandse vrouw in die niche. Ze is regelmatig te gast in media als RTL Z en De Telegraaf en heeft een YouTube-kanaal over beleggen in crypto met **zo'n 126.000 abonnees**. Daar verschijnt wekelijks haar programma **Madelon Praat**, waarin ze de markten bespreekt.
 
 Wellicht heb je het format **Madelon Navigeert** al eens voorbij zien komen. Daarin zit ze samen met een gast in de auto en worden de financiële markten besproken. Die reeks loopt nog steeds; begin 2026 zat ze bij aflevering 83.
 
@@ -32,15 +32,11 @@ Haar cursussen worden aangeboden via haar bedrijf Fintastic Media Group B.V., da
 
 ## Bitcoin en Madelon Vos
 
-Op de vraag waarom investeren in crypto zo'n logische keuze is, zei Madelon Vos in een eerder interview: <!-- TODO: verify de bron van dit citaat (het oorspronkelijke Manners-interview is offline); anders het citaat verwijderen -->
+![Madelon Vos Bitcoin](/images/migrated/madelon-vos-bitcoin.webp "madelon-vos-bitcoin")
 
-> _![Madelon Vos Bitcoin](/images/migrated/madelon-vos-bitcoin.webp "madelon-vos-bitcoin")_
->
-> _"Mijn vader zei altijd: 'Breng je geld niet naar de bank, daar wordt het alleen maar minder waard. Geld wordt in de basis altijd minder waard. Binnen 20 jaar is 100.000 euro grofweg nog geen 50.000 euro aan koopkracht waard. Daarom kocht ik al in 2013 Bitcoin van het geld dat ik verdiende bij de pizzeria." – Madelon Vos_
+Waarom is investeren in Bitcoin volgens Madelon Vos zo'n logische keuze? Euro's (fiat) kunnen bijgedrukt worden en daardoor ontstaat inflatie op de lange termijn. Zeker met enorme kapitaalinjecties zoals tijdens de coronacrisis. Bitcoin daarentegen heeft een maximale beschikbaarheid van **21.000.000 munten**. Er zullen nooit meer dan 21 miljoen Bitcoin bestaan, terwijl de vraag wel kan stijgen. Dat is de kern van het verhaal dat Madelon al jaren vertelt.
 
-Om bovenstaand statement wat verder uit te leggen… Euro's (fiat) kunnen bijgedrukt worden en daardoor ontstaat inflatie op de lange termijn. Zeker met enorme kapitaalinjecties zoals tijdens de coronacrisis. Bitcoin daarentegen heeft een maximale beschikbaarheid van **21.000.000 munten**. Er zullen nooit meer dan 21 miljoen Bitcoin bestaan, terwijl de vraag wel kan stijgen. Dat is de kern van het verhaal dat Madelon al jaren vertelt.
-
-En wanneer we naar Bitcoin kijken, is er één ding dat mensen vaak over het hoofd zien. Vaak lijkt het op een enorme hype en valt de markt daarna weer in elkaar. Maar als je zoals Madelon Vos al sinds 2013 in Bitcoin zit, dan begrijp je **dat de koers beweegt in marktcycli**. De top van eind 2017, die van 2021 en het record van ruim 125.000 dollar in oktober 2025: telkens gevolgd door een flinke daling, en telkens hoger dan de vorige top. <!-- TODO: verify this data is still current -->
+En wanneer we naar Bitcoin kijken, is er één ding dat mensen vaak over het hoofd zien. Vaak lijkt het op een enorme hype en valt de markt daarna weer in elkaar. Maar als je zoals Madelon Vos al sinds 2013 in Bitcoin zit, dan begrijp je **dat de koers beweegt in marktcycli**. De top van eind 2017, die van 2021 en het record van ruim 125.000 dollar in oktober 2025: telkens gevolgd door een flinke daling, en telkens hoger dan de vorige top.
 
 ![Bitcoin Marktcyclus](/images/migrated/bitcoin-marktcyclus.webp "bitcoin-marktcyclus")
 
@@ -101,7 +97,7 @@ Hier duik je in de verschillende cryptocurrencies. Er zijn er namelijk best wat:
 
 **Crypto kopen en verkopen**
 
-Hier leer je de vrij simpele stappen voor het kopen en verkopen van cryptocurrencies via betrouwbare exchanges en brokers. Je krijgt praktische tips over het kiezen van de juiste platforms, het plaatsen van orders en het beheren van je portfolio. Via de partners van Madelon Vos krijg je bij deze cursus ook **70 euro gratis Bitcoin** als je een account opent. <!-- TODO: verify this data is still current -->
+Hier leer je de vrij simpele stappen voor het kopen en verkopen van cryptocurrencies via betrouwbare exchanges en brokers. Je krijgt praktische tips over het kiezen van de juiste platforms, het plaatsen van orders en het beheren van je portfolio. Via de partners van Madelon Vos krijg je bij deze cursus ook **70 euro aan gratis bitcoin, goud of aandelen** als je een nieuw account opent.
 
 **Veiligheid**
 
@@ -215,7 +211,7 @@ Dit maakt dat zowel de basics als de technische analyse van een heel saai onderw
 
 ### Prijs van de Academy in 2026
 
-De adviesprijs van de Bitcoin en Technische Analyse Academy is **899 euro**; op het moment van schrijven wordt hij aangeboden voor **799 euro** (of in twee of drie termijnen). Er zit geen btw op, omdat ze een erkende opleider is. Je krijgt er 60 dagen MoneyTalks bij, hebt 14 dagen niet-goed-geld-terug en na een gratis kennismakingsgesprek geeft ze doorgaans nog 100 euro korting. <!-- TODO: verify this data is still current (prijzen en acties wisselen regelmatig) -->
+De adviesprijs van de Bitcoin en Technische Analyse Academy is **899 euro**; op het moment van schrijven wordt hij aangeboden voor **799 euro** (of in twee of drie termijnen). Er zit geen btw op, omdat ze een erkende opleider is. Je krijgt er 60 dagen MoneyTalks bij en hebt 14 dagen niet-goed-geld-terug. Die 100 euro korting is een tijdelijke actie; op haar site koppelt ze die aan het inplannen van een gratis kennismakingsgesprek.
 
 [Begin met de Bitcoin en Technische Analyse Academy](/go/technische-analyse)
 
@@ -225,7 +221,7 @@ De adviesprijs van de Bitcoin en Technische Analyse Academy is **899 euro**; op 
 
 De **[MoneyTalks-community](/go/moneytalkscommunity)** is een actief platform gericht op de Bitcoin- en cryptomarkt.
 
-Je kunt hier al jouw vragen stellen over specifieke cryptomunten en ervaringen delen met gelijkgestemden. Het platform heeft inmiddels meer dan 2.000 leden en biedt **echt een meerwaarde aan jouw crypto-avontuur**. <!-- TODO: verify this data is still current -->
+Je kunt hier al jouw vragen stellen over specifieke cryptomunten en ervaringen delen met gelijkgestemden. Het platform heeft inmiddels meer dan 2.000 leden en biedt **echt een meerwaarde aan jouw crypto-avontuur**.
 
 De community van MoneyTalks zorgt ervoor dat jij op de hoogte bent van de laatste trends. Wekelijks vind je er een **technische analyse van Madelon Vos** zelf en een moment om vragen te stellen. Daarnaast zijn er **wekelijkse Q&A's** waar ook jij je cryptovragen kunt stellen. Je hebt in deze community toegang tot veel van de **Nederlandse crypto-experts**.
 
@@ -251,7 +247,7 @@ Wat je vooral vindt in de MoneyTalks-community is **support** om jou verder op w
 
 Samen komen we verder, denk ik maar!
 
-**Prijs MoneyTalks (op moment van schrijven):** €39,95 per maand, €107 per kwartaal of €399 per jaar (dat laatste komt neer op ruim 33 euro per maand). <!-- TODO: verify this data is still current -->
+**Prijs MoneyTalks (op moment van schrijven):** €39,95 per maand, €107 per kwartaal of €399 per jaar (dat laatste komt neer op ruim 33 euro per maand).
 
 Ook kun je met de knop hieronder **30 dagen toegang krijgen tot MoneyTalks voor €1,-**. Let op: na die maand loopt het abonnement automatisch door tegen €39,95 per maand, dus zet een herinnering in je agenda als je alleen wilt proeven.
 
@@ -261,7 +257,7 @@ Ook kun je met de knop hieronder **30 dagen toegang krijgen tot MoneyTalks voor 
 
 Naast de Academy heeft Madelon Vos een uitgebreidere opleiding: **Bouw, Beheer & Bescherm Vermogen** (BBB). Die gaat verder dan crypto alleen en behandelt hoe je vermogen opbouwt en spreidt over Bitcoin, aandelen, goud en zilver, en hoe je het beschermt tegen inflatie en slechte tijden. Zie het als de Academy plus vermogensplanning.
 
-De adviesprijs is 1.999 euro, op het moment van schrijven wordt de opleiding aangeboden voor 1.399 euro. <!-- TODO: verify this data is still current --> Ik heb deze opleiding zelf niet gevolgd, dus daar kan ik geen ervaring over delen. Voor wie alleen crypto wil leren begrijpen, is de Academy de logische keuze.
+De adviesprijs is 1.999 euro, op het moment van schrijven wordt de opleiding aangeboden voor 1.399 euro (anders dan bij de Academy inclusief btw). Ik heb deze opleiding zelf niet gevolgd, dus daar kan ik geen ervaring over delen. Voor wie alleen crypto wil leren begrijpen, is de Academy de logische keuze.
 
 ## Prijzen op een rij
 
@@ -269,9 +265,7 @@ De adviesprijs is 1.999 euro, op het moment van schrijven wordt de opleiding aan
 |---|---|---|
 | Bitcoin en Technische Analyse Academy | €899 | €799, incl. 60 dagen MoneyTalks |
 | MoneyTalks-community | €39,95 p/m | €399 per jaar, of 30 dagen voor €1 |
-| Opleiding Bouw, Beheer & Bescherm Vermogen | €1.999 | €1.399 |
-
-<!-- TODO: verify this data is still current -->
+| Opleiding Bouw, Beheer & Bescherm Vermogen | €1.999 | €1.399, incl. btw |
 
 De [Academy](/go/crypto-diamonds-deal) van Madelon Vos is er voor wie direct goed aan de slag wil met crypto en Bitcoin. Dit is ook de cursus waar ik zelf mee aan de slag ben gegaan en daar heb ik geen spijt van. De technische analyses die ik leerde, hebben me geholpen om betere koop- en verkoopmomenten te kiezen.
 
@@ -297,13 +291,13 @@ De aanvullende [**MoneyTalks-community**](/go/moneytalkscommunity) is vooral waa
 
 ## Kritiek op Madelon Vos
 
-Een eerlijke review noemt ook de kritiek. Begin 2023 schreef Follow the Money dat de cursussen van Madelon Vos voor ruim 2 miljoen euro via het STAP-budget (een overheidssubsidie voor scholing) waren gevolgd. Madelon reageerde dat haar opleidingen aan alle voorwaarden voldeden en het NRTO-keurmerk droegen; het STAP-budget bestaat inmiddels niet meer. In maart 2025 kwam haar naam voorbij in berichtgeving over een onderzoek naar 'finfluencers', waarop ze publiekelijk reageerde. <!-- TODO: verify de strekking van die berichtgeving en haar reactie voordat je dit uitbreidt -->
+Een eerlijke review noemt ook de kritiek. Begin 2023 schreef Follow the Money dat de cursussen van Madelon Vos voor ruim 2 miljoen euro via het STAP-budget (een overheidssubsidie voor scholing) waren gevolgd. Madelon reageerde dat haar opleidingen aan alle voorwaarden voldeden en het NRTO-keurmerk droegen; het STAP-budget bestaat inmiddels niet meer. In maart 2025 kopte Het Financieele Dagblad, op basis van onderzoek van de Universiteit Utrecht, dat het advies van 'finfluencers' waardeloos is; haar naam viel in dat artikel. Madelon noemde dat dezelfde dag op X 'keiharde framing', omdat het onderzoek alleen keek naar het rendement in de week ná een tip.
 
-Wat ik zelf belangrijker vind: Madelon promoot ook partners waar ze zelf belang bij heeft, zoals goudhandelaar Goud999, en verdient aan de exchanges die ze aanraadt. <!-- TODO: verify (aandeelhouderschap Goud999) --> Dat is niet verkeerd (ik verdien ook aan de links in dit artikel), maar houd het in je achterhoofd als ze ergens enthousiast over is. Een waarschuwing van de AFM of een rechtszaak heb ik niet gevonden.
+Wat ik zelf belangrijker vind: Madelon promoot ook partners waar ze zelf belang bij heeft, zoals goudhandelaar Goud999 (ze is er aandeelhouder van), en verdient aan de exchanges die ze aanraadt. Dat is niet verkeerd (ik verdien ook aan de links in dit artikel), maar houd het in je achterhoofd als ze ergens enthousiast over is. Een waarschuwing van de AFM of een rechtszaak heb ik niet gevonden.
 
 ## Reviews Madelon Vos
 
-Wanneer je zelf een cursus aanschaft, wil je natuurlijk weten wat anderen ervan vinden. Op Trustpilot scoort Madelon Vos op het moment van schrijven een **4,9 uit 5** op bijna 150 reviews. <!-- TODO: verify this data is still current --> Hieronder een paar reviews van cursisten, uit de tijd dat de cursussen nog 'Bitcoin Basics & Crypto's' en 'Handelen in Crypto's' heetten:
+Wanneer je zelf een cursus aanschaft, wil je natuurlijk weten wat anderen ervan vinden. Op Trustpilot scoort Madelon Vos op het moment van schrijven een **4,9 uit 5** op bijna 150 reviews. Hieronder een paar reviews van cursisten, uit de tijd dat de cursussen nog 'Bitcoin Basics & Crypto's' en 'Handelen in Crypto's' heetten:
 
 > Madelon, je hebt het top gedaan, ik leer iedere dag meer, had eerst een cursus gedaan online bij een universiteit in Amerika.  
 > Daar heb ik ook veel geleerd, dit in combinatie met die van jou, begrijp ik nu heel veel meer.  
@@ -336,7 +330,7 @@ Voor wie nog niet bekend is met Madelon Vos is het aan te raden om eerst iets va
 
 [![Gratis trial Crypto en Trading Academy](/images/migrated/gratis-trail-crypto-en-trading-academy.webp)](/go/madelonvos)
 
-Op het moment van schrijven biedt ze gratis aan: het e-book 'Bescherm je vermogen in de eindfase', een online masterclass, een minicursus en een Bullmarkt-rapport. <!-- TODO: verify this data is still current --> Als je haar gratis materiaal wilt ontvangen, kan dat via [deze link](/go/madelonvos).
+Op het moment van schrijven biedt ze gratis aan: het e-book 'Bescherm je vermogen in de eindfase', een online masterclass, een minicursus, een Bitcoin-bullmarktrapport en een rapport over zilver. Als je haar gratis materiaal wilt ontvangen, kan dat via [deze link](/go/madelonvos).
 
 ## Conclusie Madelon Vos review
 

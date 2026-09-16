@@ -86,7 +86,7 @@ Simpel gezegd is affiliate marketing **het promoten van andermans producten op b
 
 ![Affiliate marketing infographic](/images/migrated/affiliate-marketing-infographic.webp "affiliate-marketing-infographic")
 
-Een voorbeeld van zo’n affiliate link is als ik jou zou aanraden [Webinarjam te gebruiken](/go/get-webinarjam) (geweldig systeem trouwens ;)). Als jij nu op bovenstaande link klikt en denkt, Webinarjam, dat vind ik wel wat. Dan krijg ik bij jouw aankoop een commissie van Webinarjam **als bedankje voor de verwijzing.** Een top systeem, want jij als koper betaald hier niets extra’s voor. Het is immers gewoon onderdeel van Webinarjam zijn marketingbudget, die commissie.
+Een voorbeeld van zo’n affiliate link is als ik jou zou aanraden [Finst te gebruiken](/go/finst) om crypto te kopen (prima platform trouwens ;)). Als jij nu op bovenstaande link klikt en denkt, Finst, dat vind ik wel wat. Dan krijg ik bij jouw aanmelding een commissie van Finst **als bedankje voor de verwijzing.** Een top systeem, want jij als klant betaalt hier niets extra’s voor. Het is immers gewoon onderdeel van het marketingbudget van Finst, die commissie.
 
 Veel producten zullen niet zo’n hoge commissie hebben. Als je bijvoorbeeld in de catalogus kijkt van Bol.com dan zullen producten niet meer dan 8% commissie geven van de verkoopprijs (veelal maar 3%). Logisch ook, want het gaat hier om producten met relatief kleine marges.
 

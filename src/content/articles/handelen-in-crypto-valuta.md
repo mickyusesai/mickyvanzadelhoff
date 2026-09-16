@@ -10,13 +10,13 @@ draft: false
 featuredImage: "/images/headers/handelen-in-crypto-valuta.webp"
 ---
 
-**Geld verdienen met crypto in 2026?** Je hebt er vast wel eens over gelezen: jonge mensen die miljonair werden met Bitcoin. Inmiddels hebben zo'n 774 miljoen mensen wereldwijd crypto, en dat aantal groeit nog steeds. <!-- TODO: verify this data is still current (Crypto.com Market Sizing, juni 2026) --> De cryptomarkt van 2026 is dan ook een heel andere dan die van een paar jaar geleden: met vergunningen, ETF's en grote beleggers erbij.
+**Geld verdienen met crypto in 2026?** Je hebt er vast wel eens over gelezen: jonge mensen die miljonair werden met Bitcoin. Inmiddels hebben zo'n 774 miljoen mensen wereldwijd crypto, en dat aantal groeit nog steeds. De cryptomarkt van 2026 is dan ook een heel andere dan die van een paar jaar geleden: met vergunningen, ETF's en grote beleggers erbij.
 
 In dit artikel lees je hoe crypto en blockchain werken, welke manieren er zijn om er geld mee te verdienen (traden, staken, periodiek inleggen, masternodes en mining), wat er sinds 2025 veranderd is aan regels en belasting, en waar je als Nederlander of Belg het goedkoopst en veiligst begint.
 
 Laten we eerlijk zijn: naast alle miljonairs zijn er ook verliezers. Vaak zijn dat mensen die instapten vanwege de hype, zonder te begrijpen waar ze nu echt in investeerden. Daarom hier een evenwichtig artikel dat je vertelt **hoe je wél geld verdient met crypto in 2026** – op een verstandige manier.
 
-Goed om te beseffen: je leest dit artikel op een interessant moment. Bitcoin zette in oktober 2025 een record neer van ruim 125.000 dollar, zakte in de zomer van 2026 terug tot onder de 60.000 dollar en staat op het moment van schrijven rond de 75.000 dollar (zo'n 65.000 euro). <!-- TODO: verify this data is still current (koers 15 september 2026) --> Wie roept dat crypto "dood" is, heeft het al een keer of vijf mis gehad. Wie roept dat het alleen maar omhoog gaat, ook.
+Goed om te beseffen: je leest dit artikel op een interessant moment. Bitcoin zette in oktober 2025 een record neer van ruim 125.000 dollar, zakte in de zomer van 2026 terug tot onder de 60.000 dollar en staat op 16 september 2026 rond de 75.500 dollar (zo'n 65.500 euro). Wie roept dat crypto "dood" is, heeft het al een keer of vijf mis gehad. Wie roept dat het alleen maar omhoog gaat, ook.
 
 ## Zo begin je met crypto
 
@@ -64,7 +64,7 @@ Schaarste omdat er in totaal maar **21 miljoen Bitcoin beschikbaar zullen zijn**
 
 Wat het zo moeilijk maakt om te handelen in Bitcoin is dat de munt erg afhankelijk is geworden van hypes bij 'normale mensen', en die zijn niet altijd even goed te peilen. Mensen kopen munten niet vanwege de ontwikkeling erin, maar omdat ze het van iemand anders hebben gehoord. Een flink staaltje **massapsychologie** dus.
 
-Al moet er wel de kanttekening bij geplaatst worden dat deze status **inmiddels flink veranderd is**. Sinds januari 2024 zijn er in de Verenigde Staten **Bitcoin spot ETF's** (Exchange Traded Funds), waarmee pensioenfondsen en vermogensbeheerders Bitcoin kopen zonder zelf een wallet te hoeven beheren. Het grootste fonds, dat van BlackRock, beheert inmiddels tientallen miljarden dollars. <!-- TODO: verify this data is still current (IBIT ± $62 miljard, sept 2026) --> Dat maakt de markt volwassener, maar niet per se rustiger: toen die fondsen in juni 2026 op recordschaal geld terugtrokken, zakte de koers hard mee.
+Al moet er wel de kanttekening bij geplaatst worden dat deze status **inmiddels flink veranderd is**. Sinds januari 2024 zijn er in de Verenigde Staten **Bitcoin spot ETF's** (Exchange Traded Funds), waarmee pensioenfondsen en vermogensbeheerders Bitcoin kopen zonder zelf een wallet te hoeven beheren. Het grootste fonds, dat van BlackRock, beheert inmiddels tientallen miljarden dollars. Dat maakt de markt volwassener, maar niet per se rustiger: toen die fondsen in juni 2026 op recordschaal geld terugtrokken, zakte de koers hard mee.
 
 Ook overheden bemoeien zich ermee. De Amerikaanse regering richtte in maart 2025 een **Strategic Bitcoin Reserve** op. Let wel: die reserve bestaat uit Bitcoin die de overheid al in beslag had genomen; er wordt (tot nu toe) niet actief bijgekocht. Dus nee, "de VS koopt Bitcoin" klopt niet, hoe vaak je het ook leest.
 
@@ -73,8 +73,6 @@ Natuurlijk zijn er ook andere cryptovaluta. Sterker nog, er worden momenteel mee
 Handig om te weten: alle cryptomunten die geen Bitcoin zijn, worden altcoins genoemd. Dit staat voor alternatieve munten. Bitcoin was de eerste munt op blockchaintechnologie, de rest volgde later.
 
 Als je [geld wilt verdienen met crypto](/go/finst) kun je zeker eens naar de grootste cryptomunten kijken. De dertig grootste munten zijn samen met Bitcoin goed voor zo'n **97% van de totale marktwaarde**. Deze worden veel verhandeld of hebben grote potentie. Dit zijn de bekendste altcoins van dit moment, in willekeurige volgorde:
-
-<!-- TODO: verify this data is still current (samenstelling en volgorde top-30 naar marktwaarde, sept 2026) -->
 
 *   Ethereum (ETH)
 *   Tether (USDT) en USD Coin (USDC) – stablecoins, gekoppeld aan de dollar
@@ -87,14 +85,14 @@ Als je [geld wilt verdienen met crypto](/go/finst) kun je zeker eens naar de gro
 *   Chainlink (LINK)
 *   Avalanche (AVAX)
 *   Stellar (XLM)
-*   Sui (SUI)
 *   Litecoin (LTC)
-*   Polkadot (DOT)
 *   Monero (XMR)
+*   Zcash (ZEC)
+*   Hyperliquid (HYPE)
 *   Bitcoin Cash (BCH)
-*   Toncoin (TON)
+*   Gram (GRAM, tot juni 2026 Toncoin)
 
-Wellicht ken je enkele van bovenstaande munten. Ze komen regelmatig voorbij in het nieuws! Wat je in dit lijstje niet meer terugvindt: **Terra (LUNA)** en de **FTX-token**, allebei ingestort (daarover later meer). En de [$TRUMP-memecoin](/blog/web3/official-trump-kopen-ideal/) die ik in januari 2025 nog toevoegde? Die piekte op 73 dollar en is nu nog geen 2 dollar waard: een verlies van ruim 97%. <!-- TODO: verify this data is still current --> Een prima les over hypes.
+Wellicht ken je enkele van bovenstaande munten. Ze komen regelmatig voorbij in het nieuws! Wat je in dit lijstje niet meer terugvindt: **Terra (LUNA)** en de **FTX-token**, allebei ingestort (daarover later meer). En de [$TRUMP-memecoin](/blog/web3/official-trump-kopen-ideal/) die ik in januari 2025 nog toevoegde? Die piekte op 73 dollar en is nu nog geen 2 dollar waard: een verlies van ruim 97%. Een prima les over hypes.
 
 Reden voor investeerders om juist naar altcoins te kijken in plaats van Bitcoin, is omdat hier nog **veel meer groei mogelijk is**. Bitcoin zal niet zomaar 1000% omhoog schieten (een x10 van jouw investering). Bij kleinere munten is dit realistischer, zeker in een opkomende markt.
 
@@ -150,7 +148,7 @@ Daarbuiten heb ik enkele kleinere cryptomunten gekocht via andere exchanges. Die
 
 Kleinere crypto (low cap coins) zijn wat moeilijker te verhandelen omdat ze **niet** op een Nederlandse exchange beschikbaar zijn.
 
-Deze munten heb ik dan ook gekocht via KuCoin. Omdat je daar niet met iDEAL of Bancontact kunt betalen, heb ik daarvoor crypto gekocht op [**Finst**](/go/finst) om deze vervolgens naar KuCoin over te maken. Goed om te weten: KuCoin heeft sinds eind 2025 een Europese MiCA-vergunning (via Oostenrijk), dus dit kan tegenwoordig ook netjes binnen de Europese regels. <!-- TODO: verify this data is still current -->
+Deze munten heb ik dan ook gekocht via KuCoin. Omdat je daar niet met iDEAL of Bancontact kunt betalen, heb ik daarvoor crypto gekocht op [**Finst**](/go/finst) om deze vervolgens naar KuCoin over te maken. Goed om te weten: KuCoin heeft sinds eind 2025 een Europese MiCA-vergunning (via Oostenrijk), dus dit kan tegenwoordig ook netjes binnen de Europese regels.
 
 **[Meer weten over hoe je zelf munten beoordeelt in plaats van blind een tip te volgen? In de gratis Bitcoin-training van Alles Over Crypto leggen ze uit waar zij naar kijken. Klik hier om de gratis training te volgen. >>](/go/get-crypto-masterclass)**
 
@@ -180,7 +178,7 @@ Wanneer je een beeld hebt in welke crypto je wilt handelen, is het makkelijker o
 
 Dit is de grootste verandering sinds ik dit artikel voor het eerst schreef. Sinds 30 december 2024 geldt in de hele EU de **MiCA-verordening** (Markets in Crypto-Assets). Iedere aanbieder die in Nederland crypto wil verkopen, moet daarvoor een vergunning hebben van de AFM (of van een andere Europese toezichthouder). De Nederlandse overgangsperiode liep af op 30 juni 2025, de laatste Europese landen volgden op 1 juli 2026.
 
-Wat dat voor jou betekent: een platform met vergunning moet je geld gescheiden bewaren van het bedrijfsgeld, moet transparant zijn over kosten en staat onder toezicht. Finst en Bitvavo hebben allebei zo'n vergunning. Grote buitenlandse namen die geen Europese vergunning hebben, mogen Nederlanders niet meer bedienen: Binance is bijvoorbeeld niet beschikbaar voor Nederlanders. <!-- TODO: verify this data is still current --> Zie je een aanbieder zonder vergunning die je toch als Nederlander wil helpen? Wegwezen.
+Wat dat voor jou betekent: een platform met vergunning moet je geld gescheiden bewaren van het bedrijfsgeld, moet transparant zijn over kosten en staat onder toezicht. Finst en Bitvavo hebben allebei zo'n vergunning. Grote buitenlandse namen die geen Europese vergunning hebben, mogen Nederlanders niet meer bedienen: Binance is bijvoorbeeld niet beschikbaar voor Nederlanders. Zie je een aanbieder zonder vergunning die je toch als Nederlander wil helpen? Wegwezen.
 
 Let wel: **staking en lending vallen buiten MiCA**. Dat mag een platform gewoon aanbieden, maar er is geen toezicht op. Daarover hieronder meer.
 
@@ -196,7 +194,7 @@ Toen in november 2022 ook nog **één van de grootste crypto exchanges omviel**,
 
 ![FTX crypto exchange ingestort](/images/migrated/ftx-collapse.webp "FTX crypto exchange ingestort")
 
-Denk niet dat dit soort dingen verleden tijd zijn. In februari 2025 werd bij exchange **Bybit voor zo'n 1,5 miljard dollar** aan Ethereum gestolen, de grootste cryptohack ooit. In 2026 volgden onder meer een hack van een DeFi-protocol (Kelp DAO, bijna 300 miljoen dollar) en een aanval op gebruikers van de Coldcard hardware wallet (ruim 100 miljoen dollar). <!-- TODO: verify this data is still current --> De regels zijn strenger geworden, de aanvallers ook.
+Denk niet dat dit soort dingen verleden tijd zijn. In februari 2025 werd bij exchange **Bybit voor zo'n 1,5 miljard dollar** aan Ethereum gestolen, de grootste cryptohack ooit. In 2026 volgden onder meer een hack van een DeFi-protocol (Kelp DAO, bijna 300 miljoen dollar) en een aanval op gebruikers van de Coldcard hardware wallet (ruim 100 miljoen dollar). De regels zijn strenger geworden, de aanvallers ook.
 
 Simpel gezegd: wil je voorkomen dat je zelf geld verliest aan zo'n scam, hack of mismanagement? Zorg dan dat je alleen investeert en verhandelt via [betrouwbare crypto exchanges](/blog/web3/beste-crypto-exchange/) met een Europese vergunning, die transparant zijn over wat ze met jouw geld doen. Zet twee-factor-authenticatie aan. En laat grote bedragen die je jaren wilt vasthouden niet op een exchange staan, maar op een eigen wallet waarvan alleen jij de sleutel hebt.
 
@@ -212,7 +210,7 @@ Buiten het traden in cryptovaluta zijn er ook nog andere manieren om geld te ver
 
 Dit houdt in dat je munten voor een langere termijn vastzet om het netwerk van die munt te helpen draaien. Hier staat een vergoeding tegenover vanuit het cryptonetwerk, vergelijkbaar met rente.
 
-**Solana is hierbij een populaire munt**. Wie zelf staakt via het Solana-netwerk krijgt zo'n 6 tot 8% per jaar; via een Nederlands platform houd je daar na hun marge minder van over. <!-- TODO: verify this data is still current --> Buiten dat rendement moet je natuurlijk ook vooral kijken naar wat de waarde van de munt in die tijd doet. Maar dan kom je alweer terug bij het onderdeel over het 'verhandelen van crypto'.
+**Solana is hierbij een populaire munt**. Wie zelf staakt via het Solana-netwerk krijgt zo'n 6 tot 8% per jaar; via een Nederlands platform houd je daar na hun marge minder van over. Buiten dat rendement moet je natuurlijk ook vooral kijken naar wat de waarde van de munt in die tijd doet. Maar dan kom je alweer terug bij het onderdeel over het 'verhandelen van crypto'.
 
 Crypto staken is lang niet zo moeilijk als het eerst was. Tegenwoordig kun je met [**een account bij Finst**](/go/finst) staking met één schuifje inschakelen voor vijftien munten, waaronder Ethereum, Solana, Cardano en Polkadot. De beloning wordt wekelijks uitgekeerd en je munten blijven gewoon verkoopbaar. Zie hieronder een indruk van de munten waarop je daar rendement kunt krijgen; de exacte percentages veranderen regelmatig.
 
@@ -226,7 +224,7 @@ Zie het als een vorm van **rente op je spaargeld**, met één belangrijk verschi
 
 Je kunt ook geld verdienen met cryptovaluta door het inzetten van '**masternodes**'. Een masternode is niets anders dan een crypto wallet waarin je een flink aantal munten bewaart, gekoppeld aan een computer die **24/7 actief is om bepaalde taken rondom de cryptomunt uit te voeren**.
 
-Voor het uitvoeren van deze taken word je door het netwerk vergoed. Het enige nadeel daarvan is wel dat je vrij veel cryptomunten nodig hebt om te starten. Bij Dash en Flux is dat bijvoorbeeld 1.000 munten, bij andere projecten kan het om veel meer gaan.
+Voor het uitvoeren van deze taken word je door het netwerk vergoed. Het enige nadeel daarvan is wel dat je vrij veel cryptomunten nodig hebt om te starten. Bij Dash en Flux is dat bijvoorbeeld 1.000 munten, bij Beldex 10.000 munten en bij XDC Network zelfs 10 miljoen munten.
 
 Munten die populair zijn om als 'masternode' geld mee te verdienen zijn:
 
@@ -234,8 +232,6 @@ Munten die populair zijn om als 'masternode' geld mee te verdienen zijn:
 > 2\. Dash (DASH)  
 > 3\. Beldex (BDX)  
 > 4\. Flux (FLUX)**
-
-<!-- TODO: verify de minimale inleg per masternode (XDC en Beldex niet gecontroleerd). Horizen (ZEN) staat niet meer in de lijst: het project verhuisde in juli 2025 naar Base en heeft geen masternodes meer. -->
 
 Eerlijk is eerlijk: dit is een niche. De meeste mensen die 'passief inkomen' met crypto willen, zijn beter af met gewoon staken.
 
@@ -261,7 +257,7 @@ Over het algemeen kun je stellen dat als mensen zeggen geld te verdienen met cry
 
 Dit onderdeel sloeg ik vroeger over, maar het kost mensen meer geld dan ze denken. In Nederland valt crypto in **box 3**, net als spaargeld en aandelen. Je betaalt geen belasting over je winst bij verkoop, maar jaarlijks over de **waarde op 1 januari**, ook als je niets hebt verkocht.
 
-Voor 2026 gelden deze cijfers: crypto telt als 'overige bezittingen' met een forfaitair rendement van 6,00%, waarover je 36% belasting betaalt. Effectief is dat ongeveer 2,2% van de waarde van je crypto per jaar. Het heffingsvrije vermogen is €59.357 per persoon (€118.714 met fiscaal partner). Was je werkelijke rendement lager dan het forfait, bijvoorbeeld in een slecht cryptojaar, dan kun je via de **tegenbewijsregeling** je echte rendement opgeven. <!-- TODO: verify this data is still current (Belastingdienst, box 3 2026) -->
+Voor 2026 gelden deze cijfers: crypto telt als 'overige bezittingen' met een forfaitair rendement van 6,00%, waarover je 36% belasting betaalt. Effectief is dat ongeveer 2,2% van de waarde van je crypto per jaar. Het heffingsvrije vermogen is €59.357 per persoon (€118.714 met fiscaal partner). Was je werkelijke rendement lager dan het forfait, bijvoorbeeld in een slecht cryptojaar, dan kun je via de **tegenbewijsregeling** je echte rendement opgeven.
 
 Vanaf 2028 wil de overheid overstappen op een heffing over het werkelijke rendement; de Tweede Kamer stemde daar in februari 2026 mee in. Dat betekent straks: belasting over wat je écht verdiende, inclusief ongerealiseerde koerswinst. Houd je aankopen dus goed bij. Voor België gelden andere regels (daar hangt het af van of je als 'goede huisvader' belegt of speculeert); laat je daar adviseren.
 
@@ -273,7 +269,7 @@ Goud was in het verleden altijd een plaats om te investeren wanneer er financië
 
 Daar hoeven we verder niet heel diep op in te gaan, maar feit is dat er bij Bitcoin schaarste optreedt en de verwachting dus is dat de koers op lange termijn blijft stijgen (of stabiel wordt).
 
-> Een leuk gedachte-experiment: als Bitcoin daadwerkelijk zoals goud wordt, heeft het **het potentieel om richting 1,4 miljoen dollar per munt** te groeien. Dan heeft het dezelfde marktwaarde als al het goud ter wereld. Dat getal was een paar jaar geleden nog 650.000 dollar; goud is sindsdien zelf óók hard gestegen. <!-- TODO: verify this data is still current (marktwaarde goud ± $29–30 biljoen, sept 2026) -->
+> Een leuk gedachte-experiment: als Bitcoin daadwerkelijk zoals goud wordt, heeft het **het potentieel om richting 1,4 miljoen dollar per munt** te groeien. Dan heeft het dezelfde marktwaarde als al het goud ter wereld. Dat getal was een paar jaar geleden nog 650.000 dollar; goud is sindsdien zelf óók hard gestegen.
 
 Je ziet dan ook dat Bitcoin meer en meer gebruikt wordt **om waarde in op te slaan**. Meer nog dan als betaalmiddel. Dit wordt versterkt door de economische context van de afgelopen jaren. De inflatie na corona en de geldverruiming die eraan voorafging **hebben investeerders ertoe aangezet om naar alternatieven te zoeken**. Omdat Bitcoin een beperkt aanbod en een voorspelbare uitgifte heeft, wordt het steeds vaker gezien als bescherming tegen inflatie. Of dat in de praktijk zo werkt? In 2026 bewoog Bitcoin vooral mee met de aandelenmarkt. Het is een jong bezit, en dat gedrag is nog niet uitgekristalliseerd.
 
@@ -333,7 +329,7 @@ De market cap van een cryptomunt is de totale marktwaarde: het aantal munten in 
 
 ### Bitcoin-dominantie
 
-Dit is het aandeel van Bitcoin in de totale cryptomarkt. In september 2026 ligt dit rond de 58%. <!-- TODO: verify this data is still current --> Dat wil dus zeggen dat van al het geld dat in crypto zit, ruim de helft in Bitcoin zit. Daalt de dominantie, dan doen altcoins het relatief goed ('altseason').
+Dit is het aandeel van Bitcoin in de totale cryptomarkt. In september 2026 ligt dit rond de 58%. Dat wil dus zeggen dat van al het geld dat in crypto zit, ruim de helft in Bitcoin zit. Daalt de dominantie, dan doen altcoins het relatief goed ('altseason').
 
 ### Halving
 
@@ -363,7 +359,7 @@ Uitgever: [Alles Over Crypto](/go/get-crypto-masterclass)
 
 ![Money mastery crypto masterclass allesovercrypto](/images/migrated/Money-mastery-crypto-masterclass-allesovercrypto.webp "Money Mastery, het betaalde programma van Alles Over Crypto")
 
-Alles Over Crypto (van Patrick Suiker) is de grootste crypto-opleider van Nederland. Hun instap is een **gratis online Bitcoin-training**: daarin leer je de basis van Bitcoin en crypto, hoe de marktcyclus werkt en waar zij zelf op letten bij het beoordelen van munten. Wie daarna verder wil, kan doorstromen naar hun betaalde programma **Money Mastery** (op het moment van schrijven €97 per maand, opzegbaar), met onder andere technische analyse en hun eigen munt-selecties. <!-- TODO: verify this data is still current (prijs en naam van het betaalde programma) -->
+Alles Over Crypto (van Patrick Suiker) is de grootste crypto-opleider van Nederland. Hun instap is een **gratis online Bitcoin-training**: daarin leer je de basis van Bitcoin en crypto, hoe de marktcyclus werkt en waar zij zelf op letten bij het beoordelen van munten. Wie daarna verder wil, kan doorstromen naar hun betaalde programma **Money Mastery** (op het moment van schrijven €97 per maand, opzegbaar), met onder andere technische analyse en hun eigen munt-selecties.
 
 Mijn eerlijke advies: volg de gratis training, neem hun muntkeuzes als input en niet als waarheid, en beslis pas daarna of je meer wilt. Niemand weet welke munt 100x gaat, ook zij niet. Wat je wél kunt leren is hoe je zelf een project beoordeelt, en dat is veel meer waard.
 
