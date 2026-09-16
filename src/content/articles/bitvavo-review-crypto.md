@@ -1,6 +1,6 @@
 ---
 title: "Bitvavo review [2026] – Hoe betrouwbaar is deze crypto exchange?"
-description: "Bitvavo review 2026: MiCA-vergunning, handelskosten, Flex en Fixed staking, storten met iDEAL en de eerste €10.000 gratis handelen. Plus wat er in 2025 misging."
+description: "Bitvavo review 2026: MiCA-vergunning, handelskosten, Earn-staking, storten met iDEAL en €10.000 gratis handelen. Plus wat er in 2025 misging."
 date: 2021-03-11
 updated: 2026-09-15
 category: "review"
@@ -14,7 +14,7 @@ featuredImage: "/images/headers/bitvavo-review-crypto.webp"
 
 Wie wil handelen in crypto is aangewezen op een crypto exchange. Daarom duik ik in deze review in de grootste exchange van Nederland, en inmiddels de grootste van Europa als het om euro's gaat: Bitvavo!
 
-Steeds meer mensen raken vertrouwd met cryptovaluta. In 2026 bezit al zo'n **9% van de wereldbevolking** een vorm van crypto, ruim 770 miljoen mensen. <!-- TODO: verify this data is still current (Crypto.com Market Sizing, juni 2026) --> Tegelijkertijd kun je daaruit opmaken dat 91% van de mensen nog helemaal geen crypto heeft; wie weet waar dat eindigt…
+Steeds meer mensen raken vertrouwd met cryptovaluta. In 2026 bezit al zo'n **9% van de wereldbevolking** een vorm van crypto, ruim 770 miljoen mensen. Tegelijkertijd kun je daaruit opmaken dat 91% van de mensen nog helemaal geen crypto heeft; wie weet waar dat eindigt…
 
 In deze review lees je hoe je op Bitvavo je eerste crypto koopt, hoe betrouwbaar het platform is sinds de Europese MiCA-vergunning, wat de handelskosten zijn in 2026, hoe staking (nu 'Earn') werkt en wat er de afgelopen jaren misging bij Bitvavo. Aan het eind weet je of Bitvavo bij je past, of dat je beter bij een alternatief zit.
 
@@ -51,7 +51,7 @@ Best simpel toch!?
 
 ![Bitvavo crypto exchange](/images/migrated/bitvavo-crypto-exchange-1.webp "bitvavo-crypto-exchange")
 
-**[Bitvavo](/go/bitvavo)** werd in 2018 opgericht in Amsterdam en is inmiddels actief in 27 Europese landen. Het platform heeft **meer dan 2 miljoen actieve gebruikers** en verwerkt zo'n 10 miljard euro aan handel per maand. Volgens onderzoeksbureau Kaiko is Bitvavo met een aandeel van 44% de grootste crypto-exchange ter wereld in euro's, vóór Kraken en Coinbase. <!-- TODO: verify this data is still current (Kaiko-rapport juni 2026) --> Wat vooral opvalt bij Bitvavo is het gemak waarmee iedereen cryptomunten kan kopen, verkopen en bewaren. Simpeler kan het eigenlijk niet.
+**[Bitvavo](/go/bitvavo)** werd in 2018 opgericht in Amsterdam en is inmiddels actief in 25 Europese landen. Het platform heeft **meer dan 2 miljoen actieve gebruikers** en verwerkt zo'n 10 miljard euro aan handel per maand. Volgens onderzoeksbureau Kaiko is Bitvavo met een aandeel van 44% de grootste crypto-exchange ter wereld in euro's, vóór Kraken en Coinbase. Wat vooral opvalt bij Bitvavo is het gemak waarmee iedereen cryptomunten kan kopen, verkopen en bewaren. Simpeler kan het eigenlijk niet.
 
 *   Je logt in op jouw **Bitvavo**-account
 *   Je koopt cryptomunten **met euro's** die je stort op jouw account
@@ -103,7 +103,7 @@ De les die ik eruit haal: Bitvavo bewaart de euro's en de crypto van klanten é�
 
 ## Bestuurswissel in 2025
 
-Nog een stukje geschiedenis dat je moet kennen. In juli 2025 stapte medeoprichter en CEO Mark Nuvelstijn op, na publicaties van het Financieele Dagblad over de naleving van antiwitwasregels en over zijn eigen handelsgedrag. Financieel directeur Johan van Olffen nam de leiding tijdelijk over; begin 2026 werd een nieuwe CEO voorgedragen, die op het moment van schrijven nog op goedkeuring van de AFM wacht. <!-- TODO: verify this data is still current (benoeming nieuwe CEO Bitvavo) -->
+Nog een stukje geschiedenis dat je moet kennen. In juli 2025 stapte medeoprichter en CEO Mark Nuvelstijn op, na publicaties van het Financieele Dagblad over de naleving van antiwitwasregels en over zijn eigen handelsgedrag. Financieel directeur Johan van Olffen nam de leiding tijdelijk over. In januari 2026 droeg Bitvavo de Britse oud-Deliveroo-directeur Akshay Navle voor als nieuwe CEO; zo'n benoeming moet eerst door de AFM worden getoetst.
 
 Wat betekent dat voor jou? Weinig, praktisch gezien: de vergunning, de gescheiden tegoeden en het platform werken gewoon door. Maar het laat wel zien dat de AFM nu écht meekijkt, en dat is precies wat je wilt van een toezichthouder.
 
@@ -129,7 +129,7 @@ Om je een idee te geven van wat Bitvavo doet **om het platform te beschermen teg
 *   **Beveiligingsmeldingen:** iedere keer dat iemand met een foutief wachtwoord probeert in te loggen, krijg jij daar een melding van.
 *   **Whitelist crypto wallet:** voeg een extern walletadres toe aan jouw whitelist, zodat je crypto alleen daarnaartoe kunt overmaken. Dit voorkomt dat je per ongeluk een verkeerd adres invult of dat iemand anders je crypto wegsluist.
 *   **Cold storage:** het overgrote deel van de crypto van klanten wordt offline bewaard bij gespecialiseerde bewaarders (Coinbase Custody en Copper), met meerdere handtekeningen nodig voor elke verplaatsing. Iets hacken dat offline staat, is praktisch onmogelijk.
-*   **Accountgarantie:** wordt je account ondanks alles overgenomen door een crimineel, dan vergoedt Bitvavo de schade tot €100.000, mits je je aan de veiligheidsregels hebt gehouden. <!-- TODO: verify this data is still current (voorwaarden Account Guarantee) -->
+*   **Accountgarantie:** wordt je account ondanks alles overgenomen door een crimineel, dan vergoedt Bitvavo de schade tot €100.000, mits je je aan de voorwaarden hebt gehouden (onder andere 2FA via een authenticator-app, minimaal 30 dagen vóór het incident).
 *   **'Bitvavo aan de lijn?'-check:** een tool op de site waarmee je kunt controleren of iemand die zegt van Bitvavo te bellen dat ook echt is. Nepmedewerkers zijn de populairste oplichtingstruc van dit moment.
 
 ![Cold wallet opslag Bitvavo](/images/migrated/cold-wallet-crypto-1.webp "cold-wallet-crypto")
@@ -205,9 +205,9 @@ Je kunt jouw euro's storten met **iDEAL** (of de Europese opvolger Wero) in Nede
 
 ### Stortingskosten
 
-Voor iDEAL, Wero, Bancontact en SEPA betaal je precies **0,00% stortingskosten**. Omdat opnemen óók gratis is, kun je dus zonder iets te verliezen jouw geld op Bitvavo zetten en er weer afhalen. PayPal (2%) en creditcard (1%) kosten wel geld; die zou ik dus niet gebruiken.
+Voor iDEAL, Wero, Bancontact en SEPA betaal je precies **0,00% stortingskosten**. Omdat opnemen óók gratis is, kun je dus zonder iets te verliezen jouw geld op Bitvavo zetten en er weer afhalen. Apple Pay, Google Pay en creditcard (1%) en PayPal (2%) kosten wel geld; die zou ik dus niet gebruiken.
 
-> Houd rekening met de limieten: **iDEAL tot €50.000 per storting**, Bancontact tot €10.000. Voor grotere bedragen doe je een SEPA-overboeking. Opnemen kan tot **€25.000 per 24 uur**; boven de €80.000 vraagt Bitvavo om documenten over de herkomst van je geld. <!-- TODO: verify this data is still current (limieten wijzigen regelmatig) -->
+> Houd rekening met de limieten: **iDEAL tot €50.000 per storting**, Bancontact tot €10.000. Voor grotere bedragen doe je een SEPA-overboeking. Opnemen kan tot **€25.000 per 24 uur**; boven de €80.000 vraagt Bitvavo om documenten over de herkomst van je geld.
 
 Na een storting ontvang je (meestal) binnen enkele minuten een mailtje van Bitvavo dat het is aangekomen. Het geld staat vanaf dan in euro's in jouw Bitvavo-wallet en **je kunt er direct crypto mee kopen**.
 
@@ -241,11 +241,11 @@ Die **market cap is enorm belangrijk** en daarom geef ik je graag het onderstaan
 >
 > **Wanneer je gaat traden in crypto is de berekening van de market cap enorm belangrijk. Daar kun je namelijk uit opmaken hoeveel groeipotentie een munt in werkelijkheid heeft. Wanneer je te simpel denkt en beredeneert dat de munt 'maar' 12,50 euro waard is en dus heel veel kan stijgen, doe je jezelf tekort als deze simpelweg véél meer munten blijkt te hebben.**
 
-Bitcoin is zo groot in de cryptomarkt dat er vaak gekeken wordt naar de **Bitcoin-dominantie**: het percentage Bitcoin ten opzichte van de totale cryptomarkt. **Die ligt in september 2026 rond de 58%**, wat betekent dat er meer geld in Bitcoin zit dan in alle andere cryptomunten bij elkaar. <!-- TODO: verify this data is still current -->
+Bitcoin is zo groot in de cryptomarkt dat er vaak gekeken wordt naar de **Bitcoin-dominantie**: het percentage Bitcoin ten opzichte van de totale cryptomarkt. **Die ligt in september 2026 rond de 58%**, wat betekent dat er meer geld in Bitcoin zit dan in alle andere cryptomunten bij elkaar.
 
 Het is dan ook niet gek dat veel andere cryptomunten worden gewaardeerd op basis van Bitcoin. Zo kun je met één Bitcoin een bepaald aantal Ethereum kopen. Fiat (euro's) is dan helemaal niet meer nodig.
 
-Tot slot is het voor Bitcoin nog belangrijk om te begrijpen dat het voor de toekomst waarschijnlijk geen alledaags betaalmiddel wordt. De transactiekosten zijn te hoog en het netwerk is er niet voor gemaakt. Wat Bitcoin wel is, is een waardeopslag. Zie het als **het digitale goud**, een plek waar investeerders naartoe gaan om inflatie te ontlopen. Sinds 2024 doen grote beleggers dat massaal via Bitcoin-ETF's, wat de koers in oktober 2025 naar een record van ruim 125.000 dollar bracht. <!-- TODO: verify this data is still current -->
+Tot slot is het voor Bitcoin nog belangrijk om te begrijpen dat het voor de toekomst waarschijnlijk geen alledaags betaalmiddel wordt. De transactiekosten zijn te hoog en het netwerk is er niet voor gemaakt. Wat Bitcoin wel is, is een waardeopslag. Zie het als **het digitale goud**, een plek waar investeerders naartoe gaan om inflatie te ontlopen. Sinds 2024 doen grote beleggers dat massaal via Bitcoin-ETF's, wat de koers in oktober 2025 naar een record van ruim 125.000 dollar bracht.
 
 Handelen in Bitcoin kan als beginnende trader, maar houd er rekening mee dat dit dan waarschijnlijk iets is dat je **voor de lange termijn** gaat doen.
 
@@ -257,7 +257,7 @@ Altcoins verschillen van Bitcoin. De bekendste (hoewel continu wisselend) zijn *
 
 Er worden ruim **21.000 actieve altcoins** bijgehouden. Je kunt deze '**alternatieve munten**' zien als een alternatief voor Bitcoin. Vaak presenteren ze zich binnen een specifieke niche zoals Decentralized Finance (DeFi), kunstmatige intelligentie (AI), [NFT's](/blog/web3/nft-uitleg/) of de [Metaverse](/blog/web3/metaverse-crypto/). Of ze gaan de directe strijd aan om het geld van de toekomst te worden.
 
-Voor het traden zijn altcoins erg interessant. Het gebeurt nogal eens dat er eentje 100% omhoog schiet binnen één dag. **Dan zou je dus zomaar van €1.000,- naar €2.000,- kunnen zijn gegaan.** Er zijn zelfs altcoins die over meerdere jaren een stijging hebben gezien van boven de 50.000%. Maar vergeet de andere kant niet: de [$TRUMP-memecoin](/blog/web3/official-trump-kopen-ideal/) uit januari 2025 staat inmiddels 97% onder zijn top. <!-- TODO: verify this data is still current -->
+Voor het traden zijn altcoins erg interessant. Het gebeurt nogal eens dat er eentje 100% omhoog schiet binnen één dag. **Dan zou je dus zomaar van €1.000,- naar €2.000,- kunnen zijn gegaan.** Er zijn zelfs altcoins die over meerdere jaren een stijging hebben gezien van boven de 50.000%. Maar vergeet de andere kant niet: de [$TRUMP-memecoin](/blog/web3/official-trump-kopen-ideal/) uit januari 2025 staat inmiddels 97% onder zijn top.
 
 Ik vind zelf dit verhaal uit het **[Crypto Portfolio van Alles Over Crypto](/go/crypto-portfolio)** erg veelzeggend:
 
@@ -328,16 +328,15 @@ Sinds 2026 heet dit onderdeel **Earn** en zijn er twee smaken:
 
 Je schakelt Earn in bij [jouw Bitvavo-account](/go/bitvavo). Belangrijk om te weten is dat je bij Flex je crypto nog altijd kunt verkopen. **Bij Fixed staat je crypto wél vast**, dus kies dat alleen voor munten die je sowieso lang wilt houden.
 
-Earn is beschikbaar voor **ruim 65 munten**. Dit zijn de geschatte jaarlijkse percentages van april 2026 voor een paar bekende munten (Flex / Fixed): <!-- TODO: verify this data is still current (Earn-percentages wijzigen elk kwartaal) -->
+Earn is beschikbaar voor **ruim 65 munten**. Dit zijn de jaarlijkse percentages die sinds 7 september 2026 gelden voor een paar bekende munten (Flex / Fixed):
 
-*   Cosmos (ATOM) **3,5% / 10,6%**
-*   Livepeer (LPT) **7,8% / 23,5%**
-*   Axie Infinity (AXS) **2,1% / 6,2%**
-*   Solana (SOL) **1,3% / 5,0%**
-*   Near Protocol (NEAR) **1,0% / 2,9%**
-*   LimeWire (LMWR) **3,9%** (Flex)
-*   Phala Network (PHA) **1,8%** (Flex)
-*   Tezos (XTZ) **0,8%** (Flex)
+*   Cosmos (ATOM) **3,8% / 11,5%**
+*   Livepeer (LPT) **8,5% / 25,4%**
+*   Axie Infinity (AXS) **0,9% / 2,7%**
+*   Solana (SOL) **1,1% / 3,3%**
+*   Near Protocol (NEAR) **0,9% / 2,8%**
+*   Phala Network (PHA) **2,6%** (Flex)
+*   Tezos (XTZ) **0,5%** (Flex)
 
 Wat opvalt: de Flex-percentages zijn een stuk lager dan wat ik hier in 2025 noteerde (Solana gaf toen zo'n 5%). Bitvavo houdt een flinke marge; wie zelf staakt via het netwerk krijgt bij Solana zo'n 6 tot 8%. Voor de meeste mensen is het gemak dat waard, maar weet wat je inlevert.
 
@@ -385,18 +384,18 @@ Voor iedereen die onder de €100.000 handelsvolume per 30 dagen zit, gelden op 
 *   **Maker fee: 0,15%**
 *   **Taker fee: 0,25%**
 
-Daarboven daalt het in tien stappen tot 0,00% maker en 0,02% taker bij meer dan 100 miljoen euro volume. Handel je in USDC-paren, dan betaal je 0,05% (maker en taker); voor stablecoin-naar-stablecoin geldt 0,10%. <!-- TODO: verify this data is still current (fee-tabel Bitvavo) -->
+Daarboven daalt het in negen stappen tot 0,00% maker en 0,02% taker bij meer dan 100 miljoen euro volume. Handel je in USDC-paren, dan betaal je 0,05% (maker en taker); voor stablecoin-naar-stablecoin geldt 0,10%.
 
 Als voorbeeld… Stel dat je de afgelopen 30 dagen €0,- hebt verhandeld en je wilt nu Bitcoin kopen voor €13.500 met een market-order, dan betaal je **€13.500 × 0,25% = €33,75** aan kosten.
 
 Uiteraard hoef je deze berekeningen niet zelf te maken. Alle geldende kosten worden automatisch berekend en getoond voordat je een transactie doet. Dit is wederom een onderdeel waarin Bitvavo transparanter is dan veel andere exchanges.
 
-Laten we eens kijken naar de handelskosten van een paar **[populaire crypto exchanges](/blog/web3/beste-crypto-exchange/)**, op basis van de taker fee bij een laag volume: <!-- TODO: verify this data is still current (tarieven concurrenten, sept 2026) -->
+Laten we eens kijken naar de handelskosten van een paar **[populaire crypto exchanges](/blog/web3/beste-crypto-exchange/)**, op basis van de taker fee bij een laag volume:
 
 *   Bitvavo **0,25%** (0,15% als maker)
 *   Finst **0,15%** (vast, geen spread)
-*   Bybit **0,10%**
-*   Coinbase **0,60%** in de Advanced-modus, meer dan 1,5% in de gewone app
+*   Bybit **0,25%** (0,10% als maker)
+*   Coinbase **0,60%** in de Advanced-modus, in de gewone app tot 1,875% plus spread
 *   Binance **0,10%**, maar niet beschikbaar voor Nederlanders (geen MiCA-vergunning)
 *   Bitcoin Meester bestaat niet meer (overgenomen door Kraken)
 
@@ -418,7 +417,7 @@ Een Bitvavo-account aanmaken is een eitje! Je kunt het account aanmaken met de m
 
 In de verificatie zul je moeten aantonen dat je inwoner bent van een van de Europese landen waar Bitvavo actief is. Uiteraard vallen Nederland en België daaronder (Belgen komen uit op bitvavo.be).
 
-Wanneer je jouw account aanmaakt met onderstaande knop, hoef je **over jouw eerste €10.000,- geen handelskosten te betalen in je eerste zeven dagen op het platform**. Bitvavo draait daarnaast regelmatig welkomstacties (een klein bedrag in euro's of crypto na een eerste storting); welke actie er op dit moment loopt, zie je bij het aanmelden. <!-- TODO: verify welke welkomstbonus de affiliate-link op dit moment draagt (Bitvavo wisselt per campagne; bonus staat 180 dagen vast) -->
+Wanneer je jouw account aanmaakt met onderstaande knop, hoef je **over jouw eerste €10.000,- geen handelskosten te betalen in je eerste zeven dagen op het platform**. Bitvavo draait daarnaast regelmatig welkomstacties (een klein bedrag in euro's of crypto na een eerste storting); welke actie er op dit moment loopt, zie je bij het aanmelden.
 
 [Maak een Bitvavo account aan](/go/bitvavo)
 
@@ -476,7 +475,7 @@ Het zou natuurlijk kunnen dat je na deze Bitvavo review nog met vragen zit. Daar
 
 ### Welke munten heeft Bitvavo?
 
-Bitvavo biedt op het moment van schrijven ruim **400 cryptomunten** aan, allemaal te koop met euro's. <!-- TODO: verify this data is still current --> De bekendste zijn:
+Bitvavo biedt op het moment van schrijven ruim **400 cryptomunten** aan, allemaal te koop met euro's. De bekendste zijn:
 
 *   Bitcoin (BTC)
 *   Ethereum (ETH)
@@ -540,7 +539,7 @@ Bitvavo heeft een mobiele app (Android en iOS). Vrijwel alles wat je op de websi
 
 ### Hoeveel gebruikers heeft Bitvavo?
 
-Meer dan 2 miljoen actieve gebruikers in 27 Europese landen. <!-- TODO: verify this data is still current -->
+Meer dan 2 miljoen actieve gebruikers in 25 Europese landen.
 
 ### Hoe betalen met Bitvavo?
 

@@ -1,0 +1,120 @@
+---
+export const prerender = true;
+import Layout from '../layouts/Layout.astro';
+import { SITE } from '../config/site';
+
+// "Plan een gratis intake": the form posts to /api/intake (src/pages/api/intake.ts), which mails
+// Micky and redirects back here with ?status=sent|invalid|config|failed. The page is static; a small
+// script reads the flag. Micky confirms one of the two proposed moments within a day; the call is 45
+// minutes on Google Meet.
+const mailFallback = `mailto:${SITE.email}?subject=${encodeURIComponent('Gratis intake AI-automatisering')}`;
+---
+<Layout
+  title="Plan een gratis intake"
+  description="Plan een gratis intake van 45 minuten via Google Meet. Vertel wat je wilt automatiseren en stel twee momenten voor; Micky bevestigt binnen een dag."
+>
+  <section class="relative overflow-hidden">
+    <div aria-hidden="true" class="pointer-events-none absolute inset-0 z-0 overflow-hidden">
+      <div class="orb right-[8%] top-10 hidden h-24 w-24 animate-drift [--orb-a:#D4F75B] [--orb-b:#8FBF1C] [--orb-c:#33470C] md:block"></div>
+    </div>
+    <div class="wrap relative z-10 grid gap-10 py-14 sm:py-20 lg:grid-cols-[2fr_3fr] lg:gap-16">
+      <div class="grid content-start gap-5">
+        <p class="text-sm font-bold animate-rise"><a href="/automatisering/" class="text-violet hover:underline">AI-automatisering</a></p>
+        <p class="eyebrow animate-rise [animation-delay:.05s]">Gratis · 45 minuten · Google Meet</p>
+        <h1 class="text-[36px] font-extrabold leading-[1.05] tracking-tight animate-rise [animation-delay:.1s] sm:text-[48px]">Plan een gratis intake.</h1>
+        <p class="max-w-prose text-lg text-muted animate-rise [animation-delay:.2s]">Je hoeft het niet uitgedacht te hebben. Vertel wat je stoort en wat je hoopt, stel twee momenten voor, en ik bevestig binnen een dag welk moment het wordt. Het gesprek is vrijblijvend en verplicht je tot niets.</p>
+        <ul class="grid gap-3 text-[15px] animate-rise [animation-delay:.3s]">
+          {['We bespreken wat je stoort en hoe het werk nu loopt', 'Je hoort direct of het zin heeft', 'Daarna krijg je een offerte met een inschatting van de tijd'].map((t) => (
+            <li class="flex gap-2">
+              <svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true" class="mt-0.5 flex-none"><path d="M4 10.5l4 4 8-9" stroke="#6D28D9" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              <span>{t}</span>
+            </li>
+          ))}
+        </ul>
+        <p class="text-sm text-muted animate-rise [animation-delay:.35s]">Liever appen? <a href={SITE.whatsappUrl} rel="noopener" class="font-bold text-violet underline underline-offset-2">Stuur een WhatsApp</a>.</p>
+      </div>
+
+      <div class="animate-rise [animation-delay:.2s]">
+        <div id="intake-sent" hidden class="sticker grid gap-4 bg-lime p-7 sm:p-9">
+          <p class="eyebrow text-ink">Gelukt</p>
+          <h2 class="text-2xl font-bold sm:text-[30px] sm:leading-[1.15]">Dank je, je aanvraag is binnen.</h2>
+          <p class="text-ink/80">Ik lees hem vandaag nog en mail je binnen een dag welk van je twee momenten het wordt, met de link voor Google Meet.</p>
+          <a href="/automatisering/" class="btn btn-primary w-fit">Terug naar de automatiseringspagina</a>
+        </div>
+
+        <div id="intake-error" hidden class="sticker mb-6 grid gap-2 bg-coral-soft p-5">
+          <p class="font-bold" id="intake-error-title">Het versturen is niet gelukt.</p>
+          <p class="text-sm text-muted">Mail me dan direct via <a href={mailFallback} class="font-bold text-violet underline underline-offset-2">{SITE.email}</a> of <a href={SITE.whatsappUrl} rel="noopener" class="font-bold text-violet underline underline-offset-2">stuur een WhatsApp</a>. Je gegevens hieronder staan er nog.</p>
+        </div>
+
+        <form id="intake-form" method="post" action="/api/intake" class="sticker grid gap-5 bg-surface p-6 sm:p-8">
+          <div class="grid gap-5 sm:grid-cols-2">
+            <label class="grid gap-1.5 text-sm font-bold">Je naam
+              <input name="name" type="text" required autocomplete="name" maxlength="200" class="field" />
+            </label>
+            <label class="grid gap-1.5 text-sm font-bold">Bedrijf
+              <input name="company" type="text" required autocomplete="organization" maxlength="200" class="field" />
+            </label>
+            <label class="grid gap-1.5 text-sm font-bold">E-mail
+              <input name="email" type="email" required autocomplete="email" maxlength="200" class="field" />
+            </label>
+            <label class="grid gap-1.5 text-sm font-bold">Telefoon
+              <input name="phone" type="tel" required autocomplete="tel" maxlength="60" class="field" />
+            </label>
+          </div>
+
+          <label class="grid gap-1.5 text-sm font-bold">Wat hoop je te automatiseren?
+            <textarea name="automate" required rows="4" maxlength="4000" class="field" placeholder="Bijvoorbeeld: inkoopfacturen die nu met de hand worden overgetypt, of de offertes die uit telefoonnotities moeten komen."></textarea>
+          </label>
+          <label class="grid gap-1.5 text-sm font-bold">Waar gaat nu te veel tijd in zitten?
+            <textarea name="timesink" required rows="4" maxlength="4000" class="field" placeholder="Wat doet iemand bij jullie elke week met de hand, en hoeveel tijd kost dat ongeveer?"></textarea>
+          </label>
+
+          <fieldset class="grid gap-3 rounded-2xl border-2 border-line p-4">
+            <legend class="px-1 text-sm font-bold">Twee momenten die jou uitkomen</legend>
+            <p class="text-sm text-muted">Het gesprek duurt 45 minuten en gaat via Google Meet. Ik bevestig binnen een dag welk moment het wordt.</p>
+            <div class="grid gap-4 sm:grid-cols-2">
+              <label class="grid gap-1.5 text-sm font-bold">Moment 1
+                <input name="slot1" type="datetime-local" required class="field" />
+              </label>
+              <label class="grid gap-1.5 text-sm font-bold">Moment 2
+                <input name="slot2" type="datetime-local" required class="field" />
+              </label>
+            </div>
+          </fieldset>
+
+          <div class="hidden" aria-hidden="true"><label>Website<input name="website" type="text" tabindex="-1" autocomplete="off" /></label></div>
+
+          <div class="flex flex-wrap items-center gap-4">
+            <button type="submit" class="btn btn-primary">Verstuur de aanvraag</button>
+            <p class="text-xs text-muted">Je gegevens gebruik ik alleen om dit gesprek in te plannen. <a href="/privacy/" class="underline underline-offset-2">Privacy</a></p>
+          </div>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <style is:global>
+    #intake-sent[hidden], #intake-error[hidden], #intake-form[hidden] { display: none !important; }
+    .field { width: 100%; border: 2px solid #17112E; border-radius: 12px; background: #fff; padding: 10px 12px; font: inherit; font-weight: 500; color: #17112E; }
+    .field:focus { outline: none; box-shadow: 0 0 0 3px #D4F75B; }
+    textarea.field { resize: vertical; min-height: 96px; }
+  </style>
+
+  <script>
+    const status = new URLSearchParams(location.search).get('status');
+    const form = document.getElementById('intake-form');
+    const sent = document.getElementById('intake-sent');
+    const error = document.getElementById('intake-error');
+    const title = document.getElementById('intake-error-title');
+    if (status === 'sent' && form && sent) { form.hidden = true; sent.hidden = false; }
+    else if (status && error && title) {
+      title.textContent = status === 'invalid' ? 'Vul alle velden in en probeer het opnieuw.' : 'Het versturen is niet gelukt.';
+      error.hidden = false;
+    }
+    // Sensible minimum for the date pickers: tomorrow.
+    const min = new Date(); min.setDate(min.getDate() + 1); min.setHours(9, 0, 0, 0);
+    const iso = new Date(min.getTime() - min.getTimezoneOffset() * 60000).toISOString().slice(0, 16);
+    document.querySelectorAll('input[type="datetime-local"]').forEach((el) => el.setAttribute('min', iso));
+  </script>
+</Layout>

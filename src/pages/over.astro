@@ -9,13 +9,9 @@ import { FACTS, SITE } from '../config/site';
 import { spot } from '../lib/spots';
 
 // Copy and structure follow Micky's repositioning briefing (2026-09-15, decision D23).
-const roots = [
-  { href: '/blog/tips/ervaring-turkije-fietsen/', img: '/images/headers/ervaring-turkije-fietsen.webp', label: 'Fietste naar Turkije' },
-  { href: '/blog/tips/ibiza-lounger/', img: '/images/headers/ibiza-lounger.webp', label: '200 stoelen op Ibiza' },
-  { href: '/blog/tips/wereldreis-maken-zonder-geld/', img: '/images/headers/wereldreis-maken-zonder-geld.webp', label: `${FACTS.countries} landen` },
-];
+const cover = '/images/migrated/digital-nomad-boek-verhalen-en-lessen-uit-een-vrij-leven-boek-cover-1.webp';
 ---
-<Layout title="Over Micky" description={`Micky van Zadelhoff geeft AI-workshops aan bedrijven. ${FACTS.workshops} workshops, ${FACTS.participants} deelnemers, en software die hij zelf bouwde zonder programmeerachtergrond.`} image="/images/micky/workshop-technogym.webp">
+<Layout title="Over Micky" description={`Micky van Zadelhoff geeft AI-workshops aan bedrijven. ${FACTS.workshops} workshops, ${FACTS.participants} deelnemers, en de software die hij zelf met AI bouwt.`} image="/images/micky/workshop-technogym.webp">
   <section class="relative overflow-hidden">
     <Blobs />
     <div class="wrap relative z-10 grid items-center gap-10 py-14 md:grid-cols-[5fr_6fr] sm:py-20">
@@ -104,22 +100,20 @@ const roots = [
       <div class="grid gap-4 md:max-w-3xl">
         <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">Waar ik vandaan kom</h2>
         <div class="prose prose-lg max-w-prose">
-          <p>Voor de duidelijkheid: ik ben geen programmeur. Ik heb geen programmeerachtergrond en kom uit online marketing, SEO en webdesign.</p>
-          <p>Wat ik wel deed. Ik fietste van Nederland naar Turkije zonder enige fietservaring, vertrekkend midden in de Europese winter. Ik bouwde De Moderne Nomaden uit tot een blog met tienduizenden lezers per maand en schreef er ruim 170 artikelen voor, <a href="/blog/">die nu allemaal hier staan</a>. Ik importeerde tweehonderd opblaasstoelen uit China om ze op Ibiza te verkopen, begreep niets van Spaanse importregels en gaf er uiteindelijk 165 weg aan een goed doel. Ik werkte en reisde in {FACTS.countries} landen en onderneem nog altijd internationaal.</p>
-          <p>Wat die jaren me opleverden is geen technische kennis. Het is de gewoonte om iets te proberen voordat ik weet of het gaat werken. Dat blijkt precies de vaardigheid die je nodig hebt om met AI te bouwen.</p>
-          <p class="text-base"><a href="/blog/tips/ibiza-lounger/">Lees het hele verhaal van de Ibiza-blunder</a> · <a href="/boek/">Download het gratis boek</a></p>
+          <p>Voor de duidelijkheid over mijn achtergrond: ik kom uit de IT, van online marketing, SEO en webdesign, en bouwde jarenlang websites en tools. Met AI kwam daar een toverstaf bij. Wat vroeger een team programmeurs en maanden werk kostte, bouw ik nu zelf in dagen.</p>
+          <p>Daarvoor leefde ik jaren als digital nomad. Ik bouwde De Moderne Nomaden uit tot een blog met tienduizenden lezers per maand en schreef er ruim 170 artikelen voor, <a href="/blog/">die nu allemaal hier staan</a>. Ik werkte en reisde in {FACTS.countries} landen en onderneem nog altijd internationaal.</p>
+          <p>Wat die jaren me opleverden is de gewoonte om iets te proberen voordat ik weet of het gaat werken. Dat blijkt precies de vaardigheid die je nodig hebt om met AI te bouwen.</p>
         </div>
       </div>
-      <ul class="grid gap-5 sm:grid-cols-3">
-        {roots.map((r, i) => (
-          <li>
-            <a href={r.href} class="reveal sticker sticker-hover block overflow-hidden bg-surface" data-delay={i + 1}>
-              <img src={r.img} alt="" width="700" height="394" loading="lazy" class="aspect-[16/9] w-full object-cover" />
-              <p class="px-4 py-3 text-sm font-bold">{r.label}</p>
-            </a>
-          </li>
-        ))}
-      </ul>
+      <a href="/boek/" class="reveal sticker sticker-hover grid items-center gap-6 bg-violet-soft p-6 sm:grid-cols-[auto_1fr_auto] sm:p-8" data-delay={1}>
+        <img src={cover} alt="" width="120" height="150" loading="lazy" class="sticker h-32 w-auto -rotate-2 justify-self-center" />
+        <div class="grid gap-1">
+          <p class="eyebrow">Gratis boek</p>
+          <p class="font-display text-xl font-bold">Digital nomad: verhalen en lessen uit een vrij leven</p>
+          <p class="text-muted">De verhalen uit die jaren staan in mijn boek. Gratis te downloaden als pdf, geen e-mailadres nodig.</p>
+        </div>
+        <span class="btn btn-primary justify-self-start sm:justify-self-end">Download het boek</span>
+      </a>
       <PressRow />
     </div>
   </section>

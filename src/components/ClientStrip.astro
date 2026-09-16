@@ -15,7 +15,10 @@ const { compact = false } = Astro.props;
       {CLIENTS.map((c) => (
         <li>
           {c.logo
-            ? <img src={c.logo} alt={c.name} loading="lazy" class="h-7 w-auto max-w-[150px] grayscale opacity-90 sm:h-8" />
+            ? <span class="inline-flex items-center gap-2">
+                <img src={c.logo} alt={'mark' in c && c.mark ? '' : c.name} loading="lazy" class="h-7 w-auto max-w-[150px] grayscale opacity-90 sm:h-8" />
+                {'mark' in c && c.mark && <span class="font-display text-[15px] font-bold tracking-tight text-ink/85">{c.name}</span>}
+              </span>
             : <span class="font-display text-[15px] font-bold tracking-tight text-ink/85">{c.name}</span>}
         </li>
       ))}

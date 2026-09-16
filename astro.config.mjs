@@ -17,6 +17,17 @@ export default defineConfig({
   trailingSlash: 'ignore',
   output: 'server',
   adapter: node({ mode: 'standalone' }),
+  // Hosts the Node server may trust for the request URL. Without this Astro 5 falls back to
+  // "localhost", and the built-in CSRF check then rejects the intake form's POST in production.
+  security: {
+    allowedDomains: [
+      { hostname: 'mickyvanzadelhoff.com' },
+      { hostname: '*.mickyvanzadelhoff.com' },
+      { hostname: '*.up.railway.app' },
+      { hostname: 'localhost', port: '4321' },
+      { hostname: '127.0.0.1', port: '4321' },
+    ],
+  },
   integrations: [
     sitemap({
       filter: (page) => !page.includes('/go/') && !page.includes('/downloads/'),

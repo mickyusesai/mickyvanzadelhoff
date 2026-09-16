@@ -1,8 +1,8 @@
 ---
 title: "Leads genereren voor jouw mailinglijst – 32 manieren"
-description: "Ervan uitgaande dat u al aan uw eerste e-mailmarketingcampagne begint. Super goed!"
+description: "32 manieren om leads te genereren voor je mailinglijst, plus de e-mailtools, pop-uptools en toestemmingsregels (AVG, Telecommunicatiewet) van 2026."
 date: 2019-10-01
-updated: 2023-01-02
+updated: 2026-09-16
 category: "ondernemen"
 slug: "leads-genereren-mailinglijst"
 lang: "nl"
@@ -10,202 +10,218 @@ draft: false
 featuredImage: "/images/headers/leads-genereren-mailinglijst.webp"
 ---
 
-Ervan uitgaande dat u al aan uw eerste e-mailmarketingcampagne begint. Super goed!
+Klaar om **leads te genereren** voor je mailinglijst? Mooi. Een vorm van leadgeneratie is essentieel voor je bedrijf, want **zonder leads geen klanten**.
 
-Klaar om **leads te genereren** voor op jouw mailinglijst?
+In dit artikel vind je **32 manieren om nieuwe contacten op je mailinglijst te krijgen**, gratis en betaald, van je website tot de toonbank in je winkel. Vooraf lees je welke e-mailsoftware je in 2026 nodig hebt (en wat die kost) en wat er volgens de AVG en de Telecommunicatiewet wel en niet mag bij het verzamelen van e-mailadressen.
 
-Zo niet, dan kun je deze stapsgewijze handleidingen over e-mailmarketing lezen. [Hoe je mailings maakt en verzendt](/blog/ondernemen/mailing-maken-versturen/) en [hoe je in 2023 e-mailmarketing uitvoert](/blog/ondernemen/e-mail-marketing/) (met voorbeelden met behulp van software).
+Begin je net met e-mailmarketing? Lees dan eerst mijn stappenplannen: [hoe je een mailing maakt en verstuurt](/blog/ondernemen/mailing-maken-versturen/) en [hoe je e-mailmarketing opzet](/blog/ondernemen/e-mail-marketing/), met voorbeelden.
 
-Een vorm van leadgeneratie is enorm belangrijk voor jouw business. **Zonder leads, geen klanten**.
+Als ondernemer heb je tal van marketingkanalen, maar als er bij mij één stipt op nummer één staat, is het de mailinglijst. Waarom, vertel ik hieronder. Het heeft iets weg van een quote die ik ooit hoorde op een marketingcongres:
 
-Daarom gaan we het hebben over leads genereren. Je vind in dit artikel **32 manieren die je kunt gebruiken om nieuwe mailcontacten zich in te laten schrijven op jouw mailinglijst**. Vaak is dat de eerste plek waar een gegenereerde lead terecht komt.
+> _"Give me 10.000 e-mails and I will make you a millionaire."_
 
-Als ondernemer zijn er tal van kanalen die je kunt gebruiken voor je marketing, maar als er één kanaal bij mij stipt op nummer één staat, dan is dat de mailinglijst. Waarom zal ik je later vertellen, maar het heeft iets weg van de volgende quote die ik voorbij hoorde komen op een marketing congres.
+**Mailinglijsten** zijn flinke business voor ondernemers, en vaak geldt: hoe groter, hoe beter. Let's start!
 
-> _“Give me 10.000 e-mails and I will make you a millionaire.”_
-
-**Mailinglijsten** zijn flinke business voor ondernemers, en vaak geldt, hoe groter, hoe beter. **Let’s start!**
-
-**[Wil je jouw e-mail marketing liever uitbesteden? Dan vind je hier op Fiverr goede opties voor zoals deze. >>](/go/fiverr-email-marketing)**
+**[Wil je je e-mailmarketing liever uitbesteden? Op Fiverr vind je daar goede opties voor, zoals deze. >>](/go/fiverr-email-marketing)**
 
 ## Waarom is leads genereren zo belangrijk?
 
-Voordat we ingaan op de manieren om leads te genereren, deel ik graag **waarom dit zo ontzettend belangrijk** is.
+Voordat we naar de manieren gaan, deel ik graag **waarom dit zo belangrijk is**.
 
-Met mijn bedrijf ‘[De Moderne Nomaden](/)’ was ik aan het begin veel op zoek naar klanten. Ik dacht toen nog dat Facebook advertenties en Google Adwords dé manieren zouden zijn om klanten te krijgen. Dat werkte…
+Met mijn blog [De Moderne Nomaden](/blog/) (dat inmiddels op deze site staat) was ik in het begin druk op zoek naar klanten. Ik dacht toen dat Facebook-advertenties en Google Ads dé manier waren om klanten te krijgen. En dat werkte…
 
-Ik gaf geld aan Facebook en Google en kreeg daar klanten voor terug. Top zou je denken.
+Ik gaf geld aan Facebook en Google en kreeg er klanten voor terug. Top, zou je denken.
 
-Er was alleen **één groot nadeel**. Wanneer ik stopte met geld geven aan Facebook en Google, kreeg ik geen nieuwe klanten meer. Ik moest dus geld blijven investeren.
+Er was alleen **één groot nadeel**. Zodra ik stopte met betalen, stopten de nieuwe klanten. Ik moest dus geld blijven investeren.
 
-> _“Het was dat moment dat ik begon met het groeien van mijn mailinglijst. Mensen schreven zich in en als ik nu iets te verkopen had stuurde ik hen een mailtje._
-> 
-> _**Daar hoefde ik niets extra’s voor te betalen**, mailen is immers gratis (buiten de kosten van een [marketingmail programma als Enormail](/blog/review/enormail-review/) dan).”_
+> _"Op dat moment begon ik met het laten groeien van mijn mailinglijst. Mensen schreven zich in en als ik iets te verkopen had, stuurde ik hen een mailtje._
+>
+> _**Daar hoefde ik niets extra's voor te betalen**, mailen is immers gratis (buiten de kosten van een [e-mailmarketingprogramma als Enormail](/blog/review/enormail-review/) dan)."_
 
-Niet dat ik altijd gratis aan die e-mail adressen kwam overigens. Ik moest tenslotte nog wel wat advertenties laten lopen voor die adressen. Alleen was het nu **een eenmalige investering**. Ik hoefde niet steeds opnieuw te betalen om **dezelfde mensen te bereiken**.
+Niet dat ik die e-mailadressen altijd gratis kreeg. Ik liet nog steeds advertenties lopen om aan adressen te komen. Alleen was dat nu **een eenmalige investering**: ik hoefde niet steeds opnieuw te betalen om **dezelfde mensen te bereiken**. Inmiddels gebruik ik vooral **gratis manieren om leads te genereren**. Opties genoeg!
 
-Inmiddels gebruik ik alleen nog maar **gratis manieren om leads te genereren**. Opties genoeg!
+## Welke e-mailsoftware heb je nodig in 2026?
 
-Om leads te genereren op jouw mailinglijst heb je e-mail marketing software nodig. Mijn favoriet daarvoor is Enormail. Daarmee verzend ik al mijn marketing mails en pas ik onderstaande manieren toe. Op [deze pagina](/blog/review/enormail-review/) leg ik stap voor stap uit hoe je zelf mailingen kunt versturen naar jouw leads. [**› Enormail gebruiken voor lead opvolging**](/blog/review/enormail-review/)
+Om leads te verzamelen heb je e-mailmarketingsoftware nodig: daar staat je lijst in, daarmee maak je je opt-in formulieren en van daaruit verstuur je (automatische) mails. Zelf werk ik met het Nederlandse [Enormail](/blog/review/enormail-review/): onbeperkt verzenden vanaf €15 per maand voor 2.500 contacten, 30 dagen gratis proberen en inmiddels met AI-integratie. Andere opties die ik in 2026 zou bekijken:
 
+*   **Laposta** (Nederlands): gratis tot 2.000 contacten, wel met een Laposta-vermelding onder je mail.
+*   **MailerLite**: gratis tot 250 abonnees, betaald vanaf $12 per maand, met een AI-schrijfassistent.
+*   **Mailchimp**: ooit dé gratis start, maar het gratis pakket is in 2026 teruggebracht tot 250 contacten en 500 mails per maand; betaald vanaf $13 per maand.
+*   **Kit** (het vroegere ConvertKit): gratis tot 10.000 abonnees, gericht op creators en nieuwsbriefschrijvers.
+*   **Brevo** (het vroegere Sendinblue): gratis tot 300 mails per dag, betaald vanaf €7 per maand.
 
-## Manieren om leads te genereren voor jouw mailinglijst
+Welke je ook kiest: stel meteen je eigen domein in met SPF, DKIM en DMARC. Gmail en Yahoo eisen dat sinds februari 2024 van iedereen die meer dan 5.000 mails per dag verstuurt, net als een uitschrijflink die met één klik werkt. Je software regelt de techniek, maar jij moet het aanzetten. Anders belanden je zorgvuldig verzamelde leads in de spambox.
 
-Hieronder vind je **alle gratis en betaalde manieren** om leads te genereren voor jouw mailinglijst. De volledige lijst om van jouw [e-mail marketing](/blog/ondernemen/e-mail-marketing/) een succes te maken.
+## Wat mag wel en niet? AVG en Telecommunicatiewet
 
-## 1. Bloggen
+Leads genereren betekent persoonsgegevens verzamelen, dus de AVG geldt. Daarnaast regelt artikel 11.7 van de Telecommunicatiewet het versturen van commerciële e-mail. De kern:
 
-De eerste manier is ook gelijk de manier die mijzelf de **meeste inschrijvingen** oplevert. [Met het schrijven van blogs op mijn website trek ik gratis](/blog/ondernemen/blog-beginnen-starten-stappenplan/) (organisch) bezoek via Google. Deze mensen melden zich vaak aan op mijn mailinglijst om op de hoogte te worden gehouden rondom nieuwe blogs en artikelen.
+*   **Toestemming vooraf (opt-in).** Je mag pas commerciële mails sturen als iemand daar actief mee heeft ingestemd. Een vooraf aangevinkt vakje geldt niet als toestemming.
+*   **Bestaande klanten zijn de uitzondering.** Wie iets bij je heeft gekocht, mag je mailen over je eigen, soortgelijke producten, mits je dat bij het bestellen hebt gemeld en de klant zich toen én in elke mail kan afmelden. De ACM vindt een zin in je privacyverklaring daarvoor niet genoeg.
+*   **Zeg waar iemand voor tekent.** Wees duidelijk over wat je gaat sturen en hoe vaak. Een dubbele opt-in (bevestigingsmail) is niet verplicht, maar geeft je wel bewijs.
+*   **Pop-ups en tracking.** Sinds 2025 controleert de Autoriteit Persoonsgegevens actief cookiebanners; ze waarschuwde al ruim tweehonderd organisaties. Laat je pop-up- of analysetool dus geen trackingcookies plaatsen voordat de bezoeker toestemming gaf.
 
-Het enige wat je nodig hebt is **een opt-in formulier** waar zij zich gemakkelijk op in kunnen schrijven. Deze opt-in formulieren maak ik zelf met [Enormail](/blog/review/enormail-review/).
+## De 32 manieren op een rij
 
-## 2. Gratis e-book
+Hieronder vind je **alle gratis en betaalde manieren** om leads te genereren voor je mailinglijst, gegroepeerd per plek: je website, je bestaande contacten, social media en advertenties, en tot slot het opt-in formulier zelf.
 
-**Geef iets gratis weg aan mensen in ruil voor het e-mail adres van een lead**. Maak bijvoorbeeld een e-book dat ze ontvangen wanneer ze zich inschrijven.
+## Op je eigen website
 
-Deze trigger werkt erg goed omdat mensen er direct iets voor terug krijgen. Dit kun je zowel doen via jouw website als via een social media kanaal.
+### 1. Bloggen
 
-Een post op mijn eigen persoonlijke Facebook account met een gratis e-book leverde mij binnen één dag **honderd e-mail adressen** en leads op.
+De eerste manier levert mij zelf de **meeste inschrijvingen** op. [Met blogs op mijn website trek ik gratis](/blog/ondernemen/blog-beginnen-starten-stappenplan/) (organisch) bezoek via Google. Die lezers melden zich aan om nieuwe artikelen in hun mailbox te krijgen.
 
-## 3. Leads genereren met content upgrade na je blogpost
+Het enige wat je nodig hebt is **een opt-in formulier** waarop ze zich makkelijk kunnen inschrijven; die maak ik in [Enormail](/blog/review/enormail-review/). Houd er wel rekening mee dat Google sinds 2025 steeds vaker zelf het antwoord geeft met AI Overviews. [Schrijf dus over je eigen ervaring en cijfers](/blog/ondernemen/webteksten-schrijven/), want daar klikken mensen nog voor door.
 
-Stel mensen zitten op [jouw blog](/blog/ondernemen/blog-beginnen-starten-stappenplan/) en lezen over een onderwerp in een artikel dat jij hebt geschreven. Dan kan het een idee zijn om aan het einde van je artikel te zeggen dat er nog een aanvulling op de content is die ze kunnen ontvangen in hun mailbox.
+### 2. Gratis e-book
 
-[Dit is een onderdeel van contentmarketing](/blog/ondernemen/content-marketing/) en deze truc werkt erg goed omdat mensen al weten **dat je geen onzin schrijft**, ze hebben immers je artikel al tot het einde gelezen.
+**Geef iets gratis weg in ruil voor een e-mailadres**, bijvoorbeeld een e-book. Dit werkt goed omdat mensen er direct iets voor terugkrijgen, via je website of via social media. Een post op mijn persoonlijke Facebookaccount met een gratis e-book leverde mij in één dag **honderd e-mailadressen** op.
 
-## 4. Gebruik een mobiele pop-up
+Maken hoeft geen weken te duren: laat ChatGPT of Claude een opzet maken uit je beste blogartikelen en schrijf de voorbeelden en de conclusie zelf. Eerlijk is eerlijk: [mijn eigen boek](/boek/) geef ik op deze site tegenwoordig weg zonder e-mailadres te vragen, een bewuste keuze voor deze site. Als leadmagneet heeft het e-book jarenlang uitstekend gewerkt.
 
-De meeste websitegebruikers zijn in veel gevallen mobiele gebruikers. Op de website waar je nu bent komt **72% met hun mobiel** binnen. Een pop-up op mobiel die vraagt om een e-mail adres in ruil voor content of een kleine korting is dan enorm effectief. Zie het onderstaande voorbeeld.
+### 3. Content upgrade na je blogpost
+
+Stel, mensen lezen op [jouw blog](/blog/ondernemen/blog-beginnen-starten-stappenplan/) een artikel over een onderwerp. Zeg dan aan het einde dat er een aanvulling is (een checklist, template of extra hoofdstuk) die ze in hun mailbox kunnen ontvangen.
+
+[Dit is een onderdeel van contentmarketing](/blog/ondernemen/content-marketing/) en het werkt zo goed omdat mensen al weten **dat je geen onzin schrijft**; ze hebben je artikel immers tot het einde gelezen.
+
+### 4. Gebruik een mobiele pop-up
+
+In Nederland komt bijna 55% van het webverkeer via mobiel (StatCounter, augustus 2026). Een pop-up op mobiel die om een e-mailadres vraagt in ruil voor content of een kleine korting is dan enorm effectief. Zie het voorbeeld hieronder van mijn oude site.
 
 ![Mailinglijst mobiele pop up](/images/migrated/71570038_442050559993938_8664595185327407104_n.webp "mailinglijst mobiele pop up")
 
-## 5. Start een loyalty programma
+De meeste e-mailtools hebben tegenwoordig een eigen pop-upfunctie. Wil je meer sturing (timing, scroll, per pagina), kijk dan naar OptinMonster (vanaf $7 per maand, actieprijs bij jaarbetaling) of naar Poptin en Hello Bar, die allebei een gratis pakket hebben.
 
-Een manier om enerzijds klanten meer aan je te koppelen en anderzijds vaker te laten terugkomen; **een loyalty programma**. Uiteraard moet je dan wel over de brug komen met unieke deals en kortingen ?.
+### 5. Gebruik een exit pop-up
 
-## 6. Geef een beloning voor inschrijvingen op je mailinglijst
+Met een exit pop-up (die verschijnt zodra de muis naar de sluitknop beweegt) geef je bezoekers die je website verlaten nog één kans om zich in te schrijven. Een bezoeker die wegklikt zonder in te schrijven, zie je meestal niet terug; zo vang je hem alsnog.
 
-Vraag mensen die al op de mailinglijst staan om anderen hiervoor uit te nodigen in ruil voor een beloning. Dit systeem heeft **AirBnB en Booking.com groot gemaakt**. Zij geven letterlijk financiële beloningen aan leden die nieuwe leads genereren.
+### 6. Gebruik een header opt-in
 
-## 7. Plaats een inschrijf link op je visite kaartje
-
-Zorg dat er op je visitekaartje **een call-to-action is richting jouw mailinglijst**. Dit kan een link zijn letterlijk naar je opt-in pagina.
-
-## 8. E-mail handtekening
-
-De onderkant van je e-mail kun je volledig zelf invullen. Wat nou als je daar een standaard linkje in zet met een opt-in richting jouw mailinglijst. Iets als, **‘op de hoogte blijven?’** of een **gratis give-away**.
-
-## 9. Zet e-mail openbaar
-
-Zorg dat mensen weten wat voor soort content je deelt in je e-mails. Doe dit door je verzonden mails op je website of social media te delen. Hierdoor weten nieuwe mensen voordat ze zich inschrijven op jouw mailinglijst, wat ze kunnen verwachten.
-
-## 10. Gebruik A/B testing
-
-Dit is meer een **pro tip**. Kijken welke call-to-action het beste werkt door deze te testen. Een paar andere woorden maken immers een groot verschil in conversie en zorgen voor meer leads.
-
-## 11. Reageer op blogs
-
-Op veel artikelen en blogs online kun je reageren. Laat je reactie achter (wel een oprechte uiteraard) en vul het website onderdeel in het formulier in met een link naar de opt-in pagina.
-
-Wanneer mensen je reactie interessant vinden zou het zomaar kunnen dat ze je willen gaan volgen!
-
-## 12. Spin het rad
-
-**De allerleukste manier voor het verkrijgen van leads** is een ‘spin het rad’ feature. Deze heb ik zelf ooit ingesteld voor een klant van mij. Zeer efficiënt en een plezier voor de gebruiker. Het is tevens een manier om korting te geven, maar dan wel in de vorm van een spelelement.
-
-![Opt in formulier mailinglijst](/images/migrated/71383178_653355018407033_7417238800264331264_n.webp "opt in formulier mailinglijst")
-
-## 13. Doe een winactie op Facebook
-
-Je kunt ook een winactie op Facebook doen met een advertentie. Gebruik de advertentie soort ‘**leads verzamelen**’ om e-mail adressen te verzamelen van mensen die meedoen met de winactie. Zeer zinvol als je een afgebakende doelgroep hebt en iets ‘groots’ om weg te geven.
-
-## 14. Vraag om een review
-
-Vraag mensen een review achter te laten. Vraag dat op het bonnetje wat ze in je zaak hebben gekregen. Bij het achterlaten van de review krijgen ze als dank een gratis koffie of wat dan ook relevant is. Nu heb jij het e-mail adres én een review.
-
-## 15. Winactie offline
-
-Zet in je winkel een glazen bol neer waar mensen hun e-mail in kunnen vullen voor een winactie. Denk aan iets als ‘raad het aantal knikkers in deze bak en win een gratis …’.
-
-## 16. Voeg anti spam toe
-
-Onder de opt-in button kan het geen kwaad te vermelden dat je informatie nooit doorspeelt aan derden. Dit geeft mensen vertrouwen en verhoogt de inschrijfratio.
-
-## 17. Checkbox bij uitchecken
-
-Heb je een webshop? Zorg dan dat klanten altijd kunnen aanvinken of ze nieuwe acties willen ontvangen in de toekomst. Zij zijn immers al klant en daarmee **een ideale doelgroep voor je mailinglijst**.
-
-## 18. Maak gebruik van testimonials
-
-Vraag mensen die al zijn ingeschreven op je mailinglijst eens wat ze daarvan vinden en **maak de testimonials zichtbaar bij de opt-in pagina**. Mensen krijgen al genoeg spam binnen en willen dan ook graag weten waarom het de moeite waard is om jou te volgen op de mail.
-
-## 19. Gebruik sociale bewijskracht
-
-Zet bij je opt-in formulier ook neer hoeveel mensen er al ingeschreven zijn op jouw mailinglijst. Sociale bewijskracht is immers een sterke overtuigingstechniek.
-
-## 20. Gebruik een header opt-in
-
-Zet op je website een opvallende header met daarin een opt-in box. Hoe opvallender hoe beter. Doe je inspiratie op met het voorbeeld hieronder.
+Zet bovenaan je website een opvallende balk met daarin een opt-in box. Hoe opvallender, hoe beter. Doe inspiratie op met het voorbeeld hieronder.
 
 ![Opt in header mailinglist](/images/migrated/opt-in-header-mailinglist.webp "opt-in-header-mailinglist")
 
-## 21. Over ons pagina
+### 7. Over-ons-pagina
 
-Vergeet op de ‘over ons’-pagina op jouw website niet te vragen om een inschrijving op de mailinglijst. Mensen op deze pagina zijn in het bijzonder geïnteresseerd in wat jij doet.
+Vergeet niet om op de 'over ons'-pagina te vragen om een inschrijving. Mensen op deze pagina zijn juist geïnteresseerd in wie jij bent en wat je doet.
 
-## 22. Werk samen met een influencer
+### 8. Spin het rad
 
-Doe een crossmediale campagne met een influencer en verzamel vanuit daar leads voor jouw mailinglijst. Handig als je binnen één keer een volledig nieuwe doelgroep wilt bereiken.
+**De allerleukste manier om leads te verzamelen** is een 'spin het rad'-functie. Deze heb ik ooit ingesteld voor een klant van mij. Zeer efficiënt en een plezier voor de gebruiker. Het is tevens een manier om korting te geven, maar dan als spelelement. Voor Shopify is er Wheelio; OptinMonster heeft er kant-en-klare templates voor.
 
-## 23. Leads genereren met een webinar
+![Opt in formulier mailinglijst](/images/migrated/71383178_653355018407033_7417238800264331264_n.webp "opt in formulier mailinglijst")
 
-Met een webinar (online seminar) kun je potentiële klanten informeren en laten kennismaken. Bij het opgeven voor een webinar kun je het e-mail adres automatisch laten doorplaatsen naar je mailinglijst.
+### 9. Quiz it!
 
-## 24. Segmenteer je mailinglijst
+**Leads genereren met een quiz** die relevant is voor je doelgroep. Om de uitslag te ontvangen, laat je mensen hun e-mailadres invullen. De vragen en uitslagen laat ik tegenwoordig door AI voorstellen; de scherpe randjes maak ik zelf.
 
-Zorg dat je je mailinglijst segmenteert. Dat houd in dat je verschillende doelgroepen aanmaakt op basis van interesses. Dit zorgt ervoor dat mensen die op de mailinglijst staan, beter gerichte e-mails ontvangen en daarmee positiever zijn over de mailinglijst en deze sneller zullen delen dan wanneer deze niet gesegmenteerd is.
+### 10. Checkbox bij het afrekenen
 
-## 25. Youtube verwijzing
+Heb je een webshop? Laat klanten bij het afrekenen aanvinken of ze acties willen ontvangen. Zij zijn al klant en daarmee **een ideale doelgroep voor je mailinglijst**. Zet het vakje niet standaard aan; wil je bestaande klanten zonder vinkje mailen, gebruik dan netjes de klantuitzondering hierboven.
 
-Maak je tutorials of video’s op Youtube? Zorg dat onder iedere video duidelijk is dat mensen je kunnen volgen op de mailinglijst. Maak het een crossmediale strategie!
+## Via je bestaande contacten en klanten
 
-## 26. Quiz it!
+### 11. Start een loyaliteitsprogramma
 
-**Leads genereren met een quiz** die relevant is voor jouw doelgroep. Om de resultaten van de quiz op te halen kun je mensen vragen om hun e-mail adres.
+Een manier om klanten enerzijds meer aan je te binden en anderzijds vaker terug te laten komen: **een loyaliteitsprogramma**. Uiteraard moet je dan wel over de brug komen met unieke deals en kortingen.
 
-## 27. Share, share, share
+### 12. Beloon het aanbrengen van nieuwe inschrijvers
 
-Deel je opt-in link op alle soorten media. Denk hierbij niet alleen aan Facebook en Instagram (in je bio), maar ook aan Linked In en Pinterest.
+Vraag mensen die al op je lijst staan om anderen uit te nodigen, in ruil voor een beloning. Dropbox (gratis opslag per aangebrachte vriend) en Airbnb zijn er groot mee geworden.
 
-## 28. Google Adwords
+### 13. Vraag om te forwarden
 
-Adverteer je opt-in pagina op relevante (goedkope) zoekwoorden via Google Adwords.
+Vraag je huidige lezers om je mail door te sturen naar kennissen voor wie de mail ook relevant is, met daarin een link naar je opt-in pagina. Het zal je verbazen hoeveel mensen dat doen bij een zinnige mail.
 
-## 29. Gebruik een exit pop-up
+### 14. E-mailhandtekening
 
-Met een exit pop-up met daarin jouw opt-in formulier zorg je ervoor dat mensen die jouw website anders zouden verlaten zich alsnog in kunnen schrijven.
+De onderkant van je e-mail vul je zelf in. Zet daar een standaard linkje naar je opt-in pagina: iets als **'op de hoogte blijven?'** of een **gratis weggever**.
 
-**Zo’n 70% van de website bezoekers verlaat een website om nooit meer terug te komen**. Zo kun je hen alsnog vangen, niets te verliezen op dat vlak.
+### 15. Visitekaartje
 
-## 30. Relevantie
+Zorg dat er op je visitekaartje **een call-to-action richting je mailinglijst** staat. In 2026 is dat een QR-code die direct naar je opt-in pagina leidt.
 
-Zorg dat je opt-in formulier relevant is aan de doelgroep. Relevantere opt-ins hebben een veel hogere conversie rate, ook al eindigen ze op dezelfde mailinglijst. Kies dus bijvoorbeeld per pagina op je website een ander opt-in formulier dat aansluit op de pagina.
+### 16. Vraag om een review
 
-## 31. Autoriteit uitstralen
+Vraag klanten een review achter te laten, bijvoorbeeld via een link of QR-code op de bon. Als dank krijgen ze een gratis koffie of iets anders relevants. Nu heb jij het e-mailadres én een review.
 
-Zet bij je opt-in formulier waarom jij een autoriteit/expert bent in jouw vakgebied. Zorg dat er een reden is waarom mensen JOU willen volgen op een mailinglijst.
+### 17. Winactie offline
 
-## 32. Forwarden
+Zet in je winkel een glazen bol neer waar mensen hun e-mailadres in kunnen doen voor een winactie. Denk aan 'raad het aantal knikkers in deze bak en win een gratis…'. Zet op het briefje wel wat ze verder van je ontvangen.
 
-Vraag jouw huidige audience om jouw mail te forwarden naar hun kennissen voor wie de mail ook relevant is. Het zal je verbazen hoeveel mensen dat doen bij een zinnige mail.
+## Via social media en advertenties
+
+### 18. Share, share, share
+
+Deel je opt-in link op alle soorten media. Niet alleen Facebook en Instagram (in je bio), maar ook LinkedIn, Pinterest en TikTok.
+
+### 19. YouTube-verwijzing
+
+Maak je tutorials of video's op YouTube? Zet onder iedere video duidelijk dat mensen je kunnen volgen via de mail. Maak er een crossmediale strategie van!
+
+### 20. Start een LinkedIn-nieuwsbrief
+
+Op LinkedIn kun je een nieuwsbrief publiceren waarop je netwerk zich met één klik abonneert. Ideaal voor B2B. Alleen: die abonnees zijn van LinkedIn, niet van jou. Zet daarom in elke editie een link naar je eigen opt-in pagina.
+
+### 21. Winactie met een leadadvertentie op Meta
+
+Doe een winactie op Facebook of Instagram met een advertentie. Gebruik het advertentieformaat met een **leadformulier** (Meta noemt het een instant form) om e-mailadressen te verzamelen van mensen die meedoen. Zeer zinvol als je een afgebakende doelgroep hebt en iets 'groots' om weg te geven.
+
+### 22. Google Ads
+
+Adverteer je opt-in pagina op relevante (goedkope) zoekwoorden via Google Ads.
+
+### 23. Werk samen met een influencer
+
+Doe een campagne met een influencer en verzamel van daaruit leads voor je mailinglijst. Handig als je in één keer een volledig nieuwe doelgroep wilt bereiken.
+
+### 24. Leads genereren met een webinar
+
+Met een webinar (online seminar) informeer je potentiële klanten en laat je ze kennismaken. Bij het aanmelden voor een webinar laat je het e-mailadres automatisch doorzetten naar je mailinglijst. [Welke webinarsoftware ik gebruik, lees je hier](/blog/ondernemen/webinar-software-review/).
+
+### 25. Zet je e-mails openbaar
+
+Zorg dat mensen weten wat voor content je deelt in je e-mails. Deel je verzonden mails op je website of social media. Zo weten nieuwe mensen vóór het inschrijven wat ze kunnen verwachten.
+
+## Je opt-in formulier overtuigender maken
+
+### 26. Gebruik A/B-testen
+
+Dit is een **pro tip**. Test welke call-to-action het beste werkt. Een paar andere woorden maken een groot verschil in conversie en dus in leads. De meeste e-mailtools en pop-uptools hebben A/B-testen ingebouwd.
+
+### 27. Een privacyzin onder de knop
+
+Onder de opt-in button kan het geen kwaad te vermelden dat je gegevens nooit doorgeeft aan derden. Dat geeft vertrouwen en verhoogt de inschrijfratio, en het is meteen de informatie die de AVG van je vraagt.
+
+### 28. Maak gebruik van testimonials
+
+Vraag mensen die al zijn ingeschreven wat ze van je mails vinden en **zet die testimonials bij je opt-in formulier**. Mensen krijgen genoeg spam binnen en willen weten waarom het de moeite waard is om jou te volgen.
+
+### 29. Gebruik sociale bewijskracht
+
+Zet bij je opt-in formulier hoeveel mensen er al zijn ingeschreven. Sociale bewijskracht is een sterke overtuigingstechniek.
+
+### 30. Relevantie
+
+Zorg dat je opt-in formulier aansluit op de pagina waar het staat. Relevante opt-ins converteren veel beter, ook al eindigen ze op dezelfde mailinglijst. Kies dus per pagina een ander formulier met een andere belofte.
+
+### 31. Autoriteit uitstralen
+
+Zet bij je opt-in formulier waarom jij een expert bent in je vakgebied. Zorg dat er een reden is waarom mensen JOU willen volgen.
+
+### 32. Segmenteer je mailinglijst
+
+Segmenteer je lijst: maak verschillende groepen op basis van interesses. Mensen ontvangen dan gerichtere e-mails, zijn positiever over je mailinglijst en delen die sneller dan een lijst waarin iedereen alles krijgt.
 
 ## Conclusie leads genereren via jouw mailinglijst
 
-[Een e-mailmarketingcampagne maken](/blog/ondernemen/mailing-maken-versturen/) en leads genereren voor jouw [e-mail marketing](/blog/ondernemen/e-mail-marketing/) is **belangrijk** en kan je helpen je business **enorm te laten groeien**. Er zijn echter zoveel manieren om je mailinglijst te laten groeien dat je ze nooit allemaal zult gebruiken. Het is dus essentieel hier keuzes in te maken.
+[Een e-mailmarketingcampagne maken](/blog/ondernemen/mailing-maken-versturen/) en leads genereren voor je [e-mailmarketing](/blog/ondernemen/e-mail-marketing/) is **belangrijk** en kan je bedrijf **enorm laten groeien**. Er zijn zoveel manieren om je mailinglijst te laten groeien dat je ze nooit allemaal zult gebruiken. Maak dus keuzes.
 
-Kies voor een manier van leads genereren die past bij jouw business en persoonlijkheid. Ga er vervolgens vol in en **werk aan een mooie database van e-mail adressen** waar je je e-mail marketing op los kunt laten. Het groeien duurt soms wat lang, maar is zeker de moeite waard.
+Kies voor een manier van leads genereren die past bij je bedrijf en je persoonlijkheid. Ga er vervolgens vol in en **bouw aan een mooie database van e-mailadressen** waar je je e-mailmarketing op los kunt laten. Het groeien duurt soms wat lang, maar is de moeite waard.
 
-Zelf aan de slag met een goed marketing mailprogramma? Ik gebruik zelf [Enormail](/blog/review/enormail-review/) en zou deze zeker aanraden ;). [Lees hier mijn review over Enormail](/blog/review/enormail-review/).
+Zelf aan de slag met een goed e-mailmarketingprogramma? Ik gebruik [Enormail](/blog/review/enormail-review/) en raad het zeker aan ;). [Lees hier mijn review over Enormail](/blog/review/enormail-review/).
 
 
 <aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>

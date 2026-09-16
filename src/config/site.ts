@@ -36,11 +36,12 @@ export const STATS = [
   { value: FACTS.easyReimburseOrgs, label: 'organisaties gebruiken EasyReimburse', icon: 'stat-easyreimburse' },
 ] as const;
 
-/** Companies Micky gave workshops at. `logo` is an SVG under /images/clients/; without one the name is shown as a wordmark. */
+/** Companies Micky gave workshops at. `logo` is an SVG under /images/clients/; without one the name is shown as a wordmark.
+ *  `mark: true` means the SVG is only the emblem, so the name is shown next to it. */
 export const CLIENTS = [
   { name: 'Technogym Benelux', logo: '/images/clients/technogym.svg', url: 'https://www.technogym.com/' },
   { name: 'Mooijer Volendam', logo: '/images/clients/mooijer-volendam.svg', url: 'https://www.mooijer.nl/' },
-  { name: 'Holstein Flowers', logo: '', url: 'https://www.holsteinflowers.nl/' },
+  { name: 'Holstein Flowers', logo: '/images/clients/holstein-flowers.svg', mark: true, url: 'https://www.holsteinflowers.nl/' },
 ] as const;
 
 /** Press mentions, compact: logo (or wordmark) with a link to the article. */

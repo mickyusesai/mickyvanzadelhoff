@@ -68,5 +68,45 @@
     "name": "waarom-bewijs",
     "kind": "icon",
     "prompt": "a rosette ribbon award badge with a lime centre"
+  },
+  {
+    "name": "auto-administratie",
+    "kind": "icon",
+    "prompt": "a stack of paper invoices with a big lime check mark stamped on the top one"
+  },
+  {
+    "name": "auto-verkoop",
+    "kind": "icon",
+    "prompt": "a folded offer letter with a coral price tag hanging from its corner"
+  },
+  {
+    "name": "auto-klantcontact",
+    "kind": "icon",
+    "prompt": "an envelope with a speech bubble popping out of it"
+  },
+  {
+    "name": "auto-planning",
+    "kind": "icon",
+    "prompt": "three cardboard boxes next to a wall calendar with a lime pin"
+  },
+  {
+    "name": "auto-rapportage",
+    "kind": "icon",
+    "prompt": "a sheet of paper with a bold rising bar chart, a small coral star above the tallest bar"
+  },
+  {
+    "name": "auto-personeel",
+    "kind": "icon",
+    "prompt": "a name badge on a lanyard with a small lime check mark"
+  },
+  {
+    "name": "auto-marketing",
+    "kind": "icon",
+    "prompt": "a small megaphone next to a shopping bag"
+  },
+  {
+    "name": "auto-kennis",
+    "kind": "icon",
+    "prompt": "an open thick book with a magnifying glass resting on it"
   }
 ]

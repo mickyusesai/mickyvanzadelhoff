@@ -55,7 +55,7 @@ Waar gaat het heen en wat betekent dat voor jullie werk? Korte discussie en de v
 
 **Wat kost het?** €1.500 excl. btw voor de hele groep tot 25 deelnemers, inclusief reiskosten, trainer en voorbereiding.
 
-**Wie geeft de workshop?** Micky van Zadelhoff: sinds 2024 142 AI-workshops, bouwde zelf EasyReimburse en heeft geen programmeerachtergrond. [Lees mijn verhaal](/over/) of check [LinkedIn](https://www.linkedin.com/in/mick-van-zadelhoff-1ab40726/).
+**Wie geeft de workshop?** Micky van Zadelhoff: sinds 2024 142 AI-workshops, bouwde zelf EasyReimburse en komt uit de IT. [Lees mijn verhaal](/over/) of check [LinkedIn](https://www.linkedin.com/in/mick-van-zadelhoff-1ab40726/).
 
 ## Veelgestelde vragen
 

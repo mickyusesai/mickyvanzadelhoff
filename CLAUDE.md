@@ -66,7 +66,7 @@ header button says "Stuur een WhatsApp".
    from Micky's briefing 2 (2026-09-15, decision D26): he works alongside a department and automates
    what costs too much time, with two of the customer's own people; €150 per hour excl. btw, offerte
    after a free intake (a mail link), one year of service included. Sells the outcome, not the tool.
-   Inline SVG hero, eight areas with line icons, five-step timeline, FAQ. The old
+   Inline SVG hero, eight areas with spot illustrations (`auto-*`), five-step timeline, FAQ. The old
    `/ai-workshops/bouwen-met-claude-code/` answers 301 (added in `scripts/cleanup-content.py`).
    Never write "€7.500", "5 dagen" or "bouwweek" again.
 4. **About** (`/over/`) — Built directly in `over.astro` from the briefing: hero with workshop photo,
@@ -79,6 +79,11 @@ header button says "Stuur een WhatsApp".
 6. **Blog** (`/blog/`) — Secondary in navigation. Category `web3` is kept online but hidden from
    the homepage and blog overview (D3); see `HIDDEN_FROM_LISTINGS` in `src/config/site.ts`.
 7. **Contact** (`/contact/`) — WhatsApp + mail buttons, no form backend (D7).
+   **Intake form** (`/intake/`, D27) is the one exception: "Plan een gratis intake" posts to the on-demand
+   route `src/pages/api/intake.ts`, which mails Micky through SMTP with nodemailer (env on Railway:
+   `SMTP_USER`, `SMTP_PASS`, optional `SMTP_HOST`/`SMTP_PORT`/`INTAKE_TO`; with Gmail use an app
+   password) and redirects back with `?status=`. Fields: name, company, e-mail, phone, what to automate,
+   what costs time, two proposed moments (45 min, Google Meet); Micky confirms within a day.
 8. **Privacy** (`/privacy/`).
 
 ### Blog / content:
@@ -208,7 +213,9 @@ to the same path on mickyvanzadelhoff.com (decision D21); no host check in the a
   `src/data/spot-illustrations.json`, output in `public/images/spots/`, referenced through
   `src/lib/spots.ts`. See plan Phase 8 for what worked and what did not.
 - **Photos:** `public/images/micky/workshop-technogym.webp` is the workshop photo used on the homepage
-  and /over/ (a 1200px copy of the migrated Technogym photo; Micky has sharper originals to add).
+  and /over/ (a 1200px copy of the migrated Technogym photo; the sharp original is a 21 MB PNG in Micky's
+  Drive folder "Claude", too big for the Drive tool; ask for a JPG). Micky has an IT background: never
+  write "geen programmeerachtergrond" again; the line is "IT-achtergrond, met AI een toverstaf".
 - **Typography:** Generous sizing, readable. Good for long-form Dutch text.
 - **Mobile-first** — majority of blog traffic is mobile
 - **Fast:** motion must not cost content speed. No animation libraries; CSS + one small

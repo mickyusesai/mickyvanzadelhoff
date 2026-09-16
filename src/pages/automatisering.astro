@@ -6,60 +6,50 @@ import { FACTS, SITE } from '../config/site';
 
 // Briefing 2 (2026-09-15): the fixed-price "Bouwen met Claude Code" week became this service page.
 // Sells the outcome (a working automation, built with the customer's own people), not the tool.
-const intakeUrl = `mailto:${SITE.email}?subject=${encodeURIComponent('Gratis intake AI-automatisering')}`;
+import { spot } from '../lib/spots';
 
 const areas = [
-  { icon: 'receipt', title: 'Administratie en facturen', items: [
+  { icon: 'auto-administratie', title: 'Administratie en facturen', items: [
     'Inkoopfacturen uitlezen en klaarzetten voor de boekhouding, met een signaal als factuur en bestelling niet matchen',
     'Pakbonnen automatisch matchen met facturen',
     'Urenbriefjes van monteurs, ook als ze als WhatsApp-foto binnenkomen, direct in de urenregistratie',
     'Bonnetjes en declaraties verwerken en controleren',
   ] },
-  { icon: 'tag', title: 'Verkoop en offertes', items: [
+  { icon: 'auto-verkoop', title: 'Verkoop en offertes', items: [
     'Een offerte genereren uit een telefoonnotitie of een binnengekomen mail, in eigen huisstijl en met de juiste staffelprijzen',
     'Binnenkomende aanvragen classificeren, in het CRM zetten en voorzien van een vervolgactie',
     'Tenders en aanbestedingen doorlezen en omzetten naar een checklist met knelpunten',
   ] },
-  { icon: 'chat', title: 'Klantcontact', items: [
+  { icon: 'auto-klantcontact', title: 'Klantcontact', items: [
     'De inbox sorteren en concept-antwoorden klaarzetten. Verzenden blijft bij een mens',
     'Veelgestelde vragen beantwoorden op basis van jullie eigen handleidingen, niet op basis van wat AI toevallig denkt te weten',
     'Klachten samenvatten en bij de juiste persoon neerleggen',
   ] },
-  { icon: 'boxes', title: 'Voorraad en planning', items: [
+  { icon: 'auto-planning', title: 'Voorraad en planning', items: [
     'Bestellijsten op basis van verkoopdata in plaats van op gevoel',
     'Een concept-rooster of ritplanning waar de planner op doorwerkt',
     'Kwaliteits- en opleverrapporten uit foto’s van de werkvloer',
   ] },
-  { icon: 'chart', title: 'Rapportage', items: [
+  { icon: 'auto-rapportage', title: 'Rapportage', items: [
     'Een wekelijkse managementsamenvatting uit systemen die niet met elkaar praten',
     'Exports uit het ERP omzetten naar het rapport dat iemand nu elke maandagochtend in elkaar klikt',
   ] },
-  { icon: 'people', title: 'Personeel', items: [
+  { icon: 'auto-personeel', title: 'Personeel', items: [
     'Vacatureteksten en een eerste beoordeling van binnengekomen sollicitaties',
     'Vragen over verlof, verzuim en regelingen beantwoorden uit jullie eigen personeelshandboek',
   ] },
-  { icon: 'megaphone', title: 'Marketing en webshop', items: [
+  { icon: 'auto-marketing', title: 'Marketing en webshop', items: [
     'Productteksten uit specsheets, honderden artikelen tegelijk',
     'De hele catalogus vertalen naar Duits, Engels of Frans',
     'Social posts uit projectfoto’s',
   ] },
-  { icon: 'book', title: 'Kennis en documenten', items: [
+  { icon: 'auto-kennis', title: 'Kennis en documenten', items: [
     'Alle handleidingen, contracten en normen doorzoekbaar maken, zodat niemand meer door een archiefmap spit',
     'Lange documenten samenvatten tot wat er voor jullie in staat',
   ] },
 ];
 
-// One line icon per category, same stroke everywhere (briefing §4).
-const icons: Record<string, string> = {
-  receipt: '<path d="M6 3h12v18l-3-2-3 2-3-2-3 2V3z"/><path d="M9 8h6M9 12h6"/>',
-  tag: '<path d="M3 12l9-9h9v9l-9 9-9-9z"/><circle cx="16" cy="8" r="1.5"/>',
-  chat: '<path d="M4 5h16v11H9l-5 4V5z"/><path d="M8 9h8M8 12h5"/>',
-  boxes: '<path d="M3 9h8v8H3zM13 9h8v8h-8zM8 3h8v6H8z"/>',
-  chart: '<path d="M4 20V10M10 20V4M16 20v-8M22 20H2"/>',
-  people: '<circle cx="9" cy="8" r="3.5"/><path d="M2.5 20a6.5 6.5 0 0113 0"/><path d="M16 4.5a3.5 3.5 0 010 7M17.5 14a6 6 0 014 6"/>',
-  megaphone: '<path d="M3 10v4h3l8 5V5L6 10H3z"/><path d="M17 9a4 4 0 010 6"/>',
-  book: '<path d="M4 4h7a3 3 0 013 3v13a2 2 0 00-2-2H4V4z"/><path d="M20 4h-7a3 3 0 00-3 3v13a2 2 0 012-2h8V4z"/>',
-};
+// Spot illustrations per area (public/images/spots/auto-*.webp, generated with scripts/generate-spots.mjs).
 
 const steps = [
   { title: 'Intake, vrijblijvend', text: 'We bespreken wat je stoort, hoe het werk nu loopt en wat je hoopt te bereiken. Hierna weet je of het zin heeft, en krijg je een offerte met een inschatting van de tijd die nodig is.' },
@@ -77,7 +67,7 @@ const results = [
 ];
 
 const faq = [
-  { q: 'Moet ons team technisch zijn?', a: 'Nee. Ik heb zelf geen programmeerachtergrond. Wat wel helpt is iemand die het proces echt kent, want die weet welke uitzonderingen erin zitten.' },
+  { q: 'Moet ons team technisch zijn?', a: 'Nee. De techniek is mijn werk. Wat wel helpt is iemand die het proces echt kent, want die weet welke uitzonderingen erin zitten.' },
   { q: 'Werkt dit ook als we nog niets met AI doen?', a: 'Ja. Als je team eerst een gezamenlijke basis wil, is de <a href="/ai-workshops/ai-introductie/" class="font-bold text-violet underline underline-offset-2">AI Introductie</a> van drie uur daar de snelste manier voor.' },
   { q: 'Van wie is wat we bouwen?', a: 'Van jullie. De code, de toegang, de data. Ik bouw het bij jullie, niet bij mij.' },
   { q: 'Wat als het over drie maanden stukgaat?', a: 'Daar is de service van een jaar voor. Wat daaronder valt spreken we af in de offerte, omdat het per systeem enorm verschilt.' },
@@ -102,7 +92,7 @@ const faq = [
         <p class="max-w-prose text-lg text-muted animate-rise [animation-delay:.2s] sm:text-xl">Geen presentatie over wat AI ooit zou kunnen. Ik kom naar je bedrijf, kijk mee met hoe het werk nu echt gaat, en bouw samen met je eigen mensen een systeem dat het saaiste deel overneemt. Aan het eind draait het, en begrijpen jullie precies hoe het werkt.</p>
         <div class="flex flex-wrap gap-3 animate-rise [animation-delay:.3s]">
           <a href={SITE.whatsappUrl} rel="noopener" class="btn btn-primary">Stuur een WhatsApp</a>
-          <a href={intakeUrl} class="btn btn-ghost">Plan een gratis intake</a>
+          <a href="/intake/" class="btn btn-ghost">Plan een gratis intake</a>
         </div>
       </div>
       <div class="relative mx-auto w-full max-w-[460px] animate-rise [animation-delay:.3s]">
@@ -153,9 +143,7 @@ const faq = [
     <div class="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
       {areas.map((a, i) => (
         <div class="reveal sticker flex flex-col gap-4 bg-surface p-6" data-delay={(i % 4) + 1}>
-          <span class="inline-flex h-12 w-12 items-center justify-center rounded-2xl border-2 border-ink bg-lime shadow-sticker-sm" aria-hidden="true">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#17112E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" set:html={icons[a.icon]} />
-          </span>
+          <img src={spot(a.icon)} alt="" width="96" height="96" loading="lazy" class="spot -mt-2 h-20 w-20 animate-bob [--tilt:4deg]" style={`animation-delay:${(i * 0.4) % 2}s`} />
           <h3 class="font-display text-lg font-bold leading-snug">{a.title}</h3>
           <ul class="grid gap-2.5 text-[15px] leading-snug text-muted">
             {a.items.map((it) => (
@@ -202,7 +190,7 @@ const faq = [
         <p class="eyebrow">Wie erbij zit</p>
         <h2 class="text-2xl font-bold tracking-tight sm:text-[30px] sm:leading-[1.15]">Twee mensen van jouw kant, meer niet</h2>
         <p class="text-muted">Iemand die het proces door en door kent, want die weet welke uitzonderingen er in de praktijk zijn. En iemand die hoger in de organisatie zit, want er moeten knopen worden doorgehakt zonder dat we een week op akkoord wachten.</p>
-        <p class="font-semibold">Beiden hoeven niets van techniek te weten. Ik heb zelf geen programmeerachtergrond.</p>
+        <p class="font-semibold">Beiden hoeven niets van techniek te weten. Dat deel neem ik voor mijn rekening.</p>
       </div>
       <div class="reveal sticker grid gap-4 bg-surface p-7 sm:p-9" data-delay={1}>
         <p class="eyebrow">Wat je overhoudt</p>
@@ -245,7 +233,7 @@ const faq = [
           <h2 class="text-2xl font-bold sm:text-[36px] sm:leading-[1.1]">Elk bedrijf is anders, dus een vaste prijs zou een slag in de lucht zijn.</h2>
           <p class="max-w-prose text-ink/80">Ik werk op basis van een uurtarief. Na de intake krijg je een offerte met een inschatting van de benodigde tijd, zodat je vooraf weet waar je aan toe bent. De intake is gratis en verplicht je tot niets.</p>
           <div class="flex flex-wrap gap-3">
-            <a href={intakeUrl} class="btn btn-primary">Plan een gratis intake</a>
+            <a href="/intake/" class="btn btn-primary">Plan een gratis intake</a>
             <a href={SITE.whatsappUrl} rel="noopener" class="btn btn-ghost">Stuur een WhatsApp</a>
           </div>
         </div>
