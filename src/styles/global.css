@@ -55,6 +55,27 @@
   .cta-box .btn { @apply justify-self-start sm:justify-self-end; }
   .video { @apply sticker my-8 overflow-hidden bg-ink; aspect-ratio: 16 / 9; }
   .video iframe { @apply h-full w-full border-0; }
+  .table-wrap { @apply my-8 max-w-full overflow-x-auto; }
+  .prose .table-wrap table { @apply my-0 min-w-full; }
+  /* Article widgets written as HTML inside markdown (crypto guide): live figures, embedded chart, timeline */
+  .embed { @apply sticker my-8 overflow-hidden bg-surface; }
+  .embed__frame { @apply min-h-[380px] w-full; }
+  .embed__note { @apply m-0 border-t-2 border-line px-4 py-2 text-[13px] text-muted; }
+  .live-stats { @apply sticker my-8 grid gap-3 bg-violet-soft p-4 sm:grid-cols-2 sm:p-5 lg:grid-cols-4; }
+  .live-stats__tile { @apply grid gap-1 rounded-2xl border-2 border-ink bg-surface px-4 py-3; }
+  .live-stats__label { @apply m-0 text-[11px] font-extrabold uppercase tracking-[0.14em] text-muted; }
+  .live-stats__value { @apply m-0 font-display text-[22px] font-bold leading-tight text-violet; }
+  .live-stats__sub { @apply m-0 text-[13px] text-muted; }
+  .live-stats__note { @apply m-0 text-[12px] text-muted sm:col-span-2 lg:col-span-4; }
+  .timeline { @apply my-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-3; list-style: none; padding: 0; }
+  .timeline__item { @apply sticker relative grid gap-1 bg-surface p-5 pt-6; }
+  .timeline__num { @apply absolute -left-2 -top-3 inline-flex h-8 w-8 items-center justify-center rounded-full border-2 border-ink bg-lime font-display text-sm font-bold text-ink; }
+  .timeline__year { @apply m-0 text-[12px] font-extrabold uppercase tracking-[0.14em] text-violet; }
+  .timeline__title { @apply m-0 font-display text-[17px] font-bold leading-snug; }
+  .timeline__text { @apply m-0 text-[14px] leading-snug text-muted; }
+  .timeline__item--now { @apply bg-violet text-white; }
+  .timeline__item--now .timeline__year { @apply text-lime; }
+  .timeline__item--now .timeline__text { @apply text-white/80; }
 
   /* Dark band: the rhythm change borrowed from the reference site */
   .band-dark { @apply bg-ink text-white; }
