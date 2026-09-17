@@ -73,11 +73,11 @@ Tot zover even de uitleg over cryptocurrencies. Om geld te verdienen met crypto 
 
 Het zal je niet ontgaan zijn dat Bitcoin de afgelopen jaren een achtbaan was. Van een dieptepunt van zo'n **15.500 dollar per munt** eind 2022 naar een record van **ruim 125.000 dollar** in oktober 2025. Wie op dat dieptepunt durfde in te stappen, kocht met een "**fikse korting**". En dat is meteen een belangrijk punt: als investeerder wil je altijd kansen zien, ongeacht de marktsituatie.
 
-In plaats van een screenshot die na een maand verouderd is, staat hieronder de echte koers van Bitcoin in euro's. Klik op **Alles** voor de hele geschiedenis, of op **12M** voor het afgelopen jaar.
+In plaats van een screenshot die na een maand verouderd is, staat hieronder de echte koers van Bitcoin in euro's. Standaard zie je de hele geschiedenis; met de knoppen onder de grafiek zoom je in op het afgelopen jaar of de afgelopen maand.
 
 <div class="embed not-prose" id="btc-chart">
-<div class="embed__frame tradingview-widget-container"><div class="tradingview-widget-container__widget"></div></div>
-<p class="embed__note">Bitcoin in euro's op Kraken, via TradingView. De grafiek laadt pas als je hier scrolt en bevat geen advies, alleen de koers.</p>
+<div class="embed__frame"><div class="tradingview-widget-container" style="height:100%;width:100%"><div class="tradingview-widget-container__widget" style="height:100%;width:100%"></div></div></div>
+<p class="embed__note">Bitcoin in euro's op Kraken, via TradingView. Met de knoppen onder de grafiek kies je van één maand tot de hele geschiedenis. De grafiek laadt pas als je hier scrolt en bevat geen advies, alleen de koers. Zie je niets (bijvoorbeeld door een adblocker)? <a href="https://www.tradingview.com/chart/?symbol=KRAKEN%3ABTCEUR" rel="noopener" target="_blank">Bekijk de koers op TradingView</a>.</p>
 </div>
 
 <script>
@@ -87,14 +87,12 @@ In plaats van een screenshot die na een maand verouderd is, staat hieronder de e
   function load() {
     if (done) return; done = true;
     var s = document.createElement('script');
-    s.src = 'https://s3.tradingview.com/external-embedding/embed-widget-symbol-overview.js'; s.async = true;
+    s.src = 'https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js'; s.async = true;
     s.text = JSON.stringify({
-      symbols: [["Bitcoin / Euro", "KRAKEN:BTCEUR|ALL"]], chartOnly: false, width: "100%", height: 380, locale: "nl_NL",
-      colorTheme: "light", autosize: false, showVolume: false, showMA: false, hideDateRanges: false, hideMarketStatus: true,
-      hideSymbolLogo: false, scalePosition: "right", scaleMode: "Normal", fontFamily: "Manrope, -apple-system, Segoe UI, sans-serif",
-      fontSize: "11", noTimeScale: false, valuesTracking: "1", changeMode: "price-and-percent", chartType: "area", lineWidth: 2,
-      lineType: 0, dateRanges: ["1m|30", "3m|60", "12m|1D", "60m|1W", "all|1M"], lineColor: "#6D28D9",
-      topColor: "rgba(109,40,217,0.25)", bottomColor: "rgba(109,40,217,0)", backgroundColor: "#FFFFFF", gridLineColor: "rgba(228,224,245,1)"
+      autosize: true, symbol: "KRAKEN:BTCEUR", interval: "W", timezone: "Europe/Amsterdam", theme: "light", style: "3",
+      locale: "nl_NL", withdateranges: true, range: "ALL", hide_side_toolbar: true, hide_top_toolbar: false,
+      allow_symbol_change: false, save_image: false, details: false, hotlist: false, calendar: false, hide_volume: true,
+      backgroundColor: "#FFFFFF", gridColor: "rgba(228,224,245,0.7)", support_host: "https://www.tradingview.com"
     });
     frame.appendChild(s);
   }
@@ -105,7 +103,7 @@ In plaats van een screenshot die na een maand verouderd is, staat hieronder de e
 })();
 </script>
 
-Zet de grafiek op 'Alles' en het lijkt alsof de prijs van Bitcoin vóór 2017 helemaal niet bewoog. Niets is echter minder waar: van een paar euro in 2012 naar 1.000 euro in 2013 was al een stijging van honderden procenten. Alleen is dat door de **exponentiële groei** van de latere jaren niet meer zichtbaar op één schaal. Belangrijk om te begrijpen is dat mensen, als het om de prijs van Bitcoin gaat, een kort geheugen lijken te hebben. Wat de prijs ook is, er zijn altijd mensen die roepen dat het naar nul gaat. **Maar de afgelopen vijftien jaar laten, met flinke dips van 50 tot 80% tussendoor, niets anders zien dan een stijgende trend.**
+Kijk naar de hele geschiedenis en het lijkt alsof de prijs van Bitcoin vóór 2017 helemaal niet bewoog. Niets is echter minder waar: van een paar euro in 2012 naar 1.000 euro in 2013 was al een stijging van honderden procenten. Alleen is dat door de **exponentiële groei** van de latere jaren niet meer zichtbaar op één schaal. Belangrijk om te begrijpen is dat mensen, als het om de prijs van Bitcoin gaat, een kort geheugen lijken te hebben. Wat de prijs ook is, er zijn altijd mensen die roepen dat het naar nul gaat. **Maar de afgelopen vijftien jaar laten, met flinke dips van 50 tot 80% tussendoor, niets anders zien dan een stijgende trend.**
 
 Om je een idee te geven: **wie in 2012 voor €1.000,- aan Bitcoin had gekocht, is nu miljonair**. Maar daar heb jij natuurlijk niets aan, want we kunnen niet terug in de tijd. Wat je er wél uit kunt halen, is een belangrijke les. Namelijk: waarom deze trend blijft bestaan en hoe je daarvan kunt profiteren.
 

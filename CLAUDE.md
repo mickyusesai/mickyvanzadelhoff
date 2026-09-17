@@ -103,7 +103,7 @@ header button says "Stuur een WhatsApp".
   `<div class="table-wrap">` at build time (`src/lib/rehype-table-wrap.mjs`) so they scroll on phones.
   Raw HTML plus inline `<script>` is allowed in an article for live widgets; the crypto guide has three
   patterns with CSS in `global.css`: `.live-stats` (CoinGecko figures fetched client-side, with
-  server-rendered fallback numbers), `.embed` (lazy-loaded TradingView chart) and `.timeline`.
+  server-rendered fallback numbers), `.embed` (lazy-loaded TradingView advanced chart; the fixed-height `.embed__frame` must wrap the `tradingview-widget-container`, because the widget script overwrites the container height with 100%) and `.timeline`.
   Uncertain facts in refreshed articles carry `<!-- TODO: verify … -->` comments for Micky to check;
   since 2026-09-16 the rule is to remove what cannot be verified instead of flagging it.
 
