@@ -2,6 +2,7 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import tailwind from '@astrojs/tailwind';
 import node from '@astrojs/node';
+import rehypeTableWrap from './src/lib/rehype-table-wrap.mjs';
 import redirects from './src/data/redirects.json' with { type: 'json' };
 
 // Dutch-only site (decision D12). Every old demodernenomaden.nl URL, affiliate /go/ link and
@@ -34,5 +35,6 @@ export default defineConfig({
     }),
     tailwind(),
   ],
+  markdown: { rehypePlugins: [rehypeTableWrap] },
   redirects,
 });

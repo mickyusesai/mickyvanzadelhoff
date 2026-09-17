@@ -99,8 +99,13 @@ header button says "Stuur een WhatsApp".
   `redirects` in `astro.config.mjs`, fed by the same JSON. Do not hand-edit the JSON; edit the script.
 - Article markup conventions after `scripts/fix-article-markup.py`: body headings start at H2, no bold
   inside headings, in-article promo boxes are `<aside class="cta-box cta-box--book|--workshop not-prose">`,
-  YouTube embeds are `<div class="video not-prose"><iframe …></div>`. Uncertain facts in refreshed
-  articles carry `<!-- TODO: verify … -->` comments for Micky to check.
+  YouTube embeds are `<div class="video not-prose"><iframe …></div>`. Markdown tables are wrapped in
+  `<div class="table-wrap">` at build time (`src/lib/rehype-table-wrap.mjs`) so they scroll on phones.
+  Raw HTML plus inline `<script>` is allowed in an article for live widgets; the crypto guide has three
+  patterns with CSS in `global.css`: `.live-stats` (CoinGecko figures fetched client-side, with
+  server-rendered fallback numbers), `.embed` (lazy-loaded TradingView chart) and `.timeline`.
+  Uncertain facts in refreshed articles carry `<!-- TODO: verify … -->` comments for Micky to check;
+  since 2026-09-16 the rule is to remove what cannot be verified instead of flagging it.
 
 ---
 

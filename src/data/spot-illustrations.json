@@ -108,5 +108,45 @@
     "name": "auto-kennis",
     "kind": "icon",
     "prompt": "an open thick book with a magnifying glass resting on it"
+  },
+  {
+    "name": "crypto-netwerk",
+    "kind": "scene",
+    "prompt": "a glowing network of round coins connected by lines like a constellation floating above the hills"
+  },
+  {
+    "name": "crypto-koers-omhoog",
+    "kind": "scene",
+    "prompt": "a big coin riding a rising zigzag line upward like a rollercoaster, small clouds beside it"
+  },
+  {
+    "name": "crypto-meme",
+    "kind": "scene",
+    "prompt": "a small dog in sunglasses sitting on a giant coin, looking at a tiny chart on a phone"
+  },
+  {
+    "name": "crypto-terra-luna",
+    "kind": "scene",
+    "prompt": "a tall tower of stacked coins tipping over and breaking apart, coins tumbling down the hill"
+  },
+  {
+    "name": "crypto-ftx",
+    "kind": "scene",
+    "prompt": "a grand bank building with columns crumbling into loose blocks, a lock hanging open on its door"
+  },
+  {
+    "name": "crypto-mining",
+    "kind": "scene",
+    "prompt": "rows of humming server racks with spinning fans inside a long hall, steam rising, snowy mountains outside the window"
+  },
+  {
+    "name": "crypto-altcoins",
+    "kind": "scene",
+    "prompt": "a bouquet of many different coins with different symbols standing in a vase on a table"
+  },
+  {
+    "name": "crypto-belasting",
+    "kind": "scene",
+    "prompt": "a piggy bank standing on a tax form with a stamp and a small calculator beside it"
   }
 ]
