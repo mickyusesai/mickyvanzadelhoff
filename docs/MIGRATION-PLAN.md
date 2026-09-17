@@ -1,7 +1,7 @@
 # Migration plan: demodernenomaden.nl → mickyvanzadelhoff.com
 
 **Status (2026-09-16, session 8):** Phases 0–5 (pre-launch part), 6 (launch: real 301s merged and deployed, old domain redirecting via Cloudflare, verified), 7 (illustrated headers) and 8 (repositioning + spot illustrations) done. Phase 5 post-launch batch 1 (five affiliate articles) refreshed and fact-checked (55 of 58 notes resolved by Claude, 3 partner-link tasks left) and batch 2 (ten ondernemen articles) refreshed on 2026-09-16; briefing 2 applied (`/automatisering/` with spot illustrations, `/intake/` form, D26/D27). Open on Micky's side: Phase 6 steps 5–8 (www record, Search Console change of address, cancel Cloud86 hosting, post-launch monitoring), the Technogym workshop original for /over/ and the homepage 'Ik bouw' block (the 21 MB PNG in the Drive folder 'Claude' is over the 10 MB Drive-tool limit; share it as 'anyone with the link' or add a JPG), rotate the fal.ai key. The homepage hero and the blog author box now use `micky-van-zadelhoff-portret.webp`, a square crop of `IMG_1680.JPG` from that folder (2026-09-15).
-**Next:** Micky sets `SMTP_USER`/`SMTP_PASS` (Gmail app password) on Railway, decides on the two dead Possibol links in the bol.com article, merges; then Phase 5 batch 3 (remaining ondernemen + online-geld-verdienen).
+**Next:** SMTP variables are set on Railway (Micky, 2026-09-17); Micky merges and sends one test intake, decides on the two dead Possibol links in the bol.com article; then Phase 5 batch 3 (remaining ondernemen + online-geld-verdienen).
 **Source of truth for this project.** Every session starts by reading this file and `docs/content-inventory.md`.
 Update the status lines and the decision log at the end of each session.
 
