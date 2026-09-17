@@ -11,13 +11,16 @@ export const prerender = false;
 //
 // Variables are read from process.env at request time; import.meta.env is frozen at build time and
 // would bake the values (or their absence) into the bundle. Railway blocks outbound SMTP on the Free,
-// Trial and Hobby plans, so the mail goes through an HTTPS API:
-//   RESEND_API_KEY  key from resend.com (free tier is enough)
-//   INTAKE_TO       recipient (default: the site e-mail)
-//   INTAKE_FROM     sender as "Naam <adres>" (default: Intake formulier <onboarding@resend.dev>; Resend
-//                   delivers that sender only to the address the Resend account was created with, a
-//                   verified domain allows any sender on that domain)
-// SMTP is used only when RESEND_API_KEY is absent and only works on Railway Pro or another host:
+// Trial and Hobby plans, so the mail goes through Postmark's HTTPS API (Micky's account, the one that
+// also serves EasyReimburse; sender signatures and verified domains are account-wide):
+//   POSTMARK_SERVER_TOKEN    server API token (Postmark → Servers → the server → API Tokens)
+//   INTAKE_FROM              required: "Naam <adres>" on a sender signature or domain verified in
+//                            that account (easyreimburse.ai today, mickyvanzadelhoff.com once its
+//                            DKIM and Return-Path records are added)
+//   INTAKE_TO                recipient (default: the site e-mail)
+//   POSTMARK_MESSAGE_STREAM  optional, default "outbound" (the transactional stream)
+// The Postmark test token POSTMARK_API_TEST makes the route report success without sending a mail.
+// SMTP is used only when POSTMARK_SERVER_TOKEN is absent and only works on Railway Pro or another host:
 //   SMTP_USER, SMTP_PASS, optional SMTP_HOST (default smtp.gmail.com) and SMTP_PORT (default 465).
 
 const FIELDS = ['name', 'company', 'email', 'phone', 'automate', 'timesink', 'slot1_date', 'slot1_time', 'slot2_date', 'slot2_time'] as const;
@@ -33,14 +36,21 @@ const back = (status: string) => new Response(null, { status: 303, headers: { Lo
 
 type Mail = { from: string; to: string; replyTo: string; replyToName: string; subject: string; text: string };
 
-async function sendViaResend(key: string, m: Mail) {
-  const res = await fetch('https://api.resend.com/emails', {
+async function sendViaPostmark(token: string, m: Mail) {
+  const res = await fetch('https://api.postmarkapp.com/email', {
     method: 'POST',
-    headers: { Authorization: `Bearer ${key}`, 'Content-Type': 'application/json' },
-    body: JSON.stringify({ from: m.from, to: [m.to], reply_to: m.replyTo, subject: m.subject, text: m.text }),
+    headers: { Accept: 'application/json', 'Content-Type': 'application/json', 'X-Postmark-Server-Token': token },
+    body: JSON.stringify({
+      From: m.from,
+      To: m.to,
+      ReplyTo: m.replyTo,
+      Subject: m.subject,
+      TextBody: m.text,
+      MessageStream: env('POSTMARK_MESSAGE_STREAM') || 'outbound',
+    }),
     signal: AbortSignal.timeout(15_000),
   });
-  if (!res.ok) throw new Error(`Resend answered ${res.status}: ${(await res.text()).slice(0, 300)}`);
+  if (!res.ok) throw new Error(`Postmark answered ${res.status}: ${(await res.text()).slice(0, 300)}`);
 }
 
 async function sendViaSmtp(m: Mail) {
@@ -78,10 +88,14 @@ export const POST: APIRoute = async ({ request }) => {
     [v.slot1_time, v.slot2_time].every(isSlotTime);
   if (!valid) return back('invalid');
 
-  const resendKey = env('RESEND_API_KEY');
+  const postmarkToken = env('POSTMARK_SERVER_TOKEN');
   const smtpReady = Boolean(env('SMTP_USER') && env('SMTP_PASS'));
-  if (!resendKey && !smtpReady) {
-    console.error('[intake] no mail service configured (set RESEND_API_KEY, or SMTP_USER and SMTP_PASS); submission from', v.email);
+  if (!postmarkToken && !smtpReady) {
+    console.error('[intake] no mail service configured (set POSTMARK_SERVER_TOKEN and INTAKE_FROM, or SMTP_USER and SMTP_PASS); submission from', v.email);
+    return back('config');
+  }
+  if (postmarkToken && !env('INTAKE_FROM')) {
+    console.error('[intake] INTAKE_FROM is not set; Postmark needs a sender on a verified domain or sender signature; submission from', v.email);
     return back('config');
   }
 
@@ -107,7 +121,7 @@ export const POST: APIRoute = async ({ request }) => {
   ].join('\n');
 
   const mail: Mail = {
-    from: env('INTAKE_FROM') || (resendKey ? 'Intake formulier <onboarding@resend.dev>' : `"Intake formulier" <${env('SMTP_USER')}>`),
+    from: env('INTAKE_FROM') || `"Intake formulier" <${env('SMTP_USER')}>`,
     to: env('INTAKE_TO') || SITE.email,
     replyTo: v.email,
     replyToName: v.name.replace(/["<>\n]/g, ''),
@@ -116,10 +130,10 @@ export const POST: APIRoute = async ({ request }) => {
   };
 
   try {
-    if (resendKey) await sendViaResend(resendKey, mail);
+    if (postmarkToken) await sendViaPostmark(postmarkToken, mail);
     else await sendViaSmtp(mail);
   } catch (err) {
-    console.error(`[intake] send via ${resendKey ? 'Resend' : 'SMTP'} failed:`, err instanceof Error ? err.message : err);
+    console.error(`[intake] send via ${postmarkToken ? 'Postmark' : 'SMTP'} failed:`, err instanceof Error ? err.message : err);
     return back('failed');
   }
   return back('sent');
