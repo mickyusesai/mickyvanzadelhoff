@@ -2,10 +2,12 @@
 export const prerender = true;
 import Layout from '../layouts/Layout.astro';
 import { SITE } from '../config/site';
+import { SLOT_TIMES } from '../lib/intake-slots';
 
 // "Plan een gratis intake": the form posts to /api/intake (src/pages/api/intake.ts), which mails
 // Micky and redirects back here with ?status=sent|invalid|config|failed. The page is static; a small
-// script reads the flag. Micky confirms one of the two proposed moments within a day; the call is 45
+// script reads the flag. A proposed moment is a day plus a start time on the half hour between 09:00
+// and 18:00 (src/lib/intake-slots.ts). Micky confirms one of the two within a day; the call is 45
 // minutes on Google Meet.
 const mailFallback = `mailto:${SITE.email}?subject=${encodeURIComponent('Gratis intake AI-automatisering')}`;
 ---
@@ -72,14 +74,24 @@ const mailFallback = `mailto:${SITE.email}?subject=${encodeURIComponent('Gratis 
 
           <fieldset class="grid gap-3 rounded-2xl border-2 border-line p-4">
             <legend class="px-1 text-sm font-bold">Twee momenten die jou uitkomen</legend>
-            <p class="text-sm text-muted">Het gesprek duurt 45 minuten en gaat via Google Meet. Ik bevestig binnen een dag welk moment het wordt.</p>
+            <p class="text-sm text-muted">Het gesprek duurt 45 minuten en gaat via Google Meet. Kies een dag en een starttijd tussen 09:00 en 18:00, op het hele of halve uur. Ik bevestig binnen een dag welk moment het wordt.</p>
             <div class="grid gap-4 sm:grid-cols-2">
-              <label class="grid gap-1.5 text-sm font-bold">Moment 1
-                <input name="slot1" type="datetime-local" required class="field" />
-              </label>
-              <label class="grid gap-1.5 text-sm font-bold">Moment 2
-                <input name="slot2" type="datetime-local" required class="field" />
-              </label>
+              {[1, 2].map((n) => (
+                <div class="grid gap-1.5 text-sm font-bold">
+                  <span>Moment {n}</span>
+                  <div class="grid grid-cols-[1fr_auto] gap-2">
+                    <label class="grid gap-1 text-xs font-bold text-muted">Dag
+                      <input name={`slot${n}_date`} type="date" required class="field" />
+                    </label>
+                    <label class="grid gap-1 text-xs font-bold text-muted">Tijd
+                      <select name={`slot${n}_time`} required class="field">
+                        <option value="">Kies</option>
+                        {SLOT_TIMES.map((t) => <option value={t}>{t}</option>)}
+                      </select>
+                    </label>
+                  </div>
+                </div>
+              ))}
             </div>
           </fieldset>
 
@@ -99,6 +111,7 @@ const mailFallback = `mailto:${SITE.email}?subject=${encodeURIComponent('Gratis 
     .field { width: 100%; border: 2px solid #17112E; border-radius: 12px; background: #fff; padding: 10px 12px; font: inherit; font-weight: 500; color: #17112E; }
     .field:focus { outline: none; box-shadow: 0 0 0 3px #D4F75B; }
     textarea.field { resize: vertical; min-height: 96px; }
+    select.field { min-width: 6.5rem; cursor: pointer; }
   </style>
 
   <script>
@@ -109,12 +122,12 @@ const mailFallback = `mailto:${SITE.email}?subject=${encodeURIComponent('Gratis 
     const title = document.getElementById('intake-error-title');
     if (status === 'sent' && form && sent) { form.hidden = true; sent.hidden = false; }
     else if (status && error && title) {
-      title.textContent = status === 'invalid' ? 'Vul alle velden in en probeer het opnieuw.' : 'Het versturen is niet gelukt.';
+      title.textContent = status === 'invalid' ? 'Vul alle velden in en probeer het opnieuw.' : status === 'config' ? 'Het formulier is nog niet aan een mailservice gekoppeld.' : 'Het versturen is niet gelukt.';
       error.hidden = false;
     }
-    // Sensible minimum for the date pickers: tomorrow.
-    const min = new Date(); min.setDate(min.getDate() + 1); min.setHours(9, 0, 0, 0);
-    const iso = new Date(min.getTime() - min.getTimezoneOffset() * 60000).toISOString().slice(0, 16);
-    document.querySelectorAll('input[type="datetime-local"]').forEach((el) => el.setAttribute('min', iso));
+    // Sensible minimum for the day pickers: tomorrow, in the visitor's own time zone.
+    const min = new Date(); min.setDate(min.getDate() + 1);
+    const iso = new Date(min.getTime() - min.getTimezoneOffset() * 60000).toISOString().slice(0, 10);
+    document.querySelectorAll('input[type="date"]').forEach((el) => el.setAttribute('min', iso));
   </script>
 </Layout>
