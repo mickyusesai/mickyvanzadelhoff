@@ -59,7 +59,7 @@
   .prose .table-wrap table { @apply my-0 min-w-full; }
   /* Article widgets written as HTML inside markdown (crypto guide): live figures, embedded chart, timeline */
   .embed { @apply sticker my-8 overflow-hidden bg-surface; }
-  .embed__frame { @apply min-h-[380px] w-full; }
+  .embed__frame { @apply h-[420px] w-full sm:h-[500px]; }
   .embed__note { @apply m-0 border-t-2 border-line px-4 py-2 text-[13px] text-muted; }
   .live-stats { @apply sticker my-8 grid gap-3 bg-violet-soft p-4 sm:grid-cols-2 sm:p-5 lg:grid-cols-4; }
   .live-stats__tile { @apply grid gap-1 rounded-2xl border-2 border-ink bg-surface px-4 py-3; }
