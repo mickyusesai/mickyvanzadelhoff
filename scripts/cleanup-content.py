@@ -85,6 +85,9 @@ GO_OVERRIDES = {          # affiliate targets that no longer exist (Micky, 2026-
     # dead Fiverr gigs: keep the affiliate tracking, land on the Fiverr homepage
     '/go/fiverr-websteksten-schrijven': 'https://go.fiverr.com/visit/?bta=340671&brand=fiverrcpa&landingPage=https%3A%2F%2Fwww.fiverr.com%2F',
     '/go/fiverr-sales-email': 'https://go.fiverr.com/visit/?bta=340671&brand=fiverrcpa&landingPage=https%3A%2F%2Fwww.fiverr.com%2F',
+    # Possibol is gone (2026-09-19): both bol.com links go to Micky's Business Mine partner link (free masterclass)
+    '/go/bol-com-verkopen-e-book': 'https://checkout.businessmine.co/r?id=SkAhfw5B',
+    '/go/bol-com-cursus-en-coaching': 'https://checkout.businessmine.co/r?id=SkAhfw5B',
 }
 OLD_EMAILS = ['mick@demodernenomaden.nl', 'info@demodernenomaden.nl']
 NEW_EMAIL = 'mickyvz@live.nl'
