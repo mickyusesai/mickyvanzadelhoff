@@ -153,5 +153,515 @@
     "name": "favicon-bliksem",
     "kind": "icon",
     "prompt": "a single bold lightning bolt, chunky and rounded, lime with a violet outline, sticker style, nothing else"
+  },
+  {
+    "name": "verkooptekst-probleem",
+    "kind": "scene",
+    "prompt": "a large magnifying glass hovering over an old damaged door lock on a wooden door, small splinters around the lock"
+  },
+  {
+    "name": "verkooptekst-knop",
+    "kind": "scene",
+    "prompt": "a big rounded lime button on a simple web page card, a mouse cursor arrow moving toward it"
+  },
+  {
+    "name": "verkooptekst-ai",
+    "kind": "scene",
+    "prompt": "a vintage typewriter and a modern laptop side by side on a wooden desk, one sheet of paper flowing from the typewriter into the laptop screen"
+  },
+  {
+    "name": "bezoekers-zoekwoorden",
+    "kind": "scene",
+    "prompt": "a magnifying glass over a neat stack of index cards on a desk, a few cards fanned out, one card marked with a coral dot"
+  },
+  {
+    "name": "bezoekers-groei",
+    "kind": "scene",
+    "prompt": "a laptop on a desk with a young green plant sprouting from between the keys, a rising line chart glowing on the screen"
+  },
+  {
+    "name": "bezoekers-ai",
+    "kind": "scene",
+    "prompt": "a rounded search bar floating above a desk with a small glowing chip next to it emitting three four-pointed sparkles"
+  },
+  {
+    "name": "acquisitie-telefoon",
+    "kind": "scene",
+    "prompt": "an old rotary dial telephone on a desk beside an open notebook with a pen and a steaming coffee cup, the phone cord curling into a warm glow"
+  },
+  {
+    "name": "acquisitie-tinyhouse",
+    "kind": "scene",
+    "prompt": "a small modern wooden tiny house cube standing on a sloped green meadow with no foundation, a few trees behind it"
+  },
+  {
+    "name": "acquisitie-trechter",
+    "kind": "scene",
+    "prompt": "a large funnel with many paper envelopes pouring into the top and a single gold coin dropping out of the bottom into a small dish"
+  },
+  {
+    "name": "bedrijf-kvk",
+    "kind": "scene",
+    "prompt": "a registration form with a big round violet stamp mark on it, a fountain pen and a small brass key lying on top"
+  },
+  {
+    "name": "bedrijf-belasting",
+    "kind": "scene",
+    "prompt": "a piggy bank next to a tall stack of paper receipts and a small desk calculator, one coin dropping into the piggy bank"
+  },
+  {
+    "name": "bedrijf-groei",
+    "kind": "scene",
+    "prompt": "a young tree with fresh leaves growing out of an open cardboard box on a wooden floor"
+  },
+  {
+    "name": "seo-zoekbalk",
+    "kind": "scene",
+    "prompt": "a large rounded search bar floating above three small faded website cards, with a glowing four-pointed sparkle hovering over the search bar"
+  },
+  {
+    "name": "seo-typemachine",
+    "kind": "scene",
+    "prompt": "an old typewriter on a wooden desk with a tall stack of identical blank sheets of paper beside it, some sheets fluttering into a wastepaper basket"
+  },
+  {
+    "name": "seo-bergtop",
+    "kind": "scene",
+    "prompt": "a mountain with a small flag on the summit and a long winding staircase leading up to it, no shortcut path"
+  },
+  {
+    "name": "cm-soorten",
+    "kind": "scene",
+    "prompt": "a desk with a laptop, a camera on a small tripod, a podcast microphone, an open notebook and a cup of coffee"
+  },
+  {
+    "name": "cm-trechter",
+    "kind": "scene",
+    "prompt": "a big funnel with paper airplanes flying into the wide top and a few coins dropping out of the narrow bottom"
+  },
+  {
+    "name": "cm-magneet",
+    "kind": "scene",
+    "prompt": "a large horseshoe magnet pulling a row of paper envelopes towards it"
+  },
+  {
+    "name": "niches-kompas",
+    "kind": "scene",
+    "prompt": "a compass lying on an unfolded paper map with a few coloured push pins around it"
+  },
+  {
+    "name": "niches-bloempotten",
+    "kind": "scene",
+    "prompt": "a row of small flower pots on a windowsill, one of them growing into a tall leafy plant while the others stay small"
+  },
+  {
+    "name": "niches-vergrootglas",
+    "kind": "scene",
+    "prompt": "a magnifying glass held over a bookshelf full of books where one single book glows"
+  },
+  {
+    "name": "workations-terras",
+    "kind": "scene",
+    "prompt": "a long wooden table on a terrace with a few open laptops, coffee cups and a bowl of oranges, the sea in the background"
+  },
+  {
+    "name": "workations-koffer",
+    "kind": "scene",
+    "prompt": "an open suitcase with a laptop, sunglasses, a notebook and a passport packed inside"
+  },
+  {
+    "name": "workations-zwembad",
+    "kind": "scene",
+    "prompt": "a laptop resting on a sun lounger next to a swimming pool, with mountains in the background"
+  },
+  {
+    "name": "online-werkplek",
+    "kind": "scene",
+    "prompt": "a laptop on a wooden desk by a bright window, with a growing stack of coins beside it and a small potted plant"
+  },
+  {
+    "name": "online-kennis",
+    "kind": "scene",
+    "prompt": "a stack of books on a desk with a glowing video screen rising out of the top book, a play button on the screen"
+  },
+  {
+    "name": "online-pakket",
+    "kind": "scene",
+    "prompt": "a cardboard parcel on a short conveyor belt in front of a tiny shop with an awning, a price tag hanging from the box"
+  },
+  {
+    "name": "online-spaarpot",
+    "kind": "scene",
+    "prompt": "a small green plant with round leaves growing out of the slot of a piggy bank, a few coins on the table around it"
+  },
+  {
+    "name": "online-wegwijzer",
+    "kind": "scene",
+    "prompt": "a wooden signpost on a grassy hill with many arrows pointing in different directions, blank signs, one arrow highlighted"
+  },
+  {
+    "name": "huiswerk-bureau",
+    "kind": "scene",
+    "prompt": "a tidy student desk with a laptop showing a video call window, an open textbook, a pencil case and a calculator"
+  },
+  {
+    "name": "huiswerk-agenda",
+    "kind": "scene",
+    "prompt": "an open weekly planner on a desk with colourful sticky notes, a pencil and a small alarm clock"
+  },
+  {
+    "name": "vertalen-bureau",
+    "kind": "scene",
+    "prompt": "a desk with two open dictionaries side by side and a laptop showing two blank text columns, a cup of tea beside it"
+  },
+  {
+    "name": "vertalen-brug",
+    "kind": "scene",
+    "prompt": "a small arched bridge built from wooden letter blocks connecting two green riverbanks, no readable text"
+  },
+  {
+    "name": "aandelen-stukje-bedrijf",
+    "kind": "scene",
+    "prompt": "a small office building cut like a layered cake, with one slice pulled out and placed on a plate in front of it"
+  },
+  {
+    "name": "aandelen-broker-app",
+    "kind": "scene",
+    "prompt": "a smartphone lying on a wooden desk showing a rising line chart on its screen, next to a cup of coffee"
+  },
+  {
+    "name": "aandelen-etf-mandje",
+    "kind": "scene",
+    "prompt": "a wicker basket filled with many small coloured cubes, one cube lime green, on a plain surface"
+  },
+  {
+    "name": "aandelen-hefboom",
+    "kind": "scene",
+    "prompt": "a seesaw balanced on the edge of a cliff, a single small coin on one end lifting a huge stack of coins on the other end"
+  },
+  {
+    "name": "aandelen-box3",
+    "kind": "scene",
+    "prompt": "a desk calendar page with the first day circled in coral, a neat stack of coins standing on the page"
+  },
+  {
+    "name": "passief-hangmat",
+    "kind": "scene",
+    "prompt": "a hammock strung between two palm trees with an open laptop resting in it, coins drifting down like falling leaves"
+  },
+  {
+    "name": "passief-product",
+    "kind": "scene",
+    "prompt": "a stack of e-readers with a small green sprout growing out of the top one, one leaf coral"
+  },
+  {
+    "name": "passief-affiliate",
+    "kind": "scene",
+    "prompt": "a wooden signpost with three arrows pointing to a tiny shop, a laptop and a stack of coins in the distance"
+  },
+  {
+    "name": "passief-sneeuwbal",
+    "kind": "scene",
+    "prompt": "a snowball made of coins rolling down a gentle hill and growing bigger, small coins spraying behind it"
+  },
+  {
+    "name": "ebook-schrijfplek",
+    "kind": "scene",
+    "prompt": "an e-reader on a wooden desk beside a steaming mug and an open notebook with a pen"
+  },
+  {
+    "name": "ebook-cover",
+    "kind": "scene",
+    "prompt": "three blank book covers standing upright side by side in violet, lime and coral, a soft spotlight on the middle one"
+  },
+  {
+    "name": "ebook-webshop",
+    "kind": "scene",
+    "prompt": "an e-reader inside a small open gift box with a price tag hanging from it and a big lime download arrow floating above"
+  },
+  {
+    "name": "ebook-weggever",
+    "kind": "scene",
+    "prompt": "an open envelope with a small glowing book floating out of it, a few sparkles around"
+  },
+  {
+    "name": "paypro-kassa",
+    "kind": "scene",
+    "prompt": "a small payment terminal on a shop counter with a coin dropping into its slot and a big lime check mark above"
+  },
+  {
+    "name": "paypro-driehoek",
+    "kind": "scene",
+    "prompt": "three small desks arranged in a triangle, connected by dotted lines, with a single coin travelling along the line"
+  },
+  {
+    "name": "paypro-campagnes",
+    "kind": "scene",
+    "prompt": "a shop window display full of small boxes each with a blank price tag, a magnifying glass hovering in front of the glass"
+  },
+  {
+    "name": "paypro-kosten",
+    "kind": "scene",
+    "prompt": "a round pie made of stacked coins with one slice lifted out on a fork"
+  },
+  {
+    "name": "bloggen-bureau",
+    "kind": "scene",
+    "prompt": "a laptop on a wooden desk by a window with an open notebook, a pen and a cup of coffee, soft morning light"
+  },
+  {
+    "name": "bloggen-zoekmachine",
+    "kind": "scene",
+    "prompt": "a large magnifying glass hovering over a stack of paper sheets on a desk, one sheet glowing brighter than the rest"
+  },
+  {
+    "name": "bloggen-advertentie",
+    "kind": "scene",
+    "prompt": "a laptop on a desk with a small billboard sign standing on its screen and coins rolling out of the keyboard"
+  },
+  {
+    "name": "bloggen-affiliate",
+    "kind": "scene",
+    "prompt": "two large linked chain rings with a coin held between them, lying on a desk next to a laptop"
+  },
+  {
+    "name": "bloggen-voor-bedrijven",
+    "kind": "scene",
+    "prompt": "a desk with a tall stack of written pages, a single invoice sheet with a coin on it and a cup of coffee"
+  },
+  {
+    "name": "bloggen-regels",
+    "kind": "scene",
+    "prompt": "a megaphone with a small blank tag tied to it, standing next to a laptop on a desk"
+  },
+  {
+    "name": "website-etalage",
+    "kind": "scene",
+    "prompt": "a browser window shaped like a shop window display with products carrying blank price tags, a few coins on the pavement in front"
+  },
+  {
+    "name": "website-adverteerder",
+    "kind": "scene",
+    "prompt": "a blank roadside billboard beside a winding road that leads to a laptop on a hill"
+  },
+  {
+    "name": "website-verkopen",
+    "kind": "scene",
+    "prompt": "a browser window mounted on a wooden post in a front garden like a for-sale sign, small house behind it"
+  },
+  {
+    "name": "affiliate-schakels",
+    "kind": "scene",
+    "prompt": "two large linked chain rings with a coin held between them, on a desk beside a laptop showing a rising line"
+  },
+  {
+    "name": "affiliate-koffer",
+    "kind": "scene",
+    "prompt": "an open suitcase with a laptop inside and coins spilling out, on a terrace with a distant coastline view"
+  },
+  {
+    "name": "affiliate-schap",
+    "kind": "scene",
+    "prompt": "a shop shelf with a row of products each carrying a blank price tag, one product glowing brighter than the others"
+  },
+  {
+    "name": "affiliate-marktkraam",
+    "kind": "scene",
+    "prompt": "a small market stall with a laptop on the counter and a neat row of coins, on a sunny square"
+  },
+  {
+    "name": "whitepress-krant",
+    "kind": "scene",
+    "prompt": "an open newspaper on a table with one article glowing and a single coin resting on it"
+  },
+  {
+    "name": "whitepress-marktplaats",
+    "kind": "scene",
+    "prompt": "a market stall with stacks of paper articles as merchandise and a laptop as the counter, a coin on the counter"
+  },
+  {
+    "name": "whitepress-label",
+    "kind": "scene",
+    "prompt": "a blank price tag hanging from a document on a desk, next to a rubber stamp"
+  },
+  {
+    "name": "facebook-pagina",
+    "kind": "scene",
+    "prompt": "a shop window with a big thumbs-up sign painted on the glass and a row of umbrellas and hats waiting outside on the street"
+  },
+  {
+    "name": "facebook-groep",
+    "kind": "scene",
+    "prompt": "a touring bicycle with panniers leaning against a wooden fence, a phone on the handlebar with small speech bubbles floating up from it"
+  },
+  {
+    "name": "facebook-affiliate",
+    "kind": "scene",
+    "prompt": "three linked objects on a table connected by a glowing line: a smartphone, a tiny shopping cart and a growing stack of coins"
+  },
+  {
+    "name": "facebook-advertentie",
+    "kind": "scene",
+    "prompt": "a large billboard on a city street at dusk showing a rising graph, with a single coin rolling out of a slot at the bottom of the billboard"
+  },
+  {
+    "name": "facebook-mailbox",
+    "kind": "scene",
+    "prompt": "a red post box on a sidewalk with a stream of envelopes flying into it out of a smartphone lying on the ground beside it"
+  },
+  {
+    "name": "insta-niche",
+    "kind": "scene",
+    "prompt": "a camera lens focusing sharply on one red flower in a field of soft grey flowers, shallow depth of field"
+  },
+  {
+    "name": "insta-reels",
+    "kind": "scene",
+    "prompt": "a smartphone on a small tripod filming a cup of coffee and an open notebook on a wooden table by a window"
+  },
+  {
+    "name": "insta-shop",
+    "kind": "scene",
+    "prompt": "a smartphone standing upright with a tiny gift box with a ribbon popping out of the screen, next to a paper shopping bag"
+  },
+  {
+    "name": "insta-samenwerking",
+    "kind": "scene",
+    "prompt": "a branded cardboard box with a ribbon next to a smartphone showing a heart icon, on a cafe table with a latte"
+  },
+  {
+    "name": "influencer-studio",
+    "kind": "scene",
+    "prompt": "a ring light and a smartphone on a tripod in an otherwise empty room with a single chair and a houseplant, warm afternoon light"
+  },
+  {
+    "name": "influencer-niche",
+    "kind": "scene",
+    "prompt": "one chair lit by a spotlight in a dark hall full of empty identical chairs"
+  },
+  {
+    "name": "influencer-regels",
+    "kind": "scene",
+    "prompt": "a megaphone lying on a desk with a paper price tag tied to it and a rubber stamp beside it"
+  },
+  {
+    "name": "coach-markt",
+    "kind": "scene",
+    "prompt": "a narrow busy street with dozens of small hanging shop signs on the facades, all grey except one that glows warmly, no people"
+  },
+  {
+    "name": "coach-videogesprek",
+    "kind": "scene",
+    "prompt": "a laptop on a tidy desk showing a video call window with an empty chair on screen, a notebook with a pen and a cup of tea beside it"
+  },
+  {
+    "name": "coach-niche",
+    "kind": "scene",
+    "prompt": "a wooden signpost with many arrows pointing in different directions in soft fog, one arrow brightly lit"
+  },
+  {
+    "name": "coach-website",
+    "kind": "scene",
+    "prompt": "a small shop front shaped like a web browser window, with an awning, a doorbell and an open sign hanging in the glass door, no text"
+  },
+  {
+    "name": "youtube-camera-setup",
+    "kind": "scene",
+    "prompt": "a small camera on a tripod pointed at a wooden desk with a ring light and an open laptop, soft studio glow"
+  },
+  {
+    "name": "youtube-rpm-meter",
+    "kind": "scene",
+    "prompt": "a large round analog gauge with a needle pointing from a low zone to a high zone, a single gold coin floating above it"
+  },
+  {
+    "name": "youtube-merch-hangmat",
+    "kind": "scene",
+    "prompt": "a hammock strung between two palm trees with a folded t-shirt and a cap hanging from its edge"
+  },
+  {
+    "name": "youtube-affiliate-link",
+    "kind": "scene",
+    "prompt": "a smartphone showing a video player, with a glowing ribbon-like chain link flowing from the phone into a small shopping basket"
+  },
+  {
+    "name": "youtube-groei-curve",
+    "kind": "scene",
+    "prompt": "a growth curve drawn on a big sheet of paper that runs flat and then bends steeply upward, a tiny rocket at its top"
+  },
+  {
+    "name": "kanaal-niche-kompas",
+    "kind": "scene",
+    "prompt": "a brass compass lying on a desk, its needle pointing at one of many small signposts scattered around it"
+  },
+  {
+    "name": "kanaal-telefoon-statief",
+    "kind": "scene",
+    "prompt": "a smartphone mounted on a small tabletop tripod with a clip-on microphone and a ring light beside it on a wooden table"
+  },
+  {
+    "name": "kanaal-thumbnail-bord",
+    "kind": "scene",
+    "prompt": "a big rectangular card with a bright bold background, a cut-out silhouette and three oversized abstract letters, a paintbrush lying next to it"
+  },
+  {
+    "name": "cursus-laptop-opname",
+    "kind": "scene",
+    "prompt": "an open laptop with a small red recording dot on screen next to a compact USB microphone on a stand, warm desk lamp light"
+  },
+  {
+    "name": "cursus-lesplan",
+    "kind": "scene",
+    "prompt": "a neat row of numbered index cards pinned on a corkboard, each card with a short colored bar, one card marked with a star"
+  },
+  {
+    "name": "cursus-ledenomgeving",
+    "kind": "scene",
+    "prompt": "a smartphone showing a tiled grid of video lessons, a padlock icon opening beside it and a small key"
+  },
+  {
+    "name": "cursus-verkooppagina",
+    "kind": "scene",
+    "prompt": "a tall scroll of paper unrolling downward with a headline block, star ratings, a price tag and a big button at the bottom"
+  },
+  {
+    "name": "marketing-laptop-terras",
+    "kind": "scene",
+    "prompt": "an open laptop on a sunny cafe terrace table with a cup of coffee, the screen showing a rising bar chart"
+  },
+  {
+    "name": "marketing-trechter",
+    "kind": "scene",
+    "prompt": "a large funnel standing on a desk with many small paper planes flying in at the top and a few gold coins dropping out at the bottom"
+  },
+  {
+    "name": "marketing-robot-megafoon",
+    "kind": "scene",
+    "prompt": "a friendly small robot holding a megaphone, with speech-bubble shapes and a magnifying glass floating around it"
+  },
+  {
+    "name": "marketing-factuur",
+    "kind": "scene",
+    "prompt": "an invoice sheet on a desk with a big green check mark stamp, next to a calculator and a small upward line chart"
+  },
+  {
+    "name": "webshop-doos-laptop",
+    "kind": "scene",
+    "prompt": "a cardboard shipping box with a shopping-cart icon printed on it sitting beside an open laptop with a storefront on screen"
+  },
+  {
+    "name": "webshop-betaling-telefoon",
+    "kind": "scene",
+    "prompt": "a smartphone showing a checkout screen with a big pay button, a bank card and a few coins on the table next to it"
+  },
+  {
+    "name": "webshop-magazijn-plank",
+    "kind": "scene",
+    "prompt": "a small home warehouse shelf with neatly stacked boxes, a roll of tape and a label printer"
+  },
+  {
+    "name": "webshop-reviews-sterren",
+    "kind": "scene",
+    "prompt": "a shop window sign with five large stars, four of them glowing, and a small speech bubble beside it"
   }
 ]

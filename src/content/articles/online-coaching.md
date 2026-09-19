@@ -1,8 +1,8 @@
 ---
-title: "Online coach worden in 4 stappen – Start jouw coaching business"
-description: "Is 2023 het jaar dat jij jouw eigen online coaching business gaat opzetten? Dan zit je hier goed! Wie online coach wil worden moet het een en ander…"
+title: "Online coach worden in 2026 – Start jouw coaching business in 4 stappen"
+description: "Online coach worden in 2026: 125.000 coaches bij de KVK, wat je per uur vraagt (NOBCO), je niche, website, klanten vinden en een rekentool voor je inkomen."
 date: 2018-04-22
-updated: 2022-12-19
+updated: 2026-09-19
 category: "online-geld-verdienen"
 slug: "online-coaching"
 lang: "nl"
@@ -10,214 +10,203 @@ draft: false
 featuredImage: "/images/headers/online-coaching.webp"
 ---
 
-Is 2023 het jaar dat jij **jouw eigen online coaching business** gaat opzetten? Dan zit je hier goed! Wie online coach wil worden moet het een en ander weten, daarom bespreken we in dit artikel de verschillende stappen om te **beginnen als coach**.
+Is 2026 het jaar dat jij **je eigen online coaching business** gaat opzetten? Dan zit je hier goed! Wie online coach wil worden, moet het een en ander weten. Daarom bespreek ik in dit artikel de vier stappen om te beginnen als coach: je niche kiezen, jezelf profileren (met een website en een goede prijs), klanten vinden en extra inkomsten opbouwen.
 
-Wist je dat er in Nederland zo’n **75.000 coaches** staan ingeschreven? Onder die noemer vallen lifestyle coaches, arbobegeleiding, sport coaches, business coaches en zelfs opruimcoaches. Dat zijn er best wat en roept de vraag op of jij hier nog wel een boterham mee kan verdienen.
+Wist je dat er in januari 2026 **125.773 coaches** stonden ingeschreven bij de KVK? Dat is ongeveer 2,5 keer zoveel als tien jaar eerder. Onder die noemer vallen lifestylecoaches, loopbaancoaches, sportcoaches, businesscoaches en zelfs opruimcoaches. Dat zijn er nogal wat, en het roept de vraag op of jij hier nog een boterham mee kunt verdienen.
 
-Velen lukt dit niet. Voor wie wil gaan coachen of e-coachen, zou de eerste vraag dus moeten zijn: “**Is het nog wel mogelijk om succesvol online coaching op te zetten?**”
+Wat er sinds mijn vorige versie van dit artikel is veranderd: het aantal coaches is bijna verdubbeld, videobellen is doodnormaal geworden (een coachgesprek via Google Meet of Zoom is voor niemand meer vreemd), de tarieven zijn gestegen en er is voor het eerst goed cijfermateriaal over wat coaches echt verdienen, dankzij het marktonderzoek van beroepsvereniging NOBCO uit 2025. Die cijfers gebruik ik hieronder, met een rekentool voor je eigen inkomen.
 
 ## Kun jij een succesvolle coaching business beginnen?
 
-Eerst even [de getallen die de KVK heeft gepubliceerd](https://www.kvk.nl/over-kvk/media-en-pers/nieuws-en-persberichten/aantal-lifestylecoaches-verviervoudigd-in-vijf-jaar-tijd/).
+Eerst even de getallen. Bij de KVK stonden in 2022 zo'n 75.000 coaches ingeschreven; in januari 2025 waren dat er 124.000 en in januari 2026 125.773. De groei vlakt dus af, maar de markt is vol. 'Coach' is bovendien geen beschermde titel: iedereen mag zich zo noemen, met of zonder diploma.
 
-*   **In 2019** waren er naar schatting zo’n **63.000 coaches in Nederland**.
-*   **In 2020** is dat aantal gestegen naar **66.000 coaches in Nederland**.
-*   **In 2021** waren dat er in totaal zo’n **70.000 coaches in Nederland.**
-*   En **in 2022** is deze trend doorgezet naar **75.000 coaches in Nederland.**
+![Een drukke straat met tientallen bordjes aan gevels, één bordje verlicht](/images/spots/coach-markt.webp "Ruim 125.000 coaches in Nederland: alleen wie specifiek is, wordt gevonden")
 
-Een flinke groei, in het bijzonder als het gaat om lifestyle coaches, kijk maar;
+Met zoveel coaches zul je begrijpen dat de markt verzadigd is. Maar dat betekent niet dat er geen kansen zijn. Dat heeft te maken met het volgende.
 
-![Aantal lifestyle coaches in Nederland](/images/migrated/aantal-lifestylecoaches-nederland-1.webp "Aantal lifestyle coaches in Nederland")
+Er is iets wat de dienst 'online coaching' anders maakt dan veel andere diensten. Het is een dienst waar in de basis geen behoefte aan is, maar waar wel behoefte aan kan worden gecreëerd. Stel je hebt honger, dan koop je eten. Die behoefte is vanuit de natuur aanwezig. Maar hoe zit dat met coaching? Mensen worden niet op een dag wakker en denken: goh, ik heb echt een lifecoach nodig.
 
-Met zoveel groei in het aantal coaches zul je begrijpen dat de markt een beetje **verzadigd** is. Maar dat betekent niet dat er geen kansen zijn. Dat heeft te maken met het volgende…
-
-Er is iets wat de dienst ‘online coaching’ anders maakt dan vele andere diensten. Het is een dienst waar in de basis geen behoefte naar is, maar waar wel behoefte naar kan worden gecreëerd.
-
-Stel je hebt honger, dan koop je eten en eet je dit totdat je geen honger meer hebt. De behoefte naar eten is dus vanuit de natuur standaard aanwezig. **Maar hoe zit dat met coaching?** Die behoefte is er niet standaard. Mensen worden niet op een dag wakker en denken, goh, ik heb echt een life coach nodig.
-
-Betekent dat dat niemand e-coaching afneemt? **Nee**. Het betekent slechts dat mensen zich er nog niet bewust van zijn dat een online coach ze verder kan helpen met hun problemen. Dus dan komen we terug bij de vraag:
-
-**“Is het voor 2023 wel mogelijk om succesvol online coaching op te zetten?”** Het antwoord is JA, dat is mogelijk. Je moet alleen in staat zijn om mensen te laten inzien dat ze een online coach nodig hebben. Dan is er markt zat en vlieg je de concurrentie voorbij ;).
+Betekent dat dat niemand coaching afneemt? Nee. Het betekent dat mensen zich er nog niet van bewust zijn dat een coach ze verder kan helpen met hun probleem. Dus dan komen we terug bij de vraag: is het in 2026 nog mogelijk om succesvol online coaching op te zetten? Het antwoord is ja. Je moet alleen in staat zijn om mensen te laten inzien dat ze een coach nodig hebben. Dan is er markt zat en vlieg je de concurrentie voorbij.
 
 ## Wat online coaching inhoudt
 
-E-coaching is niets anders dan iemands support zijn. En die support kun je het meest gemakkelijk bieden wanneer je **iemand anders begrijpt**.
+Online coaching is niets anders dan iemands support zijn, via een scherm. En die support kun je het makkelijkst bieden wanneer je iemand anders begrijpt.
 
-![Online coaching opzetten](/images/migrated/online-coaching-opzetten-1.webp "Online coaching opzetten")
+![Een laptop op een bureau met een videogesprek in beeld, een notitieboek en een kop thee ernaast](/images/spots/coach-videogesprek.webp "Een coachgesprek van 60 minuten via video is in 2026 de standaard")
 
-Stel bijvoorbeeld dat je zelf in je leven altijd moeite had om dingen positief te bekijken, maar dat je jezelf door de tijd heen hebt aangeleerd positief in het leven te staan. Dan is die ervaring **enorm belangrijk** bij het aanbieden van online coaching. Daardoor ben je nu namelijk in staat om anderen te helpen die tegen dezelfde problemen aanlopen.
+Stel dat je zelf altijd moeite had om dingen positief te bekijken, maar dat je jezelf hebt aangeleerd positief in het leven te staan. Dan is die ervaring enorm belangrijk bij het aanbieden van coaching. Je bent daardoor in staat anderen te helpen die tegen hetzelfde aanlopen.
 
-> Je kunt in alles coachen wat iemand anders verder helpt en vaak zie je dat dit aansluit op iemands persoonlijke ervaringen in het leven. Denk aan mensen die werknemers met burn-outs coachen, die zelf ook in een burn-out hebben gezeten. Of coaching in het stoppen met roken of alcohol, door iemand die zelf verslaafd was.
+> Je kunt in alles coachen wat iemand anders verder helpt, en vaak sluit dat aan op je eigen ervaringen. Denk aan mensen die werknemers met een burn-out coachen en zelf in een burn-out hebben gezeten. Of coaching bij het stoppen met roken of alcohol, door iemand die zelf verslaafd was.
 
-Wanneer je persoonlijke ervaring hebt als online coach **is het makkelijker om je dienst aan anderen aan te bieden**. Jij bent zelf dan namelijk het levende resultaat van wat je aanbiedt. Dat maakt het eenvoudiger om een e-coaching business op te zetten.
+Wanneer je persoonlijke ervaring hebt, is het makkelijker om je dienst aan te bieden. Jij bent zelf het levende resultaat van wat je aanbiedt.
 
-Het is daarom dat ik zelf wel eens gevraagd wordt **om iemand te coachen in [het opbouwen van online inkomen](/blog/online-geld-verdienen/online-geld-verdienen/)**. Mensen verwachten vanwege mijn ervaring dat ik hen daarmee kan helpen. Eigenlijk zeg ik hier altijd beleefd ‘nee’ tegen, tenzij het is op [onze jaarlijkse workation/training in Italië](/blog/ondernemen/workations-ondernemersreizen/).
-
-Goed voor jou om te weten is dus dat ik zelf niet actief ben als online coach, maar je in dit artikel wel wat tips kan geven om aan klanten te komen ;).
-
+Het is daarom dat ik zelf weleens gevraagd word om iemand te coachen in [het opbouwen van online inkomen](/blog/online-geld-verdienen/online-geld-verdienen/). Mensen verwachten vanwege mijn ervaring dat ik hen daarmee kan helpen. Eigenlijk zeg ik hier altijd beleefd nee tegen, tenzij het is op [onze workation in Italië](/blog/ondernemen/workations-ondernemersreizen/). Goed voor jou om te weten: ik ben zelf niet actief als online coach, maar geef wel workshops en kan je in dit artikel tips geven om aan klanten te komen.
 
 <aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
+## Stap 1: Kies jouw winstgevende coaching-niche
 
-## Stap 1: Kies jouw winstgevende e-coaching niche
+Zeker is dat je je bij online coaching het beste kunt richten op een specifiek onderwerp. Zeg dus niet dat je lifecoach of businesscoach bent. Dat is veel te algemeen, en met 125.000 concurrenten val je dan niet op.
 
-Zeker is in ieder geval dat je je bij online coaching het beste kunt richten op een specifiek onderwerp. Zeg dus zeker niet dat je **life coach of business coach** bent. Dat is veel te algemeen.
+Om klanten te krijgen maak je juist duidelijk dat je de expert bent op één specifiek vlak. Je doelgroep wordt daardoor kleiner, maar voelt zich meer aangesproken. Die kleine doelgroep noemen we [de niche](/blog/ondernemen/blog-niches/).
 
-Om klanten te krijgen doe je er juist goed aan om duidelijk te maken dat je de expert bent op één specifiek vlak. Je doelgroep wordt daardoor kleiner, maar voelt zich meer aangesproken. Die kleine doelgroep noemen we [de niche](/blog/ondernemen/blog-niches/) ;).
+Voel maar eens hoe dit verschil klinkt:
 
-Voel maar eens hoe dit verschil klinkt:  
-“Ik ben lifecoach”  
-“Ik doe stressreductie coaching voor alleenstaande moeders”
+> "Ik ben lifecoach."
+> "Ik doe stressreductie-coaching voor alleenstaande moeders."
 
-Die laatste is **super specifiek**, maar wel duidelijk. De persoon in kwestie weet direct dat het over haar gaat en dat deze coaching daarop aansluit. Het feit is dat je zelf toch geen tijd hebt om de hele wereld te coachen, dus dat een kleine doelgroep **geen enkel probleem is**.
+Die laatste is superspecifiek, maar wel duidelijk. De persoon in kwestie weet direct dat het over haar gaat. Je hebt zelf toch geen tijd om de hele wereld te coachen, dus een kleine doelgroep is geen enkel probleem.
 
-Kies dus jouw niche, voordat je jezelf [promoot als online coach](/go/bedrijvenconsultant). Ben je nog inspiratie aan het opdoen? Kijk dan eens in het onderstaande lijstje van coaching niches.
+![Een wegwijzer met veel pijlen in de mist, waarvan één pijl helder verlicht is](/images/spots/coach-niche.webp "Kies één richting: een niche maakt je vindbaar")
 
-*   Geld en mindset
-    
-*   Marketing
-    
-*   Tijd management
-    
-*   De zin van het leven
-    
-*   Carrière switch
-    
-*   Leiderschap
-    
-*   Verkoop
-    
-*   Stress verminderen
-    
-*   Angst verminderen
-    
+Kies dus je niche, voordat je jezelf [promoot als online coach](/go/bedrijvenconsultant). Ben je nog inspiratie aan het opdoen? Kijk dan eens naar dit lijstje van coaching-niches:
 
-*   Afvallen
-    
-*   Spiermassa kweken
-    
-*   Spiritualiteit
-    
-*   Dating
-    
-*   Relaties
-    
-*   Ouderschap
-    
-*   Echtscheiding
-    
-*   Seksualiteit
-    
-*   Pensioen
-    
+*   Geld en mindset, marketing, timemanagement, leiderschap, verkoop
+*   Carrièreswitch, de zin van het leven, pensioen
+*   Stress verminderen, angst verminderen, slaap
+*   Afvallen, spiermassa kweken, hardlopen
+*   Spiritualiteit, dating, relaties, ouderschap, echtscheiding, seksualiteit
+*   Werken met AI: ondernemers en teams die niet weten waar te beginnen (hier zit in 2026 veel vraag, ik zie het bij elke workshop)
 
-Je kunt dus eigenlijk overal in coachen, zolang je maar specifiek bent.
+Je kunt dus in vrijwel alles coachen, zolang je maar specifiek bent.
 
 ## Stap 2: Jezelf profileren als coach
 
-Maak om te beginnen een website. Zorg dat daarop duidelijk is wat jouw niche is en hoe mensen jou kunnen benaderen. Als je wilt weten hoe je dit ’technisch’ moet doen, dan kun je mijn eigen [gratis blog/website video’s volgen](/blog/ondernemen/blog-beginnen-starten-stappenplan/), dan beloof ik je dat jouw website vandaag nog online staat!
+Maak om te beginnen een website. Zorg dat daarop duidelijk is wat je niche is en hoe mensen je kunnen benaderen. Als je wilt weten hoe je dit technisch doet, volg dan mijn [gratis blog/website-video's](/blog/ondernemen/blog-beginnen-starten-stappenplan/); dan staat je website vandaag nog online.
 
-Zorg dat je webteksten altijd zijn geschreven in het ‘probleem’ en ‘gewenste scenario’. Daarmee bedoel ik dat je duidelijk maakt **wat het probleem is** van de mensen die jij gaat coachen zodat zij zich daarin kunnen herkennen. Vervolgens leg je uit **welk resultaat iemand van jouw coaching mag verwachten.** Ik kwam zelf dit perfecte voorbeeld tegen voor stress coaching.
+Zorg dat je webteksten altijd zijn geschreven in het 'probleem' en het 'gewenste scenario'. Maak duidelijk wat het probleem is van de mensen die jij gaat coachen, zodat zij zich daarin herkennen. Leg vervolgens uit welk resultaat iemand van je coaching mag verwachten. Zo klinkt dat voor een stresscoach:
 
-### Probleembeschrijving
+> **Het probleem.** Je ligt 's nachts wakker met een hoofd vol to-do's. Overdag ren je van afspraak naar afspraak en aan het eind van de dag heb je het gevoel dat je niets hebt afgemaakt. Je hebt al vaker geprobeerd om het rustiger aan te doen, maar na twee weken zit je weer in dezelfde tredmolen.
+>
+> **Het resultaat.** Na acht weken weet je precies welke drie dingen jouw stress veroorzaken, heb je een vast ritme dat je volhoudt en slaap je weer door. Je krijgt praktische oefeningen, een wekelijks gesprek en een coach die je tussendoor kunt appen.
 
-![Probleem beschrijving stress coaching](/images/migrated/probleem-beschrijving-coaching-stress-1.webp "Probleem beschrijving stress coaching")
+Voel je wat er gebeurt als coaching je zo wordt voorgeschoteld? Iemand die zich in het probleem herkent, herkent zich ook in het resultaat. Communiceer je coaching op deze manier en het spreekt de juiste mensen aan. Meer inspiratie voor goede teksten vind je in [dit artikel over het schrijven van webteksten](/blog/ondernemen/webteksten-schrijven/).
 
-Hier worden al direct aan het begin van de website de dingen benoemt **waar iemand tegenaan loopt**. Het probleem wordt daarmee verduidelijkt en voelt direct als iets wat iemand wil gaan aanpakken. Daarna vervolgen ze met het resultaat van de coaching.
+![Een etalage in de vorm van een browservenster, met een bel en een open-bordje](/images/spots/coach-website.webp "Je website is je etalage: probleem, resultaat en een knop om een gesprek te plannen")
 
-### Resultaat beschrijving
+### Prijzen vaststellen voor online coaching
 
-![Resultaat stress coaching](/images/migrated/Resultaat-stress-coaching-1.webp "Resultaat stress coaching")
+Wie denkt dat je als online coach een lager tarief moet rekenen dan een offline coach, heeft het mis. De klant betaalt niet voor de 'coaching', maar voor het 'resultaat van de coaching'. Als je hetzelfde resultaat biedt, mag je dezelfde prijs rekenen.
 
-Voel je wat er gebeurt als coaching je zo wordt voorgeschoteld? **Iemand die zich in de problemen herkent, zal zich ook in het resultaat kunnen herkennen.** Communiceer jouw coaching op deze manier en ik weet zeker dat het de juiste mensen aanspreekt.
+Toen iemand mij vroeg voor coaching rondom ondernemerschap, hebben we per sessie €125 afgesproken, voor sessies van ruim een uur. Dat bleek achteraf een heel normaal bedrag. Dit zijn de gemiddelde uurtarieven van Nederlandse coaches volgens het marktonderzoek van NOBCO uit 2025 (1.705 respondenten) en de zzp-cijfers van Knab uit hetzelfde jaar, gecontroleerd op 19 september 2026:
 
-Voor als je wat meer inspiratie wilt met betrekking tot hoe je goede teksten schrijft heb ik [hier een artikel over het schrijven van goede webteksten](/blog/ondernemen/webteksten-schrijven/).
+| Soort coaching | Gemiddeld uurtarief |
+|---|---|
+| Particuliere klanten (alle coaches) | € 102 (mediaan € 85) |
+| Zakelijke klanten (alle coaches) | € 147 (mediaan € 120) |
+| Executive coaching | € 146 |
+| Businesscoaching | € 138 |
+| Teamcoaching | € 123 |
+| Loopbaancoaching | € 114 |
+| Gezondheids- en leefstijlcoaching | € 77 |
 
-### Prijzen vaststellen online coaching
+De mediaan ligt duidelijk lager dan het gemiddelde: de meeste coaches rekenen dus minder dan het gemiddelde, een kleine groep veel meer. Als beginner zit je meestal tussen de €75 en €110 per uur voor particulieren; zakelijk mag het hoger. Je kunt altijd proberen je prijs wat hoger in te zetten; vindt iemand het te duur, dan geef je een beetje korting.
 
-Wie denkt dat je als online coach een lager uurtarief moet rekenen dan een offline coach heeft het mis. De klant betaalt namelijk niet voor de ‘**coaching**‘, maar voor het ‘**resultaat van de coaching**‘. Als je hetzelfde resultaat kan bieden, mag je dus gerust dezelfde prijs rekenen.
+Probeer ook zeker om je coaching niet alleen in losse sessies, maar als traject aan te bieden. Een gemiddeld coachtraject bestaat volgens NOBCO uit zeven sessies van een uur. Dat is logisch gezien het proces en geeft jou inkomenszekerheid.
 
-Toen iemand mij vroeg voor coaching rondom ondernemerschap **hebben we per sessie €125,- afgesproken**. Dit ging om sessies die net iets langer dan een uur duren. Een best redelijk bedrag, maar ook iets wat gezien het effect van de coaching prima te doen is. Per soort coaching kan de prijs verschillen, maar ga uit van een bedrag **tussen de €25,- en €150,-**. Je kunt altijd proberen om je prijs wat hoger in te zetten, mocht iemand het te duur vinden, dan geef je gewoon een beetje korting.
+<div class="tool not-prose" id="coach-calc">
+<p class="tool__title">Reken uit wat je als coach kunt verdienen</p>
+<p class="tool__intro">Vul je uurtarief en het aantal betaalde sessies per week in. De uitkomst rekent direct mee.</p>
+<div class="tool__grid">
+<label class="tool__field">Tarief per sessie van een uur (€, excl. btw)<input class="tool__input" id="coach-tarief" type="number" min="0" step="5" value="100"></label>
+<label class="tool__field">Betaalde sessies per week<input class="tool__input" id="coach-sessies" type="number" min="0" step="1" value="12"></label>
+<label class="tool__field">Werkweken per jaar<input class="tool__input" id="coach-weken" type="number" min="1" max="52" step="1" value="46"></label>
+</div>
+<div class="tool__results">
+<div class="tool__result"><p class="tool__label">Omzet per maand</p><p class="tool__value" id="coach-maand">€ 4.600</p><p class="tool__sub" id="coach-jaar">€ 55.200 per jaar</p></div>
+<div class="tool__result"><p class="tool__label">Klanten per jaar</p><p class="tool__value" id="coach-klanten">79</p><p class="tool__sub">bij trajecten van 7 sessies</p></div>
+</div>
+<p class="tool__note">Rekenvoorbeeld, geen belofte. Volgens NOBCO factureren coaches gemiddeld 19 uur per week; de rest gaat naar acquisitie, administratie en bijscholing. Van de omzet gaan nog kosten, inkomstenbelasting en eventueel btw af.</p>
+</div>
 
-Probeer ook zeker om jouw coaching niet alleen in losse sessies, maar **als coachingtraject** aan te bieden. Dit is vaak logisch om te doen gezien het proces en geeft jou meer inkomenszekerheid!
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var nl = function (n) { return '€ ' + new Intl.NumberFormat('nl-NL', { maximumFractionDigits: 0 }).format(n); };
+  function calc() {
+    var t = +$('coach-tarief').value || 0, s = +$('coach-sessies').value || 0, w = +$('coach-weken').value || 0;
+    var jaar = t * s * w;
+    $('coach-maand').textContent = nl(jaar / 12);
+    $('coach-jaar').textContent = nl(jaar) + ' per jaar';
+    $('coach-klanten').textContent = Math.round(s * w / 7);
+  }
+  ['coach-tarief', 'coach-sessies', 'coach-weken'].forEach(function (id) { $(id).addEventListener('input', calc); });
+  calc();
+})();
+</script>
+
+### Wat je moet regelen: KVK, btw en verzekering
+
+Coach is geen beschermd beroep, maar een bedrijf is een bedrijf. Inschrijven bij de KVK kost in 2026 eenmalig €85,15. Blijft je omzet onder de €20.000 per jaar, dan kun je meedoen aan de kleineondernemersregeling (KOR) en reken je geen btw; daarboven reken je 21% btw over je coaching. Sluit een beroeps- en bedrijfsaansprakelijkheidsverzekering af (verzekeraars vragen daarvoor soms een diploma), leg in je algemene voorwaarden vast hoe je met vertrouwelijke informatie omgaat (een coach heeft geen beroepsgeheim zoals een psycholoog) en houd je aan de AVG. Wil je serieus genomen worden door zakelijke klanten, overweeg dan aansluiting bij een beroepsvereniging als NOBCO, met een ethische code en modelcontracten.
 
 ## Stap 3: Jezelf promoten als online coach
 
-Wanneer je website staat ben je zichtbaar voor jouw klanten. Het is jouw online visitekaartje en waarschijnlijk ook een manier om met jou in contact te komen. Je zou vervolgens jouw coaching activiteiten kunnen promoten via één van de vele coaching platforms, met [social media strategieën](/blog/ondernemen/social-media-strategie/) of via [acquisitie mails](/blog/ondernemen/acquisitie-mail-voorbeeld1/).
+Wanneer je website staat, ben je zichtbaar voor je klanten. Het is je online visitekaartje en de manier om met jou in contact te komen. Vervolgens promoot je je coaching via coachplatforms, met [social media](/blog/ondernemen/social-media-strategie/), met advertenties of via [acquisitiemails](/blog/ondernemen/acquisitie-mail-voorbeeld1/).
 
-### Coaching platforms Nederland
+### Coachplatforms in Nederland
 
-Een van de kanalen **om jouw coaching business te promoten** is via de zogenoemde coaching platforms. Dit zijn plekken waar vele coaches staan geregistreerd en waar mensen naar een coach kunnen zoeken.
+Eén van de kanalen om je coaching business te promoten zijn de coachplatforms: plekken waar veel coaches staan geregistreerd en waar mensen een coach kunnen zoeken. Het enige probleem is, zoals eerder genoemd, dat mensen niet snel zelf op zoek zijn naar een coach. Ze kennen het probleem wel, maar coaching is nog niet overwogen als oplossing.
 
-Het enige probleem hierbij is dat, zoals eerder in dit artikel genoemd, mensen niet snel zelf op zoek zijn naar een coach. Veelal kennen ze het probleem wel, **maar is coaching nog niet overwogen als oplossing**.
+Bij dit soort platforms betaal je meestal om erop te staan, of het platform houdt een deel van de omzet in. Wie weet levert het je een paar eerste klussen op, en als die goed gaan, word je minder afhankelijk van het platform, omdat je terugkerende klanten krijgt en de promotie via via gaat. Dit zijn Nederlandse platforms die op 19 september 2026 nog actief waren:
 
-![Coachfinder coaching platform Nederland](/images/migrated/coachfinder-coaching-platform-nederland-1.webp "Coachfinder coaching platform Nederland")
+*   GORT Coaching ([open in nieuw tabblad](https://gortcoaching.nl/)): meer dan 200 gecertificeerde coaches en psychologen, met eigen kwaliteitseisen
+*   Coaching.nl ([open in nieuw tabblad](https://www.coaching.nl/)): bestaat sinds 1993, voor particuliere en zakelijke coaching
+*   Coach Circle ([open in nieuw tabblad](https://www.coachcircle.nl/)): zoekplatform met filters per specialisme, aanmelden als coach kan online
 
-Bij dit soort platforms betaal je veelal maandelijks om erop te staan. Wie weet levert het je **een paar eerste klussen op**. En mochten die goed gaan, maakt dat je als het goed is minder afhankelijk van het platform zelf omdat je terugkerende klanten hebt en de verdere promotie via via gaat. Zie hier enkele Nederlandse coaching platforms waarop je je aan kunt melden:
-
-*   Coachfinder ([open in nieuw tabblad](https://www.coachfinder.nl/))
-*   Gortcoaching ([open in nieuw tabblad](https://gortcoaching.nl/))
-*   Coaching.nl ([open in nieuw tabblad](https://www.coaching.nl/))
-*   Coach Circle ([open in nieuw tabblad](https://www.coachcircle.nl/))
-
-Goed om hierbij in de gaten te houden is wat het verdienmodel van zo’n platform is. Veelal is het dat jij als coach **betaald om erop te staan** en zij dan voor jou advertenties draaien, al kun je dat natuurlijk ook voor jezelf doen…
+Houd in de gaten wat het verdienmodel van zo'n platform is. Vaak betaal jij om erop te staan en draaien zij voor jou advertenties. Dat kun je natuurlijk ook voor jezelf doen.
 
 ### Adverteren via Google
 
-Allereerst zou je kunnen proberen te **adverteren via Google**. Veelal krijg je als je je aanmeld bij de KVK een gratis proefbudget om dit uit te proberen. Het voordeel is dat je mensen op je website krijgt die al **op zoek zijn naar een coach**. Dat ziet er dan waarschijnlijk als volgt uit:
+Je kunt proberen te adverteren via Google. Als nieuwe adverteerder krijg je in Nederland €400 extra tegoed zodra je binnen 60 dagen zelf €400 hebt uitgegeven, dus je eerste €800 aan klikken kost je €400. Het voordeel is dat je mensen op je website krijgt die al op zoek zijn naar een coach.
 
-![Opruimcoach advertentie op Google](/images/migrated/opruimcoach-advertentie-op-google-1.webp "Opruimcoach advertentie op Google")
-
-Het nadeel is dat dit **vaak een mismatch is**. Dat is dan ook de reden dat de Nederlandse coaching platforms het er met die advertenties beter vanaf brengen dan individuelen. Omdat ze coaches hebben op ieder gebied en **de vraag dus vaak bij het aanbod gevoegd kan worden**. Mocht je voor jouw eigen website besluiten te adverteren op Google (SEA, heet dat) doe dit dan specifiek op zoekwoorden die relevant zijn aan het soort coaching dat jij aanbiedt. In bovenstaande voorbeeld zou je dan dus alleen willen adverteren op zoekwoorden als ‘**opruimcoach**‘, ‘**coaching opruimen**‘ en ‘**hulp bij opruimen**‘.
-
-Mocht je nog nooit hebben geadverteerd via de zoekmachine, huur hier dan zeker een externe partij voor in. Die kosten wat geld, maar het bespaart je meer, dat weet ik zeker.
+Het nadeel is dat het vaak een mismatch is. Dat is de reden dat de coachplatforms het er met advertenties beter vanaf brengen dan individuele coaches: zij hebben coaches op ieder gebied en kunnen de vraag bij het aanbod voegen. Adverteer je voor je eigen website op Google (SEA heet dat), doe dat dan alleen op zoekwoorden die precies bij jouw coaching passen. Een opruimcoach adverteert dus alleen op 'opruimcoach', 'coaching opruimen' en 'hulp bij opruimen'. Heb je nog nooit geadverteerd via de zoekmachine, huur er dan een externe partij voor in. Dat kost geld, maar bespaart meer.
 
 ### Adverteren via social media
 
-Via **social media** kun je ook advertenties laten lopen. Dit zijn vaak ander soort advertenties dan die bij Google. Dit omdat mensen bij Google al ergens naar zoeken, waar mensen bij social media gewoon aan het scrollen zijn. Gelukkig zijn social media advertenties een stuk **goedkoper**.
+Via social media kun je ook advertenties laten lopen. Dit zijn andere advertenties dan bij Google: bij Google zoekt iemand al, op social media is iemand aan het scrollen. Gelukkig zijn social-media-advertenties goedkoper; op Facebook en Instagram betaal je in Nederland zo'n €5 tot €15 per 1.000 vertoningen.
 
-Direct jouw coaching aanbieden op social media is dus niet zo’n goed idee. Mensen kennen je nog niet en hebben waarschijnlijk nog helemaal geen behoefte aan een coach. Kies er dus voor om er een stapje tussen te zetten. Dit kan door eerst een gratis weggever te maken. Denk voor ons voorbeeld aan **een e-book over hoe je kunt ontspullen**.
-
-![Huis opruimen coach e-book](/images/migrated/huis-opruimen-coach-e-book-1.webp "Huis opruimen coach e-book")
-
-Mensen die de advertentie zien kunnen deze dan **gratis downloaden in ruil voor hun e-mail adres**. Door het lezen van het e-book leren ze jou kennen als coach en kun je jouw meerwaarde duidelijk maken. Wil je weten hoe je zo’n e-book maakt als weggever? Bekijk dan [dit stappenplan](/blog/online-geld-verdienen/e-book/).
-
+Direct je coaching aanbieden op social media is dus niet zo'n goed idee. Mensen kennen je nog niet en hebben nog geen behoefte aan een coach. Zet er een stapje tussen: maak eerst een gratis weggever. Denk voor de opruimcoach aan een e-book over hoe je ontspult. Mensen die de advertentie zien, downloaden dat gratis in ruil voor hun e-mailadres. Door het lezen leren ze jou kennen als coach. Wil je weten hoe je zo'n e-book maakt? Bekijk [dit stappenplan](/blog/online-geld-verdienen/e-book/).
 
 ### Promoot jezelf via via
 
-Je hoeft niet altijd [online marketing expert](/blog/online-geld-verdienen/online-marketing/) te zijn om aan klanten te komen. Soms vind je deze letterlijk om je heen. Maak kenbaar aan vrienden en familie wat jij als online coach kan betekenen. In veel gevallen helpt het daarbij om jouw coaching **eerst gratis aan te bieden** zodat je in ieder geval met de juiste mensen in contact komt.
+Je hoeft geen [online-marketingexpert](/blog/online-geld-verdienen/online-marketing/) te zijn om aan klanten te komen. Soms vind je ze letterlijk om je heen. Maak aan vrienden en familie kenbaar wat jij als coach kunt betekenen. In veel gevallen helpt het om je coaching eerst gratis aan te bieden, zodat je met de juiste mensen in contact komt en je eerste referenties verzamelt. En wil je lokaal aan de slag, dan is een flyer bij zaken in de buurt nog steeds geen gek idee. Promotie hoeft niet ingewikkeld te zijn.
 
-En mocht je lokaal nog meer aan de slag willen, dan is het niet eens zo’n gek idee om gewoon **een flyer te ontwerpen** en deze bij zaken in de buurt neer te leggen. Promotie hoeft niet altijd super ingewikkeld te zijn ;).
+### Contentmarketing inzetten
 
-### Content marketing inzetten
+Geavanceerder, maar iets wat ik zelf altijd gebruik, is [contentmarketing](/blog/ondernemen/content-marketing/): een eigen YouTube-kanaal, blog of Instagram waar je tips deelt die met je coaching te maken hebben. Zo komen mensen via een zoekmachine of via Reels bij je terecht en maken ze kennis met je. Dit is de reden dat mensen mij vragen om coaching: ze hebben eerst tientallen artikelen van me gelezen.
 
-Meer geavanceerd, maar iets wat ik zelf altijd gebruik voor promotie is [content marketing](/blog/ondernemen/content-marketing/). Denk hierbij aan het starten van een eigen Youtube kanaal of blog waar je video’s/blogs maakt met tips geeft gerelateerd aan jouw coaching. Vaak helpt dit om mensen **via een zoekmachine bij jou terecht te laten komen** en op deze manier kennis te maken.
+De reden dat dit geavanceerd is, is dat het lang kan duren voordat je blogs of video's goed worden gevonden. Daarbij is het tijdsintensief. Kleine tip: laat AI je helpen met de eerste versie van een script of artikel en de montage; ik zie in mijn workshops coaches en trainers die zo drie keer zoveel content maken in dezelfde tijd. Het verhaal en de voorbeelden blijven van jou.
 
-![Coaching opruimen youtube video](/images/migrated/coaching-opruimen-youtube-video-1.webp "Coaching opruimen youtube video")
+### Acquisitiemails ter promotie
 
-De reden dat dit geavanceerd is, is omdat het een flinke tijd kan duren voordat jouw blogs of video’s goed worden gevonden. Daarbij is het zeer **tijdsintensief**.
+Valt je coaching in de zakelijke markt, dan kun je acquisitiemails inzetten: een mail waarin je jezelf voorstelt en je aanbod aanprijst. Dit soort mails werkt vooral als het probleem dat jij oplost heel duidelijk is. Gaat het om het coachen van managers, dan zou het probleem een lage productiviteit op de werkvloer kunnen zijn. Een goede mail beschrijft dat probleem, de consequenties en hoe jij het oplost. [Hier vind je een uitgebreide beschrijving van een goed werkende acquisitiemail](/blog/ondernemen/acquisitie-mail-voorbeeld1/).
 
-### Acquisitie mails ter promotie
-
-Mocht jouw coaching in de **Business-2-Business** sector vallen, dan kun je ook acquisitie mails inzetten. Dit is een mail waarin je jezelf voorstelt en je aanbod aanprijst.
-
-Dit soort mails werken vooral goed **als het probleem dat jij oplost heel duidelijk is**. Stel bijvoorbeeld dat het gaat om het coachen van managers, dan zou het probleem dat je oplost kunnen gaan over een lage productiviteit op de werkvloer.
-
-Een goede acquisitie mail beschrijft dat probleem, de consequenties en hoe jij deze oplost. [Vind hier een uitgebreide beschrijving van hoe je een goed werkende acquisitie mail schrijft](/blog/ondernemen/acquisitie-mail-voorbeeld1/).
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, van teksten tot planning. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Stap 4: Extra verdiensten als coach
 
-Als je coacht zit je snel aan een max. Je hebt immers **je eigen tijd te gebruiken** om iemand met online coaching verder te helpen. Als jouw agenda vol zit, kun je dus niet meer verdienen. Daarom zie je dat veel online coaches meerdere inkomstenbronnen hebben.
+Als je coacht, zit je snel aan een maximum. Je gebruikt immers je eigen tijd. Volgens NOBCO factureren coaches gemiddeld 19 uur per week, terwijl ze 40 uur of meer werken. Als je agenda vol zit, kun je dus niet meer verdienen. Daarom zie je dat veel online coaches meerdere inkomstenbronnen hebben.
 
-Om meer [online geld te verdienen](/blog/online-geld-verdienen/online-geld-verdienen/) als coach is het van belang om je vak **op meerdere manieren te beoefenen**. Denk er bijvoorbeeld aan om de coaching aan te vullen met [een eigen online cursus](/blog/online-geld-verdienen/videotraining/). Zo kun je jouw klanten op meerdere manieren helpen en ook klanten aanspreken die coaching maar niks vinden, maar wel met hun probleem aan de slag willen.
+Om meer [online geld te verdienen](/blog/online-geld-verdienen/online-geld-verdienen/) als coach is het van belang je vak op meerdere manieren te beoefenen. Vul je coaching aan met [een eigen online cursus](/blog/online-geld-verdienen/videotraining/): zo help je klanten op meerdere manieren en spreek je ook mensen aan die coaching niks vinden, maar wel met hun probleem aan de slag willen. Denk ook aan groepstrajecten (zes mensen tegelijk, lager tarief per persoon, hoger tarief per uur), een [e-book](/blog/online-geld-verdienen/e-book/) of een betaalde community. Dit geeft je meerdere inkomensbronnen en een beetje [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/). Spreid je winkansen.
 
-Dit geeft je **meerdere inkomensbronnen** en geeft je tevens een beetje [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/). Zie ook de [online coaching](https://shop.fit.nl/online-coaching) van FIT.nl die naast 1-op-1 begeleiding ook supplementen, boeken en een app aanbieden. Spreid je winkansen ;).
+## Veelgestelde vragen over online coach worden
+
+### Heb ik een diploma nodig om coach te worden?
+
+Nee, 'coach' is geen beschermde titel. Maar een opleiding en aansluiting bij een beroepsvereniging als NOBCO maken je geloofwaardiger, zeker bij zakelijke klanten, en verzekeraars vragen er soms om.
+
+### Wat vraag ik als beginnende coach?
+
+Voor particulieren meestal €75 tot €110 per uur; het gemiddelde in Nederland is €102 (NOBCO 2025). Zakelijke klanten betalen gemiddeld €147. Verkoop liever een traject van zeven sessies dan losse uren.
+
+### Moet ik btw rekenen over coaching?
+
+Ja, 21%, tenzij je omzet onder de €20.000 per jaar blijft en je meedoet aan de kleineondernemersregeling. Zakelijke klanten kunnen de btw terugvragen, dus daar maakt het weinig uit.
 
 ## Conclusie online coaching opzetten
 
-**E-coaching** kan een hell of a job zijn. Vooral aan het begin is het moeilijk om aan klanten te komen omdat je jouw toegevoegde waarde nog moet bewijzen. Maar wanneer het balletjes eenmaal rolt, rolt deze door.
+Online coaching kan een hell of a job zijn. Vooral aan het begin is het moeilijk om aan klanten te komen, omdat je je toegevoegde waarde nog moet bewijzen. Maar wanneer het balletje eenmaal rolt, rolt het door.
 
-De basis voor succes is dat jouw online coaching zichtbaar is met een website en dat je actief klanten werft. Of je dit nou doet met advertenties, contentmarketing of via via maakt daarbij niet zoveel uit. Kies een strategie die bij jou past en ga vooral lekker aan de slag.
+De basis voor succes is dat je online coaching zichtbaar is met een website en dat je actief klanten werft. Of je dat doet met advertenties, contentmarketing of via via maakt niet zoveel uit. Kies een strategie die bij je past en ga vooral lekker aan de slag.
 
 **Succes met jouw online coaching business!**
-

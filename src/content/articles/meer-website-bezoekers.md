@@ -1,8 +1,8 @@
 ---
-title: "Meer website bezoekers – Hoe ik van 0 naar 50.000 bezoekers per maand ging"
-description: "Meer website bezoekers krijgen, dat wilde mij tot vorig jaar maar niet lukken. Ik had mijn website opgezet over een leven als digital nomad. Op de…"
+title: "Meer website bezoekers in 2026 – Hoe ik van 0 naar 50.000 bezoekers per maand ging"
+description: "Meer website bezoekers in 2026: hoe ik met artikelen van 3 bezoekers per dag naar 50.000 per maand ging, en wat AI-overzichten en ChatGPT veranderen."
 date: 2018-09-07
-updated: 2023-01-03
+updated: 2026-09-19
 category: "ondernemen"
 slug: "meer-website-bezoekers"
 lang: "nl"
@@ -10,80 +10,136 @@ draft: false
 featuredImage: "/images/headers/meer-website-bezoekers.webp"
 ---
 
-Meer website bezoekers krijgen, dat wilde mij tot vorig jaar maar niet lukken. Ik had [mijn website](/) opgezet over een [leven als digital nomad](/blog/digitalenomaden/digital-nomad-worden/). Op de website plaatste ik artikelen en bood ik mijn diensten aan als webdesigner en trainer. Er was alleen een ding wat me enorm tegenzat. De eerste maanden kreeg ik hooguit drie bezoekers per dag via organische kanalen als Google. Maar hier had ik natuurlijk niets aan, hier ging het massa is kassa principe niet voor op.
+**Meer website bezoekers krijgen**, dat wilde mij in 2017 maar niet lukken. Ik had [mijn website](/) opgezet over een [leven als digital nomad](/blog/digitalenomaden/digital-nomad-worden/), plaatste artikelen en bood mijn diensten aan als webdesigner en trainer. De eerste maanden kreeg ik hooguit drie bezoekers per dag via Google. Twaalf maanden later waren dat er 10.000 per maand, in 2023 50.000 per maand, en inmiddels staan er ruim 170 artikelen op deze site.
 
-> Ik moest dus wat bedenken om meer website bezoekers te krijgen maar had, omdat het een startend bedrijf betreft, niet het geld om daar dik voor te adverteren. Het moest dus eigenlijk gewoon gratis.
+In dit artikel lees je precies hoe ik dat deed, stap voor stap, en wat er sinds 2018 veranderd is. Want dat is nogal wat: Google toont sinds mei 2025 ook in Nederland AI-overzichten boven de zoekresultaten, honderden miljoenen mensen stellen hun vragen aan ChatGPT in plaats van aan Google, en toch werkt de kern van mijn aanpak nog steeds. Onderaan staat een rekenaar waarmee je ziet wat een paar procent groei per maand na een jaar oplevert.
 
-Nu, 12 maanden verder, heeft diezelfde website 10.000 gratis bezoekers per maand! Ik ben dus in 12 maanden van praktisch 0 naar duizenden bezoekers per maand gegaan. Hoe ik dat heb bereikt en welke stappen daarvoor nodig waren, daar gaan we het in dit artikel over hebben. Het is namelijk voor iedere website mogelijk om zoveel gratis bezoekers per maand te krijgen en daarmee een gigantische groep potentiële klanten aan je te binden.
+Meer website bezoekers betekent meer mensen aan wie jij je product en dienst kunt laten zien, meer [leads](/blog/ondernemen/leads-genereren-mailinglijst/), en als je aan [affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) doet, simpelweg meer [geld verdienen met je website](/blog/online-geld-verdienen/geld-verdienen-met-website/).
 
-Meer website bezoekers betekent namelijk dat er meer mensen zijn aan wie jij je product en dienst kan aanraden of [leads kunt genereren](/blog/ondernemen/leads-genereren-mailinglijst/). Of wanneer je doet aan dingen als [affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/), dat je gewoonweg meer [geld verdient met jouw website](/blog/online-geld-verdienen/geld-verdienen-met-website/).
+## Het inzicht waar alles mee begon
 
-## Meer website bezoekers krijgen begon bij één belangrijk inzicht
+Voordat mijn website bezoekers begon aan te trekken, probeerde ik van alles: een beetje links, een beetje rechts, een advertentie hier, een Facebookpost daar. Er gebeurde niets.
 
-Voordat mijn website massaal bezoekers begon aan te trekken ging het dus niet bepaald goed. Totdat ik van strategie veranderde gebeurde er eigenlijk helemaal niets.
+In 2017 sprak ik iemand die op dat moment 10.000 bezoekers per maand had. Ik vroeg hoe hij dat had gedaan. Hij nam een video op waarin hij door mijn website ging en vertelde hoe hij het zou aanpakken. Zelf deed hij niets anders dan artikelen schrijven die relevant waren voor zijn doelgroep, en dat raadde hij mij ook aan. Een jaar later zat hij op 100.000 bezoekers per maand.
 
-Vorig jaar sprak ik met iemand die op dat moment 10.000 bezoekers per maand had op zijn website en ik vroeg hoe hij dat had gedaan. Hij nam een video op waarin die door mijn website heen ging en vertelde hoe hij dat aan zou pakken. Zelf deed hij niets anders dan artikelen schrijven die relevant zijn voor zijn doelgroep en dat raadde hij mij dan ook aan. En terecht!
+> De truc zat in waardevol zijn voor je doelgroep met behulp van content. Google ziet de waarde die jij biedt aan je potentiële klanten en verwijst vaker en beter naar je door. Ook naar je verkooppagina's.
 
-> Inmiddels heeft hij 100.000 bezoekers per maand op zijn website en hij heeft mij verzekerd dat dat er volgend jaar nog 5x zoveel zijn. De truc zat hem in waardevol zijn voor je doelgroep met behulp van content (lees: artikelen). Google ziet vervolgens de waarde die jij bied aan je potentiële klanten en zal vaker en beter naar je doorverwijzen. Je website word dus meer waard volgens Google en zorgt daarmee voor meer website bezoekers (ook naar je verkooppagina’s).
+Ik had geen geld om dik te adverteren, dus het moest gratis. Dat bleek achteraf een zegen: wat ik toen bouwde, levert nu nog steeds bezoekers op.
 
-## Meer website bezoekers met een overzichtelijke strategie
+## Stap 1: Bedenk honderd artikelen (en schrijf er dertig)
 
-Het werd dan ook tijd dat ik zou stoppen met een beetje links en een beetje rechts dingen te proberen. Het werd tijd om met een valide strategie aan de slag te gaan voor meer website bezoekers. Ik besloot een plan te maken en aan de slag te gaan met content marketing. Dat startte met een soort brainstorm over wat voor artikelen ik allemaal zou kunnen schrijven die relevant zijn voor mijn doelgroep.
+Ik besloot een plan te maken en aan de slag te gaan met contentmarketing. Dat begon met een brainstorm over wat voor artikelen ik zou kunnen schrijven die relevant zijn voor mijn doelgroep: mensen die locatieonafhankelijk willen werken en de wereld rond willen reizen. Voor hen schreef ik onder meer:
 
-Mijn doelgroep zijn mensen die locatie onafhankelijk willen werken en daarmee de wereld rond willen reizen. Voor deze doelgroep besloot ik de volgende artikelen te gaan schrijven:
-
-*   [Hoe je aan klanten komt met het schijven van een e-mail](/blog/ondernemen/acquisitie-mail-voorbeeld1/)
+*   [Hoe je aan klanten komt met het schrijven van een e-mail](/blog/ondernemen/acquisitie-mail-voorbeeld1/)
 *   [Hoe je vrienden maakt op reis](/blog/tips/mensen-ontmoeten-op-reis/)
 *   [Alle manieren om online geld te verdienen](/blog/online-geld-verdienen/online-geld-verdienen/)
 *   [Wat is een digital nomad en hoe word je er een](/blog/digitalenomaden/digital-nomad-worden/)
 *   [Alle digital nomad banen opgesomd](/blog/digitalenomaden/digital-nomad-banen/)
 
-En zo nog 100 andere ideeën voor artikelen. Een trucje dat mij hierbij heel erg hielp is Google zelf. Wanneer je op Google één woord in typt geeft Google al suggesties naar dingen die rondom dat onderwerp worden gezocht. Dit hielp mij erg om meer relevante zoektermen en dus artikelen te bedenken. Het ging er hier dan ook vooral om, om gewoon zoveel mogelijk te bedenken. Ook te zoeken naar de hoekjes van wat relevant kan zijn voor mijn doelgroep. Een echte divergerende brainstorm dus.
+En zo nog honderd andere ideeën. Een trucje dat me hierbij enorm hielp was Google zelf: typ één woord in en Google geeft al suggesties voor wat er rondom dat onderwerp gezocht wordt. Het ging er vooral om zoveel mogelijk te bedenken, ook in de hoekjes van wat relevant kan zijn. Een divergerende brainstorm dus.
 
-## Wel even kijken of waar je over gaat schrijven daadwerkelijk een doelgroep heeft
+In 2026 doe ik dezelfde brainstorm in een kwartier met ChatGPT of Claude: "Dit is mijn doelgroep, dit zijn de vragen die ik van klanten krijg, geef me honderd artikelideeën gegroepeerd per fase van hun zoektocht." Het resultaat is ruwer dan wat je zelf bedenkt, maar het bespaart je de lege bladzijde. Het filteren, en dat is de volgende stap, doe je wel zelf.
 
-Vervolgens was het tijd om te gaan filteren, om te gaan convergeren. Ik wilde niet lukraak 100 artikelen gaan schrijven waarvan maar een kwart aan zou slaan bij Google en mijn doelgroep. Het was dus tijd voor een zogeheten zoekwoordanalyse. Wanneer je een Google Adwords account hebt kun je met de zoekwoordplanner kijken naar de statistieken rondom zoekwoorden.
+![Een vergrootglas boven een stapel indexkaartjes met zoektermen](/images/spots/bezoekers-zoekwoorden.webp "Eerst honderd ideeën, dan filteren op wat er echt gezocht wordt")
 
-> Naar ‘Online Geld Verdienen’ wordt 1700x per maand gezocht. Maar naar ‘Een Burn-Out Als Digital Nomad’ blijkt eigenlijk een helemaal niet gezochte term te zijn. Het was dus irrelevant om laatstgenoemde zoekwoord te vertalen in een artikel wanneer mijn doel was om meer website bezoekers te krijgen. Dit is wel belangrijk om je te realiseren. Want iets schrijven waar niet naar gezocht word, daar verdoe je je tijd mee.
+## Stap 2: Kijk of er echt naar gezocht wordt
 
-## Nu was het tijd om te gaan schrijven voor meer website bezoekers
+Vervolgens was het tijd om te gaan filteren, om te convergeren. Ik wilde niet lukraak honderd artikelen schrijven waarvan maar een kwart zou aanslaan. Het was tijd voor een zoekwoordanalyse. Met een Google Ads-account (gratis, je hoeft geen advertentie te draaien) gebruik je de Zoekwoordplanner om te zien hoe vaak iets gezocht wordt.
 
-Ik had nu een afweging gemaakt bij ieder artikel of ik deze zou gaan schrijven of niet. Zoekwoorden die minder dan 100x per maand worden gezocht zette ik in de categorie irrelevant voor meer website bezoekers. Ik richtte mij alleen maar op de artikelen die sowieso gelezen zouden gaan worden.
+> Naar 'online geld verdienen' werd in 2018 zo'n 1.700 keer per maand gezocht. 'Een burn-out als digital nomad' bleek een term waar helemaal niemand naar zocht. Iets schrijven waar niet naar gezocht wordt, daar verdoe je je tijd mee.
 
-Natuurlijk realiseerde ik mij dat ik niet de enige zou zijn die artikelen schrijft voor meer website bezoekers. Het was dan ook logisch dat over mijn onderwerpen al een keer geschreven was. Mede daarom was het extra belangrijk dat de dingen die ik schreef waardevol zijn voor mijn doelgroep.
+Zoekwoorden die minder dan honderd keer per maand werden gezocht, zette ik in de categorie 'irrelevant'. Ik richtte me alleen op artikelen die sowieso gelezen zouden worden. Heb je al een website die een tijdje bestaat? Dan is Google Search Console (ook gratis) je beste vriend: daar zie je op welke zoektermen je nú al vertoond wordt zonder dat je erop klikt, en dat zijn de artikelen die je als eerste moet verbeteren.
 
-> Wanneer jij het meest waardevolle artikel over een bepaald onderwerp op het internet hebt, zal Google dit herkennen. Google zal jouw artikel boven een artikel plaatsen dat minder waarde heeft. Wat weer leid tot meer website bezoekers.
+## Stap 3: Schrijf het beste artikel op het internet over dat onderwerp
 
-Het was dan ook niet voor niets dat al mijn artikelen tussen de 1000 en 3000 woorden bevatten. Dit is over het algemeen best wel lang, en daarmee veelal langer (en waardevoller) dan mijn concurrent. Zo is het gekomen dat ik met veel artikelen in ieder geval een top 5 positie in Google heb gekregen op de meest prominente zoekwoorden voor mijn branche. Dat lange artikelen van belang zijn kun je ook zien het grafiekje hieronder over hoe je Google ranking zich verhoudt tot het aantal woorden van de pagina waar Google naartoe verwijst.
+Natuurlijk was ik niet de enige die artikelen schreef. Over mijn onderwerpen was al geschreven. Daarom was het extra belangrijk dat wat ik schreef écht waardevol was.
 
-![Content lengte](/images/migrated/content-lengte.webp "content-lengte")
+> Wanneer jij het meest waardevolle artikel over een onderwerp op het internet hebt, herkent Google dat. Google zet jouw artikel boven een artikel dat minder waarde heeft. En dat leidt weer tot meer bezoekers.
 
-## Exponentieel én duurzaam groeien
+Al mijn artikelen bevatten daarom tussen de 1.000 en 3.000 woorden. Dat is lang, en daarmee meestal langer en completer dan wat de concurrent had. Zo kreeg ik met veel artikelen een top-5-positie op de belangrijkste zoektermen in mijn branche. Dat lange artikelen ertoe doen, blijkt ook uit onderzoek: Backlinko analyseerde in 2020 11,8 miljoen zoekresultaten en vond dat een pagina in de top tien van Google gemiddeld 1.447 woorden telt. Let wel: het gaat niet om lengte op zich. Een lang artikel wint omdat het de vraag vollediger beantwoordt, niet omdat het lang is.
 
-Voordat ik deze manier gebruikte om meer website bezoekers te genereren, zette ik vaak Google Adwords of Facebook advertenties in om mensen richting mijn website te krijgen. Het grote nadeel hieraan is dat dit veel geld kost en dat het daarbij ook maar eenmalig iets oplevert. De bezoeker komt op mijn website, maar als deze weer weg gaat is het gedaan met de pret.
+Wat er sinds 2018 bij is gekomen: Google beoordeelt nadrukkelijk of een tekst uit eigen ervaring komt. Een artikel dat door AI in elkaar is gezet uit tien andere artikelen, voegt niets toe en zakt weg. Een artikel waarin jij vertelt wat je zélf deed, met je eigen cijfers, foto's en fouten, is precies wat AI niet kan namaken.
 
-> Het mooie aan het schrijven van artikelen voor mijn website is dat het me iedere maand opnieuw 10.000 bezoekers opleverde. Ook wanneer ik even niets doe aan mijn website. En behalve alle geïnvesteerde uren in het schrijven van artikelen, heeft dat mij niets gekost. Het is dus een duurzame manier van groeien.
+## Stap 4: Laat het groeien (en hou vol)
 
-Ook niet onbelangrijk is de exponentiële groei die content marketing met zich meebrengt. Elke maand groeit het aantal bezoekers op mijn website met 30%. Dat betekent dat het ongeveer iedere 3 maanden verdubbelt! Het is dan ook niet voor niets dat die collega van mij in een jaar van 10.000 naar 100.000 bezoekers per maand was gegroeid. Die stap is eigenlijk minder moeite dan de stap van 0 naar 10.000 bezoekers per maand.
+Voordat ik artikelen schreef, zette ik Google Ads of Facebook-advertenties in om mensen naar mijn website te krijgen. Het nadeel: het kost geld en het levert eenmalig iets op. De bezoeker komt, gaat weer weg en dan is het gedaan.
 
-> Dat je exponentieel kunt groeien door artikelen te schrijven voor meer website bezoekers heeft te maken met een specifiek principe. Het betreft hier de reputatie die jouw website heeft in Google. Schrijf je veel waardevolle artikelen en besta je langer, dan groeit die reputatie en word een nieuw artikel sneller en hoger geïndexeerd. Sta je er dus al goed voor, dan groei je sneller en sneller.
+> Het mooie aan artikelen is dat ze me iedere maand opnieuw bezoekers opleverden. Ook wanneer ik even niets deed. Behalve de uren die ik erin stak, kostte het me niets. Een duurzame manier van groeien.
 
-Een overzicht van hoe ik zelf meer website bezoekers kreeg, vind je hieronder. Je ziet daarin hoe dit in 12 maanden is gegroeid en hoe exponentieel dat is.
+Ook niet onbelangrijk is de exponentiële groei. In mijn eerste jaar groeide het aantal bezoekers met zo'n 30 procent per maand, wat betekent dat het ongeveer iedere drie maanden verdubbelde. Dat komt door de reputatie die je website opbouwt bij Google: schrijf je veel waardevolle artikelen en besta je langer, dan wordt een nieuw artikel sneller en hoger geïndexeerd. Sta je er goed voor, dan groei je steeds sneller. De stap van 10.000 naar 100.000 bezoekers kost daardoor minder moeite dan de stap van 0 naar 10.000.
 
-## fusion-chart-1 .fusion-chart-legend-wrap li:nth-child(1) span{color: #ffffff;}
+![Een laptop op een bureau waar een jong plantje uit het toetsenbord groeit, op het scherm een stijgende lijn](/images/spots/bezoekers-groei.webp "Artikelen groeien door, ook in de maanden dat je even niets doet")
 
-## Meer website bezoekers krijgen met content marketing
+<div class="tool not-prose" id="bezoekers-calc">
+<p class="tool__title">Reken uit wat groei per maand na een jaar oplevert</p>
+<p class="tool__intro">Vul in waar je nu staat en hoeveel procent je per maand groeit; de uitkomst rekent direct mee.</p>
+<div class="tool__grid">
+<label class="tool__field">Bezoekers per maand nu<input class="tool__input" id="bezoekers-start" type="number" min="1" step="50" value="300"></label>
+<label class="tool__field">Groei per maand (%)<input class="tool__input" id="bezoekers-growth" type="number" min="0" max="100" step="1" value="15"></label>
+<label class="tool__field">Aantal maanden<input class="tool__input" id="bezoekers-months" type="number" min="1" max="60" step="1" value="12"></label>
+</div>
+<div class="tool__results">
+<div class="tool__result"><p class="tool__label">Bezoekers per maand straks</p><p class="tool__value" id="bezoekers-end">1.600</p><p class="tool__sub" id="bezoekers-end-sub">na 12 maanden</p></div>
+<div class="tool__result"><p class="tool__label">Bezoekers in totaal</p><p class="tool__value" id="bezoekers-total">10.000</p><p class="tool__sub">opgeteld over de hele periode</p></div>
+</div>
+<p class="tool__note">Rekenvoorbeeld, geen belofte. Mijn eigen groei in het eerste jaar was ongeveer 30 procent per maand; 10 tot 15 procent is voor een nieuwe site al een prima resultaat. De eerste zes maanden zie je vaak nog weinig, daarna gaat het hard.</p>
+</div>
 
-Het is écht lange termijn denken. De eerste 6 maanden levert het je niets op, dat kan ik je nu alvast vertellen. Maar wanneer je bezig blijft dan ben jij de aanhouder die wint. Binnen een jaar de 10.000 bezoekers per maand halen, dat kan iedereen. Als je dan de vibe te pakken hebt kun je ook zeker nog veel verder groeien naar meer website bezoekers.
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var num = function (n) { return new Intl.NumberFormat('nl-NL', { maximumFractionDigits: 0 }).format(n); };
+  function calc() {
+    var start = +$('bezoekers-start').value || 0, g = (+$('bezoekers-growth').value || 0) / 100, m = Math.max(1, Math.round(+$('bezoekers-months').value || 1));
+    var cur = start, total = 0;
+    for (var i = 0; i < m; i++) { cur = cur * (1 + g); total += cur; }
+    $('bezoekers-end').textContent = num(cur);
+    $('bezoekers-end-sub').textContent = 'na ' + m + (m === 1 ? ' maand' : ' maanden');
+    $('bezoekers-total').textContent = num(total);
+  }
+  ['bezoekers-start', 'bezoekers-growth', 'bezoekers-months'].forEach(function (id) { $(id).addEventListener('input', calc); });
+  calc();
+})();
+</script>
 
-Het schrijven van artikelen is voor mij een standaard bezigheid geworden in de categorie ‘groeien met mijn business’ en dat zal ik nog wel een tijd blijven doen! Inmiddels heb ik deze strategie ook uitgerold voor een [DJ verhuur bedrijf](https://allrounddjservice.nl/) en boek daar dezelfde resultaten. Ik heb er dan ook het volste vertrouwen in dat je op deze website over een jaar leest hoe ik de 100.000 bezoekers heb aangetikt en onderweg ben naar de miljoen. Leuk dat geld verdienen met internet ;).
+## Wat er sinds 2018 veranderde: AI-overzichten en ChatGPT
+
+Dit is het deel dat ik in 2018 niet kon schrijven. Sinds eind mei 2025 toont Google ook in Nederland AI-overzichten: een door AI geschreven antwoord bovenaan de zoekresultaten, met daaronder pas de gewone links. Het gevolg is dat veel zoekopdrachten eindigen zonder klik. Het Amerikaanse bureau Seer Interactive volgde in 2025 bij 53 merken 5,47 miljoen zoektermen en zag het doorklikpercentage bij vragen mét zo'n AI-overzicht zakken tot 1,31 procent in december 2025, tegen 3,16 procent bij vragen zonder. Begin 2026 herstelde dat deels, naar 2,36 procent in februari. Wat opviel: sites die in het AI-overzicht als bron genoemd werden, kregen ruim twee keer zoveel klikken als sites die er niet in stonden.
+
+Tegelijk stellen mensen hun vragen steeds vaker helemaal niet meer aan Google. OpenAI meldde in februari 2026 dat ChatGPT 900 miljoen wekelijkse gebruikers had. Google is met zo'n 90 procent van de zoekmarkt nog steeds veruit de grootste, maar het is niet meer de enige deur naar jouw website.
+
+Wat betekent dit voor jou? Drie dingen die ik zelf veranderd heb:
+
+1. **Schrijf voor de vraag, niet voor het zoekwoord.** AI-overzichten en ChatGPT citeren pagina's die een vraag direct en volledig beantwoorden. Begin je artikel met het antwoord en werk het daarna uit.
+2. **Zet er in wat alleen jij weet.** Eigen cijfers (zoals de groei hierboven), eigen foto's, eigen fouten. Dat is wat een AI-antwoord niet heeft en waarom mensen alsnog doorklikken.
+3. **Zoek naar vragen waar mensen nog wél willen doorklikken.** Definities en snelle feiten worden in het AI-overzicht beantwoord. Stappenplannen, vergelijkingen, ervaringen en alles waar je een rekenaar of tool bij kunt zetten, niet.
+
+![Een zoekbalk met daarnaast een klein gloeiend chipje met sterretjes](/images/spots/bezoekers-ai.webp "Sinds 2025 beantwoordt Google een deel van de vragen zelf; wie als bron genoemd wordt, wint")
+
+## Van drie bezoekers per dag tot AI-overzichten: mijn tijdlijn
+
+<ol class="timeline not-prose">
+<li class="timeline__item"><span class="timeline__num">1</span><p class="timeline__year">2017</p><p class="timeline__title">Drie bezoekers per dag</p><p class="timeline__text">Website live, diensten erop, advertenties geprobeerd. Niets werkt, tot iemand met 10.000 bezoekers me één advies geeft: schrijf.</p></li>
+<li class="timeline__item"><span class="timeline__num">2</span><p class="timeline__year">2018</p><p class="timeline__title">10.000 bezoekers per maand</p><p class="timeline__text">Dertig lange artikelen later, na een half jaar zonder zichtbaar resultaat, verdubbelt het verkeer iedere drie maanden.</p></li>
+<li class="timeline__item"><span class="timeline__num">3</span><p class="timeline__year">2019</p><p class="timeline__title">Google BERT</p><p class="timeline__text">Google begint zinnen te begrijpen in plaats van losse woorden. Artikelen die een vraag echt beantwoorden winnen van artikelen vol zoektermen.</p></li>
+<li class="timeline__item"><span class="timeline__num">4</span><p class="timeline__year">2022</p><p class="timeline__title">Helpful content en ChatGPT</p><p class="timeline__text">Google straft teksten die alleen voor de zoekmachine zijn geschreven. In november verschijnt ChatGPT en kan iedereen in seconden een artikel maken.</p></li>
+<li class="timeline__item"><span class="timeline__num">5</span><p class="timeline__year">2023</p><p class="timeline__title">50.000 bezoekers per maand</p><p class="timeline__text">Minder dan ik had voorspeld, maar met een hogere conversie. Nieuwe artikelen staan vrijwel direct op de eerste pagina.</p></li>
+<li class="timeline__item"><span class="timeline__num">6</span><p class="timeline__year">2025</p><p class="timeline__title">AI-overzichten in Nederland</p><p class="timeline__text">Eind mei toont Google ook in Nederland AI-antwoorden boven de resultaten. Bij informatieve vragen halveren de klikken ruim.</p></li>
+<li class="timeline__item timeline__item--now"><span class="timeline__num">7</span><p class="timeline__year">2026 – nu</p><p class="timeline__title">Verhuisd en verder</p><p class="timeline__text">Ruim 170 artikelen verhuizen van demodernenomaden.nl naar deze site, alle oude adressen sturen door. Schrijven voor de vraag, met eigen ervaring en tools, blijft de strategie.</p></li>
+</ol>
+
+## Meer website bezoekers met contentmarketing: het is lange termijn
+
+Het is écht langetermijndenken. De eerste zes maanden levert het je weinig op, dat kan ik je nu alvast vertellen. Maar wie volhoudt, wint. Binnen een jaar 10.000 bezoekers per maand halen kan iedereen die dertig goede artikelen schrijft. Heb je de vibe eenmaal te pakken, dan kun je nog veel verder groeien.
+
+Het schrijven van artikelen is voor mij een vaste bezigheid geworden in de categorie 'groeien met mijn business'. Dezelfde strategie rolde ik uit voor een [dj-verhuurbedrijf](https://allrounddjservice.nl/), dat er tot op de dag van vandaag zijn boekingen mee binnenhaalt.
 
 ## Update 2023
 
-Inmiddels heb ik maandelijks 50.000 bezoekers op mijn website. Dat is dus iets lager dan mijn verwachte groei. Desalniettemin is het wel efficiënte groei. Ik verkoop namelijk veel meer en heb een hogere conversie gekregen op mijn producten en leadpagina’s.
+Inmiddels heb ik maandelijks 50.000 bezoekers op mijn website. Dat is iets lager dan mijn verwachte groei, maar het is efficiënte groei: ik verkoop veel meer en heb een hogere conversie op mijn producten en leadpagina's. Ook zie ik dat nieuwe artikelen veel sneller ranken. Als ik nu iets publiceer, eindig ik standaard op de eerste pagina van de zoekresultaten, zonder maandenlang te wachten.
 
-Ook zie ik dat mijn nieuwe artikelen veel sneller zijn gaan ranken. Als ik nu iets nieuwe publiceer eindig ik standaard op de eerste pagina van de zoekresultaten. Gelukkig hoef ik daar nu niet steeds maandenlang voor te wachten.
+## Update 2026
 
+De strategie staat nog steeds, maar de uitvoering is veranderd. Ik gebruik AI voor de brainstorm, voor het bijwerken van oude artikelen en voor het bouwen van kleine tools zoals de rekenaar hierboven, zodat een artikel meer doet dan alleen uitleggen. Het schrijven van de eigen ervaring doe ik nog altijd zelf, want dat is precies het deel waar bezoekers voor komen. Wil je weten hoe je dat in je eigen bedrijf aanpakt? Daar gaat mijn [AI-introductieworkshop](/ai-workshops/) over, en voor wie het verder wil automatiseren is er het [automatiseringstraject](/automatisering/).
 
 <aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
-
