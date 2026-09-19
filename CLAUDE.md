@@ -79,13 +79,20 @@ header button says "Stuur een WhatsApp".
 6. **Blog** (`/blog/`) — Secondary in navigation. Category `web3` is kept online but hidden from
    the homepage and blog overview (D3); see `HIDDEN_FROM_LISTINGS` in `src/config/site.ts`.
 7. **Contact** (`/contact/`) — WhatsApp + mail buttons, no form backend (D7).
-   **Intake form** (`/intake/`, D27) is the one exception: "Plan een gratis intake" posts to the on-demand
-   route `src/pages/api/intake.ts`, which mails Micky through SMTP with nodemailer (env on Railway:
-   `SMTP_USER`, `SMTP_PASS`, optional `SMTP_HOST`/`SMTP_PORT`/`INTAKE_TO`). Micky's mickyvz@live.nl
-   is an Outlook account and Microsoft no longer allows password/app-password SMTP for personal
-   accounts (since Sept 2025), so the sender is his Gmail (mickyvanzadelhoff@gmail.com with an app
-   password) and `INTAKE_TO` stays the live.nl address; the endpoint redirects back with `?status=`. Fields: name, company, e-mail, phone, what to automate,
-   what costs time, two proposed moments (45 min, Google Meet); Micky confirms within a day.
+   **Intake form** (`/intake/`, D27, D30) is the one exception: "Plan een gratis intake" posts to the
+   on-demand route `src/pages/api/intake.ts`, which mails Micky and redirects back with `?status=`.
+   Railway blocks outbound SMTP on the Free, Trial and Hobby plans, so the mail goes through Postmark's
+   HTTPS API, from the paid Postmark account Micky already uses for EasyReimburse (sender signatures and
+   verified domains are account-wide). Env on Railway: `POSTMARK_SERVER_TOKEN` (a server API token),
+   `INTAKE_FROM` (required, "Naam <adres>" on a domain or sender signature verified in that account:
+   easyreimburse.ai today, mickyvanzadelhoff.com once its DKIM and Return-Path records are added),
+   optional `INTAKE_TO` (default the site e-mail) and `POSTMARK_MESSAGE_STREAM` (default `outbound`).
+   The token `POSTMARK_API_TEST` reports success without sending, for local tests. Variables are read
+   from `process.env` at request time, never through `import.meta.env`, which is frozen at build time. SMTP (`SMTP_USER`/`SMTP_PASS`, a Gmail app
+   password; Outlook personal accounts no longer accept SMTP passwords) stays as a fallback that only
+   works on Railway Pro or another host. Fields: name, company, e-mail, phone, what to automate, what
+   costs time, two proposed moments as a day plus a start time on the half hour between 09:00 and 18:00
+   (`src/lib/intake-slots.ts`; 45 min, Google Meet); Micky confirms within a day.
 8. **Privacy** (`/privacy/`).
 
 ### Blog / content:
