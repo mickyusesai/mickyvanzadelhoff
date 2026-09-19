@@ -150,23 +150,8 @@
     "prompt": "a piggy bank standing on a tax form with a stamp and a small calculator beside it"
   },
   {
-    "name": "favicon-toverstaf",
-    "kind": "icon",
-    "prompt": "a single magic wand held diagonally with a big lime four-pointed star at its tip and two tiny sparkles, bold and simple, sticker style"
-  },
-  {
     "name": "favicon-bliksem",
     "kind": "icon",
     "prompt": "a single bold lightning bolt, chunky and rounded, lime with a violet outline, sticker style, nothing else"
-  },
-  {
-    "name": "favicon-koffie",
-    "kind": "icon",
-    "prompt": "a single round coffee cup seen from the side with one small sparkle above it, bold and simple, sticker style"
-  },
-  {
-    "name": "favicon-wereldbol",
-    "kind": "icon",
-    "prompt": "a single simple globe with a lime location pin on top, bold and simple, sticker style, nothing else"
   }
 ]
