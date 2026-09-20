@@ -1,8 +1,8 @@
 ---
-title: "Digital nomad jobs & vacatures – 38x Locatie onafhankelijk werk in 2024"
-description: "Digital nomad banen zijn populair en liggen dus niet bepaalt voor het oprapen. Immers, meer mensen willen graag reizen terwijl ze werken. Daarom ga ik…"
+title: "Digital nomad jobs & vacatures – 30+ manieren om locatie-onafhankelijk te werken in 2026"
+description: "Digital nomad jobs in 2026: de tien banen die ik het meest zie, echte uurtarieven per sector, een tariefcalculator en de vacaturesites die nog bestaan."
 date: 2018-05-23
-updated: 2024-02-07
+updated: 2026-09-19
 category: "digitalenomaden"
 slug: "digital-nomad-banen"
 lang: "nl"
@@ -10,139 +10,109 @@ draft: false
 featuredImage: "/images/headers/digital-nomad-banen.webp"
 ---
 
-**Op zoek naar jouw digital nomad job?** Veel reizen is natuurlijk niet gratis. Je zult dus geld moeten verdienen. Sommige mensen sparen dit van te voren, anderen kiezen ervoor om een online inkomen te hebben terwijl ze op pad zijn.
+**Op zoek naar jouw digital nomad job?** Veel reizen is niet gratis. Je zult dus geld moeten verdienen. Sommige mensen sparen dat vooraf, anderen kiezen voor een online inkomen terwijl ze op pad zijn.
 
-Digital nomad banen zijn populair en liggen dus niet bepaalt voor het oprapen. Immers, meer mensen willen graag reizen terwijl ze werken. Daarom ga ik in dit artikel in op banen die je veelal als ZZP-er doet, maar ook vaak in loondienst kan uitvoeren. Vervolgens vind je hier 12 websites **waar je vacatures kan vinden voor digital nomad jobs**.
+In dit artikel lees je welke banen je als digital nomad kunt doen (meestal als zzp'er, maar steeds vaker ook in loondienst), wat je er in 2026 realistisch mee verdient, hoe je je eigen uurtarief uitrekent, en op welke sites je remote vacatures en opdrachten vindt. Sinds de vorige versie uit 2024 is er veel veranderd: AI schrijft, vertaalt en programmeert mee, een paar bekende vacaturesites zijn verdwenen, en op afstand werken is voor ruim 60% van de Nederlandse werknemers gewoon geworden. Alles hieronder is gecontroleerd op 20 september 2026.
 
-![Digital Nomad Jobs en Vacatures](/images/migrated/digital-nomad-jobs-en-vacatures.webp "Digital Nomad Jobs en Vacatures")
+![Een hangmat tussen twee palmen met een laptop op een houten dienblad ernaast](/images/spots/banen-bureau-hangmat.webp "Het clichébeeld klopt soms, maar het werk moet wel gedaan worden")
 
-[Zelf leef ik al 6 jaar als digital nomad](/over/) en verdien mijn geld als online ondernemer. Veelal is dit een passief inkomen vanuit [affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) en soms is dit actief werk als content marketeer. Vanuit die ervaring en gesprekken met andere digital nomads bespreek ik de mogelijkheden die er voor jou zijn. Ik zal mijn top 10 digital nomad jobs voor in 2024 uitgebreid bespreken en daarna kort ingaan op **tal van andere mogelijkheden die er zijn**. Succes!
+[Zelf leefde ik zes jaar als digital nomad](/over/) en verdiende mijn geld als online ondernemer: eerst actief als online marketeer, later grotendeels passief met [affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/). Tegenwoordig geef ik AI-workshops aan bedrijven en bouw ik software, en juist daardoor zie ik goed welke banen de komende jaren blijven en welke veranderen. Vanuit die ervaring en gesprekken met andere nomads bespreek ik de mogelijkheden die er voor jou zijn. Eerst de tien banen die ik het meest tegenkom, daarna kort **tal van andere opties**. Succes!
 
 ## Wat verdien je met digital nomad banen?
 
-Het inkomen dat je verdient als digital nomad is volledig afhankelijk van de inzet die jij hebt. Veelal gaat het om werk dat je als zelfstandige (ZZP’er) doet en niet in een uurloon op contractbasis. **Dat is vaak niet erg stabiel…**
+Het inkomen van een digital nomad hangt volledig af van je inzet en je vak. Meestal gaat het om werk als zelfstandige (zzp'er), niet om een uurloon op contractbasis. **En dat is in het begin zelden stabiel.**
 
-Het inkomen van een digital nomad kan een flinke uitdaging zijn als je aan de slag gaat als ZZP’er/ondernemer. Je zult niet vanaf de eerste stap al genoeg klanten en inkomen hebben. Maar eigen baas zijn heeft zo zijn voordelen. Denk aan het feit dat je kunt **werken waar en wanneer jij wilt**. En vaak ook nog eens aan ‘**wat je wilt**‘.
+Je zult niet vanaf dag één genoeg klanten hebben. Maar eigen baas zijn heeft zo zijn voordelen: je kunt **werken waar en wanneer jij wilt**, en vaak ook nog eens aan **wat je wilt**.
 
-![Zoveel verdient een digital nomad](/images/migrated/zoveel-verdient-een-digital-nomad-1.webp "Zoveel verdient een digital nomad")
+In de oude versie van dit artikel stond een lijst met 'gemiddelde verdiensten' per baan. Die cijfers waren schattingen en die zet ik hier niet meer neer. Wat er wél is: onderzoek onder ruim 20.000 Nederlandse zzp'ers van Knab (bijgewerkt juni 2026). Daaruit komt een gemiddeld uurtarief van **€83 per uur** en per sector deze bandbreedtes:
 
-Om tot een goede keuze te komen voor de digital nomad job die het beste bij jou past, heb ik hieronder opgesomd wat de gemiddelde netto **verdiensten** zijn van elk soort werk als ZZP’er.
+| Sector | Uurtarief zzp in 2026 (excl. btw) |
+|---|---|
+| Juridisch en financieel | €110 – €135 en hoger |
+| Zakelijke dienstverlening en consultancy | €110 – €125 |
+| IT en technologie (webdevelopers gemiddeld ± €73) | €110 – €120 |
+| Overheid, beleid en specialistisch advies | €105 – €120 |
+| Creatief en communicatie (videomakers ± €66, tekstschrijvers ± €85) | €65 – €90 |
+| Ondersteunende functies (administratie, virtual assistant) | €60 – €70 |
+| Zorg en sociaal domein | €45 – €75 |
 
-_Let op, bij deze verdiensten moet je er rekening mee houden dat deze als ZZP-er zijn en dus niet alles zeggen over je uiteindelijk inkomsten._
+Bron: Knab-onderzoek onder zzp'ers, gepubliceerd via MKB Servicedesk (april 2026) en Knab (juni 2026); het tarief voor tekstschrijvers komt uit de Tarievenmonitor 2025 van beroepsvereniging Tekstnet. Gecontroleerd op 20 september 2026. Let op: dit zijn Nederlandse tarieven voor Nederlandse klanten. Werk je via een wereldwijd platform als Upwork of Fiverr, dan concurreer je met de hele wereld en liggen de prijzen lager.
 
-*   **1\. Copywriter –** €2500,-
-    
-*   **2\. Online trainer –** €3000,-
-    
-*   **3\. Digital advertising –** €4000,-
-    
-*   **4\. Webdesigner –** €3000,-
-    
-*   **5\. Schrijver –** €1500,-
-    
-*   **6\. Online docent –** €2000,-
-    
-*   **7\. Dropshipping –** €4000,-
-    
-*   **8\. Vertaler –** €1500,-
-    
-*   **9\. Video editer –** €2500,-
-    
-*   **10\. Social media manager –** €2500,-
-    
-*   **11\. Virtual assistent –** €2500,-
-    
-*   **12\. Jurist –** €3500,-
-    
-*   **13\. PR-adviseur –** €3000,-
-    
-*   **14\. Online coach –** €3000,-
-    
-*   **15\. Recruiter –** €2500,-
-    
-*   **16\. Developer –** €4000,-
-    
-*   **17\. Programmeur** – €4000.=
-    
-*   **18\. Freelance journalist** – €2000.-
-    
-*   **19\. Reisfotograaf** – €1500,-
-    
+Belangrijker dan het tarief is wat je ervan overhoudt. Een zzp'er factureert zelden veertig uur per week, betaalt zelf belasting en premies en heeft kosten. Reken het daarom andersom uit: wat wil je netto overhouden, en wat moet je uurtarief dan zijn?
 
-*   **20\. Reisplanner/reisbureau** – €2000,-
-    
-*   **21\. Boekhouder** – €3000,-
-    
-*   **22\. Muziek (ghost)producer** – €1500,-
-    
-*   **23\. Voice over artist** – €1500,-
-    
-*   **24\. Virtual assistent** – €2500,-
-    
-*   **25\. Consultancy** – €3000,-
-    
-*   **26\. Daytrader** – € ?
-    
-*   **27\. Grafisch design** – €3000,-
-    
-*   **28\. Klantenservice** – €2000,-
-    
-*   **29\. NFT’s flippen** – € ?
-    
-*   **30\. (Metaverse) architect** – €4000,-
-    
-*   **31\. App ontwikkelaar** – €4000,-
-    
-*   **32\. Influencer** – € ?
-    
-*   **33\. Yoga docent** – €2000,-
-    
-*   **34\. Huiswerkbegeleider** – €1500,-
-    
-*   **35\. Data analyst**– €3500,-
-    
-*   **36\. Podcast productie**– €2000,-
-    
-*   **37\. Sales opvolging**– €3000,-
-    
-*   **38\. E-sports**– € ?
-    
+<div class="tool not-prose" id="banen-tarief">
+<p class="tool__title">Reken uit welk uurtarief je nodig hebt</p>
+<p class="tool__intro">Vul in wat je netto per maand wilt overhouden en hoeveel uur je echt kunt factureren; de uitkomst rekent direct mee.</p>
+<div class="tool__grid">
+<label class="tool__field">Gewenst netto inkomen per maand (€)<input class="tool__input" id="banen-netto" type="number" min="0" step="100" value="2500"></label>
+<label class="tool__field">Factureerbare uren per week<input class="tool__input" id="banen-uren" type="number" min="1" max="60" step="1" value="25"></label>
+<label class="tool__field">Werkweken per jaar<input class="tool__input" id="banen-weken" type="number" min="1" max="52" step="1" value="44"></label>
+<label class="tool__field">Zakelijke kosten per maand (€)<input class="tool__input" id="banen-kosten" type="number" min="0" step="50" value="300"></label>
+<label class="tool__field">Reservering belasting en premies (%)<input class="tool__input" id="banen-belasting" type="number" min="0" max="70" step="1" value="35"></label>
+</div>
+<div class="tool__results">
+<div class="tool__result"><p class="tool__label">Uurtarief dat je nodig hebt</p><p class="tool__value" id="banen-uurtarief">€ 0</p><p class="tool__sub">excl. btw</p></div>
+<div class="tool__result"><p class="tool__label">Jaaromzet die daarbij hoort</p><p class="tool__value" id="banen-omzet">€ 0</p><p class="tool__sub" id="banen-omzet-sub">bij 0 factureerbare uren</p></div>
+</div>
+<p class="tool__note">Rekenvoorbeeld, geen belastingadvies. De reservering van 35% is een grove vuistregel; je werkelijke percentage hangt af van je winst, aftrekposten en of je in Nederland belastingplichtig blijft. Vergelijk de uitkomst met de tabel hierboven om te zien of je vak dat tarief draagt.</p>
+</div>
 
-Je hebt nu in ieder geval een idee **bij welke digital nomad banen de kans op een voldoende inkomen het grootste is**.
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var nl = function (n) { return '€ ' + new Intl.NumberFormat('nl-NL', { maximumFractionDigits: 0 }).format(n); };
+  var ids = ['banen-netto', 'banen-uren', 'banen-weken', 'banen-kosten', 'banen-belasting'];
+  function calc() {
+    var netto = +$('banen-netto').value || 0, uren = Math.max(1, +$('banen-uren').value || 1);
+    var weken = Math.max(1, +$('banen-weken').value || 1), kosten = +$('banen-kosten').value || 0;
+    var res = Math.min(0.95, Math.max(0, (+$('banen-belasting').value || 0) / 100));
+    var omzet = (netto * 12 + kosten * 12) / (1 - res);
+    var totaal = uren * weken;
+    $('banen-uurtarief').textContent = nl(omzet / totaal);
+    $('banen-omzet').textContent = nl(omzet);
+    $('banen-omzet-sub').textContent = 'bij ' + new Intl.NumberFormat('nl-NL').format(totaal) + ' factureerbare uren per jaar';
+  }
+  ids.forEach(function (id) { $(id).addEventListener('input', calc); });
+  calc();
+})();
+</script>
+
+![Een wandklok in de vorm van een gouden munt, met een factuur en een pen eronder](/images/spots/banen-uurtarief-klok.webp "Je uurtarief is geen gevoel, het is een rekensom")
+
+### Meer dan dertig digital nomad jobs
+
+Om je een idee te geven van de breedte, hier de banen die ik bij digital nomads het vaakst tegenkom, gegroepeerd. Alles hieronder kun je vanaf een laptop doen:
+
+*   **Creatief en content:** copywriter, blogger, schrijver of ghostwriter, [vertaler](/blog/online-geld-verdienen/online-vertalen/), video-editor, grafisch ontwerper, reisfotograaf, podcastproducent, voice-over, muziekproducer.
+*   **Marketing en sales:** online adverteerder, SEO-specialist, social media manager, e-mailmarketeer, [affiliate marketeer](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/), sales en opvolging, PR-adviseur, [influencer](/blog/online-geld-verdienen/influencer-worden/).
+*   **Tech en bouwen:** webdesigner, softwareontwikkelaar, app-ontwikkelaar, data-analist, AI-automatiseerder, no-code-bouwer.
+*   **Onderwijs en begeleiding:** online docent, taaldocent, [huiswerkbegeleider](/blog/online-geld-verdienen/huiswerk-begeleiding/), [online coach](/blog/online-geld-verdienen/online-coaching/), maker van een [online cursus](/blog/online-geld-verdienen/videotraining/), yogadocent (online).
+*   **Ondersteuning en organisatie:** virtual assistant, boekhouder, klantenservice, recruiter, jurist, reisplanner, consultant.
+*   **Verkoop en handel:** [webshop of dropshipping](/blog/online-geld-verdienen/eigen-webshop-beginnen/), [verkopen op bol](/blog/ondernemen/verkopen-op-bol-com/), [e-books uitgeven](/blog/online-geld-verdienen/e-book/), beleggen in [aandelen](/blog/online-geld-verdienen/aandelen-handelen/) of [crypto](/blog/web3/handelen-in-crypto-valuta/) (geen baan, wel een inkomstenbron).
+
+Je hebt nu in ieder geval een idee **welke digital nomad banen er zijn en in welke sectoren het tarief het hoogst ligt**.
 
 ### Actief en passief inkomen
 
-Veel digital nomads die ik tegenkom hebben niet slechts één inkomstenbron. Veelal combineren ze actief werk met een andere manier van [online geld verdienen](/blog/online-geld-verdienen/online-geld-verdienen/).
+Veel digital nomads die ik tegenkom hebben niet slechts één inkomstenbron. Vaak combineren ze actief werk met een andere manier van [online geld verdienen](/blog/online-geld-verdienen/online-geld-verdienen/).
 
-Denk aan een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/) door **een videotraining te verkopen, rendement te krijgen op aandelen, affiliate marketing of advertentie inkomsten vanuit een Youtube kanaal**.
+Denk aan een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/) door **een videotraining te verkopen, rendement op beleggingen, affiliate marketing of advertentie-inkomsten van een YouTube-kanaal**. Die bronnen kunnen prima naast elkaar bestaan en zorgen simpelweg voor meer vrijheid.
 
-Deze manieren van inkomen kunnen prima naast elkaar bestaan en zorgen simpelweg voor nog meer vrijheid.
-
-Zo kwam ik zelf iemand tegen die werkt als content marketeer. Ze schrijft artikelen voor bedrijven en verkoopt daarnaast een cursus in hoe je zelf SEO zoekwoordenonderzoek kan doen. Die cursus is haar passieve inkomen, de rest is actief.
+Zo kwam ik iemand tegen die werkt als contentmarketeer. Ze schrijft artikelen voor bedrijven en verkoopt daarnaast een cursus over zoekwoordenonderzoek. Die cursus is haar passieve inkomen, de rest is actief.
 
 ### Goedkope landen voor digital nomads
 
-Interessant aan het inkomen van een digital nomad is dat je deze meestal ergens anders verdient dan waar je deze uitgeeft. **Zo staat Nederland op de 17e plek** als het gaat om de duurste landen ter wereld om te leven. Daarmee zitten we bij de top 10% en ben je dus op veel andere plekken goedkoper uit dan in Nederland.
+Interessant aan het inkomen van een digital nomad is dat je het meestal ergens anders verdient dan waar je het uitgeeft. **Nederland staat medio 2026 op de 18e plek** van duurste landen in de Cost of Living Index van Numbeo. Op veel plekken ben je dus goedkoper uit dan hier.
 
-![Kosten per land](/images/migrated/kosten-per-land.webp "Kosten per land")
+Zelf reisde ik veel door Oost-Europa met een Nederlands inkomen. Keer op keer bleek dat al mijn kosten van levensonderhoud **met minder dan €1.500 per maand** gedekt waren (dat was tussen 2017 en 2022; het is sindsdien duurder geworden, maar het verschil met Nederland bleef). Wat een maand in 2026 kost in tien populaire steden, staat in de tabel in mijn [gids over digital nomad worden](/blog/digitalenomaden/digital-nomad-worden/).
 
-Wanneer je als digital nomad een baan of inkomsten in Nederland verdient maar deze ergens anders uitgeeft, ben je voordelig uit.
-
-Zelf heb ik best veel door Oost-Europa gereisd met een Nederlands inkomen. Keer op keer kwam ik erachter dat de kosten voor mijn levensonderhoud **met minder dan €1500,- per maand** werden gedekt. En dan heb ik het dus over al mijn kosten. Nu is dat in Nederland ook wel denkbaar, maar het laat toch maar even zien dat reizen niet duur hoeft te zijn :).
-
-**[Wil je precies weten hoe ik het zelf heb aangepakt? In mijn 174 pagina tellende boek vind je mijn gehele verhaal. Je download deze hier gratis >>](/boek/)**
-
+**[Wil je precies weten hoe ik het zelf heb aangepakt? In mijn boek van 176 pagina's vind je het hele verhaal. Je downloadt het hier gratis >>](/boek/)**
 
 <aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
+## Top 10 banen voor digital nomads in 2026
 
-## Top 10 banen voor digital nomads in 2024
-
-Hieronder vind je de **top 10 digital nomad jobs**. Dat zijn ze uiteraard niet allemaal, maar dit zijn wel de banen die ik het meest voorbij zie komen bij mensen die [reizen en werken combineren](/blog/digitalenomaden/reizen-en-werken-combineren/).
-
-Als jij [digital nomad wilt worden](/blog/digitalenomaden/digital-nomad-worden/) kan je daarvoor binnen deze banen de inspiratie vinden. Daarbij is het goed om te weten dat door corona destijds veel werk is gedigitaliseerd. Opties zijn er nu in overvloed!
-
-### Deze jobs gaan we bespreken
+Hieronder vind je de **top 10 digital nomad jobs**. Het zijn niet alle banen, maar wel de banen die ik het meest voorbij zie komen bij mensen die [reizen en werken combineren](/blog/digitalenomaden/reizen-en-werken-combineren/). Bij elke baan geef ik aan wat AI ermee doet, want dat is de grootste verandering sinds de vorige versie.
 
 1.  Online trainer
 2.  Online adverteerder
@@ -152,243 +122,213 @@ Als jij [digital nomad wilt worden](/blog/digitalenomaden/digital-nomad-worden/)
 6.  Online doceren
 7.  Dropshipper
 8.  Online vertalen
-9.  Video editor
+9.  Video-editor
 10.  Social media manager
+
+En als elfde: de baan die ik zelf ben gaan doen.
 
 ## 1. Online trainer worden als digital nomad
 
-![Je eigen videotraining als digital nomad inkomen](/images/migrated/videotraining-digital-nomad-inkomen-1.webp "Je eigen videotraining als digital nomad inkomen")
+![Een laptop met een opnamelampje naast een microfoon op een bureau](/images/spots/cursus-laptop-opname.webp "Een cursus maak je één keer en verkoop je zo vaak als je wilt")
 
-Voor deze eerste digital nomad baan moet je vooral iets hebben waar je goed in bent. Of het nu gaat om muziekinstrumenten maken uit afval, acrylverf schilderen, zingen als een nachtegaal of het gebruiken van Adobe Premiere Pro voor reisvideo’s. Jij kan er als online trainer mee aan de slag en er [een online cursus over maken](/blog/online-geld-verdienen/videotraining/).
+Voor deze eerste digital nomad baan moet je iets hebben waar je goed in bent. Muziekinstrumenten maken van afval, schilderen met acrylverf, zingen als een nachtegaal of Premiere Pro gebruiken voor reisvideo's: jij kunt er als online trainer mee aan de slag en er [een online cursus over maken](/blog/online-geld-verdienen/videotraining/).
 
-Op de **online cursussen markt** komt letterlijk alles voorbij. Het opzetten kost uiteraard wat tijd, maar er is altijd wel iemand die jouw kennis zou willen beheersen en het delen daarvan is dus geld waard.
+Op de **markt voor online cursussen** komt letterlijk alles voorbij. Het opzetten kost tijd, maar er is altijd iemand die jouw kennis wil hebben, en het delen daarvan is geld waard.
 
-Tof aan een eigen online cursus is, dat wanneer jij rondreist als digital nomad, je een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/) kunt verdienen met de verkoop ervan. Omdat je de cursus maar één keer hoeft te maken is het daarbij een lekker schaalbaar product, je kan het immers zo vaak verkopen als je wilt, **zonder extra werk te hebben aan de cursus zelf**.
+Tof aan een eigen cursus is dat je er, terwijl je rondreist, een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/) mee verdient. Je maakt hem één keer en verkoopt hem zo vaak als je wilt, **zonder extra werk aan de cursus zelf**.
 
-> Bij een online cursus kun je eraan denken een combinatie te maken van **video, audio, tekst, info graphics, afbeeldingen, live webinars en opdrachten.**
+> Bij een online cursus kun je een combinatie maken van **video, audio, tekst, infographics, live webinars en opdrachten**. En in 2026 maak je de opdrachten, samenvattingen en ondertitels met AI in een fractie van de tijd.
 
-Over het maken van een goede online cursus is online veel te vinden. Om het jezelf makkelijk te maken zijn er Nederlandse programma’s zoals [Huddle](/go/huddle). Daar bouw je gemakkelijk jouw eigen cursus inclusief community. Je hebt hiervoor dus **geen technische kennis** nodig.
+Om het jezelf makkelijk te maken zijn er Nederlandse programma's zoals [Huddle](/go/huddle): daar bouw je je eigen cursus inclusief community, **zonder technische kennis**. Huddle kost op 20 september 2026 €15 (Lite), €49 (Premium) of €97 (Ultimate) per maand, en de eerste 14 dagen zijn gratis.
 
-Het maken kost je uiteraard veel tijd, je wilt tenslotte wel het onderste uit de kan halen. Maar wanneer je cursus eenmaal af is en online staat kan het je goede inkomsten opleveren. Ik zie dan ook veel digital nomads **die een eigen online training aanbieden**.
-
-De prijzen voor zo’n cursus variëren van €50,- tot €1000,-. De prijssetting wordt vaak bepaald door het onderwerp. **Is het een cursus waar de cursist zelf geld mee verdient of veel kosten bespaart**, dan is de cursist vaak bereid om meer uit te geven.
+De prijzen voor een cursus lopen van een paar tientjes tot ver boven de duizend euro. De prijs wordt vooral bepaald door het onderwerp: **verdient of bespaart de cursist er zelf geld mee**, dan is hij bereid meer uit te geven. Wat je daarbij tegen hebt: door AI zijn gratis uitleg en samenvattingen overal. Wat je verkoopt is niet de informatie, maar de structuur, de begeleiding en de community.
 
 ## 2. Digital nomad baan als online adverteerder
 
-![Online advertising](/images/migrated/online-adverteerder-marketeer-1.webp "Online advertising")
+![Een advertentie op een telefoonscherm met een megafoon ernaast](/images/spots/facebook-advertentie.webp "Adverteren voor bedrijven: het werk waarmee mijn nomadenleven begon")
 
-Online adverteren; de manier die voor mij **een leven als digital nomad mogelijk heeft gemaakt**. Een geheel van Facebook/Instagram advertenties, Google advertising (SEA) en adverteren op websites en platforms.
+Online adverteren; de manier die voor mij **een leven als digital nomad mogelijk heeft gemaakt**. Een geheel van Meta-advertenties (Facebook en Instagram), Google Ads en adverteren op andere platforms.
 
-In principe is het relatief eenvoudig **om snel expert te worden** in een vak als Facebook/Instagram advertising. Wanneer je daar de expertise voor hebt kan je vrij snel aan de slag voor bedrijven omdat er veel vraag naar is.
+Het is relatief eenvoudig om **snel goed te worden** in een vak als Meta-advertising, en als je die expertise hebt kun je vrij snel aan de slag voor bedrijven, want er is veel vraag naar. Bedrijven houden zich liever niet bezig met de uitwerking van al dat adverteren. Het kost ze tijd en het ligt **buiten hun vakgebied**.
 
-Vaak zie ik dat bedrijven zich liever niet bezig houden met al dat adverteren. Wel met het basisidee, maar niet met de uitwerking ervan. Dit kost hun veel tijd en het ligt gewoonweg **buiten hun vakgebied**.
+> Toen ik zelf op zoek ging naar klanten voor online advertenties was dat een 'piece of cake'. Ik maakte een lijst met e-mailadressen van bedrijven uit één branche en stuurde ze een [acquisitiemail](/blog/ondernemen/acquisitie-mail-voorbeeld1/). De eerste mailing leverde al zeven klanten op die maandelijks €500 gingen betalen. Dat was in 2017; de aanpak werkt nog steeds, alleen schrijf je die mail nu met AI in een middag.
 
-Een expert op online advertising is dus altijd welkom. Zo hoeft het bedrijf niet onnodig geld te verspillen aan dure inefficiënte advertentiecampagnes.
+Advertenties instellen is niet zoveel werk als je weet wat je doet. Draaien ze eenmaal, dan **verdient de klant er geld mee omdat hij meer verkoopt**, en jij kunt daar (eventueel op commissiebasis) van meesnoepen. Wel zijn de advertentieplatforms zelf slimmer geworden: Meta's Advantage+ en Google's Performance Max doen veel automatisch. Je waarde zit in strategie, creatie en het lezen van de cijfers, niet meer in knopjes.
 
-> Toen ik zelf op zoek ging naar klanten voor online advertenties was dit een ‘**piece of cake**‘. Ik heb toen een lijstje gemaakt met de e-mailadressen van bedrijven uit één specifieke branche. Naar deze lijst heb ik een [acquisitie mail](/blog/ondernemen/acquisitie-mail-voorbeeld1/) gestuurd. De eerste mailing leverde al 7 klanten op die maandelijks allemaal €500,- gingen betalen! Dat maakt het een digital nomad baan waarmee je snel kunt starten ;).
+Om met online advertenties geld te verdienen moet je weten waar je het over hebt. Verdiep je in de stof; er is online veel over te vinden. Een cursus die je door alle stappen loodst kan helpen, bijvoorbeeld [deze gratis spoedcursus online marketing](/go/imu-spoedcursus) van IMU (zes e-books, van SEO tot conversie; je laat je e-mailadres achter).
 
-Facebook en Google advertising instellen is gelukkig niet zoveel werk als je weet wat je doet. Wanneer jij de advertenties eenmaal voor de klant hebt ingesteld, loopt de advertentie vanzelf en **verdient de klant hier geld mee omdat zij meer producten verkoopt.** Jij kunt hier dan wat (wellicht op commissiebasis) van mee snoepen.
+## 3. Locatie-onafhankelijk geld verdienen als copywriter
 
-Om met online advertenties geld te verdienen moet je wel weten waarover je het hebt. Verdiep je daarom goed in de stof, hier is online erg veel over te vinden. Soms kan het ook helpen om daarin een marketing cursus te volgen die je door alle stappen heen loodst. Probeer bijvoorbeeld [deze gratis spoedcursus online marketing](/go/imu-spoedcursus).
+![Een ouderwetse typemachine met een vel papier en een laptop ernaast](/images/spots/seo-typemachine.webp "Schrijven is het vak dat AI het hardst veranderde, en niet alleen ten kwade")
 
-Zo’n cursus helpt je om niet alleen de skills van een adverteerder onder de knie te krijgen, maar ook om te begrijpen hoe je zelf aan goed betalende klanten komt.
+Even een korte inleiding. [Copywriting](/blog/ondernemen/content-marketing/) is het schrijven van teksten met als doel **meer zichtbaarheid en verkoop**. In de praktijk: blogs, productbeschrijvingen, persberichten, advertenties en landingspagina's voor bedrijven.
 
-## 3. Locatie onafhankelijk geld verdienen als copywriter
+Het meest voor de hand liggende voor een digital nomad is **bloggen voor een bedrijf**. Goede artikelen zorgen ervoor dat [de website beter zichtbaar wordt in Google](/blog/ondernemen/meer-website-bezoekers/) (SEO), en die zichtbaarheid vertaalt zich in bezoekers en klanten. **Je schrijfkunst is dus geld waard.**
 
-![Digital nomads op eiland](/images/migrated/digital-nomads-op-eiland-1.webp "Digital nomads op eiland")
+> Ik schreef zelf artikelen voor een bedrijf en publiceerde die op hun site. Omdat ik ze kwalitatief in elkaar stak, kwamen ze hoog in Google en leverden ze maand in, maand uit extra bezoekers op. Dat bedrijf is [Allround DJ Service](https://allrounddjservice.nl/); [hun blog](https://allrounddjservice.nl/blog/) draait in 2026 nog steeds.
 
-Even een korte inleiding. [Copywriting](/blog/ondernemen/content-marketing/) is het schrijven van content met als doel **meer publiciteit en verkoop te genereren**.
+Zoals je merkt blog ik ook voor mijn eigen website. Dat leverde op het hoogtepunt van De Moderne Nomaden **tienduizenden lezers per maand** op, en ook voor jezelf is [bloggen een manier om online geld te verdienen](/blog/online-geld-verdienen/bloggen/).
 
-In de praktijk komt dit neer op het schrijven van artikelen voor bedrijven. Denk hierbij aan een **blog, product beschrijving, persbericht, advertentie of landingspagina**.
-
-Het meest voor de hand liggende voor een digital nomad inkomen is vaak het **bloggen voor een bedrijf**. Je schrijft dan artikelen voor op de website van het bedrijf.
-
-Het maken en plaatsen van dit soort _content_ op de klant zijn website zorgt ervoor dat [de website beter zichtbaar wordt in Google](/blog/ondernemen/meer-website-bezoekers/) (SEO). Die zichtbaarheid vertaalt zich weer in meer organische bezoekers op de website en dus meer potentiële klanten. **Die schrijfkunsten van jou zijn dus geld waard**.
-
-> Ik schreef zelf artikelen voor een bedrijf en publiceerde deze op hun website. Omdat ik de artikelen kwalitatief in elkaar steek komen deze hoog terecht in Google en leveren vele extra bezoekers op. Maand in, maand uit. Het bedrijf waarvoor ik dat deed is [Allround DJ Service](https://allrounddjservice.nl/). Kijk gerust eens op [hun blog](https://allrounddjservice.nl/blog/) om te zien hoe ik dat zoal heb aangepakt ;).
-
-In de regel kun je stellen dat een langer artikel meer geld waard is voor het bedrijf en jij er dus meer mee kunt verdienen. Zoals je hebt gemerkt blog ik ook voor mijn eigen website (waar je nu bent).
-
-Dit heeft al geresulteerd in **50.000 mensen die maandelijks op mijn website komen** en mijn artikelen lezen. Ook voor jezelf is [bloggen een manier om online geld te verdienen](/blog/online-geld-verdienen/bloggen/).
-
-Om je een idee te geven hoeveel je kunt vragen voor de content die je schrijft voor een bedrijf zou ik uitgaan van minimaal **20 cent per woord excl. BTW**. Als je een mooi portfolio hebt, kun je wellicht meer vragen.
-
-Veel bedrijven kiezen voor artikelen van **meer dan 1000 woorden** omdat de garantie dat deze hoog in Google komen dan groter is.
+Eerlijk over 2026: AI schrijft een gemiddeld blog in dertig seconden, en dat zie je in de tarieven. Volgens de Tarievenmonitor 2025 van Tekstnet daalde het gemiddelde uurtarief van zelfstandige tekstschrijvers voor het eerst in vijf jaar, met 3,4% naar €83,37; het meest gehanteerde tarief is €85 per uur. Wie 'per woord' werkt, concurreert direct met ChatGPT. Wie de klant kent, interviews doet, de strategie bepaalt en AI als assistent gebruikt, verdient nog altijd goed. Dat is de richting.
 
 ## 4. Webdesigner als digital nomad baan
 
-![Webdesigner worden als digital nomad](/images/migrated/webdesigner-worden-als-digital-nomad-1.webp "Webdesigner worden als digital nomad")
+![Een nette werkplek met een groot scherm, een plant en een notitieboek](/images/spots/online-werkplek.webp "Websites bouwen gaat sneller dan ooit; het vak zit in het luisteren naar de klant")
 
-Het maken van websites is nog steeds een goed verdienende business en is door de jaren heen simpeler geworden. Programmeerkennis is tegenwoordig al niet meer nodig als website bouwende digital nomad want met WordPress of een ander CMS (Content Management System) **kan je al alle kanten op**.
+Websites maken is nog steeds een goede business en door de jaren heen simpeler geworden. Programmeerkennis is niet meer nodig: met WordPress, Webflow, Framer of Shopify **kun je alle kanten op**, en met AI-bouwers zet je in een middag een eerste versie neer.
 
-Wel is het maken van een website nou precies iets dat bedrijven liever uitbesteden dan zelf doen, hier liggen voor jou dus kansen. Zeker wanneer je meer opdrachten doet in dit kader, zal je zien dat het steeds **sneller en makkelijker** gaat. Veel klanten voor websites komen daarbij via via.
+Juist daarom besteden bedrijven het nog steeds uit: ze willen niet zelf uitzoeken hoe het moet. Hier liggen kansen, zeker omdat het met elke opdracht **sneller en makkelijker** gaat. Volgens het Knab-onderzoek rekenen webdevelopers in 2026 gemiddeld zo'n €73 per uur.
 
-> Afhankelijk van de soort af te leveren website varieert de prijs tussen de €1000,- en €5000,-. Dat zijn zeer goede verdiensten voor een digital nomad baan. Veel websites die mensen willen zijn erg simpel en heb je binnen enkele dagen gemaakt. Grotere websites kosten uiteraard wat meer tijd, zeker als er moeilijke functies (CSS, PHP) bij nodig zijn.
+> Veel websites die mensen willen zijn eenvoudig en heb je binnen enkele dagen klaar. Grotere sites met koppelingen en maatwerk kosten meer tijd en leveren navenant meer op. Reken per project, niet per uur: de klant koopt een resultaat.
 
-Het kan best even duren voor je weet **hoe je goede WordPress websites** maakt. Ervaring leert dat het aan het begin best wel aankloten is. **Maar het vooruitzicht is goed**, met iedere website die je maakt leer je weer wat bij en gaan dingen sneller. Je hoeft immers minder op te zoeken.
-
-Klanten krijgen voor webdesign gaat vaak **via een al bestaand netwerk**. Je zal zien dat als je één website hebt gemaakt, andere opdrachten vanzelf binnenkomen.
-
-Om te beginnen kun je ervoor kiezen om eerst gratis een website voor iemand te maken die je kent. Dit helpt je om te experimenteren en geeft je alvast **een portfolio**.
+Klanten voor webdesign komen vaak **via je bestaande netwerk**. Heb je één website gemaakt, dan komen de volgende vanzelf. Om te beginnen kun je eerst gratis een site maken voor iemand die je kent: je oefent en hebt meteen **een portfolio**.
 
 ## 5. E-book publiceren en met je verdiensten rondreizen
 
-![E-book schrijven en geld verdienen](/images/migrated/e-book-schrijven-en-geld-verdienen-1-scaled.webp "E-book schrijven en geld verdienen")
+![Een e-bookcover op een tablet met een koffiekop ernaast](/images/spots/ebook-cover.webp "Een e-book verkoopt zichzelf niet, maar het blijft verkopen")
 
-Of je zelf nu een goede schrijver bent of niet, e-books publiceren op Amazon, Bol.com of op jouw eigen platform is een mooie inkomstenbron. Je hoeft het boek daarbij niet per se zelf te schrijven (ghostwriter), zolang je het maar kunt verkopen.
+Of je nu een goede schrijver bent of niet: e-books publiceren op Amazon, bol of je eigen platform is een mooie inkomstenbron. Je hoeft het boek niet per se zelf te schrijven (ghostwriter), zolang je het maar kunt verkopen.
 
-Wellicht denk je nu dat het een hele hoop werk is maar dat valt vaak nog best wel mee. Het hoeft namelijk niet de nieuwe Harry Potter te worden. Denk eerder aan een e-book van **tussen de 10.000 en 15.000 woorden** over een onderwerp dat je zelf interessant vindt.
+Het hoeft niet de nieuwe Harry Potter te worden. Denk eerder aan een e-book van **10.000 tot 15.000 woorden** over een onderwerp waar je écht verstand van hebt. Via Amazon KDP houd je 35% of, binnen hun prijsvoorwaarden, 70% van de verkoopprijs over.
 
-> Om veel e-books te verkopen op een extern platform is het van belang dat de doelgroep duidelijk is. Bedenk voordat je gaat schrijven dan ook wie de doelgroep is en **wees specifiek**. Op die manier kunnen zij jou gemakkelijker vinden wanneer het e-book wordt gepubliceerd en realiseer je meer verkopen.
+> Bedenk vóór je gaat schrijven wie de doelgroep is en **wees specifiek**. 'Omgaan met een burn-out als alleenstaande moeder' verkoopt beter dan 'Omgaan met een burn-out', omdat het de lezer aanspreekt en veel minder concurrentie heeft. Hoe specifieker, hoe beter, zeker op de Engelstalige markt.
 
-Zo zal het e-book _‘Hoe ga je om met een burn-out als alleenstaande moeder’_ het waarschijnlijk beter doen dan _‘Hoe ga je om met een burn-out’_. De eerste variant spreekt de doelgroep namelijk specifiek aan waar de tweede variant dat niet doet. Daarbij heeft de tweede variant véél meer concurrentie en is deze daardoor moeilijker te verkopen. **Hoe specifieker hoe beter**, zeker wanneer je op de Engelstalige markt opereert en dus nog meer concurrentie kan verwachten.
-
-Wanneer je een [e-book hebt geschreven en gepubliceerd](/blog/online-geld-verdienen/e-book/) is het tijd om deze te gaan verkopen. Omdat een e-book zich niet vanzelf verkoopt is het belangrijk om een goede strategie te hebben. Een veel gehoorde tactiek is om het e-book eerst gratis weg te geven in ruil voor reviews op het door jou gekozen verkoopplatform. Hiermee kom je hoger in de zoekresultaten en zullen meer mensen jouw e-book vinden en dus kopen.
-
-De voorwaarde is dan natuurlijk wel dat je een platform of social media pagina hebt met genoeg bezoekers, anders is er automatisch niemand geïnteresseerd in wat jij aanbiedt. En de voorwaarde, **je moet natuurlijk wel ergens écht verstand van hebben als je het e-book zelf schrijft**. Rotzooi is er al genoeg ;).
+Is je [e-book geschreven en gepubliceerd](/blog/online-geld-verdienen/e-book/), dan begint het verkopen. Een veelgebruikte tactiek is het eerst gratis weggeven in ruil voor reviews, waardoor je hoger in de zoekresultaten komt. Voorwaarde is wel dat je een publiek hebt, en dat je iets te melden hebt. Sinds AI is de markt overspoeld met lege e-books; rotzooi is er al genoeg ;).
 
 ## 6. Online doceren van over de hele wereld
 
-![Online docent](/images/migrated/online-docent-1.webp "Online docent")
+![Een videogesprek op een laptop met een kop thee ernaast](/images/spots/coach-videogesprek.webp "Lesgeven via video: de klas is overal")
 
-Heb je jezelf wel eens voor de klas zien staan? Wellicht niet. Gelukkig kun je tegenwoordig doceren vanuit alle plekken op de wereld, gewoon via Skype, Zoom of andere soorten [webinar software](/blog/ondernemen/webinar-software-review/).
+Heb je jezelf wel eens voor de klas zien staan? Wellicht niet. Gelukkig kun je tegenwoordig doceren vanaf elke plek, gewoon via Zoom, Google Meet of andere [webinarsoftware](/blog/ondernemen/webinar-software-review/).
 
-Natuurlijk moet er dan wel iets zijn waar je verstand van hebt, maar vaak weet je meer dan je denkt. Denk bijvoorbeeld aan het doceren van Engels online. Via platforms als Preply en Italki vind je gemakkelijk je eerste studenten.
+Natuurlijk moet je ergens verstand van hebben, maar vaak weet je meer dan je denkt. Denk aan Engels of Nederlands doceren aan anderstaligen. Via platforms als Preply en italki vind je je eerste studenten. Op Preply bepaal je zelf je uurtarief (Engelse docenten vragen er gemiddeld $15 tot $25 per uur); het platform houdt 100% van de eerste proefles in en daarna een commissie die van 33% afloopt naar 18% naarmate je meer lesgeeft.
 
-> Ik ben vele mensen tegengekomen die Engels doceren. Zij doen dit met name met studenten in China. Daar is een **enorme vraag** naar Amerikaans Engelse lessen. Een tiental klanten en je bent al een goed eind op weg.
+> In de vorige versie van dit artikel schreef ik over de enorme vraag naar Engelse les vanuit China. Die markt is sinds 2021 verdwenen: China verbood online lessen door buitenlandse docenten, en VIPKid stopte er in november 2021 mee. Wie nu online lesgeeft, richt zich op Europa, Latijns-Amerika of het Midden-Oosten, of op volwassenen die voor hun werk een taal leren.
 
-Wanneer je wilt doceren als digital nomad baan kan het erg helpen wanneer je al enkele studenten in Nederland ondersteunt. Om online het vertrouwen te winnen van de partijen die jou moeten gaan betalen, kan soms wat lastig zijn. Vaak zie je dan ook **dat digital nomads die doceren offline zijn begonnen**.
-
-Je zou er ook voor kunnen kiezen om het online doceren te combineren met bijvoorbeeld Engelse les geven in Taiwan. Maar meer daarover vind je in een artikel geweid aan [banen die je op de bestemmingen zelf kunt doen](/blog/digitalenomaden/reizen-en-werken-combineren/).
+Wil je doceren als digital nomad, dan helpt het als je al enkele studenten in Nederland begeleidt. Online het vertrouwen winnen van mensen die je moeten betalen kan lastig zijn; **veel docerende nomads zijn offline begonnen**. Je kunt het ook combineren met lesgeven op de bestemming zelf; daarover meer in [reizen en werken combineren](/blog/digitalenomaden/reizen-en-werken-combineren/).
 
 ## 7. Dropshipping als werk voor een digital nomad bestaan
 
-![Dropshipping business opzetten](/images/migrated/dropshipping-business-opzetten-1.webp "Dropshipping business opzetten")
+![Een verzenddoos met een winkelwagen-icoon naast een laptop met een webwinkel op het scherm](/images/spots/webshop-doos-laptop.webp "Dropshipping: de lusten van een webshop zonder het magazijn")
 
-Een erg populair verdienmodel onder digital nomads: dropshipping. Dropshipping houdt in dat je producten verkoopt aan klanten (hoeven niet je eigen producten te zijn) **zonder zelf de distributie te hoeven verzorgen**. Je hebt dus de lusten van een [webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/), maar niet de lasten van het op tijd moeten leveren van de producten (en een magazijn etc.)
+Een populair verdienmodel onder digital nomads: dropshipping. Je verkoopt producten aan klanten **zonder zelf de distributie te doen**. Je hebt de lusten van een [webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/), maar niet de lasten van een magazijn en het op tijd leveren.
 
-Wat jij doet is dus puur de producten vermarkten en verkopen. Dit kun je doen door je eigen webwinkel te starten via Shopify, of een van de andere 1000 mogelijkheden op dit gebied. Daarbij gebruik je dan een applicatie als Oberlo (distributie) en op deze manier **houd je je alleen bezig met het verkopen van de producten**.
+Je start een eigen webwinkel via Shopify (€21 per maand in Nederland) en koppelt een app als DSers, de opvolger van Oberlo dat Shopify in juni 2022 stopzette. Zo **houd je je alleen bezig met het verkopen**.
 
-> Wanneer je dropshipping gaat doen kun je dit behalve via een eigen webshop ook een soort van doen via een platform als Bol.com. Dan hoef je zelfs voor de verkoop niet heel veel meer te doen dan een lagere prijs rekenen dan je concurrent. Maar [verkopen op Bol.com](/blog/ondernemen/verkopen-op-bol-com/) is nog een vak apart. Je besteedt dan ook de logistiek en het magazijn aan hen uit.
+> Behalve via een eigen webshop kun je ook via een platform als bol verkopen. Dan hoef je voor de verkoop weinig meer te doen dan een scherpe prijs rekenen, en je besteedt de logistiek aan hen uit. Maar [verkopen op bol](/blog/ondernemen/verkopen-op-bol-com/) is een vak apart.
 
-Als dropshipper ben je vooral bezig met het verkopen van producten. Dit kan dan weer op vele verschillende manieren worden gedaan en het succes van jouw dropshipping business hangt dan ook volledig af van jouw [online marketing](/blog/online-geld-verdienen/online-marketing/) skills. Hier als een nono instappen acht ik dan ook weinig succesvol.
+Als dropshipper ben je vooral bezig met verkopen. Het succes van je winkel hangt dan ook volledig af van je [online marketing](/blog/online-geld-verdienen/online-marketing/). Hier als beginner zonder plan instappen acht ik weinig kansrijk.
 
-> Note tussendoor: Online marketing is eigenlijk voor bijna iedere digital nomad een must have skill. Want wat je ook gaat doen, je zult jezelf toch moeten weten te verkopen.
+> Note tussendoor: online marketing is voor bijna iedere digital nomad een must-have skill. Wat je ook gaat doen, je zult jezelf moeten weten te verkopen.
 
-Dropshipping is hoe dan ook een **goed businessmodel** voor digital nomads en wordt veel gebruikt. Maar hoewel er tal van succesverhalen zijn verdrinken veel webshops in de zee van concurrentie. Alleen in Nederland zijn er al zo’n **50.000 webshops**.
-
-Start dus zeker niet met dropshipping als je geen doorzetter bent. Heb je wel een ondernemende spirit? Ga er dan ook vol voor.
+Dropshipping is een **werkend businessmodel**, maar de zee van concurrentie is groot: Nederland telde begin 2026 volgens het CBS 103.410 webwinkels. Start er niet mee als je geen doorzetter bent. Heb je wél een ondernemende spirit? Ga er dan vol voor.
 
 ## 8. Online vertalen als digital nomad baan
 
-![Vertalen als digital nomad baan](/images/migrated/vertalen-als-digital-nomad-baan-1.webp "Vertalen als digital nomad baan")
+![Een brug tussen twee oevers met verschillende letters](/images/spots/vertalen-brug.webp "Vertalen: de brug tussen twee talen, met AI als eerste versie")
 
-Waar je ook bent, **als je meer dan 1 taal kent** is deze digital nomad job wellicht wat voor jou. Voor het vertalen van teksten zoals een webtekst of het vertalen van een boek is namelijk een vertaler nodig.
+Waar je ook bent, **als je meer dan één taal beheerst** is deze digital nomad job wellicht wat voor jou. Voor webteksten, contracten, ondertitels en boeken zijn vertalers nodig.
 
-Je spreekt dan met je klant een bedrag af per 100 woorden en kunt op iedere locatie op de wereld **aan de slag met het vertalen van teksten**.
+Je spreekt met je klant een prijs per woord of per uur af en kunt overal ter wereld **aan de slag met vertalen**. Je snelheid bepaalt dan je uurtarief, wat [geld verdienen met online vertalen](/blog/online-geld-verdienen/online-vertalen/) een echte uurtje-factuurtje-baan maakt.
 
-Ga uit van **een gemiddelde van 10 euro per 100 woorden**. De snelheid waarmee jij kunt vertalen bepaald hier dus het uurtarief. Dat maakt [geld verdienen met online vertalen](/blog/online-geld-verdienen/online-vertalen/) dus wel echt een uurtje factuurtje baan.
+Eerlijk is eerlijk: dit is het vak dat AI het hardst raakte. DeepL en ChatGPT vertalen in 2026 bruikbaar tussen de grote talen, en veel opdrachtgevers vragen nog alleen om **post-editing**: een machinevertaling controleren en verbeteren. Dat betaalt minder per woord, maar gaat sneller. Waar je nog goed verdient: beëdigde vertalingen, juridische en medische teksten, marketingteksten die echt moeten 'landen' (transcreatie) en talencombinaties waar AI zwak in is. Je moet dus minstens twee talen **perfect** beheersen én iets kunnen wat de machine niet kan.
 
-Belangrijk is dat je op zijn minst twee talen **perfect spreekt en schrijft**. Je directe concurrent is namelijk Google translate en die wordt steeds beter in het op een juiste manier vertalen van teksten. Voorkom dus dat je overbodig bent.
+## 9. Video-editor als digital nomad
 
-Interessant is dat afhankelijk van welke talen je spreekt je meer kunt verdienen. Sommige talen zijn nou eenmaal meer gewild dan anderen ;).
+![Een camera op een statief gericht op een bureau met een ringlamp en een laptop](/images/spots/youtube-camera-setup.webp "Video is overal, en iemand moet het monteren")
 
-## 9. Video editor als digital nomad
+Het bewerken van video's is voor veel mensen en bedrijven een tijdrovende klus. Daarom besteden ze het graag uit. Met een paar cursussen kun je al **snel aan de slag als video-editor**, met Premiere Pro, DaVinci Resolve of CapCut.
 
-![Video editor](/images/migrated/video-editor-1.webp "Video editor")
+> Denk aan bedrijfsvideo's, trouwvideo's, aftermovies, podcastclips en de eindeloze stroom korte video's voor TikTok, Reels en Shorts. Voor elk niveau is er een opdracht.
 
-Het bewerken of samenvoegen van video’s is voor veel mensen een tijdrovende taak. Zo ook voor bedrijven. Het is daarom ook iets dat zij graag uitbesteden.
+Het enige wat je nodig hebt is een snelle laptop, anders wordt het frustrerend. Opdrachten vind je in je netwerk of bij videobedrijven die het monteren uitbesteden. Volgens het Knab-onderzoek rekenen videomakers in 2026 gemiddeld zo'n €66 per uur.
 
-Met een paar simpele cursussen online, kun jij al **snel aan de slag als video editor**. Je gebruikt een programma als Adobe Premiere, en verdient je geld dan gemakkelijk online.
+Ik merkte zelf dat toen ik een YouTube-kanaal over NFT's startte, **er van alle kanten opdrachten binnenkwamen** voor bedrijfsvideo's. Nadeel: voor het filmen moest ik in Nederland zijn. Wil je écht **locatie-onafhankelijk** werken als video-editor, richt je dan op het monteren en laat het filmen aan anderen. AI helpt inmiddels met ondertitels, ruis, kleurcorrectie en het knippen van lange opnames in korte clips, maar de smaak blijft van jou.
 
-> Denk bijvoorbeeld aan het bewerken van bedrijfsvideo’s, trouwvideo’s, aftermovies of een verslag. Voor ieder level in editen is wel een opdracht te vinden.
+## 10. Social media manager
 
-Het enige wat je dan nog nodig hebt is een snelle laptop, anders kan het best frustrerend zijn, al zeg ik het zelf. Opdrachten vinden als video editor kan gewoon simpel in je netwerk, maar je kunt natuurlijk ook je diensten aanbieden bij filmbedrijven.
+![Een telefoon met een korte video in beeld en een ringlampje ernaast](/images/spots/insta-reels.webp "Social media beheren: een fulltime baan die op elke plek kan")
 
-Ik merkte zelf dat toen ik [mijn Youtube kanaal](https://www.youtube.com/channel/UCX3nVifVo8QBjKof41GpqCQ) startte over NFTs, **er van alle kanten opdrachten binnen kwamen** voor bedrijfsvideo’s. Nadeel daarvan was wel dat ik voor die digital nomad baan ook in Nederland moest zijn om dan te filmen.
+**Social media rules!** Bedrijven hechten waarde aan hun online reputatie, en terecht. Goede zichtbaarheid op [Instagram](/blog/online-geld-verdienen/geld-verdienen-met-instagram-2/), TikTok, LinkedIn, [Facebook](/blog/online-geld-verdienen/facebook/) of [YouTube](/blog/online-geld-verdienen/youtube/) zorgt voor betrokken klanten en dus voor verkoop.
 
-Wanneer je dus echt **locatie onafhankelijk** aan de slag wilt als video editor, doe je er goed aan om contact op te nemen met videobedrijven die dat graag uitbesteden.
+Tegelijk zitten bedrijven niet te springen om hun social media zelf bij te houden; ze hebben andere dingen te doen. Ze besteden het dus graag uit aan iemand zoals jij.
 
-## 10. Social media manager
+Het werk is de afgelopen jaren vooral méér geworden: feed, stories, reels, korte video, community, en per platform een andere toon. Het is hoe dan ook een **fulltime job**. Handig is dat AI je helpt met planning, eerste versies van teksten en het analyseren van wat werkt, zodat jij tijd overhoudt voor het creatieve deel.
 
-![Social media manager](/images/migrated/social-media-manager-1.webp "Social media manager")
+Leuk aan deze **digital nomad baan** is dat je er doorlopend voor betaald krijgt. Je zoekt een aantal klanten en werkt maandelijks voor ze. Zo voorkom je geldstress wanneer je in het buitenland zit.
 
-**Social media rules!** Veel bedrijven hechten waarde aan hun sociale reputatie, en terecht. Een goede online zichtbaarheid op social media zorgt namelijk voor meer betrokken klanten en volgers. Het zorgt dus voor meer verkoop en brengt daarmee geld in het laatje. Of het nu gaat om [Instagram](/blog/online-geld-verdienen/geld-verdienen-met-instagram-2/), Twitter, [Facebook](/blog/online-geld-verdienen/facebook/) of [Youtube](/blog/online-geld-verdienen/youtube/), op al deze sociale media heeft een bedrijf baat bij een goede strategie die wordt uitgevoerd.
+## 11. AI-specialist: de baan die er in 2024 nog niet stond
 
-Tegelijk zitten bedrijven niet te springen om hun social media zelf bij te houden, zelf zijn ze namelijk bezig met andere bedrijfstaken. Ze besteden het dus graag uit aan iemand zoals jij!
+![Een vriendelijke kleine robot naast een laptop op een bureau, met een koffiekop ernaast](/images/spots/banen-robot-collega.webp "De nieuwste digital nomad baan: bedrijven helpen met AI")
 
-Sociale media zijn daarmee enorm belangrijk geworden maar er is heel veel werk aan de winkel. Instagram heeft niet alleen de feed maar ook de stories en IGTV. En Facebook en Youtube hebben ook dingen als ‘stories’. Het is hoe dan ook een **fulltime job** waar je mee aan de slag kunt.
+Dit is de route die ik zelf nam, dus ik noem hem apart. Bijna elk bedrijf wil iets met AI en bijna niemand weet waar te beginnen. Wie kan uitleggen wat er wél en niet werkt, en wie processen kan automatiseren met tools als ChatGPT, Claude, Zapier of Make, heeft in 2026 een vak dat volledig op afstand kan.
 
-Zo kun jij vanaf waar dan ook ter wereld hun social media beheren. Leuk aan deze **digital nomad baan**, is dat je er doorlopend betaald voor kunt krijgen. Je zoekt dus een aantal klanten en kunt op maandelijkse basis werkzaamheden voor hen uitvoeren. Zo voorkom je geldstress wanneer jij in het buitenland zit.
-
+Sinds 2024 gaf ik 142 AI-workshops aan ruim 2.000 mensen en ik bouw automatiseringen voor bedrijven, meestal samen met twee mensen van de afdeling zelf; hoe dat werkt lees je op mijn pagina over [AI-automatisering](/automatisering/). Je hebt er een IT-achtergrond of gewoon veel nieuwsgierigheid voor nodig, en de bereidheid om elke week iets nieuws te leren. Het tarief ligt in de bandbreedte van IT en consultancy uit de tabel hierboven.
 
 ## Mijn digital nomad job
 
-Tot zover **de top 10 banen voor digital nomads in 2024**. Er zijn natuurlijk nog tal van andere manieren om als digital nomad je geld te verdienen vanuit je hangmat. De basis ligt in ieder geval vaak bij online marketing.
+Tot zover **de top 10 (plus één) banen voor digital nomads in 2026**. Er zijn natuurlijk nog tal van andere manieren om als digital nomad je geld te verdienen vanuit je hangmat. De basis ligt bijna altijd bij online marketing: wie zichzelf online kan verkopen, vindt overal mogelijkheden.
 
-Wanneer je weet hoe je jezelf online kunt verkopen liggen er overal mogelijkheden. Zelf was ik actief als **online marketeer, maar ook als webdesigner, content marketeer, video editor en social media manager**.
+Zelf was ik in mijn nomadenjaren actief als **online marketeer, webdesigner, contentmarketeer, video-editor en social media manager**. Daarnaast bouwde ik via deze website een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/) op uit tal van [affiliateprogramma's](/blog/ondernemen/affiliate-programma/), dat in 2020 groot genoeg was om [niet meer actief te hoeven werken](/blog/tips/eindejaarsupdate-2020/).
 
-![Digital nomad werk](/images/migrated/digital-nomad-werk-1.webp "Digital nomad werk")
+Tegenwoordig zijn de AI-workshops en mijn eigen software mijn hoofdinkomen. De les die bleef: één skill die je goed beheerst plus de moed om bedrijven aan te schrijven, is genoeg om te beginnen.
 
-Veel digital nomads hebben een hand vol met digital nomad banen en bouwen daarnaast nog aan een passief inkomen. Zelf heb ik inmiddels veel inkomsten uit tal van [affiliate programma’s](/blog/ondernemen/affiliate-programma/) via de artikelen op deze website. Dat is een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/) wat maand bij maand groeit en er inmiddels al voor heeft gezorgd **dat ik niet actief hoef te werken**.
-
-**Wil je weten hoe ik het zelf heb aangepakt? Dan vind je in [mijn boek](/boek/) het hele verhaal! Je kunt hem gratis downloaden.**
+**Wil je weten hoe ik het zelf heb aangepakt? Dan vind je in [mijn boek](/boek/) het hele verhaal, gratis te downloaden.**
 
 ## Digital nomad vacatures
 
-Wanneer je zoekt naar digital nomad jobs dan zijn er verschillende platformen om vacatures te vinden. Dit kunnen vacatures zijn voor een volledige functie of voor een enkele opdracht als zelfstandige. De volgende platformen helpen je in ieder geval op weg!
+![Een prikbord vol vacaturebriefjes met een kleine wereldbol en een papieren vliegtuigje ervoor](/images/spots/banen-vacatures-prikbord.webp "Remote vacatures zijn er genoeg; de kunst is de goede sites kennen")
 
-### 1. Skilora.com
+Zoek je naar digital nomad jobs, dan zijn er verschillende platforms om vacatures te vinden, voor een volledige functie of voor losse opdrachten als zelfstandige. In de vorige versie van dit artikel stonden twaalf sites; een aantal daarvan bestaat niet meer (Hired.com sloot in mei 2024, AngelList Talent heet nu Wellfound) of was niet meer te controleren. Deze acht heb ik op 20 september 2026 nagelopen:
 
-Uitgebreide vacaturebank voor remotejobs in onder andere grafisch ontwerp, data analyse, software ontwikkeling en online marketing.
+### 1. Remote OK
 
-### 2. Remotive.io
+De grootste remote-vacaturesite: meer dan 100.000 vacatures van ruim 10.000 bedrijven, in development, marketing, klantenservice, finance en meer. Gratis te doorzoeken.
 
-Platform dat specifiek bedoelt is voor werken op afstand met een actieve community. Niet al te groot, maar je vind er toch voldoende vacatures op het gebied van marketing, software, design en klantenservice.
+### 2. We Work Remotely
 
-### 3. Weworkremotely.com
+Een van de oudste remote-vacaturesites, met dagelijks nieuwe functies in programmeren, design, marketing en klantenservice. Vooral Amerikaanse en internationale werkgevers.
 
-Relatief oud platform waar je werk vind als programmeur, software ontwikkelaar, marketeer en grafisch ontwerper. Specifiek bedoelt voor freelance opdrachten.
+### 3. Working Nomads
 
-### 4. Workingnomads.co
+Ruim 30.000 remote vacatures, netjes gesorteerd op categorie en vaardigheid, van schrijven tot marketing en design. Gratis, met een optioneel premium-abonnement voor extra alerts.
 
-Een platform met prima vacatures voor de telefonische klantenservice. Verder vind je er digital nomad jobs binnen 200 verschillende vaardigheden zoals schrijven, marketing en ontwerp.
+### 4. Remotive
 
-### 5. Careersremote.com
+Een gecureerde selectie van 'echt remote' banen bij gecontroleerde bedrijven: geen scams, geen hybride functies. Let op: gratis zie je maar een klein deel van het aanbod; de rest zit achter een betaald abonnement.
 
-Hier vind je een combinatie van andere platforms qua aanbod. Daardoor is dit een makkelijke website om je zoektocht naar een digital nomad vacature of opdracht te beginnen.
+### 5. Wellfound
 
-### 6. Glassdoor.nl
+Het vroegere AngelList. Vacatures bij meer dan 27.000 start-ups, met een filter voor remote werk. Je solliciteert direct bij de oprichter of hiring manager.
 
-Glassdoor is een klassieke vacaturebank waar je door goed te zoeken nog best wat remote jobs tegenkomt.
+### 6. Upwork
 
-### 7. Hired.com
+Het freelanceplatform waar zo ongeveer iedereen van heeft gehoord. Opdrachten in de volle breedte, maar met gigantisch veel concurrentie en daardoor vaak lage vergoedingen. Naarmate je meer beoordelingen krijgt, wordt het werk beter betaald.
 
-Platform met focus op tech en IT-gebied. Primair bedoelt voor zeer ervaren specialisten.
+### 7. Fiverr
 
-### 8. Angel.com
+Op [Fiverr](/go/fiverr) bied je je diensten aan als vaste 'gigs': tekst, design, video, illustraties, logo's, websites. Kopers vinden jou in plaats van andersom. Je portfolio en je eerste reviews maken of breken je succes.
 
-Start-up gericht platform voor digital nomads die op afstand willen werken bij of voor start-ups.
+### 8. LinkedIn en Indeed
 
-### 9. Smart.ly
+Voor Nederlandse werkgevers nog altijd de beste bron. Zet het filter op 'op afstand', zoek op 'remote' of 'thuiswerken', en plaats zelf een bericht met wat je te bieden hebt. Wie weet!
 
-Smartly is een educatie platform dat tegelijk te gebruiken is om te zoeken naar werk. Je kunt hier werk vinden rondom web en product design (inclusief UX/UI).
+## Veelgestelde vragen over digital nomad jobs
 
-### 10. UpWork.com
+### Welke digital nomad baan is het snelst te starten?
 
-Een platform waar zo ongeveer iedereen wel eens van heeft gehoord. Je vind er opdrachten in de gehele breedte, maar met gigantisch veel concurrerende digital nomads en daardoor vaak lage vergoedingen voor opdrachten. Naarmate je meer beoordelingen ontvangt, kan je hieruit meer werk verwachten.
+Een skill die je al hebt, aanbieden aan bedrijven die je al kent. Heb je nog geen digitale skill, dan is virtual assistant de kortste weg; daarna leer je onderweg bij.
 
-### 11. Fiverr.com
+### Is een baan in loondienst op afstand mogelijk?
 
-Een bekend platform voor het zoeken naar freelance projecten op het gebied van content creatie, design, videografie, fotobewerking, illustraties en logo-ontwikkeling. Jouw portfolio op Fiverr zal je succes maken of breken.
+Ja. In Amerika is de meerderheid van de digital nomads inmiddels in loondienst, en in Nederland kan ruim 60% van de werknemers op afstand werken. Vraag wel expliciet naar werken vanuit het buitenland, want dat is voor je werkgever iets anders dan thuiswerken.
 
-### 12. LinkedIn
+### Welke banen verdwijnen door AI?
 
-Wanneer je actief bent op LinkedIn kan je dit platform ook inzetten om werk te vinden. Plaats simpelweg een berichtje met wat je te bieden hebt en wie weet!
+Werk dat alleen bestaat uit tekst produceren, vertalen tussen grote talen of eenvoudige beeldbewerking staat onder druk. Werk waarbij je de klant begrijpt, keuzes maakt en AI als assistent inzet, wordt juist beter betaald.
 
-## Conclusie digital nomad jobs & vacatures
+## Conclusie digital nomad jobs en vacatures
 
-Voor wie digital nomad wil worden en online werk zoekt is er genoeg te kiezen. De wereld digitaliseert snel en dat maakt dat er steeds meer aanbod is in online werk.
+Voor wie digital nomad wil worden en online werk zoekt, is er genoeg te kiezen. De wereld digitaliseert snel, AI maakt je productiever, en er is steeds meer aanbod in remote werk.
 
-Vaak zie je dat digital nomads binnen meerdere vakgebieden tegelijkertijd [online geld verdienen](/blog/online-geld-verdienen/online-geld-verdienen/). Dat kan zowel als freelancer als in loondienst. Gebruik de platforms in dit artikel en je kunt gelijk van start.
-
+Vaak zie je dat digital nomads in meerdere vakgebieden tegelijk [online geld verdienen](/blog/online-geld-verdienen/online-geld-verdienen/), als freelancer of in loondienst. Gebruik de tariefcalculator om te weten wat je moet vragen, de platforms hierboven om te beginnen, en mijn [gids over digital nomad worden](/blog/digitalenomaden/digital-nomad-worden/) voor alles daaromheen.

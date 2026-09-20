@@ -663,5 +663,700 @@
     "name": "webshop-reviews-sterren",
     "kind": "scene",
     "prompt": "a shop window sign with five large stars, four of them glowing, and a small speech bubble beside it"
+  },
+  {
+    "name": "reizen-hostel",
+    "kind": "scene",
+    "prompt": "a hostel reception desk with a worn backpack leaning against it, room keys hanging on hooks and a pinned world map on the wall behind"
+  },
+  {
+    "name": "reizen-boomgaard",
+    "kind": "scene",
+    "prompt": "a wicker basket full of freshly picked apples and a pair of work gloves on the grass in a sunny orchard"
+  },
+  {
+    "name": "reizen-vliegtuigraam",
+    "kind": "scene",
+    "prompt": "the view from an airplane window seat above the clouds, with a small coffee cup on the folded tray table"
+  },
+  {
+    "name": "exp-trofeeen",
+    "kind": "scene",
+    "prompt": "a wooden shelf with travel souvenirs displayed like trophies: snow globes, a tiny Eiffel tower and fridge magnets"
+  },
+  {
+    "name": "exp-backpack-koffer",
+    "kind": "scene",
+    "prompt": "a large hiking backpack and a hard-shell rolling suitcase standing side by side in front of an empty airport gate"
+  },
+  {
+    "name": "exp-statief-strand",
+    "kind": "scene",
+    "prompt": "a smartphone on a small tripod filming an empty tropical beach at sunrise, no people"
+  },
+  {
+    "name": "massa-ballonnen",
+    "kind": "scene",
+    "prompt": "dozens of hot-air balloons floating over strange cone-shaped rock formations at dawn"
+  },
+  {
+    "name": "massa-theeglas",
+    "kind": "scene",
+    "prompt": "a small tulip-shaped Turkish tea glass on a saucer placed on a stone doorstep, with a loaded touring bicycle leaning against the wall"
+  },
+  {
+    "name": "massa-selfiestick",
+    "kind": "scene",
+    "prompt": "a selfie stick lying on the ground in front of a rope barrier at a scenic viewpoint over a coastline, no people"
+  },
+  {
+    "name": "boeken-hangmat",
+    "kind": "scene",
+    "prompt": "a stack of paperback books resting in a striped hammock strung between two palm trees"
+  },
+  {
+    "name": "boeken-koffer",
+    "kind": "scene",
+    "prompt": "an open suitcase packed tightly with books, with a closed laptop lying on top"
+  },
+  {
+    "name": "cowork-werktafel",
+    "kind": "scene",
+    "prompt": "a long shared wooden work table beside a tall window in a bright loft, with a few laptops, potted plants and empty chairs"
+  },
+  {
+    "name": "cowork-koffiebar",
+    "kind": "scene",
+    "prompt": "an open laptop and a flat white coffee on a café counter, with a power socket in the wall right beside them"
+  },
+  {
+    "name": "cowork-belcel",
+    "kind": "scene",
+    "prompt": "a small glass phone booth inside an office with a headset resting on its little shelf, door slightly open"
+  },
+  {
+    "name": "lapland-houtkachel",
+    "kind": "scene",
+    "prompt": "a laptop on a rustic wooden table next to a glowing cast-iron wood stove, a snowy forest visible through a small cabin window"
+  },
+  {
+    "name": "lapland-glazen-iglo",
+    "kind": "scene",
+    "prompt": "a glass igloo in a snowy landscape at night under swirling green northern lights"
+  },
+  {
+    "name": "lapland-hangbrug",
+    "kind": "scene",
+    "prompt": "a wooden suspension footbridge over a fast river in an autumn-coloured pine forest"
+  },
+  {
+    "name": "lapland-ijsbreker",
+    "kind": "scene",
+    "prompt": "a sturdy icebreaker ship cutting through a frozen sea under a low winter sun"
+  },
+  {
+    "name": "londen-eta-paspoort",
+    "kind": "scene",
+    "prompt": "a burgundy passport lying next to a smartphone showing a large green check mark on its screen, a small Union Jack flag pin beside them on a wooden"
+  },
+  {
+    "name": "londen-dakterras-peckham",
+    "kind": "scene",
+    "prompt": "a rooftop terrace on top of a concrete multi-storey car park with string lights, a few wooden tables and a big city skyline at dusk"
+  },
+  {
+    "name": "londen-pond-munt",
+    "kind": "scene",
+    "prompt": "a stack of gold coins next to a stack of silver-and-gold coins on a wooden table with a small brass balance scale between them"
+  },
+  {
+    "name": "parijs-cafe-laptop",
+    "kind": "scene",
+    "prompt": "a small round marble bistro table on a Paris sidewalk terrace with an open laptop, a croissant on a plate and an espresso cup, wicker chair beside it"
+  },
+  {
+    "name": "parijs-boot-seine",
+    "kind": "scene",
+    "prompt": "a red lighthouse ship moored at a river quay at night with warm lights on deck and a stone city bridge in the background"
+  },
+  {
+    "name": "parijs-navigo-metro",
+    "kind": "scene",
+    "prompt": "an art nouveau style metro entrance with a curved iron canopy and a plastic transit pass card floating in front of it"
+  },
+  {
+    "name": "plovdiv-euro-lev",
+    "kind": "scene",
+    "prompt": "a glass jar of old coins being poured into a glass jar of euro coins on a wooden table, a few coins mid-air"
+  },
+  {
+    "name": "plovdiv-kapana-cowork",
+    "kind": "scene",
+    "prompt": "a cosy coworking room with exposed brick walls, wooden desks with laptops and a small bar counter with beer taps at the back"
+  },
+  {
+    "name": "plovdiv-romeins-theater",
+    "kind": "scene",
+    "prompt": "an ancient stone amphitheatre with marble columns lit by warm stage lights at dusk, hills in the background"
+  },
+  {
+    "name": "wenen-tram-kaartje",
+    "kind": "scene",
+    "prompt": "a red and white city tram at a stop on a cobbled street with a paper transit ticket floating in front of it"
+  },
+  {
+    "name": "wenen-koffiehuis",
+    "kind": "scene",
+    "prompt": "a classic coffee house interior with marble tables, bentwood chairs, a newspaper on a wooden holder and a cup of coffee with a small glass of water"
+  },
+  {
+    "name": "wenen-kugelmugel",
+    "kind": "scene",
+    "prompt": "an orange spherical house standing on a green lawn surrounded by a small wooden fence, a tiny flag on top"
+  },
+  {
+    "name": "kampot-rivier-scooter",
+    "kind": "scene",
+    "prompt": "a scooter parked on a riverside promenade with palm trees, a wide river and green mountains in the background at sunset"
+  },
+  {
+    "name": "kampot-simkaart-hotspot",
+    "kind": "scene",
+    "prompt": "a smartphone with its sim card tray open next to an open laptop on a bamboo table, a glowing wifi symbol above the phone"
+  },
+  {
+    "name": "kampot-dollar-riel",
+    "kind": "scene",
+    "prompt": "a stack of green dollar bills next to a stack of colourful paper banknotes and a few coins on a wooden market table"
+  },
+  {
+    "name": "binance-wereldbol",
+    "kind": "scene",
+    "prompt": "a desk globe with a small gold coin resting on top and a low wooden fence built around the outline of Europe, soft light on a wooden desk"
+  },
+  {
+    "name": "binance-hefboom",
+    "kind": "scene",
+    "prompt": "a long wooden lever balanced on a stone fulcrum, a tiny coin pressing one end down and a huge coin lifted high on the other end"
+  },
+  {
+    "name": "binance-kluis",
+    "kind": "scene",
+    "prompt": "a heavy round steel vault door slightly ajar revealing neat stacks of gold coins inside, a small brass key lying on the floor in front of it"
+  },
+  {
+    "name": "cloud86-server",
+    "kind": "scene",
+    "prompt": "a small glowing server rack standing on a wooden desk next to a steaming cup of coffee and a tiny potted plant"
+  },
+  {
+    "name": "cloud86-verhuizen",
+    "kind": "scene",
+    "prompt": "a stack of cardboard moving boxes on a doorstep with a small soft cloud floating above them, one box open with a laptop peeking out"
+  },
+  {
+    "name": "cloud86-snelheid",
+    "kind": "scene",
+    "prompt": "a stopwatch standing on a desk next to a browser window shaped like a rocket lifting off with a short trail of light"
+  },
+  {
+    "name": "cloud86-telefoon",
+    "kind": "scene",
+    "prompt": "a modern desk phone with one glowing lime button beside an open laptop showing a rising line chart, a notepad and pen next to it"
+  },
+  {
+    "name": "enormail-brievenbus",
+    "kind": "scene",
+    "prompt": "a red mailbox on a wooden post with a stream of paper envelopes flying out of it toward an open laptop on a desk"
+  },
+  {
+    "name": "enormail-agenda",
+    "kind": "scene",
+    "prompt": "a wall calendar with one weekday circled and a paper envelope pinned to that day, a coffee mug on the shelf below"
+  },
+  {
+    "name": "enormail-labels",
+    "kind": "scene",
+    "prompt": "a row of paper envelopes being sorted into three open boxes by coloured labels, one envelope still floating in mid-air"
+  },
+  {
+    "name": "money-parel",
+    "kind": "scene",
+    "prompt": "an open oyster shell on a wooden table with a glowing gold coin resting inside where the pearl would be"
+  },
+  {
+    "name": "money-klaslokaal",
+    "kind": "scene",
+    "prompt": "a laptop showing a candlestick chart beside an open notebook, a pen and a mug of coffee, a small graduation cap resting on the corner of the laptop"
+  },
+  {
+    "name": "money-kalender",
+    "kind": "scene",
+    "prompt": "a desk calendar with a gold coin placed on each month page and a small padlock hanging from the last page"
+  },
+  {
+    "name": "siteground-datacenter",
+    "kind": "scene",
+    "prompt": "rows of tall server cabinets under a glass roof with soft white clouds drifting above them"
+  },
+  {
+    "name": "siteground-wereldbol",
+    "kind": "scene",
+    "prompt": "a globe standing on a desk with eight small glowing pins on different continents connected by thin lines of light"
+  },
+  {
+    "name": "siteground-prijskaartje",
+    "kind": "scene",
+    "prompt": "a paper price tag with a dollar sign hanging by a string from the corner of a laptop, a single euro coin lying on the desk beside it"
+  },
+  {
+    "name": "exchange-vergelijking",
+    "kind": "scene",
+    "prompt": "three small shop fronts side by side on a street, each with a different blank price tag hanging in the window and one gold coin lying on the middle"
+  },
+  {
+    "name": "exchange-vergunning",
+    "kind": "scene",
+    "prompt": "a paper document on a desk with a large red wax seal, surrounded by a circle of small gold stars, a fountain pen beside it"
+  },
+  {
+    "name": "exchange-bundel",
+    "kind": "scene",
+    "prompt": "a woven basket filled with several different coloured coins, a tiny brass balance scale standing next to it on a wooden table"
+  },
+  {
+    "name": "exchange-hefboom",
+    "kind": "scene",
+    "prompt": "a long lever on a fulcrum flipping an enormous gold coin high into the air while a tiny coin rolls away underneath, dramatic shadows"
+  },
+  {
+    "name": "exchange-kluis",
+    "kind": "scene",
+    "prompt": "a sturdy round steel vault door slightly open with stacks of gold coins visible inside and a single key lying on the floor in front"
+  },
+  {
+    "name": "cryptocursus-laptop",
+    "kind": "scene",
+    "prompt": "an open laptop showing a big play-button triangle on the screen, a spiral notebook with a pencil and a steaming cup of coffee beside it on a wooden"
+  },
+  {
+    "name": "cryptocursus-whiteboard",
+    "kind": "scene",
+    "prompt": "a whiteboard on a stand with a colourful candlestick price chart drawn on it and a wooden pointer stick leaning against the frame"
+  },
+  {
+    "name": "cryptocursus-boeken",
+    "kind": "scene",
+    "prompt": "a stack of five hardcover books with a single gold coin balanced on top, a small green plant in a terracotta pot next to the stack"
+  },
+  {
+    "name": "ideal-telefoon-bank",
+    "kind": "scene",
+    "prompt": "a smartphone standing upright showing a simple banking app screen, a gold coin flying in an arc out of the phone into a small open leather wallet"
+  },
+  {
+    "name": "ideal-paspoort",
+    "kind": "scene",
+    "prompt": "a closed passport and a smartphone lying side by side on a table, the phone screen showing a big green check mark"
+  },
+  {
+    "name": "ideal-hardware-wallet",
+    "kind": "scene",
+    "prompt": "a small metal hardware wallet shaped like a usb stick with a tiny screen, a brass key and a closed padlock lying next to it on a desk"
+  },
+  {
+    "name": "ideal-kalender",
+    "kind": "scene",
+    "prompt": "a wall calendar page with a grid of empty day squares, a small gold coin placed on the same square in each row, a pin at the top"
+  },
+  {
+    "name": "watiscrypto-grootboek",
+    "kind": "scene",
+    "prompt": "a large open leather ledger book on a desk, its pages joined together by a glowing metal chain running along the spine"
+  },
+  {
+    "name": "watiscrypto-munt-token",
+    "kind": "scene",
+    "prompt": "a big gold coin standing upright next to a smaller flat purple casino-style chip, both on a plain wooden table, soft light"
+  },
+  {
+    "name": "watiscrypto-sleutel",
+    "kind": "scene",
+    "prompt": "a brass key and a closed padlock resting on the dark screen of a smartphone lying flat on a table"
+  },
+  {
+    "name": "halving-taart",
+    "kind": "scene",
+    "prompt": "a large gold coin being cut cleanly in half like a round cake, a knife lying beside it on a plate, one half slightly pulled away"
+  },
+  {
+    "name": "halving-mijnwerker",
+    "kind": "scene",
+    "prompt": "a pickaxe leaning against a stack of glowing translucent cubes, a small gold coin resting on the top cube, dim cave-like light"
+  },
+  {
+    "name": "halving-zandloper",
+    "kind": "scene",
+    "prompt": "a tall hourglass where tiny gold coins fall through the narrow neck instead of sand, only a few coins left in the top chamber"
+  },
+  {
+    "name": "nomad-laptop-koffiezaak",
+    "kind": "scene",
+    "prompt": "an open laptop on a small round cafe table next to a cappuccino and a passport, a window with palm trees behind it"
+  },
+  {
+    "name": "nomad-wereldkaart-pinnen",
+    "kind": "scene",
+    "prompt": "a large paper world map on a wall with colourful pins and a string route connecting them, a backpack leaning against the wall below"
+  },
+  {
+    "name": "nomad-visum-stempels",
+    "kind": "scene",
+    "prompt": "an open passport with colourful entry stamps on its pages, a rubber stamp and a boarding pass lying beside it on a counter"
+  },
+  {
+    "name": "nomad-koffer-rekenmachine",
+    "kind": "scene",
+    "prompt": "a rolling suitcase standing upright with a calculator, a few coins and a folded budget sheet resting on top of it"
+  },
+  {
+    "name": "nomad-reisverzekering-paraplu",
+    "kind": "scene",
+    "prompt": "a small umbrella held over an open laptop and a first-aid kit on a wooden table, a few raindrops falling around it"
+  },
+  {
+    "name": "banen-bureau-hangmat",
+    "kind": "scene",
+    "prompt": "a hammock strung between two palm trees with a laptop resting on a small wooden tray beside it and a coconut with a straw"
+  },
+  {
+    "name": "banen-uurtarief-klok",
+    "kind": "scene",
+    "prompt": "a wall clock shaped like a large gold coin with clock hands, an invoice sheet and a pen lying on the desk underneath it"
+  },
+  {
+    "name": "banen-vacatures-prikbord",
+    "kind": "scene",
+    "prompt": "a corkboard full of pinned job notes in different colours with a small globe and a paper airplane in front of it"
+  },
+  {
+    "name": "banen-robot-collega",
+    "kind": "scene",
+    "prompt": "a friendly small robot sitting next to an open laptop on a wooden desk with a coffee cup, warm desk lamp light"
+  },
+  {
+    "name": "burnout-batterij-strand",
+    "kind": "scene",
+    "prompt": "a large phone-style battery icon almost empty standing upright in beach sand next to a closed laptop and a sun hat"
+  },
+  {
+    "name": "burnout-kalender-koffer",
+    "kind": "scene",
+    "prompt": "a wall calendar with many crossed-off days hanging above a half-packed suitcase and a plane ticket on the floor"
+  },
+  {
+    "name": "burnout-hangmat-boek",
+    "kind": "scene",
+    "prompt": "an empty hammock between two trees with a closed book and a switched-off phone lying on a small side table nearby"
+  },
+  {
+    "name": "dingen-portemonnee-valuta",
+    "kind": "scene",
+    "prompt": "an open travel wallet spilling banknotes and coins of many colours onto a table, with a single bank card resting on top"
+  },
+  {
+    "name": "dingen-esim-telefoon",
+    "kind": "scene",
+    "prompt": "a smartphone showing five full signal bars and a small SIM card icon, lying on a paper map next to a pair of sunglasses"
+  },
+  {
+    "name": "dingen-koffer-deur",
+    "kind": "scene",
+    "prompt": "a packed suitcase standing by an open front door with sunlight streaming in and a pair of shoes beside it"
+  },
+  {
+    "name": "vpn-tunnel-laptop",
+    "kind": "scene",
+    "prompt": "an open laptop on a wooden table with a glowing translucent tunnel flowing from the laptop toward a small globe on a stand"
+  },
+  {
+    "name": "vpn-cafe-wifi",
+    "kind": "scene",
+    "prompt": "a cup of coffee beside a laptop on a small cafe table, a wifi symbol floating above with a tiny padlock hanging from it"
+  },
+  {
+    "name": "vpn-wereldkaart-servers",
+    "kind": "scene",
+    "prompt": "a paper world map lying on a desk with small glowing pins in several countries connected by thin luminous lines"
+  },
+  {
+    "name": "vpn-kluis-telefoon",
+    "kind": "scene",
+    "prompt": "a smartphone resting inside a small open safe with a brass key lying next to it on a table"
+  },
+  {
+    "name": "berlijn-fiets-muur",
+    "kind": "scene",
+    "prompt": "a bicycle leaning against a wall covered in colorful graffiti on a Berlin street, a backpack hanging from the handlebar"
+  },
+  {
+    "name": "berlijn-coworking-fabriek",
+    "kind": "scene",
+    "prompt": "a bright loft inside an old brick factory with long wooden tables, laptops, a glass phone booth and tall windows onto a courtyard"
+  },
+  {
+    "name": "berlijn-ubahn-ticket",
+    "kind": "scene",
+    "prompt": "a yellow subway carriage at a platform with a small paper ticket and a coffee cup left on a bench"
+  },
+  {
+    "name": "berlijn-club-deur",
+    "kind": "scene",
+    "prompt": "a heavy steel door of an old industrial building at night with a single red lamp above it and a long empty pavement"
+  },
+  {
+    "name": "boedapest-donau-laptop",
+    "kind": "scene",
+    "prompt": "a laptop and a glass of pale drink on a stone quay beside a wide river, an illuminated chain bridge in the background at dusk"
+  },
+  {
+    "name": "boedapest-forint-koffie",
+    "kind": "scene",
+    "prompt": "a coffee cup and a small stack of banknotes next to an open laptop on a wooden cafe table"
+  },
+  {
+    "name": "boedapest-ruinbar-binnenplaats",
+    "kind": "scene",
+    "prompt": "a courtyard of an old crumbling building with string lights on washing lines, a bathtub used as a bench and empty chairs under a starry sky"
+  },
+  {
+    "name": "boedapest-badhuis",
+    "kind": "scene",
+    "prompt": "a large outdoor thermal pool with steam rising above the water, yellow baroque facades around it and a towel left on the edge"
+  },
+  {
+    "name": "krakau-kazimierz-cafe",
+    "kind": "scene",
+    "prompt": "a cafe table by a window in an old cobbled street with a cup of coffee, a notebook and a windowsill full of second-hand books"
+  },
+  {
+    "name": "krakau-tram-ticket",
+    "kind": "scene",
+    "prompt": "a blue and white tram at a stop in an old street, a paper ticket and a coin lying on the bench of the shelter"
+  },
+  {
+    "name": "krakau-rynek-trompet",
+    "kind": "scene",
+    "prompt": "an old brick church tower at sunrise with a golden trumpet sticking out of a small window, above an empty market square"
+  },
+  {
+    "name": "krakau-tatra-laptop",
+    "kind": "scene",
+    "prompt": "a laptop on a wooden balcony table of a mountain hut with snow-capped peaks and a pine forest in the background"
+  },
+  {
+    "name": "beste-weegschaal",
+    "kind": "scene",
+    "prompt": "a brass balance scale on a wooden desk, one pan holding a single large gold coin, the other pan piled with many tiny coins, the large coin side lower"
+  },
+  {
+    "name": "beste-vergrootglas",
+    "kind": "scene",
+    "prompt": "a magnifying glass held above a neat row of different coins on a dark table, one coin glowing under the lens"
+  },
+  {
+    "name": "beste-kluis",
+    "kind": "scene",
+    "prompt": "a small steel safe with its door slightly open and a single key lying beside it on a wooden table, soft window light"
+  },
+  {
+    "name": "bitcoin-etf-kluis",
+    "kind": "scene",
+    "prompt": "a large bank vault door open, inside one big glowing coin on a pedestal, next to the vault a stock ticker board with abstract bars"
+  },
+  {
+    "name": "bitcoin-etf-beurs",
+    "kind": "scene",
+    "prompt": "a classic stock exchange building with columns, a small flag shaped like a coin on its roof, morning light"
+  },
+  {
+    "name": "defi-loket-zonder-bank",
+    "kind": "scene",
+    "prompt": "an old bank counter window with no clerk behind it, a friendly robot arm passing a stack of coins through the slot"
+  },
+  {
+    "name": "defi-hangslot",
+    "kind": "scene",
+    "prompt": "a broken open padlock lying on a glowing treasure chest, behind it an empty stone bridge with a gap in the middle"
+  },
+  {
+    "name": "defi-bouwblokken",
+    "kind": "scene",
+    "prompt": "a tower of transparent glass building blocks stacked on a desk, each block with a different coin floating inside"
+  },
+  {
+    "name": "meme-kaarsen",
+    "kind": "scene",
+    "prompt": "a monitor showing a candlestick chart that shoots steeply up and then collapses, a tiny cartoon dog figurine sitting beside the screen"
+  },
+  {
+    "name": "meme-telefoon-swap",
+    "kind": "scene",
+    "prompt": "a smartphone on a wooden table, on its screen two coins with curved swap arrows between them"
+  },
+  {
+    "name": "meme-lototrommel",
+    "kind": "scene",
+    "prompt": "a round lottery drum filled with hundreds of tiny coins, one coin glowing brightly among them"
+  },
+  {
+    "name": "proof-puzzel-race",
+    "kind": "scene",
+    "prompt": "rows of computers with fans racing toward one giant jigsaw puzzle piece, a single gold coin hovering above it as the prize"
+  },
+  {
+    "name": "proof-inzet-stembus",
+    "kind": "scene",
+    "prompt": "a glass box with coins locked inside by a chain and padlock, standing next to a wooden ballot box with a slot"
+  },
+  {
+    "name": "proof-stroommeter",
+    "kind": "scene",
+    "prompt": "an electricity meter with a spinning dial next to a tiny green leaf, in the background a huge power plant with cooling towers"
+  },
+  {
+    "name": "data-kluis-token",
+    "kind": "scene",
+    "prompt": "a small vault with a credit card sliding into a slot on one side and a blank round token coming out of a slot on the other side"
+  },
+  {
+    "name": "data-gebouw-blokjes",
+    "kind": "scene",
+    "prompt": "an office building whose one side dissolves into hundreds of small glowing cubes drifting away"
+  },
+  {
+    "name": "data-digitale-euro",
+    "kind": "scene",
+    "prompt": "a euro coin built entirely from glowing pixels of light, hovering above a smartphone on a table"
+  },
+  {
+    "name": "nftuitleg-galerij",
+    "kind": "scene",
+    "prompt": "an almost empty art gallery with three small framed pixel-art pictures on a white wall and one price tag"
+  },
+  {
+    "name": "nftuitleg-wallet",
+    "kind": "scene",
+    "prompt": "an open leather wallet on a desk with one glowing hexagonal token inside it, a small hardware key and a laptop edge nearby"
+  },
+  {
+    "name": "nftuitleg-bunker",
+    "kind": "scene",
+    "prompt": "a small round concrete bunker on a green hill under a night sky with a radio antenna on top and a warm light in its doorway, pixel-art style"
+  },
+  {
+    "name": "nftguide-kunstveiling",
+    "kind": "scene",
+    "prompt": "an auctioneer's wooden gavel resting next to a tablet showing a colourful digital artwork, a numbered bidding paddle beside it"
+  },
+  {
+    "name": "nftguide-ketting",
+    "kind": "scene",
+    "prompt": "a chain of glowing metal links where one link holds a tiny framed picture, on a dark desk with a soft violet glow"
+  },
+  {
+    "name": "nftguide-marktplaats",
+    "kind": "scene",
+    "prompt": "a small market stall with digital picture frames hanging on hooks instead of fruit, a scale on the counter and a few coins"
+  },
+  {
+    "name": "nftguide-gas",
+    "kind": "scene",
+    "prompt": "a tiny vintage fuel pump filling a single coin instead of a car, on a workbench with a price ticket showing only a few cents worth of change beside it"
+  },
+  {
+    "name": "nftideeen-paspoort",
+    "kind": "scene",
+    "prompt": "a luxury wristwatch lying next to a small passport-like booklet with a QR code, on a leather counter in a shop"
+  },
+  {
+    "name": "nftideeen-ticket",
+    "kind": "scene",
+    "prompt": "a smartphone on a festival table showing a glowing ticket with a chain-link pattern, wristbands and confetti around it"
+  },
+  {
+    "name": "nftideeen-lidmaatschap",
+    "kind": "scene",
+    "prompt": "a golden membership card on a white restaurant tablecloth with a glass of wine and a small fish dish, soft candlelight"
+  },
+  {
+    "name": "nftresearch-loep",
+    "kind": "scene",
+    "prompt": "a magnifying glass held over a printed grid of tiny pixel-art portraits on a desk, one portrait highlighted under the lens"
+  },
+  {
+    "name": "nftresearch-vloer",
+    "kind": "scene",
+    "prompt": "a staircase built from stacked coins rising from left to right, a small price tag on the lowest step, clean studio background"
+  },
+  {
+    "name": "nftresearch-rode-vlag",
+    "kind": "scene",
+    "prompt": "a small red flag planted in a pile of shiny coins on a wooden table, a laptop half open in the background"
+  },
+  {
+    "name": "nftsecrets-terugblik",
+    "kind": "scene",
+    "prompt": "a car rear-view mirror reflecting a road lined with faded pixel-art billboards, sunset light, no people visible"
+  },
+  {
+    "name": "nftsecrets-leeg-klaslokaal",
+    "kind": "scene",
+    "prompt": "an empty online classroom seen as a closed laptop on a desk with a thin layer of dust, a coffee cup and a paper notebook with a pencil"
+  },
+  {
+    "name": "metaverse-leeg-plein",
+    "kind": "scene",
+    "prompt": "an empty virtual city square built from blocky voxels with tall blank billboards and one lonely bench, low-poly style, dusk lighting"
+  },
+  {
+    "name": "metaverse-vr-bril-stof",
+    "kind": "scene",
+    "prompt": "a virtual reality headset gathering dust on a bookshelf next to a potted plant and a stack of books, warm indoor light"
+  },
+  {
+    "name": "metaverse-grafiek-omlaag",
+    "kind": "scene",
+    "prompt": "a tiny voxel city on a table with a large paper chart above it whose line slides steeply downward, a coffee cup beside it"
+  },
+  {
+    "name": "metaverse-geld-bouwer",
+    "kind": "scene",
+    "prompt": "a designer's desk with a large monitor showing a colourful blocky game level under construction, a graphics tablet and a mug"
+  },
+  {
+    "name": "metaverse-geld-land",
+    "kind": "scene",
+    "prompt": "a small fenced square of glowing green voxel land floating in a dark void, an empty wooden signpost planted in its corner"
+  },
+  {
+    "name": "metaverse-geld-podium",
+    "kind": "scene",
+    "prompt": "a virtual concert stage with neon lights and a giant floating avatar-sized microphone, rows of empty low-poly seats in front"
+  },
+  {
+    "name": "web3-drie-golven",
+    "kind": "scene",
+    "prompt": "three ocean waves rolling onto a beach, each carrying different objects: an old beige computer, a smartphone, and a glowing crystal cube"
+  },
+  {
+    "name": "web3-sleutel",
+    "kind": "scene",
+    "prompt": "a large brass key lying on top of a stack of data servers with small padlocks, one padlock open, soft blue light"
+  },
+  {
+    "name": "web3-ai-robot",
+    "kind": "scene",
+    "prompt": "a friendly small robot sitting at a desk typing on a laptop while a chain of glowing blocks hangs unused on the wall behind it"
   }
 ]

@@ -1,8 +1,8 @@
 ---
-title: "Geld verdienen met NFT’s – Volledige uitleg"
-description: "Als die je is ontgaan, heb je misschien wel meegekregen dat ‘de eerste tweet ooit verstuurd’, door de maker van Twitter, voor bijna drie miljoen als…"
+title: "Geld verdienen met NFT's in 2026 – Eerlijke uitleg na de hype"
+description: "Wat een NFT is, waarom de hype van 2021 leegliep en wat er in 2026 nog van over is. Met live floor prices, een flip-calculator en mijn Metabunkers-les."
 date: 2021-12-26
-updated: 2023-01-02
+updated: 2026-09-19
 category: "web3"
 slug: "nft-uitleg"
 lang: "nl"
@@ -10,261 +10,202 @@ draft: false
 featuredImage: "/images/headers/nft-uitleg.webp"
 ---
 
-**Geld verdienen met NFT’s?** Een jaar geleden leek het even of er een bom ontplofte rondom de NFT hype, maar dat is nu in 2023 wel anders. Toch zal je de term NFT inmiddels al vaak voorbij hebben zien komen. Wellicht heb je meegekregen dat onderstaande plaatje ‘_Everydays: The first 5000 days_’ voor meer dan 69 miljoen dollar werd verkocht.
+**Geld verdienen met NFT's?** Eind 2021 schreef ik dit artikel voor het eerst, midden in de hype. Beeple had net een digitaal kunstwerk voor 69 miljoen dollar verkocht, de eerste tweet ooit ging voor 2,9 miljoen dollar van de hand en in de Discord-groepen waar ik in zat, vlogen de winsten je om de oren. Ik startte zelfs met vrienden een eigen NFT-project.
 
-![NFT geld verdienen Beeple](/images/migrated/nft-geld-verdienen-beeple-1.webp "nft-geld-verdienen-beeple (1)")
+Vijf jaar later ziet de wereld er anders uit. Diezelfde tweet kreeg in 2022 een hoogste bod van 280 dollar. Nike sloot zijn NFT-studio, Starbucks stopte met zijn NFT-spaarprogramma en de goedkoopste Bored Ape kost geen 350.000 dollar meer, maar een fractie daarvan. De actuele prijs staat hieronder, live.
 
-Als die je is ontgaan, heb je misschien wel meegekregen dat ‘_de eerste tweet ooit verstuurd’_, door de maker van Twitter, voor bijna drie miljoen **als NFT werd geveild**.
+In dit artikel lees je wat een NFT precies is, wat het ding waarde geeft (en wat niet), hoe de hype leegliep en wat er in 2026 eerlijk gezegd nog te verdienen valt: met het flippen van NFT's én met het uitbrengen van je eigen NFT. Ik neem je mee in wat ik zelf leerde met ons project Metabunkers. Wil je liever weten wat er van de bredere cryptowereld overbleef? Dat staat in mijn [crypto-guide voor 2026](/blog/web3/handelen-in-crypto-valuta/).
 
-Zo zijn er nog tal van voorbeelden.
+<div class="live-stats not-prose" id="nftuitleg-live" data-fallback-date="20 september 2026">
+<div class="live-stats__tile"><p class="live-stats__label">Goedkoopste CryptoPunk</p><p class="live-stats__value" data-live="punks">29,65 ETH</p><p class="live-stats__sub" data-live="punks-sub">± $ 76.500 · 84% onder de top</p></div>
+<div class="live-stats__tile"><p class="live-stats__label">Goedkoopste Bored Ape</p><p class="live-stats__value" data-live="bayc">6,66 ETH</p><p class="live-stats__sub" data-live="bayc-sub">± $ 17.200 · 96% onder de top</p></div>
+<div class="live-stats__tile"><p class="live-stats__label">Goedkoopste Pudgy Penguin</p><p class="live-stats__value" data-live="pudgy">3,31 ETH</p><p class="live-stats__sub" data-live="pudgy-sub">± $ 8.500 · 94% onder de top</p></div>
+<div class="live-stats__tile"><p class="live-stats__label">Ether (ETH) nu</p><p class="live-stats__value" data-live="eth">€ 2.247</p><p class="live-stats__sub">de munt waarin NFT's geprijsd zijn</p></div>
+<p class="live-stats__note" data-live="note">Cijfers van 20 september 2026. Zodra de pagina geladen is, worden ze ververst via CoinGecko.</p>
+</div>
 
-Leuk al dat geld, maar ik kan me goed voorstellen dat je nu denkt, “Waar gaat dit allemaal over?”. Daarom bespreken we in dit artikel wat een NFT is, waarom deze voor zoveel geld worden verkocht en hoe jij op deze hype mee kunt liften en er **zelf geld mee kunt verdienen**. Daarbij zoomen we ook in op de verschillende NFT marktplaatsen en wat deze technologie en daarmee [web 3.0](/blog/web3/web-3-decentralisatie/) ons in de toekomst kan brengen.
+<script>
+(function () {
+  var box = document.getElementById('nftuitleg-live'); if (!box || !window.fetch) return;
+  var q = function (k) { return box.querySelector('[data-live="' + k + '"]'); };
+  var nl = function (n, d) { return new Intl.NumberFormat('nl-NL', { maximumFractionDigits: d || 0 }).format(n); };
+  var get = function (u) { return fetch(u).then(function (r) { return r.json(); }); };
+  var cols = [['punks', 'cryptopunks'], ['bayc', 'bored-ape-yacht-club'], ['pudgy', 'pudgy-penguins']];
+  var calls = cols.map(function (c) { return get('https://api.coingecko.com/api/v3/nfts/' + c[1]); });
+  calls.push(get('https://api.coingecko.com/api/v3/simple/price?ids=ethereum&vs_currencies=eur'));
+  Promise.all(calls).then(function (res) {
+    cols.forEach(function (c, i) {
+      var d = res[i]; if (!d || !d.floor_price) return;
+      q(c[0]).textContent = nl(d.floor_price.native_currency, 2) + ' ETH';
+      q(c[0] + '-sub').textContent = '± $ ' + nl(d.floor_price.usd) + ' · ' + nl(Math.abs(d.ath_change_percentage.usd)) + '% onder de top';
+    });
+    var e = res[3] && res[3].ethereum; if (e) q('eth').textContent = '€ ' + nl(e.eur);
+    q('note').textContent = 'Live cijfers via CoinGecko, opgehaald op ' + new Date().toLocaleString('nl-NL', { day: 'numeric', month: 'long', year: 'numeric', hour: '2-digit', minute: '2-digit' }) + '.';
+  }).catch(function () { /* fallback numbers stay */ });
+})();
+</script>
+
+## Wat is een NFT?
+
+NFT staat voor **non-fungible token**. In correct Nederlands: een niet-verwisselbare token. Oké.
+
+Een NFT is een uniek eigendomsbewijs op de blockchain. Vergelijk het met een kunstcollectie: elk werk is anders en krijgt zijn eigen waarde. Eén bitcoin is altijd precies hetzelfde als een andere bitcoin (verwisselbaar dus), maar NFT nummer 4.312 uit een collectie is niet hetzelfde als nummer 4.313.
 
-Laten we bij het begin beginnen 😉.
+Net als bij echte kunst kun je een NFT verkopen. Alleen betaal je met [crypto](/blog/web3/handelen-in-crypto-valuta/), meestal ether, en wordt de transactie vastgelegd op de blockchain. Daar staat voor iedereen te lezen wie de eigenaar is.
 
-[**Wil je leren hoe je geld verdient met het flippen van NFT’s? Kijk dan eens deze gratis training >>**](/go/nft-secrets-gratis)
+> De blockchain is een manier om gegevens gespreid (gedecentraliseerd) op te slaan. Zie het als een grote database die over duizenden computers verdeeld is, zodat niemand in zijn eentje de inhoud kan aanpassen.
 
-## 1. Wat is een NFT?
+Bij een NFT hoort meestal een plaatje, een video, een muziekbestand of een 3D-model. Bij fysieke kunst zie je wie de eigenaar is doordat het bij iemand aan de muur hangt; bij digitale kunst regelt de NFT dat. Eigenlijk kan alles wat je online vindt een NFT worden, van een tweet tot een toegangskaartje.
 
-NFT staat voor **non-fungible token**. In correct Nederlands; **niet-verwisselbare token**. Oké.
+![Een bijna lege galerie met drie kleine pixelkunstwerken aan de muur](/images/spots/nftuitleg-galerij.webp "Een NFT is een eigendomsbewijs: het plaatje zelf mag overal hangen")
 
-Een NFT is **een vorm van crypto welke niet kan worden gekopieerd**. Je kan het zien als een kunstcollectie van originele kunst. Elk kunstwerk in de collectie is anders en krijgt een andere waarde toegewezen.
+Belangrijk om te snappen: wie een NFT koopt, is de eigenaar van de token, maar het plaatje zelf mag nog steeds overal op internet staan. Je koopt het eigendomsbewijs, niet het auteursrecht. Een beetje zoals je overal foto's van de Nachtwacht tegenkomt, terwijl er maar één in het Rijksmuseum hangt.
 
-Net zoals bij ‘echte’ kunst, kunnen NFT’s worden verkocht, maar in plaats van met euro’s, betaal je met [cryptocurrency](/blog/web3/handelen-in-crypto-valuta/). Het verschil is dat deze transactie wordt **bijgehouden op de blockchain**. Daar wordt geregistreerd wie de NFT en dus het kunstwerk bezit.
+![Everydays: The First 5000 Days van Beeple](/images/migrated/nft-geld-verdienen-beeple-1.webp "Everydays: The First 5000 Days van Beeple, in maart 2021 bij Christie's verkocht voor 69,3 miljoen dollar")
 
-> De blockchain is een manier om gespreid (gedecentraliseerd) digitale gegevens op te slaan. Zie het als een **grote database** die verdeeld is over miljoenen computers zodat **niemand** zelfstandig de informatie in de database kan aanpassen.
+## Wat geeft een NFT waarde (en wat niet)?
 
-In de meeste gevallen gaat het bij een NFT om **digitale kunst**. Dit omdat je bij fysieke kunst vaak gewoon kan zien wie de eigenaar is, bijvoorbeeld doordat dit in iemands huis hangt. Bij digitale kunst is de eigenaar door middel van NFT’s bepaald in de blockchain.
+Net als bij fysieke kunst is een NFT waard **wat een gek ervoor geeft**. Zou de Mona Lisa nu voor één euro te koop staan, dan wil praktisch iedereen op de wereld hem hebben, en bij een veiling gaat de prijs net zo lang omhoog tot er één koper overblijft. Schaarste plus vraag: daar komt de prijs vandaan.
 
-Qua digitale kunst kan je denken aan een **foto, plaatje, video, 3D model, digitale objecten of GIF**. Eigenlijk kan alles wat je online vind worden omgezet in een NFT, van Tweets tot aan een Photoshop versie van de Mona Lisa.
+In 2021 was die vraag enorm. Mensen zaten thuis door corona, hadden geld over en wilden ergens bij horen. Wie een NFT kocht, hoopte hem later voor meer door te verkopen aan de volgende koper. Dat werkt precies zolang er een volgende koper is. En dat is de les van de afgelopen jaren: **de vraag naar de meeste NFT's was hype, geen gebruik.** Een onderzoek uit september 2023 concludeerde dat 95% van alle NFT-collecties op dat moment niets meer waard was.
 
-![NFT Mona Lisa Shiba Photoshop](/images/migrated/photoshop-versie-mona-lisa-nft-1.webp "photoshop-versie-mona-lisa-nft (1)")
+Wat wél bleef, is de techniek: een uniek, overdraagbaar bewijs op een blockchain. Daar wordt in 2026 nog steeds mee gebouwd, alleen hoor je het woord NFT er zelden bij. Daarover verderop meer.
 
-## 2. Wat geeft een NFT waarde?
+## Hoe de NFT-hype opkwam en leegliep
 
-Net zoals bij fysieke kunst wordt de waarde van een NFT bepaald door **wat een gek ervoor geeft**. Ook wordt de prijs flink opgedreven door **vraag en aanbod**.
+Elke golf bouwde op de vorige, en de grootste golf had de grootste kater. In vogelvlucht:
 
-Wanneer de Mona Lisa nu te koop zou staan voor €1,- zou praktisch iedereen op de wereld deze willen hebben. Bij een veiling gaat de prijs vervolgens net zo lang omhoog totdat er **één koper** overblijft. Er is immers maar één Mona Lisa. Die schaarste maakt dus dat er voor kunst en NFT’s miljoenen kunnen worden betaald.
+<ol class="timeline not-prose">
+<li class="timeline__item"><span class="timeline__num">1</span><p class="timeline__year">2012</p><p class="timeline__title">Gekleurde munten</p><p class="timeline__text">Meni Rosenfeld beschrijft hoe je een bitcoin een extra laag geeft, zodat hij iets anders vertegenwoordigt dan geld. Het idee achter elke NFT.</p></li>
+<li class="timeline__item"><span class="timeline__num">2</span><p class="timeline__year">2014</p><p class="timeline__title">Quantum, de eerste NFT</p><p class="timeline__text">Kevin McCoy en Anil Dash maken op een conferentie de eerste NFT: een videoclip, ter plekke verkocht voor 4 dollar. In 2021 bij Sotheby's voor bijna 1,5 miljoen.</p></li>
+<li class="timeline__item"><span class="timeline__num">3</span><p class="timeline__year">2017</p><p class="timeline__title">CryptoPunks en CryptoKitties</p><p class="timeline__text">10.000 pixelpunks worden in juni gratis weggegeven. Kattenfokspel CryptoKitties legt in november het Ethereum-netwerk plat.</p></li>
+<li class="timeline__item"><span class="timeline__num">4</span><p class="timeline__year">2021</p><p class="timeline__title">De hype</p><p class="timeline__text">Beeple 69 miljoen, de eerste tweet 2,9 miljoen, ruim 17 miljard dollar aan handel. Iedereen maakt NFT's. Ik ook.</p></li>
+<li class="timeline__item"><span class="timeline__num">5</span><p class="timeline__year">2022</p><p class="timeline__title">De kater</p><p class="timeline__text">Crypto stort in. De tweet krijgt als hoogste bod 280 dollar. De goedkoopste Bored Ape piekt in mei op 128 ETH en zakt daarna hard.</p></li>
+<li class="timeline__item"><span class="timeline__num">6</span><p class="timeline__year">2023</p><p class="timeline__title">Opruimen</p><p class="timeline__text">Een onderzoek telt 95% waardeloze collecties. Marktplaatsen maken royalty's voor makers optioneel. Op Bitcoin verschijnen 'Ordinals'.</p></li>
+<li class="timeline__item"><span class="timeline__num">7</span><p class="timeline__year">2024</p><p class="timeline__title">Merken stappen uit</p><p class="timeline__text">Starbucks stopt in maart met zijn NFT-programma Odyssey, Nike sluit in december zijn NFT-studio RTFKT.</p></li>
+<li class="timeline__item"><span class="timeline__num">8</span><p class="timeline__year">2025</p><p class="timeline__title">Klein, maar levend</p><p class="timeline__text">2,8 miljard dollar aan verkopen in het eerste halfjaar, vooral kleine van 80 tot 100 dollar. Yuga Labs verkoopt de rechten op CryptoPunks voor zo'n 20 miljoen dollar aan een stichting.</p></li>
+<li class="timeline__item timeline__item--now"><span class="timeline__num">9</span><p class="timeline__year">2026 – nu</p><p class="timeline__title">Na de hype</p><p class="timeline__text">OpenSea handelt op 22 blockchains, verhoogt de commissie naar 1% en stelt zijn eigen SEA-token uit. Gas kost centen. NFT's leven door als tickets, productpaspoorten en lidmaatschappen.</p></li>
+</ol>
 
-![NFT top rankings](/images/migrated/nfts-top-ranking.webp "nfts-top-ranking")
+## Kun je in 2026 nog geld verdienen met NFT's?
 
-Dat er veel kopers zijn voor NFT’s heeft meerdere redenen. Veelal vinden kopers iets leuk of cool en willen ze er door de NFT te kopen graag een onderdeel van zijn. **Geld verdienen met NFT’s** gebeurt echter vaak juist door een NFT te kopen en vervolgens voor meer door te verkopen. Deze vorm van verhoogde vraag naar een NFT helpt mee aan de prijsstijging.
+Eerlijk antwoord: een beetje, met veel werk en een reëel risico dat je inleg verdampt. De markt is niet dood, maar wel klein. Volgens de cijfers van CryptoSlam wisselden in de eerste helft van 2025 elke maand vier tot zes miljoen NFT's van eigenaar, voor gemiddeld 80 tot 100 dollar per stuk. In november 2025 was de totale maandomzet nog zo'n 320 miljoen dollar. Ter vergelijking: in 2021 ging er in het hele jaar ruim 17 miljard dollar om.
 
-Belangrijk om bij NFT’s te begrijpen is dat je wanneer je een NFT koopt, wel officieel de eigenaar bent, maar dat de afbeelding/video nog altijd op **andere plekken op het internet kan en mag staan**. Je bent dan wel de eigenaar, maar niet de houder van de copyrights. Een beetje zoals je foto’s van schilderijen en standbeelden tegenkomt op het internet.
+Er zijn nog altijd twee manieren. De eerste is NFT's kopen en met winst doorverkopen (flippen). De tweede is je eigen werk als NFT uitbrengen. Ik loop ze allebei langs, inclusief wat er in 2026 anders is dan toen ik dit voor het eerst schreef.
 
-Als je **[online geld wilt verdienen](/blog/online-geld-verdienen/online-geld-verdienen/) met NFT´s** zijn er twee manieren. De eerste is door **[NFT´s te kopen en te verkopen](/go/nft-secrets-gratis)**. De tweede is door simpelweg **je eigen kunst als NFT te verkopen**. Laten we beginnen bij die eerste.
+## Manier 1: NFT's kopen en verkopen (flippen)
 
-![NFT training](/images/migrated/Future-proof-Business-1-e1645006633208.webp "NFT training")
+Het principe is simpel: je koopt een NFT voor 0,05 ETH en verkoopt hem een week later voor 0,08 ETH. Het verschil is je winst, min de commissie van de marktplaats, een eventuele royalty voor de maker en de netwerkkosten (gas). Zo koop je in 2026 een NFT:
 
-#### Als bedrijf aan de slag met NFTs?
+1. **Maak een wallet.** [MetaMask](https://metamask.io/) is nog altijd de bekendste; Rabby en Phantom zijn goede alternatieven. Schrijf je herstelwoorden op papier en deel ze met niemand, ook niet met 'de helpdesk'.
+2. **Koop ether** bij een Nederlandse exchange met MiCA-vergunning, bijvoorbeeld [Finst](/go/finst) (0,15% per transactie), en stuur die naar je wallet. Hoe dat werkt lees je in mijn [stappenplan crypto kopen met iDEAL](/blog/web3/crypto-kopen-met-ideal-stappenplan/).
+3. **Verbind je wallet met een marktplaats.** OpenSea is nog steeds de grootste; welke andere er zijn lees je in [mijn NFT-guide](/blog/web3/nft-guide/#marktplaats-kiezen).
+4. **Koop de NFT en betaal de gas.** Groot verschil met 2021: een transactie op Ethereum kostte toen tientallen tot honderden euro's, in 2026 meestal centen tot een paar euro. Op netwerken als Base en Polygon betaal je vrijwel niets.
+5. **Zet hem weer te koop** voor een hogere prijs. OpenSea rekent sinds begin 2026 1% commissie (dat was 0,5%).
 
-Ga jarenlang experimenteren OF leer met de NFT In-Company training binnen één dag alles wat je nodig hebt. Wij maken bedrijven Web 3.0 ready!
+![Een open portemonnee met één gloeiende token erin](/images/spots/nftuitleg-wallet.webp "Je wallet is je portemonnee én je kluis: wie je herstelwoorden heeft, heeft alles")
 
-[NFT In-Company](https://desynt.io/nft-incompany/)
+Of een flip iets oplevert, hangt af van twee dingen: of je het juiste project kiest én of de kosten je winst niet opeten. Dat laatste reken je hieronder uit.
 
-## 3. Geld verdienen met het kopen en verkopen van NFT’s
+<div class="tool not-prose" id="nftuitleg-calc">
+<p class="tool__title">Reken uit wat een NFT-flip oplevert</p>
+<p class="tool__intro">Vul je eigen cijfers in; de uitkomst rekent direct mee. Prijzen in ETH, de uitkomst in euro's.</p>
+<div class="tool__grid">
+<label class="tool__field">Aankoopprijs (ETH)<input class="tool__input" id="nftuitleg-buy" type="number" min="0" step="0.01" value="0.05"></label>
+<label class="tool__field">Verkoopprijs (ETH)<input class="tool__input" id="nftuitleg-sell" type="number" min="0" step="0.01" value="0.08"></label>
+<label class="tool__field">Commissie marktplaats (%)<input class="tool__input" id="nftuitleg-fee" type="number" min="0" step="0.1" value="1"></label>
+<label class="tool__field">Royalty voor de maker (%)<input class="tool__input" id="nftuitleg-roy" type="number" min="0" step="0.1" value="2.5"></label>
+<label class="tool__field">Gas per transactie (€)<input class="tool__input" id="nftuitleg-gas" type="number" min="0" step="0.1" value="1"></label>
+<label class="tool__field">Koers ether (€ per ETH)<input class="tool__input" id="nftuitleg-eth" type="number" min="0" step="1" value="2247"></label>
+</div>
+<div class="tool__results">
+<div class="tool__result"><p class="tool__label">Nettowinst</p><p class="tool__value" id="nftuitleg-net">€ 59</p><p class="tool__sub">na commissie, royalty en gas</p></div>
+<div class="tool__result"><p class="tool__label">Rendement</p><p class="tool__value" id="nftuitleg-pct">52%</p><p class="tool__sub">op je inleg, vóór belasting</p></div>
+</div>
+<p class="tool__note">Rekenvoorbeeld, geen belofte. OpenSea rekent sinds begin 2026 1% commissie, royalty's zijn bij de meeste collecties optioneel en gas op Ethereum kost in 2026 meestal centen tot een paar euro (bronnen in de tekst). De koers van ether van 20 september 2026 staat al ingevuld.</p>
+</div>
 
-Nu je begrijpt wat een NFT waarde geeft, begrijp je ook dat deze van waarde kan veranderen. Allemaal een kwestie van vraag en aanbod.
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var fmt = function (n) { return new Intl.NumberFormat('nl-NL', { maximumFractionDigits: 0 }).format(n); };
+  function calc() {
+    var buy = +$('nftuitleg-buy').value || 0, sell = +$('nftuitleg-sell').value || 0, fee = +$('nftuitleg-fee').value || 0,
+        roy = +$('nftuitleg-roy').value || 0, gas = +$('nftuitleg-gas').value || 0, eth = +$('nftuitleg-eth').value || 0;
+    var cost = buy * eth + gas, net = sell * (1 - (fee + roy) / 100) * eth - gas - cost;
+    $('nftuitleg-net').textContent = '€ ' + fmt(net);
+    $('nftuitleg-pct').textContent = cost > 0 ? fmt(net / cost * 100) + '%' : '–';
+  }
+  ['nftuitleg-buy', 'nftuitleg-sell', 'nftuitleg-fee', 'nftuitleg-roy', 'nftuitleg-gas', 'nftuitleg-eth'].forEach(function (id) { $(id).addEventListener('input', calc); });
+  calc();
+})();
+</script>
 
-> **Heb jij een NFT voor 2000 dollar gekocht, maar verkoop je deze een week later voor 3000 dollar, dan heb je zomaar even 1000 dollar winst gemaakt. Daar moeten dan alleen nog even de kosten van het netwerk ([gas fees](https://desynt.io/pay-less-gas-fees-minting-selling-nfts/)) af.**
+Het kiezen van het project is het echte werk. Waar je op let (hoe groot de collectie is, hoeveel er te koop staat, het handelsvolume, het team, de community) beschrijf ik stap voor stap in mijn artikel over [NFT-research](/blog/web3/nft-project-research-onderzoeken-flippen/). Ik leerde flippen begin 2022 in een Nederlandse cursus die inmiddels niet meer bestaat; wat ik daar achteraf van vind, lees je in [mijn review](/blog/review/nft-secrets-review-mitchel-van-duuren/).
 
-Om geld te verdienen met het kopen en verkopen van NFT’s is het vooral belangrijk om te begrijpen [welke NFT’s de **potentie hebben om in waarde te stijgen**](/go/nft-secrets-gratis). Dit vereist [NFT research](/blog/web3/nft-project-research-onderzoeken-flippen/).
+Wat ik je vooral wil meegeven: in 2021 kon je bijna niet verkeerd kopen, omdat alles steeg. In 2026 kan dat wel. Handel alleen met geld dat je kunt missen en zie het als leergeld, niet als inkomen.
 
-Voordat we kijken naar hoe je goede NFT projecten vind, is het eerst goed om te weten hoe je überhaupt **een NFT koopt**. Onderstaande video kan je daarbij op weg helpen, of volg de stappen die compact onder de video staan beschreven.
+## Manier 2: je eigen NFT uitbrengen
 
-[Abonneer op dit kanaal](https://www.youtube.com/channel/UCX3nVifVo8QBjKof41GpqCQ?sub_confirmation=1)
+Ben je ontwerper, fotograaf, muzikant of illustrator? Dan is een NFT een manier om digitaal werk te verkopen met een eigendomsbewijs erbij. In 2021 doken Eminem, Snoop Dogg en Gary Vaynerchuk erin; in 2026 is het vooral iets voor makers met een eigen publiek. Zonder bereik verkoop je niets, hoe mooi het ook is.
 
-1.  [Maak een Metamask wallet](https://metamask.io/). Dit kan je zien als **jouw digitale portemonnee** waarin jouw NFT wordt opgeslagen wanneer je deze aanmaakt. Dit is tevens de opslag voor jouw Ethereum.
-2.  Wanneer je jouw wallet up and running hebt kan je hiermee [jouw OpenSea account aanmaken](https://opensea.io/).
-3.  Maak Ethereum over naar jouw MetaMask wallet. Doe dit vanuit een crypto exchange zoals [Bitvavo](/blog/review/bitvavo-review-crypto/) waar je [crypto kunt kopen met iDEAL](/blog/web3/crypto-kopen-met-ideal-stappenplan/) of koop direct Ethereum met je creditcard en Apple Pay.
-4.  Zoek op OpenSea.io een NFT die je wilt kopen en **voldoe de transactie inclusief gas fees**.
-5.  Wanneer de NFT gekocht is en deze in je wallet staat, kan je deze op OpenSea.io weer **te koop aanbieden voor een hoger bedrag**.
+Voor het gemak neem ik je mee in het project dat ik eind 2021 samen met een groep vrienden opzette: **Metabunkers**.
 
-Bovenstaande is hoe je een NFT koopt op een marktplaats als OpenSea.io. Voor andere marktplaatsen geldt vrijwel hetzelfde principe. Dit is de makkelijkste manier en lijkt eigenlijk nog het meest op hoe je een bestelling doet bij een Nederlandse webshop.
+![Het logo van Metabunkers](/images/migrated/metabunkers-logo-zwart-groot.webp "Metabunkers, ons eigen NFT-project uit 2021")
 
-![NFT Crypto Punks](/images/migrated/cryptopunks-nft-768x497-1.webp "Cryptopunks NFT")
+### Stap 1: de kunst en het verhaal
 
-Andere **manieren om NFT’s te kopen** zijn via een veiling of bij een NFT drop. Dit kan je voordelen geven en is daarom goed om te benoemen.
+Wij maakten pixel voor pixel handgetekende bunkers: een plek die je de illusie van veiligheid geeft als de wereld ten onder gaat. Met een knipoog. Het concept om de bunkers heen bleek belangrijker dan hoe een bunker eruitzag: kopers vonden vooral het verhaal leuk. Wij schreven daarom letterlijk een verhaal, geïnspireerd op de radio-uitzending van War of the Worlds uit 1938, over buren die hun auto's inpakken en wegrijden terwijl de nieuwslezer een invasie meldt.
 
-> **Veilingen**
-> 
-> Dit is net zoals een echte kunstveiling, maar dan digitaal. Hierbij kan de prijs flink omhoog worden gebracht, maar het kan ook de kans geven om iets waardevols voor een klein bedrag te bemachtigen. Veel NFT veilingen vinden plaats met een tijdslimiet, wie binnen de tijd het hoogste bod uitbrengt ontvangt de NFT.
+Dat is de les die overeind blijft: wie een NFT verkoopt, verkoopt een verhaal. Een gekleurd vierkant kan technisch prima een NFT zijn, maar wie wil dat hebben?
 
-> **NFT drop**
-> 
-> Hierbij draait het vaak om collectibles. Een verzameling van soms wel 10.000 NFT’s welke door een code worden gecreëerd. Vooraf weet je niet wat je krijgt, maar kan je slechts een NFT minten en hopen dat je een zeldzame collectible te pakken hebt welke je voor meer geld kunt doorverkopen (op een [NFT marktplaats](/blog/web3/nft-guide/#marktplaats-kiezen)).
+![Een kleine betonnen bunker op een heuvel onder een nachthemel, in pixelstijl](/images/spots/nftuitleg-bunker.webp "Metabunkers: het verhaal verkocht beter dan het plaatje")
 
-Als je begrijpt hoe je NFT’s koopt en verkoopt is het moment daar om goede NFT projecten te vinden die de potentie hebben **om flink te stijgen in waarde**. Een [NFT onderzoek](/blog/web3/nft-project-research-onderzoeken-flippen/). Hierbij zijn er een aantal dingen waar je op moet letten:
+### Stap 2: van kunst naar NFT
 
-*   Wie is de maker van de NFT? Is deze populair en heeft deze andere succesvolle NFT projecten gelanceerd?
-*   Wat zegt je gevoel over dit project? Is het iets dat je wilt supporten en denk je dat anderen er ook zo instaan?
-*   Als het een game NFT is, dan is het belangrijk wat de functie ervan binnen het spel is. Heeft de NFT een speciale ability dan kan dit de waarde omhoog duwen.
-*   Is de NFT onderdeel van een collectie en heeft die zeldzame eigenschappen?
-*   Wordt er een hype gecreëerd op sociale media rondom de NFT en doet de maker van de NFT aan promotie?
-*   Is de NFT al eens verkocht voor winst? Dan geeft dit aan dat er waarschijnlijk meer mensen zijn die de NFT willen bemachtigen. Dit kan je op OpenSea.io zien door de prijsgeschiedenis te bekijken.
+Je hoeft niets te programmeren. Op OpenSea (of een andere marktplaats) upload je een afbeelding, video of 3D-model, vult naam en beschrijving in en 'mint' het: vanaf dat moment staat het op de blockchain. Je kiest daarbij een netwerk. In 2021 was Ethereum duur en Polygon het goedkope alternatief; in 2026 kost minten op Ethereum zelf ook nog maar centen tot een paar euro, en op Base of Polygon vrijwel niets.
 
-![Price History NFT OpenSea.io](/images/migrated/Afbeelding1.webp "Price History NFT OpenSea.io")
+Collecties van duizenden stuks met een eigen smart contract zijn een ander verhaal. Daarvoor huur je een developer in of leer je het zelf. Hoe dat zit, welke blockchains er zijn en waar je plaatje eigenlijk opgeslagen staat, lees je in mijn [NFT-guide](/blog/web3/nft-guide/).
 
-Met al deze vragen in het achterhoofd kan je jouw zoektocht naar een NFT beginnen. Een plek waar je dan in ieder geval wilt gaan kijken is Twitter. Dit zal je een idee geven van of er wat rondgaat over het NFT project.
+### Stap 3: promotie (het echte werk)
 
-Geld verdienen met het flippen van NFT’s heb ik zelf geleerd in [NFT Secrets van Mitchel van Duuren](/go/nft-secrets). Daarin leer je **strategieën voor het vinden van NFT projecten** die de potentie hebben om veel in waarde te stijgen. Lees ook zeker eens [mijn review over NFT Secrets](/blog/review/nft-secrets-review-mitchel-van-duuren/).
+Er zijn miljoenen NFT's gemaakt. Daaruit naar voren komen kost meer tijd dan het maken. Een goed project begint met promotie vóórdat er een NFT bestaat: op X (toen nog Twitter), Discord en Instagram. Niet doodgooien met reclame, maar humor en community bouwen. Vraag je bij elke post af: zou ik dit zelf kopen? Pas als het antwoord ja is, valt er iets te verwachten.
 
-Tijdens deze cursus deelt Mitchel exact hoe het hem lukt om tienduizenden euro’s te verdienen met NFT’s. Zijn cursisten (bij het schrijven van dit artikel zijn dit er zo’n 2300) **boeken vrij snel succes**. Sommigen zelfs al binnen één dag. In de community delen we die flips en dat zag er alleen vandaag al zo uit:
+Wat wij aan Metabunkers overhielden: een hoop geleerd over verhaal, community en marketing, en het besef dat een NFT-project vooral een marketingproject is. De collectie staat nog altijd op OpenSea.
 
-![Resultaten NFT Secrets Mitchel van Duuren](/images/migrated/resultaten-nft-secrets-van-mitchel-van-duuren.webp "resultaten-nft-secrets-van-mitchel-van-duuren")
+## Wat er in 2026 van NFT's overblijft
 
-Dat is echt bizar toch? De prijzen die hier worden genoemd zijn trouwens in **Ethereum (+/- 1000,- euro)**. Reken maar uit je winst ;).
+De handel in plaatjes is een niche geworden, maar het idee erachter, een uniek en overdraagbaar bewijs op een blockchain, wordt nog steeds gebruikt. Alleen zonder dat het woord NFT erbij staat:
 
-Soms zitten er bij de community van [NFT Secrets](/go/nft-secrets) ook echt uitschieters die met het flippen van NFT’s echt ongelooflijke winsten pakken.
+*   **Productpaspoorten.** Horlogemerk Breitling geeft bij elk horloge een digitaal paspoort op de blockchain uit via Arianee; datzelfde platform telt inmiddels ruim 4 miljoen uitgegeven passen. En vanaf 18 februari 2027 is een digitaal productpaspoort in de EU verplicht voor accu's van elektrische auto's en grote industriële batterijen; textiel volgt later. Blockchain is daarbij overigens niet verplicht.
+*   **Lidmaatschappen.** Restaurant Flyfish Club in New York laat je in 2026 nog steeds alleen binnen met een token in je wallet; een lidmaatschap kost 2.500 dollar entree plus 3.500 dollar per jaar, en er is een wachtlijst.
+*   **Tickets.** Het Nederlandse GUTS Tickets, dat kaartjes op de blockchain zette tegen doorverkoop, ging op in CM.com; de techniek erachter heet nu OPEN Ticketing.
+*   **Herinneringen.** POAP, het digitale aanwezigheidsbewijs voor events, bestaat in 2026 nog en telt volgens de eigen site meer dan een miljoen uitgegeven POAP's.
 
-![Succesvolle flips NFT Secrets](/images/migrated/succesvolle-flips-nft-secrets-discord-1-scaled.webp "succesvolle-flips-nft-secrets-discord (1)")
+Wat bedrijven daarmee kunnen (en wat er van de bekende voorbeelden uit 2022 is geworden), lees je in [mijn artikel met NFT-ideeën voor bedrijven](/blog/web3/nft-ideeen-bedrijf/). De grotere ontwikkelingen in crypto, zoals stablecoins, tokenisatie, MiCA en ETF's, staan in [de crypto-guide](/blog/web3/handelen-in-crypto-valuta/).
 
-Die 25 ETH waar deze deelneemster het over heeft is **zo’n €25.000,-**. Niet slecht voor een paar maanden.
+## Veelgestelde vragen over NFT's
 
-Als je eens wilt kijken of deze manier van geld verdienen ook wat voor jou is, dan raad ik je graag aan om [deze gratis workshop van Mitchel van Duuren](/go/nft-secrets-gratis) te volgen. Daarin geeft hij voorbeelden van **zijn eigen NFT flips**.
+### Is een NFT hetzelfde als crypto?
 
-## 4. Je eigen NFT uitbrengen
+Nee. Crypto zoals bitcoin en ether zijn verwisselbare munten: elke munt is gelijk. Een NFT is een uniek bewijs op dezelfde soort blockchain. Je hebt wel crypto nodig om een NFT te kopen, meestal ether.
 
-Stel je bent designer en bent van plan om **digitale kunst** te creëren. Of je hebt kunst en wilt deze digitaliseren. Dan zijn NFT’s een uitkomst. Het maakt het mogelijk om met ontwerpen veel **meer geld te verdienen** dan dat voorheen mogelijk was. Zeker als je zelf al wat bereik (volgers op social media etc.) hebt opgebouwd liggen hier kansen.
+### Moet ik belasting betalen over NFT's?
 
-Het is dan ook niet voor niets dat mensen als **Eminem, Shawn Mendes, Snoop Dogg en Gary Vaynerchuk** in de NFT markt zijn gedoken.
+Ja. Voor de Belastingdienst zijn NFT's bezit, net als crypto: ze tellen mee in box 3 tegen de waarde op 1 januari. Hoe box 3 in 2026 werkt en wat het je kost, reken ik voor in de [crypto-guide](/blog/web3/handelen-in-crypto-valuta/).
 
-![NFT kunst Shawn Mendes](/images/migrated/1621624049-mendes-genies-690x444-1.webp "NFT kunst Shawn Mendes")
+### Zijn NFT's dood?
 
-NFT’s zijn een vrij simpele manier om je bekendheid en autoriteit om te zetten in geld. Dat veel artiesten tijdens corona minder inkomsten kregen heeft wellicht bijgedragen aan **de hype** die hier is ontstaan.
+De hype wel, de techniek niet. Er worden nog miljoenen NFT's per maand verhandeld, alleen voor tientallen dollars per stuk in plaats van tienduizenden. En de nuttige toepassingen (tickets, paspoorten, lidmaatschappen) noemen zichzelf zelden nog NFT.
 
-Als je nu denkt, ik wil wel een eigen NFT uitbrengen, maar ik heb geen bekendheid, geen zorgen. Ook dan zijn er legio mogelijkheden om er **een succes van te maken**. Laten we het stap voor stap doornemen.
+### Wat heeft de metaverse ermee te maken?
 
-Voor het gemak neem ik je mee in een NFT project dat ik samen met een groep vrienden heb opgezet; **Metabunkers**.
+In 2021 was het idee dat je met NFT's land, kleding en spullen zou bezitten in virtuele werelden. Wat daarvan terechtkwam lees je in mijn artikel over [metaverse crypto](/blog/web3/metaverse-crypto/).
 
-![nft-metabunkers](/images/migrated/metabunkers-logo-zwart-groot.webp "metabunkers-logo-zwart-groot")
+## Conclusie: NFT's in 2026
 
-### Stap 1: De kunst
+Voor wie nieuw is, voelt het allemaal nog steeds overweldigend. Logisch. Maar de beste manier om het te snappen is nog altijd dezelfde: koop één goedkope NFT van een paar euro, stuur hem naar een andere wallet, zet hem te koop en ervaar hoe het werkt. Dat kost in 2026 bijna niets meer aan gas.
 
-Wanneer je iets als een NFT wilt verkopen moet dit een afbeelding, GIF, video of 3D model zijn. Dit kan letterlijk zo simpel zijn als een gekleurde vierkant. Toch zal je begrijpen dat een vierkantje wellicht wat moeilijk te verkopen is, wie wil dat immers hebben?
+Verwacht er alleen geen inkomen van. Wie in 2021 riep dat NFT's kopen "net als Bitcoin kopen in 2012" was, en ja, dat riep ik ook, heeft ongelijk gekregen. Wat overeind bleef, is de techniek en de les dat een goed verhaal meer waard is dan een goed plaatje. Wil je met crypto beginnen op een manier die wél door de jaren heen werkt? Lees dan [hoe ik zelf in crypto investeer](/blog/web3/handelen-in-crypto-valuta/): elke maand een beetje, in de grote munten, bij een exchange met vergunning.
 
-Wij besloten om een soort **crypto grafische bunkers** te maken. Handgemaakt, pixel voor pixel. Deze geven je de illusie van veiligheid als de wereld ten val komt. Een boodschap met een knipoog ;).
-
-Het concept om de ‘Metabunkers’ heen is daarbij belangrijker dan hoe een Metabunker er zelf uitziet. Wij zien bij onze kopers dan ook dat ze vooral het concept vet vinden en om die reden een bunker willen hebben.
-
-Pak dus gerust je Photoshop of Paint erbij en maak wat leuks, dan kan je hier in de volgende stappen een NFT van maken!
-
-![Metabunkers](data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271200%27%20height%3D%271200%27%20viewBox%3D%270%200%201200%201200%27%3E%3Crect%20width%3D%271200%27%20height%3D%271200%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E "Metabunkers")
-
-Er zijn ook veel zogenoemde **10K collectibles**. Echter is dit wat moeilijker omdat je hierbij zelf een smart contract moet maken. Toch, omdat je ze zo vaak voorbij ziet komen, wil ik je wel graag laten zien wat het inhoud.
-
-Bij zo’n collectie van soms wel 10.000 verschillende plaatjes is van tevoren niet duidelijk hoe de plaatjes eruit komen. Deze worden aan de hand van een smart contract gegenereerd.
-
-Mensen kopen dan ook vaak plaatjes zonder te weten welk plaatje ze uiteindelijk krijgen. Veelal in de hoop dat hun plaatje zeldzaam is en ze deze voor meer geld kunnen doorverkopen. Een van de bekendste grote collecties is de Bored Apes Yacht Club, zie het voorbeeld hieronder.
-
-![Bored Ape Club NFT](/images/migrated/61301603bf9709f5da60cc1d_chayka-boredapeclub.webp "Bored Ape Club NFT")
-
-Als je jouw eerste NFT gaat uitbrengen begin je waarschijnlijk gewoon met een plaatje dat je tof vind. Hoe je van dit plaatje vervolgens een NFT maakt, vertel ik je in de volgende stap!
-
-Zoek je nog naar andere ideeën **om als bedrijf iets met NFTs te doen?** [Hier vind je tal van NFT voorbeelden van bedrijven](/blog/web3/nft-ideeen-bedrijf/).
-
-### Stap 2: Van kunst naar NFT
-
-Veel mensen zijn bang dat het allemaal super technisch en moeilijk wordt. Maar zoals het eigenlijk met iedere technologie zit, hoef je ook hier niet volledig te begrijpen hoe het werkt. Als je maar weet **hoe je er gebruik van kan maken**.
-
-Zo zijn er in de NFT wereld tal van ontwikkelingen gaande om het jou makkelijk te maken NFT’s te creëren, houden, kopen en verkopen.
-
-> Een keuze die je bij deze stap moet maken is welke blockchain je jouw NFT op plaatst. De populairste keuzes van dit moment daarvoor zijn **Ethereum, Polygon, Solana, Binance Smartchain en Cardano**.
-
-Wanneer je niet veel technische kennis in huis hebt en geen eigen smart contract wilt maken, kan je dit jouw NFT maken via een **NFT market place**. Dit is een plek waar NFT’s te koop worden aangeboden. Veel van deze marktplaatsen maken het voor jou mogelijk om zelf een NFT en bijbehorend smart contract te maken. Dat laatste is belangrijk omdat het zo daadwerkelijk op de blockchain komt te staan.
-
-Oké, dat zijn misschien een hoop nieuwe termen. **Geen zorgen**. De praktijk is best wel simpel! De [grootste NFT market places](/blog/web3/nft-guide/#marktplaats-kiezen) per blockchain zijn:
-
-![Logo Opensea](/images/migrated/Logomark-Blue.webp "Logo Opensea")
-
-Opensea.io – Grootste NFT market place voor Ethereum en Polygon waar je gemakkelijk zelf NFT’s kunt creëren en verkopen.
-
-![Solsea NFT Marketplace](/images/migrated/solsea.4bcd6fab.webp "Solsea NFT Marketplace")
-
-Solsea.io – NFT market place voor het Solana netwerk. Deze is nog volop in ontwikkeling, maar heeft al de eerste succesvolle projecten voorbij zien komen.
-
-![Binance Smart Chain](/images/migrated/p-2.webp "Binance Smart Chain NFT Marketplace")
-
-Binance Smart Chain – NFT market place voor het Binance netwerk. [Binance](/blog/review/binance-review-crypto-exchange/) is de grootste crypto exchange ter wereld en heeft daarmee veel potentie voor de toekomst.
-
-![CNFT](/images/migrated/ZrBiIWfJLE.webp "CNFT Cardano NFT")
-
-CNFT.io – NFT market place voor het Cardano netwerk. Staat nog in de kinderschoenen.
-
-Wanneer je naar goede informatie zoekt om een keuze te maken voor de blockchain en NFT market place is dit vaak eindeloos. Er is veel te vinden op het internet, maar vanwege de nieuwheid van de markt is niet alle informatie even relevant.
-
-Mijn advies is simpel. Ga voor de grootste market place met de laagste kosten. **Dat brengt je al snel bij Opensea.io**. Laten we via die NFT market place dus eens kijken hoe je een NFT maakt. Hieronder vind je daarvoor van mij een uitleg video, de stappen staan er compact nog onder beschreven.
-
-[Abonneer op dit kanaal](https://www.youtube.com/channel/UCX3nVifVo8QBjKof41GpqCQ?sub_confirmation=1)
-
-1.  [Maak een Metamask wallet](https://metamask.io/). Dit kan je zien als **jouw digitale portemonnee** waarin jouw NFT wordt opgeslagen wanneer je deze aanmaakt. Dit is tevens de opslag voor jouw Ethereum.
-2.  Wanneer je jouw wallet up and running hebt kan je hiermee **[jouw OpenSea account aanmaken](https://opensea.io/)**.
-3.  Voordat je jouw NFT creëert (mint) is het belangrijk dat er op jouw wallet al wat Ethereum staat om de **gas fees** te voldoen. Maak deze over via [jouw favoriete crypto exchange](/blog/web3/beste-crypto-exchange/) of vanuit je offline wallet (als je die al hebt). Wanneer je jouw NFT maakt via Polygon hoef je bij OpenSea géén gas fees te betalen. Zeker voor een eerste keer is dit een goede optie!
-4.  Wanneer je bent ingelogd op OpenSea **maak je eenvoudig jouw eigen NFT door op ‘Create’ te klikken** en de afbeelding of video te uploaden. Vul vervolgens wat gegevens in zoals de naam en beschrijving.
-5.  Houdt er rekening mee dat je op OpenSea kan **kiezen voor de Ethereum en Polygon blockchain**. Wees je er hierbij van bewust dat de gas fees (kosten die je betaald om de NFT in de blockchain vast te leggen) van Ethereum in de honderden dollars kunnen lopen, terwijl deze bij Polygon (bijna) niets zijn. **Voor jouw eerste NFT zal de Polygon blockchain volstaan**.
-
-Je hebt jouw eerste eigen NFT gemaakt. Gefeliciteerd!
-
-Toch zal je zien dat er **niet** gelijk kopers klaar staan om jouw NFT voor duizenden euro’s over te nemen. Er worden **miljoenen NFT’s gemaakt** en daaruit naar voren komen kost moeite. Laten we daarom kijken naar manieren om jouw NFT te promoten.
-
-### Stap 3: Jouw NFT promoten
-
-**Marketing** is de belangrijkste stap om van een NFT project een succes te maken. Natuurlijk hoor je vaak de projecten voorbij komen die voor belachelijke bedragen worden verkocht, maar zelf zoiets opzetten is zo makkelijk nog niet.
-
-Wanneer je een NFT hebt gemaakt is het dus tijd om de promotie te starten. Of eigenlijk, een goed NFT project begint met de [promotie alvorens er een NFT bestaat](https://desynt.io/promote-nft-project/). De doelgroep bereiken kost immers veel tijd.
-
-Dat begint allemaal bij een goed verhaal. Is het gewoon een plaatje dat je verkoopt of zit er meer achter? Wanneer je een NFT verkoopt, **verkoop je in feite het verhaal** dat erachter zit. Bij Metabunkers hebben wij daarom letterlijk een verhaal geschreven dat onze fans bind.
-
-##### Voorbeeld: Verhaal Metabunkers
-
-Imagina you’re at home trying to wind down from another long day. You just had dinner and the radio is still playing in the background. When you head to the kitchen to do the dishes, you hear this **obnoxious breaking-news bulletin** on the radio. The reporter is warning everyone for a **martian invasion**.
-
-‘That’s funny’, you might think, whilst listening out of pure curiosity. However it seems to go on and on. You hear these **weird noises, people screaming and still the same radio reporter talking about the cruelty that’s happening out there**; a heat ray and black poisonous smoke are supposedly killing people. You start to wonder; ‘**Can this be real?**’ Probably not.
-
-In just a few minutes there will be a station break, just like always. When the time of the usual station break has passed, you start to worry. ‘Could this be real?’ Soon after you see neighbors around the block packing their cars and moving away from the neighborhood. ‘This can’t be good’. You start to panic cause you’ve now realized; **soon you’ll be driving down the same highway as your neighbors, seeking for safety…**
-
-–
-
-You might say that this is an absurd scenario to happen, but think twice. This story is exactly what happened in 1938, when Orson Welles decided to convert the book ‘War of the Worlds’ into this obnoxious breaking-news bulletin.
-
-Now, we might not have to fear a martian invasion. However **we do need to fear threatening, real world problems**. We see water levels rising, weaponized AI robots, online propaganda machines, mass migration worldwide, hunger, polarization, upcoming trends that can lead to a new economic crisis. **There’s a hell of a lot to worry about**.
-
-But, we won’t all have to enter the hell hole. You might have seen some of these headlines:
-
-*   How New Zealand became an apocalypse escape destination
-*   Doomsday Prep for the Super-Rich
-*   Why Silicon Valley billionaires are prepping for the apocalypse in New Zealand
-
-The people up top are safe. but we are not. What will you do when you see your neighbors fleeing from their home?
-
-I guess there’s only one option: **You need a bunker!**
-
-Niet alle verhalen worden uiteraard zo letterlijk beschreven. Denk maar eens aan de ‘eerste tweet’ die voor veel geld als NFT werd verkocht. Het verhaal daarachter is de revolutie die Twitter heeft gebracht.
-
-Wanneer je verhaal goed is, **kan de promotie beginnen**. Bij veel NFT projecten zie je dat ze daar vrijwel altijd dezelfde kanalen voor gebruiken, namelijk **Twitter, Discord en Instagram**.
-
-Wanneer je zelf op deze platformen actief bent (of wordt) kijk dan uit dat je posts niet teveel promotie bevatten. Niemand zit er immers op te wachten om te worden doodgegooid met advertenties. Richt je liever op **humor en community building**.
-
-![Promotie op Instagram NFT project](/images/migrated/Schermafbeelding-2021-12-23-162839.webp "Promotie op Instagram NFT project")
-
-Probeer je constant in de ander te verplaatsen. Waarom zou iemand jouw NFT kopen? Of beter gezegd, **zou jij zelf je eigen NFT kopen**? Pas als het antwoord ‘ja’ is valt er wat te verwachten.
-
-> Wil je meer leren over het uitbrengen van jouw eigen NFT? Op mijn andere blog/website [Desynt](https://desynt.io) vind je info en guides.
-
-![NFT training](/images/migrated/Future-proof-Business-1-e1645006633208.webp "NFT training")
-
-#### Als bedrijf aan de slag met NFTs?
-
-Ga jarenlang experimenteren OF leer met de NFT In-Company training binnen één dag alles wat je nodig hebt. Wij maken bedrijven Web 3.0 ready!
-
-[NFT In-Company](https://desynt.io/nft-incompany/)
-
-## 5. Conclusie NFT’s
-
-Voor wie nieuw is in de NFT game voelt het allemaal wat overweldigend. Logisch ook, het is allemaal volledig nieuw, maar dat geeft je gelijk **een groot voordeel**!
-
-Wanneer ik nu aan iemand uitleg dat ik een eigen **NFT project** ben begonnen snappen ze er vaak helemaal niets van. Ik moet dan zelfs nog uitleggen [wat een blockchain is](/blog/web3/handelen-in-crypto-valuta/). Het ding is; dat maakt niet uit. Hoe het er nu naar uit ziet zijn de NFT’s er om te blijven en zullen deze net als de Bitcoin vroeg of laat omarmd worden. **Nu op deze trend meeliften is dan ook een beetje alsof je Bitcoin kocht in 2012**.
-
-Daarbij komt dat je het natuurlijk ook niet binnen één keer hoeft te begrijpen. Koop gewoon eens een goedkope NFT en kijk hoe het allemaal in zijn werk gaat. Zo leer je het snelst! Of volg net als ik [deze training van Mitchel van Duuren](/go/nft-secrets). Zo voorkom je beginnersfouten.
-
-**Succes met jouw NFT avontuur!**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>

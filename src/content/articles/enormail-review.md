@@ -1,8 +1,8 @@
 ---
-title: "Enormail – Nuttige e-mail marketing software? [Review]"
-description: "Ik maak al jaren gebruik van Enormail en ben er razend enthousiast over. Vandaar dat het tijd werd voor een review over deze e-mail marketing software…"
+title: "Enormail review [2026] – Nederlandse e-mailmarketing voor €15 per maand"
+description: "Enormail review 2026: prijzen (€15 of €12,50 per maand), functies, AI-integratie, vergelijking met Mailchimp en mijn ervaring na jaren mailen met Enormail."
 date: 2019-09-26
-updated: 2023-01-03
+updated: 2026-09-20
 category: "review"
 slug: "enormail-review"
 lang: "nl"
@@ -10,210 +10,180 @@ draft: false
 featuredImage: "/images/headers/enormail-review.webp"
 ---
 
-Ik maak al jaren gebruik van **Enormail** en ben er razend enthousiast over. Vandaar dat het tijd werd voor een **review over deze e-mail marketing software**. Enormail heeft mij namelijk geholpen om een grote following op te bouwen met mijn bedrijf [De Moderne Nomaden](/) en genereert op de automatische piloot inkomsten.
+**Enormail was jarenlang mijn e-mailmarketingsoftware**, en het is de tool waarmee ik de mailinglijst van De Moderne Nomaden opbouwde tot duizenden lezers, terwijl de mails op de automatische piloot verkochten. Tijd dus voor een eerlijke, bijgewerkte **review van Enormail**.
 
-In deze review over Enormail ga ik in op waarom ik het programma gebruik, de tips, de tops en waarom ik het aan zou raden. Ook leg ik uit hoe je zelf succesvol met Enormail aan de slag kunt gaan.
+In deze review lees je wat Enormail in 2026 kost (de prijzen zijn op 20 september 2026 op enormail.eu gecontroleerd), welke functies het verschil maken, hoe het zich verhoudt tot Mailchimp, wat de nadelen zijn en hoe je in drie stappen je eerste mailing verstuurt. Er is sinds mijn eerste versie van dit artikel het nodige veranderd: Enormail heeft er landingspagina's, tags en een AI-integratie bij gekregen, Mailchimp heeft zijn gratis plan gehalveerd, en mijn eigen [gratis boek](/boek/) kun je tegenwoordig direct downloaden zonder e-mailadres. Waarom ik dat laatste deed, lees je ook.
 
-**[› Zelf beginnen met Enormail](/go/enormail)**
+**[› Zelf beginnen met Enormail (30 dagen gratis)](/go/enormail)**
 
 ## Wat is Enormail?
 
-**Enormail is e-mail marketing software**; met de software kun je mails versturen naar mensen. Daarmee bedoel ik niet zomaar mails. Je kunt ze automatiseren voor mensen die zich bijvoorbeeld inschrijven op je nieuwsbrief. Handig is dat Enormail zelf steeds tips geeft om de mails beter te maken en je zo dus converterend kunt gaan schrijven. De mails moeten immers wat opleveren.
+**Enormail is Nederlandse e-mailmarketingsoftware.** Je verstuurt er nieuwsbrieven mee, maar het echte werk zit in de automatisering: iemand schrijft zich in via een formulier op je site, komt in een mailinglijst en krijgt daarna automatisch een reeks mails (de **autoresponder**). Jij typt de mails één keer; Enormail verstuurt ze op de goede dag aan de goede persoon.
 
-Behalve voor mailings en het beheren van contacten heeft Enormail sinds 2019 ook een functie om formulieren te maken. Normaal moest je mensen via bijvoorbeeld Contact Form 7 (bij WordPress) zich laten inschrijven voor je nieuwsbrief of mailinglijst.
+Wat je in 2026 bij Enormail vindt:
 
-Inmiddels heeft Enormail zelf een functie om opt-in pagina’s en formulieren te maken. Mensen laten daar hun e-mail achter en komen automatisch in jouw [mailinglijst](/blog/ondernemen/leads-genereren-mailinglijst/). Vervolgens kun je ze geautomatiseerd e-mails laten verzenden via een autoresponder. Je hoeft de mails alleen nog maar zelf te typen ?.
+*   Nieuwsbrieven met een drag-and-drop-editor en 100+ sjablonen, of juist als 'gewone' tekstmail
+*   Een autoresponder voor geautomatiseerde e-mailfunnels
+*   Opt-in formulieren en eenvoudige landingspagina's om inschrijvingen binnen te halen
+*   Mailinglijsten, segmenten en tags, met automatisch verplaatsen van contacten
+*   Lees- en klikrapportages, tot op de persoon
+*   Aangepaste DKIM (domeinauthenticatie), zodat je mails uit de spambox blijven
+*   Een AI-integratie (ChatGPT) voor het schrijven van teksten
+*   Koppelingen met andere software en verzenden zonder Enormail-logo
 
-![Enormail opt in formulier](/images/migrated/enormail-opt-in-formulier-1.webp "enormail-opt-in-formulier")
+Enormail is een Nederlands bedrijf, de data van jou en je contacten blijft in Nederland (AVG-proof), de software is in het Nederlands (en Engels) en de support ook. Ruim 1.500 ondernemers gebruiken het volgens Enormail zelf, dat zijn klanten naar eigen zeggen een gemiddelde van 8,6 geven.
 
-## Waarvoor gebruik je Enormail?
+![Een rode brievenbus op een paal waaruit een stroom enveloppen naar een open laptop vliegt](/images/spots/enormail-brievenbus.webp "E-mailmarketing: één keer schrijven, automatisch versturen")
 
-Enormail kun je gebruiken wanneer je werkelijk alles rondom mailings wilt gaan automatiseren. Op mijn website melden maandelijks zo’n 2000 mensen zich aan op mijn mailinglijst. Dat doen zij door een van mijn gratis e-books te downloaden ([deze bijvoorbeeld](/boek/)). Zij komen dan terecht in een funnel met daarin 30 mailtjes die verspreid over 150 dagen worden verstuurd. In de meeste van die mails geef ik gratis content, in andere promoot ik een van mijn trainingen. De mailings van Enormail verkopen dus letterlijk voor mij zonder dat ik er zelf actief tussen hoef te zitten.
+## Waarvoor ik Enormail gebruikte
 
-Ook kun je Enormail gebruiken om je mailinglijst te segmenteren zodat iedereen de mail ontvangt die voor hem of haar het meest relevant is. Achteraf heb je daarbij altijd een enorme berg statistiek om uit op te maken hoe geslaagd een mailing is geweest.
+Tussen 2019 en 2023 meldden zich maandelijks zo'n 2.000 mensen aan op mijn mailinglijst. Dat deden ze door een van mijn gratis e-books te downloaden. Daarna kwamen ze in een funnel van dertig mails, verspreid over 150 dagen. In de meeste mails gaf ik gratis content, in een paar promootte ik een training of een affiliateproduct. Die mails verkochten letterlijk voor mij zonder dat ik ertussen zat: een van de weinige vormen van [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/) die echt zo werkt.
 
-Zie bijvoorbeeld hieronder de statistiek van een [acquisitie mail](/blog/ondernemen/acquisitie-mail-voorbeeld1/) die ik voor een van mijn klanten had opgesteld. Die statistiek vinden mijn klanten geweldig en is enorm handig ter optimalisatie. Zo zet ik altijd onderaan mijn mail een link naar een webpagina of artikel. Met Enormail kan ik zien of mensen daarop hebben geklikt, en zelfs wie daarop heeft geklikt. Interessante informatie voor verdere opvolging dus ?.
+Daarnaast schreef ik jarenlang [acquisitiemails](/blog/ondernemen/acquisitie-mail-voorbeeld1/) voor bedrijven, en die verstuurde ik via Enormail. De statistiek daarvan vonden mijn klanten geweldig: je ziet niet alleen hoeveel mensen openen en klikken, maar ook wíe, en dat is precies de lijst die je daarna belt. Hieronder de resultaten van zo'n mailing uit 2019.
 
-![Resultaten mailing enormail](/images/migrated/resultaten-mailing-enormail.webp "resultaten-mailing-enormail")
+![Resultaten van een acquisitiemailing in Enormail](/images/migrated/resultaten-mailing-enormail.webp "Statistiek van een acquisitiemailing voor een klant, 2019")
+
+Tegenwoordig ziet mijn werk er anders uit: ik geef [AI-workshops](/ai-workshops/) aan bedrijven en mijn boek is een gratis download zonder inschrijving. Dat was een bewuste keuze: ik wilde geen drempel meer tussen de lezer en het boek. Maar voor iedere ondernemer die klanten wil laten terugkomen, is een mailinglijst nog steeds het meest waardevolle bezit dat je online hebt. Een algoritme van Instagram kun je niet bezitten; een lijst met e-mailadressen wel.
 
 <aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
-## Enormail vs. Mailchimp
+## Prijzen van Enormail in 2026
 
-Eerlijkheid gebied te zeggen dat Enormail de eerste **e-mail marketing software** was waarmee ik in aanraking kwam. Echt een afweging heb ik dus niet gemaakt toen ik voor hun koos.
+Enormail heeft twee pakketten. Je betaalt per aantal contacten, niet per mailing: versturen is onbeperkt (op basis van fair use), en uitgeschreven of dubbele contacten tellen niet mee. Dit zijn de prijzen op 20 september 2026, per maand en exclusief 21% btw.
 
-Nu, een paar jaar later heb ik ook ervaring met Mailchimp, de directe concurrent zou je kunnen zeggen. Maar waar ik bij Mailchimp constant in moeilijkheden zit, gaan dingen bij Enormail juist erg vlekkeloos. Daarbij is Enormail een **Nederlands bedrijf** en kun je daardoor rekenen op een soepele Nederlandse klantenservice.
+| Pakket | Per maand | Bij jaarbetaling | Contacten | Extra ten opzichte van het kleinere pakket |
+|---|---|---|---|---|
+| Sumo | €15 | €12,50 (twee maanden gratis) | Tot 2.500 | Alle basisfuncties: autoresponder, formulieren, landingspagina's, tags, rapportages, DKIM, AI-integratie |
+| Mammoet | €45 (actieprijs, normaal €60) | €37,50 | Tot 10.000 | Meerdere accounts en gebruikers, extra velden, sjabloonprofielen, pop-upformulieren, opt-in links, beeldbank met 800.000+ foto's |
 
-Voor een van mijn klanten werk ik wel met Mailchimp maar het valt ons op dat wanneer je bedrijf groeit, Mailchimp een stuk duurder is dan Enormail. Als instapper lijkt Mailchimp voordeliger, maar als je groeit loop je al snel tegen je contacten limiet aan waardoor je meer moet gaan betalen.
+Meer dan 150.000 contacten? Dan maak je een afspraak op maat. Beide pakketten probeer je **30 dagen gratis** in de meest uitgebreide versie, zonder betaalgegevens, en je kunt maandelijks opzeggen.
 
-## Beste functies van Enormail
+De korting van 25% op Mammoet noemt Enormail 'lifetime': de prijs blijft €45 zolang je klant bent. Vroeger schreef ik hier dat ik die korting persoonlijk kon regelen; dat is niet meer nodig, iedereen krijgt hem.
 
-Dan zijn er nog een paar functies binnen Enormail waar ik echt laaiend enthousiast over ben. Dingen die de conversie van mijn mails en mijn klanten enorm verhogen.
+### Enormail vergeleken met Mailchimp
 
-**De follow-up functie** is er zo een. Die zorgt ervoor dat je een mail nog een keer kunt verzenden naar mensen die de eerste mail niet hebben geopend. Dit doe je dan bijvoorbeeld met een andere titel en hoppa, er zijn weer nieuwe mensen die de mail openen zonder dat ze het gevoel hebben gespamd te worden. Ideaal om nog even een beetje conversie erbij te smokkelen. Het is een functie waar ik mijn acquisitie klanten ook enorm enthousiast mee maak. Velen begrijpen niet eens dat dat kan, zo’n follow-up.
+Mailchimp is de internationale marktleider, en ik heb er voor klanten mee gewerkt. Het grootste verschil zit in de prijs zodra je lijst groeit. Dit zijn de maandprijzen op 20 september 2026 (Enormail in euro's exclusief btw, Mailchimp in dollars volgens zijn eigen prijspagina en een prijsanalyse van maart 2026):
 
-> Ik verdien mijn geld voor een groot deel met [het schrijven van acquisitie mails](/blog/ondernemen/acquisitie-mail-voorbeeld1/) voor bedrijven. Dan is _het belangrijk dat je aan het bedrijf het effect van een mail aan kunt tonen en het effect kunt maximaliseren._
+| Aantal contacten | Enormail | Mailchimp Essentials | Mailchimp Standard |
+|---|---|---|---|
+| 250 | €15 | Gratis (max. 500 mails per maand) | – |
+| 500 | €15 | $13 | $20 |
+| 2.500 | €15 | $45 | $60 |
+| 5.000 | €45 | $75 | $100 |
+| 10.000 | €45 | $110 | $135 |
 
-Dan heb je ook nog de opt-in functie die ik eerder al besprak. Deze is zo gemaakt dat je **eenvoudig** met drag en drop een eigen opt-in formulier kunt aanmaken. Ideaal, want normaal heb je hier een derde betaalde plugin voor nodig en moet je moeilijk doen met koppelingen.
+Het gratis plan van Mailchimp is sinds februari 2026 gehalveerd naar 250 contacten en 500 mails per maand; dat is genoeg om te proberen, niet om mee te werken. Vanaf een paar honderd contacten is Enormail goedkoper, en bij 2.500 contacten betaal je bij Mailchimp drie tot vier keer zoveel. Daar staat tegenover dat Mailchimp meer koppelingen heeft met internationale tools. Daarover verderop meer.
 
-Nu is dat allemaal al voor je geregeld en kan zelfs **iemand zonder technische kennis** dit in elkaar zetten. Onderstaande is zo’n formulier welke ik meer op deze website gebruik en deze heeft een prima opt-in rate!
+## Wat levert een mailinglijst op?
 
-Tot slot hebben ze ook nog koppelingen met Facebook Lead Ads mocht je daar gebruik van willen maken. Alles om het jou zo simpel mogelijk te maken.
+Voordat je €15 per maand uitgeeft, wil je weten wat een lijst je kan opleveren. Vul je eigen cijfers in. Weet je ze nog niet? Een openratio van 30 tot 40% en een klikratio van een paar procent zijn voor een eigen, warme lijst normaal; bij een gekochte lijst mag je daar niet van uitgaan (en die moet je sowieso niet willen).
 
-## Nieuwe functies Enormail in 2023
+<div class="tool not-prose" id="enormail-calc">
+<p class="tool__title">Reken uit wat een mailing je oplevert</p>
+<p class="tool__intro">Vul je eigen cijfers in; de uitkomst en de Enormail-kosten rekenen direct mee.</p>
+<div class="tool__grid">
+<label class="tool__field">Contacten op je lijst<input class="tool__input" id="enormail-contacts" type="number" min="0" step="100" value="2000"></label>
+<label class="tool__field">Mailings per maand<input class="tool__input" id="enormail-freq" type="number" min="0" step="1" value="2"></label>
+<label class="tool__field">Openratio (%)<input class="tool__input" id="enormail-open" type="number" min="0" max="100" step="1" value="35"></label>
+<label class="tool__field">Klikratio van de openers (%)<input class="tool__input" id="enormail-click" type="number" min="0" max="100" step="0.5" value="8"></label>
+<label class="tool__field">Conversie van de klikkers (%)<input class="tool__input" id="enormail-conv" type="number" min="0" max="100" step="0.5" value="3"></label>
+<label class="tool__field">Gemiddelde orderwaarde (€)<input class="tool__input" id="enormail-order" type="number" min="0" step="5" value="49"></label>
+</div>
+<div class="tool__results">
+<div class="tool__result"><p class="tool__label">Kliks per mailing</p><p class="tool__value" id="enormail-out-clicks">56</p><p class="tool__sub">mensen die op je link klikken</p></div>
+<div class="tool__result"><p class="tool__label">Omzet per mailing</p><p class="tool__value" id="enormail-out-mailing">€ 82</p><p class="tool__sub">bij deze cijfers</p></div>
+<div class="tool__result"><p class="tool__label">Omzet per maand</p><p class="tool__value" id="enormail-out-month">€ 165</p><p class="tool__sub">alle mailings bij elkaar</p></div>
+<div class="tool__result"><p class="tool__label">Enormail per maand</p><p class="tool__value" id="enormail-out-cost">€ 15</p><p class="tool__sub" id="enormail-out-plan">Sumo, tot 2.500 contacten, excl. btw</p></div>
+</div>
+<p class="tool__note">Rekenvoorbeeld, geen belofte. Enormail-prijzen van 20 september 2026 bij maandbetaling; boven de 150.000 contacten geldt een prijs op maat.</p>
+</div>
 
-De e-mail marketing software zit niet stil. Gelukkig. Er worden **constant nieuwe functionaliteiten aan Enormail toegevoegd**. Zo werd er een update gedaan met het inplannen van de autoresponder. Nu kun je een geautomatiseerde e-mail op een specifieke dag en tijdstip inplannen, ongeacht het moment dat iemand zich inschrijft.
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var nl = function (n) { return '€ ' + new Intl.NumberFormat('nl-NL', { maximumFractionDigits: 0 }).format(n); };
+  function calc() {
+    var c = +$('enormail-contacts').value || 0, f = +$('enormail-freq').value || 0;
+    var o = (+$('enormail-open').value || 0) / 100, k = (+$('enormail-click').value || 0) / 100;
+    var v = (+$('enormail-conv').value || 0) / 100, w = +$('enormail-order').value || 0;
+    var clicks = c * o * k, mailing = clicks * v * w;
+    $('enormail-out-clicks').textContent = new Intl.NumberFormat('nl-NL', { maximumFractionDigits: 0 }).format(clicks);
+    $('enormail-out-mailing').textContent = nl(mailing);
+    $('enormail-out-month').textContent = nl(mailing * f);
+    if (c <= 2500) { $('enormail-out-cost').textContent = '€ 15'; $('enormail-out-plan').textContent = 'Sumo, tot 2.500 contacten, excl. btw'; }
+    else if (c <= 10000) { $('enormail-out-cost').textContent = '€ 45'; $('enormail-out-plan').textContent = 'Mammoet, tot 10.000 contacten, excl. btw'; }
+    else if (c <= 150000) { $('enormail-out-cost').textContent = 'Zie site'; $('enormail-out-plan').textContent = 'boven 10.000 contacten: prijs op enormail.eu'; }
+    else { $('enormail-out-cost').textContent = 'Op maat'; $('enormail-out-plan').textContent = 'boven 150.000 contacten: prijs op aanvraag'; }
+  }
+  ['enormail-contacts', 'enormail-freq', 'enormail-open', 'enormail-click', 'enormail-conv', 'enormail-order'].forEach(function (id) { $(id).addEventListener('input', calc); });
+  calc();
+})();
+</script>
 
-Handig als je ervoor wilt kiezen om bijvoorbeeld alleen op zondag te mailen. Deze mogelijkheid was er al wel als je zelf de mails inplande, maar het gaat hier dus specifiek om geautomatiseerde (autoresponder) mails.
+Zie je dat een lijst van 2.000 mensen met bescheiden cijfers al een veelvoud van de abonnementskosten oplevert? Dat is waarom ik e-mail altijd boven social media heb gezet.
 
-> Van deze nieuwe functie maak ik dankbaar gebruik. In het verleden kreeg ik namelijk de heel week antwoorden op mijn geautomatiseerde mails en dat zorgde voor wat chaos. Tegenwoordig is dinsdag mijn maildag. Alles gaat er dan uit, zodat ik weet dat ik in de avond even kan gaan zitten om alle antwoorden op die mails te beantwoorden.
+## De functies die het verschil maken
 
-Ook zijn er mogelijkheden bijgekomen waarmee je tags kunt geven aan gebruikers die bijvoorbeeld op een link in de mail klikken. Hen kun je dan automatisch overplaatsen naar een andere mailinglijst.
+Een paar functies waar ik echt enthousiast over was, omdat ze de conversie van mijn mails (en die van mijn klanten) direct verhoogden.
 
-Handig als je een lezer specifieke content wilt verzenden. Veel bedrijven hebben namelijk meerdere doelgroepen. Op deze manier kun je hen in de mailinglijst filteren zodat je daadwerkelijk dat stuurt wat aansluit. Geen mailtjes over vrouwenschoenen aan mannen dus ;).
+**De follow-up naar niet-openers.** Je verstuurt een mail nog een keer, alleen naar de mensen die de eerste niet hebben geopend, met een andere onderwerpregel. Hoppa: een tweede lading openers zonder dat iemand zich gespamd voelt. Veel klanten wisten niet eens dat dat kon.
 
-**[Is Enormail het programma voor jou? Je meld je hier eenvoudig aan voor een gratis proefperiode.](/go/enormail)**
+**De autoresponder op een vaste dag.** Een geautomatiseerde mail hoeft niet precies drie dagen na inschrijving te vertrekken; je kunt hem op een vaste dag en tijd laten versturen. Zo werd dinsdag mijn maildag: alles ging er die dag uit, en 's avonds beantwoordde ik in één keer alle reacties in plaats van de hele week door.
 
-## De domeinauthentificatie bij Enormail
+![Een wandkalender met één weekdag omcirkeld en een envelop erop geprikt, een mok ernaast](/images/spots/enormail-agenda.webp "Eén vaste maildag: alle mails eruit, alle antwoorden in één avond")
 
-Wellicht het laatste waar je aan denkt, maar niet zo onbelangrijk dat je het zou mogen vergeten; **domeinauthenticatie**. Even kort over wat dit inhoud…
+**Tags en automatisch verplaatsen.** Klikt iemand op een link over onderwerp A, dan krijgt hij een tag en verhuist hij automatisch naar de lijst voor onderwerp A. Zo stuur je iedereen wat bij hem past. Geen mailtjes over damesschoenen naar mannen dus.
 
-Domeinauthenticatie is een techniek die helpt om te verifiëren of een verzonden mail ook daadwerkelijk werd verzonden door de afzender. Het authenticeren van de Enormail servers om e-mail te verzenden uit jouw naam helpt om je mail uit de spambox te houden.
+**Opt-in formulieren en landingspagina's.** Vroeger had je hiervoor een aparte betaalde plug-in nodig plus een koppeling; nu sleep je een formulier in elkaar binnen Enormail en zet je het op je site of op een eigen landingspagina. Ook zonder technische kennis.
 
-Bij Enormail kun je dit **eenvoudig** regelen (wellicht met een klein helpend handje van de webbouwer). Het werkt zeer bevorderend om uit de spambox te blijven.
+**Domeinauthenticatie (DKIM).** Klinkt saai, is essentieel. Je vertelt de wereld dat de servers van Enormail namens jouw domein mogen mailen, en daarmee blijf je uit de spambox. Bij Enormail stel je dit in via je account, eventueel met een klein helpend handje van je webbouwer.
 
-![Domein authentificatie enormail](/images/migrated/domein-authentificatie-enormail.webp "domein-authentificatie-enormail")
+**AI-integratie.** Nieuw sinds mijn vorige versie van deze review: in de editor kun je ChatGPT teksten laten schrijven of herschrijven. Handig voor onderwerpregels; je eigen verhaal blijft het werk van jou.
+
+![Een rij enveloppen die op gekleurde labels in drie bakjes worden gesorteerd, één envelop nog in de lucht](/images/spots/enormail-labels.webp "Tags: iedereen krijgt de mail die bij hem past")
 
 ## Nadelen van Enormail
 
-Als marketeer ondervind ik ook een nadeel van Enormail. Omdat het een Nederlands bedrijf is, is het niet de eerste synchronisatie die (internationale) marketing plug-ins zullen hebben. Zo heb ik op een website van een klant van mij een Opt-in Wheel staan. Een marketing tooltje. Deze kan echter alleen gekoppeld worden aan Mailchimp omdat dat de internationale marktleider is. Best wel jammer dus, maar daar valt nog omheen te werken, vandaar ik nog steeds bij Enormail klant ben, **het is gewoonweg goedkoper, Nederlands en bruikbaarder.**
+Ik zou geen eerlijke review schrijven zonder de mindere kanten.
 
-## Integraties Enormail
+**Koppelingen met internationale tools.** Omdat Enormail Nederlands is, is het niet de eerste integratie die een internationale marketingplug-in inbouwt. Zo had een klant van mij een 'opt-in wheel' op zijn webshop die alleen aan Mailchimp te koppelen was. Enormail heeft eigen koppelingen met een reeks tools, en daaromheen werk je met een export of een tussenstap. Meestal lukt het, soms is het omslachtig.
 
-Die koppeling met mijn Opt-in wheel zit er dus niet in. Tegelijk zijn er wel veel integraties die Enormail al standaard heeft ingebouwd. Sowieso kun je andere apps of plug-ins koppelen via een webhook. Dat is een relatief simpele manier om te koppelen wat je maar wilt.
+**Het design.** De editor is prima, maar wie de meest gelikte, pixel-perfecte nieuwsbrieven wil, vindt bij Mailchimp meer sjablonen en opties. Zelf verstuurde ik mijn mails juist als gewone tekstmail: die komen beter aan en voelen persoonlijker.
 
-Ook buiten webhooks heeft Enormail een aantal directe koppelingen waar je **0,0% technische kennis voor nodig hebt**. In dat lijstje vind je onder andere 123 Contactform, WordPress, WishList, Facebook (lead forms), Huddle, Phoenix, Magento en het welbekende Zapier.
+**Geen gratis plan.** Mailchimp heeft er een (klein), Enormail niet. Wel 30 dagen gratis proberen.
 
-**Met die laatste kun je [jouw Enormail account](/go/enormail) koppelen aan letterlijk alle apps op het internet. Daar geen zorgen over dus ;).**
+Voor mij wogen die nadelen nooit op tegen de voordelen: goedkoper, Nederlands en in de praktijk simpelweg bruikbaarder. Zoek je een uitgebreidere marketingtool met CRM-functies, lees dan mijn [ActiveCampaign review](/blog/review/activecampaign-review/), waarin ik beide vergelijk.
 
-## Speciale aanbieding review Enormail
+**[Is Enormail het programma voor jou? Meld je hier aan voor de gratis proefperiode van 30 dagen.](/go/enormail)**
 
-Omdat ik zelf klant ben van Enormail kan ik jou de pakketten die zij hebben met korting aanbieden. Zo is het Mammoet account dat zij hebben normaal 60,- euro per maand, maar kan ik dit aanbieden voor 45,- euro per maand zolang je lid bent ?. Wees dus geen dief van je eigen portemonnee. Gebruik maken van die korting kan door [hier te klikken](/go/enormail).
+## Aan de slag met Enormail in drie stappen
 
-Er is ook een goedkopere variant, maar daarmee kun je maar 2500 contacten hebben. Voor een beetje een bedrijf is dat al snel veel te weinig. Zeker wanneer je gebruik gaat maken van de opt-in formulieren.
+Oké, stel je hebt een Enormail-account aangemaakt ([met 30 dagen gratis proefversie](/go/enormail)). Dan is het nu tijd om het goed in te stellen en je eerste mail te versturen. Drie stappen.
 
-## Aan de slag met Enormail
+### Stap 1: afzenderadres toevoegen
 
-Oké, stel je hebt een Enormail account aangemaakt ([met 30 dagen gratis proefversie](/go/enormail))… Dan is het nu tijd om jouw account op de juiste manier in te stellen en mailcontacten te verkrijgen.
+Je mailt via de servers van Enormail, maar voor je ontvangers komt de mail van jou. Ga rechtsboven naar je account, kies 'mijn afzenderadressen' en voeg het e-mailadres toe waarvandaan je wilt mailen. Dit is ook het adres waarop je antwoorden binnenkrijgt. Je ontvangt een verificatiemail; klik op de link en je adres is goedgekeurd. Regel in dezelfde omgeving direct de domeinauthenticatie (DKIM), zodat je mails niet in de spambox belanden.
 
-## Stap 1: Afzender e-mail adres toevoegen
+### Stap 2: contacten toevoegen
 
-De eerste stap om te nemen is het toevoegen van een afzender e-mail adres. Dit is het e-mail adres vanuit waar je jouw contacten wilt gaan mailen. Je mailt immers wel via de Enormail server, maar **voor ontvangers van de mail zal het overkomen alsof jij de mail direct aan hen verzonden hebt**.
+Ga in het hoofdmenu naar 'contacten' en maak een nieuwe mailinglijst aan; de naam is alleen voor jou zichtbaar. Heb je al adressen, bijvoorbeeld in Excel? Sla het bestand op als CSV en kies bij je lijst voor 'importeren'. Enormail koppelt de kolommen (e-mail aan e-mail, naam aan naam) en je lijst staat klaar. Let op: je mag alleen mensen importeren die toestemming hebben gegeven om mail van je te ontvangen. Nieuwe inschrijvingen haal je daarna binnen met een opt-in formulier op je site.
 
-Ga als je bent ingelogd, rechts bovenin je scherm naar jouw account, beweeg je muis erover en klik op **account**.
+### Stap 3: je eerste mailing versturen
 
-![Mijn account enormail](/images/migrated/mijn-account-enormail.webp "mijn-account-enormail")
+Ga naar 'mailingen' en kies 'nieuwe mailing'. Je hebt de keuze tussen een standaardmailing (tekst, lijkt op een gewone mail) en de designer (opgemaakt). Ik koos bijna altijd de standaardmailing: die belandt minder snel in de spambox en voelt niet als een advertentie.
 
-Je komt nu in jouw accountomgeving terecht. Klik daar op **mijn afzender adressen**.
+Daarna loop je zeven velden door: onderwerpregel (kort, geen advertentietaal), de mail zelf (met `{%name%}` zet je automatisch de voornaam in de tekst), statistieken aan (standaard), afzender kiezen, een testmail naar jezelf sturen (check de links!), de mailinglijst selecteren en eventueel contacten uitsluiten. Klik op opslaan, kies 'nu versturen' of plan een moment, en je eerste mail is onderweg.
 
-![Account enormail](/images/migrated/account-enormail.webp "account-enormail")
-
-Nu kun je onderaan de pagina een e-mail adres toevoegen. **Vul daar het e-mail adres in van waaruit jij e-mails wilt gaan verzenden** richting jouw contacten. Dit is dus ook het e-mail adres waarop je zelf mails terugkrijgt als mensen ‘antwoorden’. Houdt er rekening mee dat je oneindig veel afzender adressen toe kunt voegen voor toekomstige campagnes.
-
-![Afzender e mail adres toevoegen enormail](/images/migrated/afzender-e-mail-adres-toevoegen-enormail.webp "afzender-e-mail-adres-toevoegen-enormail")
-
-Klik op **afzender toevoegen** en je ontvangt een mailtje van Enormail met daarin de verificatiecode/link. Volg de stappen in de mail en jouw e-mail adres is geverifieerd! Je kunt nu vanuit jouw eigen mailadres berichten versturen via Enormail!
-
-## Stap 2: Contacten toevoegen
-
-Het zou natuurlijk kunnen dat je al een hele lijst met contacten hebt. Dan kun je deze bij Enormail gemakkelijk invoegen.
-
-Allereerst zullen we daarvoor een contactenlijst aan moeten maken. Om dat te doen klik je in het hoofdmenu op **contacten**.
-
-![Contacten enormail](/images/migrated/contacten-enormail.webp "contacten-enormail")
-
-Nu zie je de verschillende mailinglijsten die je hebt. Waarschijnlijk heb je er nog geen en dus is het tijd om er een aan te maken door op **nieuwe mailinglijst** te klikken.
-
-![Contacten nieuwe mailinglijst](/images/migrated/contacten-nieuwe-mailinglijst.webp "contacten-nieuwe-mailinglijst")
-
-Bedenk een naam voor jouw mailinglijst. Wat dat is maakt niet zozeer uit, primair is deze alleen voor jou zichtbaar. De opties voor herinschrijven en notificaties maken op dit moment niet zo heel veel uit. Klik op **opslaan**.
-
-![Nieuwe mailinglijst aanmaken](/images/migrated/nieuwe-mailinglijst-aanmaken-enormail.webp "nieuwe-mailinglijst-aanmaken-enormail")
-
-Nu zie je jouw kersverse mailinglijst in je contacten staan, super!
-
-Nu is het tijd om daar ook daadwerkelijk e-mail adressen in te zetten. Wanneer je al een lijst hebt in bijvoorbeeld een Excel of Kladblok bestand kun je deze daarvoor gebruiken. Klik bij de mailinglijst op **importeren**.
-
-![Importeren contacten enormail](/images/migrated/importeren-contacten-enormail.webp "importeren-contacten-enormail")
-
-Nu wordt je gevraagd of je dit via een **CSV bestand of handmatig** wilt doen. Als je meer dan een paar contacten toe wilt voegen, dan doe je er goed aan dit via een CSV bestand te doen.
-
-**Wanneer je contacten nu in Excel staan**, open je het excel bestand en sla deze op als .CSV bestand. Daarna kun je deze uploaden bij Enormail.
-
-**Heb je al jouw contacten gewoon in een Word bestand staan?** Kopieer deze dan naar een kladblok bestand en sla deze op als bijv. ‘contacten.csv’. Wees er dan zeker van dat je bij opslaan als, ‘alle bestanden’ hebt geselecteerd om dit te laten werken. Vervolgens kun je dit bestand dan uploaden bij Enormail.
-
-![Importeren csv enormail](/images/migrated/importeren-csv-enormail.webp "importeren-csv-enormail")
-
-Nadat dit is gelukt zal Enormail de contactgegevens koppelen (e-mail aan e-mail) en je vragen of je meer gegevens wilt koppelen. Kijk hier zelf even wat je allemaal nodig hebt.
-
-**Daarna is jouw e-mail lijst klaar om te gebruiken!** Je kunt nu e-mails gaan verzenden naar jouw nieuwe contacten.
-
-## Stap 3: Jouw eerste mail verzenden
-
-Nu is het tijd om jouw eerste e-mail te gaan verzenden of in te plannen. Ga hiervoor naar **mailingen** in het hoofdmenu en klik op **nieuwe mailing**.
-
-![Standaard mailing enormail](/images/migrated/standaard-mailing-enormail.webp "standaard-mailing-enormail")
-
-Hier kun je kiezen voor twee opties; **standaard mailing en de live designer**. In dit geval kies ik zelf vaak voor de standaard mailing omdat deze de minste kans heeft om in de spambox te belanden en daarbij ook als een natuurlijke mail overkomt op de ontvanger. Niet zo’n marketingmail die iedereen direct weg klikt.
-
-Wanneer je daarmee aan de slag gaat kom je terecht op de pagina om de mail te maken. Dat lijkt een beetje op hoe je het schrijfprogramma Word gewent bent.
-
-Ik zal je meenemen in de 7 stappen die Enormail op deze pagina heeft.
-
-**1\. Onderwerp van de mailing**
-
-Vul hier de onderwerp regel in van de mail. Houd deze kort en bondig en vermijd woorden die het als een advertentie over laten komen.
-
-**2\. Mailing opmaken**
-
-Schrijf hier de mail hoe je die in gedachten hebt. Als je bij het toevoegen van de contacten ook de namen van contacten hebt gekoppeld kun je die in de mail gebruiken door deze code toe te voegen: _{%name%}_
-
-Enormail verandert die code bij het versturen dan in de naam van jouw contactpersoon. Mocht er geen naam zijn ingevuld bij een bepaald contact, dan laten zij dit automatisch leeg.
-
-**3\. Statistieken opties**
-
-Normaal staat _Genereer Enormail statistieken_ hier automatisch ingeschakeld. Prima! Hierdoor wordt automatisch gemeten wie de mail opent en wie er op een link in de mail klikt. Handig als je wilt weten hoe jouw mail ontvangen wordt.
-
-**4\. Afzender**
-
-Selecteer hier het afzenderadres dat je in eerdere stappen hebt toegevoegd. Vul dit aan met de naam die jij wilt dat mensen zien. Waarschijnlijk is dat jouw voornaam, achternaam en bedrijfsnaam.
-
-**5\. Testmail verzenden**
-
-Even kijken of alles goed gaat. Verzend de e-mail naar een eigen e-mail adres en test of de linkjes goed werken.
-
-**6\. Contacten selecteren**
-
-Selecteer hier de mailinglijst die je in een eerdere stap al hebt aangemaakt.
-
-**7\. Contacten uitsluiten**
-
-Deze functie zal je nu waarschijnlijk niet nodig hebben, maar kan handig zijn wanneer je meerdere mailinglijsten hebt opgebouwd.
-
-Tijd om op **Opslaan en doorgaan naar verzenden te klikken**. Je bent klaar om jouw eerste mail te gaan versturen.
-
-![Verzenden mailing enormail](/images/migrated/verzenden-mailing-enormail.webp "verzenden-mailing-enormail")
-
-Enormail zal je nu vragen of je de mail nu of op een later tijdstip wilt verzenden. Selecteer jouw voorkeur en hoppa, jouw mail is onderweg!
+Meer uitleg over de autoresponder en de formulieren vind je in de helpdesk van Enormail, die het zelf uitstekend uitlegt. En hoe je een lijst opbouwt waar mensen graag op staan, lees je in mijn artikel over [leads genereren met een mailinglijst](/blog/ondernemen/leads-genereren-mailinglijst/).
 
 <aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie Enormail review
 
-Oké, tot zover. Ik zou je nog tal van dingen uit kunnen leggen over de Enormail autoresponder en de formulieren voor het structureel uitbouwen van jouw contactenlijst. Het ding is alleen, dat doen zij zelf al enorm goed. Ga gewoon naar de Enormail helpdesk en vind alle info die je nodig hebt.
+Enormail is Nederlandse e-mailmarketing zonder poespas: €15 per maand (€12,50 bij jaarbetaling) voor alles wat een ondernemer met een lijst tot 2.500 contacten nodig heeft, en €45 tot 10.000 contacten. Goedkoper dan Mailchimp zodra je lijst groeit, met Nederlandse support en data die in Nederland blijft. De prijs die je ervoor betaalt: minder koppelingen met internationale tools.
 
-**[Enormail](https://enormail.eu?ref=YFhynSSLyz) is mijn favoriete e-mail marketing software en jij kunt deze [GRATIS voor 30 dagen uitproberen](/go/enormail). Niets te verliezen toch? Succes!**
+Voor de lezer van deze site, de ondernemer die klanten wil laten terugkomen zonder afhankelijk te zijn van een algoritme, is het mijn advies om gewoon te beginnen. Een lijst van duizend mensen die je zelf hebt opgebouwd, is meer waard dan tienduizend volgers die je niet kunt bereiken.
 
+**[Enormail](/go/enormail) kun je [30 dagen gratis uitproberen](/go/enormail). Niets te verliezen toch? Succes!**
 
 <aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
-

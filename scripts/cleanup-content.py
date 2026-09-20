@@ -85,6 +85,11 @@ GO_OVERRIDES = {          # affiliate targets that no longer exist (Micky, 2026-
     # NFT Secrets is gone and Micky wants no NFT programme in its place (2026-09-20): land on his own NFT article
     '/go/nft-secrets': '/blog/web3/nft-uitleg/',
     '/go/nft-secrets-gratis': '/blog/web3/nft-uitleg/',
+    # wrong or discontinued bol products (found 2026-09-20): land on a bol search with the partner tracking intact
+    '/go/the-art-of-non-conformity-boek': 'https://partner.bol.com/click/click?p=2&t=url&s=54708&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Fs%2F%3Fsearchtext%3Dthe%2Bart%2Bof%2Bnon-conformity%2Bchris%2Bguillebeau&name=The%20Art%20of%20Non-Conformity',
+    '/go/ledger-nano-s': 'https://partner.bol.com/click/click?p=2&t=url&s=54708&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Fs%2F%3Fsearchtext%3Dledger%2Bnano%2Bs%2Bplus&name=Ledger%20Nano%20S%20Plus',
+    # the old KuCoin link had become a MEXC referral; MEXC leaves NL in 2026 and KuCoin EU is MiCA-licensed
+    '/go/kucoin': 'https://www.kucoin.com/en-eu',
     # Possibol is gone (2026-09-19): both bol.com links go to Micky's Business Mine partner link (free masterclass)
     '/go/bol-com-verkopen-e-book': 'https://checkout.businessmine.co/r?id=SkAhfw5B',
     '/go/bol-com-cursus-en-coaching': 'https://checkout.businessmine.co/r?id=SkAhfw5B',

@@ -1,8 +1,8 @@
 ---
 title: "Wonen en werken in Plovdiv in Bulgarije – Tips voor de digital nomad"
-description: "Wil jij wonen en werken in Plovdiv? Dan volgt hier een lijst met tips voor de digital nomad. Bulgarije bouwt langzaam aan een mooier land. Het…"
+description: "Wonen en werken in Plovdiv als digital nomad in 2026: Bulgarije heeft nu de euro, wat een maand kost (met rekentool), coworking in Kapana en mijn tips."
 date: 2018-11-07
-updated: 2022-01-27
+updated: 2026-09-20
 category: "digitalenomaden"
 slug: "wonen-en-werken-in-plovdiv-bulgarije"
 lang: "nl"
@@ -10,82 +10,158 @@ draft: false
 featuredImage: "/images/headers/wonen-en-werken-in-plovdiv-bulgarije.webp"
 ---
 
-Wil jij wonen en werken in Plovdiv? Dan volgt hier een lijst met tips voor de [digital nomad](/blog/digitalenomaden/digital-nomad-worden/). Bulgarije bouwt langzaam aan een mooier land. Het communisme is nog merkbaar op veel plekken, maar dit trekt momenteel bij. De stad Plovdiv, de oudste stad van Europa, is erg interessant om te verblijven als digital nomad. Bulgarije is geen rijk land en gebruikt nog steeds zijn eigen munt, de Lev. Het leven is hierdoor ook goedkoop in Plovdiv en kent veel mogelijkheden.
+**Wil jij wonen en werken in Plovdiv?** Dan volgt hier mijn lijst met tips voor de [digital nomad](/blog/digitalenomaden/digital-nomad-worden/). Ik woonde er in 2018 een maand, en Plovdiv is nog steeds een van de plekken waar ik het meest over vertel. Bulgarije bouwt al jaren aan een mooier land: het communisme is op veel plekken nog zichtbaar, maar de stad trekt bij. Plovdiv is een van de oudste continu bewoonde steden van Europa (er is bewoning aangetoond vanaf zo'n 6000 voor Christus) en tegelijk een levendige studentenstad met een creatieve wijk, Kapana, waar de coworking naast de kroeg zit.
 
-Er zijn ook redelijk wat internationale zaakjes en casino’s.  Dit zorgt ervoor dat er door nog redelijk wat Bulgaren Engels wordt gesproken. Dit is veel makkelijker communiceren dan weer eens je Google Translate erbij pakken.
+Sinds mijn bezoek is er iets groots veranderd: **Bulgarije gebruikt sinds 1 januari 2026 de euro**. Mijn oude trucje "de prijs in lev delen door twee" heb je niet meer nodig, want die omrekening is nu definitief gemaakt (1 euro was 1,95583 lev). Sinds 1 januari 2025 is Bulgarije bovendien volledig Schengen, dus ook over de weg rijd je zonder grenscontrole binnen. In dit artikel lees je wat dat voor je betekent, wat een maand Plovdiv in 2026 kost (met een rekentool), waar je kunt werken en wat ik zelf het leukst vond. Ik woonde jaren als digital nomad; tegenwoordig train ik bedrijven in AI, maar de vragen over Plovdiv blijven komen.
 
-> En over het gebruik van internet gesproken. Bulgarije kent dus blijkbaar het snelste internet van Europa ;)
+> Over internet gesproken: Bulgarije stond in 2018 bekend om het snelste internet van Europa. Dat klopt in 2026 vooral voor mobiel, waar Bulgarije in de Europese top staat (Speedtest Global Index). Het vaste internet is prima (mediaan 46 Mbps download), maar niet het snelste van Europa. Voor videobellen heb je ruim genoeg.
 
-Een veelomvattende stad dus, maar hoe is het om hier te werken en te wonen als digital nomad?
+## Wat er veranderd is sinds 2018
+
+<ol class="timeline not-prose">
+<li class="timeline__item"><span class="timeline__num">1</span><p class="timeline__year">2007</p><p class="timeline__title">Bulgarije wordt EU-lid</p><p class="timeline__text">Als Nederlander reis je sindsdien met je ID-kaart naar Plovdiv en mag je er onbeperkt blijven.</p></li>
+<li class="timeline__item"><span class="timeline__num">2</span><p class="timeline__year">2018</p><p class="timeline__title">Mijn maand in Plovdiv</p><p class="timeline__text">Ik betaal 330 euro voor een Airbnb-appartement, reken alles om van lev naar euro en werk vanuit kroegjes met snelle wifi.</p></li>
+<li class="timeline__item"><span class="timeline__num">3</span><p class="timeline__year">2019</p><p class="timeline__title">Culturele Hoofdstad van Europa</p><p class="timeline__text">Plovdiv krijgt de titel, samen met Matera. Nieuwe wegen, parken en een gerestaureerd Kapana; de stad komt op de kaart.</p></li>
+<li class="timeline__item"><span class="timeline__num">4</span><p class="timeline__year">31 maart 2024</p><p class="timeline__title">Schengen via lucht en zee</p><p class="timeline__text">Vliegen naar Sofia of Plovdiv gaat voortaan zonder paspoortcontrole bij aankomst.</p></li>
+<li class="timeline__item"><span class="timeline__num">5</span><p class="timeline__year">1 januari 2025</p><p class="timeline__title">Volledig Schengen</p><p class="timeline__text">Ook de grenscontroles over land vervallen. Met de auto of bus vanuit Roemenië of Griekenland rijd je gewoon door.</p></li>
+<li class="timeline__item timeline__item--now"><span class="timeline__num">6</span><p class="timeline__year">1 januari 2026</p><p class="timeline__title">De euro</p><p class="timeline__text">De lev verdwijnt tegen 1,95583 per euro. In januari 2026 mocht je nog met lev betalen, sinds 1 februari alleen met euro's.</p></li>
+</ol>
+
+## Praktisch voor Nederlanders
+
+![Een pot oude munten wordt leeggegoten in een pot euromunten](/images/spots/plovdiv-euro-lev.webp "Van lev naar euro: sinds 1 januari 2026 hoef je niets meer om te rekenen")
+
+- **Papieren.** ID-kaart of paspoort is genoeg. Blijf je langer dan drie maanden, dan hoor je je bij de migratiedienst te registreren voor een verblijfsbewijs voor EU-burgers; dat kost volgens de EU niet meer dan wat Bulgaren voor hun ID-kaart betalen en wordt direct afgegeven.
+- **Geld.** Alles is in euro's. Pinnen en betalen met kaart kan bijna overal, maar houd wat contant geld bij je voor de markt en de koffieautomaten op straat.
+- **Ernaartoe.** Vlieg op Sofia. Vanaf daar rijden bussen (ongeveer 2 uur 20, 6 tot 12 dollar) en treinen (ongeveer 2,5 uur, 2 tot 5 dollar) naar Plovdiv, volgens Rome2Rio in september 2026. De trein is de goedkoopste optie die ik ken in Europa.
+- **Zorg en belasting.** Neem je Europese zorgpas mee en sluit een reisverzekering af. Blijf je maanden weg, lees dan eerst [hoe belasting werkt als digital nomad](/blog/digitalenomaden/digital-nomad-belasting/).
 
 ## Mensen leren kennen in Plovdiv als digital nomad
 
-Mensen leren kennen in Plovdiv is sterk afhankelijk van wie je aanspreekt. Over het algemeen zijn de mensen ontzettend behulpzaam en erg spraakzaam. Ondanks dat ze soms lange verhalen ophangen in het onverstaanbare Bulgaars. Toch is de stad vrij internationaal. Daardoor wordt er in veel gebieden ook door mensen Engels gesproken, maar daar kun je niet altijd van uitgaan.
+Mensen leren kennen in Plovdiv hangt sterk af van wie je aanspreekt. Over het algemeen zijn de mensen ontzettend behulpzaam en spraakzaam, ook al hangen ze soms lange verhalen op in het voor mij onverstaanbare Bulgaars. De stad is vrij internationaal, dus in veel buurten spreken mensen Engels, maar daar kun je niet altijd van uitgaan.
 
-> Het valt vooral in de avonden op dat er vaste plekken zijn waar Bulgaren elkaar zien. Vaak is dit een gebied vlakbij een night shop. Hierdoor kun je goedkoop iets te drinken halen en deze op straat nuttigen. Er wordt vaak gitaar gespeeld en gezongen door de locals. Dit zorgt voor een erg fijne en vertrouwde sfeer.
+> Vooral 's avonds vallen de vaste plekken op waar Bulgaren elkaar zien, vaak vlak bij een night shop. Je haalt goedkoop iets te drinken en drinkt dat op straat op. Er wordt gitaar gespeeld en gezongen door de locals. Dat zorgt voor een fijne, vertrouwde sfeer.
 
-Niet iedereen staat open om te praten met buitenlanders, maar je zult het snel genoeg merken als iemand niet met je wilt praten. Zoals ik altijd zeg, je moet gewoon genoeg mensen aanspreken om een vriendenkring op te bouwen in het buitenland. In Plovdiv was dit voor mij gelukkig geen probleem. Via via ging het op een gegeven moment enorm snel en omdat Plovdiv niet super groot is werd ik op straat steeds herkend, best grappig dus wel ;).
+Niet iedereen staat open voor buitenlanders, maar dat merk je snel genoeg. Zoals ik altijd zeg: je moet gewoon genoeg mensen aanspreken om een vriendenkring op te bouwen in het buitenland. In Plovdiv was dat voor mij geen probleem. Via via ging het op een gegeven moment enorm snel, en omdat Plovdiv niet supergroot is werd ik op straat steeds herkend. Best grappig ;)
 
 ## Werken vanuit Plovdiv als digital nomad
 
-In Plovdiv was het voor mij even zoeken naar een geschikte plek om te werken. Uiteindelijk moet je altijd wel even door een stad lopen, voordat je een geschikte werkplek hebt gevonden. Dit blijft gebaseerd op persoonlijke voorkeuren. Natuurlijk kun je ook werken vanuit je hostel of Airbnb, maar mij biedt een plek buitenshuis meer inspiratie en productiviteit.
+![Een coworkingruimte met bakstenen muren, laptops en een bar met tapkranen](/images/spots/plovdiv-kapana-cowork.webp "In Kapana zit de coworking letterlijk naast de bar")
 
-## 1. Art Cafe
+In 2018 was het voor mij even zoeken naar een geschikte werkplek. Ik werkte vanuit het Art Cafe aan de ulitsa Konstantin Stoilov, een hipsterbarretje met een ventilator tegen de zomerhitte en personeel dat je graag tips gaf over het leven in Bulgarije. Anno 2026 is het aanbod veel volwassener geworden, vooral in **Kapana**, de creatieve wijk vol galerieën, kroegjes en ateliers. Dit zijn de plekken die ik op 20 september 2026 heb gecontroleerd:
 
-Een fijne plek om te werken vond ik het Art Cafe. Dit café bevindt zich in de ul. “Konstantin Stoilov”. Het is praktisch gezien een hipster barretje. Hier kun je genieten van koffie, wat te eten en een snelle internetverbinding. In de zomer kan het wel echt heel erg warm zijn in zulke zaakjes, maar gelukkig hebben ze hier een ventilator staan. Ook de service is heel erg fijn en het personeel helpt graag met informatie, tips en adviezen te geven over het wonen en werken in Plovdiv of Bulgarije in zijn algemeen.
+| Werkplek | Wat is het | Prijs | Waar |
+|---|---|---|---|
+| Cat & Mouse Coworking | Coworking met flexibele en vaste plekken, vergaderruimte en buitenwerkplekken, naast de gelijknamige craftbierbar | € 7 per dag (LostInPlovdiv, maart 2026) | Hristo Dyukmedzhiev 14, Kapana |
+| BizLabs | Coworking in het centrum | € 7 per dag (LostInPlovdiv, maart 2026) | Centrum |
+| Basquiat Café & Bar | Kunstcafé met gele muur, goede koffie en regelmatig live muziek | prijs van je koffie | Bratya Pulevi, Kapana; dagelijks 9:00 tot 2:00 |
 
-## 2. Basquiat Café & Boutique
+**Cat & Mouse** is de plek waar ik in 2018 al kwam, toen nog vooral als de eerste craftbierbar van Plovdiv. De makers openden in Kapana een echte coworking naast de bar: snelle wifi, een minimalistisch maar stimulerend interieur en een deur verder de kroeg voor de afsluiter van je werkdag. Als je de verhalen mag geloven is het de plek waar alle creatievelingen samenkomen, en dus ideaal om je netwerk uit te breiden.
 
-Een ander heerlijk café is Basquiat Café & Boutique. Ook dit café doet er vooral toe door het gezellige interieur. De gele muur straalt warmte uit en de schilderijen geven altijd weer wat creatieve impulsen. Het café wordt door veel digital nomads online als zeer goed beoordeeld; het doet mensen denken aan [Berlijn](/blog/digitalenomaden/wonen-en-werken-in-berlijn-duitsland/), ze hebben blijkbaar ontzettend goede koffie en er zijn vaker live concertjes. Dat laatste kan dus weleens leiden tot een leuke afsluiter van de werkdag.
-
-## 3. Cat and Mouse Coworking
-
-Bij Cat and Mouse Coworking kun je iets drinken in de bar of meteen aan de slag gaan in de co-working plekken. Het interieur is minimaal, maar stimulerend ingericht. Als ik de verhalen moet geloven, is het een plek waar alle creatievelingen samenkomen. Dat is natuurlijk de ideale plek om je netwerk uit te breiden. Daarnaast is het officieel de eerste craft bier bar van Plovdiv. Dus ook zeker interessant om na het werk eens te genieten van een craft biertje.
-
-## 4. Incubator
-
-Jup, hier hebben ze ook een incubator. Een hele artistieke zelfs. De ruimte is gevuld met schilderijen en andere kunstige voorwerpen. Het is een plek speciaal ingericht voor creatieve geesten. Dus ben je werkzaam of geïnteresseerd in de creatieve industrie is dit een plek die je kan bezoeken. Een dag werken kan al vanaf ongeveer 7,50 euro.
+**Basquiat Café & Boutique** is het andere café dat er nog steeds is. De gele muur straalt warmte uit en de schilderijen geven creatieve impulsen. Digital nomads vergelijken het online met [Berlijn](/blog/digitalenomaden/wonen-en-werken-in-berlijn-duitsland/), de koffie is ontzettend goed en er zijn regelmatig live concertjes.
 
 ## Genieten van vrije tijd in Plovdiv
 
-Vrije tijd is in Plovdiv altijd te vullen. Het is een erg levendige stad, met vaak mooi weer, heerlijk eten en een rijke geschiedenis. Plovdiv is tevens de oudste stad van Europa. Hierdoor zijn overal nog restanten te vinden van zijn Romeinse verleden. Ook is het de op één na grootste stad van Bulgarije. Dat is ook duidelijk te merken door de internationale invloeden in de stad.
+Vrije tijd is in Plovdiv altijd te vullen. Het is een levendige stad met vaak mooi weer, heerlijk eten en een rijke geschiedenis. Overal vind je restanten van het Romeinse verleden, en als op één na grootste stad van Bulgarije heeft Plovdiv duidelijk internationale invloeden.
 
-> De stad wordt zelfs steeds populairder. Plovdiv mag zich in 2019 zelfs culturele hoofdstad noemen van Europa. Dit is een project waar meerdere organisaties aan werkten, zoals het Ministerie van Cultuur en de Europese Commissie. Zo hoorde ik van locals bijvoorbeeld dat er de laatste jaren ook daadwerkelijk meer en betere wegen zijn aangelegd en er parken en wijken bij zijn gebouwd.
+Een van de plekken met de rijkste geschiedenis is de **Oude Stad**. Hier kijk je naar gebouwen en straten uit de oudheid, de Romeinse tijd en de Bulgaarse renaissance. Voor de cultuurliefhebber een must.
 
-Een van de plekken met de rijkste geschiedenis is Old Town. In dit stukje van Plovdiv kun je kijken naar gebouwen en straten die afstammen uit de antieke oudheid, de Romeinse oudheid en de zogenaamde Bulgaarse renaissance. Voor de cultuurliefhebber dus eigenlijk wel een must.
+![Een antiek stenen amfitheater met podiumlicht bij schemering](/images/spots/plovdiv-romeins-theater.webp "Het Romeinse theater wordt nog steeds gebruikt, en niet alleen bezichtigd")
 
-Uitgaan kan ook zeker in deze veelzijdige stad. In het centrum zijn er clubs, pubs en barren te vinden, waar je goedkoop wat kunt drinken en heel veel gezelligheid zal meemaken. Zo staat er in het centrum bijvoorbeeld No Sense. Dit is een muziek- en sportcafé. Er hangt hier een geweldige sfeer. Zelf kwam ik constant in gesprek met mensen, die vaak ook in andere landen hebben gewoond. Ook is hier elke week een karaoke avond, waarbij mensen helemaal losgaan. Het is echt heel erg tof om te zien.
+> Kijk of er optredens gepland staan in het **Romeinse theater** van Plovdiv. Toevallig kwam ik daar in 2018 terecht voor een avond vol volksmuziek. Een unieke beleving: het is de enige keer dat ik heb gezien dat een Romeins bouwwerk gewoon nog wordt gebruikt in plaats van alleen bezichtigd. Elke zomer is er het festival **Opera Open**; in 2026 liep dat van 23 juni tot 9 september met onder andere Nabucco, Aida, Carmen en Het Zwanenmeer. Wees voorbereid: Bulgaren houden van een feestje ;)
 
-> Voor iedereen is er wel een leuk plekje te vinden. Zo kun je naar de [oudste rock bar van Plovdiv](https://www.tripadvisor.com/Attraction_Review-g295391-d12004537-Reviews-Rock_Bar-Plovdiv_Plovdiv_Province.html). Een gezellige bruine kroeg voor wie wel van wat ruigere muziek houdt. Verder zijn er genoeg clubs, zoals de nieuwe en inmiddels al welbekende Megami. Mensen zijn erg enthousiast over deze club. Ondanks de bekendheid komen er toch ook veel mensen uit Bulgarije hier om uit te gaan. Hierdoor kun je toch weer ook je lokale vriendenkring uitbreiden.
-
-Ook kun je kijken of er optredens staan gepland in het Romeinse theater in Plovdiv. Toevalligerwijs kwam ik daar terecht voor een avond vol volksmuziek. Een erg unieke beleving, het is denk ik de enige keer dat ik heb gezien dat Romeinse bouwwerken nog gewoon worden gebruikt in plaats van alleen worden bezichtigd. Maar wees voorbereid, Bulgaarse mensen houden wel van een feestje ;).
+Uitgaan kan zeker in deze veelzijdige stad. In het centrum en in Kapana vind je clubs, pubs en bars waar je goedkoop wat drinkt en veel gezelligheid meemaakt. Zelf zat ik in 2018 vaak in een muziek- en sportcafé in het centrum waar elke week een karaoke-avond was. Ik kwam er constant in gesprek met mensen die vaak ook in andere landen hadden gewoond, en de karaoke was echt tof om te zien. Voor wie van ruigere muziek houdt is er ook een bruine rockkroeg. Loop gewoon Kapana in, vraag rond en maak meteen wat vrienden along the way.
 
 ## Wonen in Plovdiv als digital nomad
 
-Zoals eerder vermeld is Bulgarije geen rijk land. De prijzen in Plovdiv zijn daarom ook qua wonen zeer voordelig. Het fijne hiervan is dat je gemakkelijk een mooi appartement of hostel kunt vinden in het centrum. Het centrum is dan ook niet erg groot, waardoor alle werkplekken en bezienswaardigheden van de stad bijna altijd op loopafstand liggen.
+De prijzen in Plovdiv zijn ook qua wonen zeer voordelig, al zijn ze sinds mijn bezoek wel gestegen. Het fijne is dat je makkelijk een mooi appartement of hostel vindt in het centrum. Dat centrum is niet groot, waardoor werkplekken en bezienswaardigheden bijna altijd op loopafstand liggen.
 
-## AirBnb
+### Airbnb en langer huren
 
-De appartementen die op Airbnb worden verhuurd zijn zeer toegankelijk voor digital nomads. Je kunt voor zo’n 15 á 25 euro per nacht een eigen appartement bemachtigen in de stad. Het fijne hiervan is nog eens dat er sommige appartementen bij staan die voor langere tijd verhuurd kunnen worden, zoals een maand of zelfs langer.
+> Voor een maand betaalde ik in 2018 zelf 330 euro via Airbnb. De locals vertelden me dat dat veel te veel was. Anno 2026 zit je daar niet ver naast: volgens LostInPlovdiv (maart 2026) huur je een appartement voor zo'n 300 tot 400 euro per maand, en Numbeo noemt gemiddeld 477 euro voor een eenkamerappartement in het centrum en 343 euro daarbuiten. Wil je langer via Airbnb huren, onderhandel dan even met de huisbaas, zeker in het laagseizoen.
 
-> Voor een maand betaalde ik zelf 330,- euro. Maar ik heb mij laten vertellen door de locals dat dat veels te veel is. Wanneer je dus voor langere tijd via Airbnb wilt huren doe je er goed aan om even te onderhandelen met de huisbaas, zeker wanneer deze maand zich in het laagseizoen bevind.
+### Hostels
 
-## Hostels
+Er zijn genoeg hostels in Plovdiv, ideaal als je interactie met andere reizigers zoekt. Ze zijn wel vaak duurder dan een goedkope Airbnb, dus eigenlijk alleen handig om mensen te leren kennen.
 
-Er zijn uiteraard ook een hoop hostels beschikbaar in Plovdiv. Zoek je een keer interactie met andere reizigers, is dit natuurlijk ideaal om mensen te leren kennen. De meeste hostels faciliteren ook nog eens in allerlei activiteiten, die soms leuke en interessante situaties teweeg brengen.
+> Zelf bracht ik een bezoekje aan **Hikers Hostel**, in de Oude Stad op de Nebet-heuvel (Saborna 53), op 200 meter van het Romeinse theater. Je bent er welkom om gewoon binnen te lopen en vrienden te maken, ook als je er niet overnacht. Dorm-bedden kosten er in 2026 zo'n 7 tot 10 euro per nacht (Hostelz), inclusief ontbijt.
 
-De hostels in Plovdiv liggen eveneens in dezelfde prijsklasse, maar vallen vaak wel duurder uit dan de Airbnb’s. Dit is eigenlijk alleen handig als je mensen wilt leren kennen. Dan betaal je ongeveer 15 tot 30 euro per nacht voor een hostel.
+## Wat kost een maand Plovdiv in 2026?
 
-> Zelf bracht ik nog een bezoekje aan Hikers Hostel. Hier ben je van harte welkom om gewoon binnen te lopen en vrienden te maken, ook wanneer je er niet overnacht.
+Eigenlijk is dit het makkelijkste stuk: de prijzen zijn laag en sinds 2026 gewoon in euro's. Koffie drink je voor een paar euro, op straat uit een automaat nog altijd voor een paar tientallen centen, en voor 8 tot 10 euro eet je buiten de deur inclusief een drankje. Uit eten is dus een prima optie, zodat jij meer tijd overhoudt voor je werk of voor de historische binnenstad. De cijfers hieronder komen van Numbeo (bijgewerkt op 18 augustus 2026, 61 bijdragers), LostInPlovdiv, Hostelz en de werkplekken hierboven. Gecontroleerd op 20 september 2026.
 
-## Prijzen in Plovdiv
+| Kostenpost | Prijs | Bron |
+|---|---|---|
+| Hostelbed | € 7 – € 10 per nacht | Hostelz |
+| Appartement per maand | € 300 – € 400 | LostInPlovdiv |
+| Eenkamerappartement, centrum | € 477 per maand | Numbeo |
+| Eenkamerappartement, buiten centrum | € 343 per maand | Numbeo |
+| Coworking, dagpas | € 7 | Cat & Mouse, BizLabs |
+| Maaltijd in een goedkoop restaurant | € 8,18 | Numbeo |
+| Cappuccino | € 2,51 | Numbeo |
+| Halve liter bier | € 2,30 | Numbeo |
+| OV-maandkaart | € 25,56 | Numbeo |
+| Internet thuis | € 13,81 per maand | Numbeo |
+| Levensonderhoud zonder huur (Numbeo-schatting) | € 628 per maand | Numbeo |
 
-Eigenlijk valt er nog maar weinig te zeggen over prijzen. De prijzen lijken hetzelfde als ons, maar de koers van de Bulgaarse Lev is zo laag, dat je de prijs gedeeld door twee moet doen. Hierdoor kun je koffie drinken voor ongeveer 50 cent of op straat uit de vele automaten voor 25 cent. Het eten is zeer voordelig, vooral buitenshuis. Voor 5 á 10 euro kun je al heerlijk genieten van avondeten en een glas drinken. Hierdoor is uit eten natuurlijk een perfecte optie en heb jij meer tijd om je werk af te krijgen voor die dag of te genieten van de historische binnenstad.
+Reken je eigen maand uit:
+
+<div class="tool not-prose" id="plovdiv-calc">
+<p class="tool__title">Reken uit wat een maand Plovdiv jou kost</p>
+<p class="tool__intro">Vul je eigen cijfers in; de uitkomst rekent direct mee.</p>
+<div class="tool__grid">
+<label class="tool__field">Nachten in Plovdiv<input class="tool__input" id="plovdiv-nights" type="number" min="1" step="1" value="30"></label>
+<label class="tool__field">Prijs per nacht (€)<input class="tool__input" id="plovdiv-night-price" type="number" min="0" step="1" value="15"></label>
+<label class="tool__field">Dagen in een coworking<input class="tool__input" id="plovdiv-cowork-days" type="number" min="0" step="1" value="10"></label>
+<label class="tool__field">Dagpas coworking (€)<input class="tool__input" id="plovdiv-cowork-price" type="number" min="0" step="1" value="7"></label>
+<label class="tool__field">Eten en drinken per dag (€)<input class="tool__input" id="plovdiv-food" type="number" min="0" step="1" value="20"></label>
+<label class="tool__field">OV per maand (€)<input class="tool__input" id="plovdiv-transport" type="number" min="0" step="0.1" value="25.56"></label>
+</div>
+<div class="tool__results">
+<div class="tool__result"><p class="tool__label">Totaal</p><p class="tool__value" id="plovdiv-total">€ 1.146</p><p class="tool__sub">voor de ingevulde periode</p></div>
+<div class="tool__result"><p class="tool__label">Per dag</p><p class="tool__value" id="plovdiv-per-day">€ 38</p><p class="tool__sub">alles bij elkaar</p></div>
+</div>
+<p class="tool__note">Rekenvoorbeeld met de gemiddelden uit de tabel, geen belofte. Uitjes, simkaart en verzekering komen er nog bij.</p>
+</div>
+
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var ids = ['plovdiv-nights', 'plovdiv-night-price', 'plovdiv-cowork-days', 'plovdiv-cowork-price', 'plovdiv-food', 'plovdiv-transport'];
+  var nl = function (n) { return '€ ' + new Intl.NumberFormat('nl-NL', { maximumFractionDigits: 0 }).format(n); };
+  function calc() {
+    var nights = +$('plovdiv-nights').value || 0, price = +$('plovdiv-night-price').value || 0;
+    var cd = +$('plovdiv-cowork-days').value || 0, cp = +$('plovdiv-cowork-price').value || 0;
+    var food = +$('plovdiv-food').value || 0, tr = +$('plovdiv-transport').value || 0;
+    var total = nights * price + cd * cp + nights * food + tr;
+    $('plovdiv-total').textContent = nl(total);
+    $('plovdiv-per-day').textContent = nl(nights ? total / nights : 0);
+  }
+  ids.forEach(function (id) { $(id).addEventListener('input', calc); });
+  calc();
+})();
+</script>
 
 ## Conclusie wonen en werken in Plovdiv als digital nomad
 
-Plovdiv heeft historie, cultuur, aangenaam eten, vaak warm weer en heel erg snel internet. Daarom zou ik je ook zeker aanraden een tijdje door te brengen in de culturele hoofdstad van Europa in 2019. De lage prijzen zorgen ervoor dat je aangenaam kunt leven, zelfs met een lager inkomen dan gemiddeld. De mensen zijn erg behulpzaam en houden ontzettend van gezelligheid. Wonen en werken in Plovdiv als digital nomad? Ik zeg, doen!
+Plovdiv heeft geschiedenis, cultuur, lekker eten, vaak warm weer en prima internet. Sinds 2026 betaal je er in euro's en reis je er zonder grenscontrole naartoe, en de prijzen zijn nog steeds een fractie van die in Nederland. Je leeft er aangenaam, zelfs met een lager inkomen dan gemiddeld. De mensen zijn behulpzaam en houden van gezelligheid. Wonen en werken in Plovdiv als digital nomad? Ik zeg: doen!
 
+## Veelgestelde vragen over Plovdiv als digital nomad
+
+### Betaal ik in Plovdiv met lev of met euro?
+
+Met euro's. Bulgarije heeft op 1 januari 2026 de euro ingevoerd tegen 1,95583 lev per euro. Sinds 1 februari 2026 is de lev geen betaalmiddel meer.
+
+### Heb ik als Nederlander iets nodig om in Bulgarije te blijven?
+
+Nee, alleen je ID-kaart of paspoort. Blijf je langer dan drie maanden, dan registreer je je bij de migratiedienst voor een verblijfsbewijs voor EU-burgers.
+
+### Wat kost een maand Plovdiv?
+
+Met een goedkoop appartement of hostel, een coworkingpas en normaal eten kom je volgens de rekentool op zo'n 1.100 tot 1.300 euro per maand. Wie zuinig leeft, kan er ver onder zitten.
+
+### Hoe kom ik in Plovdiv?
+
+Vlieg op Sofia en pak de bus (ongeveer 2 uur 20) of de trein (ongeveer 2,5 uur, een paar euro). Sinds 2025 is Bulgarije volledig Schengen, dus ook met de auto rijd je zonder grenscontrole binnen.
 
 <aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
-

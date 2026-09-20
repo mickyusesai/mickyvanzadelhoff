@@ -1,8 +1,8 @@
 ---
-title: "12x Beste VPN’s vergelijken – Betaalbare VPN’s Nederland voor 2023"
-description: "Op zoek naar de beste VPN (Virtual Private Network)?"
+title: "10x Beste VPN's vergelijken – Beste VPN voor Nederland in 2026"
+description: "Beste VPN voor Nederland in 2026: tien VPN's vergeleken op prijs, servers en privacy, met gecontroleerde prijzen, een rekenhulp en mijn eigen ervaringen."
 date: 2020-12-04
-updated: 2022-12-28
+updated: 2026-09-20
 category: "digitalenomaden"
 slug: "beste-vpn-nederland"
 lang: "nl"
@@ -10,808 +10,421 @@ draft: false
 featuredImage: "/images/headers/beste-vpn-nederland.webp"
 ---
 
-Op zoek naar de **beste VPN** (**Virtual Private Network**)?
+Op zoek naar de **beste VPN** (Virtual Private Network)? Dan ben je hier goed. Een VPN is een tool om **veilig te internetten** en **toegang te houden tot websites en apps** die in een land geblokkeerd zijn. Ik heb er jaren als digital nomad op vertrouwd, van Google Maps in China tot Booking.com in Turkije, en ook nu ik vooral in Nederland zit en bedrijven train in AI, staat hij in elk café aan.
 
-Een VPN is een tool om op een **beveiligde manier te internetten** en **toegang te krijgen tot websites en apps** die in bepaalde landen zijn afgesloten.
+In dit artikel lees je wat een VPN precies doet, wanneer je er echt een nodig hebt, waar je in 2026 op let bij het kiezen, en hoe de tien bekendste VPN's zich verhouden op prijs, servers en privacy. Alle prijzen heb ik op **20 september 2026** opnieuw bij de aanbieders zelf nagekeken. Er is veel veranderd sinds de vorige versie van dit artikel: bijna elke aanbieder werkt nu met pakketten (Basic, Plus, Ultimate), meerdere VPN's laten je een **onbeperkt aantal apparaten** verbinden, en de prijzen zijn gestegen. Met de rekenhulp verderop zie je in één oogopslag wat een VPN over jouw reisperiode kost.
 
-Zo kan het bijvoorbeeld gebeuren dat je tijdens een verblijf in China geen toegang hebt tot bekende websites en apps, omdat deze zijn geblokkeerd, zoals bijvoorbeeld Google en Youtube.
-
-Met behulp van een VPN **kun je deze blokkades omzeilen** en toch gebruikmaken van de normale internetverbinding.
-
-De VPN verzorgt een beveiligde verbinding tussen jouw apparaat en het internet, waardoor je veilig kunt internetten en toegang krijgt tot websites en apps die anders misschien niet beschikbaar zijn. In dit artikel bespreken we **de 12 beste VPN’s.** om te gebruiken in tal van verschillende situaties.
-
-**[Als beste uit onze test in 2023 komt NordVPN vanwege het aantal servers dat ze hebben op verschillende plekken, hoe compatibel deze is met streaming services, de snelheid, prijs en beveiliging. Ga naar NordVPN >>](/go/get-nordvpn)**
-
-## Redenen om een VPN te gebruiken
-
-Een VPN gebruik je vaak om **toegang te krijgen tot besloten websites** en apps. Toch zijn er ook veel andere gevallen te bedenken wanneer een VPN zinvol is.
-
-Zo laat je op het internet vaak je voetafdruk achter. Zie het als een afdruk die blijft zitten in de sneeuw wanneer je eroverheen wandelt, maar dan voor jouw internetgedrag. Met een VPN kun je **jouw privacy meer waarborgen** en op een veilige manier internetten waardoor het voor anderen onmogelijk wordt om te achterhalen wat jij op het internet hebt gedaan.
-
-![Computer VPN](/images/migrated/computer-vpn-1.webp "Computer VPN")
+**[Als beste uit mijn vergelijking komt ook in 2026 NordVPN: duizenden servers, stabiel, snel, streaming werkt, en een prijs die bij een langer abonnement nog steeds meevalt. Ga naar NordVPN >>](/go/get-nordvpn)**
 
 ## Wat is een VPN?
 
-Met een VPN kun je jouw computer of mobiele data laten verzenden terwijl jij als verzender **anoniem** blijft. Er wordt als het ware **een tunnel gecreëerd** tussen jou en de VPN server. Vanaf nu lijkt het daardoor alsof je gebruik maakt van het internet vanaf die VPN server.
+Met een VPN maakt je computer of telefoon eerst een **versleutelde tunnel** naar een server van de VPN-aanbieder. Pas vanaf die server ga je het internet op. Voor de website die je bezoekt lijkt het daardoor alsof je vanaf die server surft: zit je in China en kies je een server in Amsterdam, dan ziet het internet een Nederlander in Amsterdam.
 
-Van buitenaf is het **niet mogelijk om te achterhalen** vanwaar jij daadwerkelijk op het internet zit en hierdoor worden een hoop websites weer beschikbaar. Ook al zit je dus in China, het internet denkt juist dat je in bijvoorbeeld Londen zit, daardoor heb je **geen blokkades**.
+Twee dingen gebeuren tegelijk: je **echte locatie is verborgen** (websites zien het IP-adres van de VPN-server) en **niemand tussen jou en die server kan meelezen**, ook niet de eigenaar van het wifi-netwerk in het hostel of de internetprovider.
+
+![Een laptop op een houten tafel met een gloeiende tunnel die van de laptop naar een wereldbol loopt](/images/spots/vpn-tunnel-laptop.webp "Een VPN: een versleutelde tunnel van jouw laptop naar een server ergens anders op de wereld")
+
+Wat een VPN níet doet: je volledig anoniem maken. Je bent nog steeds ingelogd bij Google, Instagram en je bank, en die weten precies wie je bent. Een VPN beschermt de verbinding, niet je identiteit.
 
 ## Wanneer heb je een VPN nodig?
 
-Je hebt een VPN nodig in de onderstaande gevallen:
+Een VPN is handig in deze situaties:
 
-*   Je reist naar het buitenland en wilt toegang blijven houden tot alle websites.
-*   Je wilt Netflix series zien die op jouw huidige plek niet beschikbaar zijn.
-*   Je wilt apps gebruiken die in een land geblokkeerd zijn.
-*   Je voert betalingen uit en wilt er zeker van wilt zijn dat gevoelige data niet wordt onderschept.
-*   Je werkt online via publieke Wifi en wilt niet dat anderen toegang hebben tot jouw data.
-*   Je werkt via een privé netwerk en wilt voorkomen dat de internetprovider mee kan kijken.
-*   Je wilt het lekken van jouw persoonlijke gegevens voorkomen.
+*   Je reist naar een land waar websites of apps geblokkeerd zijn en wilt gewoon je werk kunnen doen.
+*   Je wilt series kijken die op jouw locatie niet in Netflix, Disney+ of NPO Start staan.
+*   Je werkt op **publieke wifi** (café, hostel, luchthaven, trein) en wilt niet dat iemand op hetzelfde netwerk meekijkt.
+*   Je boekt of betaalt online en wilt niet dat gevoelige gegevens onderschept worden.
+*   Je wilt niet dat je internetprovider of de eigenaar van het netwerk ziet welke sites je bezoekt.
+*   Je wilt prijzen vergelijken die per land verschillen (vliegtickets, software-abonnementen).
 
-> **Enkele voorbeelden uit de praktijk.**
-> 
-> Zelf gebruik ik een VPN om in **China de Google Maps app** te gebruiken, in **Turkije om een hotel te boeken via Booking.com**, in **Spanje om specifieke Netflix films** **te kijken** en in **Nederland wanneer ik aan het werk ben in een café en dus op publieke Wifi zit**.
+> **Enkele voorbeelden uit mijn eigen praktijk.**
+>
+> Zelf gebruikte ik een VPN om in **China de Google Maps-app** te gebruiken, in **Turkije een hotel te boeken via Booking.com** (dat daar toen geblokkeerd was), in **Spanje specifieke Netflix-films te kijken** en in **Nederland zodra ik in een café op publieke wifi werk**. Dat laatste doe ik nog steeds, bijna dagelijks.
 
-## Let hierop als je een VPN kiest
+![Een kop koffie naast een laptop op een cafétafel met een wifi-symbool boven een klein hangslot](/images/spots/vpn-cafe-wifi.webp "Publieke wifi in een café: precies het moment waarop je een VPN aanzet")
 
-Wij hebben alvast een test voor je gemaakt en weten welke VPN wij het beste vinden.
+## Let hierop als je in 2026 een VPN kiest
 
-De beste VPN die wij hebben gevonden is [**NordVPN**](/go/get-nordvpn)
+Ik heb ze voor je vergeleken en mijn favoriet is nog steeds [**NordVPN**](/go/get-nordvpn). Wil je zelf kiezen, let dan op deze punten:
 
-Maar het zou natuurlijk kunnen dat je dat voor jezelf uit wilt zoeken. Dan zijn er enkele dingen waar je op kunt letten.
+*   **Prijs ná de actie.** Bijna elke VPN adverteert met een lage prijs voor de eerste één of twee jaar. Bij verlenging betaal je het normale tarief, dat vaak twee tot drie keer hoger ligt. Kijk dus altijd naar de verlengprijs.
+*   **Aantal apparaten.** Surfshark, IPVanish, Private Internet Access en TunnelBear laten onbeperkt veel apparaten toe; NordVPN en Proton tien; Mullvad vijf.
+*   **Protocol en snelheid.** Moderne VPN's draaien op WireGuard of een eigen variant daarvan (NordLynx bij NordVPN, Lightway bij ExpressVPN). Die zijn een stuk sneller dan het oude OpenVPN.
+*   **Servers.** Meer landen betekent meer keuze om blokkades te omzeilen en een server dichtbij voor snelheid.
+*   **Gecamoufleerde servers.** In landen die VPN-verkeer actief blokkeren heb je 'obfuscated' of 'stealth' servers nodig; NordVPN, Surfshark en Proton bieden die.
+*   **Kill switch en no-logs.** De kill switch blokkeert je internet als de VPN even wegvalt, zodat er niets lekt. Een no-logs-beleid betekent dat de aanbieder niet bijhoudt wat je doet; de serieuze partijen laten dat door externe auditors controleren.
+*   **Compatibiliteit.** Werkt hij met de streamingdiensten die jij gebruikt, en op je router of tv?
 
-*   Compatibiliteit (met de apps die je wilt deblokkeren, bijvoorbeeld Netflix)
-*   Servers (via welke landen kun je jouw internet verbinden)
-*   Reputatie van de VPN (reviews, levensduur)
-*   Type encryptie VPN (protocol, symmetric key, public key)
-*   Snelheid
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
-Goed, bij deze de **top 12 beste VPN’s** die wij zijn tegengekomen!
+## De 10 beste VPN's van 2026 in één tabel
+
+Hieronder de tien VPN's uit dit artikel naast elkaar. De prijs is het bedrag per maand bij het langstlopende abonnement, zoals de bestelpagina van de aanbieder die op 20 september 2026 toonde. NordVPN en Mullvad rekenen in euro's; de andere bestelpagina's toonden mij die dag dollarprijzen. Als Nederlander reken je in euro's af, en de Nederlandse prijsvergelijker vpnexpert.nl noteerde eind juni 2026 voor dezelfde abonnementen bijvoorbeeld €1,99 (Surfshark), €2,03 (CyberGhost), €2,29 (ExpressVPN) en €3,49 (NordVPN). Actieprijzen veranderen elke paar weken, dus zie de tabel als richting, niet als offerte.
+
+| VPN | Prijs per maand (langste abonnement) | Zonder verplichting | Apparaten | Servers of landen | Geld terug |
+|---|---|---|---|---|---|
+| [NordVPN](/go/get-nordvpn) | vanaf €2,99 (Basic, 2 jaar), €3,49 (Plus) | vanaf €11,59 | 10 | duizenden servers, 225+ locaties | 30 dagen |
+| Surfshark | vanaf $2,49 (Starter, 2 jaar) | niet getoond | onbeperkt | 4.500+ servers, 100 landen | 30 dagen |
+| ExpressVPN | vanaf $2,99 (Basic, 2 jaar + 4 maanden) | niet meer getoond | 10 tot 14 | 113 landen | 30 dagen |
+| Proton VPN | gratis plan; Proton Unlimited €9,99 (jaar) | €12,99 (Unlimited) | 1 gratis, 10 betaald | 140+ landen | 30 dagen |
+| CyberGhost | $1,99 (26 maanden) | $12,99 | 7 | 9.900+ servers, 100+ landen | 45 dagen (14 bij maand) |
+| IPVanish | $2,49 (Essential, 2 jaar) | $14,99 | onbeperkt | wereldwijd, aantal niet vermeld | 30 dagen |
+| Private Internet Access | $1,79 (3 jaar + 3 maanden) | $11,95 | onbeperkt | 91 landen | 30 dagen |
+| HMA (HideMyAss) | $2,99 (36 maanden, 5 apparaten) | niet getoond | 5 of 10 | 3.400+ servers, 100+ locaties | 7 dagen gratis proberen |
+| TunnelBear | vanaf $3,33 (jaar) | niet getoond | onbeperkt | niet vermeld | gratis plan met 2 GB |
+| Mullvad | €5, altijd, geen korting | €5 | 5 | niet vermeld | 14 dagen |
+
+Gecontroleerd op 20 september 2026 op de bestelpagina's van de aanbieders. "Niet getoond" betekent dat die bestelpagina alleen nog het langlopende abonnement liet zien.
+
+![Een wereldkaart op een tafel met kleine gloeiende pinnetjes in verschillende landen, verbonden door dunne lijnen](/images/spots/vpn-wereldkaart-servers.webp "Hoe meer landen met servers, hoe meer keuze om blokkades te omzeilen en een snelle server dichtbij te kiezen")
+
+## Wat kost een VPN echt over jouw reis? Rekenhulp
+
+De kunst bij VPN-prijzen is niet de laagste maandprijs vinden, maar uitrekenen wat je over je hele reisperiode betaalt. Ga je vier maanden op reis, dan is een abonnement van twee jaar tegen €3,49 per maand nog steeds €83,76 in één keer, terwijl vier losse maanden tegen €11,59 op €46,36 uitkomen. Vul je eigen cijfers in.
+
+<div class="tool not-prose" id="vpn-calc">
+<p class="tool__title">Maandabonnement of langlopend abonnement: wat is goedkoper voor jou?</p>
+<p class="tool__intro">Vul in hoeveel maanden je de VPN nodig hebt en de twee prijzen die de aanbieder noemt. De uitkomst rekent direct mee.</p>
+<div class="tool__grid">
+<label class="tool__field">Maanden dat je een VPN nodig hebt<input class="tool__input" id="vpn-months" type="number" min="1" max="120" step="1" value="6"></label>
+<label class="tool__field">Prijs per maand zonder verplichting (€)<input class="tool__input" id="vpn-monthly" type="number" min="0" step="0.01" value="11.59"></label>
+<label class="tool__field">Prijs per maand bij het lange abonnement (€)<input class="tool__input" id="vpn-long" type="number" min="0" step="0.01" value="3.49"></label>
+<label class="tool__field">Looptijd van dat lange abonnement (maanden)<input class="tool__input" id="vpn-term" type="number" min="1" max="60" step="1" value="24"></label>
+</div>
+<div class="tool__results">
+<div class="tool__result"><p class="tool__label">Losse maanden</p><p class="tool__value" id="vpn-cost-monthly">€ 69,54</p><p class="tool__sub" id="vpn-sub-monthly">6 maanden, maandelijks opzegbaar</p></div>
+<div class="tool__result"><p class="tool__label">Lang abonnement</p><p class="tool__value" id="vpn-cost-long">€ 83,76</p><p class="tool__sub" id="vpn-sub-long">je betaalt 24 maanden vooruit</p></div>
+</div>
+<p class="tool__note" id="vpn-verdict">Rekenvoorbeeld met de prijzen van NordVPN Plus in september 2026. Let op de verlengprijs: na de eerste looptijd betaal je bij bijna elke aanbieder het normale tarief.</p>
+</div>
+
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var eur = function (n) { return '€ ' + new Intl.NumberFormat('nl-NL', { minimumFractionDigits: 2, maximumFractionDigits: 2 }).format(n); };
+  function calc() {
+    var months = Math.max(1, Math.round(+$('vpn-months').value || 1));
+    var monthly = +$('vpn-monthly').value || 0, longP = +$('vpn-long').value || 0;
+    var term = Math.max(1, Math.round(+$('vpn-term').value || 1));
+    var costMonthly = months * monthly;
+    var terms = Math.ceil(months / term);
+    var costLong = terms * term * longP;
+    $('vpn-cost-monthly').textContent = eur(costMonthly);
+    $('vpn-cost-long').textContent = eur(costLong);
+    $('vpn-sub-monthly').textContent = months + (months === 1 ? ' maand' : ' maanden') + ', maandelijks opzegbaar';
+    $('vpn-sub-long').textContent = 'je betaalt ' + (terms * term) + ' maanden vooruit' + (terms > 1 ? ' (' + terms + ' keer verlengd)' : '');
+    var diff = costMonthly - costLong;
+    $('vpn-verdict').textContent = (diff > 0
+      ? 'Het lange abonnement is over ' + months + ' maanden ' + eur(diff) + ' goedkoper, en je houdt de VPN daarna nog ' + (terms * term - months) + ' maanden over.'
+      : 'Losse maanden zijn over ' + months + ' maanden ' + eur(-diff) + ' goedkoper. Pas bij een langere periode loont het lange abonnement.')
+      + ' Let op de verlengprijs: na de eerste looptijd betaal je bij bijna elke aanbieder het normale tarief.';
+  }
+  ['vpn-months', 'vpn-monthly', 'vpn-long', 'vpn-term'].forEach(function (id) { $(id).addEventListener('input', calc); });
+  calc();
+})();
+</script>
+
+Goed, dan nu de **tien beste VPN's** één voor één.
 
 ## 1. NordVPN
 
-### Deze VPN heef een gigantische dekking over de hele wereld. Daarbij hebben ze andere diensten zoals CloudVPN welke je gemakkelijk samen kunt gebruiken.
+[NordVPN](/go/get-nordvpn) is al jaren de populairste VPN-dienst en nog steeds mijn eerste keus als het om **betrouwbaarheid, snelheid en gemak** gaat. De verbinding valt vrijwel nooit weg, de kill switch vangt het op als het toch gebeurt, en streaming werkt gewoon.
 
-[![NordVPN](/images/migrated/nordvpn.webp)](/go/get-nordvpn)
+NordVPN legt duidelijk uit hoe ze ervoor zorgen dat jouw gegevens nergens bewaard worden. Technisch zit het goed: het eigen **NordLynx-protocol** (gebaseerd op WireGuard) voor snelheid, dubbele versleuteling via Double VPN, Onion over VPN voor wie Tor gebruikt en gecamoufleerde servers voor landen die VPN-verkeer blokkeren. Daarbovenop zit **Threat Protection Pro**, dat advertenties, trackers en malafide downloads tegenhoudt, ook als je niet met de VPN verbonden bent.
 
-[NordVPN](/go/get-nordvpn) is de meest populaire VPN service in 2023 en wordt gezien als een van de beste VPN’s als het gaat om **anonimiteit en veiligheid**.
+Je kiest uit **duizenden servers op meer dan 225 locaties** en beschermt tot **10 apparaten** tegelijk. De app is beschikbaar in het Nederlands en werkt op Windows, macOS, Linux, Android, iOS, Android TV en als browserextensie.
 
-Bij NordVPN leggen ze duidelijk uit hoe ze ervoor zorgen dat jouw data nergens wordt bewaard. Je kunt dus veilig internetten.
+### Voordelen en nadelen van NordVPN
 
-Ze bieden de meest **geavanceerde encryptie algoritmes**; CyberSec tegen bedreigingen, dubbele encryptie via Double VPN en technologie met Tor – Onion Over VPN.
+Voordelen:
 
-Tegelijkertijd heeft NordVPN niet de hoogste snelheid, maar **de verbinding is stabiel**. Disconnecten gebeurt vrijwel nooit en de gebruiker is er zeker van dat er geen data lekt wanneer er toch een knik in de kabel komt.
+*   Snel en stabiel dankzij NordLynx, verbinding valt zelden weg
+*   Kill switch, Double VPN, Onion over VPN en gecamoufleerde servers
+*   Threat Protection Pro tegen advertenties, trackers en malware
+*   Meshnet: je eigen apparaten veilig aan elkaar koppelen
+*   Tot 10 apparaten tegelijk, Nederlandstalige apps
+*   Uitbreidbaar met NordPass (wachtwoorden) en NordLocker (versleutelde cloud)
 
-Je kunt bij NordVPN kiezen uit zo’n **5000 servers in meer dan 60 landen wereldwijd**. Daarbij bieden ze speciale servers voor als je wilt streamen via bijvoorbeeld Netflix.
+Nadelen:
 
-Beveiliging staat bij NordVPN voorop. Ze gebruiken **sterke 256-bit encryptie** en een combinatie tussen beveiligde VPN protocollen (OpenVPN en IKEv2 / IPSec). De VPN werkt met vrijwel ieder toestel en is simpel in gebruik.
+*   Geen gratis proefperiode, wel 30 dagen niet-goed-geld-terug
+*   Het maandabonnement is fors duurder dan het abonnement voor twee jaar
 
-Tot slot heeft NordVPN nog enkele speciale verborgen (obfuscated) servers. Dit is in het bijzonder handig wanneer je in een land bent waar websites van bovenaf zijn geblokkeerd.
+### Prijzen NordVPN
 
-## Voordelen en nadelen van NordVPN
+NordVPN werkt sinds een paar jaar met pakketten. Dit zijn de prijzen per maand, in euro's, zoals de Nederlandse prijsvergelijker vpnexpert.nl ze in juni 2026 noteerde; de bestelpagina van NordVPN zelf toonde op 20 september 2026 dezelfde instap: van 11,59 zonder verplichting naar 3,49 per maand bij twee jaar.
 
-_Voordelen:_
+| Pakket | 1 maand | 1 jaar | 2 jaar |
+|---|---|---|---|
+| Basic (alleen VPN en Threat Protection) | €11,59 | €4,49 | €2,99 |
+| Plus (+ Threat Protection Pro en NordPass) | €13,69 | €4,89 | €3,49 |
+| Ultimate (+ 1 TB NordLocker en verzekering tegen cyberfraude) | €19,39 | €7,59 | €6,19 |
 
-*   Verbinding via beveiligde VPN servers in meer dan 60 landen
-    
-*   Mogelijkheid om snel automatisch met een willekeurige server te verbinden
-    
-*   Unieke functies zoals CyberSec, Internet Kill Switch, een keuze tussen TCP en UDP Protocol types en opzet met jouw custom DNS
-    
-*   Servers voor Onion-over-VPN connecties welke extra beveiliging geven met het gebruik van Tor
-    
-*   Staat je toe onzichtbaar te zijn in LAN netwerken
-    
-*   Werkt met Windows/MacOS/Linux, Android/IOS, Chrome/MozzilaFireFox/Opera
-    
-*   Gelijktijdig te gebruiken op 6 verschillende apparaten
-    
-*   Extra: NordPass (wachtwoorden management), CloudVPN, NordLocker (encryptie van jouw cloud data)
-    
-*   Beschikbaar in 23 talen waaronder Nederlands
-    
-
-### Nadelen:
-
-*   Er is geen proefperiode, wel een 30 dagen niet goed geld terug garantie
-    
-*   Alleen keuze tussen een maandplan of jaarplan
-    
-
-## Prijzen NordVPN
-
-NordVPN heeft net als ExpressVPN (de tweede op deze lijst) geen gratis proefperiode om de service uit te testen. Wel heb je een 30 dagen niet goed geld terug garantie. Je kunt de VPN dus altijd even uitproberen. De mogelijkheden bij NordVPN:
-
-**1 Maand Plan:**  
-€10.06 per maand, maandelijks opzegbaar. De 30 dagen garantie is inbegrepen.
-
-**1 Jaar Plan:**  
-€4.92 per maand, jaarlijks opzegbaar. Je betaald 12 maanden vooruit (€49,68). De 30 dagen garantie is inbegrepen.
-
-**2 Jaar Plan:**  
-€3.71 per maand, twee jaarlijks opzegbaar. Je betaald 24 maanden vooruit (€79,-). De 30 dagen garantie is inbegrepen.
-
-Bij NordVPN vind je dus kortingen als je voor een langere termijn vooruitbetaald. Je krijgt maar liefs **68% korting op het twee jaar plan**.
+Bij elk abonnement zit de 30-dagen-garantie. Je betaalt de looptijd in één keer vooruit; bij verlenging geldt het normale tarief.
 
 [Probeer NordVPN](/go/get-nordvpn)
 
-## 2. ExpressVPN
+## 2. Surfshark
 
-### Een van de meest gebruikte VPN services is ExpressVPN.
+**Surfshark** is jonger dan NordVPN maar heeft een enorm uitgebreide functionaliteit en één opvallend voordeel: je mag een **onbeperkt aantal apparaten** aansluiten. Thuis, op reis, het hele gezin: één abonnement.
 
-![Beste en snelle vpn 2020 expressvpn](/images/migrated/vpn-article.webp "Beste en snelle vpn 2020 ExpressVPN")
+Surfshark werkt met **4.500+ servers in 100 landen**, allemaal op 10 Gbps-lijnen. Ingebouwd zitten CleanWeb (advertenties en trackers blokkeren), MultiHop (via twee landen tegelijk verbinden), een camouflagemodus zodat je provider niet ziet dat je een VPN gebruikt, en Alternative ID, een generator voor gemaskeerde e-mailadressen. Je kunt apps of websites op een uitzonderingslijst zetten zodat bijvoorbeeld je bank de VPN omzeilt.
 
-ExpressVPN is een van de meest bekende VPN services en is tegelijk een van de snelste op de markt.
+### Voordelen en nadelen van Surfshark
 
-Bij ExpressVPN betsteden ze een hoop aandacht aan het volledig anoniem houden van jouw gegevens. De service gebruikt een beveiligd netwerk genaamd TrustedServer. Dit zorgt ervoor dat wanneer je online bent, er geen sporen van jou achterblijven op de server. **Lekker anoniem browsen dus**!
-
-Ze hebben een gedetailleerde guide van hoe je zelf jouw VPN verbinding op moet zetten, al kan ik je alvast vertellen, dat dat met ExpressVPN een piece of cake is.
-
-Express VPN heeft ook een **gebruiksvriendelijke ‘kill switch’ functie** die voorkomt dat er data uit ‘de tunnel’ lekt in het geval van tijdelijk offline gaan of een VPN fout.
-
-Al sinds 2009 zijn ze actief en inmiddels beheren ze **snelle VPN servers in meer dan 160 landen**. De dienst is bruikbaar op vrijwel ieder apparaat dat met het internet verbonden is.
-
-## Voordelen en nadelen van ExpressVPN
-
-_Voordelen:_
-
-*   Beveiligde connectie via meer dan 160 landen
-    
-*   Volledig gebruiksklaar voor Windows/MacOS/Linux, IOS/Android, also SmartTV, Game consoles, en Routers
-    
-*   Gebruiksvriendelijk en simpel op te zetten (3-stappenplan inbegrepen)
-    
-*   Beschikbaar in 16 talen waaronder in het Nederlands
-    
-*   Gedetailleerde vraag- en antwoordpagina en uitgebreide support
-    
-*   Unieke VPN functies zoals de ‘kill switch’
-    
-*   Op 5 apparaten te gebruiken (met één account), allemaal met hoge snelheid
-    
-
-### Nadelen:
-
-*   Een proefperiode voor ExpressVPN is helaas niet mogelijk. Wel heb je een 30 dagen ‘money guarantee’.
-    
-
-## Prijzen ExpressVPN
-
-ExpressVPN heeft geen proefperiode, maar alleen een garantie. Mocht je het niets vinden of werkt jouw favoriete Netflix serie niet, dan kun je altijd binnen 30 dagen jouw geld terugkrijgen.
-
-Tegelijk is ExpressVPN een van de meest betrouwbare VPN’s op de markt en kan het dus geen kwaad om van hun services gebruik te maken. De prijzen zijn als volgt:
-
-**1 Maand Plan:** €11,43 per maand, maandelijks opzegbaar. Inclusief 30 dagen niet goed geld terug garantie.
-
-**6 Maanden Plan:** €8,81 per maand. Inclusief 30 dagen niet goed geld terug garantie.
-
-Bij ExpressVPN kun je vaak een korting krijgen van 30% als je de service direct voor één jaar vooruitbetaald. Nog steeds heb je dan een 30 dagen garantie. En mocht je het niets vinden dan kun je het altijd nog opzeggen.
-
-[Probeer ExpressVPN](https://www.expressvpn.com/)
-
-## 3. Surfshark VPN
-
-### Jonge VPN dienst met interessante functies
-
-[![Surfshark](/images/migrated/surfshark.webp)](http://surfshark.com)
-
-**Sufshark VPN** is net iets kleiner dan andere VPN services, maar heeft een enorm uitgebreide functionaliteit.
-
-Een van meest opvallende eigenschappen van Surfshark VPN is dat je een ongelimiteerd aantal apparaten kunt aansluiten. Of je de VPN connectie nou thuis of op jouw werk wilt opzetten; het kan allebei. Je hoeft je dus geen zorgen te maken over beperkingen.
-
-Daarbij zijn bij Surfshark VPN ook anti-malware, ad-blocks en tracking tools inbegrepen.
-
-Surfshark VPN is te gebruiken op Mac, Windows, iOS, Android, FireTV en routers. Ook kun je bijvoorbeeld game consoles configureren via de DNS instellingen.
-
-Met deze software kun je **specifieke apps op een whitelist plaatsen** of specifieke websites de VPN laten omzeilen. Voor sommige gebruikers kan dit enorm handig zijn. Bijvoorbeeld wanneer je wilt dat Netflix wél de films van jouw land laat zien, terwijl andere websites via een ander land worden weergeven.
-
-Surfshark VPN heeft drie speciale opties voor mensen die internetbeperkingen willen omzeilen. Voor de geeks, dat zijn:
-
-1.  Camouflage mode (De ISP ziet niet dat je op het internet zit via een VPN)
-2.  Multihop (Connect via meerdere landen om jouw sporen te wissen)
-3.  NoBorder (Succesvol surfen met beperkt internet)
-
-De VPN maakt gebruik van zo’n **1700 servers in 63 landen wereldwijd**.
-
-## Voordelen en nadelen van Surfshark
-
-_Voordelen:_
+Voordelen:
 
 *   Onbeperkt aantal apparaten op één abonnement
-    
-*   Camouflage mode, Multihop en NoBorder mode
-    
-*   Intuïtieve en gebruiksvriendelijke VPN software
-    
-*   Sublieme support via chat, e-mail, website en app
-    
-*   Compatibel met Windows/Linux/MacOS, FireTV, Android/IOS, Chrome en Firefox
-    
-*   Beschikbaar in 14 talen waaronder Nederalnds
-    
+*   Camouflagemodus, MultiHop en CleanWeb
+*   Servers in 100 landen, allemaal op 10 Gbps
+*   Nederlandstalige website en apps voor Windows, macOS, Linux, Android, iOS, Fire TV en browsers
 
-### Nadelen:
+Nadelen:
 
-*   Geen gratis trial, wel een 30 dagen money guarantee
-    
-*   Het aantal verschillende servers is kleiner dan met andere VPN’s
-    
+*   Tijdens een gratis proefperiode werkt het op maar 3 apparaten; daarna geldt 30 dagen geld terug
+*   De goedkope prijs geldt alleen voor de eerste looptijd
 
-## Prijzen Surfshark VPN
+### Prijzen Surfshark
 
-Bij Surfshark VPN is er geen gratis proefperiode, wel heb je een 30 dagen money guarantee. Hun pakketten zijn als volgt:
+Surfshark heeft drie pakketten: **Starter** (de VPN), **One** (+ antivirus en datalekmeldingen) en **One+** (+ verwijdering van je gegevens bij datahandelaren). Op 20 september 2026 toonde de Nederlandse bestelpagina bij het abonnement van 24 maanden $2,49, $2,79 en $4,49 per maand; vpnexpert.nl noteerde in juni 2026 een europrijs vanaf €1,99. Prijzen zonder verplichting stonden die dag niet op de pagina. Altijd inclusief 30 dagen geld-terug-garantie.
 
-**1 Maand Plan:**  
-€10.89 per maand inclusief 30 dagen money guarantee.
+[Probeer Surfshark](https://surfshark.com/nl)
 
-**6 Maanden Plan:**  
-€5.49 per maand, €32.94 voor 6 maanden vooruitbetalen. Inclusief 30 dagen money guarantee.
+## 3. ExpressVPN
 
-**24 Maanden Plan:**  
-€2.09 per maand, €50.16 voor 24 maanden vooruitbetalen. Inclusief 30 dagen money guarantee.
+**ExpressVPN** is een van de bekendste VPN-diensten en al jaren een van de snelste, dankzij het eigen **Lightway-protocol**. Ze adverteren inmiddels ook met bescherming tegen toekomstige quantumcomputers in dat protocol. Het bedrijf bestaat sinds 2009 en heeft **servers in 113 landen**.
 
-Surfshark VPN’s 24 maanden plan is dan veruit het beste en **een zeer voordelige optie** als het gaat om een kwalitatieve VPN aanbieder.
+Het opzetten is een fluitje van een cent, de kill switch werkt netjes en de dienst draait op vrijwel ieder apparaat, inclusief smart-tv's, spelcomputers en routers. Wat je van ExpressVPN moet weten: het is de dure optie geworden. De bestelpagina toont alleen nog abonnementen van twee jaar, en na die eerste looptijd verleng je jaarlijks tegen het normale tarief.
 
-[Probeer Surfshark VPN](https://surfshark.com)
+### Voordelen en nadelen van ExpressVPN
 
-## 4. Hotspot Shield
+Voordelen:
 
-### VPN service met mooi design en gratis proefperiode
+*   Erg snel en simpel in gebruik
+*   Servers in 113 landen
+*   Apps voor Windows, macOS, Linux, iOS, Android, smart-tv's, spelcomputers en routers, ook in het Nederlands
+*   Kill switch en uitgebreide handleidingen en support
 
-[![Hotspotshield](/images/migrated/hotspotshield.webp)](http://surfshark.com)
+Nadelen:
 
-Hotspot Shield is een VPN service die je gratis voor 7 dagen kunt uitproberen. Ook hebben ze een ‘basic plan’ welke je gratis kunt gebruiken. De beperking daarbij is dat je alleen de VS kunt kiezen als locatie.
+*   Geen proefperiode, wel 30 dagen geld terug
+*   Duur na de eerste looptijd: de verlengprijs ligt op $99,95 tot $199,95 per jaar
+*   Maandabonnement stond op 20 september 2026 niet meer op de bestelpagina
 
-Bij Hotspot Shield kun je rekenen op een **snelle VPN verbinding** en een techniek die data samenvoegt om bij bijvoorbeeld streaming te voorkomen dat de video hapert.
+### Prijzen ExpressVPN
 
-De VPN is goed te gebruiken voor Netflix, Hulu, BBC iPlayer, Disney + en een aantal andere **populaire platformen**. Hiermee kun je in HD streamen.
+Op 20 september 2026 toonde de bestelpagina drie pakketten voor 2 jaar + 4 maanden: **Basic** $2,99 per maand (10 apparaten), **Advanced** $3,99 (12 apparaten) en **Express Pro** $5,99 (14 apparaten), in één keer vooruit betaald ($83,72, $111,72 en $167,72 voor 28 maanden). Daarna verleng je jaarlijks voor $99,95, $119,95 of $199,95. Vpnexpert.nl noteerde in juni 2026 een europrijs vanaf €2,29. Nieuwe gebruikers hebben 30 dagen geld-terug-garantie.
 
-Het betaalde pakket van Hotspot Shield geeft je de mogelijkheid om te verbinden vanaf **3200 servers wereldwijd** met een gelikte app en live chat support.
+[Probeer ExpressVPN](https://www.expressvpn.com/nl)
 
-De VPN beschikt over een emergency shutdown functie, maar qua andere functionaliteiten is deze wat beperkt. Zo kun je geen aangepaste DNS instellingen invoeren of gebruikmaken van een kill switch. Wel is P2P verkeer toegestaan.
+## 4. Proton VPN
 
-## Voordelen en nadelen van Hotspot Shield
+**Proton VPN** komt uit Zwitserland, van dezelfde makers als Proton Mail, en is de VPN die ik aanraad aan iedereen die vooral om **privacy** geeft. Zwitserland valt buiten de EU en de VS, het no-logs-beleid wordt extern gecontroleerd en de apps zijn open source.
 
-_Voordelen:_
+Het grootste pluspunt: er is een **gratis plan** zonder advertenties. Daarmee beveilig je 1 apparaat via servers in 10 landen die Proton voor je kiest, op gemiddelde snelheid. Voor streaming en snelheid heb je een betaald plan nodig: dan beveilig je **10 apparaten** tegelijk, kies je zelf uit servers in **140+ landen** en krijg je Secure Core (verbinding via twee servers), een kill switch, NetShield tegen advertenties en malware, en het Stealth-protocol voor landen die VPN's blokkeren.
 
-*   Werkt goed met bijna iedere streamingdienst waaronder Netflix, Hulu en Disney +
-    
-*   De VPN is met beperkte mogelijkheden gratis te gebruiken en heeft een 7-daagse proefperiode
-    
-*   Compatibel met 5 verschillende apparaten. Werkt met Windows/MacOS/Linux, IOS/Android, Router en TV
-    
-*   Mooi uitziende VPN app
-    
-*   Hoge snelheid op basic plan
-    
-*   Beschikbaar in 12 talen, maar geen Nederlands
-    
+### Voordelen en nadelen van Proton VPN
 
-### Nadelen:
+Voordelen:
 
-*   Slechte beveiligingsfunctionaliteiten waaronder een gemis van aangepaste DNS instellingen
-    
-*   Niet in het Nederlands beschikbaar
-    
+*   Gratis plan zonder advertenties, zonder in te leveren op privacy
+*   Zwitsers bedrijf, open source apps, extern gecontroleerd no-logs-beleid
+*   Betaald: 10 apparaten, 140+ landen, Secure Core, kill switch en Stealth
+*   Nederlandstalige website en apps
 
-## Prijzen Hotspot Shield
+Nadelen:
 
-Hotspot Shield biedt een uitgebreid pallet aan mogelijkheden. Je kunt altijd een gratis proefperiode aangaan van 7 dagen. Bij de betaalde plannen heb je een 45 dagen money guarantee.
+*   Gratis plan: 1 apparaat en je kiest de server niet zelf
+*   Het losse VPN Plus-abonnement wisselt vaak van actieprijs
 
-**1 Maand Premium:**
+### Prijzen Proton VPN
 
-€10.93 per maand. 45 dagen money guarantee en inclusief 7 dagen gratis trial.
+Het gratis plan kost niets en blijft gratis. Voor alleen de VPN is er **VPN Plus**; de actieprijs daarvan wisselt, dus kijk op de site. Wil je de hele Proton-bundel (VPN, Mail, Drive, Pass en Calendar), dan kost **Proton Unlimited** op 20 september 2026 €12,99 per maand, of €119,88 per jaar (€9,99 per maand). Betaalde plannen hebben 30 dagen niet-goed-geld-terug.
 
-**1 Maand Family Premium:**
+[Probeer Proton VPN](https://protonvpn.com/nl)
 
-€16.83 per maand. Bruikbaar voor 25(!) apparaten op één abonnement verdeeld over maximaal 5 familie accounts. 45 dagen money guarantee en inclusief 7 dagen gratis trial.
+## 5. CyberGhost VPN
 
-**1 Jaar Plan Premium:**
+**CyberGhost** is ontwikkeld in Duitsland en gevestigd in **Roemenië**, en voert een no-logs-beleid. Het is met **9.900+ servers in meer dan 100 landen** een van de grootste netwerken die je zult vinden.
 
-€6.72 per maand, betaald per jaar. 45 dagen money guarantee en inclusief 7 dagen gratis trial.
+Je krijgt een kill switch, WireGuard en apps voor zo'n beetje elk apparaat, van Fire TV tot Apple TV en routers. Eén abonnement is goed voor **7 apparaten** tegelijk. De site en apps zijn in het Nederlands.
 
-**1 Jaar Family Premium:**
+### Voordelen en nadelen van CyberGhost
 
-€10.09 per maand, betaald per jaar. Bruikbaar voor 25(!) apparaten op één abonnement verdeeld over maximaal 5 familie accounts. 45 dagen money guarantee en inclusief 7 dagen gratis trial.
+Voordelen:
 
-Hotspot Shield heeft **kortingen tot 40%** voor familie en jaar abonnementen.
+*   Een van de grootste servernetwerken: 9.900+ servers in 100+ landen
+*   Gevestigd in Roemenië, no-logs-beleid
+*   7 apparaten tegelijk, apps voor bijna alles inclusief tv's en routers
+*   45 dagen geld-terug-garantie bij de langere abonnementen
 
-[Probeer Hotspot Shield](https://hotspotshield.com)
+Nadelen:
 
-## 5. IPVanish
+*   Het maandabonnement is duur en heeft maar 14 dagen garantie
+*   De aantrekkelijke prijs geldt alleen voor de eerste 26 maanden
 
-### VPN met de laagste prijzen
+### Prijzen CyberGhost
 
-[![Ipvanish](/images/migrated/ipvanish.webp)](http://surfshark.com)
+Op 20 september 2026 toonde de Nederlandse bestelpagina: **1 maand** $12,99 (14 dagen geld terug), **6 maanden** $6,99 per maand ($41,94 vooruit) en **2 jaar + 2 maanden** $1,99 per maand ($51,74 vooruit), de laatste twee met 45 dagen geld-terug-garantie. Vpnexpert.nl noteerde in juni 2026 €2,03 per maand voor het lange abonnement.
 
-IPVanish VPN is een van de meer betaalbare VPN services. Als het op de kosten aankomt doe je er goed aan om deze VPN te overwegen.
+[Probeer CyberGhost VPN](https://www.cyberghostvpn.com/nl_NL/)
 
-Ze hebben een groot aantal servers (meer dan 1500) in meer dan 70 landen, allemaal met een stabiele verbinding.
+## 6. IPVanish
 
-Je kunt IPVanish niet gratis uitproberen met een trial, maar hebt wel altijd een 30 dagen money guarantee.
+**IPVanish** is een Amerikaanse VPN die vooral op **prijs** concurreert. Het abonnement is goed voor een **onbeperkt aantal apparaten**, met apps voor Windows, macOS, Linux, Chrome OS, Android, iOS, Fire TV en routers. Standaard zitten er een kill switch, split tunneling en een no-logs-beleid in; het Advanced-pakket voegt een beveiligde browser en cloudback-up toe.
 
-De VPN staat toe dat je **tot 10 verbindingen tegelijk aangaat** via verschillende apparaten en heeft daarmee een ruime opzet ten opzichte van eerder genoemde VPN’s. Daarbij zijn 250GB SugarSync beveiligde opslag en een back-up inbegrepen bij een abonnement.
+De basis in de Verenigde Staten is voor sommige mensen een minpunt: zoek je een VPN buiten de reikwijdte van Amerikaanse wetgeving, dan kijk je beter naar Proton of Mullvad.
 
-Verder is IPVanish compatibel met bijna alle apparaten. Het heeft apps voor systemen als Windows, Mac OS, Android, Fire TV en iOS. De protocollen die worden ondersteunt zijn: IKEv2, OpenVPN en L2TP / IPsec. Streaming en P2P zijn mogelijk.
+### Voordelen en nadelen van IPVanish
 
-De VPN heeft zijn basis in de Verenigde Staten, maar heeft tegelijkertijd een streng ‘**no log’s policy**‘. Je hoeft dus niet bang te zijn dat jouw data bewaart wordt. Toch is dit niet jouw VPN als je er eentje zoekt die niet met de Amerikaanse regelgeving van doen heeft.
+Voordelen:
 
-## Voordelen en nadelen van IPVanish
+*   Lage prijs bij het abonnement van twee jaar
+*   Onbeperkt aantal apparaten
+*   Kill switch, split tunneling, no-logs-beleid en 24/7 support
 
-_Voordelen:_
+Nadelen:
 
-*   Goede prijzen voor een VPN service
-    
-*   Je kunt 10 apparaten tegelijk verbinden met één IPVanish abonnement
-    
-*   250GB beveiligde data opslag
-    
-*   Goede IP beveiliging, meer dan 40.000 IP adressen worden gebruikt
-    
-*   Groot aantal servers om vandaan te verbinden
-    
-*   Strikte no-log-policy
-    
+*   Amerikaans bedrijf
+*   Geen Nederlandstalige app
+*   Verlengt na de eerste looptijd tegen $99,99 of $129,99 per jaar
 
-### Nadelen:
+### Prijzen IPVanish
 
-*   Best ingewikkeld om een VPN verbinding op te zetten
-    
-*   Nederlandse taal wordt niet ondersteunt
-    
-*   Geen proefperiode
-    
+Op 20 september 2026: **Essential** $14,99 per maand zonder verplichting, $3,89 per maand bij een jaar ($46,68 het eerste jaar) of $2,49 per maand bij twee jaar ($59,76 voor de eerste twee jaar). **Advanced** kost $17,99, $5,39 of $3,59 per maand. Daarna verleng je jaarlijks voor $99,99 (Essential) of $129,99 (Advanced). Je hebt 30 dagen geld-terug-garantie.
 
-## Prijzen IPVanish
+[Probeer IPVanish](https://www.ipvanish.com/)
 
-IPVanish heeft de beste prijzen als het gaat om VPN diensten. Ze hebben genoeg mogelijkheden. Zie hieronder de prijzen:
+## 7. Private Internet Access
 
-**1 Maand Plan:**
+**Private Internet Access (PIA)** bestaat sinds 2010 en is, net als IPVanish, een Amerikaanse VPN met een streng no-logs-beleid. Je verbindt met servers in **91 landen** en mag een **onbeperkt aantal apparaten** gebruiken. PIA ondersteunt WireGuard en OpenVPN, heeft een kill switch, split tunneling en een advertentieblokker, en de apps zijn open source, in het Nederlands beschikbaar.
 
-€4.21 per maand. 30 dagen money guarantee. 250GB SugarSync inbegrepen.
+### Voordelen en nadelen van Private Internet Access
 
-**3 Maanden Plan:**
+Voordelen:
 
-€3.78 per maand, betaald per 3 maanden. 30 dagen money guarantee. 250GB SugarSync inbegrepen.
+*   Onbeperkt aantal apparaten
+*   Servers in 91 landen, open source apps
+*   Zeer lage prijs bij het abonnement van drie jaar
+*   30 dagen geld-terug-garantie
 
-**1 Jaar Plan:**
+Nadelen:
 
-€2.73 per maand, betaald per jaar. 30 dagen money guarantee. 250GB SugarSync inbegrepen.
+*   Amerikaans bedrijf
+*   De lage prijs vraagt om drie jaar vooruitbetalen
 
-Zoals bij de meeste VPN services is het de goedkoopste optie om direct een jaarabonnement aan te gaan.
+### Prijzen Private Internet Access
 
-[Probeer IPVanish VPN](https://ipvanish.com)
+Op 20 september 2026: **1 maand** $11,95, **1 jaar** $3,99 per maand ($47,88 het eerste jaar) en **3 jaar + 3 maanden** $1,79 per maand ($69,81, daarna elke drie jaar). Vpnexpert.nl noteerde in juni 2026 €1,99 per maand voor het lange abonnement. Alle abonnementen hebben 30 dagen geld-terug-garantie voor nieuwe klanten.
 
-## 6. CyberGhost VPN
+[Probeer Private Internet Access](https://www.privateinternetaccess.com/)
 
-### Roemeense VPN dienst met gratis proefperiode
+## 8. HMA (HideMyAss!)
 
-[![Cyberghost](/images/migrated/cyberghost.webp)](http://surfshark.com)
+Het Britse **HMA** (voorheen HideMyAss!) is een van de oudste VPN-diensten en hoort inmiddels bij de antivirusgroep van Avast en Norton. Je verbindt met **3.400+ servers op meer dan 100 locaties**, met speciale servers voor streaming en P2P. Functies als Lightning Connect, split tunneling en een kill switch zijn standaard. Je kiest een abonnement voor **5 of 10 apparaten**.
 
-**CyberGhost VPN** staat al jaren bovenaan het lijstje van **de beste VPN’s die er zijn**.
+### Voordelen en nadelen van HMA
 
-Wat de VPN interessant maakt is dat deze is ontwikkelt in Duitsland en legaal is **gestationeerd in Roemenië**. Dat heeft als voordeel dat ze een no-log policy kunnen voeren, waarbij jouw gegevens dus nergens bewaart blijven.
+Voordelen:
 
-Een van de grootste voordelen van CyberGhost VPN is dat je de mogelijkheid hebt om een **gratis proefperiode** aan te gaan én dat ze een 45 dagen money guarantee hebben. Voor de gratis proefperiode van 24 uur heb je geen creditcard nodig, maar dat moet voldoende zijn om de service voor jezelf te testen.
+*   Servers op 100+ locaties wereldwijd
+*   7 dagen gratis proberen (op de internationale site)
+*   Kill switch, split tunneling, streaming- en P2P-servers
+*   Apps in het Nederlands
 
-CyberGhost VPN staat voor **vrijheid in de cyberwereld**. Ze voeren actief beleid tegen censuur en staan voor veiligheid en privacy.
+Nadelen:
 
-Technisch is het goed om te weten dat de VPN te gebruiken is voor wereldwijde toegang tot streamingdiensten zoals Netflix, HBO Max, BBC iPlayer, Hulu en tal van andere apps die locatie gegevens gebruiken voor hun content.
+*   Onderdeel van een groot Amerikaans beveiligingsconcern, wat niet iedereen fijn vindt
+*   Alleen abonnementen van een jaar of langer op de bestelpagina
 
-Ze hebben een gigantisch netwerk van **meer dan 6600 VPN servers** wereldwijd met hoge snelheid. Je kunt met de VPN aangepaste DNS instellingen beheren en hebt de kill switch functie. Ze maken tevens gebruik van het WireGuard protocol.
+### Prijzen HMA
 
-Maar let op, als je van deze VPN gebruik wilt maken in China zal dat niet gaan. De CyberGhost VPN komt daar niet door de firewall heen.
+Op 20 september 2026, voor **5 apparaten**: $4,99 per maand bij 12 maanden ($59,88 in één keer) of $2,99 per maand bij 36 maanden ($107,64). Voor **10 apparaten**: $7,99 (12 maanden), $6,99 (24 maanden) of $5,99 (36 maanden) per maand. Een maandabonnement stond niet op de pagina.
 
-## Voordelen en nadelen van CyberGhost
+[Probeer HMA](https://www.hidemyass.com/)
 
-_Voordelen:_
+## 9. TunnelBear
 
-*   Sterke no-logs policy, veel privacy en anonimiteit
-    
-*   De VPN staat bekend als promotor van vrijheid en bestrijder van censuur met een hoog niveau van transparantie
-    
-*   Het is een van de grootste VPN netwerken die je zult vinden met 6600 servers wereldwijd
-    
-*   Ze ondersteunen vrijwel alle apparaten, waaronder Windows/MacOS/Linux, Android/IOS, Chrome/Firefox, Fire Stick & TV/Android TV/Smart TV/Apple TV/SamsungTV, Roku/Wii U, Game consoles, Routers en Proxy’s
-    
-*   Gelijktijdig te gebruiken op 7 apparaten met één abonnement
-    
-*   Beschikbaar in 13 talen waaronder Nederlands
-    
-*   Een gratis proefperiode van 24 uur en een 45 dagen money guarantee
-    
+**TunnelBear** ken je waarschijnlijk van de beer. Deze Canadese VPN bestaat sinds 2011 en is de vriendelijkste VPN voor mensen die nog nooit een VPN hebben gebruikt: één grote knop, klaar. Er is een **gratis plan met 2 GB per maand**, genoeg om te testen of een VPN je probleem oplost, en het betaalde plan geldt voor een **onbeperkt aantal apparaten**.
 
-### Nadelen:
+Functies dragen berennamen: GhostBear camoufleert je VPN-verkeer, VigilantBear is de kill switch en SplitBear laat bepaalde apps buiten de VPN om.
 
-*   Werkt niet in China
-    
-*   Zeldzaam, maar niet alle aangeboden servers zijn supersnel
-    
+### Voordelen en nadelen van TunnelBear
 
-## Prijzen CyberGhost VPN
+Voordelen:
 
-CyberGhost VPN heeft een proefperiode van 24 uur en daarna de volgende opties:
+*   Simpelste VPN-app die er is
+*   Gratis plan met 2 GB per maand
+*   Onbeperkt aantal apparaten bij het betaalde plan
+*   Jaarlijkse onafhankelijke beveiligingsaudits
 
-**1 Maand Plan:**
+Nadelen:
 
-€11.99 per maand. 14 dagen money guarantee.
+*   Minder servers en functies dan de grote namen
+*   Geen Nederlandstalige app
 
-**1 Jaar Plan:**
+### Prijzen TunnelBear
 
-€3.75 per maand, betaald per jaar. 45 dagen money guarantee.
+Op 20 september 2026: **Free** met 2 GB per maand, **Unlimited** vanaf $3,33 per maand bij een jaarabonnement en **Teams** $5,75 per gebruiker per maand. Alle prijzen in dollars.
 
-**2 Jaar Plan:**
+[Probeer TunnelBear](https://www.tunnelbear.com/)
 
-€3.19 per maand, betaald per twee jaar. 45 dagen money guarantee.
+## 10. Mullvad
 
-**3 Jaar + 3 Maanden Plan:**
+**Mullvad** uit Zweden is de VPN voor wie het echt om privacy gaat. Je maakt geen account met e-mailadres aan maar krijgt een willekeurig accountnummer, je kunt zelfs contant betalen, en de prijs is al jaren hetzelfde: **€5 per maand**, of je nu één maand of een jaar neemt. Geen kortingen, geen verlengverrassingen.
 
-€2.00 per maand, betaald per drie jaar. 45 dagen money guarantee.
+Je beschermt **5 apparaten** tegelijk, de apps zijn open source en Mullvad laat zijn infrastructuur regelmatig extern controleren. Voor streaming en het omzeilen van blokkades is het minder geschikt dan NordVPN of Surfshark; voor rustig en anoniem werken op publieke wifi is het uitstekend.
 
-Verder hebben ze bij CyberGhost ook een additionele wachtwoord manager, mocht je daar gebruik van willen maken.
+### Voordelen en nadelen van Mullvad
 
-[Probeer CyberGhost VPN](https://cyberghostvpn.com)
+Voordelen:
 
-## 7. ProtonVPN
+*   Geen e-mailadres nodig, contant betalen kan
+*   Eén eerlijke prijs: €5 per maand, altijd
+*   Open source, Zweeds bedrijf
 
-### Goed beveiligde VPN uit Zwitserland
+Nadelen:
 
-[![Protonvpn](/images/migrated/protonvpn.webp)](http://surfshark.com)
+*   Maar 5 apparaten
+*   Minder geschikt voor streaming
+*   14 dagen geld terug, behalve bij contante betaling
 
-ProtonVPN is **de meest populaire VPN service op Europese gronden**.
+### Prijzen Mullvad
 
-Het is in 2007 ontwikkelt in Zwitserland en valt om die reden buiten de juridische regels van de Europese Unie en Verenigde Staten. Daardoor hebben ze geen last van een wirwar aan regels rondom de encryptie van data of het verplicht bijhouden van persoonsgegevens.
+€5 per maand, ongeacht de looptijd. Gecontroleerd op 20 september 2026.
 
-ProtonVPN helpt je om gebruikersdata te beschermen, anonimiteit te waarborgen en geeft je ruimschoots **toegang tot geblokkeerde websites en bronnen**.
+[Probeer Mullvad](https://mullvad.net/)
 
-Vanwege de hoge beveiliging is deze VPN ideaal voor mensen die graag incognito willen surfen op het internet en voor wie belang hecht aan het veilig versturen van data.
+![Een smartphone die in een kleine open kluis ligt, met een sleutel ernaast op tafel](/images/spots/vpn-kluis-telefoon.webp "Een VPN beveiligt de verbinding, jij beveiligt de rest: sterke wachtwoorden en tweestapsverificatie")
 
-Technisch lopen ze ook zeker niet achter. Je kunt gebruikmaken van functies zoals de kill switch en The Perfect Forward Secrecy System. Met die laatste verzeker je dat jouw data niet descrypted kan worden. ProtonVPN zorgt voor een goede encryptie met sterke algoritmes (AES-256).
+## Veelgestelde vragen over VPN's
 
-Een groot voordeel van deze VPN is dat ze een gratis optie hebben. Ook daarbij hebben ze optimale voorwaarden en goede bescherming. Wel kun je dan maar drie landen gebruiken om te verbinden, afhankelijk van jouw wensen kan dit dus een optie zijn.
+### Is een VPN legaal in Nederland?
 
-## Voordelen en nadelen van ProtonVPN
+Ja. Een VPN gebruiken is in Nederland en de rest van de EU volledig legaal. Wat je ermee doet moet natuurlijk wel legaal zijn: een VPN maakt illegaal downloaden niet ineens legaal.
 
-_Voordelen:_
+### Werkt een VPN met Netflix?
 
-*   Geschikt gratis plan zonder in te leveren op beveiliging en anonimiteit. Beschikbaar via drie landen.
-    
-*   Onbeperkt data met ieder plan
-    
-*   Omdat deze VPN in Zwitserland staat geregistreerd ben je er zeker van dat er geen data wordt opgeslagen
-    
-*   Unieke VPN functies zoals P2P support, kill switch en aangepaste DNS instellingen
-    
-*   24/7 support en een prachtig design
-    
-*   Goed voor streaming via onder andere Netflix
-    
-*   Beschikbaar in 16 talen waaronder Nederlands
-    
-*   Gelijktijdig te gebruiken op 10 verschillende apparaten
-    
+Meestal wel bij de grote aanbieders (NordVPN, Surfshark, ExpressVPN, CyberGhost, Proton betaald), maar streamingdiensten blokkeren regelmatig serverreeksen. Werkt een server niet, kies dan een andere in hetzelfde land of vraag de klantenservice welke server ze aanraden.
 
-### Nadelen:
+### Is een gratis VPN goed genoeg?
 
-*   Niet al te veel keuze in servers
-    
+Voor even testen wel: Proton VPN Free en TunnelBear Free zijn betrouwbaar en verkopen je gegevens niet. Blijf weg bij onbekende gratis VPN-apps in de appstore; als jij niet betaalt, betaal je vaak met je gegevens.
 
-## Prijzen ProtonVPN
+### Welke VPN werkt in China?
 
-Behalve een gratis proefperiode en een gratis optie zijn dit de mogelijkheden:
+Dat verandert continu, dus geen enkele aanbieder kan het garanderen. Je maakt de meeste kans met gecamoufleerde servers of een stealth-protocol (NordVPN, Surfshark, Proton). Installeer en test de VPN vóór je vertrekt; in China zelf kom je vaak niet meer bij de downloadpagina.
 
-**Basic Plan:**
+### Maakt een VPN mijn internet langzamer?
 
-€4,- per maand, betaald per jaar. Proefperiode van 7 dagen inbegrepen.
+Een beetje, want je verkeer maakt een omweg. Met een moderne VPN op WireGuard of NordLynx en een server in de buurt merk je er in de praktijk weinig van.
 
-**Plus Plan:**
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-€8,- per maand, betaald per jaar. Proefperiode van 7 dagen inbegrepen.
+## Conclusie: de beste VPN voor Nederland in 2026
 
-**Visionary Plan:**
+Wil je één advies? Neem [**NordVPN**](/go/get-nordvpn): snel, stabiel, werkt met streaming en gecamoufleerde servers, en bij een abonnement van twee jaar betaal je een paar euro per maand. Wil je vooral veel apparaten beschermen, kijk dan naar Surfshark. Gaat het je puur om privacy, dan zijn Proton VPN en Mullvad de eerlijkste keuzes. En wil je eerst gratis proberen of een VPN jouw probleem oplost, begin dan bij het gratis plan van Proton.
 
-€24,- per maand, betaald per jaar. Proefperiode van 7 dagen inbegrepen. Alle functies beschikbaar en toegang tot ProtonMail account.
+Wat je ook kiest: zet de kill switch aan, gebruik een server in de buurt en reken met de rekenhulp hierboven uit wat je over je hele reis betaalt. Veel plezier, waar je ook werkt!
 
-ProtonVPN biedt extra kortingen wanneer je direct voor 2 jaar een abonnement afsluit. Deze lopen op tot 33%.
-
-[Probeer ProtonVPN](https://protonvpn.com/nl/)
-
-## 8. VyprVPN
-
-### Betrouwbare Zwitserse VPN
-
-[![Vyprvpn](/images/migrated/vyprvpn.webp)](http://surfshark.com)
-
-VyprVPN heeft een van de meest brede keuze uit IP adressen. Ze opereren net als ProtonVPN vanuit Zwitserland waardoor je zeker bent van absolute privacy en anonimiteit in verband met de wetgeving.
-
-Er wordt gebruik gemaakt van een groot scala aan VPN protocollen inclusief het ‘proprietary Chameleon connection’ protocol.
-
-De VPN biedt een kill switch functie en voor wie het wil is er een optie voor een ‘narrow IP address’.
-
-Toen China zijn VPN inspectie programma begon heeft VyprVPN met succes extra maatregelen genomen om de VPN ook in China bruikbaar te houden.
-
-## Voordelen en nadelen van VyprVPN
-
-_Voordelen:_
-
-*   Groot aantal beschikbare IP adressen
-    
-*   Opgericht in Zwitserland en daardoor een strikt no-log policy
-    
-*   Tot 5 apparaten verbinden op één abonnement
-    
-*   30 dagen money guarantee
-    
-*   Beschikbaar in 5 talen
-    
-*   Volledige bruikbaarheid op Windows/MacOS/Linux, IOS/Android, SmartTV/Router
-    
-
-### Nadelen:
-
-*   Geen proefperiode
-    
-*   Nederlandse taal niet beschikbaar
-    
-
-## Prijzen VyprVPN
-
-VyprVPN heeft drie verschillende opties:
-
-**1 Maand Plan:**
-
-€10.95 per maand, maandelijks betaald. Inclusief 30 dagen money guarantee.
-
-**12 Maand Plan:**
-
-€3.17 per maand, betaald per jaar. Inclusief 30 dagen money guarantee.
-
-**24 Maand Plan:**
-
-€2.11 per maand, twee jaarlijks betaald. Inclusief 30 dagen money guarantee.
-
-VyprVPN biedt hoge kortingen voor wie een abonnement van twee jaar af wilt sluiten, **deze zijn tot 80% goedkoper**.
-
-[Probeer VyprVPN](https://vyprvpn.com)
-
-## 9. TunnelBear VPN
-
-### Meest opvallende VPN service met duidelijke mascotte
-
-[![Tunnelbear](/images/migrated/tunnelbear.webp)](http://surfshark.com)
-
-TunnelBear VPN ken je waarschijnlijk van zijn opvallende mascotte. Deze VPN aanbieder komt uit Canada en bestaat vanaf 2011. Via de VPN kun je verbinden met servers **verspreid over 23 landen wereldwijd**.
-
-Bij TunnelBear VPN kun je rekenen op een stabiele en veilige VPN verbinding.
-
-Ze hebben enkele in het oog springende functies zoals de **GhostBear**. Met deze technologie wordt encrypted verkeer gedekt zodat je makkelijk langs de firewalls gaat. Erg handig wanneer de firewall bepaalde bronnen blokkeert.
-
-Een andere functie is de **VigilantBear**, dit is een functie die veel lijkt op de kill-switch functie. Deze functionaliteit zorgt ervoor dat er geen data wordt verzonden als de verbinding plotseling wegvalt. Je voorkomt zo dat er een lek ontstaat.
-
-Ook is er de **FastestTunnel** waarmee je automatisch zoekt naar de VPN tunnel met de hoogste snelheid (lowest ping). En tot slot **SplitBear**. Hiermee ben je in staat om een aantal applicaties altijd alleen maar te verbinden via een VPN tunnel.
-
-## Voordelen en nadelen van TunnelBearVPN
-
-_Voordelen:_
-
-*   Beste design van een VPN
-    
-*   Bewaart geen data, strikte no-log policy
-    
-*   Unieke technologie en beschikbaar op ieder apparaat
-    
-*   Uitgebreide blog over online veiligheid
-    
-*   Snelle VPN verbinding
-    
-*   Gratis proefversie met 500MB data
-    
-*   Zakelijke opties mogelijk
-    
-
-### Nadelen:
-
-*   Relatief weinig servers om te verbinden
-    
-*   Nederlandse taal niet ondersteund
-    
-*   Geen informatie over verbinding met Smart TV’s en Routers
-    
-
-## Prijzen TunnelBearVPN
-
-Bij TunnelBearVPN heb je een gratis proefversie en mogelijkheden voor een zakelijk account.
-
-**Gratis Plan:**
-
-Bij het gratis plan heb je 500MB verkeer om de beveiligde VPN uit te testen.
-
-**Unlimited Plan:**
-
-€2.81 per maand, maandelijkse betaling. Beschikbaar op 5 apparaten tegelijkertijd.
-
-**Teams Plan:**
-
-€4.87 per maand, maandelijks betaald. Onbeperkt dataverkeer en mogelijk vanaf 2 gebruikers met ieder 5 verschillende apparaten.
-
-Bij TunnelBearVPN zijn er geen extra kortingen, maar daarbij moet gezegd worden dat de prijzen over het algemeen al vrij laag zijn.
-
-[Probeer TunnelBearVPN](https://www.tunnelbear.com/)
-
-## 10. StrongVPN
-
-### Amerikaanse VPN service, bruikbaar voor vrijwel alles
-
-[![Strongvpn](/images/migrated/strongvpn.webp)](http://surfshark.com)
-
-**StrongVPN** komt uit de Verenigde Staten en is net zoals veel van de andere Amerikaanse VPN’s wijdverspreid.
-
-Veel mensen gebruiken StrongVPN om geblokkeerde inhoud te tonen. Zo werkt deze VPN zelfs om de Chinese firewall te omzeilen. Daarvoor gebruikt men tal van servers en beveiligde verbindingen.
-
-## Voordelen en nadelen van StrongVPN
-
-_Voordelen:_
-
-*   Sterke no-log policy
-    
-*   Werkt met Windows/MacOS/Linux, IOS/Android, Routers en SmartTV’s
-    
-*   Brede mogelijkheid aan servers
-    
-*   WireGuard protocol
-    
-*   30 dagen money guarantee
-    
-*   Extra services zoals Secure Storage 250GB op SugarSync
-    
-
-### Nadelen:
-
-*   Geen proefperiode, wel money guarantee
-    
-*   Niet veel mogelijkheden voor pakketten
-    
-*   Nederlandstalige versie niet aanwezig
-    
-
-## Prijzen StrongVPN
-
-Er zijn twee opties bij StrongVPN:
-
-**1 Maand Plan:**
-
-€8.46 per maand, maandelijks betaald. 30 dagen money guarantee en 250GB beveiligde cloud opslag inbegrepen.
-
-**12 Maanden Plan:**
-
-€2.46 per maand, jaarlijks betaald. 30 dagen money guarantee en 250GB beveiligde cloud opslag inbegrepen.
-
-[Probeer StrongVPN](https://strongvpn.com)
-
-## 11. PrivateInternetAccess VPN
-
-### Geweldige VPN met alles wat je nodig hebt
-
-[![Pia](/images/migrated/pia.webp)](http://surfshark.com)
-
-PrivateInternetAccess VPN bestaat al sinds 2010. Er is een strikte no-log policy ookal komt deze VPN uit de Verenigde Staten.
-
-Je kunt onder andere gebruikmaken van de OpenVPN, PPTP en IPSEC/L2TP verbindingsprotocollen en proxy servers zoals SOCKS5.
-
-Het is een volledig anonieme VPN service met een grote bandbreedte. De VPN is simpel in gebruik, al moet ik zeggen dat het design wat controversieel is.
-
-## Voordelen en nadelen van PrivateInternetAccess VPN
-
-_Voordelen:_
-
-*   No-log policy en proxy server verbinding mogelijk
-    
-*   Maar liefs 16000+ servers wereldwijd
-    
-*   De VPN maakt gebruik van de meest beveiligde verbindingsprotocollen zoals OpenVPN, PPTP en IPSEC/L2TP
-    
-*   Hoge snelheid in de verbinding
-    
-*   Beschikbaar in 18 talen waaronder Nederlands
-    
-*   Goede prijzen en een 30 dagen money guarantee
-    
-
-### Nadelen:
-
-*   Het design van de app is een beetje controversieel.
-    
-
-## Prijzen PrivateInternetAccess VPN
-
-PrivateInternetAccess VPN heeft vrij aantrekkelijke prijzen, zeker bij een jaarplan.
-
-**1 Maand Plan:**
-
-€9.29 per maand, maandelijks betaald. 30 dagen money guarantee inbegrepen.
-
-**1 Jaar Plan:**
-
-€3.10 per maand, jaarlijks betaald. 30 dagen money guarantee inbegrepen.
-
-**Twee Jaren Plan:**
-
-€2.50 per maand, tweejaarlijks betaald. Een extra optie hierbij is Boxcryptor; een cloud beveiligingslicentie. 30 dagen money guarantee inbegrepen.
-
-[Probeer PrivateInternetAccess VPN](https://privateinternetaccess.com)
-
-## 12. HideMyAss! VPN
-
-### Betrouwbare VPN-service
-
-[![Hma](/images/migrated/hma.webp)](http://surfshark.com)
-
-Het Engelse HideMyAss! VPN is een VPN service die volledige anonimiteit garandeert.
-
-De VPN is op 5 apparaten tegelijkertijd te gebruiken. Ze maken gebruik van 256-bit AES om encrypted verkeer te garanderen. Voor apparaten die draaien op Windows of Android bieden ze het OpenVPN protocol, voor apparaten op MacOS en iOS gebruiken ze het IKEv2/IPsec protocol.
-
-De VPN service is is te gebruiken op vrijwel ieder platform, van iOS tot Linux.
-
-Met **meer dan 1000 servers in 190 verschillende landen** is er altijd een geschikte server te vinden om een beveiligde verbinding op te starten.
-
-## Voordelen en nadelen van HideMyAss! VPN
-
-_Voordelen:_
-
-*   Servers in 190 verschillende landen
-    
-*   Strikte no-log policy
-    
-*   Veel instellingen mogelijk zoals random IP en split tunneling
-    
-*   P2P en torrenting toegang mogelijk
-    
-*   In 40 verschillende talen beschikbaar waaronder Nederlands
-    
-*   Goed en gebruiksvriendelijk design
-    
-*   Bruikbaar met ieder platform
-    
-
-### Nadelen:
-
-*   Geen proefperiode als je de VPN aanschaft vanuit Nederland
-    
-*   Snelheid is oké, maar zou beter kunnen
-    
-
-## Prijzen HideMyAss! VPN
-
-HideMyAss! VPN service heeft een gratis proefperiode van 7 dagen, maar deze is niet beschikbaar in Nederland. Opties waar je op uit komt zijn:
-
-**1 Maand Plan:**
-
-€10.99 per maand, betaald per maand.
-
-**12 Maanden Plan:**
-
-€4.39 per maand, betaald per jaar.
-
-**36 Maanden Plan:**
-
-€2.99 per maand, betaald per drie jaar.
-
-[Probeer HideMyAss! VPN](https://hidemyass.com)
-
-## Wat is de beste VPN?
-
-Uiteindelijk zou je kunnen stellen dat de meeste VPN’s in deze lijst prima bruikbaar zijn. Ze voldoen aan de verwachtingen. Sommigen hebben wat meer en andere voordelen dan anderen. Voordat je **de beste VPN kiest** zal je vooral moeten kijken naar:
-
-1.  De locatie van de VPN. Dit is erg belangrijk. Dit heeft namelijk directe invloed op de privacy en no-log policy. Het is slechts soms dat bedrijven zijn toegestaan om geen data te bewaren.
-2.  Protocollen en technische instellingen. Elke VPN gebruikt hier andere technieken voor.
-3.  Hoeveelheid servers en vooral waar deze zijn gevestigd. Dit kan een groot verschil maken wanneer je specifieke content op Netflix wilt ontgrendelen.
-
-Verder gaat het puur uit van persoonlijke voorkeur. Als je specifiek een VPN wilt hebben voor een streaming service zoals Netflix, kies dan voor ProtonVPN of HotspotShield Premium. Daarmee kom je dan goed uit de voeten!
-
-Als je volledig anoniem wilt browsen, kies dan voor NordVPN of Surfshark VPN.
-
-Als je een VPN zoekt die werkt in China of soortgelijke landen, ga dan voor NordVPN, VyprVPN of Surfshark VPN.
-
-Belangrijk nog om mee af te sluiten, is dat je er goed aan doet om een VPN app te downloaden en te activeren alvorens je naar een land reist met censuur. De kans dat je daar de website van de VPN nog kunt bezoeken is klein. De overheden zijn immers ook niet dom ;).
-
-**Succes en veel plezier met jouw beste VPN!**
+[Ga naar NordVPN](/go/get-nordvpn)
