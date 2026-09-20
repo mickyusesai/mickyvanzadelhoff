@@ -76,6 +76,22 @@
   .timeline__item--now { @apply bg-violet text-white; }
   .timeline__item--now .timeline__year { @apply text-lime; }
   .timeline__item--now .timeline__text { @apply text-white/80; }
+  /* Long Dutch compounds in headings ("huiswerkbegeleider") must break instead of widening the page on phones */
+  .prose h1, .prose h2, .prose h3, article h1 { overflow-wrap: anywhere; hyphens: auto; }
+  /* Interactive calculators inside articles (batch 3): inputs left, big result right */
+  .tool { @apply sticker my-8 grid gap-4 bg-surface p-5 sm:p-6; }
+  .tool__title { @apply m-0 font-display text-[18px] font-bold leading-snug; }
+  .tool__intro { @apply m-0 text-[14px] text-muted; }
+  .tool__grid { @apply grid gap-3 sm:grid-cols-2; }
+  .tool__field { @apply grid gap-1 text-[13px] font-bold; }
+  .tool__input { @apply w-full rounded-xl border-2 border-ink bg-white px-3 py-2 text-[15px] font-medium text-ink; }
+  .tool__input:focus { @apply outline-none ring-4 ring-lime; }
+  .tool__results { @apply grid gap-3 sm:grid-cols-2; }
+  .tool__result { @apply grid gap-1 rounded-2xl border-2 border-ink bg-violet-soft px-4 py-3; }
+  .tool__label { @apply m-0 text-[11px] font-extrabold uppercase tracking-[0.14em] text-muted; }
+  .tool__value { @apply m-0 font-display text-[24px] font-bold leading-tight text-violet; }
+  .tool__sub { @apply m-0 text-[13px] text-muted; }
+  .tool__note { @apply m-0 text-[12px] text-muted; }
 
   /* Dark band: the rhythm change borrowed from the reference site */
   .band-dark { @apply bg-ink text-white; }

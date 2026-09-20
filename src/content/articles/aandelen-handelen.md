@@ -1,8 +1,8 @@
 ---
-title: "Geld verdienen met beleggen in aandelen"
-description: "Als je begint met beleggen in aandelen dan kun je dat het beste doen door geld bij een broker (online investeringsaccount) te zetten. Hiermee kun je…"
+title: "Geld verdienen met beleggen in aandelen in 2026 – Zo begin je"
+description: "Beleggen in aandelen in 2026: live grafiek, brokers vergeleken, ETF's, samengesteld rendement berekenen, hefboom en de box 3-regels van 2026 en 2028."
 date: 2018-04-22
-updated: 2022-12-19
+updated: 2026-09-19
 category: "online-geld-verdienen"
 slug: "aandelen-handelen"
 lang: "nl"
@@ -10,203 +10,254 @@ draft: false
 featuredImage: "/images/headers/aandelen-handelen.webp"
 ---
 
-**Beleggen in aandelen** kan een geweldige manier zijn om jouw vermogen te doen groeien en te voorkomen dat jouw geld verdampt door inflatie. Voor lange termijn beleggers zijn aandelen **een goede investering gebleken**, zelfs wanneer de markt veel heen en weer beweegt.
+**Beleggen in aandelen** is voor mij altijd de saaiste én de betrouwbaarste manier geweest om geld te laten groeien. Saai, omdat je het beste zo min mogelijk doet. Betrouwbaar, omdat de wereldwijde aandelenmarkt over de laatste honderd jaar, met alle crashes erbij, gemiddeld zo'n 7% per jaar boven de inflatie heeft opgeleverd.
 
-Als je **begint met beleggen in aandelen** dan kun je dat het beste doen door geld bij [een broker](/go/etoro-trading) (online investeringsaccount) te zetten. Hiermee kun je vervolgens aandelen kopen. Bij veel brokers kun je beginnen te investeren met slechts één enkel aandeel. Een groot startvermogen is dus niet altijd nodig.
+In dit artikel lees je wat een aandeel eigenlijk is, hoe je in 2026 een broker kiest (en waarom de kosten sinds mijn eerste versie van dit artikel flink zijn gedaald), wat het verschil is tussen losse aandelen, beleggingsfondsen en ETF's, hoe samengesteld rendement werkt (met een rekentool), wat een hefboom doet en wat de Belastingdienst in box 3 van je wil. Sinds ik dit artikel in 2018 schreef is er veel veranderd: brokers rekenen nog maar een euro per order, ETF's zijn de standaard geworden voor beginners, de box 3-regels zijn omgegooid en de rente op je spaarrekening is terug. De grafiek hieronder is live, dus die klopt ook als je dit over een jaar leest.
 
-In dit artikel vertel ik je **hoe je kunt beleggen in aandelen****, hoe daar geld mee wordt verdient, wat beleggingsfondsen, ETF´s en CFD´s zijn en we duiken in de risico’s**. Om goed van start te gaan, even terug naar de basics; wat is een aandeel eigenlijk?
+Eerst even terug naar de basis: wat is een aandeel eigenlijk?
 
-## 1. Wat is een aandeel?
+## Wat is een aandeel?
 
-Een aandeel is in theorie **een stukje bedrijf wat jij kunt bezitten**. Je koopt dan een aandeel in een bedrijf en bent daarmee letterlijk een beetje de eigenaar. Bedrijven brengen deze aandelen vaak uit om geld in te zamelen voor een grote investering. Dat gebeurt dan via een zogenoemde **beursgang**.
+Een aandeel is **een stukje bedrijf dat jij kunt bezitten**. Je koopt een aandeel in een bedrijf en bent daarmee letterlijk een klein beetje eigenaar. Bedrijven geven aandelen uit om geld op te halen voor een grote investering; dat gebeurt via een **beursgang**. Daarna kun je die stukjes bedrijf op de beurs kopen en verkopen, tegenwoordig bijna altijd via een app van een online broker.
 
-![Wallstreet aandelen beurs](/images/migrated/wallstreet-aandelen-foto-1.webp "Wallstreet aandelen beurs")
+![Een gebouw dat als een taart is aangesneden, met één punt op een bordje](/images/spots/aandelen-stukje-bedrijf.webp "Een aandeel: één punt van de taart is van jou")
 
-Zo’n stukje bedrijf, een aandeel dus, kun je **verhandelen op de beurs**. Je kunt daar aandelen kopen en verkopen, dit gaat veelal via (online) brokers. Om te handelen in aandelen hoef je je eigenlijk alleen maar bij **zo’n digitale broker** aan te melden.
+> De prijs van een aandeel wordt bepaald door **vraag en aanbod**. Willen veel mensen een aandeel kopen, dan gaat de prijs omhoog. Willen veel mensen het verkopen, dan gaat de prijs omlaag.
+>
+> Jij verdient geld met aandelen op twee manieren: door een aandeel voor meer te verkopen dan je ervoor betaalde (koerswinst), en doordat sommige bedrijven een deel van hun winst aan aandeelhouders uitkeren (dividend).
 
-> De prijs van een aandeel wordt bepaalt door **het spel van vraag en aanbod**. Wanneer veel mensen een aandeel willen kopen, dan gaat de prijs omhoog. Wanneer veel mensen een aandeel willen verkopen, dan gaat de prijs omlaag.
-> 
-> Jij kunt geld verdienen aan het **handelen in aandelen** door een aandeel voor meer te verkopen dan waarvoor je deze inkocht.
+Waarom de vraag naar een aandeel verandert? Daar zijn talloze redenen voor. In de coronacrisis kelderden de aandelen van vliegmaatschappijen, omdat beleggers bang waren voor faillissementen. Tegelijk floreerden de makers van vaccins. In 2025 en 2026 zag je hetzelfde spel rond AI: chipbedrijven als ASML en Nvidia werden de motor van de beurs, terwijl bedrijven die AI dreigt te vervangen juist onder druk kwamen te staan.
 
-**Verandering in de vraag naar een aandeel** (en daarmee de prijs) kan tal van redenen hebben.
+Om te beleggen in aandelen moet je **begrijpen dat dit soort gebeurtenissen de koers beweegt**, maar je hoeft ze niet te voorspellen. Dat is de belangrijkste les die ik in de jaren dat ik beleg heb geleerd: de meeste mensen die het proberen te voorspellen, verliezen van de mensen die gewoon breed gespreid kopen en wachten.
 
-Zo zag je bijvoorbeeld in de coronacrisis dat aandelen van vliegmaatschappijen hard kelderden. De reden hiervoor was dat faillissementen op de loer lagen en je als investeerder dus zomaar je geld kon verliezen. Door al die verkoopkracht, verloren veel vliegmaatschappijen hun waarde. Tegelijkertijd waren er in diezelfde coronacrisis ook bedrijven die floreerden. Denk bijvoorbeeld aan de ontwikkelaars van vaccins.
+Wil je toch leren hoe je zelf een bedrijf beoordeelt? Dan is [deze cursus van een uur over het analyseren van aandelen](/go/cursus-aandelen) een prima start (€75 op het moment van schrijven, gemaakt met Tim Nijsmans, docent Private Banking).
 
-Om te beleggen in aandelen moet je **begrijpen welke effecten dit soort gebeurtenissen kunnen hebben** op de koers van een aandeel. Al is dit natuurlijk pas het begin van een lijst aan factoren die de prijs van een aandeel beïnvloeden.
+## De wereldwijde aandelenmarkt, live
 
-Wanneer je gaat investeren in aandelen, is het goed **om de juiste strategieën te kennen en te weten welke aandelen de potentie hebben om in waarde te stijgen**.
+Voordat we het over brokers en strategieën hebben, wil ik je laten zien waar dit artikel eigenlijk om draait. Hieronder zie je de koers van de iShares Core MSCI World, met bijna 128 miljard euro een van de grootste ETF's van Europa. Daarin zitten zo'n 1.400 grote bedrijven uit 23 ontwikkelde landen, in euro's op de beurs van Amsterdam. Zet de grafiek op "Alles" en kijk naar de trend, niet naar de deuken.
 
-[**Leer hoe je de juiste aandelen kunt vinden en deze eenvoudig kunt analyseren. Bekijk deze cursus >>**](/go/cursus-aandelen)
+<div class="embed not-prose" id="aandelen-chart">
+<div class="embed__frame"><div class="tradingview-widget-container" style="height:100%;width:100%"><div class="tradingview-widget-container__widget" style="height:100%;width:100%"></div></div></div>
+<p class="embed__note">iShares Core MSCI World (IWDA) in euro's op Euronext Amsterdam, via TradingView. Met de knoppen onder de grafiek kies je van één maand tot de hele geschiedenis. De grafiek laadt pas als je hier scrolt en bevat geen advies, alleen de koers. Zie je niets (bijvoorbeeld door een adblocker)? <a href="https://www.tradingview.com/chart/?symbol=EURONEXT%3AIWDA" rel="noopener" target="_blank">Bekijk de koers op TradingView</a>.</p>
+</div>
 
-## 2. Kies een broker om te beleggen in aandelen
+<script>
+(function () {
+  var box = document.getElementById('aandelen-chart'); if (!box) return;
+  var frame = box.querySelector('.tradingview-widget-container'), done = false;
+  function load() {
+    if (done) return; done = true;
+    var s = document.createElement('script');
+    s.src = 'https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js'; s.async = true;
+    s.text = JSON.stringify({
+      autosize: true, symbol: "EURONEXT:IWDA", interval: "W", timezone: "Europe/Amsterdam", theme: "light", style: "3",
+      locale: "nl_NL", withdateranges: true, range: "ALL", hide_side_toolbar: true, hide_top_toolbar: false,
+      allow_symbol_change: false, save_image: false, details: false, hotlist: false, calendar: false, hide_volume: true,
+      backgroundColor: "#FFFFFF", gridColor: "rgba(228,224,245,0.7)", support_host: "https://www.tradingview.com"
+    });
+    frame.appendChild(s);
+  }
+  if ('IntersectionObserver' in window) {
+    var io = new IntersectionObserver(function (e) { if (e[0].isIntersecting) { io.disconnect(); load(); } }, { rootMargin: '400px' });
+    io.observe(box);
+  } else { load(); }
+})();
+</script>
 
-In het algemeen heb je voor het beleggen in aandelen altijd een investeringsaccount nodig. In veel gevallen kun je dan spreken van een zogenaamde ‘**broker**’.
+Zie je die deuk in 2020 (corona) en die in 2022 (inflatie en rente)? Op het moment zelf voelde dat als het einde van de wereld. Op de schaal van de hele grafiek zijn het hobbels. Wie in de dip verkocht, verloor. Wie gewoon door bleef kopen, staat er nu flink beter voor. Over de laatste tien jaar leverde de MSCI World in euro's gemiddeld ruim 12% per jaar op, sinds 2000 (dus inclusief de dotcom-crash en de kredietcrisis) zo'n 6,6% per jaar.
 
-Een broker is letterlijk vertaald een ‘**beurshandelaar**’. Wellicht doet dat je veel denken aan iemand die op Wallstreet met papieren in de hand staat te zwaaien…
+## Kies een broker om te beleggen in aandelen
 
-![Broker wolf of wallstreet](/images/migrated/broker-wolf-of-wallstreet-1.webp "Broker wolf of wallstreet")
+Om aandelen te kopen heb je een beleggingsrekening nodig bij een **broker**. Letterlijk vertaald een beurshandelaar, en misschien denk je dan aan iemand die op Wall Street met papieren staat te zwaaien. In de praktijk is een broker in 2026 gewoon een app op je telefoon.
 
-Echter, in de praktijk ziet een broker er iets anders uit…
+![Een smartphone op een bureau met een stijgende lijngrafiek, naast een kop koffie](/images/spots/aandelen-broker-app.webp "Een broker in 2026: een app, een koffie en vooral veel geduld")
 
-**Brokers kun je online vinden en maken het beleggen in aandelen veelal makkelijk door gebruik van een app.** **Bekende brokers zijn:**
+Zelf ben ik jaren geleden bij [eToro](/go/etoro-trading) begonnen, omdat je daar met kleine bedragen kon starten en naast aandelen ook ETF's, grondstoffen en crypto vindt. Een account aanmaken is gratis en makkelijk, en op aandelen en ETF's betaal je geen commissie [via deze link](/go/etoro-trading).
 
-*   [eToro](/go/etoro-trading)
-*   De Giro
-*   Binckbank
-*   Lynx
-*   Tradersonly
-*   Saxo Bank
-*   Flatex
+[Maak gratis een eToro-account](/go/etoro-trading)
 
-[![Etoro broker aandelen logo](/images/migrated/etoro-broker-aandelen-logo-1.webp)](/go/etoro-trading)
+Maar eerlijk is eerlijk: de markt is sinds 2018 enorm veranderd. Nederlandse en Duitse brokers zijn zó goedkoop geworden dat je vooral moet kijken naar wat bij jouw manier van beleggen past. Dit zijn de tarieven die ik op 19 september 2026 heb gecontroleerd:
 
-Zelf gebruik ik **eToro** voor het verhandelen van aandelen. Zij bieden een overvloed aan opties, waaronder ETF’s, aandelen, grondstoffen en cryptocurrencies. Je kunt beginnen met het verhandelen van aandelen op eToro met een commissie van 0% [**via deze link**](/go/etoro-trading). Een account aanmaken is gratis en makkelijk.
+| Broker | Aandeel Euronext Amsterdam | ETF's | Rente op niet-belegd geld | Let op |
+|---|---|---|---|---|
+| Trade Republic | €1 per order | Gratis via een maandelijks spaarplan, anders €1 | 2% (3% voor nieuwe klanten) | Duitse bank met Nederlandse IBAN; alleen online support |
+| DEGIRO | €2 + €1 afhandelingskosten | €1 voor de kernselectie (ongeveer 1.500 ETF's op Tradegate), anders vanaf €3 | Geen | Sinds oktober 2025 vallen populaire ETF's op Euronext buiten de kernselectie |
+| eToro | 0% commissie, je betaalt de spread | 0% commissie | Tot 3,55% op dollarsaldo, afhankelijk van je saldo | Rekening in dollars: 0,5% wisselkosten bij storten, $5 per opname |
+| Je eigen bank (ING, ABN AMRO, Rabobank) | Verschilt per bank, meestal duurder | Eigen fondsen | Spaarrente 1,25% tot 1,50% | Makkelijk, maar je betaalt voor het gemak |
 
-[Maak gratis eToro account](/go/etoro-trading)
+Waar je op let bij het kiezen van een broker:
 
-Tegenwoordig kun je ook **starten met beleggen** in aandelen met jouw eigen bank als broker. Dit kan in het geval van de Rabobank, ING bank en ABN Amro.
+*   **Wat kost een order, en wat kost het aanhouden van je portefeuille?** Voor iemand die één keer per maand koopt en dertig jaar wacht, is een spaarplan van €0 per maand het verschil tussen honderden euro's kosten en niets.
+*   **In welke valuta staat je rekening?** Een dollarrekening (zoals bij eToro) betekent wisselkosten bij elke storting en opname en een wisselkoersrisico bovenop je beleggingsrisico.
+*   **Kun je in euro's beleggen in ETF's?** Voor Nederlanders is dat de kern.
+*   **Wil je ook crypto?** Dan zou ik daarvoor eerder een [crypto exchange](/blog/web3/beste-crypto-exchange/) als [Finst](/blog/review/finst-crypto-exchange/) gebruiken dan de crypto-afdeling van een broker.
+*   **Wat is de reputatie en onder welke toezichthouder valt de broker?** Nederlandse brokers vallen onder de AFM, Trade Republic onder de Duitse BaFin, eToro voor Europese klanten onder de Cypriotische CySEC.
+*   **Wil je met een hefboom handelen?** Dan zit je bij een CFD-broker als eToro; daarover verderop meer, met alle waarschuwingen die erbij horen.
 
-**Het kiezen van de juiste broker** kan een groot verschil maken. Zo hanteren ze allemaal andere tarieven voor de service. Verder zijn er een aantal dingen waar je op moeten letten, namelijk:
+Of een broker **aansluit op jouw strategie** hangt vooral af van of je aandelen snel wilt verhandelen of ze jarenlang wilt vasthouden. Voor die laatste groep (de meeste mensen die dit lezen, vermoed ik) zijn de kosten per order bijna niet meer relevant. Voor wie dagelijks handelt, tellen spreads en wisselkosten juist dubbel.
 
-*   In welke aandelen kun je handelen?
-*   Biedt de broker ook crypto aan? (persoonlijk neig ik hiervoor meer naar [een crypto exchange](/blog/web3/beste-crypto-exchange/) zoals [Bitvavo](/blog/review/bitvavo-review-crypto/).)
-*   Is er realtime/actuele koersdata?
-*   Wat zijn de kosten van de broker?
-*   Wat is de reputatie van de broker?
-*   Kun je ook handelen in CFD’s met hefboomeffect?
-*   Sluit de broker aan op jouw strategie?
+## Het verschil tussen aandelen, beleggingsfondsen en ETF's
 
-Of de broker **aansluit op jouw strategie** hangt af van of je aandelen vooral snel wilt verhandelen als swing trader, of dat je ze voor de lange termijn vast wilt houden. Veel brokers rekenen namelijk kosten voor het hebben van aandelen in jouw portefeuille. Iets voor de lange termijn vasthouden kan daarmee duurder worden.
+Bij een **beleggingsfonds** koop je met één transactie in één keer een hele mand aandelen. Het fonds haalt collectief geld op en maakt daar een gespreide portefeuille van, beheerd door een fondsmanager die daar een vergoeding voor vraagt.
 
-## 3. Het verschil tussen aandelen en een beleggingsfonds
+![Een rieten mand vol kleine gekleurde blokjes, één blokje limoengroen](/images/spots/aandelen-etf-mandje.webp "Een ETF: één mandje met honderden bedrijven erin")
 
-Er is een groot verschil tussen beleggingsfondsen en op de beurs verhandelde aandelen. Bij een beleggingsfonds kun je **met één transactie gelijk een hele hoop verschillende aandelen kopen**. Deze zitten als het ware in één pakket. Een beleggingsfonds haalt in feite **collectief geld** op om hier een gedifferentieerde portefeuille van te maken.
+Het **moderne alternatief is de ETF**, het exchange-traded fund. Ook een mandje aandelen, maar dan zonder actieve beheerder: de ETF volgt gewoon een index, zoals de AEX, de S&P 500 of de MSCI World. Daardoor zijn de jaarlijkse kosten heel laag (de iShares Core MSCI World rekent 0,20% per jaar) en kun je hem net als een aandeel op de beurs kopen. In 2018 moest ik ETF's nog uitleggen; in 2026 zijn ze voor beginners de standaard, en terecht.
 
-![Beleggingsfondsen Nederland](/images/migrated/beleggingsfondsen-nederland-1.webp "Beleggingsfondsen Nederland")
+Het voordeel van zo'n mandje: waar het ene bedrijf een beetje daalt, stijgt het andere. Je risico is gespreid en je **groeit gewoon met de markt mee**. Het nadeel is dat je nooit de jackpot wint: je haalt nooit meer dan het gemiddelde.
 
-Het voordeel daarvan is dat waar één aandeel in zo’n pakket een beetje stijgt, de ander een beetje daalt. Het geeft daarmee een laag risico, maar heeft op de lange termijn beperkte groeimogelijkheden. Het groeit als het ware **met de markt mee**.
+Bij **losse aandelen** koop je een stukje van één bedrijf. Dat kan procentueel veel harder stijgen (en dalen) en heeft dus **meer risico én meer groeimogelijkheden**. Wil je in meerdere bedrijven losse aandelen kopen, dan heb je al snel een groter bedrag nodig; één aandeel ASML kost in 2026 honderden euro's. Bij veel brokers kun je gelukkig ook fracties van aandelen kopen.
 
-Voor **individuele aandelen** zit dat anders. In dat geval koop je een aandeel in één specifiek bedrijf. Je zult dus een groter aandeel hebben dan via een beleggingsfonds omdat je geld nu meer gecentreerd is. Zo’n aandeel kan procentueel meer stijgen (en dalen) en heeft **meer risico en groeimogelijkheden**.
-
-Wanneer je bij meerdere bedrijven individuele aandelen wilt kopen zal je al snel **een grotere investering achter de hand moeten hebben**. Één aandeel van een bedrijf kost in sommige gevallen al direct 1000,- euro.
-
-Een groot voordeel van een investeringsfonds is dat je enorm veel verschillende aandelen hebt en daarmee een **gespreid risico**.
-
-Wanneer je gaat beleggen in aandelen om pensioen op te bouwen, dus over de lange termijn, dan is dit zeer geschikt. Wanneer je sneller **geld wilt verdienen met aandelen** kun je beter kijken naar de individuele aandelen.
-
-Kies voor jezelf **welke investeringsoptie voor jou het beste past.**
-
-### Beleggingsfondsen en ETF’s
-
-Als je zelf aandelen wilt beheren en verhandelen dan kun je dit doen via [de online broker eToro](/go/etoro-trading). Wil je dit doen via een **beleggingsfonds** dan kun je vaak goed terecht bij jouw eigen bank. Houd er daarbij rekening mee dat er gigantische verschillen zijn in de fondsen.
-
-Het moderne alternatief voor een beleggingsfonds is de **ETF**, die term heb je vast wel eens voorbij zien komen. Het staat voor **exchange-traded fund** en is daarmee net als een beleggingsfonds een manier om gespreid aandelen te kopen. Het grote verschil is dat beleggingsfondsen actief beheert worden, en een ETF passief. Hierdoor zijn de kosten bij een ETF lager.
-
-![ETF eToro screenshot](/images/migrated/etf-etoro-screenshot-1.webp "ETF eToro screenshot")
-
-Instappen in zo’n ETF kan [via eToro](/go/etoro-trading) en is daarmee relatief eenvoudig ten opzichte van een beleggingsfonds.
-
-Je kunt hierbij kiezen voor een zeer algemene ETF of een ETF die specifiek gericht is op bijvoorbeeld de tech sector. Alleen al op eToro **vind je meer dan 300 verschillende ETF’s om in te investeren**.
-
+Mijn advies is niet zo ingewikkeld: **bouw eerst een basis met een brede ETF** en koop daarnaast, als je dat leuk vindt, met een klein deel van je geld losse aandelen van bedrijven die je begrijpt. Instappen in een ETF kan [via eToro](/go/etoro-trading), waar je honderden ETF's vindt, of via een van de brokers uit de tabel.
 
 <aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
+## Maak een budget om te beleggen in aandelen
 
-## 4. Creëer een budget om te beleggen in aandelen
+Als je nieuw bent, zit je waarschijnlijk met twee vragen.
 
-Wanneer je nieuw bent met het beleggen in aandelen zit je nu waarschijnlijk **met twee vragen**.
+**1. Hoeveel geld heb ik nodig om te beginnen?** Minder dan ooit. Bij Trade Republic en DEGIRO koop je een ETF vanaf een paar euro, bij eToro kun je storten vanaf €10. Een startvermogen van duizenden euro's is niet nodig; een vast bedrag per maand is veel belangrijker.
 
-1.  **Hoeveel geld heb ik nodig om te beleggen in aandelen?**
+**2. Hoeveel wil ik in aandelen stoppen?** Twee vuistregels die ik zelf hanteer. Eén: beleg alleen geld dat je de komende tien jaar niet nodig hebt. Twee: houd eerst een buffer van drie tot zes maanden aan uitgaven op een spaarrekening. En daar is in 2026 weer iets mee te verdienen: de ECB verhoogde de depositorente in september 2026 naar 2,50%, en waar de grootbanken blijven hangen op 1,25% tot 1,50%, betalen kleinere banken en spaarplatforms rond de 3% op vrij opneembaar spaargeld.
 
-Hoeveel geld je nodig hebt om te starten met het beleggen in aandelen hangt puur af van hoeveel een individueel aandeel kost. Van sommige bedrijven zijn de aandelen een paar euro, waar deze bij anderen in de duizenden euro’s lopen. Bij beleggingsfondsen is de minimale inleg vaak rond de duizend euro, voor ETF’s is de minimale inleg een stuk lager.
+Bij een brede ETF kun je een groot deel van je beleggingen kwijt, juist omdat het risico gespreid is. De klassieke verdeling voor een lange horizon is zo'n 80% aandelen en 20% obligaties; hoe dichter je bij het moment komt dat je het geld nodig hebt, hoe meer je richting obligaties en spaargeld schuift. Bij losse aandelen wordt het een ander verhaal: **spreid je kansen** over sectoren en landen en zet nooit alles op één bedrijf, hoe overtuigd je ook bent.
 
-2.  **Hoeveel geld wil ik in aandelen investeren?**
+## Focus op de lange termijn (en laat rendement op rendement zijn werk doen)
 
-Als je via fondsen of ETF’s belegt, dan kun je daar een groot deel van je vermogen instoppen. Dit vanwege het lage risico. In dat geval gaat het vaak om 80% van jouw portefeuille, de andere 20% zou je dan in een obligatiefonds kunnen stoppen. Die laatste is ook een langetermijninvestering met een laag risico. Dit is alleen relevant als we het hebben over een pakweg 30-jarige investering.
+Beleggen in aandelen lijkt vaak gepaard te gaan met ingewikkelde strategieën. Dat hoeft niet. De strategie die voor de meeste mensen het beste werkt, past in één zin: **koop elke maand voor een vast bedrag, wat de koers ook doet, en kijk er zo min mogelijk naar om**.
 
-![Aandelen kopen](/images/migrated/aandelen-kopen-grappig-plaatje-1.webp "Aandelen kopen")
+Dat maandelijks inleggen heet **DCA (dollar cost averaging)**: soms koop je duur, soms goedkoop, en gemiddeld zit je goed. Het haalt de emotie uit het beleggen, en emotie is precies wat beleggers geld kost.
 
-Wanneer we het hebben over individuele aandelen wordt het een heel ander verhaal. Hier is het verstandig om **jouw kansen te spreiden**. Kijk bijvoorbeeld of je jouw investering kunt verdelen tussen hoog risico aandelen en laag risico aandelen.
+Waarom de lange termijn zo belangrijk is? Omdat je rendement over je rendement krijgt. De S&P 500, de 500 grootste Amerikaanse bedrijven, leverde van 1926 tot 2026 gemiddeld 10,5% per jaar op inclusief dividend, en zo'n 7,3% per jaar na inflatie. Reken zelf maar uit wat dat met je inleg doet:
 
-## 5. Focus op de lange termijn
+<div class="tool not-prose" id="aandelen-calc">
+<p class="tool__title">Reken uit wat samengesteld rendement met jouw inleg doet</p>
+<p class="tool__intro">Vul je eigen cijfers in; de uitkomst rekent direct mee. Het rendement is een gemiddelde per jaar, vóór kosten en belasting.</p>
+<div class="tool__grid">
+<label class="tool__field">Startbedrag (€)<input class="tool__input" id="aandelen-start" type="number" min="0" step="100" value="1000"></label>
+<label class="tool__field">Inleg per maand (€)<input class="tool__input" id="aandelen-maand" type="number" min="0" step="10" value="200"></label>
+<label class="tool__field">Gemiddeld rendement per jaar (%)<input class="tool__input" id="aandelen-rendement" type="number" min="-20" max="30" step="0.1" value="7"></label>
+<label class="tool__field">Aantal jaren<input class="tool__input" id="aandelen-jaren" type="number" min="1" max="60" step="1" value="20"></label>
+</div>
+<div class="tool__results">
+<div class="tool__result"><p class="tool__label">Eindbedrag</p><p class="tool__value" id="aandelen-eind">€ 0</p><p class="tool__sub" id="aandelen-eind-sub">na 20 jaar</p></div>
+<div class="tool__result"><p class="tool__label">Waarvan rendement</p><p class="tool__value" id="aandelen-winst">€ 0</p><p class="tool__sub" id="aandelen-inleg-sub">op een inleg van € 0</p></div>
+</div>
+<p class="tool__note">Rekenvoorbeeld, geen belofte. De 7% is ongeveer wat de wereldwijde aandelenmarkt de afgelopen honderd jaar gemiddeld per jaar boven de inflatie opleverde; in losse jaren was het van −40% tot +30%.</p>
+</div>
 
-**Beleggen in aandelen gaat vaak gepaard met ingewikkelde strategieën**. Al is dat niet zozeer altijd nodig. Zo houden veel beleggers gewoon vast aan een aantal vuistregels.
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var nl = function (n) { return '€ ' + new Intl.NumberFormat('nl-NL', { maximumFractionDigits: 0 }).format(n); };
+  function calc() {
+    var p = +$('aandelen-start').value || 0, m = +$('aandelen-maand').value || 0;
+    var r = (+$('aandelen-rendement').value || 0) / 100, y = Math.max(1, Math.round(+$('aandelen-jaren').value || 1));
+    var n = y * 12, rm = Math.pow(1 + r, 1 / 12) - 1, fv;
+    if (Math.abs(rm) < 1e-9) { fv = p + m * n; } else { fv = p * Math.pow(1 + rm, n) + m * (Math.pow(1 + rm, n) - 1) / rm; }
+    var inleg = p + m * n;
+    $('aandelen-eind').textContent = nl(fv); $('aandelen-eind-sub').textContent = 'na ' + y + ' jaar';
+    $('aandelen-winst').textContent = nl(fv - inleg); $('aandelen-inleg-sub').textContent = 'op een inleg van ' + nl(inleg);
+  }
+  ['aandelen-start', 'aandelen-maand', 'aandelen-rendement', 'aandelen-jaren'].forEach(function (id) { $(id).addEventListener('input', calc); });
+  calc();
+})();
+</script>
 
-Zo kan een strategie bijvoorbeeld zijn om bij individuele aandelen iedere maand een bepaald bedrag in te leggen. Hierdoor koop je het aandeel steeds voor een andere prijs (soms duurder, soms goedkoper) en zet je in op de lange termijn. Dit proces wordt ook wel **DCA (dollar cost averaging)** genoemd omdat je voor een gemiddelde prijs inkoopt.
+Zie je wat er gebeurt als je het aantal jaren van 10 naar 30 zet? De laatste tien jaar leveren meer op dan de eerste twintig bij elkaar. Dat is geen truc, dat is rendement over rendement. **Hoe langer de periode, hoe zwaarder de laatste jaren wegen**, en daarom is vroeg beginnen belangrijker dan veel inleggen.
 
-Het beste wat je kunt doen, is om **nadat je investeert in aandelen** er niet te vaak naar om te kijken. Als je toch voor de lange termijn investeert is dit doelloos. Koersen gaan nou eenmaal dagelijks, wekelijks en maandelijks omhoog en omlaag.
+Het beste wat je na het kopen kunt doen, is er **niet te vaak naar kijken**. Koersen gaan dagelijks omhoog en omlaag; als je voor de lange termijn belegt, is dat ruis. Word je onrustig van een rode dag? Dan is een brede ETF met een maandelijks spaarplan waarschijnlijk de enige vorm van beleggen die bij je past. En dat is prima.
 
-Maar wanneer een bedrijf **toekomstperspectief** heeft zal het aandeel op de lange termijn waarschijnlijk stijgen. Probeer dus door de dagelijkse aandelenhectiek heen te kijken. Wanneer je je daar niet rustig bij kunt voelen is handelen in aandelen wellicht niet zo’n goed plan.
+## CFD's, leverage en het hefboomeffect
 
-Houd er ook rekening mee dat rendement over rendement flink kan oplopen door de jaren heen. Mocht je dus van plan zijn om voor de lange termijn te gaan beleggen in aandelen, ETF’s of beleggingsfondsen, dan geldt de regel dat **hoe langer de periode, hoe hoger het rendement**.
+Oké, we hebben het nu gehad over langetermijndenken. Er is ook een andere manier om met een kleine inleg grote posities in te nemen: handelen met een **hefboom**, meestal via een **CFD (contract for difference)**.
 
-Zie hieronder bijvoorbeeld de grafiek van de **S&P 500**; een collectie van de 500 grootste Amerikaanse bedrijven.
+Een hefboom of multiplier betekent dat je met €500 en een hefboom van 5 in feite voor €2.500 aan een aandeel handelt. Stijgt het aandeel 1%, dan maak je op je €500 een winst van 5%. **Je winsten én verliezen zijn dus vijf keer zo groot.** Daalt het aandeel 20%, dan is je hele inleg weg.
 
-![SP 500 laatste 100 jaar grafiek](/images/migrated/sp-500-laatste-100-jaar-data-grafiek-1.webp "SP 500 laatste 100 jaar grafiek")
+![Een wip waarop een kleine munt een enorme stapel munten omhoog tilt, balancerend op de rand van een klif](/images/spots/aandelen-hefboom.webp "Een hefboom: een kleine inleg tilt een grote positie, tot de wip kantelt")
 
-**Over de laatste 100 jaar is het gemiddelde rendement op de S&P500 zo’n 7,1% per jaar**. Hierin is de inflatie al verwerkt. Als we daarmee rekenen voor de toekomst dan komen we op het volgende uit.
+Sinds de Europese regels van ESMA mogen particulieren maximaal een hefboom van 5:1 op losse aandelen en 20:1 op grote indices gebruiken, en moet elke CFD-aanbieder erbij vertellen hoeveel van zijn klanten geld verliezen. Bij eToro is dat volgens hun eigen risicowaarschuwing in september 2026 51% van de particuliere beleggers. Dat is dus geen kleine lettertjes, dat is de helft.
 
-Wanneer je nu **€10.000** investeert met een gemiddeld rendement van 7,1%, dan is dat:
-
-*   over 10 jaar: **€19.856**
-*   over 15 jaar: **€27.980**
-*   over 20 jaar: **€39.426**
-*   over 25 jaar: **€55.557**
-*   over 30 jaar: **€78.286**
-
-Zie je wat hier gebeurt? De bedragen lopen zo snel op omdat je ook rendement over rendement krijgt. **Lange termijn investeren loont dus**.
-
-## 6. CFD’s, leverage en het hefboomeffect
-
-Oké, we hebben het nu gehad over het langetermijndenken. Echter zijn er ook andere manieren om met een minimale investering geld te verdienen met aandelen. Dat doe je door te handelen in aandelen met een hefboomeffect.
-
-Een **CFD (contract for difference)**, **leverage traden** of **hefboomeffect** is handig wanneer je met weinig geld wilt handelen, maar het geeft wel een verhoogt risico.
-
-Een hefboom of multiplier wil zeggen dat wanneer jij €500,- op een aandeel inzet en een multiplier van 5 gebruikt, je in feite €2500,- van dit aandeel koopt. Mocht het aandeel dan stijgen met 1%, dan heb jij op je €500,- een 5% winst. **Je winsten én verliezen zijn dan dus 5x zo groot.**
-
-Hoe groot je leverage is kun je zelf bepalen. Het spreekt voor zich dat je met een hogere leverage een groter risico loopt. Je kunt dan eenvoudig al je inleg kwijtraken. Wees je hier bewust van en gebruik géén (hoge) leverage op volatiele assets zoals bijvoorbeeld [crypto](/blog/web3/handelen-in-crypto-valuta/).
-
-![Leverage handelen met CFD's](/images/migrated/leverage-handelen-cfd-1.webp "Leverage handelen met CFD’s")
-
-Zo’n CFD of hefboom brengt je ook in de mogelijkheid om **‘short te gaan’** op een aandeel. Je zet dan niet in op de waardestijging, maar op de waardedaling van een aandeel.
-
-Bij eToro kun je de optie voor CFD’s vinden onder de term ‘[leverage](/go/cfd-etoro)‘. Dat ziet er dan als volgt uit:
-
-![Leverage handelen etoro cfd](/images/migrated/leverage-handelen-etoro.webp "Leverage handelen etoro cfd")
+Een CFD maakt het ook mogelijk om **short te gaan**: je zet dan in op een daling in plaats van een stijging. Bij eToro vind je de hefboom onder de term [leverage](/go/cfd-etoro). Er is één regel die ik je wil meegeven: gebruik altijd een stoploss, en gebruik nooit een hoge hefboom op iets volatiels als [crypto](/blog/web3/handelen-in-crypto-valuta/). Weet je niet wat een stoploss is? Dan is leverage traden nu nog niet the way to go ;).
 
 [Leverage traden op eToro](/go/cfd-etoro)
 
-Omdat leverage traden grote risico’s met zich meebrengt is het lang niet voor iedereen aan te raden. Wees jezelf **bewust van deze risico’s** en gebruik bij het handelen in CFD’s altijd een stoploss om te voorkomen dat je meer verliest dan je zou willen riskeren… Als je niet weet wat een stoploss is, dan is leverage traden nu nog niet the way to go ;).
+## Risico's bij beleggen in aandelen
 
-## 7. Risico’s bij beleggen in aandelen
+Beleggen is **nooit zonder risico**. Het risico van een brede ETF is kleiner dan dat van losse aandelen, maar ook een ETF kan in een slecht jaar 30 tot 40% dalen; de MSCI World verloor in 2008 ruim 40% in dollars. De risico's waar je over na moet denken:
 
-Beleggen in aandelen is **nooit zonder risico’s**. Laten we daarom kijken naar welke risico’s het eigenlijk met zich meebrengt. Zoals eerder al gezegd is het risico met een beleggingsfonds of ETF kleiner, dan met individuele aandelen. Maar ook met minder potentieel.
+*   **De markt zelf.** Een oorlog, een pandemie, een energiecrisis of een renteschok (herkenbaar?) drukt de winsten van bedrijven en daarmee de koersen. Het enige medicijn is tijd: elke crash in de grafiek hierboven is tot nu toe weer goedgemaakt.
+*   **Wisselkoersen.** Beleg je in Amerikaanse aandelen, dan beleg je ook in de dollar. In 2025 zakte de dollar ten opzichte van de euro, en dat kostte Nederlandse beleggers rendement terwijl de Amerikaanse beurs zelf steeg. Een wereldwijde ETF heeft dit risico ook (ruim de helft van de MSCI World is Amerikaans), maar spreidt het.
+*   **Eén bedrijf.** Een bedrijf kan omvallen, gefraudeerd hebben of simpelweg ingehaald worden. Dat risico spreid je weg met een mandje; bij losse aandelen draag je het zelf.
+*   **Jijzelf.** Verkopen in paniek, kopen op een hype, te vaak handelen: verreweg de meeste verliezen van particuliere beleggers komen niet van de markt maar van hun eigen gedrag.
 
-Risico’s bij beleggen waar je over na moet denken zijn de volgende:
+## Belasting over aandelen in 2026 (box 3)
 
-1.  **Problemen op de markt**
+Dit onderdeel sloeg ik in de eerste versie van dit artikel over, en dat was een fout, want het scheelt echt geld. In Nederland vallen aandelen en ETF's in **box 3**, net als spaargeld en crypto. Je betaalt geen belasting over je winst bij verkoop, maar jaarlijks over de **waarde op 1 januari**, ook als je niets hebt verkocht.
 
-Stel er is een oorlog of wereldwijde pandemie (herkenbaar?) dan wordt er minder geld uitgegeven. Dit heeft als gevolg dat aandelenkoersen dalen. De omzet van een bedrijf is namelijk grotendeels gekoppeld aan de aandelenkoers.
+![Een kalenderblad met de eerste dag omcirkeld en een stapel munten erop](/images/spots/aandelen-box3.webp "Box 3: de fiscus kijkt naar de waarde van je beleggingen op 1 januari")
 
-2.  **Wisselkoersen**
+Voor 2026 gelden deze cijfers: beleggingen tellen als 'overige bezittingen' met een forfaitair rendement van 6,00%, spaargeld met 1,28% (voorlopig) en schulden met 2,70% (voorlopig, boven een drempel van €3.800). Over dat fictieve rendement betaal je 36% belasting. Het heffingsvrije vermogen is €59.357 per persoon, €118.714 met fiscaal partner. Effectief betaal je over beleggingen boven die vrijstelling dus zo'n 2,2% van de waarde per jaar.
 
-Als je belegt in Amerikaanse aandelen en dus met dollars, dan kan een wijziging in de wisselkoers met de euro invloed hebben op de waarde van jouw aandeel. Bij een negatieve wijziging van de wisselkoers kan dit een groot verschil maken. Vooral vanwege de recente volatiliteit van die wisselkoers, waarbij deze in een jaar zomaar 10% kan veranderen, is dit iets wat je zeker in de gaten moet houden.
+<div class="tool not-prose" id="aandelen-box3">
+<p class="tool__title">Reken uit wat je in 2026 in box 3 betaalt</p>
+<p class="tool__intro">Waarde van je spaargeld en beleggingen op 1 januari 2026, zonder schulden en zonder fiscaal partner. Met partner verdubbelt de vrijstelling.</p>
+<div class="tool__grid">
+<label class="tool__field">Spaargeld (€)<input class="tool__input" id="aandelen-b3-spaar" type="number" min="0" step="1000" value="20000"></label>
+<label class="tool__field">Aandelen, ETF's en crypto (€)<input class="tool__input" id="aandelen-b3-beleg" type="number" min="0" step="1000" value="60000"></label>
+</div>
+<div class="tool__results">
+<div class="tool__result"><p class="tool__label">Belasting box 3</p><p class="tool__value" id="aandelen-b3-belasting">€ 0</p><p class="tool__sub">per jaar, tarief 36%</p></div>
+<div class="tool__result"><p class="tool__label">Belaste grondslag</p><p class="tool__value" id="aandelen-b3-grondslag">€ 0</p><p class="tool__sub" id="aandelen-b3-sub">na vrijstelling van € 59.357</p></div>
+</div>
+<p class="tool__note">Rekent met de forfaits van 2026: 1,28% op spaargeld (voorlopig) en 6,00% op beleggingen. Was je werkelijke rendement lager dan het forfait, dan kun je via de tegenbewijsregeling over dat lagere rendement aangifte doen.</p>
+</div>
 
-3.  **Liquiditeit van een bedrijf**
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var nl = function (n) { return '€ ' + new Intl.NumberFormat('nl-NL', { maximumFractionDigits: 0 }).format(n); };
+  var VRIJ = 59357, SPAAR = 0.0128, BELEG = 0.06, TARIEF = 0.36;
+  function calc() {
+    var s = +$('aandelen-b3-spaar').value || 0, b = +$('aandelen-b3-beleg').value || 0, tot = s + b;
+    var grondslag = Math.max(0, tot - VRIJ);
+    var forfait = tot > 0 ? (s * SPAAR + b * BELEG) / tot : 0;
+    var belasting = grondslag * forfait * TARIEF;
+    $('aandelen-b3-belasting').textContent = nl(belasting);
+    $('aandelen-b3-grondslag').textContent = nl(grondslag);
+    $('aandelen-b3-sub').textContent = 'na vrijstelling van ' + nl(VRIJ) + ', forfait ' + new Intl.NumberFormat('nl-NL', { maximumFractionDigits: 2 }).format(forfait * 100) + '%';
+  }
+  ['aandelen-b3-spaar', 'aandelen-b3-beleg'].forEach(function (id) { $(id).addEventListener('input', calc); });
+  calc();
+})();
+</script>
 
-De liquiditeit van een bedrijf gaat over in hoeverre een bedrijf kan beschikken over financiële middelen. Een liquiditeitsrisico houdt in dat aandelen niet of moeizaam worden verkocht en daardoor een prijsdaling van een aandeel teweegbrengen. Met die prijsdaling wordt de vraag naar een aandeel weer opgekrikt.
+Drie dingen die je moet weten:
 
-## 8. Conclusie beleggen in aandelen
+*   **Tegenbewijsregeling.** Was je werkelijke rendement (koerswinst plus dividend, min koersverlies) lager dan het forfait, dan mag je sinds de uitspraken van de Hoge Raad aangifte doen over dat werkelijke rendement. In een slecht beursjaar scheelt dat veel.
+*   **Dividendbelasting.** Op Nederlands dividend wordt 15% ingehouden, en dat verreken je gewoon in je aangifte. Op Amerikaans dividend houdt de VS standaard 30% in; met een W-8BEN-formulier (de meeste brokers regelen dat automatisch) wordt dat 15%, dat je ook weer kunt verrekenen.
+*   **Vanaf 2028 verandert alles.** De Tweede Kamer stemde op 12 februari 2026 in met de Wet werkelijk rendement box 3. Vanaf 2028 betaal je 36% over je echte rendement, inclusief koerswinst die je nog niet hebt verzilverd, met een heffingsvrij resultaat van €1.800 per persoon. Verliezen worden dan verrekenbaar. De Eerste Kamer moet nog stemmen, dus de details kunnen nog schuiven.
 
-Klaar om te beleggen in aandelen? [Maak een account aan bij een online broker](/go/etoro-trading) en je kunt vandaag nog beginnen met het opbouwen van jouw portefeuille. Afhankelijk van het risico dat jij acceptabel vindt, kun je kiezen voor:
+## Veelgestelde vragen over beleggen in aandelen
 
-*   Investeren in ETF’s en beleggingsfondsen (laag risico)
-*   Investeren in losse aandelen (gemiddeld risico)
-*   CFD’s en leverage handelen (hoog risico)
+**Is 2026 een goed moment om te beginnen?** Voor een langetermijnbelegger is het antwoord bijna altijd: het beste moment was tien jaar geleden, het op één na beste moment is nu. Beleg je maandelijks, dan maakt het instapmoment nauwelijks uit.
 
-Hoe hoger het risico, hoe groter het mogelijke rendement. Dit zie je ook als je kijkt naar **speculatieve assets zoals cryptocurrencies**, welke je tevens ook op [eToro](/go/etoro-trading) kunt kopen.
+**Wat is het verschil tussen de AEX en de MSCI World?** De AEX bevat de 25 grootste fondsen van de Amsterdamse beurs en hangt zwaar op een paar bedrijven, zoals ASML en Shell. De MSCI World spreidt over zo'n 1.400 bedrijven in 23 landen. Voor een basisportefeuille kies ik altijd de wereld boven Nederland.
+
+**Moet ik mijn beleggingen opgeven?** Ja, in box 3, naar de waarde op 1 januari. Nederlandse brokers geven de gegevens door aan de Belastingdienst; de aangifte staat meestal al vooringevuld. Beleg je bij een buitenlandse broker als eToro of Trade Republic, controleer dan zelf of alles erin staat.
+
+**Wat is een spread?** Het verschil tussen de koop- en verkoopprijs op hetzelfde moment. Bij brokers "zonder commissie" zit daar hun verdienmodel; bij populaire aandelen en ETF's is de spread klein, bij exotische fondsen kan hij oplopen tot een paar procent.
+
+## Conclusie beleggen in aandelen
+
+Klaar om te beleggen in aandelen? [Maak een account aan bij een online broker](/go/etoro-trading) en begin vandaag nog met je eerste, kleine, maandelijkse inleg. Afhankelijk van het risico dat jij acceptabel vindt, kies je voor:
+
+*   Een brede ETF of beleggingsfonds, elke maand een vast bedrag (laag risico, de basis voor bijna iedereen)
+*   Losse aandelen van bedrijven die je begrijpt (gemiddeld risico, met een klein deel van je geld)
+*   CFD's en hefboom (hoog risico, de helft van de klanten verliest, alleen met geld dat je kunt missen)
+
+Hoe hoger het risico, hoe groter het mogelijke rendement, én het mogelijke verlies. Dat zie je ook bij **speculatieve assets zoals crypto**, die je tevens op [eToro](/go/etoro-trading) kunt kopen. Mijn eigen geld zit voor het grootste deel gewoon in een wereldwijde ETF, en daar kijk ik hooguit één keer per maand naar.
 
 Succes met het **beleggen in aandelen** gewenst!
 
-[**Leer hoe je de juiste aandelen kunt vinden en deze eenvoudig kunt analyseren. Bekijk deze cursus >>**](/go/cursus-aandelen)
-
+[**Leer hoe je zelf de juiste aandelen vindt en eenvoudig analyseert. Bekijk deze cursus van een uur >>**](/go/cursus-aandelen)

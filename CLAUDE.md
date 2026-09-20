@@ -234,6 +234,9 @@ to the same path on mickyvanzadelhoff.com (decision D21); no host check in the a
 - **Mobile-first** — majority of blog traffic is mobile
 - **Fast:** motion must not cost content speed. No animation libraries; CSS + one small
   IntersectionObserver script.
+- **Favicon (Micky, 2026-09-19):** the generated lightning-bolt scene `public/images/spots/favicon-bliksem.webp`
+  (entry `favicon-bliksem` in `spot-illustrations.json`), cut to `public/favicon.ico` (16/32/48), `favicon-48.png`,
+  `favicon-96.png`, `icon-192.png`, `icon-512.png`, `apple-touch-icon.png` and `site.webmanifest`; links in `Layout.astro`.
 - **Analytics:** Google Analytics via `PUBLIC_GA_MEASUREMENT_ID` (env var on Railway). The
   snippet only renders when the variable is set.
 - **Micky's photo** should be prominent on homepage and about page

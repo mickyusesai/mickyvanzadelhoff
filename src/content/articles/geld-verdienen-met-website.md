@@ -1,8 +1,8 @@
 ---
-title: "Geld verdienen met jouw website in 2023"
-description: "Met de huidige markt en hoeveel mensen op het internet actief zijn is het niet heel gek dat zoveel mensen al geld verdienen met hun website. Nu vraag…"
+title: "Geld verdienen met jouw website in 2026: 8 manieren"
+description: "Geld verdienen met je website in 2026: 8 manieren van AdSense tot je site verkopen, wat elk oplevert, de nieuwe Google-regels en twee rekentools."
 date: 2018-09-04
-updated: 2023-01-03
+updated: 2026-09-19
 category: "online-geld-verdienen"
 slug: "geld-verdienen-met-website"
 lang: "nl"
@@ -10,146 +10,203 @@ draft: false
 featuredImage: "/images/headers/geld-verdienen-met-website.webp"
 ---
 
-**Geld verdienen met jouw website**? Daar zijn tal van manieren voor. In dit artikel bespreek ik **alle manieren** die ik heb leren kennen sinds ik geld verdien met mijn eigen website.
+**Geld verdienen met jouw website**? Daar zijn tal van manieren voor. In dit artikel bespreek ik **alle manieren** die ik heb leren kennen sinds ik in 2018 geld ging verdienen met mijn eigen website, en wat er sindsdien veranderd is.
 
-Met de huidige markt en hoeveel mensen op het internet actief zijn is het niet heel gek dat zoveel mensen al geld verdienen met hun website. Nu vraag je je misschien alleen nog af hoe. Ik bespreek alle manieren van makkelijk tot moeilijk en hoe jij ze zelf kunt implementeren om geld te verdienen met jouw website.
+Je leest hieronder acht verdienmodellen, van makkelijk (advertenties plaatsen) tot moeilijk (je eigen product verkopen of je website verkopen), wat elk model in 2026 realistisch oplevert en welke regels van Google en de Reclamecode je daarbij moet kennen. Halverwege staat een rekentool voor advertorialprijzen, en onderaan één die uitrekent wat je website waard is als je hem ooit zou verkopen.
 
-Zelf [reis ik inmiddels al vijf jaar de wereld rond als digital nomad](/over/). Dat betekent dat ik mijn geld online verdien; een locatie onafhankelijk inkomen. Ik kan dus lekker de wereld over reizen terwijl ik werk op mijn laptop ;). Mijn website is mijn belangrijkste **bron van inkomsten**.
+Jarenlang [reisde ik de wereld rond als digital nomad](/over/). Dat betekende dat ik mijn geld online verdiende: een locatieonafhankelijk inkomen. Mijn website was in die jaren mijn belangrijkste **bron van inkomsten**. Inmiddels verdien ik mijn geld vooral met [AI-workshops](/ai-workshops/), maar de website loopt nog steeds door, en alles wat hieronder staat heb ik zelf gedaan.
 
-Wanneer je geld wilt verdienen met een website, moet je natuurlijk eerst een website hebben. Mijn eigen website is gehost bij Cloud86 en in [deze review](/blog/review/cloud86-webhosting-review/) leg ik je graag uit waarom jij dat ook zou moeten doen :).
+Wanneer je geld wilt verdienen met een website, moet je natuurlijk eerst een website hebben. Mijn eigen website is gehost bij Cloud86 en in [deze review](/blog/review/cloud86-webhosting-review/) leg ik uit waarom.
 
-## 1. Geld verdienen met website via Google Adsense
+## Eerst even eerlijk: wat er sinds 2025 anders is
 
-Dit is de simpelste manier om te starten met geld verdienen via je website. Google Adsense is interessant voor iedereen die net begint met zijn website tot aan mensen die al veel bezoekers (**›10.000 p/maand**) hebben. Hoe meer bezoekers je op je website hebt hoe meer deze manier oplevert. Al werkt dat praktisch gezien bij alle manieren zo, zolang de bezoekers maar relevant zijn.
+Bijna alle manieren hieronder beginnen bij bezoekers, en de meeste bezoekers komen via Google. Sinds mei 2025 toont Google ook in Nederland **AI Overviews** boven de zoekresultaten: een samenvatting die de vraag vaak al beantwoordt. Pew Research mat in 2025 dat bezoekers bij een zoekopdracht mét zo'n samenvatting in 8% van de gevallen doorklikken, tegenover 15% zonder. Informatieve websites voelen dat het hardst.
 
-> Google Adsense is een manier om advertenties op je website te plaatsen van derde partijen. Het grote voordeel is dat Google de adverteerder voor jou uitzoekt. Hierdoor weet je zeker dat de relevantie van de advertentie voor de bezoeker groot is en er vaak op wordt geklikt (=meer inkomsten).
-> 
-> Je verdient een commissie onder het Pay Per Click (PPC) principe. Hoe meer mensen klikken op de advertenties hoe meer geld je verdient met je website.
+Dat maakt het bouwen van bezoekers moeilijker, maar niet onmogelijk. Wat nog werkt: specifieke onderwerpen, eigen ervaring en cijfers die een AI niet kan verzinnen, en een eigen publiek via een [mailinglijst](/blog/ondernemen/leads-genereren-mailinglijst/). Hoe je aan bezoekers komt, lees je in mijn artikel over [meer websitebezoekers](/blog/ondernemen/meer-website-bezoekers/). Hieronder gaat het over wat je met die bezoekers doet.
 
-De opbrengsten per click variëren heel erg. Dit kan mede afhankelijk zijn van waar jouw website over gaat. Gaat jouw website bijvoorbeeld over het verkopen van je huis, dan is de kans groot dat Google advertenties laat zien van makelaars en die betalen veel geld per klik.
+![Een browservenster als etalage met prijskaartjes aan de producten, en munten ervoor](/images/spots/website-etalage.webp "Je website als etalage: iedere bezoeker is een kans")
 
-Maar als jouw website gaat over recepten, laat Google waarschijnlijk advertenties zien van kookboeken, en die clicks zijn weer een stuk minder waard.
+## De acht manieren op een rij
 
-Het is dus belangrijk om reëel te zijn in wat Google Adsense jou kan opleveren. Daarom bij deze een rekenvoorbeeld waarbij je zelf een inschatting kunt maken van de verschillende variabelen.
+Zo verhouden de manieren zich tot elkaar (mijn inschatting, gecontroleerd op 19 september 2026):
 
-Stel je hebt [10.000 websitebezoekers gehad in één maand](/blog/ondernemen/meer-website-bezoekers/). De gemiddelde Click Through Rate, dat is het aantal mensen dat op de advertentie klikt, ligt op 2%. Van dit aantal websitebezoekers zullen er dus 200 op je advertentie klikken. Berekent met de gemiddelde opbrengsten per klik, heb je dan 40,- euro verdient in die maand.
+| Manier | Wanneer starten | Hoe je betaald wordt | Wat het vraagt |
+|---|---|---|---|
+| 1. Google AdSense | Vanaf dag één | Per 1.000 vertoningen | Bezoekers, verder niets |
+| 2. Affiliate marketing | Vanaf de eerste artikelen | Per verkoop, 2,5% tot 50% | Relevante links in goede content |
+| 3. Eigen adverteerders | Vanaf ± 10.000 bezoekers | Vast bedrag per maand | Zelf bedrijven benaderen |
+| 4. Advertorials | Vanaf ± 10.000 bezoekers | Per artikel | Autoriteit, netjes labelen |
+| 5. Bedrijfsvermeldingen | Bij een nichewebsite | Vast bedrag per maand | Een lijst die bezoekers gebruiken |
+| 6. Eigen product of dienst | Als je een publiek hebt | Volledige verkoopprijs | Iets maken wat mensen willen |
+| 7. Website verkopen | Bij stabiele winst | 30 tot 50 keer de maandwinst | Nette cijfers en documentatie |
+| 8. Betaalde links en artikelen | Bij een goede domeinautoriteit | Per plaatsing | Google-regels kennen |
 
-**Sorry als ik je hiermee teleurstel, heel rijk word je er dus niet van, maar simpel is het wel.**
+## 1. Geld verdienen met website via Google AdSense
 
-Met Google Adsense kan bijna iedereen geld verdienen met zijn website. Gelukkig hoeft dit niet je enige vorm van inkomsten te zijn, er zijn uiteraard meer én beter betaalde manieren, ga daarom gerust door naar de volgende stap.
+Dit is de simpelste manier om te starten. Google AdSense is interessant voor iedereen die net begint tot aan mensen die al veel bezoekers hebben (**meer dan 10.000 per maand**). Hoe meer bezoekers, hoe meer het oplevert, al geldt dat praktisch gezien voor alle manieren, zolang de bezoekers maar relevant zijn.
 
-**Gemiddelde Click Through Rate (CTR): 2%**
+> Google AdSense is een manier om advertenties van derden op je website te plaatsen. Het grote voordeel is dat Google de adverteerder voor je uitzoekt, zodat de advertentie past bij de bezoeker.
+>
+> Sinds 2024 betaalt AdSense niet meer per klik maar **per vertoning**, zoals de rest van de advertentiemarkt. Je krijgt dus ook geld voor advertenties waar niemand op klikt. Uitbetalen gebeurt maandelijks zodra je saldo boven de €70 komt.
 
-**Gemiddelde Pay Per Click (PPC): €0,20**
+De opbrengst per 1.000 vertoningen (de **RPM**) varieert enorm. Gaat je website over het verkopen van je huis, dan laat Google advertenties van makelaars zien en die betalen veel. Gaat je website over recepten, dan zijn de advertenties een stuk minder waard.
+
+Wees dus reëel over wat AdSense oplevert. Voor Nederlandse websites kom je bedragen tegen van een paar dubbeltjes tot zo'n €10 per 1.000 vertoningen; mijn eigen ervaring zat rond de €3. Stel dat je [10.000 bezoekers in een maand](/blog/ondernemen/meer-website-bezoekers/) had die samen 15.000 pagina's bekeken, dan verdien je bij een RPM van €3 zo'n €45 in die maand.
+
+**Sorry als ik je hiermee teleurstel: heel rijk word je er dus niet van, maar simpel is het wel.**
+
+Met AdSense kan bijna iedereen geld verdienen met zijn website. Gelukkig hoeft dit niet je enige vorm van inkomsten te zijn, er zijn meer én beter betaalde manieren. Ga dus gerust door naar de volgende stap.
 
 ## 2. Affiliate marketing om geld te verdienen met je website
 
-Tevens een best wel simpele manier om geld te verdienen met jouw website. Maar deze manier levert je wel meer op. Bij affiliate marketing krijg je namelijk niet betaald per keer dat iemand klikt op je advertenties, maar **per keer dat iemand iets koopt** (Pay Per Sale).
+Ook een vrij simpele manier, maar deze levert meer op. Bij affiliate marketing krijg je niet betaald per vertoning, maar **per keer dat iemand iets koopt**.
 
-> Op jouw website plaats je links of advertenties naar relevante producten of diensten via een [affiliate netwerk](/blog/ondernemen/affiliate-programma/).
-> 
-> Vervolgens klikt jouw websitebezoeker op een van de links of advertenties en schaft het product aan. De verkoper ziet dat dit product door jou is aangeraden en bied je daar een commissie voor aan.
-> 
-> Deze commissies **kunnen erg hoog zijn** (tot wel 50% van de verkoopprijs) en zo kun je dus flink wat geld verdienen met je website.
+> Op je website plaats je links naar relevante producten of diensten via een [affiliate netwerk](/blog/ondernemen/affiliate-programma/). Klikt je bezoeker op zo'n link en koopt hij het product, dan ziet de verkoper dat jij hem hebt aangeraden en betaalt hij je een commissie.
+>
+> Die commissies **kunnen hoog zijn** (tot 50% van de verkoopprijs bij digitale producten) en zo kun je flink wat geld verdienen met je website.
 
-Om te beginnen met affiliate marketing hoef je je slechts aan te sluiten bij een van de vele affiliate programma’s. Eigenlijk heeft ieder groot online bedrijf wel een affiliate programma waar jij aan mee kunt doen.
+Om te beginnen sluit je je aan bij een affiliate programma. Vrijwel ieder groot online bedrijf heeft er een. Het belangrijkste is dat je er een kiest **die aansluit bij het onderwerp van je website**: relevante links verhogen de conversie en dus je inkomen.
 
-Het belangrijkste hierbij is dan ook dat je er een kiest **die aansluit bij het onderwerp van jouw website**. Relevante links verhogen namelijk de conversie en dus jouw inkomen.
+Zelf verdiende ik op het hoogtepunt van mijn blog, in 2023, ruim €3.000 per maand via affiliate marketing. Primair gebruik ik [TradeTracker](/go/tradetracker) (ruim 5.000 adverteerders) en [PayPro](/blog/online-geld-verdienen/paypro/) (digitale producten met hoge commissies), daarnaast een paar losse programma's. Wat ik geweldig vind aan affiliate marketing: het is een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/). Ook wanneer ik even niets plaats, blijven bezoekers komen en blijft er op links geklikt worden.
 
-Zelf verdien ik honderden euro’s per maand via affiliate marketing op mijn websites. Primair gebruik ik [TradeTracker](/go/tradetracker) en [Paypro](/blog/online-geld-verdienen/paypro/) als affiliate partners, maar daarnaast ben ik ook actief in enkele andere netwerken. Wat ik zelf geweldig vind aan affiliate marketing is dat het hier gaat om een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/).
+![Twee schakels van een ketting met een munt ertussen, op een bureau naast een laptop](/images/spots/bloggen-affiliate.webp "Affiliate marketing: jij legt de link, de webshop betaalt per verkoop")
 
-Ook wanneer ik even niets op mijn website plaats blijven er bezoekers komen en blijft er op de links geklikt worden. Ik verdien dus geld terwijl ik daar op dat moment niets voor hoef te doen.
+Het bekendste en simpelst te implementeren affiliate programma is dat van bol.com. Ze verkopen vrijwel alles en zijn daarom interessant om naar te verwijzen. De commissie ligt er in 2026 tussen de 2,5% (elektronica, games) en 7% (kleding, wonen, koken), met een cookie van vijf dagen.
 
-**[Wil jij ook online geld verdienen en bouwen aan een passief inkomen? Volg mijn GRATIS training ‘De 5 Simpele Stappen Naar Jouw Eigen Winstgevende Blog’.](/blog/ondernemen/blog-beginnen-starten-stappenplan/)**
+> Hoewel bol.com veel opties heeft, is het zeker niet het beste affiliate programma: de commissies zijn relatief laag. Kijk voor een passend programma daarom eens op [TradeTracker](/go/tradetracker), waar je producten van grote Nederlandse bedrijven kunt promoten.
 
-[![Affiliate marketing infographic](/images/migrated/affiliate-marketing-infographic.webp)](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/)
+Affiliate marketing is **dé manier om geld te verdienen met je website** als je het simpel wilt houden. Wel merk ik dat veel mensen moeite hebben om het goed toe te passen: lukraak wat links plaatsen heeft weinig effect. Alles wat ik erover geleerd heb, met eigen cijfers, staat in mijn artikel over [geld verdienen met affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/).
 
-Het meest bekende en simpel te implementeren affiliate programma is die van Bol.com. Zij verkopen een groot scala aan producten en zijn daarom interessant om naartoe te verwijzen. De commissie ligt er tussen de 3% en 10%. Denk hierbij aan lage percentages voor dingen als een telefoon en aan hoge percentages bij online producten zoals een e-book.
-
-> Hoewel Bol.com veel opties heeft is het zeker niet het beste affiliate programma. De commissies zijn er relatief laag, vergeleken met andere bedrijven. Kijk voor een ultiem passend affiliate programma daarom eens op [TradeTracker](/go/tradetracker). Bij deze bemiddelaar vind je vele producten die jij kunt promoten van grote Nederlandse bedrijven.
-
-Affiliate marketing is **dé manier om geld te verdienen met jouw website** wanneer je het simpel wilt houden. Ik gebruik het zelf met name om aan de zijkant een passief inkomen op te bouwen. Wel merk ik dat veel mensen om mij heen moeite hebben om affiliate marketing juist te implementeren op hun eigen website. Gewoon lukraak wat links plaatsen heeft namelijk weinig effect. Dat kost alleen maar moeite maar levert je nog niets op.
-
-Zorg er dus voor dat je alle ins en outs begrijpt en deze toepast. Zelf verdien ik inmiddels ruim 3000,- euro per maand met affiliate marketing maar dat ging niet helemaal vanzelf. Veel vallen en opstaan vooral. In **[mijn GRATIS training](/blog/ondernemen/blog-beginnen-starten-stappenplan/)** leg ik er alles over uit en vertel ik hoe jij een succes kunt maken van affiliate marketing.
+Eén regel om nu al te kennen: sinds 1 juli 2026 schrijft de aangescherpte Reclamecode Social Media & Influencer Marketing voor dat je duidelijk en makkelijk vindbaar vermeldt dat je affiliate links gebruikt. Een zin bovenaan het artikel is genoeg.
 
 ## 3. Advertenties plaatsen op je website om geld te verdienen
 
-Je kunt natuurlijk ook gewoon betaald krijgen per advertentie op je website. Dit kan bijvoorbeeld wanneer er bedrijven zijn die dusdanig veel aansluiten bij jouw doelgroep dat ze graag op jouw website willen adverteren.
+Je kunt natuurlijk ook gewoon betaald krijgen per advertentie. Dat kan wanneer er bedrijven zijn die zo goed aansluiten bij jouw doelgroep dat ze graag rechtstreeks bij jou willen adverteren, zonder Google ertussen.
 
-Afhankelijk van het aantal bezoekers op jouw website kan dit je veel geld opleveren. Vooral wanneer je een overeenkomst kan sluiten waarin een bedrijf jou daar maandelijks voor betaald. De bezoekers blijven tenslotte op jouw website komen en de advertentie blijft dus steeds weer gezien worden.
+![Een reclamebord langs een weg die naar een laptop leidt](/images/spots/website-adverteerder.webp "Eigen adverteerders: een vast bedrag per maand, zonder Google ertussen")
 
-**Maar hoe vind je nou bedrijven die bij jouw website willen adverteren?** Allereerst is het goed om op jouw website een pagina te plaatsen waarin je adverteerders laat weten dat ze bij jou kunnen adverteren.
+Afhankelijk van je bezoekersaantal kan dit veel opleveren, vooral als je een overeenkomst sluit waarbij een bedrijf **maandelijks** betaalt. De bezoekers blijven komen en de advertentie blijft gezien worden.
 
-Wanneer je een goed bezochte website hebt, heb je dan waarschijnlijk al je eerste adverteerders binnen. Een andere manier is om de meest relevante bedrijven zelf te contacten. Je mailt hen dan gewoon simpelweg, laat weten wie jouw doelgroep is en hoeveel mensen maandelijks jouw website bezoeken.
+**Maar hoe vind je bedrijven die bij jou willen adverteren?** Zet allereerst een pagina op je website waarop je adverteerders laat weten dat het kan, met je bezoekersaantallen erbij. Heb je een goed bezochte website, dan komen de eerste aanvragen vanzelf. Een andere manier is om de meest relevante bedrijven zelf te mailen: wie je doelgroep is en hoeveel mensen je maandelijks bereikt.
 
-> De meeste bedrijven zijn altijd op zoek naar mogelijkheden om hun merk meer onder de aandacht te brengen. Een tip hierbij is om vooral naar bedrijven te zoeken die zich in **niche/specifieke** markten bevinden. Daar is je kans van slagen groter omdat de doelgroep dan is afgebakend.
+> De meeste bedrijven zoeken altijd manieren om hun merk onder de aandacht te brengen. Zoek vooral naar bedrijven in **nichemarkten**. Daar is je kans van slagen groter, omdat de doelgroep is afgebakend.
 
-Moeilijk is vaak om te bepalen wat je voor een advertentie op jouw website kunt vragen. Per adverteerder zou ik een gemiddelde inschatten van 100,- euro p/maand voor 10.000 bezoekers. Maar het zal ook erg liggen aan het percentage van de bezoekers dat op de banner of advertentie klikt. Om dat te weten zul je je moeten verdiepen in Google Analytics, de statistieken zijn tenslotte wel allemaal aanwezig. :)
+Moeilijk is om te bepalen wat je kunt vragen. Zelf hield ik als vuistregel **€100 per maand per adverteerder bij 10.000 bezoekers** aan. Het hangt ook af van hoeveel bezoekers op de banner klikken; dat zie je in Google Analytics (sinds 2024 alleen nog GA4) of een privacyvriendelijker alternatief.
 
 ## 4. Geld verdienen met jouw website door advertorials toe te staan
 
-Wanneer jouw website met name een blog betreft kan het interessant zijn om advertorials toe staan. Dat wil zeggen; **een gesponsorde blogpost**.
+Wanneer je website vooral een blog is, kan het interessant zijn om advertorials toe te staan: **een gesponsord artikel**. Soms schrijf je die zelf, soms levert het bedrijf hem volledig aan. Onder bloggers is dit de bekendste manier om geld te verdienen met een website.
 
-Het kan zijn dat jij deze zelf schrijft maar ook dat het bedrijf deze volledig aanlevert. Het is vooral onder bloggers de meest bekende manier om geld te verdienen met een website.
+Een advertorial is een artikel waarin de naam van een bedrijf een of een paar keer voorkomt. Denk aan een bedrijf dat websites bouwt en een artikel over 'meer bezoekers krijgen op je website' wil publiceren op een druk bezochte website. Het is belangrijk dat je doelgroep dezelfde is als die van het bedrijf, anders is het bij voorbaat gedoemd te mislukken.
 
-Een advertorial is niets meer dan een blogbericht waarin de naam van een bedrijf, één of een paar keer voorkomt. Denk bijvoorbeeld aan een bedrijf dat websites maakt dat een artikel over ‘meer bezoekers krijgen op je website’ wil publiceren op een website die veel bezoekers heeft.
+> Een advertorial zorgt voor **meer naamsbekendheid** en laat een bedrijf zijn **expertise zien** aan potentiële klanten. Het is vaak een eerste stap in de marketingfunnel.
 
-Bij advertorials is het uiteraard ook erg belangrijk dat jouw doelgroep dezelfde is als die van de advertorial, anders is het bij voorbaat gedoemd te mislukken.
+Bedrijven vind je op dezelfde manier als adverteerders: mailen, of een kopje 'samenwerken' op je website. Makkelijker is een marktplaats als Whitepress, waar bedrijven jou vinden; daarover schreef ik [een apart artikel](/blog/online-geld-verdienen/whitepress-geld-verdienen-advertorials/).
 
-> Een advertorial zorgt voor **meer naamsbekendheid** van een bedrijf. Ook kan een bedrijf op deze manier zijn **expertise laten zien** aan potentiële klanten. Het is vaak de een eerste stap in de marketing funnel van bedrijven.
+Wat je kunt vragen? Een veelgebruikte vuistregel onder Nederlandse bloggers is €50 als basis plus €10 per 1.000 bezoekers per maand. Schrijf je het artikel zelf, dan komen je schrijfuren erbij. Reken het hieronder uit.
 
-Voor advertorials kun je ongeveer hetzelfde vragen als voor advertenties. Wanneer je de advertorial zelf schrijft, is dit bedrag uiteraard hoger. Als tekstschrijver reken je zo’n 75,- euro p/uur.
+<div class="tool not-prose" id="website-adv-calc">
+<p class="tool__title">Wat kun je vragen voor een advertorial?</p>
+<p class="tool__intro">Een vuistregel, geen tarieflijst. Pas de cijfers aan naar jouw situatie.</p>
+<div class="tool__grid">
+<label class="tool__field">Unieke bezoekers per maand<input class="tool__input" id="website-adv-visitors" type="number" min="0" step="1000" value="10000"></label>
+<label class="tool__field">Basisbedrag (€)<input class="tool__input" id="website-adv-base" type="number" min="0" step="10" value="50"></label>
+<label class="tool__field">Extra per 1.000 bezoekers (€)<input class="tool__input" id="website-adv-per" type="number" min="0" step="1" value="10"></label>
+<label class="tool__field">Uren schrijfwerk als jij schrijft<input class="tool__input" id="website-adv-hours" type="number" min="0" step="0.5" value="0"></label>
+<label class="tool__field">Jouw uurtarief (€)<input class="tool__input" id="website-adv-rate" type="number" min="0" step="5" value="60"></label>
+</div>
+<div class="tool__results">
+<div class="tool__result"><p class="tool__label">Per advertorial</p><p class="tool__value" id="website-adv-price">€ 150</p><p class="tool__sub">plaatsing plus eventueel schrijfwerk</p></div>
+<div class="tool__result"><p class="tool__label">Bij twee per maand</p><p class="tool__value" id="website-adv-month">€ 300</p><p class="tool__sub">per maand</p></div>
+</div>
+<p class="tool__note">Vuistregel uit de Nederlandse blogwereld; grote professionele blogs vragen een veelvoud. Een hogere domeinautoriteit rechtvaardigt een hogere prijs.</p>
+</div>
 
-Het vinden van bedrijven voor advertorials werkt hetzelfde als bij het zoeken naar adverteerders. Je kunt relevante bedrijven mailen of ze een advertorial willen op jouw website en je kunt op je website een kopje ‘samenwerken’ plaatsen met daarin jouw aanbod.
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var nl = function (n) { return '€ ' + new Intl.NumberFormat('nl-NL', { maximumFractionDigits: 0 }).format(n); };
+  function calc() {
+    var v = +$('website-adv-visitors').value || 0, base = +$('website-adv-base').value || 0, per = +$('website-adv-per').value || 0;
+    var h = +$('website-adv-hours').value || 0, rate = +$('website-adv-rate').value || 0;
+    var price = base + v / 1000 * per + h * rate;
+    $('website-adv-price').textContent = nl(price); $('website-adv-month').textContent = nl(price * 2);
+  }
+  ['website-adv-visitors', 'website-adv-base', 'website-adv-per', 'website-adv-hours', 'website-adv-rate'].forEach(function (id) { $(id).addEventListener('input', calc); });
+  calc();
+})();
+</script>
+
+Twee regels die in 2026 niet meer optioneel zijn: label het artikel duidelijk als 'advertorial' of 'gesponsord' (Reclamecode, en de ACM kan boetes opleggen), en geef links naar het bedrijf een `rel="sponsored"` attribuut. Google beschouwt betaalde links zonder dat label als linkspam, en pakt sinds 2024 ook websites aan die op grote schaal betaalde artikelen van derden plaatsen om hun autoriteit te verkopen ('site reputation abuse'). Een paar goed passende advertorials per maand op een echte website is geen probleem; een website die vooral uit gesponsorde artikelen bestaat wel.
 
 ## 5. Geld verdienen met bedrijfsvermeldingen op jouw website
 
-Dit is bijna dezelfde strategie als adverteerders maar net iets anders vormgegeven. In de setting van bedrijfsvermeldingen laat je bedrijven **een bedrijfsvermelding plaatsen op jouw website**.
+Dit lijkt op adverteerders, maar is net anders vormgegeven. Je laat bedrijven **een vermelding plaatsen op je website**.
 
-Stel dat je een website hebt over trouwen. Dan kun je allerlei bedrijven (bruidsfotografen, taartenbakkers, bruidsjurken) vragen of ze willen worden vermeld op jouw website. Daar vraag je dan een maandelijkse vergoeding voor.
+Stel dat je een website hebt over trouwen. Dan kun je allerlei bedrijven (bruidsfotografen, taartenbakkers, bruidsjurken) vragen of ze vermeld willen worden. Daar vraag je een maandelijkse vergoeding voor.
 
-Zeker wanneer je dit groot aanpakt en je veel bedrijven vermeld op je website kan dit je gigantische maandelijkse inkomsten opleveren. Deze bedrijven vind je veelal door ze te mailen. Maar wanneer je al enkele bedrijfsvermeldingen hebt op je website zul je zien dat je vanzelf aanvragen binnen krijgt. Bedrijven kijken tenslotte vaak naar waar de concurrent word vermeld.
+Pak je dit groot aan, dan kan het flinke maandelijkse inkomsten opleveren. De eerste bedrijven vind je door ze te mailen; heb je er eenmaal een paar, dan komen aanvragen vanzelf. Bedrijven kijken tenslotte waar de concurrent vermeld staat.
 
-> Een reden voor een bedrijf om een vermelding op jouw website te krijgen kan zijn vanwege de bezoekers die daardoor naar hun eigen website komen.
-> 
-> Ook heeft dit als groot voordeel dat de website van het bedrijf hierdoor hoger gaat ranken in Google waardoor ze zelf meer organische bezoekers (via Google zoeken) krijgen.
-
-**[Zoek je naar manieren om online geld te verdienen? Volg mijn GRATIS training over ‘De 5 Simpele Stappen Naar Jouw Eigen Winstgevende Blog’.](/blog/ondernemen/blog-beginnen-starten-stappenplan/)**
+> Een bedrijf wil een vermelding vanwege de bezoekers die daardoor naar zijn eigen website komen, en omdat een link van een relevante website helpt in Google. Ook hier geldt: is de vermelding betaald, gebruik dan `rel="sponsored"`.
 
 ## 6. Geld verdienen met je eigen product of dienst
 
-Voor wie echt geld wilt verdienen met website, kun je het beste een eigen product verkopen. Dan is je website dus meer een [webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/) ;). Een eigen product bedenken hoeft lang niet zo moeilijk te zijn als je zou denken.
+Wil je echt geld verdienen met je website, verkoop dan een eigen product. Dan is je website meer een [webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/) ;). Een eigen product bedenken hoeft niet zo moeilijk te zijn als je denkt: het kan ook een e-book zijn, een videocursus of een dienst.
 
-Een product kan namelijk ook gewoon een e-book zijn. Of je gaat aan de slag met je eigen video cursus. Dit soort online producten zijn relatief makkelijk te maken en kun je zeer goed verkopen wanneer je al veel bezoekers hebt op je website.
+> Het grote voordeel van je eigen product verkopen is dat je van niemand afhankelijk bent en de opbrengst niet hoeft te delen. [› Lees hier alles over het starten van een webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/)
 
-> Het grote voordeel aan het verkopen van je eigen product in plaats van die van iemand anders is dat je van niemand anders afhankelijk bent. Tevens hoef je de opbrengst niet te delen en verdien je er dus meer aan. Genoeg redenen dus om aan de slag te gaan met jouw eigen product (of dienst) en deze via jouw website te verkopen.
-> 
-> [› Lees hier alles over het starten van een webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/)
+Zelf verkocht ik op mijn website mijn boek. Interessant om te weten: ik publiceerde dat boek pas toen ik genoeg bezoekers had. Anders had ik het aan niemand kunnen verkopen. Inmiddels geef ik het [gratis weg](/boek/), omdat het me meer oplevert als visitekaartje dan als product.
 
-Zelf verkocht ik op mijn website bijvoorbeeld mijn boek. Interessant om te weten is wellicht dat ik dat boek pas heb gepubliceerd toen ik genoeg bezoekers op mijn website had. Anders zou ik het boek aan niemand kunnen verkopen.
+En dat is precies wat er sinds mijn blogjaren veranderd is: mijn website verkoopt nu geen e-books meer, maar [AI-workshops](/ai-workshops/) en [automatiseringstrajecten](/automatisering/) voor bedrijven. Eén workshop levert meer op dan een jaar AdSense. Als je website een publiek heeft dat jou vertrouwt, is een dienst vaak het meest logische product.
 
 ## 7. Geld verdienen door je website te verkopen
 
-Geld verdienen met jouw website, kan natuurlijk ook gewoon door een website te verkopen. Hier zie ik zelf alleen niet zoveel in. **Tenzij je website honderd duizenden bezoekers** heeft, zul je er niet zoveel voor krijgen.
+Geld verdienen met je website kan natuurlijk ook door hem te verkopen. Vroeger schreef ik hier dat ik daar niet zoveel in zag; inmiddels is er een volwassen markt voor. Op marktplaatsen als Flippa en Empire Flippers wisselen websites van eigenaar voor een **veelvoud van de maandelijkse nettowinst**, in 2026 meestal 30 tot 50 keer, afhankelijk van hoe stabiel en gedocumenteerd de inkomsten zijn. Een website die netto €500 per maand overhoudt, is dus grofweg €15.000 tot €25.000 waard.
 
-Het ligt er daarbij maar net aan in welke branche je zit en hoe goed de website het al doet. Dan is het de vraag of een andere partij hier iets in ziet en het idee heeft met jouw website geld te kunnen verdienen.
+![Een browservenster op een bordje in een tuin, zoals een te-koopbord bij een huis](/images/spots/website-verkopen.webp "Een website verkopen: waarde is een veelvoud van de maandwinst")
 
-De vraag is dan alleen waarom je hem zou verkopen en je er niet gewoon zelf geld mee zou gaan verdienen. Met bovengenoemde manieren moet dat je toch zeker lukken! ;)
+<div class="tool not-prose" id="website-value-calc">
+<p class="tool__title">Wat is je website waard?</p>
+<p class="tool__intro">Vul je gemiddelde maandwinst van de afgelopen twaalf maanden in.</p>
+<div class="tool__grid">
+<label class="tool__field">Nettowinst per maand (€)<input class="tool__input" id="website-value-profit" type="number" min="0" step="50" value="500"></label>
+<label class="tool__field">Multiple (× maandwinst)<input class="tool__input" id="website-value-multiple" type="number" min="1" max="100" step="1" value="36"></label>
+</div>
+<div class="tool__results">
+<div class="tool__result"><p class="tool__label">Indicatieve waarde</p><p class="tool__value" id="website-value-total">€ 18.000</p><p class="tool__sub">bij deze multiple</p></div>
+<div class="tool__result"><p class="tool__label">Bandbreedte</p><p class="tool__value" id="website-value-range">€ 15.000 – € 25.000</p><p class="tool__sub">bij 30 tot 50 × maandwinst</p></div>
+</div>
+<p class="tool__note">Indicatie op basis van de multiples die Empire Flippers en Flippa in 2026 hanteren (30 tot 50 keer de maandwinst). Makelaars rekenen een commissie, bij Empire Flippers 15%.</p>
+</div>
+
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var nl = function (n) { return '€ ' + new Intl.NumberFormat('nl-NL', { maximumFractionDigits: 0 }).format(n); };
+  function calc() {
+    var p = +$('website-value-profit').value || 0, m = +$('website-value-multiple').value || 0;
+    $('website-value-total').textContent = nl(p * m);
+    $('website-value-range').textContent = nl(p * 30) + ' – ' + nl(p * 50);
+  }
+  ['website-value-profit', 'website-value-multiple'].forEach(function (id) { $(id).addEventListener('input', calc); });
+  calc();
+})();
+</script>
+
+De vraag blijft wel waarom je zou verkopen en er niet zelf geld mee zou blijven verdienen. Verkopen is logisch als je er geen zin meer in hebt, als je een ander project wilt financieren, of als je ziet dat de inkomsten door AI Overviews structureel dalen en je liever nu cashed dan over twee jaar.
 
 ## 8. Geld krijgen voor een publicatie
 
-Toen ik zelf begon aan mijn website en daarbij behorende blog had ik niet verwacht dat dit een verdienmodel zou zijn. Maar ik krijg regelmatig mailtjes van bedrijven die linkjes willen plaatsen op mijn website tussen een artikel. De reden hiervoor; dit is goed voor hun eigen ranking in Google.
+Toen ik begon met mijn website had ik niet verwacht dat dit een verdienmodel zou zijn. Maar ik kreeg regelmatig mailtjes van bedrijven die een link wilden plaatsen in een bestaand artikel, omdat dat goed is voor hun eigen positie in Google.
 
-Voor zo’n linkje betaald een bedrijf bij een veel bezochte website al snel 200,- euro. En buiten linkjes vragen bedrijven ook wel eens of zij een heel artikel mogen publiceren op de website, **daar wordt zo’n 300,- tot 600,- euro voor betaald**. Een interessant verdienmodel dus wanneer je al een lopende website hebt.
+Voor zo'n link betaalde een bedrijf bij mijn website destijds al snel **€200**, en voor een compleet aangeleverd artikel **€300 tot €600**. Die mailtjes komen nog steeds.
 
-**[Deze en andere manieren om geld te verdienen met een website of blog bespreek ik ook in mijn GRATIS online training daarover.](/blog/ondernemen/blog-beginnen-starten-stappenplan/)**
+Wel is de wereld sinds 2024 veranderd. Google noemt betalen voor links zonder `rel="sponsored"` expliciet linkspam en kan je website daarvoor een handmatige actie geven. Met dat label mag het, alleen levert de link het bedrijf dan geen Google-voordeel meer op, en dat is nou net waarom de meeste van die bedrijven mailen. Verwacht dus dat een deel van de aanvragen afhaakt als je het netjes doet. Doe het toch netjes; de website is meer waard dan één plaatsing.
 
 ## Iedereen kan geld verdienen met een website
 
-Ik ben van mening dat iedereen geld kan verdienen met een website. Natuurlijk is het iets wat zich op zou moeten bouwen omdat je niet vanaf dag één al duizenden bezoekers hebt.
+Ik ben van mening dat iedereen geld kan verdienen met een website. Natuurlijk moet het zich opbouwen, want je hebt niet vanaf dag één duizenden bezoekers. En het is in 2026 een langere weg dan in 2018.
 
-Maar wanneer je doorzet en je een beetje in de materie verdiept kun je grote sprongen maken. Het mooiste aan geld verdienen met een website, vind ik vooral dat dat is wat [mijn leefstijl als digital nomad](/over/) mogelijk maakt. Door mijn website kan ik locatie onafhankelijk geld verdienen en de wereld over reizen.
-
+Maar wie doorzet en zich in de materie verdiept, kan grote sprongen maken. Het mooiste aan geld verdienen met een website vond ik dat het [mijn leven als digital nomad](/over/) mogelijk maakte: locatieonafhankelijk werken, waar ook ter wereld. Hoe dat ging, met alle fouten erbij, lees je in mijn gratis boek.
 
 <aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
-

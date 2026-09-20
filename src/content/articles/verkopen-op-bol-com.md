@@ -16,7 +16,7 @@ In dit artikel neem ik je mee door de fases van dat proces. Je leest hoe je erac
 
 Ook geef ik je tips voor **als je al een eigen webshop hebt** met producten en deze eenvoudig op bol wilt zetten.
 
-**[Wil je helemaal all-in gaan en alles te weten komen over verkopen op bol? Dan vind je in dit GRATIS e-book de vijf stappen om te doorlopen. >>](/go/bol-com-verkopen-e-book)** <!-- TODO: partnerlink /go/bol-com-verkopen-e-book is dood: possibol.plugandpay.nl geeft een 404 en possibol.com is leeg; nieuwe partner zoeken of de e-bookverwijzingen (drie plekken) verwijderen -->
+**[Wil je meteen goed beginnen? Bekijk dan de gratis korte masterclass van Business Mine (6 tot 9 minuten) en vraag daarna een gratis brainstormsessie aan. >>](/go/bol-com-verkopen-e-book)**
 
 ## Over bol
 
@@ -64,9 +64,7 @@ bol meet je prestaties continu. De belangrijkste normen: je kiest zelf een lever
 
 **Wanneer je aan deze voorwaarden voldoet kun je volwaardig aan de slag. Dan is het tijd om producten te gaan vinden om te verkopen.**
 
-[![E-book verkopen op Bol.com stappenplan](/images/migrated/e-book-verkopen-op-bol-com-stappenplan.webp)](/go/bol-com-verkopen-e-book)
-
-[Wil je meer begeleiding bij hoe je begint met verkopen op bol? Download dan dit gratis e-book en je wordt stap voor stap meegenomen. >>](/go/bol-com-verkopen-e-book)
+[Wil je meer begeleiding bij het begin? Bol-mentor Andy de Wit van Business Mine (NRTO-erkend, ruim 1.550 leden in Nederland en België) laat in een gratis korte masterclass zien hoe hij het aanpakt. >>](/go/bol-com-verkopen-e-book)
 
 ## Wat kost verkopen op bol?
 
@@ -207,13 +205,11 @@ De kans dat je **grote fouten gaat maken** als je begint met een eigen e-commerc
 
 Dat kan frustrerend zijn voor velen en is waarschijnlijk ook de reden dat niet iedere Nederlander al een succesvolle bol-business heeft opgezet. Het mag dan een relatief eenvoudig [online verdienmodel](/blog/online-geld-verdienen/online-geld-verdienen/) zijn, het vereist wel dat je de mentaliteit hebt van een ondernemer.
 
-Kun je niet wachten om **aan de slag te gaan met jouw eigen bol-business**, maar wil je tegelijk ervaren ondersteuning om de duurste fouten te voorkomen? Dan vind je in [**dit cursus- en coachingpakket**](/go/bol-com-cursus-en-coaching) alles wat je nodig hebt om succesvol geld te verdienen. <!-- TODO: partnerlink /go/bol-com-cursus-en-coaching is dood: possibol.plugandpay.nl geeft een 404; nieuwe cursuspartner zoeken of de cursusverwijzingen (vier plekken) verwijderen -->
+Kun je niet wachten om **aan de slag te gaan met jouw eigen bol-business**, maar wil je tegelijk ervaren ondersteuning om de duurste fouten te voorkomen? Dan is de begeleiding van [**Business Mine**](/go/bol-com-cursus-en-coaching) het bekijken waard: een NRTO-erkende opleider die sinds 2011 bestaat, met een stappenplan, AI-tools om producten te vinden en een community van ruim 1.550 bol-verkopers in Nederland en België. Je begint gratis, met een korte masterclass en een brainstormgesprek.
 
-[![Cursus coaching bol.com](/images/migrated/cursus-coaching-bol-com.webp)](/go/bol-com-cursus-en-coaching)
+[Bekijk de gratis masterclass](/go/bol-com-cursus-en-coaching)
 
-[Bekijk bol-cursus](/go/bol-com-cursus-en-coaching)
-
-Altijd handig als iemand met de juiste ervaring jou mee kan nemen! Mocht je een cursus direct wat te veel van het goede vinden, dan kun je ook gratis eerst [zijn stappenplan downloaden](/go/bol-com-verkopen-e-book) voor het beginnen van jouw bol-business!
+Altijd handig als iemand met de juiste ervaring jou mee kan nemen! Mocht een volledig programma direct wat te veel van het goede zijn, dan kun je ook eerst gratis [de korte masterclass bekijken](/go/bol-com-verkopen-e-book) voordat je iets beslist.
 
 ## Affiliate marketing en bol
 
@@ -233,6 +229,6 @@ Het is een interessante manier om [een passief inkomen op te bouwen](/blog/onlin
 
 Wel moet ik de kanttekening maken dat dit artikel een korte samenvatting is van de stappen die je doorloopt. Je zou er in feite een heel boek over kunnen schrijven. Onderweg zijn er veel obstakels die je moet weten te overwinnen.
 
-Daarom raad ik eenieder die wil gaan verkopen op bol graag aan om zich erin te verdiepen. **Van import tot verkoop**. Dat kun je doen met [dit gratis e-book](/go/bol-com-verkopen-e-book) of met [deze uitgebreide cursus](/go/bol-com-cursus-en-coaching).
+Daarom raad ik eenieder die wil gaan verkopen op bol graag aan om zich erin te verdiepen. **Van import tot verkoop**. Dat kun je doen met [de gratis masterclass van Business Mine](/go/bol-com-verkopen-e-book) of, als je begeleiding wilt, met [hun programma](/go/bol-com-cursus-en-coaching).
 
 **Kijk altijd of je klein kunt beginnen en breid dan verder uit, zo loop je het minste risico! Succes.**

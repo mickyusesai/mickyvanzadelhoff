@@ -1,8 +1,8 @@
 ---
-title: "Eigen bedrijf starten – Zo begin je als ondernemer"
-description: "Een eigen bedrijf starten? Dat is niet zomaar iets en daar komt best wel wat bij kijken. Oké een inschrijving bij de kamer van koophandel is één ding…"
+title: "Eigen bedrijf starten in 2026 – Zo begin je als ondernemer"
+description: "Eigen bedrijf starten in 2026: van idee tot KVK-inschrijving, rechtsvorm, btw en KOR, aftrekposten, de Wet DBA en een rekenaar voor je eerste jaar."
 date: 2019-09-27
-updated: 2023-01-03
+updated: 2026-09-19
 category: "ondernemen"
 slug: "eigen-bedrijf-starten"
 lang: "nl"
@@ -10,91 +10,169 @@ draft: false
 featuredImage: "/images/headers/eigen-bedrijf-starten.webp"
 ---
 
-Een eigen bedrijf starten? Dat is niet zomaar iets en daar komt best wel wat bij kijken. Oké een inschrijving bij de kamer van koophandel is één ding, dat is zo gedaan. Maar eigenlijk is het echte starten van een bedrijf alles wat daarvoor en daarna komt. Zorgen dat je klanten krijgt, dat er geld wordt verdient. Het is geen geheim dat 40% van de bedrijven die zich inschrijft bij de kamer van koophandel, na drie jaar niet meer bestaat. In dit artikel help ik je met het voorkomen van dat scenario en vertel ik je over alles wat er bij het starten van een eigen bedrijf komt kijken. Tevens neem ik je aan de hand van één voorbeeld mee door het proces, een van mijn eigen bedrijfjes.
+**Een eigen bedrijf starten?** Dat is niet zomaar iets. Oké, een inschrijving bij de Kamer van Koophandel is zo gedaan (een kwartier online en een afspraak, € 85,15). Maar het echte starten is alles wat daarvoor en daarna komt: zorgen dat je klanten krijgt en dat er geld wordt verdiend. Van de bedrijven die in 2015 startten, bestond volgens het CBS na drie jaar nog ruim driekwart en na vijf jaar nog bijna 65 procent. Ruim een derde haalt de vijf jaar dus niet, en in de detailhandel is dat bijna de helft.
+
+In dit artikel help ik je dat scenario te voorkomen. Je leest wat er komt kijken bij het starten van een bedrijf, van het waarom tot je eerste klant, welke regels en bedragen in 2026 gelden (KVK, rechtsvorm, btw, aftrekposten, de Wet DBA) en wat er sinds 2019 veranderd is. Ik neem je mee aan de hand van één van mijn eigen bedrijfjes, en onderaan staat een rekenaar waarmee je uitrekent wat je in je eerste jaar overhoudt.
 
 ## Waarom wil je een eigen bedrijf starten?
 
-Alles begint bij de ‘Why’ zou Simon Sinek zeggen. Waarom wil je iets doen? Later zul je pas kijken naar hoe je dat gaat doen en wat je daadwerkelijk gaat doen. Maar natuurlijk gaat dat bij het echte ondernemen vaak andersom. Waarschijnlijk heb je een kans gezien in de markt of heb je gewoonweg iets wat je heel erg leuk vind en wil je daar een bedrijf van maken. Of het nu gaat om een webshop, een cateringbedrijf of een huis-aan-huis kapper, het kan letterlijk van alles zijn.
+Alles begint bij de 'why', zou Simon Sinek zeggen. Waarom wil je iets doen? Pas daarna kijk je naar hoe en wat. In de praktijk gaat het vaak andersom: je hebt een kans gezien in de markt, of je hebt iets wat je heel leuk vindt en wilt daar een bedrijf van maken. Een webshop, een cateringbedrijf, een kapper aan huis, een AI-adviesbureau: het kan letterlijk van alles zijn.
 
-Belangrijk is in ieder geval om jezelf af te vragen waarom je dat bedrijf eigenlijk wilt beginnen. Het starten van een eigen bedrijf is namelijk een moeizame weg waar je pas na een tijdje de vruchten van plukt. De eerste periode komen veel mensen niet doorheen omdat het toch vaak allemaal moeilijker blijkt dan gedacht. Het hebben van een realistisch beeld kan helpen om teleurstelling te voorkomen. Daarom eens kijken hoe je je kansen juist kunt inschatten.
+Belangrijk is in ieder geval om jezelf af te vragen waarom je dat bedrijf wilt beginnen. Een eigen bedrijf starten is een moeizame weg waarvan je pas na een tijdje de vruchten plukt. Veel mensen komen de eerste periode niet door, omdat het allemaal moeilijker blijkt dan gedacht. Een realistisch beeld helpt teleurstelling voorkomen.
 
-> _Zo was ik zelf met een vriend op vakantie naar Ibiza. Wij hadden zo’n air lounger van de Action meegenomen om op het strand te relaxen. Toen we daarop lagen kwamen er veel mensen naar ons toe die vroegen waar we dat hadden gekocht. We kwamen erachter dat op Ibiza dit product nog helemaal niet beschikbaar was. En zo was een nieuw bedrijfsidee geboren, air loungers verkopen op Ibiza!_
+> _Zo was ik zelf met een vriend op vakantie op Ibiza. We hadden zo'n air lounger van de Action meegenomen om op het strand te relaxen. Toen we daarop lagen, kwamen er veel mensen naar ons toe die vroegen waar we dat ding hadden gekocht. We kwamen erachter dat dit product op Ibiza nog helemaal niet te krijgen was. En zo was een nieuw bedrijfsidee geboren: air loungers verkopen op Ibiza!_
 
-## Marktonderzoek is essentieel en kan ook super leuk zijn
+Hoe dat afliep, lees je in [mijn grootste blunder als ondernemer](/blog/tips/ibiza-lounger/). Spoiler: niet goed. Maar de stappen hieronder had ik toen wél goed gedaan, en juist daardoor viel de schade mee.
 
-Je zult voor je je überhaupt inschrijft eerst eens kunnen kijken of wat jij wilt gaan doen wel gewild is. Kijken of er een kans van slagen is. Dat valt natuurlijk nooit met zekerheid te zeggen, maar het valt vaak wel met zekerheid te zeggen als iets helemaal geen kans van slagen heeft. Zeker een belangrijke stap dus om wat marktonderzoek te gaan doen. Denk daar ook vooral niet te moeilijk over.
+## Marktonderzoek is essentieel (en kan ook leuk zijn)
 
-Je kunt marktonderzoek doen door in gesprek te gaan met je netwerk en te vragen wat zij van je idee vinden. Je kunt er een enquête uitgooien op Facebook of gewoon random mensen op straat aanspreken. Ook kun je in deze fase de websites bezoeken van je concurrenten om zo te weten te komen wat zij allemaal aanbieden.
+Voordat je je überhaupt inschrijft, kijk je eerst of wat jij wilt gaan doen wel gewild is. Of iets een kans van slagen heeft, weet je nooit zeker. Maar of iets géén kans van slagen heeft, is vaak wel met zekerheid te zeggen. Denk daar niet te moeilijk over.
 
-> _Voor de air loungers waar ik het eerder al over had besloot ik wat marktonderzoek via mijn vrienden op Facebook te verrichten. Ik vroeg daar wat ze van het product vonden en wat ze dachten dat mensen daar op Ibiza voor zouden betalen. Op die manier kon ik beredeneren of het een goed plan was ze te gaan inkopen. Verder heb ik datzelfde netwerk nog gebruikt om keuzes te maken voor het logo, het product en heb ik zo zelfs mijn logistieke partner gevonden. Sharing is caring._
+Je kunt marktonderzoek doen door in gesprek te gaan met je netwerk en te vragen wat zij van je idee vinden. Je zet een vraag op LinkedIn of Instagram, of spreekt gewoon mensen op straat aan. Ook bekijk je in deze fase de websites van je concurrenten, om te zien wat zij aanbieden en voor welke prijs. Nieuw sinds een paar jaar: laat ChatGPT of Claude je idee afkraken. Vraag om de tien redenen waarom het gaat mislukken, en kijk welke daarvan kloppen. Dat is geen vervanging van echte gesprekken, maar het scheelt je een paar blinde vlekken.
 
-![Ibiza lounger bob strand relaxen](/images/migrated/ibiza-lounger-bob-strand-relaxen.webp "ibiza-lounger-bob-strand-relaxen")
+> _Voor de air loungers besloot ik wat marktonderzoek via mijn vrienden op Facebook te doen. Ik vroeg wat ze van het product vonden en wat ze dachten dat mensen er op Ibiza voor zouden betalen. Zo kon ik beredeneren of het een goed plan was ze in te kopen. Datzelfde netwerk gebruikte ik voor keuzes over het logo en het product, en zo vond ik zelfs mijn logistieke partner. Sharing is caring._
+
+![Ibiza lounger op het strand](/images/migrated/ibiza-lounger-bob-strand-relaxen.webp "De Ibiza Lounger in actie op het strand, zomer 2019")
 
 ## Deel en leer van anderen
 
-Wees tijdens je marktonderzoek ook zeker niet bang om je idee prijs te geven. Veel mensen doen altijd geheimzinnig als ze een bedrijf gaan starten. Maar de waarheid is dat wanneer jij een van die types bent, je niets te weten gaat komen over de markt. Openheid is essentieel. Een idee is een begin maar nog geen business. Het is pas een bedrijf als er iets met dat idee wordt gedaan.
+Wees tijdens je marktonderzoek niet bang om je idee prijs te geven. Veel mensen doen geheimzinnig als ze een bedrijf gaan starten. Maar wie dat doet, komt niets te weten over de markt. Openheid is essentieel. Een idee is een begin, maar nog geen business. Het is pas een bedrijf als er iets met dat idee wordt gedaan.
 
 ## Onderzoek jezelf voor je een eigen bedrijf begint
 
-Een laatste deel van het onderzoek heeft vooral met jezelf te maken. Ga na wat je sterktes en zwaktes zijn en bereid je zo voor op risico’s in de toekomst. Kijk ook naar je netwerk en financiële middelen en breng dit in kaart. Zo krijg je overzicht in de chaos en kan het zijn dat je zomaar eens op een deel van je netwerk komt waarvan je nog niet had bedacht dat dit jou verder zou gaan helpen.
+Het laatste deel van het onderzoek gaat over jezelf. Ga na wat je sterktes en zwaktes zijn en bereid je zo voor op risico's. Kijk ook naar je netwerk en je financiële middelen en breng die in kaart. Zo krijg je overzicht in de chaos, en kom je soms op een deel van je netwerk waarvan je niet had bedacht dat het je verder zou helpen.
 
-Pak nu alle resultaten van jouw marktonderzoek en het onderzoek van jezelf bij elkaar en analyseer. Komt dit overeen met jouw aannames en is er een kans van slagen? Dan kunnen we door naar de volgende stap, we kunnen het bedrijf gaan inschrijven.
+> _Bij de air loungers, die uiteindelijk Ibiza Loungers zijn gaan heten, kwam ik tot de conclusie dat ik veel wist van marketing, sales en design, maar simpelweg NIETS van import. Daaruit kon ik opmaken dat ik een logistieke partij nodig had om mij te adviseren. Als je jezelf niet onderzoekt, kom je hier pas later achter, en dat kost geld._
 
-> _Bij de air loungers, die uiteindelijk Ibiza Loungers zijn gaan heten, kwam ik tot de conclusie dat ik zelf wel heel veel wist van marketing, sales en design (logo etc.) maar simpelweg NIETS over import. Daaruit kon ik opmaken dat een logistieke partij nodig was om mij te adviseren. Als je jezelf niet onderzoekt kom je hier pas later in het proces achter en dat is enorm zonde, want dat gaat je geld kosten._
+Pak nu alle resultaten van je marktonderzoek en je zelfonderzoek bij elkaar en analyseer. Komt het overeen met je aannames en is er een kans van slagen? Dan kunnen we door naar de volgende stap: inschrijven.
 
-## Eigen bedrijf starten begint bij de Kamer Van Koophandel
+## Eigen bedrijf starten begint bij de Kamer van Koophandel
 
-Je zult je gaan inschrijven bij de Kamer Van Koophandel. Dat kan vrij eenvoudig. Vandaar ook dat heel veel mensen die alleen maar een idee hebben dat ook doen. Je maakt online een afspraak bij de Kamer Van Koophandel en geeft daar de suggestie voor je bedrijfsnaam op.
+Inschrijven bij KVK gaat in 2026 zo: je vult het inschrijfformulier online in met je DigiD (een kwartier werk), maakt een afspraak bij een KVK-kantoor en rondt daar je inschrijving af met je identiteitsbewijs. Je betaalt eenmalig € 85,15 (het tarief van 2026; het wordt ieder jaar geïndexeerd) en daarna niets meer per jaar. Die € 85,15 mag je als aanloopkosten aftrekken. Bij je inschrijving krijg je je KVK-nummer, en de Belastingdienst stuurt je vanzelf je btw-nummer.
 
-Handig kan wel zijn om vooraf eerst even in het handelsregister te kijken of daar niet al iemand is ingeschreven met dezelfde naam, want dan kun je het wel vergeten. Je bedrijfsnaam moet uniek zijn en mag niet te verwarren zijn met bedrijfsnamen van concurrenten. Dat zou namelijk oneerlijk zijn.
+Handig is om vooraf in het Handelsregister te kijken of er al iemand met dezelfde naam is ingeschreven. Je bedrijfsnaam mag niet te verwarren zijn met die van een concurrent. Staat jouw naam er al tussen? Bedenk dan een nieuwe, dat komt goed.
 
-Staat jouw bedrijfsnaam er al tussen? Bedenk dan een nieuwe, dat moet goed komen.
+![Een gestempeld inschrijfformulier met een pen en een kleine sleutel erop](/images/spots/bedrijf-kvk.webp "De inschrijving is het makkelijkste deel: een kwartier online, een afspraak en € 85,15")
 
 ## Rechtsvorm voor jouw bedrijf
 
-Bij het starten van een eigen bedrijf en je inschrijving in het handelsregister zul je ook een rechtsvorm moeten kiezen. Wanneer je een eerste bedrijf start is dit hoogstwaarschijnlijk een eenmanszaak. Andere rechtsvormen zoals VOF, BV, NV of een Stichting zijn minder voorkomend bij een startend bedrijf maar wel interessant. Je zult je echter veel meer moeten inlezen en goed laten voorlichten alvorens je daaraan begint.
+Bij je inschrijving kies je een rechtsvorm. Bij een eerste bedrijf is dat bijna altijd een eenmanszaak. Ook de cijfers zeggen dat: eind maart 2026 stonden er volgens de KVK-zzp-monitor 1.793.380 zzp'ers ingeschreven, op een totaal van ruim 2,6 miljoen vestigingen in het Handelsregister. Dit zijn de drie rechtsvormen waar je als starter uit kiest, gecontroleerd op 19 september 2026:
 
-> _In 2017 was van de 1,6 miljoen ingeschreven bedrijven, meer dan 1 miljoen een eenmanszaak. Het grote merendeel dus._
+| | Eenmanszaak | Vof | Bv |
+|---|---|---|---|
+| Oprichten | Zelf bij KVK, € 85,15 | Zelf bij KVK, € 85,15; een vennootschapscontract is verstandig | Via de notaris, plus KVK-inschrijving |
+| Aansprakelijk | Jij, ook met je privévermogen | Alle vennoten, ook privé | De bv; jij als bestuurder alleen bij wanbestuur |
+| Belasting | Inkomstenbelasting over de winst, met ondernemersaftrek | Ieder over zijn deel van de winst, met ondernemersaftrek | Vennootschapsbelasting over de winst, daarnaast belasting over je salaris en dividend |
+| Voor wie | Starters, zzp'ers, kleine bedrijven | Samen starten met één of meer partners | Groeiende bedrijven, hogere winsten, risico's die je van privé wilt scheiden |
 
-## Startersdag eigen bedrijf
+Een bv is bij een hogere winst of een groter risico interessant, maar laat je daar goed over voorlichten voordat je eraan begint. De meeste ondernemers beginnen als eenmanszaak en zetten later om.
 
-Bij de inschrijving heb je een gesprekje met iemand van de Kamer Van Koophandel. Die zal je vragen waarom je een eigen bedrijf wilt starten en zorgt dat je in de juiste categorie valt. Ook zal die je uitnodigen een startersdag bij te wonen waar je meer leert over belastingen en ondernemen. Doe dit ook zeker. Deze dagen zijn een begin van je professionele netwerk en helpen je om het ondernemen te begrijpen. Een eigen bedrijf starten is al moeilijk genoeg, dus steun aan elkaar is dan welkom.
+## Startersdag, Ondernemersdagen en het KVK Startersprogramma
 
-Na je inschrijving bij de Kamer Van Koophandel ben je verplicht om ieder kwartaal (in geval van een eenmanszaak) je BTW aangifte te doen. Kijk hiervoor een paar tutorials en screen de website van de belastingdienst, dan moet dat allemaal lukken. Wil je het liever uitbesteden, die boekhouding? [Ik heb een vriend die is boekhouder](https://be-innovative.org), levert top werk ;). Nu op naar het interessante deel van een eigen bedrijf starten!
+In 2019 schreef ik hier over de KVK Startersdag. Die bestaat niet meer in die vorm: KVK organiseert nu de KVK Ondernemersdagen (in 2026 op 13 en 14 november in de Jaarbeurs in Utrecht, gratis), online webinars onder de naam "KVK Start een eigen bedrijf" waarin je live vragen kunt stellen, en het gratis KVK Startersprogramma voor wie net begonnen is. Doe daar iets mee. Zulke dagen zijn het begin van je professionele netwerk en helpen je het ondernemen te begrijpen. Een eigen bedrijf starten is al moeilijk genoeg, steun aan elkaar is welkom.
 
-## Aan de slag met het daadwerkelijk starten van je eigen bedrijf
+## Btw, KOR en de aftrekposten van 2026
 
-Ik kan er lang of kort over praten maar ik heb zo vaak gezien dat mensen in mijn omgeving een eigen bedrijf wilden starten maar het idee niet werd omgezet in een activiteit. De reden hiervoor was veelal dat het bleef steken bij angst voor de regels en wetgeving. Bij het gevoel dat het te moeilijk zou zijn om uit te voeren of bij de risico’s die het met zich meebrengt.
+Na je inschrijving doe je als eenmanszaak (meestal) ieder kwartaal btw-aangifte. Kijk een paar tutorials, lees de site van de Belastingdienst, dan lukt dat. Dit zijn de bedragen en regelingen van 2026 die je als starter moet kennen, gecontroleerd op 19 september 2026:
 
-De realiteit is vaak dat je inderdaad onderuit gaat als je een eigen bedrijf start. Dat is niet te voorkomen. Je begint namelijk aan iets nieuws en dan worden er fouten gemaakt. Het belangrijkste is om dat te accepteren en vooraf in te schatten. Wanneer je dat doet neem je de fouten voor lief en besef je dat we allemaal ergens moeten beginnen. Pas dan ga je daadwerkelijk aan de slag in plaats van dat het altijd maar bij een onuitgevoerd idee blijft.
+| Regeling | 2026 | Wat het betekent |
+|---|---|---|
+| Kleineondernemersregeling (KOR) | Omzet tot € 20.000 per jaar | Je rekent geen btw en doet geen btw-aangifte, maar mag ook geen btw terugvragen. Aanmelden bij de Belastingdienst |
+| Zelfstandigenaftrek | € 1.200 (2027: € 900) | Aftrek van je winst als je minimaal 1.225 uur per jaar in je bedrijf werkt (urencriterium) |
+| Startersaftrek | € 2.123 | Bovenop de zelfstandigenaftrek, maximaal drie keer in je eerste vijf jaar |
+| Mkb-winstvrijstelling | 12,7% | Over de winst die overblijft na de ondernemersaftrek betaal je geen belasting over dit deel |
+| Inkomstenbelasting box 1 | 35,70% tot € 38.883, 37,56% tot € 79.137, 49,50% daarboven | Over je belastbare winst, na aftrek van heffingskortingen |
+
+De zelfstandigenaftrek was in 2019 nog € 7.280 en wordt al jaren afgebouwd. Reken je dus niet rijk met aftrekposten: het verschil zit in wat je verkoopt, niet in wat je aftrekt.
+
+Wil je de boekhouding liever uitbesteden? [Ik heb een vriend die boekhouder is](https://curatua.nl/), levert top werk ;).
+
+![Een spaarvarken naast een stapel bonnetjes en een rekenmachine](/images/spots/bedrijf-belasting.webp "Reserveer vanaf je eerste factuur een deel voor de belasting")
+
+## Reken uit wat je in je eerste jaar overhoudt
+
+De grootste verrassing voor starters is niet de KVK-inschrijving, maar de aanslag inkomstenbelasting anderhalf jaar later. Vul je tarief en je uren in en zie wat er ongeveer van je omzet overblijft.
+
+<div class="tool not-prose" id="bedrijf-calc">
+<p class="tool__title">Van uurtarief naar wat je overhoudt</p>
+<p class="tool__intro">Rekent met de eenmanszaak-regels van 2026: zelfstandigenaftrek, startersaftrek, mkb-winstvrijstelling en de drie schijven van box 1.</p>
+<div class="tool__grid">
+<label class="tool__field">Uurtarief excl. btw (€)<input class="tool__input" id="bedrijf-rate" type="number" min="0" step="5" value="75"></label>
+<label class="tool__field">Declarabele uren per week<input class="tool__input" id="bedrijf-hours" type="number" min="0" max="80" step="1" value="24"></label>
+<label class="tool__field">Werkweken per jaar<input class="tool__input" id="bedrijf-weeks" type="number" min="0" max="52" step="1" value="44"></label>
+<label class="tool__field">Zakelijke kosten per jaar (€)<input class="tool__input" id="bedrijf-costs" type="number" min="0" step="500" value="6000"></label>
+</div>
+<div class="tool__results">
+<div class="tool__result"><p class="tool__label">Omzet per jaar</p><p class="tool__value" id="bedrijf-revenue">€ 79.200</p><p class="tool__sub" id="bedrijf-profit">winst € 73.200 na kosten</p></div>
+<div class="tool__result"><p class="tool__label">Netto per maand, indicatie</p><p class="tool__value" id="bedrijf-net">€ 4.250</p><p class="tool__sub" id="bedrijf-tax">reserveer ± € 22.200 voor de inkomstenbelasting</p></div>
+</div>
+<p class="tool__note">Indicatie, geen belastingadvies. Gaat uit van het urencriterium (1.225 uur) en rekent zonder heffingskortingen en zonder de inkomensafhankelijke bijdrage Zvw; in werkelijkheid houd je door de heffingskortingen meestal wat meer over. Het gemiddelde uurtarief van zzp'ers was in 2026 € 83 excl. btw (Knab, op basis van ruim 20.000 zzp'ers).</p>
+</div>
+
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var nl = function (n) { return '€ ' + new Intl.NumberFormat('nl-NL', { maximumFractionDigits: 0 }).format(n); };
+  function tax(income) {
+    var t = 0, b1 = 38883, b2 = 79137;
+    if (income > b2) { t += (income - b2) * 0.495; income = b2; }
+    if (income > b1) { t += (income - b1) * 0.3756; income = b1; }
+    t += Math.max(0, income) * 0.357;
+    return t;
+  }
+  function calc() {
+    var rate = +$('bedrijf-rate').value || 0, hours = +$('bedrijf-hours').value || 0, weeks = +$('bedrijf-weeks').value || 0, costs = +$('bedrijf-costs').value || 0;
+    var revenue = rate * hours * weeks, profit = revenue - costs;
+    var deduction = Math.min(Math.max(profit, 0), 1200 + 2123);
+    var taxable = Math.max(0, (profit - deduction) * (1 - 0.127));
+    var t = tax(taxable), net = profit - t;
+    $('bedrijf-revenue').textContent = nl(revenue);
+    $('bedrijf-profit').textContent = 'winst ' + nl(profit) + ' na kosten';
+    $('bedrijf-net').textContent = nl(net / 12);
+    $('bedrijf-tax').textContent = 'reserveer ± ' + nl(t) + ' voor de inkomstenbelasting';
+  }
+  ['bedrijf-rate', 'bedrijf-hours', 'bedrijf-weeks', 'bedrijf-costs'].forEach(function (id) { $(id).addEventListener('input', calc); });
+  calc();
+})();
+</script>
+
+## De Wet DBA: werk je straks voor klanten of voor één baas?
+
+Dit stond in 2019 niet in dit artikel en hoort er nu wel in. Veel starters beginnen met één grote opdrachtgever, vaak de oude werkgever. Sinds 1 januari 2025 handhaaft de Belastingdienst weer op schijnzelfstandigheid: als je in de praktijk werkt als een werknemer (vaste uren, aansturing, geen eigen risico), kan de opdrachtgever naheffingen krijgen en kun jij je ondernemersaftrek verliezen. In 2026 deelt de Belastingdienst nog geen verzuimboetes uit, maar naheffingen wel. Zorg dus vanaf het begin voor meerdere opdrachtgevers, eigen middelen en een eigen tarief. Dat is niet alleen fiscaal verstandig, het is ook gewoon wat een bedrijf tot een bedrijf maakt.
+
+## Aan de slag met het daadwerkelijk starten van je bedrijf
+
+Ik heb zo vaak gezien dat mensen in mijn omgeving een eigen bedrijf wilden starten, maar dat het idee nooit werd omgezet in een activiteit. Meestal bleef het steken bij angst voor regels en wetgeving, bij het gevoel dat het te moeilijk zou zijn, of bij de risico's.
+
+De realiteit is dat je inderdaad onderuit gaat als je een eigen bedrijf start. Dat is niet te voorkomen. Je begint aan iets nieuws en dan worden er fouten gemaakt. Het belangrijkste is om dat te accepteren en vooraf in te schatten. Dan neem je de fouten voor lief en besef je dat we allemaal ergens moeten beginnen. Pas dan ga je echt aan de slag, in plaats van dat het bij een onuitgevoerd idee blijft.
 
 ## De eerste stappen als ondernemer
 
-Nu is het tijd om te gaan ondernemen! Hier verschilt het uiteraard enorm per bedrijf hoe dit wordt uitgewerkt. Over het algemeen kun je stellen dat je eerst klanten zal moeten krijgen voordat er geld wordt verdient. Of sterker nog, daarvoor moet er eerst iets zijn om te verkopen. Maar ervan uitgaande dat je dat laatste al hebt geregeld is het nu tijd voor business. Want die klanten komen niet vanzelf.
+Nu is het tijd om te ondernemen. Hoe dat eruitziet verschilt per bedrijf, maar over het algemeen moet je eerst klanten krijgen voordat er geld wordt verdiend. Of sterker nog: er moet eerst iets zijn om te verkopen. Ervan uitgaande dat je dat geregeld hebt, is het nu tijd voor business. Want die klanten komen niet vanzelf.
 
-Heb je bijvoorbeeld al een logo, visitekaartjes, website, linked-in profiel, persbericht, Facebook pagina of folders? Het is tijd om je ‘brand’ de wereld in te dragen. Schreeuw het van de daken en laat iedereen weten dat je een bedrijf bent gestart. Dit zal je ongetwijfeld helpen bij je eerste klanten. In veel gevallen zijn die eerste klanten namelijk bekenden van bekenden. Zorg dat iedereen ervan af weet en je bent begonnen!
+Heb je al een logo, een website, een LinkedIn-profiel? Het is tijd om je merk de wereld in te dragen. Laat iedereen weten dat je een bedrijf bent gestart. In veel gevallen zijn de eerste klanten bekenden van bekenden. Wil je verder dan je netwerk? Dan zijn [koude acquisitie](/blog/ondernemen/koude-acquisitie/) en [artikelen schrijven voor meer bezoekers](/blog/ondernemen/meer-website-bezoekers/) de twee dingen die bij mij het meest hebben opgeleverd.
 
-> _Voor de Ibiza Loungers hebben we een logo gemaakt, t-shirts en petjes gedrukt en zelf beachflags laten maken. We wilde zeker zijn dat iedereen ons zou zien bij de verkoop op Ibiza strand. Nu was het tijd om te verkopen!_
+> _Voor de Ibiza Loungers maakten we een logo, drukten we t-shirts en petjes en lieten we beachflags maken. We wilden zeker zijn dat iedereen ons zou zien op het strand van Ibiza. Nu was het tijd om te verkopen!_
 
-## Conclusie eigen bedrijf starten
+![Een jong boompje dat uit een open kartonnen doos groeit](/images/spots/bedrijf-groei.webp "Een bedrijf is pas een bedrijf als er iets met het idee wordt gedaan")
 
-Ik ben zelf inmiddels al meerdere bedrijfjes begonnen (en gestopt). Ik ben een paar keer flink hard gevallen (lees dit verhaal maar eens), maar stond net iets vaker weer op. En dat is ondernemen. De weg is niet altijd duidelijk, maar wanneer je begint kom je daar vanzelf achter. Soms is het juist de weg van vallen en opstaan waarin je het meeste gaat leren en het meeste kunt bereiken. Dat maakt dan ook dat een eigen bedrijf starten niet voor iedereen is weggelegd. Immers niet iedereen kan zichzelf genoeg motiveren of disciplineren om door dat proces heen te gaan.
+## Conclusie: eigen bedrijf starten in 2026
 
-En om het nog even samen te vatten, de stappen waar je rekening mee moet houden bij het starten van een eigen bedrijf zijn de volgende.
+Ik ben inmiddels meerdere bedrijfjes begonnen (en gestopt). Ik ben een paar keer flink hard gevallen, maar stond net iets vaker weer op. Het bedrijf dat ik nu run, met AI-workshops en de software [EasyReimburse](/over/) die inmiddels door ruim 40 organisaties wordt gebruikt, is gebouwd op wat ik van die eerdere pogingen leerde. En dat is ondernemen: de weg is niet altijd duidelijk, maar wanneer je begint, kom je er vanzelf achter. Vallen en opstaan is precies waar je het meeste leert. Daarom is een eigen bedrijf starten ook niet voor iedereen weggelegd; niet iedereen kan zichzelf genoeg motiveren om door dat proces heen te gaan.
 
-1.  Zet de waarom, hoe en wat op papier
+Om het samen te vatten, dit zijn de stappen bij het starten van een eigen bedrijf:
+
+1.  Zet het waarom, hoe en wat op papier
 2.  Deel je plannen
 3.  Onderzoek de markt
 4.  Onderzoek jezelf
 5.  Kies een rechtsvorm
-6.  Schrijf je in bij de KVK
-7.  Bezoek een startersdag
-8.  Zorg voor zichtbaarheid
-9.  Vind klanten
-10.  Onderneem door vallen en opstaan
+6.  Schrijf je in bij KVK
+7.  Bezoek een KVK-webinar of de Ondernemersdagen
+8.  Regel je btw, KOR en een boekhouding
+9.  Zorg voor zichtbaarheid en meerdere opdrachtgevers
+10.  Vind klanten en onderneem door vallen en opstaan
 
-**Succes met het starten van je eigen bedrijf!**
-
+**Succes met het starten van je eigen bedrijf!** Wil je in je nieuwe bedrijf vanaf dag één slim gebruikmaken van AI, zodat je administratie, marketing en klantcontact niet al je tijd opslokken? Daar gaat mijn [AI-introductieworkshop](/ai-workshops/) over.
 
 <aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
-

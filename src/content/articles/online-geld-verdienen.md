@@ -1,8 +1,8 @@
 ---
-title: "31x Manieren om online geld te verdienen [2023 Guide]"
-description: "Op zoek naar alle manieren om online geld te verdienen? Dan zit je hier goed! Zelf reis ik al zes jaar de wereld over als digital nomad. Ik doe mijn…"
+title: "31 manieren om online geld te verdienen [2026 guide]"
+description: "31 manieren om online geld te verdienen in 2026, allemaal gecontroleerd: wat elk platform je kost, wat nog werkt sinds AI, en een rekenhulp voor jouw doel."
 date: 2018-02-24
-updated: 2022-12-19
+updated: 2026-09-19
 category: "online-geld-verdienen"
 slug: "online-geld-verdienen"
 lang: "nl"
@@ -10,445 +10,348 @@ draft: false
 featuredImage: "/images/headers/online-geld-verdienen.webp"
 ---
 
-Op zoek naar alle **manieren om online geld te verdienen**? Dan zit je hier goed! Zelf reis ik al zes jaar de wereld over als [digital nomad](/over/). Ik doe mijn werk op mijn laptop en kan dat doen vanaf waar dan ook ter wereld.
+Op zoek naar alle **manieren om online geld te verdienen**? Dan zit je hier goed. De eerste versie van dit artikel schreef ik in 2018, vanaf een laptop ergens onderweg. Sindsdien heb ik in 53 landen gewerkt en gereisd, bouwde ik een software-bedrijf (EasyReimburse, inmiddels gebruikt door 40+ organisaties) en gaf ik sinds 2024 142 AI-workshops aan 2000+ deelnemers. Alles wat ik online heb geleerd, staat hieronder.
 
-**Online geld verdienen** vind ik geweldig. Het geeft je de mogelijkheid om vanuit huis te werken, geen 9-to-5 te leven en zelf je vakanties te bepalen. Het enige wat je nodig hebt om online geld te verdienen is een **laptop, Wifi en stopcontact**. Heb je dat? Dan kunnen we aan de slag!
+In dit artikel lees je **31 manieren om online geld te verdienen**, verdeeld over vijf groepen: bereik opbouwen, kennis verkopen, diensten op afstand, producten verkopen en investeren. Bij elke manier staat wat je nodig hebt, wat het platform je kost en wat er sinds de komst van AI veranderd is. Ik heb in september 2026 elke manier opnieuw gecontroleerd: bestaat het nog, wat kost het, wat levert het op. Wat ik niet kon verifiëren, heb ik weggehaald. Onderaan staat een rekenhulp waarmee je jouw doelbedrag omrekent naar uren, verkopen of bezoekers.
 
-### Online geld verdienen mogelijkheden
+Wat er in acht jaar veranderd is? Veel. Vertalen en transcriberen zijn grotendeels overgenomen door AI, platformen als Fiverr en Udemy houden een steeds groter deel van je omzet in, en TikTok betaalt Nederlandse makers nog altijd niet per video. Tegelijk zijn er manieren bijgekomen die in 2018 niet bestonden: AI-workshops geven, automatiseringen bouwen voor bedrijven, betaalde nieuwsbrieven. Het enige wat je nodig hebt, is nog altijd een **laptop, wifi en een stopcontact**.
 
-In dit artikel bespreek ik alle manieren om online geld te verdienen die ik ken. Veel heb ik zelf toegepast en zeker is dat het **allemaal betrouwbare methodes zijn richting een online inkomen**.
+![Mick van Zadelhoff en Mariia Zavtur](/images/migrated/20201113_154812-1-scaled.webp "Mariia en ik, onderweg in november 2020")
 
-Bedoelt voor mensen die **serieus aan de slag willen**.
-
-Als er iets is dat ik geloof, dan is het dat online geld verdienen voor werkelijk iedereen mogelijk is. Alleen gaat het op het internet te vaak over manieren die je geen cent opleveren. Deze en **get-rich-quick-schemes** kom je in dit artikel niet tegen.
-
-![Mick van Zadelhoff en Mariia Zavtur](/images/migrated/20201113_154812-1-scaled.webp "Mick van Zadelhoff en Mariia Zavtur")
-
-Hier gaan we aan de slag met betrouwbare manieren om er online een succes van te maken. **Deze manieren zijn vernieuwd voor 2023**. Zodat jij locatie onafhankelijk kunt werken vanuit huis of je favoriete vakantiebestemming!
-
-## Manieren om online geld te verdienen
-
-Hieronder ga ik in op de betrouwbare manieren om online geld te verdienen. **Door de tekst heen zijn dat er zo’n 31**. Geen onzin, maar manieren die ik zelf ook gebruik om een online inkomen te vergaren.
+Als er iets is dat ik geloof, dan is het dat online geld verdienen voor werkelijk iedereen mogelijk is. Alleen gaat het op het internet te vaak over manieren die je geen cent opleveren. Die en de **get-rich-quick-schemes** kom je in dit artikel niet tegen. Wel de manieren die ik zelf heb toegepast of bij anderen van dichtbij heb zien werken.
 
 
 <aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
 
-## 1. Geld verdienen met een eigen website
+## Zo is online geld verdienen veranderd sinds 2000
 
-![Geld verdienen met website](/images/migrated/geld-verdienen-met-website.webp "geld-verdienen-met-website")
+Voordat we de lijst induiken, is het handig om te zien waar we vandaan komen. Elke golf bracht nieuwe manieren, en elke golf maakte een paar oude manieren waardeloos.
 
-Een **website of blog** is een goede manier om online geld te verdienen. Je kunt hiermee vele kanten op. **Iedereen kan tegenwoordig [een blog maken](/blog/ondernemen/blog-beginnen-starten-stappenplan/)**.
+<ol class="timeline not-prose">
+<li class="timeline__item"><span class="timeline__num">1</span><p class="timeline__year">2000 – 2004</p><p class="timeline__title">Affiliate marketing en AdSense</p><p class="timeline__text">Daisycon (2000) en TradeTracker (2004) brengen commissie per verkoop naar Nederland. Google AdSense (2003) betaalt websites voor advertenties.</p></li>
+<li class="timeline__item"><span class="timeline__num">2</span><p class="timeline__year">2007 – 2011</p><p class="timeline__title">Iedereen een kanaal, iedereen een winkel</p><p class="timeline__text">YouTube start zijn partnerprogramma (2007), Instagram en Udemy verschijnen (2010) en bol opent zijn platform voor externe verkopers (2011).</p></li>
+<li class="timeline__item"><span class="timeline__num">3</span><p class="timeline__year">2017 – 2018</p><p class="timeline__title">Crypto en de digital nomad</p><p class="timeline__text">Bitcoin schiet naar bijna 20.000 dollar. Ik schrijf de eerste versie van dit artikel vanaf een laptop op reis.</p></li>
+<li class="timeline__item"><span class="timeline__num">4</span><p class="timeline__year">2020 – 2021</p><p class="timeline__title">Thuiswerken en NFT's</p><p class="timeline__text">Corona maakt werken op afstand normaal. Een digitaal kunstwerk van Beeple verkoopt voor 69 miljoen dollar; de NFT-hype loopt een jaar later weer leeg.</p></li>
+<li class="timeline__item"><span class="timeline__num">5</span><p class="timeline__year">November 2022</p><p class="timeline__title">ChatGPT</p><p class="timeline__text">Teksten schrijven, vertalen en transcriberen wordt in één klap bijna gratis. Iedere manier in dit artikel krijgt ermee te maken.</p></li>
+<li class="timeline__item"><span class="timeline__num">6</span><p class="timeline__year">2024</p><p class="timeline__title">Platformen draaien aan de knoppen</p><p class="timeline__text">AdSense betaalt voortaan per vertoning in plaats van per klik, YouTube verlaagt de instapdrempel naar 500 abonnees, Udemy verlaagt het aandeel voor docenten. Ik geef mijn eerste AI-workshop.</p></li>
+<li class="timeline__item"><span class="timeline__num">7</span><p class="timeline__year">2025</p><p class="timeline__title">AI eet de tekstberoepen</p><p class="timeline__text">Het aantal actieve vertalers in Europa daalt met 11% (ELIS). Bij zo'n 60% van de vertaalopdrachten speelt automatische vertaling een rol.</p></li>
+<li class="timeline__item timeline__item--now"><span class="timeline__num">8</span><p class="timeline__year">2026 – nu</p><p class="timeline__title">Meer zelfstandigen dan ooit</p><p class="timeline__text">Op 30 juni 2026 staan er 1.805.194 zzp'ers ingeschreven bij KVK, een record. Wie AI inzet als gereedschap in plaats van het te bevechten, doet in zijn eentje wat vroeger een team kostte.</p></li>
+</ol>
 
-Zeker met een webbouwer zoals **WordPress** is dat zo gedaan. Je registreert jouw domeinnaam en WordPress hosting eenvoudig bij [Cloud86](/go/cloud86) en kunt binnen no-time aan de slag.
+## Bereik opbouwen: verdienen met een publiek
 
-Wanneer je een eigen website maakt kun je dit doen over iets waar je gepassioneerd over bent. Bezoekers komen vervolgens op jouw website terecht via Google (_zo ben jij hier ook gekomen toch?_).
+De eerste groep manieren draait om één ding: mensen die naar jou kijken, lezen of luisteren. Heb je dat publiek, dan zijn er allerlei manieren om er geld mee te verdienen. Het opbouwen ervan kost het meeste tijd, maar het is ook de groep waar ik zelf het meest uit heb gehaald.
 
-**Dat zijn gratis websitebezoekers** en daarmee kun jij geld verdienen.
+![Een laptop op een houten bureau bij een raam, met een groeiende stapel munten ernaast](/images/spots/online-werkplek.webp "Een laptop, wifi en een stopcontact: meer heb je niet nodig")
 
-> Geld verdienen met een website kan door; **advertenties, advertorials, affiliate marketing, een goed lopende website te verkopen, Google Adsense, bedrijfsvermeldingen of door jouw eigen product of dienst erop aan te bieden, zoals in een [webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/).**
+### 1. Geld verdienen met een eigen website of blog
 
-Er zijn mogelijkheden zat voor een inkomen met jouw eigen website! Zo verdien ik immers ook mijn geld ;).
+Een **website of blog** is nog altijd de basis van bijna alles in dit artikel. Je kunt er vele kanten mee op en [iedereen kan tegenwoordig een blog maken](/blog/ondernemen/blog-beginnen-starten-stappenplan/). Met WordPress is dat zo gedaan: je registreert een domeinnaam en hosting bij [Cloud86](/go/cloud86) en kunt binnen een uur aan de slag. Het pakket WordPress Start kost in september 2026 €7,95 per maand als je drie jaar vooruit betaalt (€9,95 bij een jaar), een .nl-domein €13,95 per jaar. Een blog begin je dus voor zo'n €135 per jaar, alles inbegrepen.
 
-Wil je weten hoe je zelf aan de slag gaat met een eigen blog? Ik heb een gratis training gemaakt waarin ik je stap voor stap meeneem in het proces. Je leert daarin een blog opzetten en maakt hier vervolgens een verdienmodel van. Je volgt de gratis training [hier](/blog/ondernemen/blog-beginnen-starten-stappenplan/).
+Bezoekers komen op jouw website terecht via Google (_zo ben jij hier ook gekomen, toch?_). **Dat zijn gratis websitebezoekers** en daar kun jij geld mee verdienen: met advertenties, advertorials, affiliate marketing, een eigen product of dienst, of door een goedlopende website uiteindelijk te verkopen. Op De Moderne Nomaden schreef ik ruim 170 artikelen, en die staan nu allemaal hier.
 
-Wat je vaak ziet bij websites is dat ze **meerdere methodes tegelijk toepassen** om online geld te verdienen. Zo zal je op mijn website eigen producten, affiliate marketing, advertenties en advertorials tegenkomen.
+Eén ding is wel veranderd: Google toont sinds 2024 steeds vaker een AI-antwoord boven de zoekresultaten, en daarmee krijgen informatieve artikelen minder klikken. Wat nog werkt, zijn artikelen met eigen ervaring, eigen cijfers en een eigen mening. Precies wat AI niet kan namaken. Lees verder in [geld verdienen met jouw website](/blog/online-geld-verdienen/geld-verdienen-met-website/), [geld verdienen met bloggen](/blog/online-geld-verdienen/bloggen/) en [meer websitebezoekers krijgen](/blog/ondernemen/meer-website-bezoekers/).
 
-Voor wie begint is het advies echter simpel. **Ga voor Google Adsense en affiliate marketing**. Deze manieren zijn relatief laagdrempelig.
+### 2. Affiliate marketing voor een passief inkomen
 
-Over affiliate marketing hebben we het straks, maar eerst even iets over Google Adsense.
+Affiliate marketing is de manier waarmee ik zelf jarenlang het grootste deel van mijn inkomen verdiende. Het gebeurde regelmatig dat ik 's ochtends mijn laptop opende en een melding zag van nieuwe affiliate-verdiensten. Best gek, want ik lag op dat moment gewoon te slapen. Op het hoogtepunt van De Moderne Nomaden kwam er zo'n €5.000 per maand binnen uit bloggen en affiliate marketing.
 
-> **Google Adsense** is een systeem van Google dat (relevante) advertenties weergeeft op websites. Tal van websites hebben zich bij het systeem aangemeld en maken ruimte vrij voor Google Adsense advertenties. Google bepaalt daarin welke advertenties het meest relevant zijn.
+> Affiliate marketing houdt in dat je (tracking)links plaatst naar producten en diensten van bedrijven. **Wanneer iemand op jouw link klikt** en het product of de dienst koopt, krijg jij daar een commissie voor.
 
-Je hoeft je slechts bij Google Adsense **aan te melden** en dit aan jouw website te koppelen. Vervolgens ontvang je geld per keer dat er op een van de advertenties wordt geklikt.
+Die links kun je plaatsen op je website, in je nieuwsbrief, op YouTube of Instagram. Je meldt je aan bij een affiliate netwerk, kiest de programma's die bij je publiek passen en de rest gaat automatisch via cookies. De grootste netwerken van Nederland in 2026 zijn [TradeTracker](/go/tradetracker) (meer dan 2.000 adverteerders in Nederland), Daisycon (ruim 3.000 wereldwijd), Awin en voor digitale producten [PayPro](/blog/online-geld-verdienen/paypro/). Het partnerprogramma van bol betaalt 2,5% tot 7% van de verkoopprijs, afhankelijk van de categorie. In [de beste affiliate programma's van Nederland](/blog/ondernemen/affiliate-programma/) vergelijk ik ze.
 
-Belangrijk om hierbij te weten is dat je [veel bezoekers](/blog/ondernemen/meer-website-bezoekers/) nodig hebt op je website. Zomaar een website starten en wachten tot het geld binnenstroomt zal niet werken.
+Essentieel bij affiliate marketing is een **website met veel bezoekers** of een **grote, actieve following**. Zonder publiek geen klikken, zonder klikken geen commissie. Hoe je dat opbouwt lees je in [geld verdienen met affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/). Wil je een betaalde beginnerstraining? [Affiliate Marketing Revolutie](/go/affiliate-marketing-revolutie) is een videotraining van Internet Succes Gids, op het moment van schrijven €47.
 
-Ga dus actief aan de slag met waardevolle content zodat mensen jouw website kunnen vinden én willen bezoeken. Op mijn eigen blog vind je inmiddels **meer dan honderd uitgebreide artikelen** waar ik mensen op het internet een antwoord bied op een vraag. “Hoe kun je online geld verdienen?” bijvoorbeeld.
+Andersom kan ook: heb je zelf een online product, dan zet je het op een affiliate platform en laat je anderen het voor een commissie promoten. Weer een manier om online geld te verdienen ;).
 
-## 2. Affiliate marketing om passief inkomen te genereren
+### 3. Display-advertenties via Google AdSense
 
-![Geld verdienen met affiliate marketing](/images/migrated/geld-verdienen-met-affiliate-marketing.webp "geld-verdienen-met-affiliate-marketing")
+**Google AdSense** toont relevante advertenties op je website en betaalt je daarvoor. Vroeger kreeg je geld per klik; sinds 2024 betaalt Google per vertoning, wat in de advertentiewereld allang de standaard was. Als uitgever ontvang je 80% van wat er na de kosten van het advertentieplatform overblijft.
 
-Affiliate marketing is een **interessante en relatief nieuwe manier** om online geld te verdienen.
+Je meldt je aan, koppelt AdSense aan je website en plaatst de code. Belangrijk om te weten: je hebt [veel bezoekers](/blog/ondernemen/meer-website-bezoekers/) nodig voordat dit iets voorstelt. Een website starten en wachten tot het geld binnenstroomt werkt niet. Voor wie begint, is mijn advies daarom simpel: **ga voor affiliate marketing en zet AdSense erbij** zodra je duizenden bezoekers per maand hebt.
 
-Zelf pas ik **affiliate marketing** veelvuldig toe. Deze vorm van marketing zorgt ervoor dat ik [passieve inkomsten](/blog/online-geld-verdienen/passief-inkomen-genereren/) heb.
+### 4. Advertorials verkopen via WhitePress
 
-Het gebeurt regelmatig dat ik ’s ochtends mijn laptop open en een melding heb ontvangen met daarin nieuwe affiliate verdiensten (zo’n €5000,- per maand inmiddels). Best ludiek, want ik lag op dat moment gewoon te slapen!
+Heb je een blog met bezoekers, dan kun je ruimte verkopen aan adverteerders. Die wordt ingevuld met een advertorial: een advertentie in de vorm van een artikel. Via [WhitePress](/go/whitepress) vinden bedrijven jou en bestellen ze artikelen. Het platform werkt met 17.000 uitgevers en meer dan 30.000 adverteerders, jij bepaalt zelf je prijs en je wordt binnen één werkdag na je factuur uitbetaald. Als voorbeeld noemt WhitePress zelf een regionale nichesite met 200.000 unieke bezoekers die gemiddeld €400 per maand verdient.
 
-> Affiliate marketing houdt in dat je (tracking) links plaatst naar producten en diensten van bedrijven. **Wanneer iemand op jouw link klikt** en het product of de dienst koopt krijg jij daar een commissie voor.
+Let op: Google straft betaalde links zonder de juiste markering af. Verkoop dus alleen advertorials die je ook zonder betaling zou plaatsen en markeer ze als gesponsord. Meer in [geld verdienen met WhitePress en advertorials](/blog/online-geld-verdienen/whitepress-geld-verdienen-advertorials/).
 
-De afbeelding hieronder legt het compact uit.
+### 5. Geld verdienen met YouTube
 
-![Affiliate marketing infographic](/images/migrated/affiliate-marketing-infographic.webp "affiliate-marketing-infographic")
+YouTube is in 2026 makkelijker te bereiken dan ooit, maar de drempel gaat volgend jaar omhoog. Het partnerprogramma kent nu twee niveaus: met **500 abonnees** plus 3.000 kijkuren (of 3 miljoen Shorts-weergaven) mag je fanfuncties zoals lidmaatschappen en Super Thanks inzetten; met **1.000 abonnees** plus 4.000 kijkuren in een jaar (of 10 miljoen Shorts-weergaven in 90 dagen) deel je mee in de advertentie-inkomsten. Vanaf 1 februari 2027 vraagt YouTube nieuwe aanvragers 8.000 kijkuren of 20 miljoen Shorts-weergaven.
 
-Een commissie bij affiliate marketing kan **oplopen tot 50% van de verkoopprijs**. Het gaat dus al snel om **tientallen tot honderden euro’s per product**.
+Advertenties zijn maar één van de manieren. Sponsordeals, affiliate links in je beschrijving en je eigen product leveren bij de meeste kanalen meer op. Lees [dé 8 manieren om geld te verdienen met YouTube](/blog/online-geld-verdienen/youtube/) en [een YouTube-kanaal beginnen](/blog/online-geld-verdienen/youtube-kanaal-beginnen/).
 
-Die linkjes kun je plaatsen op jouw website, blog, Instagram pagina, Youtube kanaal, Facebook pagina of in een e-mail. Het maakt eigenlijk niet uit waar, zolang iemand er maar op kan klikken, kun jij er geld mee verdienen!
+### 6. Instagram, TikTok en influencer worden
 
-Wanneer je een website, blog of ander platform hebt om affiliate links op te plaatsen, dien je je aan te melden bij een van de duizenden [affiliate programma´s](/blog/ondernemen/affiliate-programma/).
+Wie denkt dat Instagram en TikTok alleen voor plezier zijn, heeft het mis. Maar de basis is altijd hetzelfde: je hebt een groep **actieve volgers in een specifieke niche** nodig voordat merken met je willen werken. Het aantal is minder belangrijk dan de betrokkenheid; een klein, trouw publiek in één onderwerp is voor een merk meer waard dan honderdduizend willekeurige volgers.
 
-Die programma’s zijn bedoelt voor **het koppelen van publishers en affiliates**.
+Goed om te weten voor Nederlanders: het Creator Rewards Program van TikTok, dat makers per duizend weergaven betaalt, is in september 2026 beschikbaar in Duitsland, Frankrijk, Spanje, Italië en het Verenigd Koninkrijk, maar **niet in Nederland**. Hier verdien je op TikTok dus via merkdeals, affiliate links, LIVE-gifts en je eigen producten. Op Instagram komen daar betaalde abonnementen en badges bij. Hoe je dat aanpakt lees je in [geld verdienen met Instagram](/blog/online-geld-verdienen/geld-verdienen-met-instagram-2/), [influencer worden](/blog/online-geld-verdienen/influencer-worden/) en mijn [social media strategie](/blog/ondernemen/social-media-strategie/).
 
-De affiliate is in dit geval het bedrijf, en de publisher, dat ben jij.
+### 7. Een betaalde nieuwsbrief
 
-In een affiliate programma vind je de producten die jij kunt promoten en hoeveel commissie je kunt ontvangen per verkoop. Ook zorgt het affiliate programma ervoor dat **verkopen via jouw affiliate link** worden geregistreerd aan de hand van cookies.
+Dit bestond in 2018 nog nauwelijks en is nu een volwassen verdienmodel: een nieuwsbrief waarvoor lezers maandelijks betalen. Substack is het bekendste platform en houdt 10% van je abonnementsinkomsten in, plus de betaalkosten. Je kunt het ook zelf bouwen met een Nederlands e-mailprogramma en een betaalpagina; dan houd je bijna alles zelf. Het mooie van een nieuwsbrief: je bent niet afhankelijk van een algoritme. De adressen zijn van jou. Hoe je een lijst opbouwt staat in [e-mailmarketing](/blog/ondernemen/e-mail-marketing/) en [leads genereren met een mailinglijst](/blog/ondernemen/leads-genereren-mailinglijst/).
 
-Dat gaat met **een trackingcode die verborgen is in de affiliate link**. Zo weet jij zeker dat je uitbetaald krijgt wanneer er iets is gepromoot.
+### 8. Een Facebook-groep of -pagina te gelde maken
 
-> Bekende affiliate programma’s (en netwerken) in Nederland zijn **Tradetracker, Paypro, Plug&Pay, Daisycon en het partnerprogramma van Bol.com**.
-> 
-> Je meld je eenvoudig aan en kunt wanneer je een platform hebt, direct starten met online geld verdienen. [› meer over affiliate marketing lees je hier](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/)
+Facebook is niet dood, zeker niet voor groepen. Een actieve groep rond één onderwerp (een hobby, een regio, een vak) kun je verdienen met affiliate links, sponsors, een eigen product of betaald lidmaatschap. Het werkt hetzelfde als een blog, alleen woont je publiek ergens anders. Wat ik daarvan heb geleerd staat in [geld verdienen met een Facebook-groep, -pagina of -ads](/blog/online-geld-verdienen/facebook/).
 
-Essentieel bij affiliate marketing is dat je **een grote following** hebt of **een website met veel bezoekers**. Dat vergroot de kans op succes. Simpel gezegd kun je stellen dat hoe meer followers of bezoekers je hebt, hoe meer geld je verdient.
+## Kennis verkopen: van wat je weet naar wat je verdient
 
-### Affiliate marketing als affiliate (ipv publisher)
+De tweede groep is mijn favoriet, omdat het de groep is waarmee ik nu zelf mijn geld verdien. Iedereen weet iets waar een ander voor wil betalen. De vraag is alleen in welke vorm je het verpakt.
 
-Hoewel affiliate commissies ontvangen leuk is, kun je er ook voor kiezen om affiliate marketing andersom in te zetten…
+![Een stapel boeken waaruit een gloeiend videoscherm oprijst](/images/spots/online-kennis.webp "Kennis verpak je als boek, cursus, coaching of workshop")
 
-Stel bijvoorbeeld dat je zelf een online product hebt, dan kun je dit op een affiliate platform plaatsen. Andere mensen met drukbezochte websites kunnen dit product dan in ruil voor een commissie voor jou promoten. **Weer een manier om online geld te verdienen ;).**
+### 9. Publiceer en verkoop je eigen e-book
 
-**[Wil je affiliate marketing net als ik toepassen op een eigen blog of Youtube kanaal? Volg dan deze beginnerstraining.](/go/affiliate-marketing-revolutie)**
+Een e-book publiceren is veel makkelijker dan een gedrukt boek: geen opstartkosten, geen ISBN verplicht en het hoeft geen roman van 80.000 woorden te zijn. De best verkochte e-books zijn vaak korte naslagwerken waar iemand snel iets van leert.
 
-## 3. Online geld verdienen met crypto
+> Mijn eigen [boek over het digital nomad-bestaan](/boek/) telt 40.000 woorden en is daarmee aan de lange kant. Er was simpelweg te veel over te vertellen. Ik geef het inmiddels gratis weg, omdat het me meer oplevert als visitekaartje dan als product.
 
-![Crypto exchanges](/images/migrated/crypto-exchange3-1.webp "Crypto exchanges")
+Verkopen doe je via Amazon Kindle Direct Publishing (70% royalty voor kopers in Nederland en België, anders 35%), of via een Nederlandse dienst als Pumbo, die je e-book bij bol, Kobo en Apple Books zet. Zonder promotie gebeurt er weinig: vraag lezers om een review en zet het boek op je eigen website. Het hele stappenplan staat in [geld verdienen met een e-book](/blog/online-geld-verdienen/e-book/).
 
-Let’s face it, **crypto bestaat nog steeds**. De Bitcoin (een cryptomunt) komt enorm vaak in het nieuws, maar is slechts het topje van de ijsberg. Er zijn meer dan 21.000 geregistreerde cryptomunten en jij kunt daar geld mee verdienen.
+### 10. Een online cursus of videotraining verkopen
 
-En om alvast een misvatting uit de weg te gaan; **geld verdienen met crypto is geen gokken** en bovenal ook helemaal niet zo ingewikkeld.
+Ben je ergens goed in? Dan kun je anderen helpen met **je eigen videotraining**. Het mooie is dat een cursus een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/) kan opleveren: eenmaal gemaakt, verkoop je hem steeds opnieuw. Zelf verkocht ik jarenlang een videotraining over bloggen als business, die honderden mensen heeft geholpen.
 
-Om geld te verdienen met crypto koop je munten in voor een lagere prijs dan waarvoor je ze later weer verkoopt. Dat zou je swingtraden kunnen noemen. Het verschil tussen koop- en verkoopprijs is dan jouw winst :).
+Kies je platform wel bewust. Udemy neemt een groot deel: van een verkoop via Udemy zelf houd je 37%, van een verkoop via je eigen link 97%, en uit de abonnementenpot gaat sinds januari 2026 nog maar 15% naar de docenten. Wil je het in eigen hand houden, dan is [Huddle](/go/huddle) een Nederlands platform waar je cursus, community en betalingen onder je eigen naam draaien, met een gratis proefperiode van veertien dagen. Ook Plug&Pay (Nederlands, met ingebouwde affiliate functie) wordt hier veel voor gebruikt. Alles over het maken staat in [een online cursus maken en verkopen](/blog/online-geld-verdienen/videotraining/).
 
-Bovenstaande kan je letterlijk op dagelijkse basis doen en doordat crypto flink heen en weer beweegt in prijs kun je al met een klein bedrag beginnen!
+> Maak je geen zorgen over de filmkant. Het allerbelangrijkste is dat de inhoud goed zit; de techniek komt op de tweede plaats. Met AI maak je tegenwoordig in een middag ondertitels, samenvattingen en een cursusoverzicht.
 
-Waar je bij het traden van crypto wellicht denkt aan nulletjes en eentjes is dat tegenwoordig al lang niet meer zo ingewikkeld.
+### 11. Online coach worden
 
-Ook jij kunt **[een account aanmaken op Bitvavo](/go/bitvavo)** en vandaag nog beginnen met handelen. Via [deze link](/go/bitvavo) betaal je voor het traden van crypto zelfs geen handelskosten.
+Nederland telde in 2023 volgens KVK **ruim honderdduizend coaches**, tweeënhalf keer zoveel als tien jaar eerder. Dat klinkt als een verzadigde markt, maar de meeste coaches hebben geen specialisatie, en dat is precies waar de ruimte zit. Coach dus niet 'iemands leven', maar 'het bouwen van een online business', 'stoppen met suiker' of 'je eerste marathon'. Zo weten mensen waarvoor ze bij jou terechtkunnen.
 
-![Mijn crypto portfolio op Bitvavo](/images/migrated/mijn-crypto-portfolio-op-bitvavo-1.webp "Mijn crypto portfolio op Bitvavo")
+Coaching gaat tegenwoordig grotendeels via Google Meet of Zoom, vanaf waar ook ter wereld. Hoe je start, wat je vraagt en hoe je klanten vindt lees je in [online coach worden in 4 stappen](/blog/online-geld-verdienen/online-coaching/).
 
-Let wel op… Want aan traden zitten altijd risico’s verbonden. Deze risico’s kun je minimaliseren met bepaalde technieken. Als je daar meer over wilt weten raad ik je aan om [dit artikel over geld verdienen met crypto](/blog/web3/handelen-in-crypto-valuta/) te lezen.
+### 12. Bijles en huiswerkbegeleiding online
 
-Ook zijn twee collega’s van mij volop actief in de cryptomarkt. Zij verhandelen daar al jaren cryptomunten en ontdekken zo nu en dan **een nieuwe cryptoparel** welke tot wel honderden keren over de kop kan gaan. Dit zijn hele kleine cryptomunten met grote groeipotentie, dat is dus vooral leuk voor de lange termijn!
+Ouders huren steeds vaker hulp van buiten school in, en die begeleiding gaat vaak online omdat dat goedkoper is. Ben je goed in één vak, dan kun je daar geld mee verdienen. Via een bemiddelaar als StudentsPlus verdien je als bijlesgever €15 per uur (de leerling betaalt vanaf €24); via je eigen netwerk of een platform als Superprof, dat geen commissie inhoudt, bepaal je zelf je tarief. Het wettelijk minimumuurloon is sinds 1 juli 2026 €14,99, dus alles daarboven is winst ten opzichte van een bijbaan. Het volledige stappenplan met alle platforms en tarieven staat in [online huiswerkbegeleider worden](/blog/online-geld-verdienen/huiswerk-begeleiding/).
 
-> Gezien hun enthousiasme over cryptomunten geven ze daar ook gratis trainingen over. [Deze kun je hier volgen](/go/crypto-training). In de training koop je al gelijk je eerste cryptomunt voor één euro. Een prima starter denk ik zo! Of ga aan de slag met de **[Money Mastery](/blog/review/money-mastery-review-allesovercrypto-patrick-suiker-derek-westra/)**, de nummer één training over crypto in Nederland.
+### 13. Online taalles geven
 
-## 4. NFTs flippen en geld verdienen met de Metaverse
+Je hoeft niet per se te vertalen als je een talenknobbel hebt. Ik zie met regelmaat digital nomads die hun geld verdienen door online Engels of Nederlands te geven. Op Preply bepaal je zelf je tarief; het platform houdt bij nieuwe docenten 33% in en dat daalt naar 18% als je veel uren hebt gegeven. Italki houdt 15% in. Cambly betaalt een vast bedrag van $0,17 per minuut, oftewel $10,20 per uur, maar vraagt geen eigen leerlingenwerving. Nederlands als tweede taal is een niche waar vraag naar is en waar weinig aanbod is.
 
-![NFT Geld Verdienen met Kopen en Verkopen van NFT's](/images/migrated/nft-geld-verdienen-kopen-verkopen.webp "nft-geld-verdienen-kopen-verkopen")
+### 14. Workshops en trainingen geven aan bedrijven
 
-**Online geld verdienen met NFT’s**? Misschien heb je er nog nooit van gehoord. NFT staat voor Non-Fungible-Token en staat voor een revolutie in de digitale kunstwereld.
+Dit is de manier die ik in 2018 nog niet kende en waarmee ik nu mijn geld verdien. Sinds 2024 gaf ik 142 AI-workshops aan 2000+ deelnemers, bij bedrijven als Technogym Benelux, Mooijer Volendam en Holstein Flowers. Bedrijven betalen goed voor iemand die een team in een paar uur iets nieuws leert, zeker als het gaat om iets waar iedereen mee worstelt.
 
-Net zoals bij ‘echte’ kunst, kunnen NFT’s worden verkocht voor geld of cryptocurrency. Het verschil is alleen dat deze transactie wordt **bijgehouden op de blockchain**. Daar wordt geregistreerd wie de NFT en dus het kunstwerk bezit.
+Het werkt zo: je kiest één onderwerp waar je aantoonbaar goed in bent, bouwt één workshop van een dagdeel en gaat die zo vaak mogelijk geven. Niet online, maar op locatie; dat is juist het verschil met alle andere manieren in dit artikel en de reden dat bedrijven ervoor betalen. Hoe mijn workshops eruitzien zie je op [AI-workshops](/ai-workshops/). Wat je van die pagina kunt afkijken: één duidelijke prijs, één duidelijk resultaat en één knop om contact op te nemen.
 
-En ja, ook daar kan je geld mee verdienen. Zo komen er steeds meer nieuwskoppen voorbij over NFT’s die voor miljoenen worden verkocht. Zo ging onderstaande digitale afbeelding voor 69 miljoen dollar over van eigenaar.
+### 15. Een betaalde community of membership
 
-![NFT geld verdienen Beeple](/images/migrated/nft-geld-verdienen-beeple-1.webp "nft-geld-verdienen-beeple (1)")
+Een variant op de cursus: mensen betalen maandelijks voor toegang tot een groep, live sessies en jouw antwoorden. Het voordeel ten opzichte van een cursus is dat de inkomsten terugkeren; het nadeel is dat je er elke week moet zijn. Huddle en Skool zijn de platforms die je hiervoor in Nederland het meest ziet. Begin pas met een membership als je al een publiek hebt dat om meer vraagt.
 
-Geld verdienen met NFT’s kan kort gezegd op twee manieren. De eerste is door **jouw eigen NFT’s uit te brengen**, bijvoorbeeld als je een beetje goed bent met design. De tweede is om **populaire** [NFT’s te kopen en voor meer te verkopen](/go/nft-secrets-gratis). Hoe dat allemaal werkt lees je in dit artikel: [Geld verdienen met NFT’s – Volledig uitleg](/blog/web3/nft-uitleg/).
+## Diensten op afstand: je vaardigheden verhuren
 
-Een beetje opvolgend aan NFT’s is de nieuwste trend; **de Metaverse**. Dit is een soort digitale wereld. Er zijn inmiddels al velen [Metaverse crypto](/blog/web3/metaverse-crypto/) en manieren om hier geld mee te verdienen zijn eindeloos. Kijk maar eens naar onderstaande lijstje:
+De derde groep is de snelste manier om je eerste euro's online te verdienen, omdat je niet eerst een publiek hoeft op te bouwen. Je verkoopt uren of resultaten. Het nadeel: het is niet passief en juist deze groep heeft de meeste last van AI.
 
-1.  Investeren in Metaverse crypto
-2.  Metaverse makelaar worden
-3.  Architect in de Metaverse
-4.  Virtuele real-estate verhuren
-5.  Play2Earn, Learn2Earn, Build2Earn
-6.  Organiseer een virtueel event
-7.  Werken in de Metaverse
-8.  Wearables ontwerpen
+### 16. Online teksten vertalen
 
-Wil je meer weten over hoe je geld verdient met de Metaverse? Bekijk dan [dit uitgebreide artikel over de verdienmodellen in de Metaverse](/blog/web3/geld-verdienen-metaverse/).
+Als je een talenknobbel hebt, was **online vertalen** in 2018 een prima verdienmodel. In 2026 is het een vak onder druk. Het aantal actieve vertalers in Europa daalde in 2025 met 11%, en bij zo'n 60% van de opdrachten speelt automatische vertaling of post-editing een rol. Nederlandse vertalers vertelden de NOS dat het tarief van 12 naar 10 cent per woord zakte en nu richting 8 cent gaat, en dat het nakijken van AI-vertalingen 2 tot 5 cent per woord oplevert.
 
-## 5. Instagram, Youtube, Tiktok en Facebook als verdienmodel
+Wat overblijft: gespecialiseerde, beëdigde en creatieve vertalingen, en vertalers die AI als gereedschap gebruiken in plaats van als concurrent. Hoe je daar in 2026 nog geld mee verdient, welke platforms er nog zijn en wat je vraagt, staat in [geld verdienen met online vertalen](/blog/online-geld-verdienen/online-vertalen/).
 
-![Social media](/images/migrated/social-media-strategie.webp "Social media")
+### 17. Transcriberen en ondertitelen
 
-Wie denkt dat sociale media als Instagram, Youtube, Tiktok en Facebook alleen bedoelt zijn voor plezier heeft het mis. Geld verdienen met sociale media is goed mogelijk ook al weten velen niet hoe…
+Vroeger typte je een interview uit voor een paar cent per woord. Dat doet AI nu in een minuut. Wat er nog betaald wordt, is het controleren en corrigeren: Rev betaalt freelancers $0,30 tot $0,65 per audiominuut voor transcriptie en $0,70 tot $1,10 per audiominuut voor ondertiteling in een andere taal, na een toelatingstest. Het is instapwerk, geen carrière. Handig als je vandaag wilt beginnen, niet als je over een jaar nog hetzelfde wilt doen.
 
-De basis om hier inkomen uit te halen is in ieder geval altijd hetzelfde. Je hebt een groot aantal **actieve volgers** nodig op een medium voor je er iets uit kan halen.
+### 18. Geld verdienen met online marketing
 
-Denk hierbij aan een ondergrens van 50.000 volgers op Instagram, 10.000 abonnees op Youtube of 50.000 pagina likes op Facebook. Bij die aantallen wordt het interessant! Al kun je ook als ‘mirco influencer’ beginnen. Vooral belangrijk is dat je volgers actief zijn en zich in een [specifieke niche](/blog/ondernemen/blog-niches/) bevinden.
+Online marketing is een van de beste manieren om online geld te verdienen, omdat je bedrijven direct helpt aan klanten. [Als online marketeer](/blog/online-geld-verdienen/online-marketing/) zet je advertentiecampagnes op, doe je SEO (zoekmachineoptimalisatie), e-mailmarketing of conversie-optimalisatie. De extra omzet die dat oplevert, is voor bedrijven een goede reden om jou flink te betalen.
 
-Als je zo’n volgers base hebt dan kun je starten met online geld verdienen. Dit doe je door bijvoorbeeld **advertenties van bedrijven** op jouw account toe te staan of een **review voor een bedrijf** te maken. Ook hier kun je wederom met **affiliate marketing** inkomsten uithalen.
+> Stel dat je een campagne draait die een bedrijf 10.000 euro extra omzet oplevert. Dan is 2.000 euro voor jouw werk een makkelijke rekensom voor die ondernemer, ook als je er maar een paar uur aan kwijt was. Je verdient naar wat je waard bent, niet naar hoeveel uur je werkt.
 
-Wil je hier het fijne van weten? Klik dan hieronder op het medium waar jij je op focust ->
+Het vakgebied is enorm breed. Om er veel mee te verdienen kun je je het beste specialiseren in één onderdeel: **content marketing, SEO, SEA (Google Ads), [e-mailmarketing](/blog/ondernemen/e-mail-marketing/), influencer marketing of conversie-optimalisatie**. Kies je specialisatie, verdiep je erin en begin.
 
-[– Geld verdienen met Instagram](/blog/online-geld-verdienen/geld-verdienen-met-instagram-2/)
+### 19. Social media beheren voor bedrijven
 
-[– Geld verdienen met Youtube](/blog/online-geld-verdienen/youtube/)
+Veel bedrijven willen wel op Instagram of LinkedIn zichtbaar zijn, maar hebben er niemand voor. Jij maakt de content, plant hem in en rapporteert maandelijks. Dat heet een social media marketing agency (SMMA), maar het begint gewoon met één klant uit je netwerk en een vast maandbedrag. Met AI maak je in 2026 in een uur wat vroeger een dag kostte; de klant betaalt voor het denkwerk en de consistentie, niet voor de tijd.
 
-[– Geld verdienen met Facebook](/blog/online-geld-verdienen/facebook/)
+### 20. Virtual assistant
 
-> Andere manieren om geld te verdienen met sociale media zijn **paid memberships (Youtube), partnerships, een eigen product of dienst, donaties, Google Adsense en branding**. De basis is altijd hetzelfde; dat je een bepaalde following hebt.
+Een virtual assistant (VA) neemt ondernemers werk uit handen op afstand: e-mails beantwoorden, afspraken inplannen, facturen versturen, reizen boeken. Een eenvoudige manier om online te werken met een lage instapdrempel. Ik ken iemand die er via een paar losse klusjes in rolde en nu fulltime voor één bedrijf werkt, nog steeds op afstand. Zo kom je ook in contact met [remote jobs](/blog/digitalenomaden/digital-nomad-banen/).
 
-### Geld verdienen met een eigen Social Media Marketing Agency
+### 21. Freelance klussen via Fiverr en Upwork
 
-Ook zou je ervoor kunnen kiezen om jouw eigen Social Media Marketing Agency (SMMA) te starten. Je zet **advertentie campagnes op voor bedrijven** en krijgt betaald naar wat deze campagnes die bedrijven opleveren.
+Kun je goed designen, schrijven, programmeren of wat dan ook? Via [Fiverr](/go/fiverr) of Upwork bied je dat aan als losse 'gig'. Handig als je net begint en nog geen vaste klanten hebt. Reken de platformkosten wel mee: Fiverr houdt een vaste 20% van elke order in (de koper betaalt daarbovenop 5,5% extra), Upwork rekent een variabel percentage van 0 tot 15% per contract. Zie het als klantenwerving die je betaalt met commissie, en probeer goede klanten na een paar opdrachten rechtstreeks te bedienen.
 
-Vaak verdien je daarmee **rond de €1000,-** per maand per klant.
+### 22. Video-editing
 
-## 6. Online teksten vertalen of transcriberen
+Er wordt meer video gemaakt dan ooit, en elke podcast, YouTuber en bedrijf heeft iemand nodig die het knipt. De software is bovendien goedkoper geworden: DaVinci Resolve is volledig gratis, CapCut is gratis voor korte video's en Adobe Premiere Pro kost €316,97 per jaar inclusief btw. Leren doe je met YouTube en oefenen; [het Classroom in a Book van Adobe](/go/adobe-premiere-pro-boek) helpt als je liever een boek hebt. Zelf leerde ik editen door gewoon mijn eigen reisvideo's te monteren.
 
-![Geld verdienen met vertalen](/images/migrated/online-geld-verdienen-met-vertalen.webp "online-geld-verdienen-met-vertalen")
+### 23. Websites bouwen voor anderen
 
-Als je een talenknobbel hebt dan is **online teksten vertalen** wat voor jou.
+Als je zelf een WordPress-site hebt opgezet, kun je dat ook voor anderen. Elke bakker, coach en klusbedrijf heeft een website nodig en de meeste willen er niet zelf aan. Met WordPress, Elementor of een AI-websitebouwer maak je in een dag iets wat er professioneel uitziet. Combineer het met een klein onderhoudsabonnement per maand en je hebt terugkerende inkomsten.
 
-Het vertalen van teksten kan veel opleveren en het is **eenvoudig om aan opdrachten te komen**. Daar zijn [verschillende vertaalplatforms](/blog/online-geld-verdienen/online-vertalen/) voor.
+### 24. Automatiseringen bouwen met AI
 
-Essentieel is dat je **twee talen volledig beheerst** en in staat bent kwalitatief te vertalen. Dat kan gaan om het vertalen van **webteksten, artikelen of het vertalen van een boek**.
+Dit is de nieuwe versie van 'websites bouwen'. Bedrijven hebben in 2026 honderden taken die elke week terugkomen: offertes maken, mails beantwoorden, gegevens overtypen van het ene systeem naar het andere. Met AI-tools en een beetje technisch inzicht bouw je daar in een paar dagen iets voor, en dat bespaart een bedrijf meteen uren per week. Ik doe dit zelf naast mijn workshops: ik werk een tijdje mee met een afdeling en automatiseer wat te veel tijd kost, samen met twee mensen van het bedrijf zelf. Hoe dat eruitziet staat op [AI-automatisering](/automatisering/). Het vraagt meer dan de andere manieren hier, maar het betaalt ook meer.
 
-De verdiensten uit online vertalen komen neer op zo’n **10 cent per woord**. Dat wil zeggen dat je voor het vertalen van een boek, zo’n **€5000,- kunt krijgen**.
+## Producten verkopen: een winkel zonder winkel
 
-Natuurlijk krijg je niet alleen maar van dat soort mega opdrachten. Denk bij online vertalen dus ook aan het vertalen van websites. Voor bedrijven is een correcte vertaling (en dus niet Google translate) essentieel om professioneel over te komen bij hun klanten.
+De vierde groep is voor wie liever iets tastbaars (of downloadbaars) verkoopt dan zijn tijd. Je hebt geen pand nodig, vaak zelfs geen voorraad.
 
-Goed om te weten bij deze methode om online geld te verdienen is dat je verdiensten erg afhangen van het soort taal je vertaald. **Chinees en Engels** zijn daarbij de meest gevraagde en dus ook de best betaalde opdrachten.
+![Een kartonnen pakket op een lopende band voor een klein winkeltje](/images/spots/online-pakket.webp "Verkopen zonder winkel: bol, een webshop of digitale producten")
 
-> Behave online vertalen, kun je ook **online transcriberen**. Je krijgt dan een geluidsopname toegestuurd van bijvoorbeeld een interview. Deze moet dan in zijn geheel worden uitgetypt. Je krijgt ook hier vaak betaald per woord en kan gemakkelijk opdrachten vinden nadat je je hebt aangemeld bij een van de vele platforms die dit aanbieden.
+### 25. Verkopen via bol
 
-## 7. Geld verdienen met online marketing
+Op 31 maart 2026 verkochten **43.300 verkooppartners** via bol, samen goed voor een assortiment van 63 miljoen artikelen. Het model is simpel: je koopt producten in (bijvoorbeeld via Alibaba), stuurt ze naar het magazijn van bol (Logistiek via bol) en bol regelt verkoop, verzending en retouren. Aanmelden is gratis; je betaalt commissie per verkocht artikel: een vast bedrag (€0,20 tot €0,85, voor elektronica en grote meubels €2,48) plus een percentage van de verkoopprijs dat per categorie verschilt, meestal 12,4%. Je hebt er een KVK-nummer en een btw-nummer voor nodig.
 
-![Geld verdienen met online marketing](/images/migrated/geld-verdienen-met-online-marketing.webp "geld-verdienen-met-online-marketing")
+Het is niet de eenvoudigste manier, maar wel iets wat je rustig stap voor stap opbouwt: een product dat eenmaal goed loopt, hoeft weinig aandacht meer. Ik schreef er een compleet stappenplan over: [verkopen op bol](/blog/ondernemen/verkopen-op-bol-com/).
 
-Online marketing is een goede manier om online geld te verdienen. Het is voor het grootste deel uit te voeren vanachter een laptop.
+### 26. Een eigen webshop
 
-[Geld verdienen als online marketeer](/blog/online-geld-verdienen/online-marketing/) wil zeggen dat je bedrijven helpt **advertentie campagnes op te zetten, sociale media beheert of dat je je bezig houdt met Search Engine Optimalisation (SEO, zoekmachineoptimalisatie)**.
+Wil je niet afhankelijk zijn van bol, dan begin je [je eigen webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/). Meer werk aan marketing, maar de klant is van jou, de marge is van jou en je bouwt een merk op in plaats van een productlijst. Met Shopify of WooCommerce staat de winkel in een middag; de klanten krijgen kost jaren. Combineer het met een blog (manier 1) en een nieuwsbrief (manier 7) en je hebt de drie onderdelen die bijna elke succesvolle webshop heeft.
 
-Het komt erop neer dat jij bedrijven helpt om aan klanten te komen. De extra omzet die dat oplevert is voor veel bedrijven een goede reden om jou als online marketeer flink wat geld te geven.
+### 27. Digitale producten verkopen
 
-> Stel dat je een campagne uitvoert die een bedrijf **10.000 euro oplevert** (dat is zeker geen unicum), dan kun je hier met gemak zo’n **2.000 euro voor rekenen** voor jezelf.
-> 
-> Dat terwijl de werkzaamheden vaak niet meer dan een paar uur in beslag nemen. Je verdient dus naar wat je waard bent, niet naar hoeveel uur je werkt.
+Templates, planners, presets, Notion-sjablonen, printables: digitale producten maak je één keer en verkoop je oneindig, zonder verzendkosten. Etsy rekent $0,20 per listing plus 6,5% van het orderbedrag en betaalkosten; Gumroad rekent 10% plus $0,50 per verkoop; met een Nederlandse betaalpagina zoals Plug&Pay houd je meer zelf. Het geheim zit niet in het product maar in de vindbaarheid: een sjabloon dat niemand vindt, verkoopt niet.
 
-Het vakgebied online marketing is enorm breed. Om er veel geld mee te verdienen kun je je daarom het beste specialiseren in één onderdeel.
+### 28. Stockfoto's en -video's verkopen
 
-Wanneer je **expert bent op één gebied**, zijn bedrijven zeer geïnteresseerd in jouw vaardigheden en besteden ze dit graag aan jou uit. Tegelijkertijd kun je dan een simpele taak uitvoeren (waarvan je weet wat die een bedrijf oplevert) en daarnaar je tarief berekenen.
+Eerlijk is eerlijk: om je foto's te verkopen moet je goed zijn, en AI-beelden hebben de markt voor generieke foto's flink kleiner gemaakt. Wat nog verkoopt, zijn echte mensen op echte plekken: een hovenier aan het werk, een Nederlandse straat in de regen. Adobe Stock betaalt 33% van de verkoopprijs; Shutterstock werkt met niveaus van 15% tot 40% die elke januari terug op nul gaan. Zie het als bijverdienste voor foto's die je toch al maakt, niet als hoofdinkomen.
 
-Je kunt jezelf specialiseren in onder andere:
+### 29. Een app of software (SaaS) bouwen
 
-*   **Content marketing**
-*   **SEO (zoekmachineoptimalisatie)**
-*   **Growth hacking**
-*   **SEA (Google advertenties)**
-*   **[E-mail marketing](/blog/ondernemen/e-mail-marketing/)**
-*   **Influencer marketing**
-*   **Conversie optimalisatie**
+De manier met de hoogste drempel en de hoogste beloning. Je lost één probleem op voor één groep mensen en laat ze daar maandelijks voor betalen. Zelf bouwde ik EasyReimburse, dat reiskostendeclaraties voor Erasmus+-projecten van weken naar minuten terugbrengt; inmiddels gebruiken 40+ organisaties het, met een gratis instap en daarna €129 per project. Ik heb een IT-achtergrond, maar met AI is bouwen in 2026 een toverstaf geworden: wat mij in 2019 maanden zou hebben gekost, staat nu in weken. Begin met een probleem dat je zelf hebt, bouw de kleinst mogelijke versie en vraag er vanaf dag één geld voor.
 
-En zo zijn er nog tal van richtingen! Eigenlijk is het vakgebied oneindig. Kies je specialisatie, verdiep je daarin en start met online geld verdienen.
+## Investeren: je geld voor je laten werken
 
+De laatste groep is anders dan de rest: hier verdien je niet met werk maar met kapitaal. Het kan dus alleen als je al iets hebt om in te leggen, en je kunt het ook kwijtraken.
 
-## 8. Publiceer en verkoop jouw eigen e-book
+![Een plant die groeit uit een spaarpot](/images/spots/online-spaarpot.webp "Investeren: langzaam, saai en op de lange termijn het meest effectief")
 
-![Geld verdienen met eigen e-book](/images/migrated/geld-verdienen-met-het-schrijven-van-een-e-book.webp "geld-verdienen-met-het-schrijven-van-een-e-book")
+### 30. Beleggen in aandelen en ETF's
 
-**Schrijf en publiceer jouw eigen e-book** om online geld te verdienen.
+Saai, en daarom goed. Wie maandelijks een vast bedrag in een wereldwijd gespreide indexfonds (ETF) stopt, doet historisch gezien beter dan de meeste mensen die proberen de markt te timen. Het kost je een kwartier per maand. Hoe je begint, welke broker je kiest en wat de valkuilen zijn, lees je in [geld verdienen met beleggen in aandelen](/blog/online-geld-verdienen/aandelen-handelen/).
 
-Een e-book is anders dan een echt boek. Een echt boek is namelijk best wel moeilijk om te publiceren; daar komt veel bij kijken. Bij een e-book (online boek) is dit gelukkig een stuk makkelijker.
+### 31. Geld verdienen met crypto
 
-**Daar zijn een aantal redenen voor:**
+Let's face it: **crypto bestaat nog steeds**. Bitcoin zette in oktober 2025 een record neer van ruim 125.000 dollar en zakte daarna weer hard. Er zijn meer dan 21.000 actieve munten, en de markt is sinds de Europese MiCA-regels een stuk volwassener geworden. Het goedkoopst koop je in Nederland bij [Finst](/go/finst) (vaste 0,15% per transactie, zonder spread); de grootste exchange is [Bitvavo](/go/bitvavo) (0,25% bij direct kopen, 0,15% bij een limietorder). Geld verdienen doe je hier niet door dagelijks te handelen, maar door maandelijks een vast bedrag in te leggen en jaren te wachten. Alles daarover, met de live koers, staat in [mijn complete gids over geld verdienen met crypto](/blog/web3/handelen-in-crypto-valuta/). Wil je eerst de basis snappen? [Alles Over Crypto geeft een gratis online training](/go/crypto-training).
 
-*   Je hebt geen hoge opstartkosten
-*   Een e-book is korter
-*   Een e-book kun je publiceren **zonder** ISBN
+En de NFT's en de metaverse uit mijn vorige versie van dit artikel? Die hype is voorbij. Het digitale kunstwerk van Beeple dat in maart 2021 voor 69 miljoen dollar werd verkocht, blijft een mooi verhaal, maar de meeste NFT-collecties zijn vrijwel niets meer waard. Wat ik erover schreef staat nog online in [geld verdienen met NFT's](/blog/web3/nft-uitleg/) en [de verdienmodellen in de metaverse](/blog/web3/geld-verdienen-metaverse/), als tijdsdocument. De training over [NFT's kopen en verkopen](/go/nft-secrets-gratis) die ik destijds aanraadde, bestaat niet meer. <!-- TODO: partnerlink /go/nft-secrets is dood: nftwegwijs.plugandpay.nl geeft een 404 (gecontroleerd 19 september 2026), geldt ook voor /go/nft-secrets-gratis --> Handel dus alleen met geld dat je bereid bent te verliezen.
 
-Een e-book hoeft geen roman te zijn van 80.000 woorden. Sterker nog, de best verkochte e-books zijn vaak maar **10.000 woorden**. Veelal zijn e-books naslagwerken waar andere mensen iets mee kunnen leren.
+## Wat kost elk platform je? Alle tarieven op een rij
 
-Denk er bijvoorbeeld aan om een e-book te schrijven over afvallen, positief denken of mediteren voor beginners. Met een e-book kunnen mensen relatief snel specifieke kennis vergaren.
+Bijna elke manier hierboven loopt via een platform, en elk platform houdt iets in. Dit zijn de tarieven, gecontroleerd op 19 september 2026:
 
-> Mijn eigen [e-book over het digital nomad bestaan](/boek/) heeft 40.000 woorden en is daarmee erg aan de lange kant. Er was simpelweg teveel over te vertellen om het korter uit te geven.
+| Platform | Wat het je kost | Manier |
+|---|---|---|
+| Fiverr | 20% van elke order; de koper betaalt daarbovenop 5,5% | 21 |
+| Upwork | Variabel, 0% tot 15% per contract | 21 |
+| Udemy | Jij houdt 37% (verkoop via Udemy) of 97% (via je eigen link); 15% van de abonnementenpot | 10 |
+| Preply | 33% commissie voor nieuwe docenten, dalend tot 18% | 13 |
+| Italki | 15% commissie | 13 |
+| Superprof | Geen commissie voor docenten | 12 |
+| Substack | 10% van betaalde abonnementen plus betaalkosten | 7 |
+| Etsy | $0,20 per listing plus 6,5% van het orderbedrag plus betaalkosten | 27 |
+| Gumroad | 10% plus $0,50 per verkoop | 27 |
+| Amazon KDP | Jij houdt 70% (kopers in NL en BE) of 35% | 9 |
+| Adobe Stock | Jij houdt 33% per verkoop | 28 |
+| Shutterstock | Jij houdt 15% tot 40%, niveau reset elke januari | 28 |
+| bol (verkopen) | Vast bedrag per artikel plus een percentage per categorie, meestal 12,4% | 25 |
+| bol (affiliate) | Jij krijgt 2,5% tot 7% van de verkoopprijs | 2 |
+| Google AdSense | Jij houdt 80% na de kosten van het advertentieplatform | 3 |
+| WhitePress | Jij bepaalt je eigen prijs per advertorial | 4 |
+| Bitvavo | 0,25% per aankoop (0,15% met limietorder) | 31 |
+| Finst | 0,15% vast, geen spread | 31 |
 
-Wanneer je een e-book schrijft kun je deze verkopen via een **platform als Bol.com** (een Nederlandse partij die je daarbij kan helpen is Pumbo). Of je verkoopt jouw e-book via Google Boeken.
+De les uit deze tabel: platforms zijn geweldig om te beginnen en duur om op te blijven. Gebruik ze om je eerste klanten te vinden en bouw ondertussen aan iets wat van jou is: een website, een mailinglijst, directe klanten.
 
-Er zijn tal van plekken om jouw e-book uit te geven. Het voordeel is vooral dat jij daar alleen jouw e-book in hoeft te plaatsen. De distributie wordt door het platform gedaan.
+## Reken je doel om naar uren, verkopen of bezoekers
 
-> **Tip!** Zonder jouw e-book te promoten zal er wellicht nog niet zoveel gebeuren. Vraag wanneer deze is gepubliceerd dus zeker even aan je vrienden en familie om deze proef te lezen en er een review over te plaatsen, dan wordt het e-book beter zichtbaar bij een breder publiek.
+Iedereen begint met een bedrag in zijn hoofd: 500 euro per maand erbij, of 3.000 om van te leven. Deze rekenhulp vertaalt dat doel naar wat je er in de praktijk voor moet doen, voor elk van de drie soorten verdienmodellen in dit artikel.
 
-## 9. Online geld verdienen met coaching
+<div class="tool not-prose" id="online-calc">
+<p class="tool__title">Wat moet ik doen voor mijn doelbedrag?</p>
+<p class="tool__intro">Vul je doel per maand in en pas de andere cijfers aan naar jouw situatie; de uitkomst rekent direct mee.</p>
+<div class="tool__grid">
+<label class="tool__field">Doelbedrag per maand (€)<input class="tool__input" id="online-doel" type="number" min="0" step="100" value="1000"></label>
+<label class="tool__field">Uurtarief als je uren verkoopt (€)<input class="tool__input" id="online-uur" type="number" min="1" step="5" value="50"></label>
+<label class="tool__field">Opbrengst per verkoop of commissie (€)<input class="tool__input" id="online-per" type="number" min="0.01" step="1" value="25"></label>
+<label class="tool__field">Percentage van je bezoekers dat koopt (%)<input class="tool__input" id="online-conv" type="number" min="0.01" max="100" step="0.1" value="1"></label>
+</div>
+<div class="tool__results">
+<div class="tool__result"><p class="tool__label">Uren per maand</p><p class="tool__value" id="online-uren">20</p><p class="tool__sub">bij dit uurtarief (diensten, bijles, coaching)</p></div>
+<div class="tool__result"><p class="tool__label">Verkopen per maand</p><p class="tool__value" id="online-verkopen">40</p><p class="tool__sub">bij deze opbrengst per verkoop (producten, cursus, affiliate)</p></div>
+<div class="tool__result"><p class="tool__label">Bezoekers per maand</p><p class="tool__value" id="online-bezoekers">4.000</p><p class="tool__sub">die je nodig hebt voor die verkopen (blog, YouTube, socials)</p></div>
+</div>
+<p class="tool__note">Rekenvoorbeeld, geen belofte. Eén procent van je bezoekers dat koopt is voor affiliate marketing en webshops een gebruikelijk uitgangspunt; platformkosten uit de tabel hierboven trek je nog van de opbrengst af.</p>
+</div>
 
-![Geld verdienen met online coaching](/images/migrated/geld-verdienen-met-online-coaching.webp "geld-verdienen-met-online-coaching")
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var nl = function (n) { return new Intl.NumberFormat('nl-NL', { maximumFractionDigits: 0 }).format(n); };
+  function calc() {
+    var doel = +$('online-doel').value || 0, uur = +$('online-uur').value || 0;
+    var per = +$('online-per').value || 0, conv = +$('online-conv').value || 0;
+    var uren = uur > 0 ? doel / uur : 0;
+    var verkopen = per > 0 ? doel / per : 0;
+    var bezoekers = conv > 0 ? verkopen / (conv / 100) : 0;
+    $('online-uren').textContent = nl(Math.ceil(uren));
+    $('online-verkopen').textContent = nl(Math.ceil(verkopen));
+    $('online-bezoekers').textContent = nl(Math.ceil(bezoekers));
+  }
+  ['online-doel', 'online-uur', 'online-per', 'online-conv'].forEach(function (id) { $(id).addEventListener('input', calc); });
+  calc();
+})();
+</script>
 
-**Online coaching is razend populair in deze tijd**. Met zo’n 75.000 coaches is Nederland flink goed bezet.
-
-Jij helpt iemand op weg richting zijn of haar doelen en dromen en begeleid met de stappen. Je bent met name een luisterend oor en geeft waar mogelijk advies over de stappen die iemand kan nemen. Je bent daarmee de ondersteuner van iemands mindset.
-
-Het mooie aan dit tijdperk is dat je coaching online kunt doen. Je hoeft niet voor iedere sessie bij iemand langs te gaan, maar kunt de **coaching via apps als Skype** uitvoeren vanaf waar dan ook ter wereld.
-
-Belangrijk bij online coaching is dat je een specificatie kiest. Coach dus niet ‘iemand leven’, maar liever gericht op ‘**het bouwen een online business**‘, ‘**jezelf spiritueel verdiepen**‘ of ‘**veganist worden**‘. Zo weten de mensen waarvoor ze bij jou terecht kunnen.
-
-## 10. Studenten online begeleiden met hun huiswerk
-
-![Geld verdienen met huiswerkbegeleiding](/images/migrated/geld-verdienen-met-online-huiswerk-begeleiding.webp "geld-verdienen-met-online-huiswerk-begeleiding")
-
-Heb je je studie afgerond? Top! Dan zou je nu anderen daarmee kunnen helpen. Er zijn een hoop studenten in Nederland die op zoek zijn naar **online huiswerkbegeleiding** en daar kun jij geld mee verdienen.
-
-> Het is tegenwoordig echt een trend dat ouders sneller studiebegeleiding inschakelen. Dit gaat vaak buiten school om, omdat ouders net iets extra’s willen geven om hun zoon of dochter te laten slagen.
-
-Om het een beetje goedkoop te houden wordt die huiswerkbegeleiding **veel online** gedaan. Dit is tenslotte goedkoper omdat er geen voorrijkosten zijn.
-
-Om geld te verdienen met huiswerkbegeleiding kun je je het beste aanmelden op een van de vele platforms die daarvoor zijn. Denk aan huiswerkbegeleiding.nl. **Op die manier kom je vanzelf aan studenten die jij kunt gaan helpen**.
-
-## 11. Jouw eigen videotraining verkopen
-
-![Jouw eigen online training verkopen](/images/migrated/geld-verdienen-met-online-training.webp "geld-verdienen-met-online-training")
-
-Ben je ergens heel erg goed in? Vast wel! Dan kun jij anderen helpen door **jouw eigen videotraining** te maken.
-
-Je maakt een videotraining over een **specifiek onderwerp** en gaat hier diep op in. Vervolgens vind je studenten die jouw videotraining willen volgen en zo verdien jij online geld.
-
-Het mooie aan een videotraining is dat dit een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/) op kan leveren. Wanneer de videotraining eenmaal is gemaakt kun je het proces van de student volledig automatiseren. Je kunt dus steeds nieuwe studenten aantrekken zonder een nieuwe training te hoeven maken. **Tel uit je winst**.
-
-> Maak je geen zorgen over de filmkant rondom jouw videotraining. Het allerbelangrijkst is dat de inhoud goed zit, de techniek komt daarbij pas op de tweede plaats.
-
-**Het verkopen van jouw eigen videotraining** doe je eenvoudig via een van de vele platforms die daarvoor zijn bedoelt. Houdt er daarbij wel rekening mee dat deze platforms (zoals Udemy) vaak grove commissies rekenen tot de helft van de verkoopprijs. Als je het wat meer zelfstandig wilt verkopen via bijvoorbeeld jouw eigen website, dan kun je een videotraining gemakkelijk opzetten met [The Huddle](/go/huddle). Dit is een Nederlandse partij waar je alle tools binnen handbereik hebt inclusief een eigen online community!
-
-Zelf verkoop ik op deze website ook [een eigen videotraining over hoe je van bloggen een business maakt](/). Een interessant project dat al honderden mensen heeft geholpen.
-
-## 12. Verkopen op Bol.com
-
-![Verkopen op Bol.com](/images/migrated/verkopen-op-bol-com.webp "verkopen-op-bol-com")
-
-Wellicht ben je deze manier van online geld verdienen al een keer tegengekomen in advertenties op onder meer Instagram. Er zijn best veel mensen die je hier graag een handje mee helpen; **verkopen op Bol.com**.
-
-Hoe je er geld mee verdient zit als volgt.
-
-**1\. Je koopt producten massaal in uit China via een platform als Alibaba.  
-2\. Vervolgens leg je die producten fysiek in het Bol.com magazijn.  
-3\. Je plaatst die producten in de hun webshop.  
-4\. Bol.com regelt de verkoop en vangen daar een commissie voor.  
-****5\. Jij krijgt betaald per verkoop.**
-
-Bij het [verkopen via Bol.com](/blog/ondernemen/verkopen-op-bol-com/) heb je zelf geen magazijn nodig. Alles is te regelen op afstand en dat maakt het ook zo relaxt. Wil je meer weten over verkopen op Bol.com? Ik schreef er [dit artikel](/blog/ondernemen/verkopen-op-bol-com/) over.
-
-Het is niet de meest eenvoudige manier om een online inkomen te vergaren, maar wel iets wat je rustig stap voor stap kunt opbouwen. Een product dat eenmaal goed verkoopt, hoef je niet zoveel meer voor te doen. Dus zie je dat veel mensen **die dit verdienmodel aanpakken** er dan een product bijnemen en zo stap voor stap uitbouwen.
-
-## 13. Doe klusjes op een platform als Fiverr of Upwork
-
-<!-- TODO: image missing after migration: fiverr.webp -->
-
-Kan je goed **designen, copywriten of wat dan ook?** Via een platform als Fiverr kun je jezelf als freelancer aanmelden om opdrachten te krijgen.
-
-Je maakt jouw eigen profiel aan en wordt vervolgens **benaderd door bedrijven** die jouw diensten nodig hebben.
-
-Een handige manier om online geld te verdienen **wanneer je net gestart bent met jouw freelance business** en nog geen grote vaste klantenstroom hebt.
-
-Zelf ken ik iemand die op deze manier in het werk als **virtual assistent** is gerold. Een eenvoudige manier om online te werken met een relatief laag instapniveau. De klusjes die je voor een ander doet zijn veelal eenvoudig en meer bedoelt om de werkdruk te verlichten.
-
-Denk aan het **beantwoorden van e-mails**, **inplannen van afspraken** en soms het **organiseren van activiteiten**.
-
-Het voordeel van dit soort freelance werk is dat het je ook in aanraking laat komen met [remote jobs](/blog/digitalenomaden/digital-nomad-banen/). Zo zijn er mensen die na een opdracht fulltime voor een bedrijf gaan werken, veelal blijft dit dan **werk dat je op afstand via het internet kan doen**.
-
-## 14. Verkoop stockfoto´s
-
-![Geld verdienen met fotografie](/images/migrated/online-geld-verdienen-met-fotografie.webp "online-geld-verdienen-met-fotografie")
-
-Eerlijk is eerlijk, om jouw eigen gemaakte **foto´s te verkopen** moet je best goed zijn in wat je doet. Voor veel hobbyfotografen is dit echter een uitkomst. Je maakt foto´s met je camera en plaatst ze op stockfoto websites.
-
-Houdt hierbij goed rekening met de kwalitatieve eisen vanuit de website.
-
-Vervolgens kunnen **webbouwers of bedrijven die stockfoto´s (of video’s) kopen** om ze te gebruiken. Daar kun jij geld mee verdienen.
-
-Het enige wat je hoeft te doen is je **aan te melden bij enkele stockfoto websites**. Oh, en, je moet natuurlijk goede foto’s maken die bruikbaar zijn. Denk hierbij ook zeker in thema waarvan je verwacht dat bedrijven ernaar zoeken. Landschapfoto’s zijn natuurlijk cool, maar worden niet zoveel verkocht als bijvoorbeeld een foto van een hovenier die zijn werk doet… Dit simpelweg omdat die laatste foto’s nodig zijn voor het opvullen van een (nieuwe) website.
-
-## 15. Online geld verdienen met video-editing
-
-![Geld verdienen met video editing](/images/migrated/geld-verdienen-met-video-editing.webp "geld-verdienen-met-video-editing")
-
-Content gaat steeds sneller, **zo ook videocontent**. Per seconde worden er honderden uren aan video geüpload en dat vraagt om video-editers die dat kunnen bewerken.
-
-Natuurlijk moet je je dan wel [verdiepen in Adobe Premiere](/go/adobe-premiere-pro-boek) (editing software), maar video editing is voor iedereen vanuit huis aan te leren. Daarbij betaald deze skill zichzelf dubbel en dwars uit.
-
-Leren video editen kun je doen met een hele dure cursus. Al moet ik stellen dat [dit e-book](/go/adobe-premiere-pro-boek) je ook goed op weg helpt. Vul dat aan met wat zoeken op Youtube en je kunt editen als een semi pro.
-
-Zelf heb ik deze skill geleerd door gewoon eigen video’s te gaan editen. Dat ik daarbij af en toe vragen kon stellen aan een expert was erg handig!
-
-## 16. Geld verdienen met Whitepress en advertorials
-
-![Whitepress advertorials](/images/migrated/advertorials-whitepress-geld-verdienen.webp "advertorials-whitepress-geld-verdienen")
-
-Wellicht heb je nog nooit van [Whitepress of advertorials](/blog/online-geld-verdienen/whitepress-geld-verdienen-advertorials/) gehoord, maar het principe is simpel. Wanneer je een eigen blog of website hebt met veel bezoekers, kun je ruimte aan adverteerders verkopen. Deze ruimte wordt vervolgens ingevuld door een advertorial. Dat is een advertentie in de vorm van een artikel.
-
-Wanneer je zelf [een blog hebt opgezet](/blog/ondernemen/blog-beginnen-starten-stappenplan/) kun je je aanmelden bij een programma als [Whitepress](/go/whitepress) en via daar kunnen bedrijven jou vinden en artikelen bestellen. Verdiensten zijn **tussen de 200,- en 5000,- euro per plaatsing**. Dat bedrag is afhankelijk van de kwaliteit en het aantal bezoekers van jouw website.
+Speel er even mee. Je ziet meteen waarom een blog met affiliate links jaren nodig heeft (duizenden bezoekers per maand) en waarom een workshop voor bedrijven of een uurtje bijles veel sneller geld oplevert, maar nooit passief wordt. De slimste route die ik ken: begin met uren verkopen om je eerste inkomen te hebben, en bouw ondertussen aan het publiek en de producten die later voor je werken.
 
 ## Hoe je succesvol werkt aan een online inkomen
 
-![Digital nomad mick van zadelhoff malta](/images/micky/digital-nomad-mick-van-zadelhoff-malta-1.webp "digital-nomad-mick-van-zadelhoff-malta (1)")
+![Digital nomad Mick van Zadelhoff op Malta](/images/micky/digital-nomad-mick-van-zadelhoff-malta-1.webp "Werken vanaf Malta, in de jaren van De Moderne Nomaden")
 
-Natuurlijk zou je direct **een manier kunnen kiezen** om online geld te verdienen en aan de slag te gaan. Maar vaak is het beter om eerst eens te kijken naar wat voor jou het beste zou werken. **Dit is namelijk voor iedereen verschillend**.
+Natuurlijk zou je direct **een manier kunnen kiezen** en aan de slag gaan. Maar vaak is het beter om eerst te kijken naar wat voor jou het beste werkt. **Dat is voor iedereen verschillend.** Online is wat dat betreft niet anders dan offline: je kijkt naar waar je al goed in bent en begint daar.
 
-Wat dat betreft is online ook niet eens zo anders als offline. Je gaat gewoon kijken naar waar je al goed in bent als je een business begint.
+In het beste geval zoek je je digitale **ikigai**: iets dat je leuk vindt, waar je goed in bent, wat waarde biedt aan anderen en wat geld oplevert. Bij mij was dat eerst schrijven en later lesgeven. Beide stonden niet op mijn lijstje toen ik begon.
 
-In het beste geval zoek je jouw digitale **Ikigai**. Dan hebben we het over **iets dat je leuk vind, waar je goed in bent, wat waarde biedt aan anderen (of de wereld) en wat geld oplevert**.
+![Een wegwijzer met veel pijlen op een heuvel](/images/spots/online-wegwijzer.webp "31 richtingen; de kunst is er één te kiezen en die vol te houden")
 
-Via de website waarop je nu zit verdien ik zo’n **€5000,- per maand via bloggen en affiliate marketing**. Daar kan ik prima van rondkomen terwijl ik de wereld over reis.
+### Jouw interesses bepalen de manier
 
-### Gratis trainingen over online geld verdienen
+Eerlijk is eerlijk: online geld verdienen vraagt soms een lange adem. Wil je vandaag al je eerste euro's binnenslepen, kies dan een manier uit de groep 'diensten op afstand'. Wil je over drie jaar niet meer omkijken naar je financiën, bouw dan aan bereik of aan producten. De duurzame manieren in dit artikel geven je **terugkerende inkomsten**; de snelle manieren geven je adem om daaraan te werken.
 
-Lijkt bloggen, affiliate marketing of een eigen website jou ook wat? Zorg dan dat je meedoet met de [GRATIS training over het opzetten van een professioneel blog’](/blog/ondernemen/blog-beginnen-starten-stappenplan/). Daar ga ik volledig de diepte in op dit verdienmodel ;). Of kijk of **een van de andere gratis trainingen** die voor jou interessant zijn.
+> Wil je écht verdienen met het internet, dan is het belangrijk om iets te doen wat je leuk vindt. Dan steek je er het liefst moeite in en kun je er ook echt iets van maken. En vergis je niet: ook online komt het op anderen over als je ergens enthousiast over bent. **Dat gaat je helpen.**
 
-> ### [**Jouw eigen professionele blog opzetten**](/blog/ondernemen/blog-beginnen-starten-stappenplan/)
-> 
-> Leer hoe je een blog opzet en daar geld mee verdient. Ga aan de slag richting passief inkomen. [› Ga naar training](/blog/ondernemen/blog-beginnen-starten-stappenplan/)
-
-> ### [**Handel in cryptomunten**](/go/crypto-training)
-> 
-> Leer hoe jij geld kan verdienen met het verhandelen van cryptomunten. [› Ga naar training](/go/crypto-training)
-
-> ### [**NFTs flippen voor winst**](/go/crypto-training)
-> 
-> Leer NFT projecten te vinden die in waarde gaan stijgen. Koop goedkoop in en maak winst met NFTs. [› Ga naar training](/go/nft-secrets)
-
-### Jouw interesses bepalen de manier om online geld te verdienen
-
-Eerlijk is eerlijk. Online geld verdienen vergt soms een lange adem. Het is daarom niet voor iedereen weggelegd. Wil je bijvoorbeeld vandaag al je eerste euro’s online binnenslepen, dan zit je hier verkeerd.
-
-Wanneer je snel geld wilt verdienen levert dit je nu misschien iets op, maar sta je morgen weer met lege handen. De duurzame manieren in dit artikel geven je **terugkerende inkomsten** en zorgen ervoor dat je online inkomen maandelijks stijgt.
-
-> Wil je écht verdienen met het internet dan is het belangrijk om iets te doen wat je leuk vind. Dan steek je er het liefste moeite in en kun je er ook echt iets van maken. En vergis je niet, ook online komt het op anderen over als je ergens enthousiast over bent. **Dat gaat je helpen**.
-
-Uit ervaring spreek ik als ik zeg dat daar **het meeste geld in te verdienen** valt. Puur en alleen om de reden dat je dan niet al na drie dagen afhaakt. Jouw online verdienmodel moet jou energie geven en niet energie kosten. :)
+Uit ervaring spreek ik als ik zeg dat daar **het meeste geld in te verdienen** valt. Puur omdat je dan niet na drie dagen afhaakt. Je verdienmodel moet je energie geven, niet kosten.
 
 ### Online geld verdienen zonder investering
 
-Voor iedere manier om online geld te verdienen verschilt het of er een investering aan vast hangt. Maar één ding is zeker. Online is de investering altijd vele malen lager dan offline in dezelfde branche. Je hoeft tenslotte geen pand te huren of inventaris te kopen. **Meestal is online de investering met name tijd**.
+Voor iedere manier verschilt het of er een investering aan vasthangt. Maar één ding is zeker: online is de investering altijd vele malen lager dan offline in dezelfde branche. Je hoeft geen pand te huren of inventaris te kopen. **Meestal is de investering vooral tijd.**
 
-> In plaats van duizenden euro’s in te moeten leggen, investeer je online vaak vooral je kostbare tijd.
+Ik heb zelf ook maar minimaal geld geïnvesteerd toen ik begon. De enige echte kosten waren de [hosting van mijn website bij Cloud86](/go/cloud86), zo'n €135 per jaar inclusief domeinnaam. Bij affiliate marketing en verkopen via bol heb je bovendien pas kosten als je iets verkoopt. En mocht je denken geld kwijt te zijn: kijk eerst in je netwerk. Er is altijd wel iemand die een website kan bouwen, een training kan filmen of je e-book kan ontwerpen.
 
-Verder ligt het volledig aan de manier die je kiest, maar zonder geld kom je heel ver. Ik heb zelf ook maar **minimaal geld geïnvesteerd** toen ik begon met mijn eigen blog. De enige echte kosten waren de [hosting van mijn website bij Cloud86](/go/cloud86).
+### Belasting en KVK: het saaie stukje
 
-Mocht je denken geld kwijt te gaan zijn, kijk dan altijd eerst in je netwerk, er is altijd wel iemand die een website kan bouwen, een training kan filmen, je e-book kan designen etc.
+Eén ding dat in 2018 nog niet in dit artikel stond en er wel in hoort: de Belastingdienst wil je online inkomsten zien. Een incidentele bijverdienste geef je op als 'inkomsten uit overig werk' in je aangifte; er bestaat geen belastingvrije grens van een paar honderd euro. Verdien je structureel geld voor klanten buiten je vrienden- en familiekring, dan schrijf je je in bij KVK en word je ondernemer. Dat klinkt groot, maar een eenmanszaak regel je in een uur en het is meteen de voorwaarde voor verkopen via bol, veel affiliate netwerken en zakelijke klanten.
 
-Verder is het online ook vaak zo dat je pas geld uitgeeft als je geld verdient. Stel bijvoorbeeld dat je doet aan [affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) (_samengevat is dat het op basis van commissie producten verkopen_), dan heb je pas kosten (en opbrengsten) als je een product voor de affiliate hebt verkocht.
+## Vier tips van iemand die het vaak fout zag gaan
 
-## Online geld verdienen expert tips
+Om me heen zie ik het net zo vaak fout als goed gaan, en dat is jammer. Online zijn er zoveel kansen, maar je moet wel weten hoe je ze pakt en vooral eerlijk zijn over hoe groot ze zijn.
 
-Dan nog wat tips die ik je mee zou willen geven. Om me heen zie ik het namelijk net zo vaak fout als goed gaan en dat is jammer. **Online zijn er namelijk zoveel kansen**, maar je moet wel weten hoe je ze kan pakken en je moet vooral eerlijk kunnen zijn over hoe groot die kansen zijn. Daarom wat tips.
+### 1. Denk niet dat je online binnen no-time miljonair bent
 
-### 1. Denk niet dat je online binnen no time miljonair bent
-
-Natuurlijk heb ik dit een beetje overdreven geformuleerd, maar online geld verdienen is vaak **het pad van de lange adem**. Het is echt niet zo dat je vandaag een cursus maakt en deze morgen 100x verkoopt. Daar gaat moeite in zitten en al doende leert men. Helaas wordt er online wel vaak gedaan alsof het allemaal simpel is, maar vergis je daar zeker niet in.
-
-> Neem jezelf en je plannen serieus en kies voor een strategie op de lange termijn. Zeker [wanneer je wilt werken aan een passief online inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/) is een lange termijn plan datgene dat ervoor zorgt dat je over één jaar nooit meer hoeft om te kijken naar je financiën.
+Online geld verdienen is **het pad van de lange adem**. Het is echt niet zo dat je vandaag een cursus maakt en die morgen honderd keer verkoopt. Neem jezelf en je plannen serieus en kies een strategie voor de lange termijn, zeker [als je werkt aan een passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/).
 
 ### 2. Werk toe naar een passief online inkomen
 
-Dit is het grootste voordeel van online je geld verdienen. Het feit dat je kunt werken richting een passief inkomen. Wat wil zeggen dat je geld verdient waar je op dat moment niets voor hoeft te doen. Het komt dus passief binnen op je bankrekening. **Online is dit mogelijk**, en dat is heel vet. Maar vergis je niet. Passief betekent niet dat je er nooit iets voor hebt hoeven doen, uiteraard heb je er wel eerst moeite in gestopt om er een succes van te maken.
+Dit is het grootste voordeel van online werken: je kunt toewerken naar geld dat binnenkomt zonder dat je er op dat moment iets voor doet. Maar passief betekent niet dat je er nooit iets voor hebt gedaan. Je hebt er eerst maanden of jaren moeite in gestopt.
 
-### 3. Ken de basis van online marketing
+### 3. Gebruik AI als gereedschap, niet als excuus
 
-Veelal komt online marketing om de hoek kijken. Je moet namelijk weten hoe je iets kunt verkopen via het internet. Hoe kom je bijvoorbeeld het beste over en hoe kun je anderen overtuigen? Zorg dat je de basis kent van [online marketing](/blog/online-geld-verdienen/online-marketing/) om van jouw manier om online geld te verdienen een succes te maken. Veel mensen die ik zelf ontmoet op reis hebben ook een training of opleiding gevolgd voordat ze online succesvol werden.
+De helft van de manieren in dit artikel is door AI moeilijker geworden, de andere helft makkelijker. Het verschil zit in hoe je het gebruikt. Wie AI laat schrijven wat iedereen laat schrijven, verdwijnt in de massa. Wie AI gebruikt om sneller te bouwen, te monteren, te analyseren en te automatiseren, doet in zijn eentje wat vroeger een team was. Mijn [lijst met AI-tools](/blog/ondernemen/ai-tools-lijst/) en [ChatGPT voor ondernemers](/blog/ondernemen/chat-gpt-ai-voor-ondernemers/) helpen je op weg.
 
 ### 4. Vraag anderen je te helpen
 
-Vergeet nooit wat anderen voor je kunnen doen. Vrienden zijn er altijd voor je geweest dus wellicht nu ook. Misschien kun je wel iets samen opzetten of je kunt kijken hoe de vaardigheden van een ander aansluiten bij hetgeen jij wilt doen. Ook kun je wanneer je ervoor kiest om een online product op de markt te zetten, vragen aan je kennissenkring of ze je willen helpen met het promoten daarvan. Zo kwam ik zelf ook aan mijn eerste online klanten.
+Vergeet nooit wat anderen voor je kunnen doen. Misschien kun je iets samen opzetten, of vullen jullie vaardigheden elkaar aan. En als je een product lanceert: vraag je kennissen om het te delen. Zo kwam ik zelf aan mijn eerste online klanten, en zo kwam ik jaren later aan mijn eerste workshop.
 
 ## Nu starten met online geld verdienen
 
-Ga online geld verdienen aan de hand van een van de bovenstaande manieren. Ik heb er alle vertrouwen in!
+Kies één manier uit dit artikel en begin. Niet drie, niet vijf: één. Als ik kan, dan kun jij het zeker. **Online succes** is vooral doorzettingsvermogen. Als ik terugkijk op wat het me heeft gebracht, van de jaren onderweg tot de workshops die ik nu geef, dan heb ik **geen moment spijt van de inzet**. Succes!
 
-Een beetje onder het mom, als ik het kan, dan kan jij het zeker! **Online succes behalen** is vooral mindset. Het gaat om doorzettingsvermogen en wilskracht.
-
-Als ik terug kijk en ik zie wat ik er allemaal voor heb teruggekregen dan heb ik **geen moment spijt van de inzet die ik heb getoond**. Succes!
-
-[**Wil je net als ik geld verdienen met bloggen en affiliate marketing? Volg dan mijn gratis online training over de ‘De 5 Simpele Stappen Naar Jouw Eigen Professionele Blog’.**](/blog/ondernemen/blog-beginnen-starten-stappenplan/)
-
+[**Wil je net als ik beginnen met een blog? Volg dan mijn stappenplan voor een professioneel blog.**](/blog/ondernemen/blog-beginnen-starten-stappenplan/)

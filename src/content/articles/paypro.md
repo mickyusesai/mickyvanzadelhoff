@@ -1,8 +1,8 @@
 ---
-title: "PayPro – Wat het is en wat kun je ermee? + Ervaringen"
-description: "PayPro is mijn vaste partner in meerdere zaken. Veelal komen mensen bij PayPro terecht omdat ze horen dat daar goede affiliate producten te vinden zijn…"
+title: "PayPro in 2026 – Wat het is, wat het kost en mijn ervaringen"
+description: "PayPro in 2026: betaaldienst én affiliate netwerk. Tarieven per pakket en betaalmethode, wat je als verkoper overhoudt (rekentool), en mijn ervaringen."
 date: 2019-09-30
-updated: 2023-01-02
+updated: 2026-09-19
 category: "online-geld-verdienen"
 slug: "paypro"
 lang: "nl"
@@ -12,125 +12,187 @@ featuredImage: "/images/headers/paypro.webp"
 
 **PayPro**, wat is het en wat kun je ermee?
 
-PayPro is mijn vaste partner in meerdere zaken. Veelal komen mensen bij PayPro terecht omdat ze horen dat daar **goede affiliate producten** te vinden zijn die hoge commissies geven. Dat klopt, maar PayPro is veel meer dan dat.
+PayPro was jarenlang mijn vaste partner voor meerdere zaken. Veel mensen komen bij PayPro terecht omdat ze horen dat er **goede affiliate producten** te vinden zijn die hoge commissies geven. Dat klopt, maar PayPro is meer dan dat: het is een Nederlandse betaaldienst met een affiliate netwerk eraan vast.
 
-In dit artikel ga ik in op wat PayPro is, hoe ik zelf **succesvol geld verdien met hun diensten** en hoe jij hier ook mee kunt beginnen. Ook belicht ik PayPro nog met een kritische blik. Ik ben immers niet over alles tevreden…
+In dit artikel lees je wat PayPro is, hoe ik er zelf **aan drie kanten geld mee verdiende** (als verkoper, als aanbieder van een affiliate programma en als publisher), wat het in 2026 kost en hoe jij ermee kunt beginnen. Ik belicht PayPro ook met een kritische blik, want ik ben niet over alles tevreden. Sinds mijn eerste versie van dit artikel in 2019 is er het nodige veranderd: de pakketten zijn anders ingedeeld, de vergoeding voor het affiliate netwerk staat nu gewoon op de website, aanmelden als affiliate kost weer een klein bedrag, en er zijn serieuze Nederlandse alternatieven bijgekomen. Alle tarieven hieronder heb ik gecontroleerd op 19 september 2026, en met de rekentool zie je precies wat je per verkoop overhoudt.
 
-**[Maak gratis een account aan op PayPro >>](/go/paypro)**
+**[Maak een account aan op PayPro >>](/go/paypro)**
 
 ## Wat is PayPro?
 
-![PayPro betalingsdienstverlener](/images/migrated/paypro-betalingsdienstverlener.webp "paypro-betalingsdienstverlener")
+![Een kleine betaalterminal op een toonbank waar een munt in een gleuf valt, met een limoengroen vinkje](/images/spots/paypro-kassa.webp "PayPro: in de basis een kassa voor online verkoop")
 
-In de basis is PayPro een **betalingsdienstverlener**. Dat wil zeggen dat ze niets anders doen dan wat veel andere partijen doen; ze regelen de betalingen voor online verkoop.
+In de basis is PayPro een **betaaldienstverlener** (payment service provider). Ze doen wat veel andere partijen ook doen: de betalingen regelen voor online verkoop. PayPro bestaat sinds 2006, verwerkt betalingen voor meer dan 10.000 bedrijven en zorgt dat **jouw klanten kunnen betalen** met iDEAL, Wero, Bancontact, creditcard, PayPal, SEPA-incasso, overboeking en achteraf betalen via Riverty.
 
-Ze zijn daarin slechts bemiddelend en zorgen dat **jouw klanten kunnen betale**n met Ideal, creditcard, Paypal en nog 9 andere betalingsopties. Handig…
+Wat PayPro uniek maakt, is dat ze behalve betalingen ook een handje helpen **bij de promotie en verkoop**. Binnen PayPro activeer je [affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) als module. Dan gaan partners aan de andere kant van PayPro (publishers, bij PayPro 'affiliates' genoemd) aan de slag met het promoten van jouw product tegen **een commissie per verkoop**.
 
-Wat het uniek maakt is dat ze behalve betalingen, ook een handje kunnen helpen **bij de promotie en verkoop**. Binnen PayPro kun je namelijk [affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) als module activeren. Dat wil zeggen dat partners aan de andere kant (publishers) van PayPro aan de slag gaan met het promoten van jouw product tegen **een commissie per verkoop**.
+Dat werkt uiteraard ook andersom. PayPro telt naar eigen zeggen zo'n 5.000 actieve affiliates die producten van aangesloten verkopers promoten in ruil voor commissie, en daar valt voor veel mensen (ook voor mij) geld te verdienen.
 
-Dat laatste werkt uiteraard ook andersom. Al zo’n **25.000 publishers** hebben zich aangemeld om producten van mensen die zijn aangesloten bij PayPro, te promoten. Zij promoten de producten in ruil voor een commissie en daar valt voor veel mensen (ook voor mij) geld te verdienen.
+Zelf zat ik aan alle drie de kanten van het verhaal. Ik **verkocht mijn eigen e-book** via hun betaalmodule, **liet dat e-book verkopen via hun affiliates** en **promootte producten van andere aanbieders** in ruil voor commissie. Hieronder ga ik op alle drie de onderdelen in.
 
-Zelf zit ik aan alle drie de kanten van het verhaal bij PayPro. Enerzijds **verkoop ik zelf mijn eigen producten** via hun betalingsmodule. Anderzijds **verkoop ik mijn producten via hun affiliates** en **promoot ik producten van andere aanbieders in ruil voor commissie**. In de rest van dit artikel ga ik op alle drie de onderdelen van PayPro in.
+## PayPro gebruiken als betaaldienstverlener
 
-> PayPro bestaat sinds 2006 en is actief in meer dan 82 landen.
+Al sinds ik begon met het verkopen van producten gebruikte ik PayPro als betaaldienstverlener. Daarin doen ze eigenlijk niet zoveel bijzonders, behalve dat ik ze niet duur vind en makkelijk in gebruik. Je maakt via de **betaalknoppen** eenvoudig een product aan en kiest een template voor een **betaalpagina**. Vanuit je verkooppagina link je naar die betaalpagina, de klant betaalt en hoppa, het geld staat op je PayPro-saldo, inclusief de factuur naar de klant en de btw-administratie.
 
-## Paypro gebruiken als betalingsdienstverlener
+Dit kost het in 2026:
 
-Al sinds ik ben begonnen met het verkopen van producten gebruik ik PayPro als betalingsdienstverlener. Daarin doen ze eigenlijk niet zoveel bijzonders, behalve dan dat ik ze niet zo duur vindt en makkelijk om te gebruiken. Je maakt via de ‘**betaalknoppen**’ gemakkelijk een product aan en kunt vervolgens kiezen tussen meerdere templates voor een **betaalpagina**.
+| Pakket | Per maand | Jaarlijks betaald | Wat je krijgt |
+|---|---|---|---|
+| Start-up | €9 | €6 per maand | Tot 20 transacties per maand, betaalpagina, facturatie, btw-administratie, affiliate marketing |
+| Advanced | €35 | €29 per maand | Onbeperkt eenmalige betalingen, kortingscodes, 1-click-upsell, orderbump, eigen domein |
+| Professional | €59 | €49 per maand | Alles van Advanced plus abonnementen, gespreid betalen, debiteurenbeheer, SEPA-batches |
 
-![Instellen betaalpagina paypro](/images/migrated/instellen-betaalpagina-paypro-1.webp "Instellen betaalpagina paypro")
+Daarbovenop betaal je per transactie, afhankelijk van de betaalmethode: iDEAL en Wero €0,29, SEPA-incasso €0,25, overboeking €0,25, Bancontact €0,17 plus 1,75%, Visa en Mastercard €0,25 plus 2,5%, Riverty €1,75 plus 5%. PayPal gaat op aanvraag. Voor een Nederlandse verkoper met vooral iDEAL-klanten kom je dus uit op een paar dubbeltjes per verkoop, en dat is prima.
 
-Vanuit je verkooppagina link je naar de betaalpagina. De klant betaald en hoppa, het geld is bijgeschreven aan je PayPro saldo. En dat voor **slechts een paar cent per transactie**. Best een prima dienst vind ik dat. Maandelijks betaal je daarvoor zo’n vijftien euro. Daarmee was het voor mij als beginnende verkoper **een prima optie om de betalingen** af te handelen.
+Ook fijn is dat ze **niet alleen iDEAL accepteren**. Dat is de meest gebruikte betaaloptie, maar ik merkte al snel dat Belgische klanten om Bancontact vroegen. **Gelukkig was ook dat geen probleem.** Was betalen alleen mogelijk via creditcard of PayPal, dan had ik klanten moeten inleveren; niet iedereen heeft die. PayPro is ook te koppelen aan je [webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/).
 
-Ook makkelijk is dat ze **niet alleen Ideal accepteren**. Natuurlijk is dat de meest voorkomende betaaloptie, maar ik merkte al snel dat Belgische klanten vroegen om een betaling via Bancontact. **Gelukkig was ook dat geen probleem**.
+<div class="tool not-prose" id="paypro-pakket">
+<p class="tool__title">Wat kost PayPro jou per maand?</p>
+<p class="tool__intro">Vul in hoeveel verkopen je per maand verwacht; de tool kiest het goedkoopste pakket (jaarlijks betaald) en telt de iDEAL-kosten erbij op.</p>
+<div class="tool__grid">
+<label class="tool__field">Verkopen per maand<input class="tool__input" id="paypro-verkopen" type="number" min="0" step="1" value="15"></label>
+<label class="tool__field">Gemiddelde verkoopprijs (€)<input class="tool__input" id="paypro-prijs" type="number" min="0" step="1" value="47"></label>
+</div>
+<div class="tool__results">
+<div class="tool__result"><p class="tool__label">Kosten per maand</p><p class="tool__value" id="paypro-kosten">€ 10,35</p><p class="tool__sub" id="paypro-pakketnaam">pakket Start-up plus iDEAL-kosten</p></div>
+<div class="tool__result"><p class="tool__label">Van je omzet</p><p class="tool__value" id="paypro-procent">1,5%</p><p class="tool__sub" id="paypro-omzet">bij € 705 omzet per maand</p></div>
+</div>
+<p class="tool__note">Rekenvoorbeeld zonder affiliates, met iDEAL (€ 0,29 per betaling) en de jaartarieven van september 2026. Abonnementen en gespreid betalen vragen het pakket Professional.</p>
+</div>
 
-**Verschillende betaalmogelijkheden bij Paypro:**
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var nl = function (n, d) { return '€ ' + new Intl.NumberFormat('nl-NL', { maximumFractionDigits: d || 0 }).format(n); };
+  function calc() {
+    var n = +$('paypro-verkopen').value || 0, p = +$('paypro-prijs').value || 0;
+    var abo = n <= 20 ? 6 : 29, naam = n <= 20 ? 'Start-up' : 'Advanced';
+    var kosten = abo + n * 0.29, omzet = n * p;
+    $('paypro-kosten').textContent = nl(kosten, 2);
+    $('paypro-pakketnaam').textContent = 'pakket ' + naam + ' plus iDEAL-kosten';
+    $('paypro-procent').textContent = omzet > 0 ? new Intl.NumberFormat('nl-NL', { maximumFractionDigits: 1 }).format(kosten / omzet * 100) + '%' : '–';
+    $('paypro-omzet').textContent = 'bij ' + nl(omzet) + ' omzet per maand';
+  }
+  ['paypro-verkopen', 'paypro-prijs'].forEach(function (id) { $(id).addEventListener('input', calc); });
+  calc();
+})();
+</script>
 
-*   Ideal
-*   Paypal
-*   Bancontact
-*   Visa
-*   Mastercard
-*   Klarna
-*   Sepa
+Nieuwere mogelijkheden zijn de **1-click-upsell** en de **orderbump** op je betaalpagina (het digitale equivalent van een kassakoopje) en klanten laten **betalen in termijnen** of met een abonnement.
 
-Dat zijn best belangrijke dingen, want ik weet zeker dat als betalingen alleen mogelijk waren via creditcard of Paypal, ik op klanten zou moeten inleveren. **Niet iedereen beschikt hier namelijk over**. Paypro is tevens ook te koppelen met jouw [webshop](/blog/online-geld-verdienen/eigen-webshop-beginnen/).
+## Affiliate marketing in het kort
 
-Nieuwere mogelijkheden die PayPro heeft is om klanten te laten **betalen in termijnen** en om een **1-click-upsell** toe te voegen aan je betaalpagina. Die laatste is het digitale equivalent voor een kassakoopje.
+Voordat ik naar de twee andere manieren ga waarop ik PayPro gebruikte, eerst nog even **een introductie in affiliate marketing**.
 
-## Affiliate marketing
+[Affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) is een vorm van marketing waarbij publishers tegen een commissie per verkoop producten promoten van aanbieders. Publishers hebben bijvoorbeeld een goed gelezen blog ([jouw blog beginnen? Lees eerst dit!](/blog/ondernemen/blog-beginnen-starten-stappenplan/)), een veel bekeken YouTube-kanaal, een nieuwsbrief of een Instagram-account met veel volgers.
 
-Voordat ik naar de volgende twee opties ga waar ik PayPro voor gebruik, eerst nog even **een introductie in de affiliate marketing**.
+![Drie bureaus in een driehoek, verbonden door stippellijnen waar een munt overheen rolt](/images/spots/paypro-driehoek.webp "Affiliate marketing: verkoper, publisher en het netwerk dat de commissie bijhoudt")
 
-[Affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) is een vorm van marketing waarbij publishers tegen een commissie (per verkoop) producten promoten van affiliates. Publishers hebben dan bijvoorbeeld een goed gelezen blog ([Jouw blog beginnen? Lees eerst dit!](/blog/ondernemen/blog-beginnen-starten-stappenplan/)), veel bekeken Youtube kanaal of een Instagram pagina met veel volgers.
+Via die kanalen delen zij links (met trackingcode) naar affiliate producten. Klikt een volger of bezoeker daarop en koopt hij het product binnen een afgesproken termijn, dan ontvangt de publisher **een commissie** en handelt de aanbieder de verkoop af.
 
-Via deze kanalen delen zij links (met tracking code) van affiliate producten. Wanneer een volger of bezoeker daarop klikt en het product binnen een afgesproken termijn afneemt, ontvangt de publisher **een commissie** en handelt de affiliate de verkoop af.
+Wat belangrijk is bij affiliate marketing, is dat iedereen elkaar kan vertrouwen. Een publisher gaat geen product promoten als hij niet zeker weet dat hij zijn commissie krijgt. Daarvoor is **een derde partij** zo belangrijk: in dit geval PayPro. PayPro dient als [affiliate netwerk](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) en houdt met cookies bij wie wat **promoot en verkoopt**. Daarmee is het waterdicht voor alle partijen.
 
-Snap je hem nog? Hier een plaatje dat affiliate marketing beter beschrijft. Of lees [dit artikel over geld verdienen met affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/).
+Tot zover de intro. Laten we kijken hoe je beide kanten gebruikt om geld te verdienen.
 
-![Affiliate marketing infographic](/images/migrated/affiliate-marketing-infographic.webp "affiliate-marketing-infographic")
+## Publisher (affiliate) op PayPro
 
-Wat belangrijk is bij affiliate marketing is dat iedereen elkaar kan vertrouwen. Een publisher gaat immers geen product promoten als die daar **niets mee kan verdienen**. Om dat vertrouwen op te bouwen is **een derde partij** zo belangrijk. In dit geval PayPro.
+Jaren terug had ik een **goedlopend blog**: De Moderne Nomaden, met tal van artikelen over digital nomads en online ondernemen (die artikelen staan inmiddels hier op mijn eigen site). In 2019 kwamen daar zo'n 50.000 bezoekers per maand op af, en ik vond het zonde dat daar niets mee gebeurde. De website was een soort **uit de hand gelopen hobby**.
 
-PayPro dient hier als [affiliate netwerk](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) en houdt met cookies bij wie wat **promoot en verkoopt**. Daarmee is het waterdicht voor alle partijen.
+Toen kwam ik PayPro tegen. Ik had er via een bekende van gehoord en besloot het uit te proberen **als publisher**. Ik [meldde me aan](/go/paypro-affiliate) en kon direct aan de slag met promoten.
 
-Tot zover de intro voor affiliate marketing. Laten we kijken naar hoe je beide kanten gebruikt om geld te verdienen of te ondernemen.
+![Een etalage vol kleine doosjes met elk een prijskaartje, met een vergrootglas ervoor](/images/spots/paypro-campagnes.webp "De campagnecatalogus: zo'n 300 producten, waarvan een handvol écht goed verkoopt")
 
-## Publisher op PayPro
+Handig was dat veel producten in het netwerk van PayPro digitale producten zijn. **Dat is als publisher top**, omdat er zulke hoge marges op zitten. Een e-book of online training heeft geen inkoopprijs, waar een tafel, magnetron of voetbal dat wel heeft. Ik vond bij PayPro dus producten die ik **tegen 50% commissie** kon promoten, waar je bij bol.com in 2026 op 2,5% tot 7% zit.
 
-Al jaren terug had ik een **goed lopend blog**; [De Moderne Nomaden](/). Op deze website staan tal van artikelen over digital nomads en online ondernemen. Al die informatie staat daar echter niet voor niets. Zo’n 50.000 bezoekers per maand komen naar mijn website en ik vond het destijds zonde dat daar niets mee gebeurde. De website was een soort **uit de hand gelopen hobby**.
+PayPro heeft in 2026 zo'n 300 affiliate campagnes in de catalogus. Daarbij moet gezegd worden dat maar een handvol producten écht goed te verkopen is. Producten die ik zelf vanuit PayPro heb gepromoot:
 
-Het was toen dat ik PayPro tegenkwam. Ik had er ooit eens van gehoord via een bekende en besloot het uit te proberen **als publisher in de affiliate marketing**. Ik [meldde mij aan bij PayPro](/go/paypro) en kon direct aan de slag met promoten.
+*   [Affiliate Marketing Revolutie](/go/affiliate-marketing-revolutie), de videotraining van Jacko Meijaard (in september 2026 €47), waarover ik [een aparte review](/blog/review/affiliate-marketing-revolutie-jacko-meijaard/) schreef
+*   [Crypto Masterclass](/go/crypto-training) van AllesOverCrypto (dit zijn vrienden van me ;)); de link brengt je naar hun gratis Bitcoin-training, waar de masterclass vanuit wordt aangeboden
 
-![PayPro affiliate campagnes](/images/migrated/paypro-affiliate-campagnes.webp "paypro-affiliate-campagnes")
+Verder zitten er veel producten in de gezondheidshoek, over afvallen, over ondernemen en over beleggen. Overeenkomstig is dat het bijna altijd om een digitaal product gaat en de commissies hoger zijn dan bij welk ander Nederlands affiliate netwerk dan ook.
 
-Handig was dat veel producten van affiliates in het netwerk van PayPro, digitale producten zijn. **Dat is als publisher top** omdat er zulke hoge marges op zitten. Een e-book of online training heeft immers géén inkoopprijs, waar een tafel, magnetron of voetbal dat wel heeft. Ik kon bij PayPro dus enkele producten vinden welke ik **tegen 50% commissie** kon promoten.
+> "In 2019 verdiende ik zo'n **€3.000 per maand aan affiliate commissies**. Een aantal van die programma's liep via PayPro, en zo kreeg ik regelmatig een commissiemailtje met de boodschap dat er iets via mijn links was gekocht."
 
-PayPro heeft enkele honderden affiliate producten in de catalogus. Daarbij moet wel gezegd worden, dat slechts zo’n twintig producten écht goed te verkopen zijn. Enkele producten die ik zelf vanuit PayPro heb gepromoot zijn:
+![Affiliate commissies mail PayPro](/images/migrated/affiliate-commissie-mail-paypro.webp "Zo'n mailtje uit 2019: er is iets via mijn affiliate link gekocht")
 
-*   [Affiliate Marketing Revolutie](/go/affiliate-marketing-revolutie)
-*   [Crypto Masterclass](/go/crypto-training) (dit zijn vrienden van me ;))
+Wat je als affiliate moet weten in 2026: aanmelden kost een eenmalige administratievergoeding van €7,50 (PayPro zegt dat ze dit vragen omdat er dagen waren met meer dan 5.000 nieuwe accounts). Daarna zijn er geen kosten. Je spaart commissies op je account en betaalt uit wanneer je wilt; boven de €100 is uitbetalen gratis, daaronder betaal je een paar euro kosten. De meeste commissies staan de volgende werkdag op je rekening.
 
-Ze hebben ook veel producten in de gezondheidshoek, over afvallen en online gitaarlessen. Overeenkomstig is dat het in bijna alle gevallen om een online product gaat en de commissies hoger zijn dan bij welk ander affiliate netwerk dan ook.
+[**Meld je zelf aan als affiliate op PayPro en vind producten om te promoten in ruil voor commissie.**](/go/paypro-affiliate)
 
-Tegenwoordig verdien ik zo’n **€3000,- per maand aan affiliate commissies**. Een aantal van die affiliate programma’s lopen via PayPro en zo krijg ik dan commissiemailtjes met daarin de boodschap dat er iets via mijn affiliate links is gekocht!
+## PayPro gebruiken om je eigen product via affiliates te verkopen
 
-![Affiliate commissies mail PayPro](/images/migrated/affiliate-commissie-mail-paypro.webp "affiliate-commissie-mail-paypro")
+Dan de derde manier waarop ik PayPro gebruikte: mijn eigen e-book laten verkopen door anderen. Ik verkocht het zelf via mijn website met hun betaalpagina, en tegelijk vroeg ik via PayPro andere publishers om mijn [e-book](/blog/online-geld-verdienen/e-book/) te promoten. **Zij kregen daar een commissie voor.**
 
-[**Meld je zelf gratis aan op PayPro via deze link en vind ook producten om te promoten in ruil voor commissie.**](/go/paypro)
+PayPro hielp me zo mijn verkoopnetwerk uit te breiden, maar ik moet er een kanttekening bij maken. Het netwerk gebruiken voor de verkoop is een goede versterker van je promotiekanalen, maar geen vervanger.
 
-## PayPro gebruiken als affiliate
-
-Dan nu de laatste optie waar ik PayPro voor gebruik. Dat is om mijn eigen e-book te verkopen. Ik verkoop die zelf via mijn eigen website en gebruik daarvoor hun betalingsdienstverlener. Maar tegelijk vraag ik via PayPro ook andere publishers om mijn e-book te promoten. **Zij krijgen daar een commissie voor**.
-
-PayPro helpt mij op die manier om mijn verkoopnetwerk uit te breiden, maar ik moet hier wel een kanttekening bij maken. Het netwerk van PayPro gebruiken voor de verkoop is een goede versterker van je promotiekanalen, maar niet een vervanger.
-
-Publishers zullen namelijk vaak **reviews schrijven over een affiliate product**. Maar die review genereert alleen maar website bezoekers wanneer mensen daarop zoeken. En daar ligt **de key**.
-
-Mensen zoeken alleen naar een product als zij hier al eerder over gehoord hebben via bijvoorbeeld advertenties of mond tot mond. Voor mij bleken die publishers niet zo zinvol. Maar er zijn genoeg verhalen waarbij het erg versterkend werkte op een social media campagne.
+Publishers schrijven vaak **reviews over een affiliate product**. Maar zo'n review levert alleen bezoekers op als mensen op dat product zoeken. En daar ligt **de crux**: mensen zoeken alleen naar een product als ze er al over gehoord hebben, via advertenties, social media of mond-tot-mond. Voor mijn e-book bleken de publishers daardoor minder zinvol dan gehoopt. Maar er zijn genoeg verhalen waarbij het een social-mediacampagne enorm versterkte.
 
 ## Kosten van PayPro
 
-[Aansluiten bij PayPro is **gratis**](/go/paypro). Ooit betaalde je hier als publisher zo’n €50,- voor, **maar dat is inmiddels teruggedraaid**.
+Aansluiten als affiliate kost dus eenmalig €7,50. Als verkoper is het een ander verhaal: je betaalt het maandelijkse pakket (vanaf €9, of €6 bij jaarlijkse betaling) en de transactiekosten per betaling. Wil je dat affiliates je product promoten, dan rekent PayPro daarbovenop een vergoeding voor het netwerk, en die staat in 2026 gewoon op hun tarievenpagina: **8,5% van het verkoopbedrag** of **25% van de commissie** die je aan de affiliate betaalt, afhankelijk van hoe je je campagne instelt. En dat laatste is precies waarover ik minder tevreden ben.
 
-Je kunt gewoon de **commissies verdienen en sparen op je account** en vervolgens uitbetalen wanneer je wilt (boven de honderd euro).
+![Een taart van munten waar één punt met een vork uit wordt getild](/images/spots/paypro-kosten.webp "Van elke verkoop via een affiliate gaat een punt naar de affiliate en een punt naar PayPro")
 
-Als affiliate is dit een heel ander verhaal. Je betaalt allereerst natuurlijk de transactiekosten. **Dat gaat om een paar cent per transactie**.
+> Stel dat ik een product van €47 verkoop via een affiliate en de commissie voor die affiliate heb ingesteld op €25. Dan zou ik €22 overhouden. Maar zo werkt het niet: met de vergoeding van 25% van de commissie (€6,25) en €0,29 aan iDEAL-kosten houd ik €15,46 over. Nu lijkt zes euro niet zoveel, maar procentueel gaat er dus bijna 30% van de €22 die na de commissie overblijft naar PayPro. Dat is best wel wat ;).
 
-Vervolgens betaal je **vijftien euro per maand om producten te mogen verkopen**. Als je wilt dat affiliates dit ook kunnen promoten betaal je nog eens vijftien euro per maand. Vervolgens betaal je per transactie ook een vrij hoog percentage. En dat laatste is dan ook precies datgene waarover ik minder tevreden ben.
+<div class="tool not-prose" id="paypro-calc">
+<p class="tool__title">Reken uit wat je overhoudt aan een verkoop via een affiliate</p>
+<p class="tool__intro">Vul je verkoopprijs en de commissie voor de affiliate in en kies welke vergoeding PayPro rekent.</p>
+<div class="tool__grid">
+<label class="tool__field">Verkoopprijs (€)<input class="tool__input" id="paypro-vp" type="number" min="0" step="1" value="47"></label>
+<label class="tool__field">Commissie voor de affiliate (€)<input class="tool__input" id="paypro-com" type="number" min="0" step="1" value="25"></label>
+<label class="tool__field">Vergoeding PayPro<select class="tool__input" id="paypro-model"><option value="com">25% van de commissie</option><option value="sale">8,5% van de verkoopprijs</option></select></label>
+<label class="tool__field">Betaalkosten per transactie (€)<input class="tool__input" id="paypro-tx" type="number" min="0" step="0.01" value="0.29"></label>
+</div>
+<div class="tool__results">
+<div class="tool__result"><p class="tool__label">Jij houdt over</p><p class="tool__value" id="paypro-netto">€ 15,46</p><p class="tool__sub" id="paypro-netto-sub">32,9% van de verkoopprijs</p></div>
+<div class="tool__result"><p class="tool__label">Naar PayPro</p><p class="tool__value" id="paypro-fee">€ 6,54</p><p class="tool__sub" id="paypro-fee-sub">29,7% van de € 22,00 die na de commissie overblijft</p></div>
+</div>
+<p class="tool__note">Rekenvoorbeeld met de tarieven van september 2026, exclusief je maandelijkse pakket en btw. Bij een verkoop zonder affiliate betaal je alleen de betaalkosten.</p>
+</div>
 
-> _Stel dat ik een product van voor 47,- euro verkoop via een affiliate. De commissie voor die affiliate heb ik ingesteld op 25,- euro. Dan zou ik dus 22,- euro over houden. Echter is dat helaas niet het geval. Ik houd uiteindelijk 16,- euro over. De rest gaat naar bemiddelingskosten. Nu lijkt zes euro niet zoveel, maar procentueel betaal je PayPro dus 28% van jouw verdiensten. Dat is best wel wat ;)._
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var nl = function (n) { return '€ ' + new Intl.NumberFormat('nl-NL', { minimumFractionDigits: 2, maximumFractionDigits: 2 }).format(n); };
+  var pct = function (n) { return new Intl.NumberFormat('nl-NL', { maximumFractionDigits: 1 }).format(n) + '%'; };
+  function calc() {
+    var vp = +$('paypro-vp').value || 0, com = +$('paypro-com').value || 0, tx = +$('paypro-tx').value || 0;
+    var netwerk = $('paypro-model').value === 'sale' ? vp * 0.085 : com * 0.25;
+    var fee = netwerk + tx, netto = vp - com - fee;
+    $('paypro-netto').textContent = nl(netto);
+    $('paypro-netto-sub').textContent = vp > 0 ? pct(netto / vp * 100) + ' van de verkoopprijs' : '–';
+    $('paypro-fee').textContent = nl(fee);
+    var rest = vp - com; $('paypro-fee-sub').textContent = rest > 0 ? pct(fee / rest * 100) + ' van de ' + nl(rest) + ' die na de commissie overblijft' : 'meer dan er na de commissie overblijft';
+  }
+  ['paypro-vp', 'paypro-com', 'paypro-tx'].forEach(function (id) { $(id).addEventListener('input', calc); });
+  $('paypro-model').addEventListener('change', calc);
+  calc();
+})();
+</script>
 
-Bovenstaande vind ik bijzonder veel geld voor een bemiddeling en dat is dan ook een functie van PayPro die ik pas aanraad wanneer mensen **écht veel verwachten te verkopen via affiliates**. Anders loont het de moeite gewoonweg niet. Dan verkoop ik liever via mijn eigen netwerk.
+Dat vind ik bijzonder veel voor een bemiddeling, en het is dan ook een functie die ik pas aanraad als je **écht veel verwacht te verkopen via affiliates**. Anders loont het de moeite niet en verkoop je beter via je eigen netwerk.
+
+## PayPro vergeleken met de alternatieven
+
+In 2019 was PayPro zo'n beetje de enige Nederlandse partij waar je zonder gedoe een betaalpagina met affiliates kreeg. Dat is niet meer zo. Dit zijn de alternatieven die ik in 2026 zou overwegen, gecontroleerd op 19 september 2026:
+
+| Dienst | Maandkosten | Per verkoop | Affiliates | Voor wie |
+|---|---|---|---|---|
+| PayPro | €9 (€6 jaarlijks) tot €59 | iDEAL €0,29; netwerk 8,5% van de verkoop of 25% van de commissie | Ja, eigen netwerk met zo'n 5.000 actieve affiliates | Nederlandse verkopers van digitale producten die iDEAL en affiliates willen |
+| Plug&Pay (met Mollie of Stripe) | €15 (Lite), €59 (Premium), €125 (Ultimate) | De kosten van Mollie of Stripe | Alleen in Ultimate | Nederlandse ondernemers die funnels, upsells en koppelingen willen |
+| Payhip | Gratis, €29 of €99 | 5%, 2% of 0%, plus PayPal of Stripe | Ja, in alle pakketten | Beginners zonder maandkosten, internationaal publiek |
+| Gumroad | Gratis | 10% plus $0,50 | Ja | Creators met een Engelstalig publiek |
+| Sellfy | Vanaf $22 (jaarlijks) | 0%, plus PayPal of Stripe | Nee | Eigen shop op je website, geen affiliates nodig |
+
+Let bij de buitenlandse partijen op iDEAL: die loopt via Stripe of PayPal en is niet altijd beschikbaar. Voor een Nederlands publiek blijft dat het grootste argument voor PayPro of Plug&Pay.
 
 ## Conclusie PayPro
 
-Ik zou PayPro allereerst aan publishers willen aanraden. Ik denk dat het **een geweldig kanaal is om hoog converterende affiliate producten te vinden** die je veel commissie uitbetalen. Daar valt zeker geld te verdienen als eigenaar **van een goedlopend blog of social media kanaal**. Aan affiliates zelf zou ik PayPro ook aanraden, maar dan alleen als je echt veel verkopen verwacht.
+Ik zou PayPro allereerst aan publishers aanraden. Het is **een geweldig kanaal om hoog converterende affiliate producten te vinden** die veel commissie uitbetalen. Daar valt zeker geld te verdienen als eigenaar **van een goedlopend blog, nieuwsbrief of social-mediakanaal**, en de €7,50 heb je met één verkoop terugverdiend. Aan verkopers zou ik PayPro ook aanraden, maar het affiliate netwerk alleen als je echt veel verkopen verwacht.
 
-Als **betalingsdienstverlener** werkt PayPro prima en is het super makkelijk op te zetten. Het idee dat je niet hoeft te werken met API’s (mag wel) of andere lastige koppelingen is fijn! Het enige wat je nodig hebt is een link op je website naar de betaalpagina, de rest (inclusief de factuurzending) is direct geregeld.
+Als **betaaldienstverlener** werkt PayPro prima en is het supermakkelijk op te zetten. Dat je niet hoeft te werken met API's (mag wel) of lastige koppelingen is fijn. Het enige wat je nodig hebt is een link op je website naar de betaalpagina; de rest, inclusief de factuur, is direct geregeld.
 
 [**Begin zelf te verkopen op PayPro >>**](/go/paypro)
 
-
 <aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
-

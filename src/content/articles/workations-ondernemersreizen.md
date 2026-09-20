@@ -1,8 +1,8 @@
 ---
-title: "10x Workations voor ondernemers en ZZP’ers in 2023"
-description: "Wanneer je online werkt, is het aan jou waar vandaan je dat doet. Je hebt de vrijheid om de wereld over te reizen en sommige ondernemers combineren dit…"
+title: "Workations voor ondernemers en zzp'ers in 2026: 12 georganiseerde reizen vergeleken"
+description: "Georganiseerde workations en ondernemersreizen voor 2026 en 2027 op een rij: prijzen, groepsgrootte en data. Plus de belastingregels en een kostentool."
 date: 2022-09-28
-updated: 2022-12-28
+updated: 2026-09-19
 category: "ondernemen"
 slug: "workations-ondernemersreizen"
 lang: "nl"
@@ -10,364 +10,174 @@ draft: false
 featuredImage: "/images/headers/workations-ondernemersreizen.webp"
 ---
 
-**Je werk en vakantie combineren? Hier vindt je alle georganiseerde workations voor ondernemers, zelfstandigen en ZZP’ers in 2023**.
+**Je werk en vakantie combineren? Hier vind je de georganiseerde workations en ondernemersreizen voor ondernemers, zelfstandigen en zzp'ers in 2026 en 2027**, gecontroleerd op 19 september 2026.
 
-Wanneer je online werkt, is het aan jou waar vandaan je dat doet. Je hebt de vrijheid om de wereld over te reizen en sommige ondernemers combineren dit dan ook met werken vanuit het buitenland.
+Wanneer je online werkt, is het aan jou waar je dat vandaan doet. Je hebt de vrijheid om de wereld over te reizen, en steeds meer ondernemers doen dat ook: in 2024 ging 41% van de zzp'ers op workation of had dat gepland, tegen 33% twee jaar eerder (Knab, onderzoek onder ruim 1.000 zzp'ers, gepubliceerd juni 2026). Bij starters die korter dan een jaar bezig zijn, is dat bijna de helft.
 
-Echter, reizen en werken als [digital nomad](/blog/digitalenomaden/digital-nomad-worden/) kan soms wat eenzaam zijn. Daarom is het leuker om samen op workation of ondernemersreis te gaan. Zo doe je inspiratie op met gelijkgestemde zelfstandigen en wordt werken aan je business een waar avontuur.
+Maar reizen en werken als [digital nomad](/blog/digitalenomaden/digital-nomad-worden/) kan eenzaam zijn; ik kan erover meepraten. Daarom is het leuker om samen op workation of ondernemersreis te gaan. Zo doe je inspiratie op met gelijkgestemde zelfstandigen en wordt werken aan je bedrijf een avontuur.
+
+In dit artikel lees je wat een georganiseerde workation is, welke reizen er nu te boeken zijn (met prijs, groepsgrootte en data in één tabel), wat er sinds mijn vorige lijst uit 2023 is verdwenen, hoe het zit met de belasting, en een rekentool die uitrekent wat zo'n reis je netto kost.
 
 ## Wat is een georganiseerde workation?
 
-Het woord zelf is natuurlijk een combinatie van ‘work’ en ‘vacation’. Lekker op werkvakantie dus. Dit kun je zelf aanpakken door erop uit te gaan, maar je hebt ook **georganiseerde reizen voor ondernemers en ZZP’ers**.
+Het woord zelf is een combinatie van 'work' en 'vacation'. Lekker op werkvakantie dus. Dit kun je zelf regelen door erop uit te gaan, maar er zijn ook **georganiseerde reizen voor ondernemers en zzp'ers**.
 
-Daarbij zie je vaak dat er niet alleen gewerkt en genoten wordt, maar er ook **relevante workshops** bij zitten. Denk aan het verbeteren van je marketing skills, yoga lessen in de ochtend of een mooie gelegenheid om te netwerken met (andere) professionals. Ook kom je meerdere workations tegen waar je gelijk een profielfotoshoot kan doen voor jouw bedrijf.
+Daarbij zie je vaak dat er niet alleen gewerkt en genoten wordt, maar dat er ook **workshops en coaching** bij zitten. Denk aan een sessie over je positionering of je prijzen, yoga in de ochtend, een mastermind met de andere deelnemers of een profielfotoshoot voor je bedrijf. Workations zijn er **in alle soorten en maten**: van een villa aan de Costa Brava waar je vooral gewoon werkt, tot een week op Bali met een businesscoach naast je.
 
-Workations zijn er **in alle soorten en maten**. Of het nu gaat om de locatie, wie erop afkomt of de mate van luxe. Je vind er zeker eentje die bij je past.
+![Een lange houten tafel op een terras met een paar laptops, koffiekopjes en een schaal sinaasappels, met de zee op de achtergrond](/images/spots/workations-terras.webp "Een workation: samen werken op een plek waar je anders vakantie viert")
 
-![Workation](/images/migrated/workation-voor-ondernemers-1.webp "Workation")
+Zelf organiseerde ik in 2023 een Business Bootcamp in Italië. Die ging uiteindelijk niet door, en dat leerde me hoe veel werk zo'n reis is voor de organisator. Sindsdien houd ik deze lijst bij met wat anderen aanbieden. Staat een workation die jij hebt gevonden (of organiseert) er niet tussen? Mail me dan via mickyvz@live.nl.
 
-Op deze pagina vind je **alle georganiseerde workations** voor ondernemers die bij ons bekend zijn voor 2023. Staat een workation die jij hebt gevonden (of organiseert) er niet tussen? Mail me dan via mickyvz@live.nl
+_Prijzen op deze pagina zijn per persoon, exclusief btw en exclusief de reis naar de bestemming, tenzij anders vermeld, zodat je goed kunt vergelijken._
 
-_Prijzen op deze pagina zijn aan verandering onderhevig en allemaal exclusief BTW zodat je goed kunt vergelijken._
+## Workations en ondernemersreizen 2026 – 2027
 
-## Workations 2023
+Dit is wat er op 19 september 2026 te boeken of te reserveren was. Reizen waarvan de organisator nog geen nieuwe datum heeft gepubliceerd, staan erbij met de prijs van de laatste editie.
 
-**1\. Business Bootcamp Italië**
+| # | Reis en organisator | Waar | Wanneer | Duur | Groep | Prijs excl. btw | Voor wie |
+|---|---|---|---|---|---|---|---|
+| 1 | Groepsworkation Spanje, Working Remotely | Villa in Spanje | 9 – 15 oktober 2026 | 7 dagen | groep | prijs op de site; eerdere edities vanaf €700 | ondernemers én mensen in loondienst |
+| 2 | Business Retreat Portugal, Motivation@work | São Brás de Alportel, Algarve | 25 – 31 oktober 2026 | 6 nachten | max. 6 | €2.950 | ondernemers die hun volgende fase plannen |
+| 3 | Workation Andalusië, Remote Ondernemen | Canillas de Aceituno, Spanje | 28 oktober – 1 november 2026 | 5 dagen | 4 – 6 | vanaf €1.390 | vrouwelijke ondernemers en remote werkers met Spanje-plannen |
+| 4 | Bali Retreat, Kim Munnecom | Villa in Ubud, Bali | 1 – 7 november 2026 | 7 dagen | max. 9 | €7.500 | ambitieuze ondernemers |
+| 5 | Curaçao Groeit, Ondernemersreizen.nl en nlgroeit | Curaçao | 16 – 20 november 2026 | 5 dagen | 10 – 30 | €4.450 (nlgroeit-leden €3.950), inclusief vlucht | ondernemers en leiders |
+| 6 | Businessweek Zweden winter, VRUIT | Gällö, Zweden | data volgen | 6 nachten | 6 – 8 | €4.500 | ondernemers die willen groeien |
+| 7 | Business Retreat Oostenrijk, Structuurjunkie | Leogang, Oostenrijk | editie 2026: 21 – 28 juni; nieuwe datum nog niet online | 7 nachten | max. 15 | €3.500 | vrouwelijke ondernemers |
+| 8 | Sun & Rise Business Retreat, Eline Massin | Algarve, Portugal of Belgische kust | Portugal-edities 2026 geweest; België najaar 2026, datum volgt | 5 dagen (Portugal) of 3 dagen (België) | max. 10 | €4.950 (Portugal) of €1.995 (België) | fulltime ondernemers met een bewezen model |
+| 9 | Workation Javea, Casa Coline | Javea, Spanje | doorlopend, maandag t/m vrijdag | 5 dagen | max. 4 | €1.875 (laagseizoen) of €2.495 (hoogseizoen) | ondernemers en managers |
+| 10 | Business Retreat Nederland, Buildaway | Natuurlocatie in Nederland | editie 2026 in april/mei; nieuwe datum nog niet online | 4 dagen | max. 8 | €1.250 introductieprijs (regulier €1.750) | gevestigde ondernemers die diep willen werken |
+| 11 | Business Retreat Portugal, Birgit Luijk en Marlou Volkerink | Moodz Spa Resort, Algarve | 14 – 19 juni 2027 | 5 dagen | max. 9 | €17.500, inclusief zes maanden coaching | vrouwelijke ondernemers met minimaal €100.000 omzet |
+| 12 | Retreat your business Sicilië, Planet Janet | Taormina, Sicilië | najaar 2027, wachtlijst open | 5 dagen | max. 8 | nog niet bekend | (startende) vrouwelijke ondernemers |
 
-*   10 dagen | Lazio, Italië | 18 deelnemers | Gedeelde kamer | All-in | €1612,- | Demodernenomaden.nl
-    
+Daarnaast zijn er organisatoren die alleen op maat werken. **Edgeplore** organiseert ondernemersreizen voor je eigen groep (de Albanië-reis uit mijn vorige lijst is daar nu maatwerk) vanaf zo'n €2.500 per persoon bij een groep van tien. **Cascara Moments** biedt nog steeds 'worqations' bij Málaga aan, maar zonder vaste data of prijzen op de site. En **The Dutch Hub** doet ondernemersreizen naar Barcelona en Zuid-Spanje vanaf €1.450 inclusief vlucht, afhankelijk van de groep.
 
-**2\. Workation Oostenrijk**
+## De reizen kort toegelicht
 
-*   5 dagen | Leogang, Oostenrijk | 15 deelnemers | Privé kamer | All-in | €2797,- | Structuurjunkie.nl
-    
+### 1. Groepsworkation Spanje – Working Remotely
 
-**3\. Workation Spanje**
+Van 9 tot 15 oktober 2026 ga je flexwerken onder de Spaanse zon, in een villa met een groep gelijkgestemden. Overdag werk je, 's avonds trek je er samen op uit. Wat deze workation anders maakt dan de rest van de lijst: je hoeft geen ondernemer te zijn, mensen in loondienst zijn ook welkom, en er zit geen coachingsprogramma aan vast. Bij eerdere edities was de prijs vanaf €700 exclusief btw, inclusief verblijf, werkplek en ontbijt; de actuele prijs staat op de site. Op 19 september waren er nog een paar plekken.
 
-*   5 dagen | Malaga, Spanje | 8 deelnemers | Privé kamer | All-in | €1395,- | Cascaramoments.com
-    
+### 2. Business Retreat Portugal – Motivation@work
 
-**4\. Workation Marokko**
+Zes nachten in de Algarve met maximaal zes ondernemers, van 25 tot 31 oktober 2026. Businesscoach Inge Slabbinck combineert groepsworkshops met 1-op-1-sessies; je gaat naar huis met een plan voor drie jaar. Inclusief verblijf, maaltijden, vervoer ter plekke en drie online vervolgsessies in de jaren erna. €2.950, zonder btw omdat de organisatie Belgisch is.
 
-*   5 dagen | Marrakech, Marokko | 10 deelnemers | Gedeelde kamer | All-in | €1697,- | Thesoukdepartment.com
-    
+### 3. Workation Andalusië – Remote Ondernemen
 
-**5\. Business Retreat België**
+Van 28 oktober tot 1 november 2026 met vier tot zes vrouwen in de bergen boven Málaga. Vijf inspiratiesessies, padel, wandelen en volpension. Bijzonder: deze workation is bedoeld voor wie overweegt om (deels) in Spanje te gaan wonen of een huis te kopen. Vanaf €1.390, exclusief vlucht naar Málaga. Een tweede editie staat op aanvraag voor het voorjaar van 2027.
 
-*   6 dagen | Zwevegem, België | 8 deelnemers | Gedeelde kamer | All-in | €2500,- | Houseofmindstyle.be
-    
+### 4. Bali Retreat – Kim Munnecom
 
-**6\. Workation Portugal**
+Een week in een luxe villa in Ubud, van 1 tot 7 november 2026, met maximaal negen ondernemers. Coaching in een kleine groep, een eigen kamer met badkamer, privékok, twee dagexcursies en een brandingfotoshoot. €7.500 exclusief btw, in zes termijnen te betalen. Je moet eerst een vragenlijst invullen om mee te mogen.
 
-*   6 dagen | Faro, Portugal | 9 deelnemers | Privé kamer | All-in | €4400,- | Elinemassin.be
-    
+### 5. Curaçao Groeit – Ondernemersreizen.nl en nlgroeit
 
-**7\. Workation Bali**
+Vijf dagen op Curaçao, van 16 tot 20 november 2026, met tien tot dertig ondernemers en leiders. Keynotes, workshops en een concreet actieplan, in het Corendon Mangrove Beach Resort. Dit is de enige reis in de lijst waar de vlucht bij de prijs inbegrepen is: €4.450 exclusief btw, of €3.950 voor leden van nlgroeit. Wie een partner meeneemt die niet meedoet aan het programma, betaalt daarvoor €2.000 extra.
 
-*   9 dagen | Bali, Indonesië | 12 deelnemers | Privé kamer | All-in | €4950,- | Dutchdigitalnomad.nl
-    
+### 6. Businessweek Zweden winter – VRUIT
 
-**8\. Groepsworkation Spanje**
+Zes nachten in een privélodge in Gällö, midden-Zweden, met zes tot acht ondernemers. Overdag workshops en coaching over strategie, leiderschap en je businessmodel; daarbuiten sauna, ijsbad, sneeuwscootersafari en bushcraft. €4.500 exclusief btw, alles inbegrepen behalve de reis. De datum voor de winter van 2026/2027 was op 19 september nog niet gepubliceerd.
 
-*   7 dagen | Valencia, Spanje | 10 deelnemers | Gedeelde kamer | Inclusief ontbijt | €702,- | Workingremotely.nl
-    
+### 7. Business Retreat Oostenrijk – Structuurjunkie
 
-**9\. Ondernemersreis Albanië**
+Een week in het Riederalm-hotel in Leogang, met maximaal vijftien vrouwelijke ondernemers. Privékamer, alle maaltijden inclusief vijfgangendiners, twee keer yoga, twee workouts, één workshop van Cynthia (Structuurjunkie), een fotoshoot met vijf profielfoto's en dagelijks de gondel. De editie van 2026 was van 21 tot 28 juni voor €3.500 exclusief btw; een nieuwe datum stond nog niet online.
 
-*   4 dagen | Tirana, Albanië | 10 deelnemers | Gedeelde kamer | All-in | €1595,- | Edgeplore.nl
-    
+### 8. Sun & Rise Business Retreat – Eline Massin
 
-**10\. Sportieve workation**
+Belgische businessmentor Eline Massin organiseert twee varianten: vijf dagen in de Algarve (€4.950, maximaal tien deelnemers) en drie dagen aan de Belgische kust (€1.995). Je bereidt vooraf een casus voor waar je mee worstelt en krijgt daar feedback op van ondernemers op hetzelfde niveau. De Portugal-edities van 2026 zijn geweest; de Belgische editie van najaar 2026 was nog niet gedateerd. Vlaamse ondernemers kunnen een deel via de KMO-portefeuille vergoed krijgen.
 
-*   14 dagen | Spanje of Portugal | 6 deelnemers | Travelies.nl
-    
+### 9. Workation Javea – Casa Coline
 
-## 1. Business Bootcamp Italië
+Geen vaste data maar een doorlopend aanbod: vijf dagen, van maandag tot vrijdag, met maximaal vier ondernemers of managers in een huis in Javea aan de Costa Blanca. Dagelijks coaching van Nicoline Schipper, yoga, massage en alle maaltijden. €1.875 in het laagseizoen (half oktober tot half april) en €2.495 in het hoogseizoen. Een privéworkation kan ook, vanaf €3.500.
 
-[Meer info](/blog/ondernemen/workations-ondernemersreizen/)
+### 10. Business Retreat Nederland – Buildaway
 
-![Business Bootcamp Italië](/images/migrated/DSC01014-1.webp "Business Bootcamp Italië")
+De enige in de lijst zonder vliegtuig: vier dagen op een natuurlocatie in Nederland, met maximaal acht gevestigde ondernemers. Blokken diep werk, een privékok, dagelijks bewegen en 1-op-1-businesscoaching. De eerste editie was in april/mei 2026 voor een introductieprijs van €1.250 (regulier €1.750); een volgende datum stond nog niet online.
 
-*   31 mei t/m 9 juni 2023
-    
-*   10 dagen
-    
-*   Lazio, Italië
-    
-*   18 deelnemers
-    
-*   Gedeelde kamer (Privé +350,-)
-    
-*   €1612,-
-    
-*   Demodernenomaden.nl
-    
+### 11. Business Retreat Portugal – Birgit Luijk en Marlou Volkerink
 
-Deze workation is bedoelt voor beginnende ondernemers en ZZP’ers of mensen die vastlopen met hun (online) bedrijf. Het doel is om binnen 10 dagen van een ‘krakende business’ een ‘online succes’ te maken.
+De uitschieter van de lijst: €17.500 voor vijf dagen in een spa-resort in de Algarve, van 14 tot 19 juni 2027. Dat bedrag is inclusief een half jaar businesscoaching vooraf en achteraf, en je komt alleen in aanmerking met minimaal €100.000 jaaromzet. Negen plekken. Niet voor starters, wel een voorbeeld van hoe ver de markt inmiddels reikt.
 
-Iedere dag worden er twee workshops georganiseerd met onderwerpen als marketing, financiën, contentcreatie en mindset. De rest van de tijd kun je de opgedane kennis direct implementeren met de vele coaching mogelijkheden. Natuurlijk kun je ook genieten van de Italiaanse zon, het eten en de heuvels.
+### 12. Retreat your business Sicilië – Planet Janet
 
-[› Meer informatie](/blog/ondernemen/workations-ondernemersreizen/)
+Vijf dagen in Taormina op Sicilië, najaar 2027, met maximaal acht (startende) vrouwelijke ondernemers. Je vertrekt met een concreet businessplan. De prijs was nog niet bekend; de wachtlijst is open.
 
-_Deze workation is inclusief verblijf, eten, drinken, workshops, uitje, fotoshoot en transfer. Exclusief reis naar Italië._
+![Een open koffer met daarin een laptop, een zonnebril, een notitieboek en een paspoort](/images/spots/workations-koffer.webp "Inpakken voor een workation: laptop en zonnebril in dezelfde koffer")
 
-## 2. Workation Oostenrijk
+## Wat er sinds 2023 verdwenen is
 
-[Meer info](https://structuurjunkie.nl/workation)
+Van de tien workations in mijn lijst uit 2023 bestaat meer dan de helft niet meer, of niet meer in die vorm. House of Mindstyle (Business Retreat België) is offline. The Souk Department, dat een workation in Marrakech organiseerde, doet nu alleen nog bruiloften en events. Dutch Digital Nomad, met de Bali-workation van €4.950, bestaat niet meer; het adres verwijst naar een coachingpraktijk zonder reizen. Edgeplore biedt Albanië niet meer als vaste reis aan maar alleen op maat. En mijn eigen Business Bootcamp in Italië ging, zoals gezegd, niet door.
 
-![Workation Oostenrijk](/images/migrated/wokration-oostenrijk-1.webp "Workation Oostenrijk")
+Dat zegt iets over deze markt: een workation organiseren is leuk, maar het is ook een reisbureau runnen. Kijk dus altijd of de organisator al eerdere edities heeft gedraaid en hoe je geld beschermd is als de reis niet doorgaat. Structuurjunkie noemt bijvoorbeeld expliciet dat de reis onder de garantieregeling van VZR Garant valt.
 
-*   18 t/m 23 juni 2023
-    
-*   5 dagen
-    
-*   Leogang, Oostenrijk
-    
-*   15 deelnemers
-    
-*   Privé kamer
-    
-*   €2797,-
-    
-*   Structuurjunkie.nl
-    
+## Is een workation aftrekbaar?
 
-Vijf dagen lang verblijf je met een groep vrouwlijke ondernemers in een luxe hotel in Oostenrijk. Inclusief spa, gondel en buitenzwembad. Deze georganiseerde workation staat in het teken van genieten en hard werken.
+De vraag die ik het vaakst krijg. Het korte antwoord: gedeeltelijk, en alleen als je het goed kunt onderbouwen. Dit zijn de regels voor 2026, samengevat uit de uitleg van Onderneming.nl en Boekhouders.nl:
 
-Er is eenmalig een workshop door Structuurjunkie en een voorbereidingssessie om je week zo goed mogelijk in te plannen.
+*   **Het zakelijke deel is aftrekbaar, het privédeel niet.** De Belastingdienst beoordeelt elke workation apart; het uitgangspunt is dat de reis voor minimaal de helft zakelijk moet zijn. Een paar uur mailen op het strand maakt je vlucht en appartement niet aftrekbaar.
+*   **Volledig aftrekbaar:** de werkgerelateerde kosten, zoals een coworkingplek, het workshop- of coachingsprogramma van de reis en zakelijk internet.
+*   **Beperkt aftrekbaar:** eten, drinken en representatie. Daarvoor kies je per jaar tussen twee methodes: een drempel (in 2026 €5.700; alleen wat daarboven komt is aftrekbaar) of 80% van de kosten aftrekken zonder drempel. Voor de meeste zzp'ers is die 80%-regel gunstiger.
+*   **Bewaar alles.** Tickets, facturen en een dagindeling waaruit blijkt op welke dagen je werkte. Zonder bewijs geen aftrek.
 
-[› Meer informatie](https://structuurjunkie.nl/workation)
+Let op: een georganiseerde ondernemersreis met een inhoudelijk programma (workshops, coaching) is makkelijker te onderbouwen dan een villa waar je vooral zelf werkt. Ondernemersreizen.nl noemt de Curaçao-reis bijvoorbeeld expliciet 'aftrekbaar als zakelijke studiekosten'. Twijfel je? Bel je boekhouder voordat je boekt, niet erna.
 
-_Deze workation is inclusief verblijf, eten, drinken, workshop, fotoshoot en gondelticket. Exclusief reis naar Oostenrijk._
+## Wat kost een workation je echt? Reken het uit
+
+Een workation van €2.950 klinkt als veel geld, maar dat is niet het hele plaatje. Je werkt onderweg door (dus je verdient een deel terug), en je hebt ook thuis kosten voor eten en werkplek. Vul hieronder je eigen cijfers in en zie wat de reis je per dag kost en hoeveel factureerbare uren je nodig hebt om hem terug te verdienen.
+
+<div class="tool not-prose" id="workations-calc">
+<p class="tool__title">Wat kost een workation je netto?</p>
+<p class="tool__intro">Vul je eigen cijfers in; de uitkomst rekent direct mee.</p>
+<div class="tool__grid">
+<label class="tool__field">Prijs van de workation excl. btw (€)<input class="tool__input" id="workations-price" type="number" min="0" step="50" value="2950"></label>
+<label class="tool__field">Vlucht, transfer en extra's (€)<input class="tool__input" id="workations-travel" type="number" min="0" step="50" value="400"></label>
+<label class="tool__field">Aantal dagen<input class="tool__input" id="workations-days" type="number" min="1" step="1" value="6"></label>
+<label class="tool__field">Jouw uurtarief (€)<input class="tool__input" id="workations-rate" type="number" min="0" step="5" value="85"></label>
+<label class="tool__field">Factureerbare uren per dag tijdens de reis<input class="tool__input" id="workations-hours" type="number" min="0" max="12" step="0.5" value="3"></label>
+</div>
+<div class="tool__results">
+<div class="tool__result"><p class="tool__label">Totale kosten</p><p class="tool__value" id="workations-total">€ 3.350</p><p class="tool__sub" id="workations-per-day">€ 558 per dag</p></div>
+<div class="tool__result"><p class="tool__label">Onderweg gefactureerd</p><p class="tool__value" id="workations-earned">€ 1.530</p><p class="tool__sub">bij dit tarief en deze uren</p></div>
+<div class="tool__result"><p class="tool__label">Netto uit eigen zak</p><p class="tool__value" id="workations-net">€ 1.820</p><p class="tool__sub">kosten min wat je onderweg verdient</p></div>
+<div class="tool__result"><p class="tool__label">Terugverdienen kost</p><p class="tool__value" id="workations-payback">21 uur</p><p class="tool__sub">factureerbare uren na thuiskomst</p></div>
+</div>
+<p class="tool__note">Rekenvoorbeeld, geen belofte. Het aftrekbare deel is hier niet meegerekend; dat hangt af van het programma en je eigen situatie (zie de belastingregels hierboven). Volgens Knab rekent maar 30% van de zzp'ers de kosten van vakantie in het uurtarief door.</p>
+</div>
+
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var eur = function (n) { return '€ ' + new Intl.NumberFormat('nl-NL', { maximumFractionDigits: 0 }).format(n); };
+  var num = function (n, d) { return new Intl.NumberFormat('nl-NL', { maximumFractionDigits: d || 0 }).format(n); };
+  function calc() {
+    var price = +$('workations-price').value || 0, travel = +$('workations-travel').value || 0, days = +$('workations-days').value || 1, rate = +$('workations-rate').value || 0, hours = +$('workations-hours').value || 0;
+    var total = price + travel, earned = days * hours * rate, net = total - earned;
+    $('workations-total').textContent = eur(total);
+    $('workations-per-day').textContent = eur(total / days) + ' per dag';
+    $('workations-earned').textContent = eur(earned);
+    $('workations-net').textContent = eur(net);
+    $('workations-payback').textContent = rate ? (net > 0 ? num(net / rate) + ' uur' : 'niets, je verdient hem onderweg terug') : '–';
+  }
+  ['workations-price', 'workations-travel', 'workations-days', 'workations-rate', 'workations-hours'].forEach(function (id) { $(id).addEventListener('input', calc); });
+  calc();
+})();
+</script>
+
+## Zo kies je de juiste workation
+
+Na drie jaar lijstjes bijhouden zijn dit de vragen die ik iedereen stel die twijfelt:
+
+1.  **Wil je werken of wil je groeien?** Een villa met werkplek (Working Remotely, Casa Coline) is voor wie gewoon zijn werk wil doen op een mooiere plek. Een retreat met coaching (Motivation@work, Structuurjunkie, Kim Munnecom) is voor wie aan zijn bedrijf wil werken in plaats van erin. Betaal niet voor coaching als je alleen een zwembad zoekt.
+2.  **Hoe groot is de groep?** Vier tot acht mensen betekent echte gesprekken; twintig tot dertig betekent netwerken. Allebei prima, maar het is een ander product.
+3.  **Wat zit er echt in de prijs?** Kijk naar maaltijden, transfers, btw en of de vlucht erbij zit (alleen bij Curaçao Groeit). Een reis van €1.390 exclusief eten kan duurder uitpakken dan een all-in van €1.875.
+4.  **Voor wie is het bedoeld?** Meer dan de helft van de reizen in de lijst is alleen voor vrouwelijke ondernemers. Sommige stellen een omzeteis. Lees dat vooraf, niet na de aanbetaling.
+5.  **Hoe is je geld beschermd?** Vraag naar een garantieregeling en naar wat er gebeurt als de reis niet doorgaat. Ik weet uit ervaring dat dat gebeurt.
+
+![Een laptop op een ligbed naast een zwembad, met bergen op de achtergrond](/images/spots/workations-zwembad.webp "Werken bij het zwembad is leuk, maar de mensen aan tafel zijn de reden om te gaan")
+
+
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
-## 3. Workation Spanje
-
-[Meer info](https://cascaramoments.com/worqation/)
-
-![Workation in Spanje](/images/migrated/workation-in-spanje-malaga-1.webp "Workation in Spanje")
-
-*   18 t/m 22 april 2023
-    
-*   5 dagen
-    
-*   Malaga, Spanje
-    
-*   8 deelnemers
-    
-*   Privé kamer
-    
-*   €1395,-
-    
-*   Cascaramoments.com
-    
-
-Tijdens deze workation creëer je een helikopterview van jouw business. Bedoelt voor ondernemers die de zaken goed op orde hebben, maar toch vaker werken in hun bedrijf dan aan hun bedrijf.
-
-Aan de hand van workshops stel je een duizenddagen doel op om structuur aan te brengen in de groei van jouw bedrijf.
-
-[› Meer informatie](https://cascaramoments.com/worqation/)
-
-_Deze workation is inclusief verblijf, eten, drinken, enkele workshops en boottocht. Exclusief reis naar Spanje._
-
-## 4. Workation Marokko
-
-[Meer info](https://www.thesoukdepartment.com/workation/)
-
-![Workation Marokko](/images/migrated/workation-marokko-1.webp "Workation Marokko")
-
-*   19 t/m 23 september 2023
-    
-*   5 dagen
-    
-*   Marrakech, Marokko
-    
-*   10 deelnemers
-    
-*   Gedeelde kamer
-    
-*   €1697,-
-    
-*   Thesoukdepartment.com
-    
-
-Tijdens deze georganiseerde workation verblijf je in een privé riad in de hoofdstad van Marokko. Gevuld met enkele workshops en mastermind sessies weet je zeker dat je niet met lege handen naar huis gaat.
-
-Doordat de organisator zelf woonachtig is in Marrakech, zal je alle ins en outs van de cultuur te zien krijgen. Lekker eten gegarandeerd! Deze ondernemersreis is specifiek voor vrouwen.
-
-[› Meer informatie](https://www.thesoukdepartment.com/workation/)
-
-_Deze workation is inclusief verblijf, eten, drinken, workshops, shopping- en food tour. Exclusief reis naar Marokko._
-
-## 5. Business Retreat België
-
-[Meer info](https://www.houseofmindstyle.be/workation/)
-
-![2q3a7534 kopie](data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%272560%27%20height%3D%271707%27%20viewBox%3D%270%200%202560%201707%27%3E%3Crect%20width%3D%272560%27%20height%3D%271707%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E "2Q3A7534 kopie")
-
-*   27 november t/m 2 december 2022
-    
-*   6 dagen
-    
-*   Zwevegem, België
-    
-*   8 deelnemers
-    
-*   Privé kamer
-    
-*   €2500,-
-    
-*   Houseofmindstyle.be
-    
-
-Buiten yogasessies en een powerdance ga je hier vooral aande slag met jouw business. Ondersteunt met enkele workshops en een balans tussen werk en plezier. Vooral belangrijk is dat je bij deze workation wordt omgeven door andere ondernemers waardoor je jouw solopreneursbestaan vaarwel kunt zeggen.
-
-[› Meer informatie](https://www.houseofmindstyle.be/workation/)
-
-_Deze workation is inclusief verblijf, eten, drinken, workshops, yoga en massage. Exclusief reis naar België._
-
-## 6. Workation Portugal
-
-[Meer info](https://www.elinemassin.be/businessretreat)
-
-![Workation in Portugal](/images/migrated/SUN-RISE-by-Leentje-loves-Light-25-1.webp "Workation in Portugal")
-
-*   10 t/m 15 september 2023
-    
-*   6 dagen
-    
-*   Faro, Portugal
-    
-*   9 deelnemers
-    
-*   Privé kamer
-    
-*   €4400,-
-    
-*   Elinemassin.be
-    
-
-Bij deze business retreat ga je concreet aan de slag met verschillende businessmodellen. Jouw business wordt specifiek onder de loep genomen en in de verschillende workshops werk je jouw plannen uit. Op sommige ochtenden is er yoga en als extra doe je ook mee met een showcooking sessie.
-
-[› Meer informatie](https://www.elinemassin.be/businessretreat)
-
-_Deze workation is inclusief verblijf, eten, drinken, workshops, yoga, showcookingsesssie en een kennismakingsetentje vooraf. Exclusief reis naar Portugal._
-
-## 7. Workation Bali
-
-[Meer info](https://www.dutchdigitalnomad.nl/workation-bali/)
-
-![Workation Bali](/images/migrated/Workation-Bali-2022-1-1.webp "Workation Bali")
-
-*   6 t/m 14 oktober 2023
-    
-*   9 dagen
-    
-*   Bali, Indonesië
-    
-*   12 deelnemers
-    
-*   Privé kamer
-    
-*   €4950,-
-    
-*   Dutchdigitalnomad.nl
-    
-
-Deze workation in Bali is voor gedreven ondernemers die richting de 10K+ p/maand willen gaan. In een luxe villa verblijf je met maximaal 11 andere ondernemers. Daar krijg je 1-op-1 coaching en een branding fotoshoot.
-
-Met drie gastsprekers kun je op deze reis flink wat workshops verwachten om jouw bedrijf naar een hoger niveau te tillen.
-
-[› Meer informatie](https://www.dutchdigitalnomad.nl/workation-bali/)
-
-_Deze workation is inclusief verblijf, eten, drinken, uitjes, fotoshoot, scooterhuur en transfer. Exclusief reis naar Bali._
-
-## 8. Groepsworkation Spanje
-
-[Meer info](https://workingremotely.nl/workation-aanbod/groeps-workation-valencia-oktober/)
-
-![Valencia strand workation](/images/migrated/valencia-strand-workation-1.webp "Valencia strand workation")
-
-*   Nog onbekend
-    
-*   7 dagen
-    
-*   Valencia, Spanje
-    
-*   10 deelnemers
-    
-*   Gedeelde kamer
-    
-*   €702,-
-    
-*   Workingremotely.nl
-    
-
-Tijdens deze workation ga je flexwerken onder de Spaanse zon. Met een groep gelijkgestemden verblijf je in een huis nabij het strand. Overdag is er alle tijd om aan je bedrijf te werken, in de avond ga je er samen op uit.
-
-Behalve voor ondernemers, kun je aan deze georganiseerde workation ook deelnemen als je in loondienst werkt.
-
-[› Meer informatie](https://workingremotely.nl/workation-aanbod/groeps-workation-valencia-oktober/)
-
-_Deze workation is inclusief verblijf, enkele uitjes en ontbijt. Exclusief andere maaltijden en reis naar Spanje._
-
-## 9. Ondernemersreis Albanië
-
-[Meer info](https://edgeplore.nl/ondernemersreis-albanie/)
-
-![Ondernemersreis Albanië](/images/migrated/ondernemersreis-albanie-1.webp "Ondernemersreis Albanië")
-
-*   Nog onbekend
-    
-*   4 dagen
-    
-*   Tirana, Albanië
-    
-*   10 deelnemers
-    
-*   Gedeelde kamer
-    
-*   €1595,-
-    
-*   Edgeplore.nl
-    
-
-Tijdens deze avontuurlijke ondernemersreis ga je met een 4×4 de Albanese bergen in, doe je een brainstorm op het water en ga je een dag wildkamperen op het strand. Het doel is om je gedachten te resetten, dan wel van wat frisse inspiratie te voorzien.
-
-Gedurende deze reis komt er van hard werken misschien niet zoveel terecht, wel is dit het moment om samen met de coach en andere (ervaren) ondernemers actiepunten te bedenken om mee aan de slag te gaan.
-
-[› Meer informatie](https://edgeplore.nl/ondernemersreis-albanie/)
-
-_Deze workation is inclusief verblijf, eten, drinken, workshops, uitjes en reis._
-
-## 10. Sportieve workation
-
-[Meer info](https://www.travelies.nl/workation/)
-
-![Workation Surfen portugal](/images/migrated/workation-surfen-portugal-1.webp "Workation Surfen portugal")
-
-*   Nog onbekend
-    
-*   14 dagen
-    
-*   Spanje of Portugal
-    
-*   6 deelnemers
-    
-*   Nog onbekend
-    
-*   Nog onbekend
-    
-*   Travelies.nl
-    
-
-Een workation zonder yoga, zonder workshops en zonder gastsprekers. In deze workation staan chillen, werken en surfen voorop. De datum en locatie voor deze workation worden bepaald door de deelnemers. Zolang er maar gesurft kan worden!
-
-[› Meer informatie](https://www.travelies.nl/workation/)
-
-_Deze workation is inclusief verblijf. Exclusief maaltijden en reis._
 
 ## Heb ik een workation gemist?
 
-Georganiseerde workations zijn er in alle soorten en maten. En dat is maar goed ook, want zo is er voor iedereen wel een workation die past.
-
-Organiseer jij zelf een workation of ondernemersreis in 2023, maar staat deze nog niet in de lijst? **Mail dan even naar mickyvz@live.nl**
+Georganiseerde workations zijn er in alle soorten en maten. En dat is maar goed ook, want zo is er voor iedereen wel een reis die past. Organiseer jij zelf een workation of ondernemersreis in 2026 of 2027, maar staat die nog niet in de lijst? **Mail dan even naar mickyvz@live.nl**, met datum, prijs exclusief btw en groepsgrootte, dan zet ik hem erbij.
