@@ -77,6 +77,8 @@ featuredImage: "/images/headers/online-marketing-trouwvideograaf-trouwvideos.web
 
 ### De offerte aanvraag is gedaan en de trouwvideograaf kan de aanvraag op gaan volgen. Maar voordat het zover is hebben we nog één tussenstap ingezet. In deze campagne, ontvangt het bruidspaar direct na de aanvraag een mail ([e-mail marketing](/blog/ondernemen/e-mail-marketing/)) met daarin ’10 tips voor een geweldige trouwvideo’. Op deze manier helpen we het bruidspaar alvast en dat wordt altijd gewaardeerd. Ook laten we zo zien dat we weten wat trouwvideografie in houdt.
 
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+
 ## De resultaten van de campagne voor trouwvideo’s
 
 ### Zowel ik als de trouwvideograaf, waren blij met het resultaat. De campagne was vrij low cost maar leverde goed resultaat op. De cijfertjes vind je hieronder.

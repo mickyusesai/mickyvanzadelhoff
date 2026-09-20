@@ -1,8 +1,8 @@
 ---
-title: "Siteground webhosting review Nederland [2023]"
-description: "Deze review is bedoelt voor iedereen die op zoek is naar de beste hosting aanbieder die er is. Of het nu gaat om een plek om jouw WordPress blog…"
+title: "SiteGround webhosting review Nederland [2026] – Snel, maar let op de verlengprijs"
+description: "SiteGround review 2026 voor Nederland: prijzen in dollars, verlengprijs tot zes keer hoger, Google Cloud, Site Tools, Engelse support en mijn ervaring."
 date: 2021-02-16
-updated: 2023-01-02
+updated: 2026-09-20
 category: "review"
 slug: "siteground-hosting-review-nederland"
 lang: "nl"
@@ -10,240 +10,167 @@ draft: false
 featuredImage: "/images/headers/siteground-hosting-review-nederland.webp"
 ---
 
-**SiteGround hosting review. Is dit de beste hosting? Alle voordelen en nadelen van Siteground in 2023 vind je hier.**
+**Is SiteGround de beste webhosting voor jouw WordPress-site?** Het is een van de bekendste hosts ter wereld, met 4,9 van 5 op Trustpilot bij ruim 30.000 reviews. Ik heb er zelf een tijd gehost voordat ik naar een Nederlandse host verhuisde. Waarom, lees je in deze review.
 
-Deze review is bedoelt voor iedereen die op zoek is naar de beste hosting aanbieder die er is. Of het nu gaat om een plek om jouw WordPress blog, webshop of website te hosten. Misschien wil je wel overstappen en jouw website verhuizen naar de beste hosting mogelijk. Wellicht is Siteground dan een goede optie voor je.
+Je leest hier wat SiteGround in 2026 kost (de prijzen zijn op 20 september 2026 gecontroleerd en staan in dollars, ook voor Nederlanders), waarom de verlengprijs tot zes keer hoger is dan de instapprijs, wat je krijgt aan snelheid, veiligheid en support, en voor wie SiteGround wel en niet de beste keuze is. Er is sinds mijn eerste versie van dit artikel veel veranderd: SiteGround draait nu volledig op Google Cloud, heeft cPanel vervangen door zijn eigen Site Tools, staat niet meer op de lijst van aanbevolen hosts van WordPress.org en heeft zijn prijzen flink verhoogd.
 
-Deze review is een uitgebreide versie van de nummer één op de lijst van 5 beste hosting providers van 2023, namelijk Siteground.
+Wil je liever helemaal niets met hosting te maken hebben? Op Fiverr vind je bouwers die [een complete WordPress-site voor je opzetten](/go/fiverr-wordpress-website-maken).
 
-**Siteground** – Een van de meest bekende en betrouwbare webhosting aanbieders met een goede prijs-kwaliteit verhouding. Voor tal van redenen maken een hoop bloggers, content creators, webshop eigenaren er gebruik van. Deze hosting aanbieder heeft een schone reputatie vanwege haar houding en supersnelle support services. Voor een website in WordPress wordt Siteground zelf officieel aangeraden (door WordPress zelf).
+## SiteGround in het kort (2026)
 
-Maar, inderdaad, Siteground is niet de goedkoopste aanbieder van webhosting. Laten we daarom eens kijken naar waarom dat is en of Siteground onder de eindstreep het geld waard is.
-
-[**TIP: Maak je het jezelf liever makkelijk? Vind dan iemand op Fiverr om een WordPress website voor jou te maken >>**](/go/fiverr-wordpress-website-maken)
-
-![Untitled1](/images/migrated/Untitled1-1.webp "Untitled1 (1)")
-
-## 1. Siteground hosting mogelijkheden
-
-Siteground komt van oorsprong uit Bulgarije, waar het in 2004 is opgericht. Inmiddels is het uitgegroeid naar een webhost met **6 gigantische data-centers (waarvan eentje in Nederland)** op 4 verschillende continenten en meer dan **190 CDN locaties wereldwijd**.
-
-Ze zijn de beste hosting voor een WordPress website en bieden tal van gratis mogelijkheden voor ieder soort website. Verder bieden ze Managed Cloud hosting, WooCommerce hosting en algemene webhosting.
-
-Siteground biedt tal van mogelijkheden op het basic plan en tal van extra’s op de wat meer prijzige opties.
-
-![Datacenter](/images/migrated/datacenter-1-e1612007158569.webp "datacenter (1)")
-
-De lijst met mogelijkheden voor Siteground hosting is bijzonder uitgebreid:
-
-## Onbeperkt data verkeer en MySQL databases bij ieder plan
-
-Onbeperkt verkeer staat je toe om een onbeperkt aantal websitebezoekers te hebben. Niet in exact dezelfde seconde overigens… Maar dit is iets van Siteground wat zeker niet bij iedere hosting te vinden is; zij hebben wel beperkingen in dataverkeer.
-
-## Onbeperkt aantal websites
-
-Met het basic plan van Siteground (StartUp) ben je in staat om één website te managen. Wanneer je gaat voor een uitgebreider plan zoals GrowBig kun je een onbeperkt aantal websites aanmaken. Dat is handig voor wanneer je bijvoorbeeld een blog en een webshop vanuit hetzelfde account wilt beheren.
-
-## SSD data opslag
-
-SSD opslag is een zeer efficiënte manier om data op te slaan dan HDD en SSD. Hierdoor is jouw hosting sneller en betrouwbaarder.
-
-## Gratis CDN CloudFare
-
-Siteground en CDN werken samen, daardoor heb je onbeperkt toegang. CDN Cloudfare is een verzameling van cloud servers welke jou de optie geven om jouw website op de meest dichtstbijzijnde locatie te openen. Met meer dan 150 CDN locaties wereldwijd versneld dit jouw website enorm. Je zult zien dat je laadtijd hierdoor tot het minimale wordt beperkt.
-
-## SSL certificaat inbegrepen
-
-Welk pakket je ook kiest, er is altijd een gratis SSL certificaat inbegrepen. Dat wil zeggen dat jouw website op een veilige manier via HTTPS:// kan worden geopend. Behalve voor de veiligheid is dit ook een belangrijke ranking factor voor Google en eigenlijk het minimale vereiste voor een professionele website. Toch zijn er andere webhosting aanbieders in de markt waarbij je voor deze functie extra moet betalen.
-
-## Wordpress installatie en WP migration
-
-WordPress installeren hoort makkelijk te zijn en dat hebben ze bij Siteground begrepen. Ik durf zelfs te stellen dat het nergens anders zo makkelijk is. Met tools als WP Starter begin je jouw WordPress website met een klik op de knop. Daarbij kun je bij Siteground ook jouw WordPress website verhuizen met WP Migration zonder bijkomende kosten.
-
-## Dagelijkse back-up opslag (tot 30x)
-
-Niemand wilt zomaar zijn of haar website verliezen. Een back-up is de beste tool om dat voor te zijn. Bij Siteground kun je een dagelijkse back-up functie instellen, deze bewaart altijd de laatste 30 back-ups die zijn gemaakt. Mocht je dus ooit iets hebben gewijzigd op jouw website en er gaat iets fout, dan kun je altijd op een simpele manier de laatste back-up terugzetten.
-
-## Inbegrepen e-mail account, WP-CLI en SSH
-
-Met een gratis e-mail account kun je een adres maken zoals mickyvz@live.nl. Hier zit ook de webmail bij en functies om de mails te forwarden naar bijvoorbeeld je gmail account.
-
-WP-CLI is een mogelijkheid die je helpt om jouw WordPress instellingen op een geavanceerde manier te beheren. SSH staat voor het Secure Shell Access protocol waardoor je beschikt over de sterkste encryptie ter wereld. En dat is allemaal inbegrepen bij een Siteground webhosting pakket ;).
-
-## cPanel toegang
-
-Het control panel is een dashboard om jouw hosting te kunnen beheren. Deze is bij Siteground gebruiksvriendelijk en intuïtief, wat technische kennis overbodig maakt. En dat denk ik niet alleen, dit dashboard is door duizenden gebruikers als zo beoordeeld.
-
-## GoogleCloud data centrum
-
-GoogleCloud is the most tech and advanced cloud network. **Siteground** has integrated its cloud servers on that platform to increase the total efficiency of CPU and RAM resources (to make work of servers incredibly fast) and to make more opportunities for their data centre locations
-
-## 24/7 support
-
-Mocht je er een keer niet uitkomen, dan kun je altijd rekenen op de support van Siteground. Ze antwoorden enorm snel en geven je een oplossing in enkele minuten.
-
-## Migratie van jouw website inbegrepen
-
-Niemand wilt moeilijkheden bij het verhuizen van zijn of haar website. Het is dan ook goed om te weten dat je voor die verhuizing alleen maar jouw verhuiscode (van je oude host) nodig hebt. Siteground regelt vervolgens dat alles op een juiste manier wordt overgezet en neemt de verantwoordelijkheid uit handen.
-
-Mijn ervaring is dat ze de verhuizing op werkdagen vaak binnen één uur hebben geregeld, zonder dat jouw website tussendoor offline is. Ze zetten hem namelijk eerst over en passen later als alles goed is gelukt, pas de DNS aan.
-
-## 30 dagen garantie
-
-Mocht je binnen 30 dagen niet tevreden zijn kun je altijd je abonnement annuleren. Je geld wordt dan binnen enkele dagen teruggestort zonder moeilijkheden of lastige vragen.
-
-En uiteraard zijn dit niet de enige mogelijkheden die Siteground heeft. Bij ieder pakket heb je ook direct beschikking over e-commerce en blogopties.
-
-Nu zijn er veel hosting aanbieders die veel mogelijkheden hebben. Echter leveren andere webhosts vaak in op standaarden rondom snelheid, veiligheid en laadtijd. Het is dus goed om te kijken hoe dat bij Siteground zit.
-
-![siteground features](/images/migrated/tools-1.webp "tools")
-
-## 2. Siteground uptime, snelheid en laadtijd
-
-De laadtijd van een website is een van de belangrijkste aspecten als het gaat om gebruikerservaring.
-
-Wanneer een website sneller laat krijgen jouw klanten en websitebezoekers sneller de content waar ze naar zoeken. Niemand wilt seconden lang wachten voordat een webpagina geladen wordt. Vaak leidt dit tot lage conversie op jouw website en veel mensen die afhaken. Onderzoek wijst zelfs uit dat wanneer jouw website er langer dan 3 seconden over doet, 53% van de mobiele gebruikers al is afgehaakt. Een hoop gemiste kansen dus en een onderwerp om als ondernemer serieus te nemen.
-
-**Een goede laadtijd van jouw website zou tussen de 1 en 2 seconde moeten liggen.**
-
-Uit verschillende testjes over een periode van 12 maanden blijkt dat de gemiddelde laadtijd van een Siteground website 714 ms is. Minder dus dan één seconde!
-
-Bij Siteground staat snelheid bovenaan de lijst van belangrijke onderdelen. Dat zie je dan ook terug in de verschillende gebruikerservaringen. Een van de redenen daarvoor is de Siteground Optimizer, welke bij ieder pakket is inbegrepen. Zie de screenshots hieronder.
-
-![Twee1](/images/migrated/twee1-1.webp "twee1 (1)")
-
-![Twee2](/images/migrated/twee2-1.webp "twee2 (1)")
-
-![Twee3](/images/migrated/twee3-1.webp "twee3 (1)")
-
-**Uptime**
-
-Een ander belangrijke factor voor de prestaties van jouw website is de ‘uptime’. Dit houd in wanneer jouw website bereikbaar is. Natuurlijk verwacht je dat dit 100% is, maar geloof me maar als ik zeg dat er hosts zijn waarbij dat percentage drastisch lager ligt.
-
-Je kunt je voorstellen dat een website die eruit ligt sowieso geen conversie oplevert. Mensen komen dan waarschijnlijk op zo’n saaie standaard witte pagina terecht. Daarbij zorgt een lage uptime er ook voor dat je Google ranking omlaag gaat. Dit omdat je website simpelweg minder betrouwbaar is.
-
-![Hrank](/images/migrated/hrank-1.webp "hrank (1)")
-
-![Speed](/images/migrated/speed-1.webp "speed (1)")
-
-De uptime bij Siteground is dus 99,98%. Daarmee ben je er zeker van dat jouw website er niet plotseling uit komt te liggen. Op Siteground kun je dus bouwen en ervan uitgaan dat het goed zit.
-
-In 2023 zijn er slechts enkele momenten geweest dat Siteground er voor even uitlag. Om je een idee te geven, bij veel andere webhosts is dit vaak in de honderden keren.
-
-Dat die uptime zo hoog is komt met name door technologische oplossingen:
-
-*   Het Siteground platform is gemaakt op basis van Linux containers, welke staan voor stabiliteit zelfs met een grote piek in webverkeer.
-*   De verschillende klantaccounts zijn geïsoleerd van elkaar.
-*   Het ingebouwde monitor systeem checkt de servers iedere halve seconde en voorkomt errors zonder dat daar een mens aan te pas komt.
-
-## 3. Veiligheid en support bij Siteground
-
-Voor de veiligheid van jouw content en gegevens en die van jouw websitebezoekers zijn er tal van mogelijkheden binnen Sitergound. Ze grijpen meerdere facetten aan om preventief op te treden tegen cyberaanvallen.
-
-### SSL Certificaat
-
-Om te beginnen zit er bij ieder pakket een SSL certificaat zonder bijkomende kosten. Wanneer je jouw website bij Siteground host kun je daarbij direct gemakkelijk jouw SSL activeren via het dashboard. Alle data die via jouw website verzonden wordt is vervolgens encrypted en kan dus niet door derden worden ingezien. Dit is ook een belangrijk onderdeel voor jouw Google ranking en zorgt ervoor dat je in ieder geval op veiligheid niet wordt afgestraft in de zoekresultaten.
-
-### Realtime server checks
-
-Verder kun je voor de veiligheid van jouw website rekenen op continue server checks. Iedere halve seconde doorloopt een bot de verschillende servers om te kijken naar problemen. Waar nodig worden deze direct verholpen of gaat er iemand van Siteground aan de slag.
-
-### Kunstmatige intelligentie tegen bots
-
-Bots kunnen website overbelasten of spam versturen via jouw contactformulier. Dit wil je uiteraard voorkomen. Daarom heeft Siteground een oplossing in de vorm van kunstmatige intelligentie. Met deze AI anti-bot functie worden alle onbevoegde bots preventief aangepakt zodat deze geen nadelige gevolgen heeft voor jouw website.
-
-### WordPress monitoring
-
-Tot slot heb je nog een constante monitoring van kwetsbaarheden voor de mensen die het WordPress CMS gebruiken. Sowieso kun je een WordPress website al met één klik op knop installeren bij Siteground, maar verder krijg je dus ook beschikking over tools als anti-spam, IP’s blokkeren en de HackAlert plugin. Veiligheid voorop!
-
-Doordat de account bij Siteground gescheiden zijn, ben je er daarbij zeker van dat als er iets mis gaat bij één klant, niemand anders daar last van heeft.
-
-![siteground security tools](/images/migrated/secur-1.webp "siteground")
-
-### Support Siteground
-
-Buiten beveiliging is het ook belangrijk dat je kunt rekenen op een betrouwbare en actieve support. Gelukkig zit dat bij Siteground helemaal goed. Je hebt tal van mogelijkheden om 24/7/365 een oplossing te vinden voor eventuele hostingproblemen. Een belangrijke service als je erg afhankelijk bent van een goed draaiende website.
-
-Manieren om contact op te nemen met de Siteground support zijn er genoeg. Dit reikt van bellen tot live-chat en van e-mail tot een contactformulier. Verder is er ook een uitgebreide FAQ te vinden op de website.
-
-Het supportteam van Siteground bestaat uit zo’n 200 professionals. Dit maakt het voor hen mogelijk om dag en nacht waar dan ook ter wereld te reageren. Belangrijk om hierbij te vermelden is wel dat de support in het Engels geleverd wordt. Om je een idee te geven van hoe die support door klanten wordt gewaardeerd vind je hieronder een reactie.
-
-![Twee4](/images/migrated/twee4-1.webp "twee4 (1)")
-
-## 4. Siteground prijzen en pakketten
-
-Siteground is niet de goedkoopste website hosting op de markt. Als je daarnaar zoekt zou ik zeker even naar [Webreus](/blog/review/cloud86-webhosting-review/) doorverwijzen ;).
-
-Maar als je jouw website serieus neemt dan is Siteground een zeer betaalbare optie. Ze hebben meerdere pakketten die passen bij ieder formaat website.
-
-Alle prijzen zijn inclusief een **30 dagen garantieperiode**. Je kunt dus altijd je geld binnen die tijd terugvragen mocht je niet tevreden zijn. Veelal duurt het slechts een paar dagen voor het geld weer op je rekening staat.
-
-De verschillende pakketten zijn StartUp, GrowBig en GoGeek en deze zien er als volgt uit…
-
-## WordPress, webshop en website hosting
-
-**StartUp**
-
-€5,99 per maand voor 1 website, 10 GB SSD opslag, gratis SSL en alle basisfuncties.
-
-**GrowBig**
-
-€9,99 per maand voor een onbeperkt aantal websites, 20 GB SSD opslag, gratis SSL, alle basisfuncties, backup opslag, ingebouwd caching systeem voor snelheid, staging (als je jouw website wilt kopiëren).
-
-**GoGeek**
-
-€13,99 per maand voor een onbeperkt aantal websites, 40 GB SSD opslag, gratis SSL, alle basisfuncties, backup opslag, ingebouwd caching systeem voor snelheid, staging (als je jouw website wilt kopiëren), supersnelle PHP en prioriteitssupport.
-
-## 5. Voordelen en nadelen van Siteground
-
-Net als iedere andere hosting aanbieder heeft ook Siteground zo zijn voor- en nadelen.
-
-Met alle voordelen die in dit artikel al voorbij zijn gekomen weet je er waarschijnlijk al best wat. Toch kan het goed zijn ook de minpunten te belichten. Daarom hieronder een overzicht.
-
-               Voordelen
-
-**›** Gratis onbeperkt verkeer naar jouw website
-
-**›** Goede beveiliging, gratis SSL en additioneel SSH
-
-**›** Onbeperkt aantal websites vanaf GrowBig pakket
-
-**›** Website migratie inbegrepen en WP Migrator
-
-**›** CloudFare CDN is gratis beschikbaar
-
-**›** GoogleCloud data centers (waaronder ook die in Nederland)
-
-**›** E-mail en webshop functionaliteiten
-
-**›** 24/7/365 support desk
-
-**›** Een van de snelste laadtijden op de markt
-
-**›** Dagelijkse back-ups mogelijk
-
-**›** Onbeperkt aantal mailboxen en databases
-
-**›** 30 dagen niet-goed-geld-terug garantie
-
-**›** Hosting mogelijkheden voor WordPress, webshop en website
-
-              Nadelen
-
-**›** Siteground is betaalbaar, maar niet de goedkoopste in de markt
-
-**›** Domeinregistratie is niet bij de pakketten inbegrepen
-
-**›** Beperkte SSD opslag, zelfs in het grootste pakket
-
-**›** Geen Nederlandstalige klantenservice
-
-## 6. Conclusie Siteground review
-
-Zonder twijfel durf ik te stellen dat Siteground een geweldige host is met een goede prijs-kwaliteit verhouding. Ze bieden beveiliging van een hoge standaard en zijn koploper op het gebied van snelheid en innovatie.
-
-Siteground heeft zichzelf door de tijd heen bewezen tegenover bloggers, webshophouders en webeigenaren. De support is snel en Siteground wordt door tal van vooraanstaande platforms aangeraden, waaronder WordPress, Drupal en Joomla zelf!
-
-Verder zie je vaak dat mensen eerst hun website ergens anders hosten en later overstappen naar Siteground vanwege de snelheid, dat heb ik immers zelf ook gedaan. Daarom zou ik het aan iedereen aanraden om die stap te zetten. Siteground is er voor jou!
-
-[Bezoek Siteground website](/go/siteground)
+| Onderdeel | Stand van zaken op 20 september 2026 |
+|---|---|
+| Bedrijf | Opgericht op 22 maart 2004 in Sofia, Bulgarije; ruim 600 medewerkers |
+| Omvang | Meer dan 3 miljoen domeinen (2023) |
+| Infrastructuur | Google Cloud, 11 datacenters in 8 landen (VS, Nederland, VK, Duitsland, Frankrijk, Spanje, Australië, Singapore) plus een eigen CDN |
+| Beheer | Eigen Site Tools, geen cPanel meer |
+| Prijzen | In dollars: vanaf $2,99 per maand het eerste jaar, daarna $17,99 |
+| Support | 24/7 chat, tickets en telefoon, in het Engels |
+| Garantie | 30 dagen geld terug |
+| Trustpilot | 4,9 van 5 bij 30.687 reviews, 94% geeft vijf sterren |
+
+Bronnen: siteground.com, Wikipedia, WebsitePlanet en Trustpilot, gecontroleerd op 20 september 2026.
+
+![Rijen serverkasten onder een glazen dak met zachte wolken erboven](/images/spots/siteground-datacenter.webp "SiteGround draait sinds 2020 op Google Cloud, met een datacenter in Nederland")
+
+## Van Bulgaarse start-up tot Google Cloud
+
+<ol class="timeline not-prose">
+<li class="timeline__item"><span class="timeline__num">1</span><p class="timeline__year">2004</p><p class="timeline__title">Start in Sofia</p><p class="timeline__text">Een paar studievrienden beginnen een hostingbedrijf in Bulgarije. Het groeit uit tot een van de grootste onafhankelijke hosts van Europa.</p></li>
+<li class="timeline__item"><span class="timeline__num">2</span><p class="timeline__year">2020</p><p class="timeline__title">Google Cloud en Site Tools</p><p class="timeline__text">Alle klanten verhuizen naar Google Cloud met SSD-opslag. Tegelijk vervangt SiteGround het klassieke cPanel door zijn eigen beheerpaneel, Site Tools.</p></li>
+<li class="timeline__item"><span class="timeline__num">3</span><p class="timeline__year">2021 – 2022</p><p class="timeline__title">Forse prijsverhogingen</p><p class="timeline__text">De verlengprijzen gaan stevig omhoog. De instapprijs blijft laag, het verschil met de prijs daarna wordt groot.</p></li>
+<li class="timeline__item"><span class="timeline__num">4</span><p class="timeline__year">2023</p><p class="timeline__title">3 miljoen domeinen</p><p class="timeline__text">SiteGround host ruim 3 miljoen domeinen vanuit 11 datacenters in 8 landen, waaronder Nederland.</p></li>
+<li class="timeline__item timeline__item--now"><span class="timeline__num">5</span><p class="timeline__year">2026</p><p class="timeline__title">Sterk, maar niet meer de vanzelfsprekende keuze</p><p class="timeline__text">Nog steeds 4,9 op Trustpilot, maar niet meer op de aanbevolen lijst van WordPress.org (daar staan nu Pressable, Bluehost en Hostinger) en met prijzen in dollars die na het eerste jaar hard stijgen.</p></li>
+</ol>
+
+## Wat je krijgt bij SiteGround
+
+De lijst met mogelijkheden is lang; dit zijn de dingen die er voor een Nederlandse website toe doen.
+
+*   **Onbeperkt dataverkeer** bij elk pakket. Wel geldt per pakket een richtlijn voor het aantal bezoeken per maand (zie de prijstabel).
+*   **Google Cloud met SSD-opslag** en een datacenter in Nederland, zodat je site voor Nederlandse bezoekers dichtbij staat. Daarbovenop een eigen CDN dat kopieën van je site wereldwijd verspreidt.
+*   **Gratis SSL-certificaat**, zodat je site via https:// opent. Bij sommige hosts betaal je hier nog steeds voor.
+*   **WordPress in één klik**, met automatische updates en SiteGround's eigen optimalisatieplugin voor caching en snelheid.
+*   **Verhuizen** met de gratis SiteGround Migrator-plugin (alle pakketten). Laat je het liever door SiteGround zelf doen, dan is dat gratis voor één site bij GrowBig en GoGeek en kost het daarna $30 per site.
+*   **Dagelijkse back-ups**, met herstel in een paar klikken.
+*   **Staging** (een kopie van je site om wijzigingen te testen) vanaf GrowBig.
+*   **E-mail, WP-CLI en SSH** inbegrepen, voor wie zijn site ook via de commandoregel wil beheren.
+*   **Site Tools** in plaats van cPanel: SiteGround's eigen beheerpaneel, dat bewust simpeler is opgezet. Wie cPanel gewend is, moet even wennen.
+*   **24/7 support** via chat, tickets en telefoon, in het Engels. Snel en deskundig, dat is ook wat de Trustpilot-reviews steeds noemen.
+*   **30 dagen geld terug** op de gedeelde hostingpakketten.
+
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
+## Snelheid en uptime
+
+De laadtijd van je website is een van de belangrijkste onderdelen van de gebruikerservaring. Niemand wil seconden wachten op een pagina, en Google rekent snelheid al jaren mee. Een goede laadtijd ligt tussen de één en twee seconden.
+
+SiteGround bouwt zijn hele verhaal rond snelheid: Google Cloud-servers, SSD-opslag, een eigen CDN, een eigen cachinglaag en een optimalisatieplugin voor WordPress die afbeeldingen comprimeert en scripts uitstelt. Het platform is opgezet met geïsoleerde accounts (een probleem bij een andere klant raakt jou niet) en een bewakingssysteem dat servers continu controleert en de meeste problemen automatisch oplost.
+
+![Een wereldbol op een bureau met kleine oplichtende speldjes op acht plekken, verbonden door dunne lijnen](/images/spots/siteground-wereldbol.webp "Elf datacenters in acht landen, waaronder één in Nederland")
+
+Mijn eigen ervaring destijds: de site was merkbaar sneller dan bij de goedkope host waar ik vandaan kwam, en de verhuizing was op een werkdag binnen een uur geregeld zonder dat de site offline ging. Ze zetten de site eerst over en passen pas daarna de DNS aan. Harde snelheidsmetingen uit mijn tijd bij SiteGround heb ik niet meer, en de cijfers die ik hier eerder noemde waren van derden en jaren oud; die heb ik weggehaald. Wat je wél hebt: 30.000 Trustpilot-reviews die vrijwel allemaal over snelheid en support gaan.
+
+## Veiligheid
+
+Voor de veiligheid van je site en van de gegevens van je bezoekers heeft SiteGround meerdere lagen.
+
+*   **SSL bij elk pakket**, in één klik te activeren.
+*   **Continue servercontroles** die problemen signaleren voordat jij ze merkt.
+*   **Een AI-antibotsysteem** dat kwaadaardige bots blokkeert voordat ze je contactformulier volspammen of je server overbelasten.
+*   **WordPress-beveiliging**: een eigen security-plugin, monitoring op kwetsbaarheden en de mogelijkheid IP-adressen te blokkeren.
+*   **Geïsoleerde accounts**, zodat een gehackte site van een andere klant jouw site niet kan raken.
+
+## Prijzen van SiteGround in 2026
+
+SiteGround is niet de goedkoopste host, en de prijzen worden ook voor Nederlanders in dollars getoond, exclusief btw. De lage instapprijs geldt alleen als je een jaar vooruitbetaalt; daarna betaal je de verlengprijs. Dit zijn de gedeelde hostingpakketten op 20 september 2026:
+
+| Pakket | Eerste jaar per maand | Daarna per maand | Websites | Opslag | Richtlijn bezoeken per maand | Extra's |
+|---|---|---|---|---|---|---|
+| StartUp | $2,99 (± €2,61) | $17,99 (± €15,70) | 1 | 10 GB | 10.000 | Basis |
+| GrowBig | $4,99 (± €4,35) | $29,99 (± €26,17) | Onbeperkt | 20 GB | 100.000 | Staging en één gratis verhuizing door SiteGround |
+| GoGeek | $7,99 (± €6,97) | $44,99 (± €39,26) | Onbeperkt | 40 GB | 400.000 | Alles van GrowBig plus meer capaciteit en prioriteitssupport |
+
+Omgerekend tegen de koers van 18 september 2026 ($1 = €0,8726). Alle pakketten: onbeperkt dataverkeer, gratis SSL, dagelijkse back-ups, CDN, e-mail en de gratis Migrator-plugin. Bij elk pakket geldt de 30-dagengarantie.
+
+Het verschil tussen het eerste jaar en daarna is het belangrijkste dat je over SiteGround moet weten. Reken het uit voor drie jaar:
+
+<div class="tool not-prose" id="siteground-calc">
+<p class="tool__title">Wat kost SiteGround je echt over drie jaar?</p>
+<p class="tool__intro">Het eerste jaar rekent met de instapprijs, jaar twee en drie met de verlengprijs. De dollarkoers wordt ververst zodra de pagina geladen is.</p>
+<div class="tool__grid">
+<label class="tool__field">Pakket<select class="tool__input" id="siteground-plan"><option value="s" selected>StartUp</option><option value="g">GrowBig</option><option value="k">GoGeek</option></select></label>
+<label class="tool__field">Euro per dollar<input class="tool__input" id="siteground-rate" type="number" min="0" step="0.01" value="0.8726"></label>
+</div>
+<div class="tool__results">
+<div class="tool__result"><p class="tool__label">Jaar 1</p><p class="tool__value" id="siteground-out-y1">$ 36</p><p class="tool__sub" id="siteground-out-y1e">± € 31</p></div>
+<div class="tool__result"><p class="tool__label">Jaar 2 en 3, per jaar</p><p class="tool__value" id="siteground-out-y2">$ 216</p><p class="tool__sub" id="siteground-out-y2e">± € 188</p></div>
+<div class="tool__result"><p class="tool__label">Totaal over 3 jaar</p><p class="tool__value" id="siteground-out-total">± € 408</p><p class="tool__sub" id="siteground-out-avg">gemiddeld € 11 per maand</p></div>
+<div class="tool__result"><p class="tool__label">Cloud86 over 3 jaar</p><p class="tool__value">€ 286</p><p class="tool__sub">Managed WordPress Start, €7,95 × 36 maanden</p></div>
+</div>
+<p class="tool__note" id="siteground-note">Rekenvoorbeeld met de SiteGround-prijzen van 20 september 2026 en de dollarkoers van 18 september 2026 (Frankfurter, ECB), beide exclusief btw. Cloud86-prijs van dezelfde dag, bij drie jaar vooruitbetalen.</p>
+</div>
+
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var plans = { s: [2.99, 17.99], g: [4.99, 29.99], k: [7.99, 44.99] };
+  var fmt = function (sym, n) { return sym + ' ' + new Intl.NumberFormat('nl-NL', { maximumFractionDigits: 0 }).format(n); };
+  function calc() {
+    var p = plans[$('siteground-plan').value], r = +$('siteground-rate').value || 0;
+    var y1 = p[0] * 12, y2 = p[1] * 12, total = (y1 + 2 * y2) * r;
+    $('siteground-out-y1').textContent = fmt('$', y1); $('siteground-out-y1e').textContent = '± ' + fmt('€', y1 * r);
+    $('siteground-out-y2').textContent = fmt('$', y2); $('siteground-out-y2e').textContent = '± ' + fmt('€', y2 * r);
+    $('siteground-out-total').textContent = '± ' + fmt('€', total);
+    $('siteground-out-avg').textContent = 'gemiddeld ' + fmt('€', total / 36) + ' per maand';
+  }
+  $('siteground-plan').addEventListener('change', calc); $('siteground-rate').addEventListener('input', calc);
+  calc();
+  if (window.fetch) {
+    fetch('https://api.frankfurter.dev/v1/latest?from=USD&to=EUR').then(function (res) { return res.json(); }).then(function (d) {
+      if (d && d.rates && d.rates.EUR) {
+        $('siteground-rate').value = d.rates.EUR;
+        $('siteground-note').textContent = 'Rekenvoorbeeld met de SiteGround-prijzen van 20 september 2026 en de live dollarkoers van ' + d.date + ' (Frankfurter, ECB), beide exclusief btw. Cloud86-prijs van 20 september 2026, bij drie jaar vooruitbetalen.';
+        calc();
+      }
+    }).catch(function () { /* fallback rate stays */ });
+  }
+})();
+</script>
+
+Over drie jaar betaal je voor het kleinste SiteGround-pakket dus ruwweg €400, tegenover €286 voor managed WordPress hosting bij [Cloud86](/blog/review/cloud86-webhosting-review/), of ruim €100 voor gewone webhosting daar. En daar zit Nederlandse support bij. Dat was uiteindelijk de reden dat ik overstapte.
+
+![Een papieren prijskaartje met een dollarteken dat aan de hoek van een laptop hangt, een euromunt ernaast](/images/spots/siteground-prijskaartje.webp "Prijzen in dollars, ook voor Nederlanders, en na het eerste jaar tot zes keer hoger")
+
+## Voordelen en nadelen van SiteGround
+
+**Voordelen**
+
+*   Google Cloud-infrastructuur met een datacenter in Nederland en een eigen CDN
+*   Onbeperkt dataverkeer, gratis SSL, dagelijkse back-ups en staging (vanaf GrowBig)
+*   Onbeperkt aantal websites vanaf GrowBig
+*   Gratis verhuizen met de Migrator-plugin
+*   Uitstekende, snelle support, 24/7 via chat, tickets en telefoon
+*   4,9 op Trustpilot bij ruim 30.000 reviews
+*   30 dagen geld terug
+
+**Nadelen**
+
+*   Prijzen in dollars, exclusief btw, en per jaar vooruit
+*   Verlengprijs tot zes keer de instapprijs: StartUp gaat van $2,99 naar $17,99
+*   Support alleen in het Engels
+*   Beperkte opslag, ook in het grootste pakket (40 GB)
+*   Domeinnaam niet inbegrepen
+*   Niet meer op de lijst van door WordPress.org aanbevolen hosts
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+
+## Conclusie SiteGround review
+
+SiteGround is een uitstekende host: snel, veilig, met support die zijn reputatie waarmaakt en een infrastructuur waar de meeste Nederlandse hosts niet aan kunnen tippen. Het eerste jaar is het bovendien spotgoedkoop.
+
+Maar voor een Nederlandse ondernemer met één WordPress-site is het in 2026 niet meer de logische keuze. De verlengprijs van $17,99 per maand voor één site, de facturen in dollars en de Engelstalige support maken dat een Nederlandse host met vergelijkbare snelheid, zoals [Cloud86](/go/cloud86), voor de meeste lezers van deze site beter past. Dat is ook precies de route die ik zelf heb gelopen; lees mijn [Cloud86 review](/blog/review/cloud86-webhosting-review/) voor het vervolg.
+
+Kies wél voor SiteGround als je een internationaal publiek hebt, meerdere sites op één account wilt draaien (GrowBig), Engelstalige support geen probleem vindt en je de verlengprijs bewust accepteert. Dan krijg je een van de best beoordeelde hosts ter wereld. Wie een blog begint, vindt het complete stappenplan in mijn artikel over [een blog starten](/blog/ondernemen/blog-beginnen-starten-stappenplan/).
+
+[Bezoek de website van SiteGround](/go/siteground)

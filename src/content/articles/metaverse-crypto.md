@@ -1,8 +1,8 @@
 ---
-title: "22 Beste Metaverse crypto om te kopen in 2024"
-description: "Een virtuele wereld waarin alles mogelijk is. Welkom in de Metaverse! Of, althans, dé Metaverse is op dit moment wat moeilijk te zeggen. Er zijn…"
+title: "Metaverse crypto in 2026 – Wat is er over van de 22 munten uit de hype?"
+description: "Metaverse crypto in 2026: live koersen, de 22 munten uit mijn lijst met hun afstand tot de top, en wat er met Decentraland, The Sandbox en Meta gebeurde."
 date: 2022-10-03
-updated: 2025-01-21
+updated: 2026-09-19
 category: "web3"
 slug: "metaverse-crypto"
 lang: "nl"
@@ -10,338 +10,123 @@ draft: false
 featuredImage: "/images/headers/metaverse-crypto.webp"
 ---
 
-Een virtuele wereld waarin alles mogelijk is. Welkom in de Metaverse! Of, althans, dé Metaverse is op dit moment wat moeilijk te zeggen. Er zijn namelijk tal van Metaverse projecten opgekomen in de laatste jaren. Dus is de grote vraag, welke Metaverse crypto er in 2024 nog toe doen.
+Een virtuele wereld waarin alles mogelijk is. Welkom in de metaverse! Zo begon dit artikel in oktober 2022, met een lijst van **22 metaverse crypto** waarvan ik de potentie zag. Decentraland, The Sandbox, Axie Infinity, ApeCoin: munten van digitale werelden waar je land kocht, kleding droeg en naar concerten van Snoop Dogg ging.
+
+Vier jaar later staat vrijwel elke munt uit die lijst meer dan 98% onder zijn top. Drie ervan worden niet eens meer bijgehouden door CoinGecko. Meta, het bedrijf dat zichzelf naar de metaverse vernoemde, verloor er in 2025 19,2 miljard dollar op en bevroor begin 2026 zijn eigen virtuele wereld op zijn eigen brillen. The Sandbox ontsloeg de helft van zijn mensen.
+
+Ik laat dit artikel bewust online, maar dan eerlijk. Je ziet hieronder de live koersen van de vier bekendste metaverse-munten en hoe ver ze onder hun top staan, een tijdlijn van hoe de hype leegliep, de volledige lijst van 22 munten met hun stand op 20 september 2026 en waar je ze (nog) kunt kopen. En mijn advies of je er in 2026 nog iets mee moet. Wil je weten waar het in crypto in 2026 wél over gaat, van stablecoins tot tokenisatie? Dat staat in mijn [crypto-guide](/blog/web3/handelen-in-crypto-valuta/).
+
+<div class="live-stats not-prose" id="metaverse-live" data-fallback-date="20 september 2026">
+<div class="live-stats__tile"><p class="live-stats__label">Decentraland (MANA)</p><p class="live-stats__value" data-live="decentraland">€ 0,0705</p><p class="live-stats__sub" data-live="decentraland-sub">98,6% onder de top van november 2021</p></div>
+<div class="live-stats__tile"><p class="live-stats__label">The Sandbox (SAND)</p><p class="live-stats__value" data-live="the-sandbox">€ 0,0345</p><p class="live-stats__sub" data-live="the-sandbox-sub">99,5% onder de top van november 2021</p></div>
+<div class="live-stats__tile"><p class="live-stats__label">Axie Infinity (AXS)</p><p class="live-stats__value" data-live="axie-infinity">€ 0,869</p><p class="live-stats__sub" data-live="axie-infinity-sub">99,4% onder de top van november 2021</p></div>
+<div class="live-stats__tile"><p class="live-stats__label">ApeCoin (APE)</p><p class="live-stats__value" data-live="apecoin">€ 0,119</p><p class="live-stats__sub" data-live="apecoin-sub">99,5% onder de top van april 2022</p></div>
+<p class="live-stats__note" data-live="note">Koersen van 20 september 2026. Zodra de pagina geladen is, worden ze ververst via CoinGecko.</p>
+</div>
+
+<script>
+(function () {
+  var box = document.getElementById('metaverse-live'); if (!box || !window.fetch) return;
+  var q = function (k) { return box.querySelector('[data-live="' + k + '"]'); };
+  var nl = function (n, d) { return new Intl.NumberFormat('nl-NL', { minimumFractionDigits: d, maximumFractionDigits: d }).format(n); };
+  fetch('https://api.coingecko.com/api/v3/coins/markets?vs_currency=eur&ids=decentraland,the-sandbox,axie-infinity,apecoin')
+    .then(function (r) { return r.json(); })
+    .then(function (list) {
+      if (!list || !list.length) return;
+      list.forEach(function (c) {
+        var el = q(c.id); if (!el) return;
+        var d = c.current_price < 0.1 ? 4 : (c.current_price < 10 ? 3 : 2);
+        el.textContent = '€ ' + nl(c.current_price, d);
+        q(c.id + '-sub').textContent = nl(Math.abs(c.ath_change_percentage), 1) + '% onder de top van ' + new Date(c.ath_date).toLocaleDateString('nl-NL', { month: 'long', year: 'numeric' });
+      });
+      q('note').textContent = 'Live koersen via CoinGecko, opgehaald op ' + new Date().toLocaleString('nl-NL', { day: 'numeric', month: 'long', year: 'numeric', hour: '2-digit', minute: '2-digit' }) + '.';
+    }).catch(function () { /* fallback numbers stay */ });
+})();
+</script>
 
-In dit artikel vind je daarvoor **22 Metaverse crypto** waarvan wij de potentie inzien. We doorlopen wat deze crypto doen en waar je ze kan kopen. Dat is uiteraard geen financieel advies, maar wel vet handig als je je wilt onderdompelen in de mogelijkheden van de Metaverse!
+## Wat zijn metaverse crypto?
 
-**[Wil je veilig Metaverse crypto kopen bewaren? Doe dit dan op de aller goedkoopste Nederlandse exchange, Finst >>](/go/finst)**
+De metaverse is geen nieuwe term: hij komt uit het sciencefictionboek Snow Crash uit 1992. Bekend werd hij toen Facebook zich in oktober 2021 omdoopte tot Meta. **Een metaverse is een digitale wereld** waar mensen samenkomen: gamen, handelen, een galerie bezoeken, een vergadering houden. Een Zoom-call, maar dan in 3D.
 
-Dus nog even een korte introductie, want waar hebben we het bij Metaverse crypto eigenlijk over?
+Al dat virtuele verkeer heeft een munt nodig, en dat zijn de metaverse crypto. Met MANA koop je land en spullen in Decentraland, met SAND in The Sandbox, met AXS speel en stem je in Axie Infinity. De munten zijn buiten die werelden verhandelbaar voor euro's, en precies daarom kocht iedereen ze in 2021: niet om ermee te spelen, maar in de hoop dat ze meer waard zouden worden als de werelden vol liepen.
 
-## Wat zijn Metaverse crypto?
+De werelden liepen niet vol. Dat is in één zin wat er gebeurde.
 
-De Metaverse is geen nieuwe term, maar kwam al voor in een sciencefictionboek in 1992. Toch heeft de term veel bekendheid gekregen toen Facebook zijn naam veranderde in Meta, wat zoveel als ‘beyond/voorbij’ betekent. **Een Metaverse is een digitale wereld** waar mensen samen kunnen komen. Een beetje zoals een Zoom call, maar dan in 3D.
+![Een VR-bril die stof verzamelt op een boekenplank](/images/spots/metaverse-vr-bril-stof.webp "De metaverse in 2026: de bril ligt op de plank")
 
-![Metaverse crypto munten](/images/migrated/metaverse-crypto-munten-1-scaled.webp "Metaverse crypto munten")
+## Hoe de metaverse-hype opkwam en leegliep
 
-De mogelijkheden voor een Metaverse zijn eindeloos, zeker nu de lijst aan verschillende Metaverses steeds langer wordt. Je kunt er met mensen afspreken, gamen, traden, een kunstgalerij bezoeken, producten kopen, brainstormsessies houden en noem maar op. Eigenlijk kun je er alles doen wat je maar mogelijk acht in een virtuele omgeving.
+<ol class="timeline not-prose">
+<li class="timeline__item"><span class="timeline__num">1</span><p class="timeline__year">1992</p><p class="timeline__title">Het woord</p><p class="timeline__text">Neal Stephenson bedenkt 'metaverse' in zijn roman Snow Crash: een virtuele wereld waar je met een avatar in rondloopt.</p></li>
+<li class="timeline__item"><span class="timeline__num">2</span><p class="timeline__year">2020</p><p class="timeline__title">Decentraland opent</p><p class="timeline__text">Na jaren bouwen gaat Decentraland in februari open in de browser. Land dat in 2017 zo'n 20 dollar kostte, wordt in de coronajaren duizenden dollars waard.</p></li>
+<li class="timeline__item"><span class="timeline__num">3</span><p class="timeline__year">2021</p><p class="timeline__title">De hype</p><p class="timeline__text">Facebook wordt Meta (oktober). In november betaalt een vastgoedfonds 2,43 miljoen dollar voor een stuk land in Decentraland; in december wisselt in The Sandbox land voor 4,3 miljoen van eigenaar. MANA en SAND bereiken hun top.</p></li>
+<li class="timeline__item"><span class="timeline__num">4</span><p class="timeline__year">2022</p><p class="timeline__title">De lege werelden</p><p class="timeline__text">Crypto stort in. In oktober meldt DappRadar dat Decentraland op één dag 38 actieve gebruikers met een transactie telt; The Sandbox komt op zo'n 500 per dag. De platforms spreken het tegen, maar de toon is gezet.</p></li>
+<li class="timeline__item"><span class="timeline__num">5</span><p class="timeline__year">2023</p><p class="timeline__title">Meta kiest AI</p><p class="timeline__text">Zuckerberg verlegt in februari de koers naar kunstmatige intelligentie. Het woord metaverse verdwijnt uit de presentaties.</p></li>
+<li class="timeline__item"><span class="timeline__num">6</span><p class="timeline__year">2024</p><p class="timeline__title">Tweede poging</p><p class="timeline__text">Decentraland lanceert in oktober een nieuwe desktopversie met quests en minigames. Apple brengt de Vision Pro uit. De koersen bewegen nauwelijks.</p></li>
+<li class="timeline__item"><span class="timeline__num">7</span><p class="timeline__year">2025</p><p class="timeline__title">The Sandbox halveert</p><p class="timeline__text">In augustus ontslaat The Sandbox meer dan de helft van zijn personeel, de oprichters stappen terug en het bedrijf richt zich op een memecoin-platform. Meta's Reality Labs verliest dit jaar 19,2 miljard dollar.</p></li>
+<li class="timeline__item timeline__item--now"><span class="timeline__num">8</span><p class="timeline__year">2026 – nu</p><p class="timeline__title">Geparkeerd</p><p class="timeline__text">Meta ontslaat in januari zo'n duizend mensen bij Reality Labs en bevriest Horizon Worlds op zijn Quest-brillen; de focus gaat naar slimme brillen. De metaverse-munten staan 98 tot 100% onder hun top.</p></li>
+</ol>
 
-Al dit **virtuele (economische) verkeer** heeft natuurlijk ook een munteenheid nodig en precies daar komen de **Metaverse crypto** aan bod. Deze digitale currencies maken transacties in de Metaverse mogelijk en zijn daarbuiten verhandelbaar voor euro’s en dollars.
+## De 22 munten uit mijn lijst, vijf jaar later
 
-Investeerders hoeven daarmee ook niet per se in de Metaverse actief te zijn om deze crypto te verhandelen. Het kopen van Metaverse crypto kan namelijk vaak gewoon op [een van de vele crypto exchanges](/blog/web3/beste-crypto-exchange/).
+Dit is de volledige lijst uit 2022, in dezelfde volgorde, met de koers in euro's op 20 september 2026 volgens CoinGecko, de hoogste koers ooit, hoe ver de munt daaronder staat, en of je hem op 20 september 2026 bij een Nederlandse exchange met MiCA-vergunning kon kopen (nagekeken op de muntenlijst van Finst en de marktenlijst van Bitvavo).
 
-Het is één van de manieren om te **investeren in de Metaverse**. En vaak is het ook die crypto die je nodig hebt om bijvoorbeeld een virtueel stuk land of voorwerp te kopen.
+| # | Munt | Koers | Top ooit | Onder de top | Te koop in NL |
+|---|---|---|---|---|---|
+| 1 | Decentraland (MANA) | € 0,070 | € 5,21 (nov 2021) | 98,6% | Finst, Bitvavo |
+| 2 | The Sandbox (SAND) | € 0,035 | € 7,49 (nov 2021) | 99,5% | Finst, Bitvavo |
+| 3 | ApeCoin (APE) | € 0,12 | € 25,43 (apr 2022) | 99,5% | Finst, Bitvavo |
+| 4 | Axie Infinity (AXS) | € 0,87 | € 142,75 (nov 2021) | 99,4% | Finst, Bitvavo |
+| 5 | Enjin (ENJ) | € 0,023 | € 4,29 (nov 2021) | 99,5% | Bitvavo |
+| 6 | Gala (GALA) | € 0,0016 | € 0,74 (nov 2021) | 99,8% | Finst, Bitvavo |
+| 7 | My Neighbor Alice (ALICE) | € 0,12 | € 34,29 (mrt 2021) | 99,7% | Finst, Bitvavo |
+| 8 | Aavegotchi (GHST) | € 0,056 | € 3,38 (apr 2024) | 98,3% | Nee |
+| 9 | Flow (FLOW) | € 0,026 | € 35,97 (apr 2021) | 99,9% | Nee |
+| 10 | Wemix (WEMIX) | € 0,17 | € 21,89 (nov 2021) | 99,2% | Nee |
+| 11 | Netvrk (NETVR) | € 0,0009 | € 6,54 (nov 2021) | 99,99% | Nee |
+| 12 | Highstreet (HIGH) | € 0,027 | € 33,88 (dec 2021) | 99,9% | Nee |
+| 13 | Floki (FLOKI) | € 0,000022 | € 0,00032 (jun 2024) | 93,0% | Finst, Bitvavo |
+| 14 | Metahero (HERO) | € 0,00049 | € 0,22 (dec 2021) | 99,8% | Nee |
+| 15 | Terra Virtua Kolect (TVK) | niet meer gevolgd | – | – | Nee |
+| 16 | Epik Prime (EPIK) | niet meer gevolgd | – | – | Nee |
+| 17 | RFOX (RFOX) | € 0,00015 | € 0,32 (apr 2021) | 99,95% | Nee |
+| 18 | Bloktopia (BLOK) | niet meer gevolgd | – | – | Nee |
+| 19 | Render (RENDER) | € 1,33 | € 12,42 (mrt 2024) | 89,3% | Finst, Bitvavo |
+| 20 | Star Atlas (ATLAS) | € 0,00012 | € 0,23 (sep 2021) | 99,9% | Nee |
+| 21 | Alien Worlds (TLM) | € 0,0013 | € 0,61 (mei 2021) | 99,8% | Finst, Bitvavo |
+| 22 | Cornucopias (COPI) | € 0,0012 | € 0,12 (dec 2023) | 99,0% | Nee |
 
-<!-- TODO: verify this data is still current (meme-coin promo, Pikamoon pick "begin 2025", MEXC) -->
-## Klaar om de volgende 100x meme-coin sensatie te ontdekken? 🚀
+Bron: CoinGecko, koersen en toppen in euro's, 20 september 2026. Wat opvalt:
 
-Duik in de wereld van meme-coins en grijp potentieel enorme winsten! Maar hoe koop je die veelbelovende tokens **voordat** ze op de grote exchanges verschijnen? 🤯
+*   **Negentien van de 22 staan 98% of meer onder hun top.** Wie op de top kocht en vasthield, heeft van elke 100 euro nog 1 of 2 euro over. Ter vergelijking: bitcoin stond half september 2026 zo'n 40% onder zijn top van oktober 2025.
+*   **Drie munten bestaan feitelijk niet meer.** Terra Virtua Kolect, Epik Prime en Bloktopia worden niet meer gevolgd door CoinGecko; van Bloktopia en Metahero reageerde de website in september 2026 ook niet meer.
+*   **De twee 'minst slechte' zijn geen metaverse-munten meer.** Render (89% onder de top) verhuurt rekenkracht van grafische kaarten en vond in AI een nieuwe klant. Floki (93% onder de top) is vooral een memecoin. Allebei hebben ze hun top ook later, in 2024, en niet in 2021.
+*   **De grote werelden leven nog, hun munten nauwelijks.** Decentraland heeft sinds 2024 een nieuwe desktopversie en wordt bestuurd door zijn DAO; The Sandbox draait door met de helft van het personeel. Maar MANA en SAND zijn samen minder dan 250 miljoen euro waard, een fractie van 2021.
 
-**Volg deze simpele stappen:**
+![Een klein blokjesstadje op een tafel met een grafiek erboven die steil omlaag loopt](/images/spots/metaverse-grafiek-omlaag.webp "Van de 22 munten staan er negentien meer dan 98% onder hun top")
 
-1.  Open een account op dé crypto exchange voor kleine munten; [MEXC](/go/mexc)
-2.  Stort je funds op je MEXC account (bijv. USDT of Cardano) of gebruik Moonpay om met euro crypto te kopen.
-3.  Ga op jacht naar de nieuwste meme-coins: Doe je onderzoek en vind die verborgen pareltjes met x10 of zelfs x100 potentieel! (onze meme-coin pick voor begin 2025 is [PIKAMOON](https://www.pikamoon.io/))
-4.  Koop de meme coin en fingers crossed! 🤞
+In 2022 stond hier ook nog een promotie voor een memecoin die je op een buitenlandse exchange kon kopen. Die heb ik verwijderd: ik kon niet meer nagaan wat er van het project geworden is, en die exchange mag Nederlanders sinds 2026 niet meer bedienen. Daarover hieronder meer.
 
-**Let op:** Investeer alleen wat je kunt missen. Meme-coins zijn volatiel en risicovol. Doe altijd je eigen onderzoek!
+## Waar koop je metaverse crypto in 2026?
 
-**Ready? [Maak je account op MEXC](/go/mexc) en check onze favoriete meme-coin Pikamoon!**
+De grootste verandering sinds 2022 is niet de koers, maar de regels. Sinds eind 2024 geldt in de EU de MiCA-verordening: wie in Nederland crypto wil aanbieden, heeft een vergunning nodig van de AFM of een andere Europese toezichthouder. De overgangsperiode liep op 1 juli 2026 af. Wat dat voor dit lijstje betekent:
 
-![pikamoon-kopen](/images/migrated/pikamoon-kopen-1.webp "pikamoon-kopen")
+**Nederlandse exchanges met vergunning.** De negen munten uit de tabel met "Finst, Bitvavo" of "Bitvavo" koop je gewoon met iDEAL bij [Finst](/go/finst) (0,15% per transactie, de goedkoopste van Nederland) of [Bitvavo](/go/bitvavo) (de grootste). Mijn ervaringen staan in mijn [Finst-review](/blog/review/finst-crypto-exchange/) en [Bitvavo-review](/blog/review/bitvavo-review-crypto/).
 
-### Koop Pikamoon
+**Kleinere munten.** Die stonden in 2022 op grote buitenlandse platforms. KuCoin heeft sinds november 2025 een Europese vergunning via Oostenrijk en mag Nederlanders dus bedienen. [Binance](/go/binance), [MEXC](/go/mexc) en [Bitget](/go/bitget) hebben zo'n vergunning niet: Binance is al sinds juli 2023 niet beschikbaar voor Nederlanders, MEXC stopt in november 2026 met zijn Nederlandse klanten en Bitget biedt in Europa geen diensten aan tot het een vergunning heeft. Die links laat ik staan voor lezers buiten de EU; als Nederlander of Belg kun je er niet (meer) terecht. <!-- TODO: partnerlink /go/binance is dood voor NL: geen MiCA-vergunning, niet beschikbaar voor Nederlanders sinds juli 2023 --> <!-- TODO: partnerlink /go/mexc is dood voor NL: geen MiCA-vergunning, MEXC beëindigt Nederlandse klanten in november 2026 (AFM-waarschuwing september 2025) --> <!-- TODO: partnerlink /go/bitget is dood voor NL: geen MiCA-vergunning, Bitget biedt geen diensten in de EER tot het een vergunning heeft -->
 
-Onze meme-coin pick voor begin 2025! Deze hebben we uitgekozen omdat het behalve een meme ook een eigen game heeft. Daarbij is het team al een jaar actief bezig met continue updates!
+Mijn advies: koop niets wat niet bij een exchange met Europese vergunning staat. Niet omdat het verboden is om ergens anders te kopen, maar omdat een munt die geen enkel gereguleerd platform wil noteren, meestal een reden heeft.
 
-[Koop Pikamoon $PIKA](/go/mexc)
+## Is investeren in metaverse crypto in 2026 nog iets?
 
-_Wij hebben **geen** **affiliatie** met dit project. Wees je bewust van de risico’s die met meme-coins gepaard gaan. Je kunt je inleg verliezen._
+Als thema: nee. In 2022 schreef ik dat je moest spreiden over meerdere kanshebbers, omdat je niet wist welke metaverse zou winnen. Het antwoord bleek: geen van allen. De werelden met bezoekers heten Roblox en Fortnite en hebben geen munt; waar je daar wél geld verdient, lees je in [geld verdienen met de metaverse](/blog/web3/geld-verdienen-metaverse/).
 
-## Metaverse crypto top 22
+Als les: ja. Een munt van een virtuele wereld is alleen iets waard als die wereld gebruikt wordt. Kijk dus niet naar de roadmap maar naar de bezoekers, en wees eerlijk over waarom je koopt. Ik kocht in 2022 zelf land en munten omdat ik dacht dat anderen er later meer voor zouden betalen. Dat is geen investering, dat is een gok op de volgende koper.
 
-1\. Decentraland (MANA)  
-2\. The Sandbox (SAND)  
-3\. Apecoin (APE)  
-4\. Axie Infinity (AXS)  
-5\. Enjin (ENJ)  
-6\. Gala Games (GALA)  
-7\. My Neighbor Alice (ALICE)  
-8\. Aavegotchi (GHST)  
-9\. Flow Blockchain (FLOW)  
-10\. Wemix (WEMIX)  
-11\. NetVRK (NTVRK)  
-12\. Highstreet (HIGH)  
-13\. Floki Inu (FLOKI)  
-14\. Metahero (HERO)  
-15\. Terra Virtua Kolect (TVK)  
-16\. Epik Prime (EPIK)  
-17\. Rfox (RFOX)  
-18\. Blocktopia (BLOK)  
-19\. Render Network (RNDR)  
-20\. Star Atlas (ATLAS)  
-21\. Alien Worlds (TLM)  
-22\. Cornucopias (COPI)
+Wat ik in 2026 wel doe: elke maand een vast bedrag in de grote munten, bij een exchange met vergunning, en er verder niet naar kijken. Saai, maar het werkt door de cycli heen. Hoe dat precies gaat, wat het kost, hoe staking en box 3 meetellen en welke munten in 2026 groot zijn, staat allemaal in [geld verdienen met crypto in 2026](/blog/web3/handelen-in-crypto-valuta/). Wil je toch een metaverse-munt in je portfolio omdat je in de wereld erachter gelooft? Neem er dan één, klein, en alleen met geld dat je kunt missen.
 
-## 1. Decentraland (MANA)
+## Conclusie: metaverse crypto in 2026
 
-[Koop op Finst](/go/finst)
+De metaverse-hype van 2021 leverde een lijst van 22 munten op die in 2026 vrijwel allemaal 98% of meer onder hun top staan, en drie die er niet meer zijn. De werelden zelf bestaan nog, maar leeg. Meta gaf er meer dan 80 miljard dollar aan uit en koos voor slimme brillen. Het is een van de duidelijkste voorbeelden van een hype die geen gebruik werd.
 
-![Decentraland Metaverse](/images/migrated/decentraland-metaverse.webp "Decentraland Metaverse")
-
-Decentraland is een **innovatief Metaverse-platform op de Ethereum-blockchain**, dat een virtuele wereld biedt waarin gebruikers niet alleen kunnen verkennen en interactie hebben, maar ook unieke ervaringen kunnen creëren en delen.
-
-Als kern van dit digitale universum fungeert de **MANA-valuta**, waarmee land en diverse digitale activa kunnen worden aangeschaft. Dit platform onderscheidt zich door zijn gebruikers de mogelijkheid te bieden om met behulp van een intuïtief drag-en-drop-systeem zelf te bouwen en hun digitale ruimte naar eigen inzicht in te richten, variërend van de realisatie van droomhuizen tot het organiseren van evenementen en het openen van kunstgalerijen.
-
-Met een sterke nadruk op de gemeenschap en de mogelijkheid tot creatieve expressie biedt Decentraland een unieke, gedecentraliseerde ervaring binnen de wereld van de Metaverse.
-
-[› Koop deze Metaverse crypto op Finst](/go/finst)
-
-## 2. The Sandbox (SAND)
-
-[Koop op Finst](/go/finst)
-
-![The Sandbox Metaverse](/images/migrated/the-sandbox-metaverse.webp "The Sandbox Metaverse")
-
-The Sandbox is een dynamisch Metaverse-platform op de Ethereum-blockchain, waar gebruikers unieke digitale ervaringen kunnen creëren, bezitten, en verhandelen. Het staat bekend om zijn sterke gemeenschap en de integratie van bekende merken en beroemdheden, zoals **het virtuele concert van Snoop Dogg**.
-
-Dit platform moedigt creativiteit en innovatie aan door gebruikers in staat te stellen hun eigen spellen, digitale activa en ervaringen te bouwen met behulp van **voxel-technologie**. Het streeft ernaar een gedecentraliseerd alternatief te bieden voor traditionele spellen, met een focus op eigendom en economische kansen binnen de digitale wereld.
-
-[› Koop deze Metaverse crypto op Finst](/go/finst)
-
-## 3. Apecoin (APE)
-
-[Koop op Finst](/go/finst)
-
-![Apecoin APE Bored Ape Yacht Club](/images/migrated/apecoin-bored-ape-yacht-club-1.webp "Apecoin APE Bored Ape Yacht Club")
-
-**ApeCoin** is een ERC-20 governance- en utility-token dat de kern vormt van het APE-ecosysteem, gericht op het empoweren van een gedecentraliseerde gemeenschap in de voorhoede van web3. Het dient meerdere doeleinden binnen het ecosysteem, waaronder governance, waarbij ApeCoin-houders kunnen deelnemen aan de **ApeCoin DAO** voor besluitvorming; een unificatiemiddel voor uitgaven binnen het ecosysteem; toegang tot exclusieve inhoud en ervaringen; en als een stimulans voor ontwikkelaars om APE te integreren in hun projecten. ApeCoin benadrukt gemeenschapsgeleide initiatieven en culturele vooruitgang in de metaverse.
-
-[› Koop deze Metaverse crypto op Finst](/go/finst)
-
-## 4. Axie Infinity (AXS)
-
-[Koop op Finst](/go/finst)
-
-![Axie Infinity AXS](/images/migrated/axie-infinity-axs-1.webp "Axie Infinity AXS")
-
-Met meer dan een kwart miljoen dagelijkse spelers is **Axie Infinity** een vrij grote Metaverse game. De spelers bezitten de AXS tokens waarmee ze het spel kunnen beïnvloeden. Daar kunnen ze hun rijk bouwen, zoeken naar schaarse resources en deelnemen aan een ware treasure hunt. De beste en meest actieve spelers verdienen hier geld mee volgens het zogenoemde Play2Earn concept.
-
-Aan hoeveel AXS je kunt verdienen met het spelen van de game zit al vrij snel een max. Daarbij is het goed om te weten dat je voor het spelen van de game ook 3 NFTs nodig hebt genaamd Axies. Beginnen is dus zeker niet gratis.
-
-[› Koop deze Metaverse crypto op Finst](/go/finst)
-
-## 5. Enjin (ENJ)
-
-[Koop op Finst](/go/finst)
-
-![Enjin ENJ metaverse crypto](/images/migrated/enjin-metaverse-crypto-1.webp "Enjin ENJ metaverse crypto")
-
-**Enjin Coin (ENJ)** is een innovatieve cryptocurrency die als brandstof dient voor een scala aan blockchain-gebaseerde producten en diensten gericht op de gaming-industrie en het creëren van virtuele werelden. Het stelt ontwikkelaars in staat om unieke digitale activa te minten, beheren en integreren binnen hun applicaties en spellen. ENJ biedt ook mechanismen voor governance, veiligheid, en als betaalmiddel voor transactiekosten op het Enjin-platform, waarbij de nadruk ligt op echte eigendomsrechten en economische mogelijkheden voor gebruikers.
-
-Op het **Enjin** platform kunnen gebruikers virtuele items kopen, verkopen en opslaan. De digitale wallet kun je verbinden met games om jouw in-game items te gebruiken. De Metaverse crypto ENJ wordt gebruikt voor de transacties. Enjin is dus geen Metaverse op zichzelf, maar fungeert als onderdeel van de infrastructuur.
-
-[› Koop deze Metaverse crypto op Finst](/go/finst)
-
-## 6. Gala Games (GALA)
-
-[Koop op Finst](/go/finst)
-
-![Gala Games Crypto](/images/migrated/gala-games-crypto-1.webp "Gala Games Crypto")
-
-**Gala Games** geeft gamers de controle over hun game ervaring. Spelers kunnen er NFTs bezitten, kopen en verkopen met verschillende in-game functionaliteiten. De games zijn gratis om te spelen, zonder memberships of verplichte fees. Samen met het gigantische Epic Games lanceerde Gala Games het spel Grit. In deze battle game kun je strijden voor NFT trading cards.
-
-[› Koop deze Metaverse crypto op Finst](/go/finst)
-
-## 7. My Neighbor Alice (ALICE)
-
-[Koop op Finst](/go/finst)
-
-![My Neighbor Alice](/images/migrated/my-neighbor-alice-crypto-1.webp "My Neighbor Alice")
-
-**My Neighbor Alice** is een innovatieve multiplayer bouw- en boerderijsimulatiegame die blockchain-technologie integreert, waardoor spelers land kunnen kopen, ontwikkelen, en inrichten binnen een levendige virtuele wereld.
-
-Dit spel combineert traditionele game-ervaringen met **gedecentraliseerde financiën (DeFi) en non-fungible tokens (NFT’s)**, waardoor spelers echte eigendomsrechten hebben over hun in-game items en land. Het biedt een toegankelijke introductie tot de wereld van blockchain en crypto, gericht op het bouwen van een sterke, interactieve gemeenschap.
-
-[› Koop deze Metaverse crypto op Finst](/go/finst)
-
-## 8. Aavegotchi (GHST)
-
-[Koop op Bitvavo](/go/bitvavo)
-
-![Aavegotchi (GHST) Metaverse crypto](/images/migrated/aavegotchi-metaverse-crypto-1.webp "Aavegotchi (GHST) Metaverse crypto")
-
-**Aavegotchi** is een crypto collectibles game. Spaar ze allemaal! De spelers kunnen verschillende NFT avatars bezitten welke zij kunnen staken in de Aavegotchi Metaverse. Hiermee verdienen zij de GHST tokens. Aavegotchi is daarmee een spel dat de mogelijkheden van Decentralized Finance met NFTs combineert. De Aavegotchi’s zelf zijn pixelachtige geesten welke beter (lees: meer waard) kunnen worden door het spelen van onder andere mini-games.
-
-[› Koop deze Metaverse crypto op Bitvavo](/go/bitvavo)
-
-## 9. Flow Blockchain (FLOW)
-
-[Koop op Bitvavo](/go/bitvavo)
-
-![Flow Blockchain](/images/migrated/flow-blockchain-metaverse-crypto-1.webp "Flow Blockchain")
-
-**Flow** is een efficiënte blockchain die helpt om apps, games en digital assets te ondersteunen. Privacy en veiligheid zijn daarbij het uitgangspunt. De blockchain biedt verschillende tools en support aan voor developers en is specifiek ontworpen voor crypto games en NFTs.
-
-[› Koop deze Metaverse crypto op Bitvavo](/go/bitvavo)
-
-## 10. Wemix (WEMIX)
-
-[Koop op Kucoin](/go/kucoin)
-
-![Wemix NFT gaming](/images/migrated/wemix-blockchain-netwerk-1.webp "Wemix NFT gaming")
-
-**Wemix** is een blockchain platform dat is ontworpen voor gaming. Je vind er tal van Play2Earn strategie spellen die in veel gevallen ook nog eens met elkaar zijn verbonden. Wemix is nog vrij nieuw en heeft daarmee een zeer lage market cap als je deze vergelijkt met bovenstaande Metaverse crypto.
-
-[› Koop deze Metaverse crypto op Kucoin](/go/kucoin)
-
-## 11. Netvrk (NTVRK)
-
-[Koop op Kucoin](/go/kucoin)
-
-![Netvrk Metaverse](/images/migrated/netvrk-metaverse.webp "Netvrk Metaverse")
-
-**Netvrk** is een Metaverse waar mensen hun eigen virtuele wereld kunnen bouwen. Je kunt er afspreken met vrienden en tevens geld verdienen door te participeren. De Netvrk token kun je gebruiken om virtuele assets aan te schaffen zoals land, huizen en auto’s. Ook is er de mogelijkheid om op jouw stuk grond advertentieruimte toe te staan, hiervoor in ruil kun je dan [passief inkomen genereren](/blog/online-geld-verdienen/passief-inkomen-genereren/).
-
-[› Koop deze Metaverse crypto op Kucoin](/go/kucoin)
-
-## 12. Highstreet (HIGH)
-
-[Koop op Binance](/go/binance)
-
-![Highstreet Metaverse](/images/migrated/highstreet-metaverse-1.webp "Highstreet Metaverse")
-
-Deze Metaverse kun je met Virtual Reality betreden! Als je binnen **Highstreet** een stuk virtueel land bezit dan kun je deze verhuren of zelfs belastingen heffen aan retailers die zich daar vestigen. Deze retailers kunnen daar zowel virtuele als in-game items verkopen.
-
-[› Koop deze Metaverse crypto op Binance](/go/binance)
-
-## 13. Floki Inu (FLOKI)
-
-[Koop op Bitget](/go/bitget)
-
-![Floki Inu](/images/migrated/floki-inu-metaverse-crypto-1.webp "Floki Inu")
-
-**Floki Inu** is vernoemd naar de bekende meme coin Shiba Inu. Deze crypto is gecreëerd door de community en heeft inmiddels drie projecten op gang gebracht. Namelijk Valhalla (Metaverse game), FlokiPlaces (NFT marketplace) en Floki University.
-
-[› Koop deze Metaverse crypto op Bitget](/go/bitget)
-
-## 14. Metahero (HERO)
-
-[Koop op Kucoin](/go/kucoin)
-
-![Metahero crypto](/images/migrated/metahero-crypto-1.webp "Metahero crypto")
-
-**Metahero** probeert de brug te slaan tussen de echte wereld en de virtuele wereld. Dit doen ze met het zogenoemde ‘metascanning’. Daarbij worden real-life objecten in 3D gescand zodat deze kunnen worden geplaatst in de Metaverse. Die objecten zijn te koop op hun eigen 3D NFT marketplace en staan bekend om de zeer hoge kwaliteit.
-
-[› Koop deze Metaverse crypto op Kucoin](/go/kucoin)
-
-## 15. Terra Virtua Kolect (TVK)
-
-[Koop op Kucoin](/go/kucoin)
-
-![Terra Virtua Kolect](/images/migrated/terra-virtua-kolect-1.webp "Terra Virtua Kolect")
-
-Bij de **Terra Virtua Kolect** kun je jouw eigen virtuele fancave maken. Het idee is dat je daar meerdere soorten (3D) NFTs in kan plaatsen. Jouw collectibles dus. Ze ondersteunen zowel VR als AR en geven je de mogelijkheid om bijvoorbeeld te racen met jouw eigen NFT auto. Uiteraard gaat dit allemaal samen met een eigen NFT marktplaats.
-
-[› Koop deze Metaverse crypto op Kucoin](/go/kucoin)
-
-## 16. Epik Prime (EPIK)
-
-[Koop op Kucoin](/go/kucoin)
-
-![Epik Prime NFT Marktplaats](/images/migrated/epik-prime-nft-marketplace-1.webp "Epik Prime NFT Marktplaats")
-
-**Epik Prime** creëert voor de AAA game bedrijven in-game NFT marktplaatsen en items. Deze traditionele game bedrijven worden zo geïntroduceerd aan [Web 3](/blog/web3/web-3-decentralisatie/) en blockchain technologie. De Epikverse bestaat uit een netwerk aan games, VR spaces en Metaverses welke met elkaar communiceren.
-
-[› Koop deze Metaverse crypto op Kucoin](/go/kucoin)
-
-## 17. Rfox (RFOX)
-
-[Koop op Kucoin](/go/kucoin)
-
-![RFOX Metaverse Crypto](/images/migrated/rfox-metaverse-crypto-vr-1.webp "RFOX Metaverse Crypto")
-
-De **RFOX** Metaverse focust zich met name op retail, entertainment en media. Denk hierbij aan een nieuwe vorm van e-commerce in een virtuele omgeving. Dit allemaal ondersteund met een VR beleving die toegankelijk moet zijn. Dus niet alleen voor de tech nerds. De looks van deze Metaverse zijn veelal realistisch, alsof er een digitaal kopie is gemaakt van de echte wereld.
-
-[› Koop deze Metaverse crypto op Kucoin](/go/kucoin)
-
-## 18. Bloktopia (BLOK)
-
-[Koop op Kucoin](/go/kucoin)
-
-![Bloktopia Metaverse](/images/migrated/bloktopia-metaverse-1.webp "Bloktopia Metaverse")
-
-**Bloktopia** is een gedecentraliseerde Metaverse gebouwd op de Polygon blockchain. De Metaverse bestaat uit een wolkenkrabber van 21 verdiepingen hoog, refererend naar de 21 miljoen Bitcoin die er zijn. In Bloktopia kan men leren over de basis en technische kant van crypto. Ook kun je er spellen spelen en virtueel real-estate bezitten.
-
-[› Koop deze Metaverse crypto op Kucoin](/go/kucoin)
-
-## 19. Render Network (RNDR)
-
-[Koop op Kucoin](/go/kucoin)
-
-![Render Network RNDR](/images/migrated/render-network-rndr-1.webp "Render Network RNDR")
-
-**Render Network** is zoals de naam al doet vermoeden geen Metaverse op zichzelf. Wat ze wel doen; ze bieden GPU aan voor Metaverses en andere applicaties. Dit doen ze gedecentraliseerd en daarmee zijn ze naar eigen zeggen stukken goedkoper dan traditionele aanbieders van computerkracht. De RNDR tokens worden verdient door de aanbieder van de GPU.
-
-[› Koop deze Metaverse crypto op Kucoin](/go/kucoin)
-
-## 20. Star Atlas (ATLAS)
-
-[Koop op Bitget](/go/bitget)
-
-![Star Atlas Metaverse crypto](/images/migrated/star-atlas-metaverse-crypto-1.webp "Star Atlas Metaverse crypto")
-
-**Star Atlas** is een spel waarin jij de ontdekkingsreiziger bent door de ruimte. Je kunt er met jouw eigen customized ruimteschip ronddwalen. De ATLAS token staat op de Solana blockchain en is daarmee snel en veilig. Met deze Metaverse crypto kun je virtueel land, een ruimteschip, bemanning en tools kopen.
-
-[› Koop deze Metaverse crypto op Bitget](/go/bitget)
-
-## 21. Alien Worlds (TLM)
-
-[Koop op Kucoin](/go/kucoin)
-
-![Alien Worlds TLM crypto](/images/migrated/alien-worlds-tlm-crypto-1.webp "Alien Worlds TLM crypto")
-
-**Alien Worlds** is een blockchain based game waar spelers elkaar kunnen uitdagen voor een battle. Dit is aan de hand van speelkaarten welke worden uitgegeven als NFT. Op het moment van schrijven is Alien Worlds de grootste gedecentraliseerde game in de markt.
-
-[› Koop deze Metaverse crypto op Kucoin](/go/kucoin)
-
-## 22. Cornucopias (COPI)
-
-[Koop op Kucoin](/go/kucoin)
-
-![Cornucopias Metaverse](/images/migrated/Cornucopias-metaverse-1.webp "Cornucopias Metaverse")
-
-**Cornucopias** is een Metaverse met verschillende werelden, allemaal in een ander thema. Denk aan paradijselijke eilanden en het wilde westen. In deze werelden kun je gratis avonturen beleven. Voor bedrijven is het interessant omdat ze hier land of een van de speciale custom domes kunnen bezitten. Daarmee kunnen zij bijvoorbeeld een digitale ontmoetingsplaats creëren voor hun community.
-
-[› Koop deze Metaverse crypto op Kucoin](/go/kucoin)
-
-## Hoe investeer je in Metaverse crypto?
-
-**Investeren in de Metaverse** kan al een flinke tijd. Zo zijn er hele fondsen die op digitaal land zijn gaan jagen. Daardoor zijn die prijzen omhoog geschoten in een ware digital land boom.
-
-Of de virtuele real estate markt zo booming blijft is natuurlijk maar de vraag. Daarbij kun je je afvragen of met de opkomst van al die verschillende Metaverses er niet een hoop af gaan vallen. Je hebt immers ook niet honderd verschillende social media apps op je telefoon. Toch?
-
-Investeren in de Metaverse en specifiek in Metaverse crypto is dus risicovol en vraagt om een goede spreiding tussen de verschillende kanshebbers. Om te beginnen met **het kopen van Metaverse crypto** hoef je niet veel meer te doen dan een account te maken op een exchange. Daarvoor gebruik ik zelf vooral de drie onderstaande crypto exchanges.
-
-### [1. Finst](/go/finst)
-
-Gebruiksvriendelijke Nederlandse exchange met laagste handelskosten. Hier [koop je crypto met iDEAL of Bancontact](/go/finst) en kun je het veilig bewaren vanwege de Proof of Reserve (PoR).
-
-### [2. Bitvavo](/blog/review/bitvavo-review-crypto/)
-
-Dit is een zeer eenvoudig te gebruiken Nederlandse exchange waar je met iDEAL crypto kunt kopen. Hier zijn een aantal van de grotere Metaverse crypto beschikbaar.
-
-### [3. Kucoin](/go/kucoin)
-
-Voor de wat kleinere Metaverses kom ik zelf bij Kucoin terecht. Dit is een zeer grote internationale exchange die wat moeilijker te gebruiken is voor beginners, maar met een gigantisch aanbod aan crypto.
-
-
-![pikamoon-kopen](/images/migrated/pikamoon-kopen-1.webp "pikamoon-kopen")
-
-### Koop Pikamoon
-
-Onze meme-coin pick voor begin 2025! Deze hebben we uitgekozen omdat het behalve een meme ook een eigen game heeft. Daarbij is het team al een jaar actief bezig met continue updates!
-
-[Koop Pikamoon $PIKA](/go/mexc)
-
-_Wij hebben **geen** **affiliatie** met dit project. Wees je bewust van de risico’s die met meme-coins gepaard gaan. Je kunt je inleg verliezen._
+De koersen bovenaan dit artikel blijven live, dus je kunt over een jaar zelf zien of ik het mis had. Tot die tijd: crypto kopen doe je in 2026 verstandiger via [de grote munten en periodiek inleggen](/blog/web3/handelen-in-crypto-valuta/) dan via een virtuele wereld waar niemand woont.

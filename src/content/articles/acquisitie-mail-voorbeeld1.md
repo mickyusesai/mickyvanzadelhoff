@@ -40,6 +40,8 @@ Door een niche te kiezen kun je de doelgroep van je mailing gericht aanspreken. 
 > 
 > Dat werd een compact groepje. Mijn acquisitie mail ging uiteindelijk naar 250 adressen. Maar daarover straks meer…
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## 2. Verzamel e-mailadressen van de doelgroep (en ken de regels)
 
 Wanneer je de doelgroep succesvol hebt **afgebakend voor koude acquisitie**, is het tijd om e-mailadressen van de doelgroep te verzamelen.
@@ -257,6 +259,8 @@ mickyvz@live.nl
 +31681081589 (WhatsApp)
 
 Ps. Ik heb besloten met maximaal 7 DJ drive-in shows landelijk deze samenwerking aan te gaan, omdat ik mij er vol overgave in zal storten.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Acquisitie mail schrijven uitbesteden
 

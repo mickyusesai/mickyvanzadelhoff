@@ -20,6 +20,8 @@ Op een gemiddelde dag fietsen we zo’n 50 kilometer. Gekeken naar de gehele afs
 
 Bij de fietstocht naar India moet ik vaak denken aan een anekdote die ik ooit heb gehoord. Twee monniken hebben als doel een berg te verplaatsen. Deze belemmerd hun pad en eroverheen lopen is geen optie. Beiden beginnen vol goede moed. Na enkele dagen stenen verplaatsen van de berg zegt de ene monnik tegen de ander: “Ik kan niet meer, deze berg is veel te groot om te verzetten”. De andere monnik zit nog vol goede moed en antwoord: “Focus je niet op het verplaatsen van de berg, maar op het verplaatsen van één steen. Één steen kun je namelijk wel verplaatsen, en als je dat maar lang genoeg doet, dan verplaats je er uiteindelijk 100 en daarna de hele berg”. Een mooi straaltje kleine stappen denken dus.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Denken in stappen die kleiner zijn dan jezelf
 
 Het denken in kleine stappen wanneer je doel onhapbaar groot is, is een van de beste manieren om een groot doel aan te gaan. De kans dat je dan tussendoor opgeeft doordat het doel onhaalbaar voelt en je gedemotiveerd bent is dan een stuk kleiner. Bijna iedereen is in staat om 50 kilometer te fietsen op een dag, maar bijna niemand denkt in staat te zijn naar India te fietsen. Voor mezelf maak ik de doelen dus altijd zo klein, dat ik denk, ja, dat kan ik wel!
@@ -31,6 +33,8 @@ Voor de fietstocht naar India leek het ons leuk om [een Youtube kanaal](https://
 > Op Youtube zie je heel vaak mensen die hun eigen kanaal beginnen maar al na enkele maanden opgeven omdat ze niet het gewenste resultaat behalen. Youtubers steken er veel moeite in en de resultaten vallen dan vaak tegen. Opgeven is dan het meestvoorkomende resultaat.
 
 Wanneer je een groot doel nastreeft zoals bij ons; “Het bereiken van duizenden mensen om hen te inspireren iets te doen dat groter is dan henzelf”, is het belangrijk dat het doel de tijd krijgt. In plaats van onszelf te laten demotiveren door onze cijfers bekijken we ons proces nu op een andere manier. Succes heeft tijd nodig om te groeien en dat vergt een hoop geduld. Misschien wel jaren.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Die ene stap, die kan iedereen zetten
 

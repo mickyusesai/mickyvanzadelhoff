@@ -36,6 +36,8 @@ De tweede reden, en eerlijk gezegd voor veel kopers de belangrijkste: **een link
 
 Advertorials zijn dus zinvol voor bedrijven, en wanneer jij een blog hebt waar veel lezers op afkomen, kun je er geld mee verdienen. Je verkoopt ruimte voor artikelen, en dat doe je het makkelijkst via een marktplaats als [Whitepress](/go/whitepress).
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Wat is Whitepress en hoe werkt het?
 
 Whitepress is **een marktplaats waar bedrijven en bloggers samenkomen**. Het bedrijf is in 2013 opgericht in Polen en inmiddels actief in ruim dertig landen, waaronder Nederland en België. Op 19 september 2026 geeft het platform zelf deze cijfers op: **17.000 uitgevers** wereldwijd, **ruim 30.000 adverteerders**, 200 nieuwe adverteerders per maand en meer dan 13.000 gepubliceerde artikelen per maand. Een gemiddelde uitgever krijgt volgens Whitepress tien opdrachten per maand.
@@ -149,6 +151,8 @@ Ja. Bij incidentele opdrachten geef je het op als 'resultaat uit overige werkzaa
 ### Is een advertorial hetzelfde als een gastblog?
 
 Nee. Bij een gastblog schrijft iemand gratis een artikel voor je blog, meestal in ruil voor een link en zichtbaarheid. Bij een advertorial wordt er betaald. Het Google-advies is voor beide hetzelfde: links naar de schrijver of het bedrijf krijgen een `sponsored`- of `nofollow`-label.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie
 

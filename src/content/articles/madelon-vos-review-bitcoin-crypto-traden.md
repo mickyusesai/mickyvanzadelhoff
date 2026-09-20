@@ -44,6 +44,8 @@ Bitcoin wordt steeds meer gezien als **het digitale goud** en daarmee een oppotm
 
 _In deze review zitten affiliate links. Als je iets aanschaft via de linkjes krijg ik daarvoor een kleine commissie, zonder extra kosten voor jou. Geen zorgen, ik raad alleen aan waar ik zelf in geloof._
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Het aanbod van Madelon Vos in 2026
 
 Niets staat stil in de wereld van Madelon Vos. Haar cursusaanbod is de afgelopen jaren meerdere keren veranderd. Op het moment van schrijven kun je bij haar terecht voor:
@@ -345,6 +347,8 @@ Voor wie zichzelf wegwijs wil maken in de cryptowereld is Madelon Vos nog steeds
 Ik raad de Academy aan iedereen aan die actief met crypto aan de slag wil en bereid is om grafieken te leren lezen. Zelf heb ik het meest gehad aan de technische analyse en op dat vlak enorm veel nieuwe dingen geleerd. Wil je alleen maandelijks wat Bitcoin kopen en verder niets? Dan heb je deze cursus niet nodig en kun je beter mijn [gids over geld verdienen met crypto](/blog/web3/handelen-in-crypto-valuta/) lezen.
 
 **Succes met jouw crypto-avontuur!**
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Veelgestelde vragen over Madelon Vos
 

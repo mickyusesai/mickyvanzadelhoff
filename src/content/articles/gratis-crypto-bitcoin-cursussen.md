@@ -1,8 +1,8 @@
 ---
-title: "3x Beste gratis Crypto en Bitcoin cursussen in Nederland [2025]"
-description: "Crypto is trending, maar hoe zit het precies met al die blockchain en wallets? Als je geld wilt verdienen met crypto en Bitcoin, dan weet je hoe…"
+title: "5x Beste gratis crypto en Bitcoin cursussen in Nederland [2026]"
+description: "De beste gratis crypto- en Bitcoin-cursussen in 2026: Alles Over Crypto, Madelon Vos, DoopieCash, CryptoTips en de gratis academies van Finst en Bitvavo."
 date: 2021-02-10
-updated: 2024-12-08
+updated: 2026-09-20
 category: "web3"
 slug: "gratis-crypto-bitcoin-cursussen"
 lang: "nl"
@@ -10,100 +10,130 @@ draft: false
 featuredImage: "/images/headers/gratis-crypto-bitcoin-cursussen.webp"
 ---
 
-Crypto is trending, maar hoe zit het precies met al die blockchain en wallets? Als je **geld wilt verdienen met crypto en Bitcoin**, dan weet je hoe belangrijk het is om over de juiste kennis te beschikken.
+**Wil je crypto begrijpen voordat je er een euro in stopt?** Slim. De cryptomarkt van 2026 is volwassener dan ooit, met Europese vergunningen, ETF's en stablecoins, maar de basis is nog steeds hetzelfde: wie snapt wat hij koopt, maakt betere keuzes dan wie een tip van een influencer volgt.
 
-Wellicht dus dat je op zoek bent naar de **beste crypto cursus** om van te leren. Daarom bespreken we in dit blog gratis crypto en Bitcoin trainingen in Nederland en België. De beste naar mijn mening is [de cursus van](/go/get-crypto-masterclass) [AllesOverCrypto](/go/get-crypto-masterclass).
+In dit artikel vergelijk ik de vijf beste gratis crypto en Bitcoin cursussen voor Nederland en België, gecontroleerd op 20 september 2026. Je leest wat elke cursus behandelt, hoe lang je ermee bezig bent, wat de aanbieder je daarna wil verkopen en voor wie hij geschikt is. Daarna krijg je een leerpad van vier weken en mijn eerlijke mening over wanneer een betaalde training wél de moeite waard is.
+
+Wat er sinds de vorige versie veranderde: de gratis training van Alles Over Crypto is nog steeds mijn favoriet, Madelon Vos heeft er een tweede minicursus bij, en de exchanges zelf zijn serieuze leerplekken geworden. Finst en Bitvavo hebben allebei een gratis academie met tientallen Nederlandstalige lessen, zonder dat iemand je iets probeert te verkopen.
+
+![Een open laptop met een afspeelknop op het scherm, een notitieboek en een kop koffie ernaast](/images/spots/cryptocursus-laptop.webp "Een goede cursus neemt je in de juiste volgorde mee")
 
 ## Wat maakt een goede crypto cursus?
 
-Eerst even dit. Over **cryptocurrencies** is best veel te vinden op het internet. Zo heb ik op mijn eigen blog al [dit artikel over geld verdienen met crypto traden](/blog/web3/handelen-in-crypto-valuta/), maar zijn er ook tientallen Nederlandstalige platforms bomvol verdiepende informatie.
+Over crypto is online eindeloos veel te vinden. Op deze site staat bijvoorbeeld [mijn gids over geld verdienen met crypto](/blog/web3/handelen-in-crypto-valuta/), en er zijn tientallen Nederlandstalige platforms bomvol informatie. Het probleem is niet te weinig informatie, maar de volgorde. Je raakt al snel verdwaald in een doolhof van technische termen die je helemaal niet nodig hebt.
 
-Soms zou je bijna door de bomen het bos niet zijn. Of raak je verdwaald in een doolhof van technische kennis die je als je geld wilt verdienen niet zozeer nodig hebt.
+Wat je van een goede cursus mag verwachten, is dat hij technisch net diep genoeg gaat en je daarna praktisch houvast geeft: hoe koop je veilig, hoe bewaar je het, hoe kijk je naar een munt zonder op gevoel te handelen. En, belangrijk in 2026: dat hij uitlegt wat een MiCA-vergunning is en waarom je alleen bij een platform met zo'n vergunning koopt.
 
-**Wat je dus mag verwachten** van een goede crypto cursus is dat deze technisch voldoende diepgaand is, maar ook praktisch houvast biedt om mee aan de slag te gaan. Een **crypto training** die ervoor zorgt dat je na afloop niet meer ‘op gevoel’ crypto zit te traden, maar met daadwerkelijke knowhow.
+Oefenen doe je het eenvoudigst bij het Nederlandse **[Finst](/go/finst)**: een gratis account, een vaste 0,15% handelskosten zonder spread en een vergunning van de AFM. Maar eerst de cursussen.
 
-Trouwens als je crypto wilt gaan traden doe je dit het eenvoudigst met het Nederlandse **Finst**. Via [deze](/go/finst) [link](/go/finst) kun je je daar gratis aanmelden en heb je de allerlaagste handelskosten op de [meest veilige Nederlandse crypto exchange](/go/finst).
+## De 5 beste gratis crypto cursussen in één overzicht
 
-Goed, dat gezegd hebbende kunnen we kijken naar **de 3 beste gratis crypto cursussen**.
+| Cursus | Van wie | Wat je leert | Vorm en duur | Wat ze je daarna aanbieden |
+|---|---|---|---|---|
+| [Gratis Bitcoin Training](/go/get-crypto-masterclass) | Alles Over Crypto (Patrick Suiker) | Waarom crypto, hoe de marktcyclus werkt, hoe zij munten beoordelen | Online training, aanmelden met e-mail | Money Mastery, €97 per maand |
+| [Gratis Crypto en Trading Academy](/go/madelonvos) | Madelon Vos | Wat bitcoin is, je eerste aankoop, basis technische analyse | Minicursus van 7 lessen, aanmelden met e-mail | Bitcoin en Technische Analyse Academy, €799 |
+| [Gratis cursus crypto traden](/go/doopiecash) | DoopieCash | Swingtraden, TradingView, risicomanagement, hefboom, price action | 6 video's, samen ruim 70 minuten | Betaalde tradingprogramma's |
+| [Gratis online Bitcoin cursus](/go/cryptotips) | CryptoTips | Achtergrond, investeren, beveiliging, wallets, Lightning, ETF's | Leesbare lessen op de site, zonder aanmelden | Niets; de site leeft van partnerlinks |
+| Finst Learn en Bitvavo Learn | De exchanges zelf | Blockchain, wallets, DeFi, staking, strategieën | 100+ artikelen (Finst), ruim 30 artikelen in 3 niveaus (Bitvavo) | Een account bij de exchange |
 
-## Gratis crypto cursussen
+Gecontroleerd op 20 september 2026 op de sites van de aanbieders. Prijzen van de betaalde vervolgprogramma's zijn wat er die dag op hun site stond; die veranderen regelmatig.
 
-## 1. AllesOverCrypto – Bitcoin en cryptomunten training
+## 1. Alles Over Crypto – Gratis Bitcoin Training
 
-![Allesovercrypto - gratis training](/images/migrated/Allesovercrypto-gratis-training.webp "Allesovercrypto – gratis training")
+In deze gratis training bespreekt Patrick Suiker, samen met zijn collega Derek, de basis van de cryptowereld: waarom crypto volgens hen nu interessant is, hoe de marktcyclus in elkaar zit en met welke strategie zij zelf munten beoordelen. Ze vertellen daarbij hoe ze een inleg van 2.000 euro tot 150.000 euro lieten groeien. Neem dat verhaal voor wat het is: een goed verhaal, geen belofte.
 
-In deze gratis crypto cursus bespreken Patrick Suiker en Derek Westra **de basis van de cryptowereld**. Ze gaan daarbij niet alleen in op de ‘standaard aspecten’, maar ook op **het vinden van crypto parels**. Daarmee bedoelen ze kleinere cryptomunten die de kans hebben om **factor 100 in waarde te stijgen**. Geld verdienen met crypto dus!
+Wat de training voor mij de beste instap maakt, is dat je na afloop een manier hebt om zelf naar een munt te kijken. Niet "welke munt gaat 100x", maar "waar let ik op". Dat is meer waard dan elke tip.
 
-Buiten [deze](/go/get-crypto-masterclass) [gratis](/go/get-crypto-masterclass) [cursus](/go/get-crypto-masterclass), biedt AllesOverCrypto ook een betaalde training aan; de crypto masterclass. De meest uitgebreide crypto training van Nederland en België met een zeer actieve community. Als je daar meer over wilt weten, lees dan gerust eens mijn [review over de crypto masterclass](/blog/review/money-mastery-review-allesovercrypto-patrick-suiker-derek-westra/).
+Alles Over Crypto is de grootste crypto-opleider van Nederland en België. Na de gratis training krijg je het aanbod om lid te worden van hun betaalde programma **Money Mastery**: €97 per maand, opzegbaar, met ruim 100 uur aan lessen, hun muntkeuzes en een community. Mijn ervaring daarmee lees je in mijn [review van Money Mastery](/blog/review/money-mastery-review-allesovercrypto-patrick-suiker-derek-westra/).
 
-[AllesOverCrypto gratis training](/go/get-crypto-masterclass)
+[Volg de gratis Bitcoin Training](/go/get-crypto-masterclass)
 
-## 2. Madelon Vos – ‘Minicursus Bitcoin & Technische Analyse’ (en ‘Bitcoin Bullmarkt Bundel’)
+## 2. Madelon Vos – Gratis Crypto en Trading Academy
 
-![Madelon Vos - Gratis Content](/images/migrated/Madelon-Vos-Gratis-Content.webp "Madelon Vos – Gratis Content")
+Madelon Vos is al sinds 2013 actief in crypto en nog altijd een van de weinige vrouwen in dit wereldje. Op [haar site](/go/madelonvos) vind je een gratis minicursus Bitcoin en Technische Analyse, die volgens haar normaal €47 kost en inmiddels ruim 16.000 keer is gedownload.
 
-Madelon Vos is vrijwel de enige vrouw in de **wondere wereld van crypto**. Als je op **[haar](/go/madelonvos) [website](/go/madelonvos)** komt kun je eigenlijk twee gratis trainingen vinden rondom **Bitcoin en crypto**.
+Je leert wat bitcoin en cryptomunten zijn, hoe je je eerste bitcoin koopt (via haar partners krijg je daarbij een klein bedrag aan gratis bitcoin) en de basis van technische analyse: hoe je een koersgrafiek leest en welke tools daarvoor bestaan. Nieuw in 2026 is een aparte minicursus die alleen over technische analyse gaat.
 
-De eerste is een minicursus **‘Bitcoin en Technische Analyse’**. Dit is eigenlijk een versimpelde versie van [haar betaalde cursus](/blog/review/madelon-vos-review-bitcoin-crypto-traden/). Je gaat hier in op de basics: wat is een bitcoin en hoe werken ze? Maar, je krijgt ook een kleine masterclass in hoe je er [goed geld aan kunt verdienen](/blog/web3/handelen-in-crypto-valuta/). Dit leer je in de training te doen door gebruik te maken van een technische analyse. Je leert hoe je grafieken kunt lezen en welke tools er allemaal zijn.
+De gratis lessen zijn een opstapje naar haar betaalde **Bitcoin en Technische Analyse Academy**. De adviesprijs daarvan is €899; op het moment van schrijven wordt hij aangeboden voor €799, inclusief zestig dagen toegang tot haar community MoneyTalks (los €39,95 per maand). Wat ik daarvan vind, lees je in mijn [Madelon Vos review](/blog/review/madelon-vos-review-bitcoin-crypto-traden/).
 
-De tweede crypto cursus gaat over de Bitcoin Bull Market. Handig, want we zitten nu met crypto ook echt een bullish markt, ofwel: het gaat heel goed! Je leert hier dus ook hoe je jezelf kunt voorbereiden op de huidige en aankomende golf van Bitcoin-adoptie. Je krijgt een gratis Bitcoin Bullmarkt-rapport van Tuur Demeester, met ook een Dollar Cost Average sheet. Snap je nu niet helemaal wat dat allemaal betekent? Check dan vooral [deze gratis cursus](/go/madelonvos).
+[Volg de gratis minicursus van Madelon Vos](/go/madelonvos)
 
-Zoals ik al zei, de gratis cursussen dienen als opstapje naar de betaalde (uitgebreide) cursussen van Madelon Vos. Als je daar meer over wilt weten lees je hier mijn [Madelon Vos](/blog/review/madelon-vos-review-bitcoin-crypto-traden/) [review](/blog/review/madelon-vos-review-bitcoin-crypto-traden/).
+![Een whiteboard met een candlestick-grafiek en een aanwijsstok ervoor](/images/spots/cryptocursus-whiteboard.webp "Technische analyse: grafieken leren lezen is de tweede stap, niet de eerste")
 
-[Madelon Vos gratis training](/go/madelonvos)
+## 3. DoopieCash – Gratis cursus crypto traden
 
-## 3. CryptoCommunity – Crypto kopen training
+Nieuw in dit lijstje. [DoopieCash](/go/doopiecash) is een Nederlands tradingopleider en biedt een gratis cursus crypto traden van zes video's, samen ruim zeventig minuten. De modules: de basis van traden en investeren (swingtraden, daytraden, scalpen), de tools (TradingView, brokers en exchanges), risicomanagement (2FA, stop-loss, positiegrootte), hefboomhandel, price action (candles, trends, steun en weerstand) en mindset.
 
-![Cryptocommunity](/images/migrated/CryptoCommunity.webp "CryptoCommunity")
+Dit is de enige gratis cursus in dit lijstje die echt over actief handelen gaat. Precies daarom een waarschuwing: de module over hefboom is nuttig om te begrijpen wat het is, niet als uitnodiging om het te doen. Handelen met hefboom is de snelste manier om je inleg kwijt te raken; dat heb ik zelf ervaren. Na de gratis cursus verkoopt DoopieCash betaalde programma's voor swingtraden en daytraden.
 
-Cryptocommunity gaat inmiddels al wat langer mee. Zij bieden al enkele jaren trainingen in het handelen met crypto’s. Gelukkig hoef je daar nog geen cryptonair voor te zijn. Ze hebben ook gratis masterclasses op hun website staan onder het kopje ’trainingen’.
+[Bekijk de gratis cursus van DoopieCash](/go/doopiecash)
 
-Je kunt deze trainingen het beste zien als **een spoedcursus voor de Bitcoinwereld**. Je leert de stappen die je moet zetten om crypto te kopen, hoe je de juiste coins vindt en hoe je daar winst mee kunt behalen.
+## 4. CryptoTips – Gratis online Bitcoin cursus
 
-[CryptoCommunity gratis training](/go/cryptocommunity)
+De cursus van [CryptoTips](/go/cryptotips) is anders dan de rest: geen video's, geen e-mailadres, geen verkooppraatje. Gewoon een reeks leesbare lessen op hun site, in februari 2026 bijgewerkt. Je leest over de achtergrond van bitcoin, manieren van investeren, beveiliging, wallets, het verschil tussen een broker en een exchange, traden, rendement zonder te handelen, het Lightning-netwerk en bitcoin-ETF's.
 
-## De beste NL Exchanges om te investeren in crypto
+Ideaal als je liever leest dan kijkt, of als je gewoon even iets wilt opzoeken zonder je in te schrijven. De site verdient aan partnerlinks naar exchanges en zegt dat eerlijk.
 
-![Finst Crypto Kopen](/images/migrated/finst-crypto-kopen-2.webp "Finst Crypto Kopen")
+[Lees de gratis Bitcoin cursus van CryptoTips](/go/cryptotips)
+
+## 5. Finst Learn en Bitvavo Learn – De academies van de exchanges
+
+De twee grootste Nederlandse exchanges hebben allebei een gratis kennisbank die de naam cursus verdient.
+
+*   **Finst Learn** telt meer dan honderd Nederlandstalige artikelen: van "wat is een blockchain" via wallets, DeFi, staking en periodiek inleggen tot de biografieën van mensen als Satoshi Nakamoto en Vitalik Buterin. Leestijd per artikel vier tot vijftien minuten.
+*   **Bitvavo Learn** is ingedeeld in drie niveaus (beginner, gevorderd, expert) met ruim dertig artikelen over geld, blockchain, bitcoin, wallets, beveiliging, consensus, DeFi en stablecoins, plus een expertdeel over automated market makers en tradingbots.
+
+Het grote voordeel: je leert op de plek waar je daarna ook koopt, en niemand probeert je een programma van honderden euro's te verkopen. Het nadeel: het zijn losse artikelen, geen leerpad. Daarom hieronder een leerpad dat je zelf kunt volgen.
+
+![Een stapel boeken met een gouden munt bovenop, naast een klein plantje in een pot](/images/spots/cryptocursus-boeken.webp "Eerst begrijpen, dan pas inleggen")
+
+## Zo leer je crypto in vier weken
+
+Alle vijf de cursussen hierboven zijn goed. Het gaat erom dat je ze in de juiste volgorde doet en tussendoor een klein bedrag inzet, zodat het niet bij theorie blijft.
+
+<ol class="timeline not-prose">
+<li class="timeline__item"><span class="timeline__num">1</span><p class="timeline__year">Week 1</p><p class="timeline__title">De basis</p><p class="timeline__text">Volg de gratis training van Alles Over Crypto en lees de beginnersartikelen van Finst Learn of Bitvavo Learn. Doel: snappen wat blockchain, bitcoin en een wallet zijn.</p></li>
+<li class="timeline__item"><span class="timeline__num">2</span><p class="timeline__year">Week 2</p><p class="timeline__title">Je eerste aankoop</p><p class="timeline__text">Maak een account bij een exchange met MiCA-vergunning, zet 2FA aan en koop voor een klein bedrag bitcoin met iDEAL. Zo leer je meer dan van tien video's.</p></li>
+<li class="timeline__item"><span class="timeline__num">3</span><p class="timeline__year">Week 3</p><p class="timeline__title">Grafieken en risico</p><p class="timeline__text">Volg de minicursus van Madelon Vos over technische analyse en de module risicomanagement van DoopieCash. Doel: begrijpen wat je ziet, en waarom hefboom niets voor je is.</p></li>
+<li class="timeline__item timeline__item--now"><span class="timeline__num">4</span><p class="timeline__year">Week 4</p><p class="timeline__title">Je eigen plan</p><p class="timeline__text">Kies een strategie die bij je past, bijvoorbeeld maandelijks inleggen, en leg vast wanneer je verkoopt. Lees de lessen over beveiliging en belasting. Daarna: geduld.</p></li>
+</ol>
+
+## Hier oefen je: de beste Nederlandse exchanges
+
+Een cursus zonder praktijk blijft theorie. Deze twee Nederlandse platforms hebben een MiCA-vergunning van de AFM, iDEAL en Bancontact, en je kunt er al vanaf een paar euro beginnen.
 
 ### 1. Finst
 
-Goedkoopste exchange. Mogelijkheid tot investeren in bundels.
+De goedkoopste exchange van Nederland, met cryptobundels en automatisch periodiek inleggen.
 
-*   Handelskosten: 0,15%
-    
-*   Aanbod: 240 crypto munten
-    
+*   Handelskosten: 0,15%, geen spread
+*   Aanbod: 400+ munten
 
-[Maak gratis account](/go/finst)
-
-of [lees Finst review](/blog/review/finst-crypto-exchange/)
-
-![Bitvavo affiliate programma](/images/migrated/bitvavo-affiliate-programma-1.webp "Bitvavo affiliate programma")
+[Maak een gratis account](/go/finst) of [lees mijn Finst review](/blog/review/finst-crypto-exchange/)
 
 ### 2. Bitvavo
 
-Grootste crypto exchange van de Benelux met veel crypto.
+De grootste exchange van de Benelux met het breedste aanbod in euro's.
 
-*   Handelskosten: 0,25%
-    
-*   Aanbod: 300 crypto munten
-    
+*   Handelskosten: 0,25% bij een directe aankoop, 0,15% met een limietorder
+*   Aanbod: 420+ munten
 
-[Maak gratis account](/go/bitvavo)
+[Maak een gratis account](/go/bitvavo) of [lees mijn Bitvavo review](/blog/review/bitvavo-review-crypto/)
 
-of [lees Bitvavo review](/blog/review/bitvavo-review-crypto/)
+Welke van de twee bij jou past, lees je in mijn [vergelijking van de beste crypto exchanges](/blog/web3/beste-crypto-exchange/).
 
 ## Gratis versus betaalde crypto trainingen
 
-Voor de introductie kun je prima terecht bij een **gratis training over crypto**. Wel is het zo dat als je echt goed wilt worden in bijvoorbeeld het lezen van grafieken, het handig kan zijn om een betaalde training aan te schaffen. Deze informatie en vaardigheid moet actueel zijn en vereist meer ingewikkelde technieken welke je niet in een gratis training terugvindt.
+Voor de basis kun je prima terecht bij een gratis cursus; de vijf hierboven dekken samen alles wat je in je eerste maanden nodig hebt. Een betaalde training is pas interessant als je echt goed wilt worden in bijvoorbeeld het lezen van grafieken, of als je een community wilt waarin je vragen kunt stellen. Die kennis moet actueel zijn en dat kost de trainer tijd, dus dat betaal je.
 
-Ga tegelijkertijd zeker niet direct in op een 2000 euro aanbod voor een crypto training. Het kan geen kwaad om eerst wat eigen onderzoek te doen en je in de basis te verdiepen. Daarbij is het natuurlijk ook belangrijk om te weten of de stijl van de trainer je genoeg aanspreekt.
+Ga tegelijk niet direct in op een aanbod van 800 of 1.200 euro. Volg eerst de gratis lessen van dezelfde trainer, dan weet je of de stijl je aanspreekt. En weet dat niemand, ook geen betaalde trainer, weet welke munt 100x gaat. Wat je wél kunt leren, is hoe je zelf een project beoordeelt.
+
+CryptoCommunity, dat hier jarenlang in het lijstje stond, kon ik op 20 september 2026 niet meer bereiken; [hun cursus](/go/cryptocommunity) laat ik daarom buiten de top vijf. <!-- TODO: partnerlink /go/cryptocommunity is dood: cryptocommunity.nl is onbereikbaar en de PayPro-productpagina laadt niet (20 september 2026) -->
 
 ## Conclusie gratis crypto en Bitcoin cursussen
 
-Op het internet is veel te vinden. Buiten de verschillende gratis crypto cursussen die worden aangeboden, zijn er ook tal van blogs vol waardevolle informatie. Echter, wat handig is aan een cursus is dat deze je in de juiste volgorde meeneemt en ervoor zorgt dat je niets over het hoofd ziet.
+Op internet is genoeg te vinden. Wat een cursus toevoegt, is dat hij je in de juiste volgorde meeneemt en ervoor zorgt dat je niets over het hoofd ziet. Begin met de gratis training van Alles Over Crypto, lees de academie van de exchange waar je gaat kopen en zet een klein bedrag in om het echt te voelen. Spreekt een trainer je aan, kijk dan pas of je een betaalde training wilt.
 
-Naar mijn idee doe je er goed aan om zo’n gratis crypto cursus te volgen en daar waar de trainingsstijl jou aanspreekt te kijken of je een betaalde training wilt volgen. Immers niet alle informatie is gratis beschikbaar. Wil je bijvoorbeeld weten [wat](/go/crypto-training) [de laatste crypto parels zijn](/go/crypto-training) dan houden trainers deze vaak liever voor zichzelf en de groep mensen die een training volgt.
+Niet alle kennis is gratis. Wil je bijvoorbeeld weten [naar welke munten een opleider zelf kijkt](/go/crypto-training), dan houden trainers dat vaak voor hun betalende leden. Maar de basis, en dat is negentig procent van wat je nodig hebt, ligt gewoon voor het oprapen.
 
 **Succes met jouw crypto en Bitcoin avontuur!**

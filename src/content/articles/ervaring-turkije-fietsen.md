@@ -30,6 +30,8 @@ Het is interessant om te zien hoeveel Turkse mensen afstand willen nemen van hun
 
 Ieder landje heeft zijn eigen kantje. En hoe zeer wij in Nederland ook denken geen cultuur te hebben, onze cultuur is ijzersterk als je er andere culturen tegenover zet. We zijn in Nederland super doelgericht, individualistisch, punctueel, succes gericht, kapitalistisch en houden van gezelligheid met een drankje. We zijn open in gesprekken met naasten (over onderwerpen die in Turkije onbespreekbaar zijn) maar hebben een beleefde (toch afstandelijke) houding richting vreemden. Vertrouwen is bij ons niet vanzelfsprekend en we hebben een zekere vorm van gelijkheid tussen man en vrouw.
 
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+
 ## Ik dacht dat het gras ergens anders groener was
 
 Ik heb vaak gedacht dat het ergens anders beter was. Dat het gras groener was bij de buren. Maar inmiddels weet ik zeker dat dat gras niet groener is, maar gewoon een andere grassoort. Ieder land heeft zijn voor- en nadelen en dat maakt reizen ook zo interessant.

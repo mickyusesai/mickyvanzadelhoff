@@ -1,8 +1,8 @@
 ---
-title: "Beste Crypto 2024 – 10 Crypto Munten met Groeipotentie"
-description: "Welkom in de fascinerende wereld van cryptovaluta, waar de toekomst van financiën wordt vormgegeven door digitale munten. In 2024 heeft de cryptowereld…"
+title: "Beste crypto 2026 – 10 cryptomunten met groeipotentie"
+description: "Beste crypto 2026: live koersen, de tien munten die ik volg, wat er van mijn lijst van 2024 terechtkwam, waar ik op let en waar je veilig koopt."
 date: 2024-01-19
-updated: 2024-01-19
+updated: 2026-09-19
 category: "web3"
 slug: "beste-crypto-munten-2024"
 lang: "nl"
@@ -10,487 +10,289 @@ draft: false
 featuredImage: "/images/headers/beste-crypto-munten-2024.webp"
 ---
 
-Welkom in de fascinerende wereld van cryptovaluta, waar de toekomst van financiën wordt vormgegeven door digitale munten. In 2024 heeft de cryptowereld zich ontwikkeld tot ver voorbij wat we ons ooit hadden kunnen voorstellen, met nieuwe kansen die het financiële landschap ingrijpend veranderen. In deze blogpost duiken we in de **beste** **cryptovaluta van 2024**, die de manier waarop we transacties doen, investeren en vermogen opbouwen, ingrijpend veranderen.
+**Welke crypto koop je in 2026?** Die vraag krijg ik nog steeds het vaakst, en het eerlijke antwoord begint met een blik terug. In januari 2024 zette ik hier tien munten op een rij. Sindsdien is er van alles gebeurd: Bitcoin zette in oktober 2025 een record neer van ruim 125.000 dollar, de Europese MiCA-regels gingen in, Wall Street kwam binnen via ETF's, en de meeste altcoins uit mijn lijst staan nog altijd 60 tot 98% onder hun hoogste koers ooit. Dat laatste is geen reden om te stoppen met lezen, wel om anders naar zo'n lijst te kijken.
 
-Van de spectaculaire opkomst van Bitcoin tot de innovatieve alternatieve munten, de cryptomarkt trekt investeerders uit alle lagen van de bevolking, die willen profiteren van de belofte van een gedecentraliseerde toekomst.
+In dit artikel lees je waar ik in 2026 op let bij het kiezen van een munt, wat er van mijn lijst van 2024 terechtkwam (met de echte cijfers), welke tien munten ik nu volg en waarom, hoe je de marktwaarde van een munt zelf doorrekent, en waar je als Nederlander of Belg veilig koopt. De koersen hieronder worden live opgehaald, dus die kloppen ook als je dit over een half jaar leest.
 
-Onze analyse van de beste crypto’s loodst je door dit continu veranderende landschap en belicht de meest veelbelovende cryptovaluta. Deze munten springen eruit op het gebied van technologische vernieuwing, marktprestaties en praktische toepasbaarheid.
+<div class="live-stats not-prose" id="beste-live" data-fallback-date="20 september 2026">
+<div class="live-stats__tile"><p class="live-stats__label">Bitcoin (BTC)</p><p class="live-stats__value" data-live="btc">€ 69.983</p><p class="live-stats__sub" data-live="btc-24h">-1,0% in 24 uur</p></div>
+<div class="live-stats__tile"><p class="live-stats__label">Ethereum (ETH)</p><p class="live-stats__value" data-live="eth">€ 2.246</p><p class="live-stats__sub" data-live="eth-24h">-2,5% in 24 uur</p></div>
+<div class="live-stats__tile"><p class="live-stats__label">Solana (SOL)</p><p class="live-stats__value" data-live="sol">€ 94,37</p><p class="live-stats__sub" data-live="sol-24h">-3,3% in 24 uur</p></div>
+<div class="live-stats__tile"><p class="live-stats__label">XRP (XRP)</p><p class="live-stats__value" data-live="xrp">€ 1,20</p><p class="live-stats__sub" data-live="xrp-24h">-2,5% in 24 uur</p></div>
+<p class="live-stats__note" data-live="note">Koersen van 20 september 2026 (CoinPaprika). Zodra de pagina geladen is, worden ze ververst via CoinGecko.</p>
+</div>
 
-Of je nu een doorgewinterde cryptoliefhebber bent of een nieuwsgierige beginner die een kijkje wil nemen in de wereld van digitale valuta, onze gids over de beste cryptovaluta van 2024 voorziet je van deskundige kennis en inzichten.
+<script>
+(function () {
+  var box = document.getElementById('beste-live'); if (!box || !window.fetch) return;
+  var q = function (k) { return box.querySelector('[data-live="' + k + '"]'); };
+  var nl = function (n, d) { return new Intl.NumberFormat('nl-NL', { minimumFractionDigits: d, maximumFractionDigits: d }).format(n); };
+  fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,ripple&vs_currencies=eur&include_24hr_change=true').then(function (r) { return r.json(); }).then(function (p) {
+    var map = { btc: 'bitcoin', eth: 'ethereum', sol: 'solana', xrp: 'ripple' };
+    Object.keys(map).forEach(function (k) {
+      var c = p[map[k]]; if (!c || typeof c.eur !== 'number') return;
+      var v = c.eur, ch = c.eur_24h_change || 0;
+      q(k).textContent = '€ ' + nl(v, v >= 100 ? 0 : 2);
+      q(k + '-24h').textContent = (ch >= 0 ? '+' : '') + nl(ch, 1) + '% in 24 uur';
+    });
+    q('note').textContent = 'Live koersen via CoinGecko, opgehaald op ' + new Date().toLocaleString('nl-NL', { day: 'numeric', month: 'long', year: 'numeric', hour: '2-digit', minute: '2-digit' }) + '.';
+  }).catch(function () { /* fallback numbers stay */ });
+})();
+</script>
 
-.reading-box-container-1 .element-bottomshadow:before,.reading-box-container-1 .element-bottomshadow:after{opacity:0.7;}
+Eén ding vooraf: dit is geen financieel advies, maar mijn eigen manier van kijken. Ik leg zelf elke maand een vast bedrag in bij de grote munten en laat de rest met rust. Hoe dat werkt lees je in mijn [complete guide over geld verdienen met crypto](/blog/web3/handelen-in-crypto-valuta/).
 
 ## Zo begin je met crypto
 
-Om geld te verdienen met crypto heb je allereerst een plek nodig om deze te verhandelen. Dit doe je eenvoudig (en het goedkoopst) via het Nederlandse **[Finst](/go/finst)**. Een account aanmaken is gratis en makkelijk!
+Om een munt te kopen heb je allereerst een plek nodig om die te verhandelen. Dit doe je het eenvoudigst (en het goedkoopst) via het Nederlandse **[Finst](/go/finst)**: 0,15% handelskosten zonder verborgen spread, ruim 400 munten en sinds juli 2025 een MiCA-vergunning van de AFM. Een account aanmaken is gratis.
 
 [Gratis Account Aanmaken](/go/finst)
 
-## Beste crypto munten 2024
+## Wat er van mijn lijst van 2024 terechtkwam
 
-1.  **Bitcoin BTC 👑**
-2.  **Ethereum ETH**
-3.  **Binance Coin BNB**
-4.  **Cardano ADA**
-5.  **Polkadot DOT**
-6.  **Solana SOL**
-7.  **Polygon MATIC**
-8.  **Avalanche AVAX**
-9.  **VeChain VET**
-10.  **Dogecoin DOGE**
+Voordat ik je een nieuwe lijst geef, wil ik eerst de oude afrekenen. Dit waren mijn tien munten van januari 2024, met de koers op 20 september 2026 en hun hoogste koers ooit (in dollars, bron CoinPaprika en CoinLore):
 
-## Even onze crypto kennis opfrissen ;)
+| Munt uit de lijst van 2024 | Koers nu | Hoogste koers ooit | Verschil |
+|---|---|---|---|
+| Bitcoin (BTC) | $ 80.334 | $ 126.173 (6 okt 2025) | -36% |
+| Ethereum (ETH) | $ 2.578 | $ 4.946 (24 aug 2025) | -48% |
+| BNB (BNB) | $ 751 | $ 1.371 (13 okt 2025) | -45% |
+| Cardano (ADA) | $ 0,22 | $ 3,10 (2 sep 2021) | -93% |
+| Polkadot (DOT) | $ 1,10 | $ 55,00 (4 nov 2021) | -98% |
+| Solana (SOL) | $ 108 | $ 294 (19 jan 2025) | -63% |
+| Polygon (MATIC, nu POL) | $ 0,105 | $ 2,91 (dec 2021, als MATIC) | -96% |
+| Avalanche (AVAX) | $ 9,77 | $ 145,67 (21 nov 2021) | -93% |
+| VeChain (VET) | $ 0,0083 | niet vergelijkbaar (tokensplitsing in 2018) | plek 96 |
+| Dogecoin (DOGE) | $ 0,085 | $ 0,75 (8 mei 2021) | -89% |
 
-Cryptomunten, of beter gezegd Crypto Assets – aangezien geen van hen echte valuta zijn uitgegeven door een centrale bank – zijn door de jaren heen een centraal onderwerp geworden voor elke belegger. Deze munten of tokens, gebaseerd op gedistribueerde grootboektechnologie zoals blockchain, komen in verschillende vormen voor, waarbij Bitcoin het populairst is.
+Wat je hier ziet, is de belangrijkste les van dit hele artikel. De drie munten die in 2025 een nieuw record zetten (Bitcoin, Ethereum, BNB) zijn precies de grootste. De rest van de lijst kwam in de bull market van 2024-2025 niet eens in de buurt van de toppen van 2021. Wie in januari 2024 "gespreid" in mijn tien munten stapte, deed het duidelijk slechter dan wie gewoon Bitcoin en Ethereum kocht. Ik had het in 2024 dus voor een deel mis, en dat mag je weten.
 
-Bitcoin wordt vaak omschreven als “Digitaal Goud” of “Global Reserve Currency” en loopt voorop qua adoptie en marktkapitalisatie. Er zijn nu miljoenen assets, variërend van tokens die gedekt worden door echte wereld activa tot crypto-native tokens die gebruikt worden voor specifieke doeleinden, en zelfs digitale kunst in de vorm van [NFT’s](/blog/web3/nft-guide/).
+Wat het niet betekent: dat altcoins nutteloos zijn. Wel dat de meeste altcoins een korte tijd hebben waarin ze glanzen, en dat je daarna een nieuwe cyclus nodig hebt om er ooit weer uit te komen. Daarom staan er in mijn lijst van 2026 minder "veelbelovende projecten" en meer munten die ook echt gebruikt worden.
 
-De schoonheid van deze nieuwe activaklasse is dat het beschikbaar is voor iedereen met een internetverbinding. Blockchain maakt het mogelijk voor de wereld om waarde over te dragen zonder tussenpersonen te vertrouwen, en de rekenheden voor dergelijke transacties worden meestal aangeduid als munten of tokens.
+![Een weegschaal met één grote gouden munt tegenover een handvol kleine munten](/images/spots/beste-weegschaal.webp "De les van 2024: één grote munt woog zwaarder dan tien kleine")
 
-In tijden van corruptie, inflatie en algemeen verlies van vertrouwen, is deze revolutie een natuurlijk proces voor de mensheid en heeft het potentieel om veel problemen die we vandaag de dag ervaren, op te lossen. Hoewel technologie altijd neutraal is en zowel voor goede als slechte doeleinden gebruikt kan worden, zou het irrationeel zijn om de andere kant op te kijken. Er vindt een grote verandering plaats, of we het nu leuk vinden of niet – maar we zijn nog vroeg, en vroege gebruikers hebben een goede kans om hiervan te profiteren.
+## Waar ik in 2026 op let bij een cryptomunt
 
-In 2022 moest de cryptomarkt meerdere zware beproevingen doorstaan. Eerst leidde het economisch falen van de Terra Stablecoin UST tot een domino-effect in het hele ecosysteem, wat twijfel opriep over het nut van de technologie zelf (hoewel het werkte zoals bedoeld). Kort daarna schokte het grote schandaal rond de cryptobeurs FTX en de frauduleuze acties van het management onder leiding van Sam Bankman-Fried (SBF) niet alleen beleggers, maar vooral de toezichthouders.
+Ik had in 2024 negen criteria. Die gelden nog steeds, maar ik heb ze korter gemaakt en aangevuld met wat ik sindsdien leerde.
 
-Wat is de belangrijkste les van vorig jaar? Waarschijnlijk iets in de trant van:
+### 1. Marktwaarde (market cap), niet de prijs
 
-*   We zagen een noodzakelijke zuivering in een overhyped en bijna waanachtige markt, beloftes van hoge rentes en grote investeringsvermenigvuldigers leidden tot slecht risicobeheer.
-*   De technologie doet wat het moet doen en hoewel het vaak misbruikt wordt, blijven de fundamenten sterk.
-*   Crypto is een risicovolle ruimte en we zijn niet “te laat”, maar zullen in de toekomst weer grote kansen zien.
-*   Regelgeving zal hard toeslaan, maar het zal enkele essentiële fundamenten leggen voor deze markt om te bloeien.
+De marktwaarde is de prijs per munt maal het aantal munten in omloop. Een munt van €0,00001 kan meer waard zijn dan een munt van €100, als er maar genoeg van zijn. Kijk daarbij ook naar de **volledig verwaterde marktwaarde**: alle munten die nog vrijkomen aan het team en vroege investeerders. Zit daar een groot gat tussen, dan komt er nog veel aanbod op de markt. Met de rekentool hieronder zie je in één oogopslag wat een koersdoel eigenlijk betekent.
 
-Met deze lessen, hoe kunnen we ons nu voorbereiden op 2024 en de beste crypto vinden om in te investeren?
+<div class="tool not-prose" id="beste-mcap">
+<p class="tool__title">Wat als deze munt zo groot wordt als die andere?</p>
+<p class="tool__intro">Vul de koers en marktwaarde van een munt in en een doelmarktwaarde. De tool rekent uit welke koers daarbij hoort. Standaard: Cardano (€0,19, €7,5 miljard) naar de marktwaarde van Solana (€55 miljard), cijfers van 20 september 2026.</p>
+<div class="tool__grid">
+<label class="tool__field">Koers nu (€)<input class="tool__input" id="beste-prijs" type="number" min="0" step="0.01" value="0.19"></label>
+<label class="tool__field">Marktwaarde nu (€ miljard)<input class="tool__input" id="beste-mcap-nu" type="number" min="0" step="0.1" value="7.5"></label>
+<label class="tool__field">Doelmarktwaarde (€ miljard)<input class="tool__input" id="beste-mcap-doel" type="number" min="0" step="1" value="55"></label>
+</div>
+<div class="tool__results">
+<div class="tool__result"><p class="tool__label">Koers bij die marktwaarde</p><p class="tool__value" id="beste-koers-doel">€ 1,39</p><p class="tool__sub">bij gelijkblijvend aantal munten</p></div>
+<div class="tool__result"><p class="tool__label">Vermenigvuldiging</p><p class="tool__value" id="beste-factor">x 7,3</p><p class="tool__sub">ten opzichte van de koers nu</p></div>
+</div>
+<p class="tool__note">Rekenvoorbeeld, geen voorspelling. Ter vergelijking: de marktwaarde van Bitcoin was op 20 september 2026 zo'n €1.400 miljard, die van Ethereum €274 miljard.</p>
+</div>
 
-![beste-crypto-2024](/images/migrated/beste-crypto-2024-2.webp "beste-crypto-2024")
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var nl = function (n, d) { return new Intl.NumberFormat('nl-NL', { minimumFractionDigits: d, maximumFractionDigits: d }).format(n); };
+  function calc() {
+    var prijs = +$('beste-prijs').value || 0, nu = +$('beste-mcap-nu').value || 0, doel = +$('beste-mcap-doel').value || 0;
+    var factor = nu > 0 ? doel / nu : 0, koers = prijs * factor;
+    $('beste-koers-doel').textContent = '€ ' + nl(koers, koers >= 100 ? 0 : (koers >= 1 ? 2 : 4));
+    $('beste-factor').textContent = 'x ' + nl(factor, 1);
+  }
+  ['beste-prijs', 'beste-mcap-nu', 'beste-mcap-doel'].forEach(function (id) { $(id).addEventListener('input', calc); });
+  calc();
+})();
+</script>
 
-**[›> Crypto begrijpen gaat het makkelijkst door het te gebruiken. Maak daarom jouw gratis account aan bij het crypto verhandelplatform Finst.](/go/finst)**
+### 2. Handelsvolume en liquiditeit
 
-## Belangrijke factoren als je in crypto investeert
+Een hoog en stabiel handelsvolume betekent dat er echte kopers en verkopers zijn en dat je je positie ook weer kwijt kunt. Bij hele kleine munten is dat vaak niet zo: je kunt ze kopen, maar zodra jij wilt verkopen zakt de koers door je eigen order. Koop alleen munten waar je zonder gedoe weer uit kunt.
 
-### 1. Marktkapitalisatie
+### 3. Wordt het gebruikt?
 
-Marktkapitalisatie is het vermenigvuldigen van de prijs per munt of token met de totale hoeveelheid munten of tokens die in omloop zijn.
+Dit is in 2026 mijn belangrijkste vraag geworden. Niet "wat belooft het whitepaper", maar: gaat er vandaag geld, data of handel over deze blockchain heen? Stablecoins, tokenisatie van obligaties en aandelen, gedecentraliseerde beurzen en betalingen tussen landen zijn de toepassingen die nu draaien. Munten die daarin een rol spelen, hebben een reden om te bestaan als de hype voorbij is.
 
-In de cryptowereld is het vaak nodig om onderscheid te maken tussen “Huidige Marktkapitalisatie” en “Volledig Verwaterde Marktkapitalisatie”. De eerste omvat alle tot nu toe beschikbare munten of tokens, terwijl de tweede ook alle munten of tokens meerekent die nog vastzitten, maar in de toekomst vrijkomen door processen zoals crypto mining of crypto staking.
+### 4. Tokenomics
 
-Als er een groot verschil is tussen deze twee waarden, is de kans groot dat de prijs in de toekomst zal dalen, omdat meer tokens (aanbod) de markt (vraag) bereiken.
+Hoe werkt de munt? Waar heb je hem voor nodig, worden er nieuwe bijgemaakt of juist vernietigd, en wanneer komen de munten van het team vrij? Een goed product met slechte tokenomics is een slechte investering. Uniswap liet eind 2025 zien hoe het ook kan: het protocol vernietigde 100 miljoen UNI en laat sinds die tijd een deel van de handelskosten naar de munt vloeien.
 
-Deze getallen zijn waarschijnlijk de belangrijkste factor bij het bepalen van een levensvatbare investering en worden vaak over het hoofd gezien bij het vergelijken van de prijs van een enkele token. Ook al is de prijs van sommige tokens €0,00001, ze kunnen nog steeds een zeer hoge marktkapitalisatie hebben als er 100.000.000.000.000 tokens bestaan. Dit zou leiden tot een marktkapitalisatie van 1 biljoen euro, ongeveer de waarde van Google (en waarschijnlijk niet zo waardevol als Google, dus verwacht dat de prijs snel daalt zodra mensen dit realiseren).
+### 5. Team, community en transparantie
 
-![bitcoin-market-cap-2024](/images/migrated/bitcoin-market-cap-2024-1.webp "bitcoin-market-cap-2024")
+Kijk naar wie het bouwt, of ze nog bouwen (GitHub is openbaar) en of de community uit gebruikers bestaat of alleen uit mensen die op een airdrop wachten. En kijk wie de sleutels heeft: één persoon die een smart contract kan aanpassen, is een risico dat in 2026 nog steeds honderden miljoenen kostte. De grootste hacks van dit jaar (Drift, KelpDAO, het Liquid Network, samen bijna een miljard dollar) kwamen niet door de blockchain zelf, maar door toegangsrechten en bruggen tussen netwerken.
 
-### 2. Handelsvolume
+### 6. Prestaties in de vorige cyclus
 
-Een hoog en consistent handelsvolume op een activum is over het algemeen een zeer goed teken. Het betekent dat meer en/of grotere partijen geïnteresseerd zijn en dat het waarschijnlijk is dat meerdere crypto-uitwisselingen handel bieden.
+Eerdere prestaties zijn geen garantie, maar ze zeggen wel iets. Een project dat in de bull market van 2024-2025 niet eens in de buurt van zijn oude top kwam, heeft daar meestal een reden voor. Kijk daarom niet alleen naar hoe hard een munt kan stijgen, maar ook naar hoe hij zich hield toen het slecht ging.
 
-Een hoog handelsvolume betekent een hogere toegankelijkheid tot een activum.
+![Een vergrootglas boven een rij munten waarvan er één oplicht](/images/spots/beste-vergrootglas.webp "Zelf onderzoek doen blijft de enige manier om de parels van de rest te scheiden")
 
-Bitcoin, door velen beschouwd als de beste crypto, bereikte zijn hoogste handelsvolume tijdens zijn crash in november 2022, met een handel van meer dan 400 miljard dollar op één dag.
+**[›> Crypto begrijpen gaat het makkelijkst door het te gebruiken. Maak daarom je gratis account aan bij Finst en begin met een klein bedrag.](/go/finst)**
 
-### 3. Liquiditeit
+## De grootste cryptomunten in september 2026
 
-Liquiditeit en handelsvolume zijn gerelateerd, aangezien handelsvolume en prijsbewegingen enigszins de liquiditeit aanduiden. Een hoog handelsvolume plus lage prijsbewegingen betekenen meestal een hoge liquiditeit, maar er kunnen uitzonderingen zijn (opzettelijk geïnduceerd).
+De dertig grootste munten zijn samen goed voor zo'n 97% van de totale marktwaarde. Dit zijn de tien grootste 'echte' munten naar marktwaarde in euro's (afgeleide munten zoals gestakete of 'wrapped' ether laat ik weg, bron CoinPaprika):
 
-Actuele liquiditeit is een zeer belangrijk cijfer vanuit het oogpunt van een investeerder, vooral bij gedecentraliseerde beurzen.
+| # | Munt | Marktwaarde | Wat het is |
+|---|---|---|---|
+| 1 | Bitcoin (BTC) | ± €1.406 mld | Digitaal goud, het begin van alles |
+| 2 | Ethereum (ETH) | ± €274 mld | De computer op de blockchain waar de meeste apps op draaien |
+| 3 | Tether (USDT) | ± €160 mld | Stablecoin, altijd één dollar waard |
+| 4 | BNB (BNB) | ± €87 mld | Munt van de exchange Binance en zijn eigen blockchain |
+| 5 | XRP (XRP) | ± €76 mld | Snelle betalingen tussen banken en landen |
+| 6 | USD Coin (USDC) | ± €65 mld | Stablecoin met Amerikaanse en Europese vergunningen |
+| 7 | Solana (SOL) | ± €55 mld | Snelle, goedkope blockchain voor apps en memecoins |
+| 8 | Tron (TRX) | ± €28 mld | Blockchain waar veel stablecoin-betalingen overheen gaan |
+| 9 | Zcash (ZEC) | ± €20 mld | Privacymunt, de grote verrassing van 2025-2026 |
+| 10 | Hyperliquid (HYPE) | ± €18 mld | Gedecentraliseerde handelsbeurs met eigen munt |
 
-Liquiditeit toont aan hoe gemakkelijk je je positie kunt verlaten, wat vaak een probleem is bij nieuwere munten of tokens.
+Wat opvalt: twee van de tien zijn stablecoins, en twee namen (Zcash en Hyperliquid) stonden in 2024 nergens in de buurt van deze lijst. Wat er niet meer in staat: Cardano (plek 20), Avalanche (plek 33), Polkadot (rond plek 36) en Polygon (plek 79). Zo snel gaat dat.
 
-Als de liquiditeit erg laag is, laten we zeggen minder dan 10 keer je investering, zal het onmogelijk zijn om dat activum te verkopen tegen de huidige marktprijs. Dus je moet alleen investeren in activa met lage liquiditeit als je van plan bent dat activum voor langere tijd vast te houden en een toename van de liquiditeit in de toekomst verwacht.
+## De trends van 2026
 
-### 4. Gebruikstoepassingen
+Elke cyclus heeft zijn eigen thema. In 2021 waren dat [NFT's](/blog/web3/nft-uitleg/) en de [metaverse](/blog/web3/metaverse-crypto/), in 2024 [AI-crypto](/blog/web3/ai-crypto-kunstmatige-intelligentie/) en [memecoins](/blog/web3/meme-coins-kopen-crypto/). In 2026 is het thema saaier, en dat is precies waarom de grote partijen nu instappen:
 
-Net als bij elk bedrijf en hun product, moet er een echte gebruikstoepassing zijn (of tenminste een toekomstperspectief daarvoor) en betalende klanten die winst opleveren.
+*   **Stablecoins.** Alle dollar-munten samen zijn zo'n 290 miljard dollar waard (CoinGecko, 20 september 2026). Het meest gebruikte stukje crypto ter wereld.
+*   **Tokenisatie.** Staatsobligaties, aandelen en goud als token op een blockchain. Alleen al aan Amerikaanse staatsobligaties stond in juli 2026 ruim 16 miljard dollar op de blockchain (rwa.xyz). Meer daarover in mijn artikel over [tokenisatie](/blog/web3/data-tokenisation-crypto/).
+*   **ETF's.** Amerikaanse Bitcoin-ETF's beheren ruim 100 miljard dollar en bezitten ruim 6% van alle Bitcoin. Sinds 2025 zijn er ook fondsen voor Ethereum, Solana en XRP. Zie mijn uitleg over de [Bitcoin spot ETF](/blog/web3/bitcoin-spot-etf-exchange-traded-fund/).
+*   **Privacy.** Zcash steeg in een jaar tijd tientallen keren in waarde en kreeg in 2026 een eigen ETF. Privacymunten zijn samen zo'n 35 miljard dollar waard, maar door diezelfde privacy koop je ze niet bij een Nederlandse exchange.
+*   **DeFi op de rails.** Minder yield-farming, meer echte producten: lenen bij Aave, sparen in dollars bij Sky, handelen op Hyperliquid. Zie mijn artikel over [DeFi-munten](/blog/web3/defi-crypto-munten/).
 
-Bij het bekijken van een munt of token is het belangrijk jezelf af te vragen wat die gebruikstoepassing zou kunnen zijn en of het realistisch is dat het product op een gegeven moment daar zal komen.
+## Beste crypto om in te investeren in 2026
 
-Je kunt zelfs dieper ingaan en berekenen welke grootte van adoptie, bijvoorbeeld mensen die het product gebruiken en ervoor betalen, nodig is om de kosten van het onderhouden ervan te compenseren – dit is het punt waar echte waarde wordt gecreëerd.
+Hier is mijn lijst voor 2026. Geen tien "hidden gems", maar tien munten waarvan ik snap wat ze doen, met per munt de plussen, de minnen en voor wie hij is. Alle cijfers zijn van 20 september 2026.
 
-Het vergelijken van dit en de huidige marktkapitalisatie van een project kan vaak leiden tot een interessante openbaring.
-
-### 5. Tokenomics
-
-Een van de meest cruciale vragen om te stellen is: Hoe werkt de token eigenlijk?
-
-Tokenomics beschrijven de economie van een token en kunnen snel een slechte investering onthullen, zelfs als het product en het team uitzonderlijk zijn.
-
-Aanbod en vraag bepalen de tokenprijs, dus het evenwicht tussen de twee en hoe dit zich zou kunnen ontwikkelen toont het potentieel van een investering. Vraag jezelf af:
-
-Waarvoor heb ik de token nodig? Is er vraag naar de token als het product succesvol is? Worden er in de toekomst nieuwe tokens gegenereerd en zo ja, hoe en wanneer gebeurt dat? Zijn tokens vergrendeld voor het team en vroege investeerders en wanneer worden ze ontgrendeld? (Ze hebben waarschijnlijk tegen een lagere prijs gekocht en willen misschien winst nemen zodra ze dat kunnen.) Kunnen tokens worden verbrand (vernietigd) en zo ja, wat triggert deze vermindering van het aanbod?
-
-### 6. Ontwikkelingsteam
-
-De technologische ruggengraat is van groot belang in het tijdperk van digitalisering. Vraag jezelf af:
-
-Wat weet ik over het team achter een op tokens gebaseerd project? Wat is hun achtergrond? Hun vaardigheden? Denk je dat ze hun belofte kunnen waarmaken? Werken ze zo hard aan het project als zou moeten? Veel crypto-ontwikkelingsteams geven inzicht in hun GitHub-profiel, wat het daadwerkelijke werk laat zien dat ze doen.
-
-Als je zelf niet de knowhow hebt om dit te beoordelen, kan het verstandig zijn om met iemand te praten die dat wel kan, voordat je in een project investeert.
-
-### 7. Community-ondersteuning
-
-De community van nu kan morgen de gebruikers en klanten van een product zijn. Het is belangrijk om dit mee te wegen en de community nader te bekijken. Stel jezelf deze vragen:
-
-Is de community echt? Of zijn de volgers op Twitter/Discord etc. gewoon lege accounts? Zijn de mensen daadwerkelijk geïnteresseerd in het product of alleen speculanten? Als de community voornamelijk bestaat uit speculanten en mensen die snel beloningen, gratis crypto, airdrops, whitelists etc. najagen, is het zeer waarschijnlijk dat er enorme verkoopdruk ontstaat zodra het activum verhandelbaar wordt.
-
-### 8. Veiligheid en transparantie
-
-Zoals we in het verleden vaak hebben gezien, kunnen deze twee factoren een project en zijn waarde binnen enkele seconden breken, indien niet goed uitgevoerd.
-
-Veiligheidsfouten treden nooit op op blockchain- of technologisch niveau, maar meestal op menselijk niveau, hetzij door slordige code of gebrek aan governance.
-
-Hoewel veiligheidsproblemen in de meeste gevallen niet opzettelijk zijn, zijn daadwerkelijke oplichtingen dat wel. Voldoende transparantie biedt een betere kans om frauduleus gedrag vroegtijdig te detecteren. Vraag jezelf af:
-
-Wie heeft kritieke toegang tot de code? Wat is een worstcasescenario? Is er een enkelvoudig falenpunt (bijv. één persoon die de privésleutels vasthoudt om een smart contract te wijzigen)? Is er enige informatie verborgen die transparant zou moeten zijn?
-
-### 9. Prestaties
-
-Eerdere prestaties zijn een goede indicator van wat je in de toekomst kunt verwachten, hoewel natuurlijk niet altijd een garantie. Hoewel projecten met goede prestaties een hogere marktkapitalisatie kunnen hebben dan onbewezen projecten, kan het risico aanzienlijk lager zijn.
-
-Vooral in bear markets en tijden van onzekerheid, zoals we die in 2023 meemaakten, kan het een goede strategie zijn om te zoeken naar projecten met een goede staat van dienst die een enorme daling in tokenwaarde hebben meegemaakt.
-
-Als het team goed gefinancierd is en ook in tijden als deze hun product blijft leveren, kunnen ze een veelbelovende investering zijn.
-
-## Top Crypto Trends 2024
-
-Terwijl er in de cryptowereld regelmatig nieuwe trends verschijnen, hebben we gezien dat sommige van deze trends zich hebben gevestigd en zelfs de basis hebben gelegd voor het ontstaan van nieuwe trends. De meest wijdverspreide trends van de afgelopen jaren, en waarschijnlijk ook in 2024, omvatten:
-
-![De toekomst van blockchain en crypto](/images/migrated/toekomst-van-blockchain-en-crypto-1.webp "toekomst-van-blockchain-en-crypto")
-
-### Decentralized Fianance (DeFi)
-
-Het doel van DeFi is het traditionele financiële systeem en al zijn instrumenten te kopiëren naar de blockchain, waardoor het vertrouwen overbodig wordt en programmeerbaar.
-
-Wat in 2019 begon, is inmiddels uitgegroeid tot een enorme infrastructuur voor alle cryptogebruikers. Hoewel de gebruiksvriendelijkheid in de meeste gevallen nog te wensen overlaat, zullen DeFi-protocollen blijven fungeren als de ruggengraat van het toekomstige financiële ecosysteem. Populaire toepassingen van DeFi zijn onder andere:
-
-*   Staken
-*   Lenen & Uitlenen
-*   Liquiditeitsmining
-*   Stablecoins
-
-### Non-Fungibele Tokens (NFT’s)
-
-NFT’s zijn in de afgelopen jaren een van de meest geadopteerde activa geworden, zelfs niet-technische mensen introduceerend in de cryptowereld, omdat er eindelijk iets zichtbaars was om naar te kijken en zelfs “vast te houden” om te laten zien.
-
-Maar NFT’s zijn eigenlijk geen kunstwerken, maar eerder een rekeneenheid voor een uniek, niet-vervangbaar bezit. Dit kan verwijzen naar kunst, maar ook naar vele andere dingen, bijvoorbeeld:
-
-*   (Virtueel) onroerend goed
-*   Gamepersonages & items
-*   Verzamelobjecten
-*   Muziek
-*   Ticketing
-
-#### 30 Grootste alt coins
-
-1.  Ethereum (ETH)
-2.  Binance Coin (BNB)
-3.  Cardano (ADA)
-4.  Polkadot (DOT)
-5.  Tether (USDT)
-6.  Ripple (XRP)
-7.  Uniswap (UNI)
-8.  Litecoin (LTC)
-9.  Chainlink (LINK)
-10.  Bitcoin Cash (BCH)
-11.  Stellar Lumens (XLM)
-12.  USD Coin (USDC)
-13.  Dogecoin (DOGE)
-14.  Wrapped BTC (WBTC)
-15.  NEM (XEM)
-16.  Aave (AAVE)
-17.  Theta Network (THETA)
-18.  Cosmos (ATOM)
-19.  Terra (LUNA)
-20.  OKB (OKB)
-21.  VechainThor (VET)
-22.  Crypto Chain (CRO)
-23.  Monero (XMR)
-24.  Avalanche (AVAX)
-25.  Solana (SOL)
-26.  EOS (EOS)
-27.  IOTA (IOTA)
-28.  Tron (TRX)
-29.  Bitcoin SV (BSV)
-30.  Tezos (XTZ)
-
-[**Bij Finst vind je de 100 populairste crypto munten waarin je gemakkelijk via iDEAL of Bancontact kunt investeren. Een account aanmaken is gratis en snel gedaan.**](/go/finst)
-
-[Koop crypto munten op Finst](/go/finst)
-
-## Beste Crypto Munten om in te investeren in 2024
-
-Hieronder dan onze top 10 beste crypto om in te investeren voor 2024.
+1.  **Bitcoin (BTC)**
+2.  **Ethereum (ETH)**
+3.  **Solana (SOL)**
+4.  **XRP (XRP)**
+5.  **BNB (BNB)**
+6.  **Chainlink (LINK)**
+7.  **Hyperliquid (HYPE)**
+8.  **Tron (TRX)**
+9.  **Cardano (ADA)**
+10.  **Dogecoin (DOGE)**
 
 ## 1. Bitcoin (BTC)
 
-![Bitcoin-spot-etf-exchange-traded-fund](/images/migrated/Bitcoin-spot-etf-exchange-traded-fund-1.webp "Bitcoin-spot-etf-exchange-traded-fund")
+*   **Plus:** de grootste, de oudste en de enige munt die pensioenfondsen en overheden serieus nemen. Amerikaanse ETF's bezitten inmiddels zo'n 1,3 miljoen Bitcoin, ruim 6% van alle munten die er ooit komen.
+*   **Min:** de dagen van een x100 zijn voorbij, en de koers beweegt sinds 2026 vooral mee met de aandelenmarkt. Van de top van oktober 2025 (126.173 dollar) staat hij een derde lager.
+*   **Voor wie:** iedereen die met crypto begint. Ik zou geen portfolio bouwen zonder.
 
-*   **Marktkapitalisatie: Zeer Hoog (minder volatiel)**
-*   **Handelsvolume: Zeer Hoog**
-*   **Liquiditeit: Zeer Hoog**
-*   **Gebruikstoepassing/Adoptie: Uitstekend (grote markt)**
-*   **Tokenomics: Gemiddeld (verwaarloosbare inflatie en beperkte voorraad)**
-*   **Ontwikkelingsteam: Uitstekend**
-*   **Community-ondersteuning: Uitstekend (grote gemeenschap)**
-*   **Veiligheid & Transparantie: Topklasse**
-*   **Prestaties: Uitstekend**
-
-Bitcoin blijft om een reden de toppositie innemen. Het wordt door velen beschouwd als de beste crypto en komt het dichtst in de buurt van het daadwerkelijk gebruikt worden als echt geld. Bitcoin heeft zich in de afgelopen 14 jaar gehandhaafd en is gegroeid, heeft een duidelijke gebruikstoepassing en profiteert enorm van de wijdverspreide adoptie. Een must-have voor elke portefeuille.
-
-Met zijn grote marktkapitalisatie zijn de dagen van korte-termijn 1000x winsten op Bitcoin waarschijnlijk voorbij, dus als je op zoek bent naar hoog risico en grote winsten, is Bitcoin misschien niet het juiste activum.
+Bitcoin blijft om een reden nummer één. De halving van april 2024 halveerde de uitgifte tot 3,125 Bitcoin per block, de volgende komt rond 2028. Er zullen nooit meer dan 21 miljoen munten zijn. Wie de dip van juni 2026 (onder de 60.000 dollar) aangreep om bij te kopen, staat nu weer in de plus. Wie sinds januari 2025 elke maand een vast bedrag inlegde, heeft de top én de dip meegemaakt zonder er wakker van te liggen.
 
 [Bitcoin kopen op Finst](/go/finst)
 
 ## 2. Ethereum (ETH)
 
-![ethereum-kopen-ideal-bancontact](/images/migrated/ethereum-kopen-ideal-bancontact-1.webp "ethereum-kopen-ideal-bancontact (1)")
+*   **Plus:** de blockchain waar het meeste op gebouwd is. Van de 92 miljard dollar die in DeFi vastzit, staat 52 miljard op Ethereum (DefiLlama). Zo'n 32% van alle ether is ingezet als staking, en sinds juli 2024 zijn er Amerikaanse Ethereum-ETF's.
+*   **Min:** niemand weet zeker of Ethereum de nummer twee blijft. Solana pakt de memecoins en de snelle apps, en het nieuwe record van augustus 2025 (4.946 dollar) staat inmiddels weer bijna de helft lager.
+*   **Voor wie:** wie naast Bitcoin één munt wil die de rest van de cryptowereld draaiende houdt.
 
-*   **Marktkapitalisatie: Zeer Hoog (minder volatiel, maar minder opwaarts potentieel)**
-*   **Handelsvolume: Zeer Hoog**
-*   **Liquiditeit: Zeer Hoog**
-*   **Gebruikstoepassing/Adoptie: Uitstekend (duidelijk, wijdverspreid & grote markt)**
-*   **Tokenomics: Uitstekend (deflatoir en beperkte voorraad sinds de Ethereum merge)**
-*   **Ontwikkelingsteam: Uitstekend (groot en bewezen)**
-*   **Community-ondersteuning: Uitstekend (grote gemeenschap)**
-*   **Veiligheid & Transparantie: Uitstekend (hoewel de blockchain veilig en transparant is, kunnen kwaadaardige slimme contracten gevaarlijk zijn voor gewone gebruikers)**
-*   **Prestaties: Uitstekend**
-
-Ethereum staat op de tweede plaats op veel ‘beste crypto’-lijsten. Het is een blockchainplatform dat ontwikkelaars in staat stelt gedecentraliseerde applicaties (dApps) te bouwen en slimme contracten uit te voeren.
-
-Hoewel Ethereum zich in het verleden heeft bewezen en terecht de op één na grootste crypto-asset is qua marktkapitalisatie, gelooft niet iedereen dat het voor altijd op die positie zal blijven.
-
-Voor goed risicobeheer mag het niet ontbreken in de portefeuille van een crypto-investeerder.
+Sinds de overstap naar Proof-of-Stake in 2022 verbruikt Ethereum vrijwel geen stroom meer, en sinds de Pectra-upgrade van mei 2025 kan één validator tot 2.048 ether inzetten. Voor jou is vooral van belang dat je ether kunt staken: bij Finst tegen 1,50% per jaar (september 2026), via een eigen wallet iets meer. Hoe dat precies werkt lees je in mijn artikel over [Proof of Work en Proof of Stake](/blog/web3/proof-of-work-proof-of-stake-pow-pos-consensus-mechanism-cypto/).
 
 [Ethereum kopen op Finst](/go/finst)
 
-## 3. Binance Coin (BNB)
+## 3. Solana (SOL)
 
-![binance-coin-crypto-kopen-ideal-bancontact](/images/migrated/binance-coin-crypto-kopen-ideal-bancontact-1.webp "binance-coin-crypto-kopen-ideal-bancontact")
+*   **Plus:** snel, goedkoop en het epicentrum van alles wat in 2024-2026 populair was: memecoins, handelsapps, tokenisatie van aandelen. Sinds oktober 2025 zijn er Amerikaanse Solana-ETF's, samen goed voor zo'n 1,5 miljard dollar.
+*   **Min:** het netwerk viel in het verleden meerdere keren uit, en Solana is ook de thuisbasis van het memecoin-casino: op sommige dagen worden er 42.000 nieuwe munten per dag gelanceerd, waarvan minder dan 2% ooit een echte beurs haalt.
+*   **Voor wie:** wie gelooft dat crypto vooral een consumententechnologie wordt.
 
-*   **Marktkapitalisatie: Hoog**
-*   **Handelsvolume: Hoog**
-*   **Liquiditeit: Hoog**
-*   **Gebruikstoepassing/Adoptie: Uitstekend (grote gebruikersbasis en continu nieuwe gebruikstoepassingen geïntroduceerd door Binance)**
-*   **Tokenomics: Gemiddeld (burning mechanisme om de voorraad te verminderen is geweldig, maar de initiële verkoop concentreert nog steeds een enorme hoeveelheid van de totale voorraad in handen van oprichters en vroege investeerders, die een enorme impact op de markt kunnen hebben)**
-*   **Ontwikkelingsteam: Uitstekend**
-*   **Community-ondersteuning: Uitstekend**
-*   **Veiligheid & Transparantie: Slecht (helaas worden Binance Smart Chain, Binance Chain en Binance als beurs zelf gecontroleerd door een kleine groep machtige entiteiten, wat een duidelijk veiligheidsrisico vormt)**
-*   **Prestaties: Uitstekend**
-
-Als de grootste zogenaamde “exchange coin” blijft BNB zich in verschillende richtingen ontwikkelen, met steeds meer gebruikstoepassingen voor de token (bijvoorbeeld Cosmos chain, EVM chain en bonussen voor Binance CEX-gebruikers).
-
-Helaas is dit alles nog steeds gebouwd op een zeer gecentraliseerde basis en kan het instorten door regelgevende invloed of frauduleus gedrag van slechte actoren.
-
-Uiteindelijk moet een investeringsbeslissing hier enigszins gebaseerd zijn op vertrouwen.
-
-[Binance Coin kopen op Finst](/go/finst)
-
-## 4. Cardano (ADA)
-
-![Cardano kopen met ideal en bancontact 2024](/images/migrated/Cardano-kopen-met-ideal-en-bancontact-2024.webp "Cardano kopen met ideal en bancontact 2024")
-
-*   **Marktkapitalisatie: Hoog**
-*   **Handelsvolume: Gemiddeld**
-*   **Liquiditeit: Gemiddeld**
-*   **Gebruikstoepassing/Adoptie: Uitstekend (duidelijk, wijdverspreid & grote markt)**
-*   **Tokenomics: Redelijk (verbrandingsmechanisme om de voorraad te verminderen is geweldig, maar de initiële verkoop concentreert nog steeds een enorme hoeveelheid van de totale voorraad in handen van oprichters en vroege investeerders, die een enorme impact op de markt kunnen hebben)**
-*   **Ontwikkelingsteam: Uitstekend**
-*   **Community-ondersteuning: Uitstekend**
-*   **Veiligheid & Transparantie: Uitstekend (hoewel de blockchain veilig en transparant is, kunnen kwaadaardige slimme contracten gevaarlijk zijn voor gewone gebruikers)**
-*   **Prestaties: Uitstekend**
-
-Cardano is een blockchainplatform dat streeft naar het bieden van een efficiënter, duurzamer en interoperabel platform voor het bouwen en uitvoeren van gedecentraliseerde applicaties en slimme contracten.
-
-Het is ontworpen om de ontwikkeling en uitvoering van slimme contracten en gedecentraliseerde applicaties (dApps) mogelijk te maken, terwijl het tegelijkertijd de problemen van schaalbaarheid, interoperabiliteit en duurzaamheid aanpakt die andere blockchainplatformen hebben geplaagd.
-
-Cardano is een zeer polariserend project met een sterke gemeenschap, maar ook veel tegenstanders. Hun diepgaande onderzoeksaanpak maakt hen langzamer dan andere projecten, maar potentieel veerkrachtiger.
-
-[Cardano kopen op Finst](/go/finst)
-
-## 5. Polkadot (DOT)
-
-![polkadot-crypto-kopen-ideal-bancontact](/images/migrated/polkadot-crypto-kopen-ideal-bancontact-1.webp "polkadot-crypto-kopen-ideal-bancontact")
-
-*   **Marktkapitalisatie: Hoog**
-*   **Handelsvolume: Gemiddeld**
-*   **Liquiditeit: Gemiddeld**
-*   **Gebruikstoepassing/Adoptie: Gemiddeld (duidelijke doelmarkt, maar nog in een vroeg adoptiestadium)**
-*   **Tokenomics: Redelijk (de noodzaak om DOT te vergrendelen voor parachain-veilingen vermindert sterk de circulerende voorraad, maar is tegelijkertijd een risicofactor als grote ontgrendelingen in de toekomst plaatsvinden)**
-*   **Ontwikkelingsteam: Uitstekend**
-*   **Community-ondersteuning: Gemiddeld**
-*   **Veiligheid & Transparantie: Uitstekend (hoewel de blockchain veilig en transparant is, kunnen kwaadaardige slimme contracten gevaarlijk zijn voor gewone gebruikers)**
-*   **Prestaties: Uitstekend**
-
-Polkadot is een blockchainplatform dat tot doel heeft interoperabiliteit tussen verschillende blockchainnetwerken mogelijk te maken. Het biedt een manier voor verschillende blockchainnetwerken om te communiceren en samen te werken, wat leidt tot meer schaalbaarheid, veiligheid en functionaliteit.
-
-Polkadot had aanvankelijk grote hype, die in de loop van de afgelopen jaren is afgekoeld.
-
-Hoewel de ontwikkeling nog steeds sterk doorgaat, moeten we nog grote bruikbaarheid zien in de vorm van portefeuilles en breed geadopteerde gebruikstoepassingen die gebouwd zijn op de vele verschillende parachains.
-
-[Polkadot kopen op Finst](/go/finst)
-
-## 6. Solana (SOL)
-
-![solana-kopen-met-ideal-en-bancontact](/images/migrated/solana-kopen-met-ideal-en-bancontact.webp "solana-kopen-met-ideal-en-bancontact")
-
-*   **Marktkapitalisatie: Hoog**
-*   **Handelsvolume: Hoog**
-*   **Liquiditeit: Hoog**
-*   **Gebruikstoepassing/Adoptie: Uitstekend (de hoge snelheid van Solana maakt het de beste oplossing voor veel gebruikstoepassingen, wat heeft geleid tot sterke adoptie in een zeer korte tijd)**
-*   **Tokenomics: Gemiddeld (met een initiële inflatie van 8% aflopend naar 1,5%, zijn de tokenomics niet gunstig, maar ook niet te slecht)**
-*   **Ontwikkelingsteam: Gemiddeld (het valt nog te bezien of de grote problemen van Solana’s unieke consensusalgoritme in de toekomst opgelost kunnen worden)**
-*   **Community-ondersteuning: Uitstekend**
-*   **Veiligheid & Transparantie: Slecht (vanwege de hoge kosten voor het draaien van een Solana-node, ligt de controle van het netwerk in handen van enkele actoren, die veel macht over het netwerk hebben, zoals blijkt uit meerdere netwerkonderbrekingen in het verleden)**
-*   **Prestaties: Uitstekend**
-
-Solana is ontworpen voor snelle en volumineuze transacties. Het biedt een schaalbaarder en efficiënter alternatief voor andere blockchainnetwerken, waardoor het geschikt is voor toepassingen die snelle en frequente transacties vereisen. Er was een tijd dat het als de beste crypto voor staking werd beschouwd.
-
-Solana heeft veel te lijden gehad vanwege zijn connectie met Sam Bankman-Fried, de frauduleuze oprichter van FTX en voorstander van de blockchain.
-
-Als het project erin slaagt enkele overgebleven technische hindernissen te overwinnen en hun belofte van grote bruikbaarheid na te komen (bijvoorbeeld met hun eigen smartphone), zou SOL kunnen herrijzen als een feniks.
-
-Risico en beloning is waarschijnlijk hoger dan bij de meeste andere topprojecten.
+Solana zette in januari 2025 een record van 294 dollar neer en staat daar nu ruim 60% onder. In 2024 schreef ik nog dat het project "als een feniks zou kunnen herrijzen" na de val van FTX. Dat gebeurde, en daarna kwam de kater. Staken kan bij Finst tegen 2,80% per jaar.
 
 [Solana kopen op Finst](/go/finst)
 
-## 7. Polygon (MATIC)
+## 4. XRP (XRP)
 
-![polygon-crypto-kopen-ideal-bancontact](/images/migrated/polygon-crypto-kopen-ideal-bancontact-1.webp "polygon-crypto-kopen-ideal-bancontact")
+*   **Plus:** gebouwd voor betalingen tussen banken en landen, sinds eind 2024 met een eigen dollar-stablecoin (RLUSD) en sinds 2025 met Amerikaanse ETF's. Na jaren van rechtszaken is de juridische mist rond het bedrijf erachter (Ripple) opgetrokken.
+*   **Min:** een groot deel van de munten is in handen van Ripple zelf, en de koers staat nog altijd onder het record van januari 2018 (3,84 dollar).
+*   **Voor wie:** wie inzet op het "saaie" gebruik van crypto door banken.
 
-*   **Marktkapitalisatie: Hoog**
-*   **Handelsvolume: Hoog**
-*   **Liquiditeit: Hoog**
-*   **Gebruikstoepassing/Adoptie: Uitstekend (met het simpele gebruik van een goedkoper alternatief voor Ethereum, ziet Polygon grote adoptie)**
-*   **Tokenomics: Uitstekend (een deel van de transactiekosten wordt verbrand, wat resulteert in een deflatoir activum)**
-*   **Ontwikkelingsteam: Uitstekend Community-ondersteuning: Uitstekend**
-*   **Veiligheid & Transparantie: Uitstekend (meer dan 100 onafhankelijke nodes)**
-*   **Prestaties: Uitstekend**
+XRP was in 2024 de munt waar ik het minst mee had, en juist die klom in de afgelopen twee jaar naar plek vijf van de wereld. Een goede herinnering dat mijn gevoel geen goede indicator is.
 
-Polygon, voorheen bekend als Matic Network, biedt een schaalbaarder en interoperabeler infrastructuur voor het bouwen van gedecentraliseerde applicaties (dApps).
+[XRP kopen op Finst](/go/finst)
 
-Het is ontworpen als een “laag twee” op het Ethereum-netwerk, waardoor ontwikkelaars Ethereum-compatibele dApps kunnen bouwen en implementeren op het Polygon-netwerk.
+## 5. BNB (BNB)
 
-Polygon ziet grote adoptie door veel projecten vanwege de lage kostenstructuur. Hoewel het bedrijfsmodel van Polygon in theorie gemakkelijk te kopiëren is, zijn ze erin geslaagd een sterk netwerkeffect te vestigen wat resulteert in gestage groei.
+*   **Plus:** de munt van de grootste exchange ter wereld, met een eigen blockchain waar veel handel en DeFi op draait (5,7 miljard dollar aan TVL). Zette in oktober 2025 een nieuw record neer van 1.371 dollar.
+*   **Min:** alles hangt aan één bedrijf. Binance mag Nederlanders sinds 2023 niet meer bedienen omdat het geen Nederlandse vergunning kreeg, en de blockchain wordt gecontroleerd door een kleine groep partijen.
+*   **Voor wie:** wie het risico van één bedrijf accepteert in ruil voor een munt die bewezen heeft cycli te overleven.
 
-[Polygon kopen op Finst](/go/finst)
+In 2024 gaf ik BNB een onvoldoende op veiligheid en transparantie. Dat oordeel houd ik, en toch deed de munt het beter dan bijna al mijn andere keuzes. Zo eerlijk moet je zijn.
 
-## 8. Avalance (AVAX)
+## 6. Chainlink (LINK)
 
-![avalance-crypto-kopen-ideal-bancontact](/images/migrated/avalance-crypto-kopen-ideal-bancontact-1.webp "avalance-crypto-kopen-ideal-bancontact")
+*   **Plus:** het 'kabeltje' tussen blockchains en de echte wereld. Elke DeFi-app die een koers nodig heeft, elke bank die een obligatie tokeniseert, heeft zo'n verbinding nodig, en Chainlink is de standaard geworden.
+*   **Min:** het gebruik groeit, de munt niet per se mee: LINK staat 77% onder zijn top van 2021. De vraag is of de waarde van al dat verkeer ooit bij de munt terechtkomt.
+*   **Voor wie:** wie in tokenisatie gelooft maar niet op één bank of één blockchain wil gokken.
 
-*   **Marktkapitalisatie: Hoog**
-*   **Handelsvolume: Gemiddeld**
-*   **Liquiditeit: Gemiddeld**
-*   **Gebruikstoepassing/Adoptie: Gemiddeld (de subnetbenadering van Avalanche heeft geweldige gebruikstoepassingen, vooral in gaming, maar moet nog wijdverbreide adoptie zien)**
-*   **Tokenomics: Uitstekend (een deel van de transactiekosten wordt verbrand, wat resulteert in een deflatoir activum)**
-*   **Ontwikkelingsteam: Uitstekend**
-*   **Community-ondersteuning: Gemiddeld**
-*   **Veiligheid & Transparantie: Uitstekend (meer dan 100 onafhankelijke nodes)**
-*   **Prestaties: Uitstekend**
+## 7. Hyperliquid (HYPE)
 
-Avalanche biedt ook een schaalbaarder, interoperabeler en gedecentraliseerder infrastructuur voor het bouwen van gedecentraliseerde applicaties (dApps) en het uitvoeren van slimme contracten, hoewel het een andere benadering volgt dan andere “laag twee” oplossingen.
+*   **Plus:** de grootste gedecentraliseerde beurs voor handelen met hefboom, met ruim 170 miljard dollar aan handelsvolume per maand. De munt verdrievuldigde in 2026 en zette op 19 september 2026 een nieuw record neer.
+*   **Min:** het verdienmodel is een casino voor hefboomhandel, precies het soort handel waarvan ik je in al mijn artikelen afraad. En een munt die net op zijn hoogste punt ooit staat, koop je zelden op een goed moment.
+*   **Voor wie:** ervaren beleggers die een klein bedrag willen inzetten op de infrastructuur van de cryptohandel. Controleer of je exchange hem aanbiedt.
 
-Avalanche biedt zogenaamde subnets, die gelinkte ketens zijn van de Avalanche C-Chain. Dit stelt het in staat om gemakkelijk een toegewijde blockchain te lanceren voor verschillende gebruikstoepassingen, zoals we hebben gezien met DFK Chain, een van de grootste gamingprojecten in de web3-ruimte.
+## 8. Tron (TRX)
 
-[Avalanche kopen op Finst](/go/finst)
+*   **Plus:** de saaiste munt in deze lijst en misschien wel de meest gebruikte: over het Tron-netwerk gaat een groot deel van alle stablecoin-betalingen ter wereld, vooral in Azië, Afrika en Latijns-Amerika. De koers staat maar 22% onder zijn record van december 2024, waar de meeste altcoins 80 tot 95% verloren.
+*   **Min:** sterk gecentraliseerd rond één oprichter, en Europese regels rond stablecoins (MiCA) kunnen het gebruik in Europa beperken.
+*   **Voor wie:** wie wil beleggen in wat mensen daadwerkelijk met crypto doen: dollars versturen. Staken kan bij Finst tegen 1,60% per jaar.
 
-## 9. VeChain (VET)
+## 9. Cardano (ADA)
 
-![Vechain-VET-kopen-ideal-bancontact](/images/migrated/Vechain-VET-kopen-ideal-bancontact-1.webp "Vechain-VET-kopen-ideal-bancontact")
+*   **Plus:** nog steeds een top-20-munt, op elke Nederlandse exchange te koop, met een trouwe community en een wetenschappelijke aanpak.
+*   **Min:** de cijfers. Cardano staat 93% onder zijn top van 2021 en kwam in de bull market van 2024-2025 niet in de buurt. De trage aanpak die ik in 2024 als "potentieel veerkrachtiger" omschreef, bleek vooral traag.
+*   **Voor wie:** wie er al in zit en de tijd heeft. Als nieuwe aankoop zou ik eerst naar de munten hierboven kijken.
 
-*   **Marktkapitalisatie: Gemiddeld**
-*   **Handelsvolume: Gemiddeld**
-*   **Liquiditeit: Gemiddeld**
-*   **Gebruikstoepassing/Adoptie: Goed (VeChain richt zich op het toepassen van blockchain-technologie in de supply chain industrie, met een sterke focus op authenticiteit en traceerbaarheid van producten)**
-*   **Tokenomics: Goed (VET wordt gebruikt voor transactiekosten en bedrijfsactiviteiten binnen het VeChain-ecosysteem, met een stabiele voorraad en een balans tussen vraag en aanbod)**
-*   **Ontwikkelingsteam: Uitstekend (ervaren en gericht op de integratie van blockchain met de echte wereld)**
-*   **Community-ondersteuning: Goed**
-*   **Veiligheid & Transparantie: Uitstekend (gebruikt een unieke consensusmethode genaamd Proof of Authority, wat zorgt voor efficiëntie en veiligheid binnen het netwerk)**
-*   **Prestaties: Goed**
+Ik laat Cardano bewust in de lijst staan, omdat het de munt is die de meeste Nederlanders bezitten en omdat je van een verliezer meer leert dan van een winnaar. Staken levert bij Finst 1,20% per jaar op.
 
-VeChain streeft ernaar een van de grote problemen in de supply chain industrie op te lossen door blockchain-technologie toe te passen voor verbeterde traceerbaarheid en authenticiteit. Dit heeft het potentieel om fraude te verminderen en de efficiëntie in de hele keten te verhogen.
-
-VeChain heeft al succesvolle samenwerkingsverbanden en implementaties in verschillende industrieën laten zien, waaronder luxe goederen, voedsel- en drankensector, en farmaceutica. Deze toepassingen tonen de praktische waarde van de blockchain in de echte wereld.
-
-De visie van VeChain is ambitieus maar haalbaar, met een sterke nadruk op bruikbare en bedrijfsklare oplossingen. Als VeChain zijn beloften nakomt en blijft groeien in adoptie, kan het een belangrijke speler worden in de blockchain-industrie, vooral in de sectoren supply chain management en bedrijfslogistiek.
-
-[VeChain kopen op Finst](/go/finst)
+[Cardano kopen op Finst](/go/finst)
 
 ## 10. Dogecoin (DOGE)
 
-![dogecoin-crypto-kopen-ideal-bancontact](/images/migrated/dogecoin-crypto-kopen-ideal-bancontact-1.webp "dogecoin-crypto-kopen-ideal-bancontact")
+*   **Plus:** de eerste memecoin (2013), nog steeds zo'n 13 miljard euro waard en de enige memecoin met een serieuze geschiedenis van overleven.
+*   **Min:** geen maximaal aantal munten, geen ontwikkelteam van betekenis en een koers die 89% onder het record van mei 2021 staat.
+*   **Voor wie:** niemand als investering. Ik zet Dogecoin, net als in 2024, in de lijst als les.
 
-*   **Marktkapitalisatie: Hoog**
-*   **Handelsvolume: Hoog**
-*   **Liquiditeit: Hoog**
-*   **Gebruikstoepassing/Adoptie: Slecht (als een zogenaamde meme-munt heeft DOGE nog geen echte gebruikstoepassing, hoewel sommigen speculeren dat Elon Musk het in de toekomst zal introduceren als betaalstandaard)**
-*   **Tokenomics: Slecht (geen maximale hoeveelheid token en constante inflatie)**
-*   **Ontwikkelingsteam: Slecht (heeft zich lang geleden teruggetrokken uit het project)**
-*   **Community-ondersteuning: Uitstekend**
-*   **Veiligheid & Transparantie: Gemiddeld (vergelijkbaar met Bitcoin maar met minder miners en daarom verminderde veiligheid)**
-*   **Prestaties: Uitstekend (zeer volatiel en sterke invloed door de acties van Elon Musk) Dogecoin is gecreëerd als een luchtige parodie op Bitcoin. Het kenmerkt de Shiba Inu-hond van de “Doge”-internetmeme als zijn mascotte en staat bekend om zijn vriendelijke en humoristische gemeenschap.**
+Dogecoin laat zien dat een sterke community en een goed verhaal de koers jaren kunnen dragen, ook zonder echt gebruik. Wat het ook laat zien: wie in de hype van 2021 kocht, wacht vijf jaar later nog steeds. Wil je toch met memecoins spelen, lees dan eerst mijn artikel over [het kopen van kleine memecoins](/blog/web3/meme-coins-kopen-crypto/), inclusief wat het me kostte.
 
-We hebben Dogecoin in deze lijst opgenomen om een project met slechte fundamenten te tonen, maar toch geweldige prestaties in het verleden.
+![Een boeket van verschillende munten in een vaas](/images/spots/crypto-altcoins.webp "Altcoins: duizenden munten, elk met een eigen idee")
 
-Dit moet aantonen dat een sterke gemeenschap en marketingverhaal een enorme invloed kunnen hebben op de (korte termijn) prijs van een activum, zelfs als er nog geen echte gebruikstoepassing is.
+## Hier handel je in cryptovaluta (crypto exchange)
 
-[Dogecoin kopen op Finst](/go/finst)
-
-## Hier handel je in cryptovaluta (Crypto Exchange)
-
-Er zijn verschillende plekken om crypto te verhandelen. Wees bewust van je keuze. Sommige platforms pakken grove commissies op je winsten of je inleg. De makkelijkste en goedkoopste manier om te beginnen met crypto kopen is **[Finst](/go/finst)**.
+Er zijn verschillende plekken om crypto te verhandelen. Wees bewust van je keuze. Sommige platforms pakken grove commissies op je winsten of je inleg, of verstoppen die in de spread tussen de aan- en verkoopprijs. De makkelijkste én goedkoopste manier om te beginnen is **[Finst](/go/finst)**.
 
 [![Crypto kopen](/images/migrated/finst-crypto-kopen-2.webp)](/go/finst)
 
-Starten met Finst is net zo simpel als het lijkt. Je maakt een account aan en kunt met de app op jouw mobiele telefoon direct starten met het traden van crypto. Je vind er **100+ verschillende cryptomunten**.
+Starten met Finst is net zo simpel als het lijkt. Je maakt een account aan en kunt met de app op je telefoon direct starten. Je vindt er **ruim 400 cryptomunten** en betaalt een vaste 0,15% per transactie, zonder verborgen spread. Per €1.000 is dat €1,50, tegenover €2,50 bij Bitvavo. Alle munten uit mijn lijst die je op een Nederlandse exchange kunt kopen, vind je er.
 
-Belangrijk om vooraf te weten is dat [**Finst**](/go/finst) een verificatieproces heeft dat zo’n 5 minuten duurt. Dit is belangrijk voor de veiligheid, maar kan er dus voor zorgen dat je even je paspoort/rijbewijs bij de hand moet houden. Dit proces heet **KYC**, oftewel **Know Your Customer**, en is verplicht voor Nederlandse crypto exchanges.
+Belangrijk om vooraf te weten is dat [**Finst**](/go/finst) een verificatieproces heeft dat zo'n 5 minuten duurt. Dit proces heet **KYC** (Know Your Customer) en is verplicht voor elke Europese exchange met vergunning. Houd je paspoort of rijbewijs dus bij de hand.
 
-Via onderstaande knop maak je gratis een account aan voor de Nederlandse crypto exchange met de allerlaagste handelskosten! Goed om te weten; als je niets verhandelt betaal je niets.
-
-Daarbij is Finst **een Nederlands bedrijf** en voldoet het dus aan de Nederlandse wetgeving.
+Daarbij is Finst **een Nederlands bedrijf** met sinds 24 juli 2025 een MiCA-vergunning van de AFM. Dat betekent dat je geld gescheiden wordt bewaard van het bedrijfsgeld en dat er toezicht is. Een uitgebreide review lees je in mijn [Finst review](/blog/review/finst-crypto-exchange/), en de vergelijking met de grootste van Nederland in mijn [Bitvavo review](/blog/review/bitvavo-review-crypto/).
 
 [Koop crypto via Finst](/go/finst)
 
-Hoewel het voor de beginner niet aan te raden is, zijn er ook tal van andere platformen om crypto te verhandelen. Deze zijn wat moeilijker in gebruik en ondersteunen bijvoorbeeld geen iDEAL of Bancontact betaling. Wel vind je er voor de liefhebber meer opties om te traden.
+Wil je ook munten kopen die niet op een Nederlandse exchange staan, zoals Zcash of Monero? Dan heb je een buitenlandse exchange met Europese vergunning nodig, plus een eigen wallet. Welke dat zijn lees je in mijn overzicht van [de beste crypto exchanges](/blog/web3/beste-crypto-exchange/).
 
-Wanneer je een beeld hebt in welke crypto je wilt handelen is het makkelijker om [een goede crypto exchange/platform](/blog/web3/beste-crypto-exchange/) te vinden. Niet ieder platform maakt het namelijk mogelijk om in iedere munt te handelen.
+## Je cryptomunten bewaren
 
-## Je crypto munten bewaren
+Waar je je munten laat, is net zo belangrijk als welke je koopt. Je hebt drie smaken:
 
-De opslag van cryptovaluta speelt een cruciale rol in het gedecentraliseerde crypto-ecosysteem. Het bewaren van je cryptocurrencies op een beurs kan risicovol zijn, omdat ze kwetsbaar zijn voor hacking en andere beveiligingsdreigingen. We raden ten zeerste aan om je cryptocurrencies op te slaan in een wallet waarover je zelf controle hebt.
+*   **Op de exchange.** Bij een platform met MiCA-vergunning, zoals Finst of Bitvavo, staan je munten gescheiden van het bedrijfsgeld en onder toezicht. Voor bedragen waar je regelmatig mee handelt is dit prima. Zet wel twee-factor-authenticatie aan met een authenticator-app, nooit via sms.
+*   **Software wallet.** Een app op je telefoon of computer waarvan alleen jij de herstelwoorden hebt. Handig als je apps op de blockchain wilt gebruiken, maar dan ben jij ook de enige die je munten kan kwijtraken.
+*   **Hardware wallet.** Een apparaatje van bijvoorbeeld Ledger of Trezor dat je sleutels offline bewaart. Voor bedragen die je jaren wilt vasthouden de veiligste keuze, al bewees 2026 dat ook dat niet waterdicht is: bij gebruikers van de Coldcard-wallet werd in juli ruim 100 miljoen dollar gestolen door een zwakte in het aanmaken van sleutels.
 
-Soorten cryptocurrency-wallets Over het algemeen onderscheiden we hardware wallets, software wallets en custodial wallets. De eerste twee leggen de toegang tot je munten en tokens in jouw verantwoordelijkheid, terwijl custodial wallets worden beheerd door een derde partij, zoals een crypto-uitwisseling (die je moet vertrouwen). Uiteindelijk komt elk type wallet met een afweging tussen veiligheid en flexibiliteit.
+![Een kleine kluis met een sleutel ernaast op een houten tafel](/images/spots/beste-kluis.webp "Grote bedragen die je jaren vasthoudt, horen op een eigen wallet")
 
-### Hardware wallets
+Wat je ook kiest: schrijf je herstelwoorden op papier, nooit in een screenshot, en deel ze met niemand. Geen enkele exchange, wallet of helpdesk zal er ooit om vragen.
 
-De bekendste merken voor hardware wallets zijn Ledger en Trezor. Hardware wallets stellen je in staat om snel toegang te krijgen tot je wallet zonder dat je je volledige privésleutel hoeft te kennen door deze te versleutelen met een wachtwoord.
+## Conclusie: beste crypto 2026
 
-### Software wallets
+De beste crypto van 2026 is niet één munt, maar een manier van kijken. Mijn lijst van 2024 leerde me dat de grootste munten in een bull market het meeste opleveren en in een bear market het minste verliezen, en dat de "veelbelovende projecten" meestal maar één seizoen glanzen. Daarom bestaat mijn eigen portfolio in 2026 voor het grootste deel uit Bitcoin en Ethereum, met kleine plukjes in munten die ik snap. Elke maand een vast bedrag, staking aan waar het kan, en verder afblijven.
 
-Software wallets werken als hardware wallets maar zijn puur digitaal. Het is belangrijk om op te merken dat software wallets zelf gehost of custodial kunnen zijn, dus zorg ervoor dat je dit controleert voordat je activa overdraagt.
-
-### Papieren wallets
-
-Een papieren wallet is de meest vereenvoudigde vorm van een hardware wallet, waarbij versleuteling wordt overgeslagen en je privésleutel in platte tekst wordt opgeslagen. Het is de goedkoopste manier om toegang te krijgen tot een blockchain wallet, maar brengt enkele duidelijke risico’s met zich mee.
-
-## Tips voor het investeren in crypto currencies
-
-### Doe zelf onderzoek
-
-We hebben je enkele crypto-projecten in dit artikel getoond en de factoren die we gebruiken om ze te evalueren. Je kunt deze aanpak gebruiken als een basischeck om te zoeken naar eventuele rode vlaggen in een project. Maar beperk je onderzoek niet tot het activum zelf, het is ook belangrijk om op de hoogte te blijven van macro-economische gebeurtenissen die de hele markt kunnen beïnvloeden, zoals renteverhogingen, regelgeving, enz.
-
-### Diversifieer je portfolio
-
-“Wed nooit op één paard” is zeker een gezegde dat men in gedachten moet houden. Diversificatie en portfoliobalans hebben nog nooit een goede belegger pijn gedaan. Ja, je mist misschien wat winsten door niet alles in te zetten op een gehypte munt, maar onthoud dat cryptocurrencies net zo snel kunnen dalen als ze zijn gestegen.
-
-### Investeer alleen wat je kunt veroorloven te verliezen
-
-Dit zou vanzelfsprekend moeten zijn, maar weersta de verleiding om schulden te maken voor een investering, hoe zeker je ook bent dat het zal slagen. Er zijn te veel factoren die buiten je controle liggen en die kunnen leiden tot een negatieve uitkomst tegen alle verwachtingen in.
-
-### Wees voorbereid op volatiliteit
-
-Crypto is volatiel, dat is een feit. De markt is gewoon erg klein in vergelijking met de aandelenmarkt of onroerend goed. Volatiliteit is niet per se een slechte zaak, maar iets om in gedachten te houden. Een geweldige manier om je blootstelling aan volatiliteit te verminderen, is door te investeren via Dollar-Cost-Averaging (DCA), wat betekent het kopen of verkopen van kleinere delen van een activum over een langere periode.
-
-### Blijf op de hoogte van markttrends en nieuws
-
-Er zijn veel nieuwsbronnen en het is belangrijk om deze verstandig te kiezen. Door de juiste mensen op Twitter te volgen of je te abonneren op de juiste Subreddits, kun je in de voorhoede van informatie staan. Maar pas op: het volgen van de verkeerde mensen kan je rechtstreeks in de handen van oplichters duwen. Nogmaals: DYOR (Do Your Own Research) en laat je niet te veel meeslepen door FOMO (Fear Of Missing Out)!
-
-[**Investeren in crypto doe je het goedkoopst en veiligst via de Nederlandse crypto exchange Finst. Maak gratis een account aan en begin direct met investeren >>**](/go/finst)
+Wil je beginnen? [Maak een gratis account aan bij Finst](/go/finst), koop een klein bedrag Bitcoin en kijk een maand lang wat het met je doet. Daarna weet je genoeg om de rest van deze lijst op waarde te schatten. **Succes!**

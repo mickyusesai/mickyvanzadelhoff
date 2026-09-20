@@ -38,6 +38,8 @@ featuredImage: "/images/headers/online-marketing-slotenmaker.webp"
 
 ### Maak daarom voor iedere dienst die je aanbiedt een aparte landingspagina. Dat zijn pagina’s die specifiek gericht zijn op één dienst. Dit zorgt er ook voor dat Google mensen die zoeken naar jouw dienst als slotenmaker, direct worden doorverwezen naar de juiste pagina op jouw website. Zij komen dus niet eerst langs de homepage, maar direct bij de pagina van waar ze naar op zoek zijn.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Slotenmaker bellen via één simpele knop
 
 ### Op de mobiele gebruiker voortbordurend, een ander belangrijk onderdeel. De meest waarschijnlijke call to action voor de slotenmakersservice, is dat de mobiele website bezoeker de slotenmaker belt. Hier moeten we die pagina dan ook op inrichten. Andere manieren om te contacten (oftewel andere call to actions), horen hier niet thuis. Zorg daarom dat er een bel-nu knop op de slotenmakersservice pagina staat. Een knop die klikbaar (_link naar url tekst als ’tel:0612345678′_) is verhoogt je conversie op die pagina ;).
@@ -73,6 +75,8 @@ featuredImage: "/images/headers/online-marketing-slotenmaker.webp"
 > ### Doet nog niemand dit in de markt? Mooi, daar liggen dus kansen :).
 
 ### Daarbij zorgt een e-book ervoor dat jij de ware expert bent in de markt, dit heeft tal van voordelen wanneer je iets wilt verkopen in de toekomst. In veel andere branches waar ‘de gewone consument‘ weinig van het product of de dienst af weet, werkt deze manier van informeren, verbinden en verkopen erg goed.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Online marketing slotenmaker
 

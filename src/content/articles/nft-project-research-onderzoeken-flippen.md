@@ -1,8 +1,8 @@
 ---
-title: "Hoe vind je goede NFTs? Zo research je een NFT project"
-description: "Voor wie geld wilt verdienen met NFTs is de meest toegankelijke manier vaak om NFTs te flippen. Je koopt een NFT in voor een lage prijs en verkoopt…"
+title: "Hoe vind je goede NFT's? Zo research je een NFT-project in 2026"
+description: "NFT-research in acht stappen, bijgewerkt voor 2026: aanbod, floor price, volume, team en community. Plus rode vlaggen en een flip-calculator."
 date: 2022-05-22
-updated: 2022-05-23
+updated: 2026-09-19
 category: "web3"
 slug: "nft-project-research-onderzoeken-flippen"
 lang: "nl"
@@ -10,147 +10,132 @@ draft: false
 featuredImage: "/images/headers/nft-project-research-onderzoeken-flippen.webp"
 ---
 
-Voor wie geld wilt verdienen met NFTs is de meest toegankelijke manier vaak om **NFTs te flippen**. Je koopt een NFT in voor een lage prijs en verkoopt deze voor meer. Het verschil in prijs is jouw winst.
+**Hoe vind je goede NFT's?** Toen ik dit artikel in mei 2022 schreef, was NFT's flippen (goedkoop inkopen, duurder verkopen) voor veel mensen de makkelijkste manier om geld te verdienen met NFT's. Ik had net een Nederlandse cursus gevolgd, zat in een Discord waar dagelijks winsten voorbijkwamen en onderzocht als voorbeeld de collectie Ape Harmony Monster Club.
 
-Maar welke NFTs zou je dan het beste kunnen kopen als dit NFTs moeten zijn **die de potentie hebben om in waarde te stijgen**? Om dat te weten doe je **research naar een NFT project**.
+In 2026 is dat een ander verhaal. De NFT-markt is een fractie van wat hij was: in november 2025 ging er in de hele wereld zo'n 320 miljoen dollar per maand in om, tegen ruim 17 miljard dollar in heel 2021. De gemiddelde verkoop is 80 tot 100 dollar. Flippen als inkomen bestaat niet meer; flippen als hobby met leergeld wel.
 
-In dit artikel lopen we zo’n **NFT onderzoek** door met een voorbeeld, zodat je deze zelf voor andere NFTs uit kan voeren en de juiste projecten vind voor **goede flips**. Een van de belangrijkste tools die we hierbij gebruiken is OpenSea.
+Toch laat ik de acht stappen staan, om twee redenen. Ten eerste werken ze nog steeds om een project te beoordelen, of je nu wilt flippen of gewoon één NFT wilt kopen omdat je hem mooi vindt. Ten tweede is dezelfde research je beste bescherming tegen oplichting, en die is er in 2026 meer dan ooit. Je leest de stappen, wat er sinds 2022 veranderd is, de rode vlaggen van nu en een calculator die uitrekent of een flip na alle kosten nog iets oplevert. Ik geef geen financieel advies; ik laat zien hoe ik het zelf zou aanpakken.
 
-In dit artikel geef ik géén financieel advies. Ook wil ik hiermee niet stellen dat je NFTs moet willen flippen, ik laat je alleen zien hoe je dat kan doen **als je op zoek bent naar goede NFT projecten**. Veel van de technieken die je hier tegenkomt heb ik zelf geleerd uit de [NFT Secrets cursus van Mitchel van Duuren](/go/nft-secrets).
+## Waarom je een NFT-project onderzoekt
 
-## Waarom een NFT project onderzoeken?
+Flippen betekent niets anders dan dat je een NFT koopt en hem voor meer verkoopt. Voor een goede flip moet je dus projecten vinden waarvan je verwacht dat iemand er later meer voor wil betalen. En dat is in 2026 het probleem: de "iemand later" is schaars geworden.
 
-Eerst even iets over NFTs flippen in het algemeen. Hiermee bedoelen we niets anders als dat je **een NFT goedkoop inkoopt en voor meer verkoopt**. Het verschil is je winst. Voor een goede flip moet je dus projecten weten te vinden waarvan je verwacht dat er iemand is die hier later meer voor wilt betalen.
+In 2022 zei men dat je van vier flips er één met winst deed, en dat die ene het verschil maakte. Ik heb geen reden om aan te nemen dat het nu beter is. Reken er dus op dat de meeste aankopen geld kosten, en koop alleen wat je ook zonder winst zou willen hebben.
 
-Het onderzoeken naar een NFT project is daarbij belangrijk. **Lang niet alle NFT projecten stijgen namelijk in waarde**. En zelfs al doe je goed onderzoek, ook dan zul je zien dat niet al je investeringen geld opleveren. En dat is oké. Je hoort vaak dat mensen van de vier NFT flips er maar met eentje winst maken. Die ene winst is dan wel direct zó groot dat het de moeite waard is.
+Weet je nog niet precies hoe NFT's en wallets werken? Begin dan bij [geld verdienen met NFT's](/blog/web3/nft-uitleg/) of [de NFT-guide](/blog/web3/nft-guide/).
 
-De succesvolle NFT flips, die zien we het meest, bekijk deze bijvoorbeeld eens uit de [NFT Secrets Discord](/go/nft-secrets).
+![Een vergrootglas boven een raster van kleine pixelportretten](/images/spots/nftresearch-loep.webp "Research: het enige verschil tussen een gok en een keuze")
 
-![Resultaten NFT Secrets Mitchel van Duuren](/images/migrated/resultaten-nft-secrets-van-mitchel-van-duuren.webp "resultaten-nft-secrets-van-mitchel-van-duuren")
+## NFT-research in acht stappen
 
-Als je bij dit artikel terecht bent gekomen, dan ga ik ervan uit dat je al weet dat NFTs verhandeld worden met crypto, veelal met **Ethereum**. De basis daarvan beschrijf ik in [dit artikel over geld verdienen met NFTs](/blog/web3/nft-uitleg/).
+De stappen gebruik ik in deze volgorde, omdat de eerste drie het snelst gaan en de meeste projecten er al op afvallen. Mijn voorbeeld uit 2022 was de Ape Harmony Monster Club; de cijfers daarvan zijn allang niet meer actueel, dus ik gebruik ze alleen om de methode uit te leggen.
 
-## NFT project research (8 stappen)
+### 1. Hoe groot is de collectie?
 
-Dan kunnen we hier door met het echte werk. De komende acht stappen kun je gebruiken om te onderzoeken **of een NFT project een succesvolle flip op kan leveren**. Het voorbeeld dat we gebruiken om de research toe te lichten is die van _Ape Harmony Monster Club_.
+Je zou direct naar de vraag kunnen kijken, want een hogere vraag betekent een hogere prijs. Maar het aanbod (de supply) is net zo belangrijk.
 
-### 1. Hoe groot is de NFT collectie?
+Heeft een collectie 10 NFT's en willen 1.000 mensen er een, dan gaat de prijs omhoog tot er nog 10 kopers over zijn. Heeft dezelfde collectie 10.000 stuks, dan zijn er meer NFT's dan kopers en zakt de prijs tot meer mensen instappen. Trekt het project te weinig aandacht, dan zakt de prijs naar nul.
 
-First things first. Je zou natuurlijk direct kunnen kijken naar de potentiële vraag naar een NFT project, want een **hogere vraag betekent een hogere prijs**. Maar daarvoor is ook het aanbod, vaak ook de **supply** genoemd, enorm belangrijk.
+Mijn voorbeeldcollectie had 1.100 stuks: relatief klein. Op zichzelf zegt dat niets, maar je gebruikt het in de volgende stappen.
 
-Simpel gezegd. Als je een NFT collectie hebt **met 10 NFTs en 1000 mensen die NFT willen kopen**, dan zal de prijs omhoog gaan tot er nog maar 10 mensen zijn die voor zo’n hoge prijs de NFT willen hebben.
+### 2. Hoeveel staan er te koop?
 
-Heeft diezelfde collectie **een supply van 10.000**, dan zijn er meer NFTs dan kopers en zal de prijs omlaag gaan **totdat meer mensen het voor die lage prijs willen kopen**.
+Hoe minder NFT's uit een collectie te koop staan, hoe groter de kans dat jij de jouwe later kwijt kunt. Staat de halve collectie te koop, dan wil iedereen eruit en zit jij straks in dezelfde rij. Je ziet het op elke marktplaats door op 'te koop' te filteren. In mijn voorbeeld stonden er 175 van de 1.100 te koop, zo'n 15%: prima.
 
-Of als het NFT project niet genoeg aandacht weet te genereren, dan zal de prijs misschien naar nul gaan. Dat wil je niet ;).
+Let op: dit werkt alleen als de hele collectie al is gemint. Bij een nieuw project dat nog verkoopt, kijk je naar de andere stappen.
 
-![NFT collectie supply op Opensea](/images/migrated/nft-collectie-supply-opensea-1.webp "NFT collectie supply op Opensea")
+### 3. Wat is het handelsvolume, en is het recent?
 
-Het aanbod bij ons voorbeeld is hier dus 1100 (1.1K items). Daarmee is het een **relatief kleine collectie**. Op zichzelf staand is dit niet een gegeven waar je iets mee kan, maar je zult het later in je NFT onderzoek gebruiken om te weten hoe het aanbod met de vraag in verhouding staat.
+Een collectie waarin al maanden niets verhandeld wordt, kun je ook niet verkopen. Marktplaatsen tonen een grafiek van volume en aantal verkopen per dag. Je wilt zien dat er ook nú gehandeld wordt, niet alleen in de week van de lancering. In 2022 zag ik bij mijn voorbeeld dat er minder NFT's werden verhandeld dan direct na de mint, maar tegen een hogere prijs per stuk.
 
-### 2. Hoeveel NFTs staan er te koop uit een collectie?
+In 2026 komt hier een filter bij: bij veel collecties is het volume zo laag dat een paar verkopen de grafiek al laten pieken. Kijk naar het aantal unieke kopers, niet alleen naar het bedrag.
 
-Nu je weet hoeveel NFTs er zijn is het goed om te weten **hoeveel daarvan er te koop staan**.
+### 4. De floor-price-methode: hoeveel verkopen tot jouw prijs?
 
-Hoe minder NFTs er uit een collectie te koop staan, hoe groter de kans dat jij jouw NFT later kunt verkopen. Mochten daarentegen juist alle NFTs uit een collectie te koop staan, dan zal het moeilijk zijn om ervan af te komen.
+De floor price is de goedkoopste NFT die uit een collectie te koop staat. Stel dat die 0,444 ETH is en jij wilt verkopen voor 1,0 ETH. Hoeveel NFT's moeten er dan verkocht worden voordat de floor bij jouw prijs is?
 
-![NFTs te koop Opensea](/images/migrated/nfts-te-koop-opensea-1.webp "NFTs te koop Opensea")
+Sorteer de collectie op prijs van laag naar hoog en zet een minimumprijs van 1,0 ETH. Zie je dan 105 van de 175 items, dan staan er 70 NFT's te koop tussen de huidige floor en jouw prijs. Die 70 moeten eerst weg. Bij een collectie met tien verkopen per dag is dat een week; bij een collectie met tien verkopen per maand kun je het vergeten.
 
-Je kunt dit zien door bij de collectie op ‘**buy now**‘ te filteren.
+![De floor-price-methode op OpenSea in mei 2022](/images/migrated/nft-secrets-methode-verkopen-berekenen-1-scaled.webp "Mijn voorbeeld uit mei 2022: met een minimumprijs van 1,0 ETH bleven 105 van de 175 items over")
 
-In dit voorbeeld gaat het om **175 items**. Zo’n **15% van de totale collectie**, best prima!
+Deze methode leerde ik in 2022 in een Nederlandse cursus die niet meer bestaat; ze is niet waterdicht, maar geeft je wel een gevoel voor hoe ver een prijsstijging weg is. Wat ik achteraf van die cursus vind, lees je in [mijn review](/blog/review/nft-secrets-review-mitchel-van-duuren/).
 
-Goed om hierbij te weten is dat bij dit voorbeeld **de gehele collectie al is gemint**. Wanneer dat bij een NFT project nog niet het geval is, dan is dit niet relevant en zullen andere stappen in dit NFT onderzoek interessanter zijn.
+![Een trap van gestapelde munten die van links naar rechts oploopt](/images/spots/nftresearch-vloer.webp "De floor price: elke trede is een NFT die eerst verkocht moet worden")
 
-### 3. Wat is het handelsvolume?
+### 5. De website en de utility
 
-Is er veel handelsvolume in dit NFT project? In ons voorbeeld is er al zo’n **810 Ethereum** verhandelt. Wanneer we daar dieper induiken kunnen we ook zien of dit handelsvolume recent is geweest. Vooral dat laatste is belangrijk. Je wilt er namelijk zeker van zijn dat als jij de NFT koopt, je deze later weer kan doorverkopen.
+Ben je na de cijfers nog enthousiast, kijk dan naar de website. Een simpele check: typ de naam van het project in Google. Kun je het niet vinden, dan zijn er waarschijnlijk ook weinig fans. Lees de roadmap en zoek naar de utility: wat kun je met de NFT behalve hem bezitten? Toegang tot een community of event, een fysiek product, stemrecht, in-game functies, een goed doel.
 
-![Handelsvolume NFT project op Opensea](/images/migrated/handelsvolume-nft-project-opensea-1.webp "Handelsvolume NFT project op Opensea")
+Sinds 2022 is mijn blik hierop veranderd. Bijna elke roadmap van toen beloofde een metaverse, een game en 'staking'. Bijna niets daarvan is af. In 2026 tel ik alleen utility mee die er al ís, niet die wordt beloofd.
 
-Je ziet in bovenstaande grafiek, die je kunt vinden op OpenSea, dat het handelsvolume al enkele maanden redelijk is. Wel zie je dat er in het begin, **direct na het minten van de NFT**, meer verhandeld werd dan nu.
+### 6. Wie zit erachter?
 
-Zo geeft de blauwe lijn het handelsvolume in Ethereum aan en de lichtblauwe balkjes het aantal verhandelde NFTs. Samengevat worden nu dus **in totaal minder NFTs verhandeld, maar wel tegen een hogere prijs per NFT**.
+Misschien wel de belangrijkste stap. Is het team bekend en werkt het onder eigen naam? Dan zetten ze hun reputatie op het spel en is de kans op een rug pull (uitverkopen en verdwijnen) kleiner. Anoniem is niet per se fout, want de makers van CryptoPunks en Bored Apes waren ook lang anoniem, maar het is een risico dat je bewust neemt. Controleer namen via LinkedIn of eerdere projecten, niet via de website van het project zelf.
 
-### 4. NFT Secrets methode sales berekening
+### 7. X (Twitter) en de echte reacties
 
-Dan nu een interessant onderdeel. Namelijk berekenen **hoeveel verkopen er nodig** zijn voordat de floor price van een NFT collectie is gestegen tot **jouw gewenste verkoopprijs**.
+X is nog steeds het kanaal van de crypto- en NFT-wereld. Staar je niet blind op het aantal volgers: die zijn te koop. Echte reacties zijn moeilijker te faken. Kijk naar de combinatie van activiteit, reacties en of het team zelf antwoordt. En let op de nieuwe truc van 2026: accounts die alleen maar lof plaatsen in precies dezelfde toon, want die zijn vaak gegenereerd.
 
-Met de floor price wordt de goedkoopste NFT uit de collectie bedoelt die te koop staat. Dit is dus de laagste prijs waarvoor je een NFT uit die specifieke collectie kan kopen. Dit wordt bij de collectie op OpenSea gewoon weergegeven en deze is bij ons voorbeeld, de Ape Harmony Monster Club, **0.444 Ethereum**.
+### 8. De Discord-community
 
-Dus stel dat je de goedkoopste NFT uit deze collectie koopt en die voor 1.0 ETH wil verkopen. **Hoeveel verkopen duurt het dan voordat de floor price gestegen is van 0.444 ETH naar 1.0 ETH?**
+Bijna elk project heeft een Discord. Is er echt gesprek, of alleen aankondigingen en 'gm'? Wordt er iets georganiseerd, zoals een AMA (Ask Me Anything) met het team? Hoeveel leden zijn er actief, niet alleen aangemeld? Bij een goed project houden de makers het vuur aan; bij een dood project is de laatste post van maanden geleden. Dat laatste kom je in 2026 vaker tegen dan het eerste.
 
-Hiervoor gebruiken we een methode die ik uit de **[cursus NFT Secrets](/go/nft-secrets)** heb geleerd, lees gerust mijn [review over NFT Secrets](/blog/review/nft-secrets-review-mitchel-van-duuren/).
+## Rekenvoorbeeld: wat levert een flip na de kosten op?
 
-Dit kun je berekenen door in de collectie de prijs van laag naar hoog te zetten en een minimumprijs van 1.0 ETH te selecteren zoals ik heb gedaan in onderstaande afbeelding.
+De grootste verandering sinds 2022 is de kostenkant. Toen kon een transactie op Ethereum 80 euro kosten en at de gas je winst op; in 2026 kost een NFT-aankoop hooguit een paar euro. Daar staat tegenover dat OpenSea zijn commissie begin 2026 verhoogde van 0,5% naar 1%, en dat royalty's voor de maker per collectie verschillen (vaak optioneel). Reken het voor jouw situatie uit.
 
-![NFT Secrets methode voor het berekenen van benodigde verkopen](/images/migrated/nft-secrets-methode-verkopen-berekenen-1-scaled.webp "NFT Secrets methode voor het berekenen van benodigde verkopen")
+<div class="tool not-prose" id="nftresearch-calc">
+<p class="tool__title">Reken uit of je flip iets oplevert</p>
+<p class="tool__intro">Vul je eigen cijfers in; de uitkomst rekent direct mee. Prijzen in ETH, uitkomst in euro's.</p>
+<div class="tool__grid">
+<label class="tool__field">Aankoopprijs (ETH)<input class="tool__input" id="nftresearch-buy" type="number" min="0" step="0.01" value="0.1"></label>
+<label class="tool__field">Verwachte verkoopprijs (ETH)<input class="tool__input" id="nftresearch-sell" type="number" min="0" step="0.01" value="0.15"></label>
+<label class="tool__field">Commissie marktplaats (%)<input class="tool__input" id="nftresearch-fee" type="number" min="0" step="0.1" value="1"></label>
+<label class="tool__field">Royalty voor de maker (%)<input class="tool__input" id="nftresearch-roy" type="number" min="0" step="0.1" value="5"></label>
+<label class="tool__field">Gas per transactie (€)<input class="tool__input" id="nftresearch-gas" type="number" min="0" step="0.1" value="1"></label>
+<label class="tool__field">Kans dat de verkoop lukt (%)<input class="tool__input" id="nftresearch-odds" type="number" min="0" max="100" step="1" value="25"></label>
+</div>
+<div class="tool__results">
+<div class="tool__result"><p class="tool__label">Winst als het lukt</p><p class="tool__value" id="nftresearch-net">€ 90</p><p class="tool__sub">na commissie, royalty en gas</p></div>
+<div class="tool__result"><p class="tool__label">Verwachte uitkomst</p><p class="tool__value" id="nftresearch-ev">€ -147</p><p class="tool__sub">winst maal kans, min verlies bij mislukken</p></div>
+</div>
+<p class="tool__note">Rekenvoorbeeld, geen belofte. Bij 'mislukken' rekent de tool met een volledig verlies van je inleg; in de praktijk verkoop je meestal met een kleiner verlies. Koers ether van 20 september 2026 (€ 2.247) zit in de berekening.</p>
+</div>
 
-Je ziet nu **dat er nog maar 105 items worden weergegeven van de 175 items** die er in totaal te koop staan.
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var ETH = 2247;
+  var fmt = function (n) { return '€ ' + new Intl.NumberFormat('nl-NL', { maximumFractionDigits: 0 }).format(n); };
+  function calc() {
+    var buy = +$('nftresearch-buy').value || 0, sell = +$('nftresearch-sell').value || 0, fee = +$('nftresearch-fee').value || 0,
+        roy = +$('nftresearch-roy').value || 0, gas = +$('nftresearch-gas').value || 0, odds = Math.min(100, Math.max(0, +$('nftresearch-odds').value || 0)) / 100;
+    var cost = buy * ETH + gas, win = sell * (1 - (fee + roy) / 100) * ETH - gas - cost;
+    var ev = odds * win - (1 - odds) * cost;
+    $('nftresearch-net').textContent = fmt(win);
+    $('nftresearch-ev').textContent = fmt(ev);
+  }
+  ['nftresearch-buy', 'nftresearch-sell', 'nftresearch-fee', 'nftresearch-roy', 'nftresearch-gas', 'nftresearch-odds'].forEach(function (id) { $(id).addEventListener('input', calc); });
+  calc();
+})();
+</script>
 
-In totaal staan er dus 70 (175-105) NFTs te koop tussen de huidige floor price en jouw gewenste floor price van 1.0 ETH. In andere woorden; je zou kunnen stellen dat er op dit moment **70 NFTs moeten worden verkocht** om bij de **floor price van 1.0 ETH** te komen.
+Die tweede uitkomst is de eerlijke: zolang je kans op een geslaagde flip klein is, is de verwachte uitkomst negatief, hoe mooi de winst bij succes ook is. Dat was in 2022 ook al zo; het verschil is dat de kans toen groter was omdat alles steeg.
 
-Natuurlijk is dit model niet waterdicht, maar het geeft je wel inzicht in een **mogelijke prijsstijging** ;).
+## Rode vlaggen in 2026
 
-### 5. De website van het NFT project
+Naast de acht stappen zijn er dingen die je in 2022 nog niet zag en die nu een project meteen diskwalificeren.
 
-Oké, dit is niet super [web 3](/blog/web3/web-3-decentralisatie/), maar als je op de vorige stappen positief bent uitgekomen, dan is het tijd om te kijken naar de website van het NFT project. Online zichtbaarheid zegt een hoop over de NFT en helpt je om het verdere onderzoek te doen.
+*   **Een 'gratis mint' via een privébericht of een link op X.** Bijna altijd een wallet drainer: je tekent iets en je wallet is leeg. Ga alleen via de officiële site, en gebruik voor experimenten een aparte wallet met weinig erin.
+*   **Een prachtige collectie zonder team.** Sinds AI-beeldgeneratie kost 10.000 unieke plaatjes een middag. Mooi artwork bewijst niets meer.
+*   **Een roadmap vol metaverse en staking.** In 2022 stond het in elke roadmap, in 2026 weet je dat het vrijwel nergens is afgebouwd.
+*   **Beloofd rendement.** Wie je vertelt wat je gaat verdienen, wil jouw geld, niet jouw succes.
+*   **Een marktplaats of exchange zonder Europese vergunning.** Sinds 2025 hebben aanbieders van crypto in Nederland een MiCA-vergunning nodig; meer daarover in [de crypto-guide](/blog/web3/handelen-in-crypto-valuta/).
 
-Een goede check hier kan alvast zijn **om de naam van het NFT project op Google in te voeren**. Kun je ze op die manier niet vinden, dan moet je je afvragen of het allemaal wel legitiem is. Google rankt websites namelijk **op basis van autoriteit** (zie ook [dit blog over hoe Google werkt](/blog/ondernemen/meer-website-bezoekers/)). Deze verkrijgt een website door bezoekers, in dit geval de fans van deze NFT collectie. Is een website niet vindbaar, dan is er een grote kans dat hier ook weinig fans zijn.
+![Een kleine rode vlag in een stapel glimmende munten](/images/spots/nftresearch-rode-vlag.webp "Rode vlag: wie je winst belooft, verkoopt een gok")
 
-![Ape Harmony Monster Club NFT Website](/images/migrated/ape-harmony-monster-club-nft-website-1.webp "Ape Harmony Monster Club NFT Website")
+## Conclusie: NFT-research in 2026
 
-Nu je toch op de website bent van het NFT project is dit ook direct een mooi moment om de roadmap te bekijken, als ze die hebben. Kijk of je kan achterhalen wat de [**utility van het NFT project**](https://desynt.io/nft-roadmap-utility/) is. Zijn het slechts plaatjes van apen? Of hebben de NFTs bepaalde functionaliteiten?
+Met deze acht stappen kom je een heel eind. Al ben ik de belangrijkste misschien vergeten: wat vind je zelf van het verhaal en het artwork? Zou je het met trots bezitten, ook als het nooit iets oplevert? Als het antwoord ja is, heb je waarschijnlijk het betere project gevonden. En als het nee is, koop je in 2026 een gok in een markt die kleiner is dan ooit.
 
-**Voorbeelden van utility kunnen zijn:**
-
-*   Community plek in de Metaverse waar de NFT je toegang toe geeft
-*   Een gekoppeld goed doel, geldinzameling dus
-*   ETH giften aan mensen die de NFT bezitten
-*   Staking en daarmee een passief inkomen
-*   Toekomstige 3D models van jouw 2D NFT
-*   In-game functies van jouw NFT
-*   Wearables voor jouw NFT in een Metaverse
-*   Exclusieve events voor NFT holders
-
-De utility van een NFT project kan zo gek of zinloos zijn als het is. Belangrijk is dus om te kijken of deze daadwerkelijk waarde toevoegt. Soms kom je echt hele vette dingen tegen, **dat zou een signaal moeten zijn** dat het een goed NFT project betreft.
-
-### 6. Get to know the team
-
-Misschien wel de belangrijkste stap van het NFT onderzoek. **Wie zit er achter een NFT project?** Kijk naar of dit bekende mensen zijn met een bepaalde reputatie. Zo ja, dan weet je zeker dat ze die reputatie niet voor een NFT project willen vergooien. Die zekerheid heb je lang niet bij iedere NFT collectie.
-
-Wanneer de eigenaren **anoniem** zijn, en dat gebeurt nogal eens, zou ik voorzichtig zijn met het aanschaffen van NFTs. Iemand zou namelijk zomaar een rug pull kunnen plegen zonder daar consequenties van te hebben.
-
-![Team NFT collectie](/images/migrated/team-nft-collectie-1-scaled.webp "Team NFT collectie")
-
-Bij ons voorbeeld zit het met het team van de NFT collectie wel goed. Deze kunnen we namelijk ook **verifiëren** door naar de socials te gaan.
-
-### 7. Check de Twitter following en engagement
-
-**Twitter is het kanaal van de crypto en NFT space geworden**. Waarom weet ik niet precies, maar vrijwel ieder NFT project is op Twitter te vinden. Ook die van het team van Ape Harmony Monster Club.
-
-![Twitter account NFT collectie](/images/migrated/twitter-nft-collectie-1.webp "Twitter account NFT collectie")
-
-Staar je bij een Twitter account niet blind op het aantal volgers. Deze zijn gemakkelijk online te kopen. Echte reacties daarentegen kun je een stuk moeilijker verkrijgen.
-
-Dingen waar je op Twitter naar kan kijken is **een combinatie van activiteit, aantal volgers, reacties en interactie**.
-
-### 8. De Discord community
-
-Iedere NFT collectie heeft een Discord community. Althans bijna allemaal dan. Dit is een plek **waar de community samenkomt**.
-
-![Discord community NFT project](/images/migrated/discord-community-nft-project-1.webp "Discord community NFT project")
-
-In zo’n Discord kun je kijken naar of er wat wordt gediscussieerd over het NFT project. **Is er veel hype** of is het maar een dode boel? Bij een goed NFT project zal het vuur aan worden gehouden door de makers van de NFT.
-
-Uiteraard is het aantal leden belangrijk, al zal je zien dat lang niet iedereen hiervan actief is. Verder kun je in de Discord ook vaak aankondigingen voor **AMA (Ask Me Anything)** tegenkomen van de makers van het NFT project. Dit is een mooi moment om kennis te maken en zelf de interactie aan te gaan.
-
-## Conclusie NFT project research
-
-Met deze 8 stappen zou je al een heel eind moeten komen. **Al zijn we de belangrijkste misschien wel vergeten**. Wat vind je zelf namelijk van **het verhaal en het artwork**? Is het iets dat aanspreekt en wat je met trots zou kunnen bezitten?
-
-Met **het flippen van NFTs** zou je soms bijna het hele idee achter NFTs vergeten. Namelijk dat dit niets meer is dan een **eigendomsbewijs** van een plaatje (of ander object) op de blockchain. Als je het gevoel hebt dat je een NFT wilt bezitten gewoonweg omdat het tof is, dan heb je waarschijnlijk het betere NFT project gevonden voor een goede flip.
-
-Als je serieus NFTs wilt gaan flippen dan raad ik je graag de [cursus van Mitchel van Duuren](/go/nft-secrets) aan. Deze heb ik ook gevolgd en heeft mij zelf enorm geholpen. Hierin leerde ik wat technische dingen rondom NFTs, valkuilen waar iedereen in stapt en nog veel meer manieren **om onderzoek te doen naar NFT collecties**.
-
-Wellicht tot in de Discord daar en anders heel veel succes met jouw NFT research!
+Wil je serieus met crypto beginnen, dan is mijn advies in 2026 een stuk saaier dan in 2022: elke maand een vast bedrag in de grote munten, bij een exchange met vergunning zoals [Finst](/go/finst), en geduld. Hoe dat werkt, wat het kost en hoe box 3 meetelt, staat in [geld verdienen met crypto in 2026](/blog/web3/handelen-in-crypto-valuta/). NFT's zijn daarbij het toetje, niet het hoofdgerecht.

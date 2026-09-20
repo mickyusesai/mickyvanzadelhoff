@@ -20,6 +20,8 @@ Aniek ontmoette ik tijdens [een Erasmus Plus training](/blog/tips/erasmus-plus-t
 
 In gesprek met haar besprak ik de meerdere onderdelen waar je op moet letten als je **écht geen ene cent uit wil geven**. Denk hierbij aan onderwerpen als vervoer, verblijf, eten en drinken.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Gratis de wereld rond reizen door te liften
 
 **Liften of hitch hiking** eng of moeilijk? Voor Aniek niet. Met deze manier van reizen hoefde ze geen cent uit te geven voor het vervoeren van zichzelf en schopte ze het van Nederland tot het noorden van Zweden. Daarbij schijnt het als meid nog **bijzonder makkelijk** te zijn om een lift te regelen omdat je gewoonweg vertrouwen uitstraalt.
@@ -51,6 +53,8 @@ Pas wel op, want het komt met Couchsurfing niet weinig voor dat je eindigt in de
 Ook kun je natuurlijk altijd je al bestaande internationale netwerk inzetten als je die hebt.
 
 ![goedkoop reizen](/images/migrated/porto-bridge-train-view-portugal-e1524324773263.webp "porto-bridge-train-view-portugal")
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Maar hoe is dat nou, gratis reizen?
 

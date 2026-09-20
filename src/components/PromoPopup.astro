@@ -1,0 +1,58 @@
+---
+// Small promo card for the AI workshops and automatisering, shown on blog articles (Micky, 2026-09-20).
+// Appears once per session after 40% scroll or 30 seconds, never covers the screen, and stays away for
+// 14 days after a close or a click. Motion is transform/opacity only and off under reduced motion.
+---
+<aside id="promo" class="promo" hidden aria-label="AI voor je bedrijf">
+  <button type="button" class="promo__close" aria-label="Sluiten">
+    <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true"><path d="M2 2l10 10M12 2L2 12" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>
+  </button>
+  <p class="promo__eyebrow">AI voor je bedrijf</p>
+  <p class="promo__text"><strong>Wat kost jouw team elke week te veel tijd?</strong> In een workshop van drie uur ziet je team wat AI kan. Of ik draai mee en automatiseer het.</p>
+  <div class="promo__actions">
+    <a class="btn btn-primary promo__btn" href="/ai-workshops/">AI-workshops</a>
+    <a class="btn btn-lime promo__btn" href="/automatisering/">Automatisering</a>
+  </div>
+</aside>
+
+<script>
+  (() => {
+    const box = document.getElementById('promo');
+    if (!box) return;
+    const KEY = 'promo-quiet-until';
+    const store = {
+      get() { try { return Number(localStorage.getItem(KEY) || 0); } catch { return 0; } },
+      quiet(days: number) { try { localStorage.setItem(KEY, String(Date.now() + days * 864e5)); } catch { /* ignore */ } },
+      shown() { try { return sessionStorage.getItem('promo-shown') === '1'; } catch { return false; } },
+      markShown() { try { sessionStorage.setItem('promo-shown', '1'); } catch { /* ignore */ } },
+    };
+    if (store.get() > Date.now() || store.shown()) return;
+
+    let opened = false;
+    const open = () => {
+      if (opened) return;
+      opened = true;
+      box.hidden = false;
+      requestAnimationFrame(() => requestAnimationFrame(() => box.classList.add('is-open')));
+      store.markShown();
+    };
+    const close = (days: number) => {
+      box.classList.remove('is-open');
+      store.quiet(days);
+      setTimeout(() => { box.hidden = true; }, 350);
+    };
+
+    const start = Date.now();
+    const onScroll = () => {
+      const doc = document.documentElement;
+      const progress = (window.scrollY + window.innerHeight) / doc.scrollHeight;
+      if (progress >= 0.4 && Date.now() - start > 8000) { open(); window.removeEventListener('scroll', onScroll); }
+    };
+    window.addEventListener('scroll', onScroll, { passive: true });
+    setTimeout(open, 30000);
+
+    box.querySelector('.promo__close')?.addEventListener('click', () => close(14));
+    box.querySelectorAll('a').forEach((a) => a.addEventListener('click', () => store.quiet(30)));
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && !box.hidden) close(14); });
+  })();
+</script>

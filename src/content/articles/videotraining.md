@@ -14,7 +14,7 @@ Welkom in de wereld van **online cursussen**. Waar veel te leren is én waar vee
 
 Als het goed is lees je dit omdat je zelf **waardevolle kennis bezit** die je 'moet' delen met de wereld. Bezit je die niet, dan begrijp ik niet waar je een cursus over wilt maken ;). Ik neem je stap voor stap mee: onderwerp en doelgroep, lessen opdelen, opnemen zonder dure studio, een leeromgeving kiezen (met de Nederlandse platforms en hun prijzen van september 2026 naast elkaar), je prijs bepalen, verkopen en uiteindelijk een passief inkomen. Met de rekentool verderop zie je wat je per maand overhoudt.
 
-Wat er sinds mijn eerste versie veranderd is: opnemen kan met AI-hulp in een middag, Nederlandse platforms zoals Huddle en Maatos zijn volwassen geworden, Udemy betaalt makers nog minder dan vroeger, en een community rondom je cursus is de norm geworden. Dit doe ik naar aanleiding van **mijn eigen ervaring** met mijn training 'Van Blog Naar Business', die ik jarenlang verkocht. Door het maken daarvan heb ik veel geleerd, dus ik benoem ook mijn fouten.
+Wat er sinds mijn eerste versie veranderd is: opnemen kan met AI-hulp in een middag, Nederlandse platforms zoals Huddle en Maatos zijn volwassen geworden, Udemy betaalt makers nog minder dan vroeger, en een community rondom je cursus is de norm geworden. Dit doe ik naar aanleiding van **mijn eigen ervaring** met een videotraining over bloggen die ik een aantal jaren verkocht en inmiddels offline heb gehaald. Door het maken daarvan heb ik veel geleerd, dus ik benoem ook mijn fouten.
 
 ## Stap 1: Het onderwerp en de doelgroep van jouw online cursus
 
@@ -40,9 +40,7 @@ Zoek vanuit jouw onderwerp meerdere sub-onderwerpen voor de video's. Maak ze zo 
 
 Hoelang iedere video moet worden, ondervind je zelf. Vraag wat vrienden of kennissen hoe zij een les ervaren; dan heb je vaak direct een goed beeld.
 
-![Online cursus Van Blog Naar Business](/images/migrated/online-cursus-van-blog-naar-business-1.webp "De leeromgeving van Van Blog Naar Business, 2019")
-
-**Bij het maken van sub-onderwerpen kun je direct denken in lessen.** Zorg dat ieder onderwerp klein genoeg is om in één les te behandelen. Omdat je zo'n les vult met voorbeelden, hoeven er per les niet veel losse leerpunten te zijn. De lessen waar ik bij Van Blog Naar Business op uitkwam:
+**Bij het maken van sub-onderwerpen kun je direct denken in lessen.** Zorg dat ieder onderwerp klein genoeg is om in één les te behandelen. Omdat je zo'n les vult met voorbeelden, hoeven er per les niet veel losse leerpunten te zijn. De lessen waar ik bij mijn eigen training op uitkwam:
 
 *   Les 1 – 2: evergreen en nevergreen blogs, dit is SEO
 *   Les 3 – 6: zoekwoordenonderzoek, praktische SEO, competitieve SEO, rich snippets
@@ -59,6 +57,8 @@ Je zult zien dat je na de eerste deelnemers graag onderwerpen wilt toevoegen. Ge
 In 2026 hoef je je lesplan niet meer op een blanco vel te beginnen. Laat ChatGPT of Claude je kennis uitvragen ("stel me twintig vragen die een beginner over mijn onderwerp zou stellen"), zet de antwoorden om in lessen en laat de AI een werkboek per les opzetten. Platforms zoals Huddle hebben zo'n cursusgenerator inmiddels ingebouwd. Je kennis blijft van jou; de AI bespaart je de structuurfase. Hoe ik zulke dingen zelf bouw, zie je in [mijn AI-workshops](/ai-workshops/).
 
 Als je lijstje compleet is, kun je beginnen met opnemen.
+
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Stap 3: Film jouw videotraining
 
@@ -130,9 +130,7 @@ Hoeveel zou jij overhebben voor een cursus gitaarspelen? Waarschijnlijk niet mee
 
 Vraag jezelf af in welke hoek jij zit en kijk wat indirecte concurrenten rekenen. Wordt hetzelfde resultaat gegarandeerd met iemands coaching of een volledige opleiding?
 
-![Prijzen Van Blog Naar Business](/images/migrated/van-blog-naar-business-prijzen-1.webp "De prijzen van Van Blog Naar Business, 2019")
-
-De prijs van Van Blog Naar Business (hierboven) kwam zo tot stand. Boven de 200 euro moet iemand jou eerst kennen voordat hij koopt; **het bedrag is dan te hoog voor een impulsaankoop**. Om een klant warm te maken geef je dan eerst een gratis training, webinar of iets anders van waarde. Onder de 200 euro kun je direct verkopen met een verkooppagina. Met een goede funnel is online zo'n 1.000 euro het maximum dat ik zou aanhouden. Reken 21% btw over je cursus; alleen erkend onderwijs is vrijgesteld.
+De prijs van mijn eigen training kwam zo tot stand. Boven de 200 euro moet iemand jou eerst kennen voordat hij koopt; **het bedrag is dan te hoog voor een impulsaankoop**. Om een klant warm te maken geef je dan eerst een gratis training, webinar of iets anders van waarde. Onder de 200 euro kun je direct verkopen met een verkooppagina. Met een goede funnel is online zo'n 1.000 euro het maximum dat ik zou aanhouden. Reken 21% btw over je cursus; alleen erkend onderwijs is vrijgesteld.
 
 ### Wat houd je over?
 
@@ -213,6 +211,8 @@ Een eigen cursus kan je een passief inkomen opleveren. Mijn cursus werd jarenlan
 Echter gaat dit niet vanzelf. Het vereist dat je begrijpt hoe je een goede cursus maakt én promoot. Dat je een goede cursus kunt maken, geloof ik wel. Maar **als je niet weet hoe je hem promoot, blijf je met niets achter**. Zoek dan hulp van een ervaren marketeer.
 
 Dan nog één laatste tip. **Software voor een leeromgeving kost geld** en dat heb ik wel eens proberen te vermijden. Het effect is dat je heel moeilijk om die software heen werkt. Dat heeft mij veel tijd gekost en was het niet waard; ook de beleving van cursisten lijdt eronder. Daarom raad ik je graag nog eens [Huddle](/go/huddle) aan. Nee, het is niet gratis, maar vanaf 15 euro per maand bespaart het je een hoop zorgen én tijd. Je kunt het [hier](/go/huddle) 14 dagen gratis uitproberen.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Veelgestelde vragen
 

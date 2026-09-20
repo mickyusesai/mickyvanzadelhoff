@@ -87,6 +87,8 @@ Reken zelf uit wat het je oplevert. Vul je tarief, je uren en eventueel de commi
 
 Zes uur per week tegen €25 is dus zo'n €500 per maand naast je studie, zonder reistijd. Wie examentraining geeft in de maanden voor mei, verdient in die periode makkelijk het dubbele per uur.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Leerlingen vinden om te begeleiden
 
 Bij studiebegeleiding is het het makkelijkst om **in je eigen netwerk** te beginnen: buren, familie, de sportclub, je oude middelbare school. Daar is al een vertrouwensband en dat helpt enorm bij je eerste leerlingen. Zeg het tegen iedereen die het wil horen, en zet het op je Instagram of LinkedIn. Eén tevreden ouder vertelt het aan drie anderen.
@@ -125,6 +127,8 @@ Online bijles is goedkoper voor de ouder (geen reistijd, geen reiskosten) en han
 Bijles geven noemt de Belastingdienst letterlijk als voorbeeld van **inkomsten uit overig werk**. Die geef je op in je aangifte inkomstenbelasting: je inkomsten min je kosten (een tekentablet, boeken, een deel van je internet) is je resultaat, en daar betaal je belasting over. Er bestaat geen belastingvrije grens van een paar honderd euro; als je al een baan of een bijbaan hebt waar de heffingskortingen op zijn toegepast, betaal je over elke euro bijles belasting.
 
 Werk je via een bemiddelaar als StudentsPlus of Lyceo, dan ben je meestal gewoon in dienst of werk je als oproepkracht en regelen zij de loonheffing. Geef je structureel bijles aan eigen leerlingen buiten je familie- en vriendenkring, dan wil KVK dat je je inschrijft als ondernemer. Een eenmanszaak regel je in een uur en kost een eenmalig inschrijfbedrag; je krijgt er een btw-nummer bij en doet vanaf dan ook btw-aangifte. Vraag bij de Belastingdienst na of de onderwijsvrijstelling voor jouw bijles geldt, dan hoef je geen btw te rekenen.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Veelgestelde vragen over online huiswerkbegeleiding
 

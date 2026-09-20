@@ -69,7 +69,7 @@ Om affiliate links te plaatsen heb je eerst een plek nodig. Dat kunnen **verschi
 
 ![Een open koffer met een laptop erin en munten die eruit rollen, op een terras met uitzicht](/images/spots/affiliate-koffer.webp "Een blog werkt door terwijl jij onderweg bent")
 
-Op het hoogtepunt, in 2023, verdiende ik zo'n €3.000 per maand met affiliate marketing. Die inkomsten kwamen allemaal via mijn blog De Moderne Nomaden, die je inmiddels hier leest. Ik schreef over online ondernemen en het leven als digital nomad, en tussen die artikelen kon ik veel links kwijt naar software en online trainingen.
+Ook in 2026 verdien ik gemiddeld zo'n €3.000 per maand met affiliate marketing. Die inkomsten komen allemaal via de artikelen van mijn blog De Moderne Nomaden, die je inmiddels hier leest. Ik schreef over online ondernemen en het leven als digital nomad, en tussen die artikelen kon ik veel links kwijt naar software en online trainingen.
 
 Mijn advies voor als je nieuw bent: begin met [een eigen blog](/blog/ondernemen/blog-beginnen-starten-stappenplan/). Dat is nog steeds het beste kanaal om te bouwen aan een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/), omdat een artikel jaren bezoekers kan trekken zonder dat je iets doet, terwijl je op social media moet blijven posten.
 
@@ -246,7 +246,7 @@ Ben je nog bezig met de [ontwikkeling van een YouTube-kanaal](/go/youtube-boek),
 
 ![Micky van Zadelhoff](/images/migrated/mick-van-zadelhoff-geld-verdienen-met-bloggen.webp "Micky van Zadelhoff, in de jaren dat de blog mijn hoofdinkomen was")
 
-Qua verdiensten een eerlijke indicatie. Op het hoogtepunt verdiende ik ruim €3.000 per maand passief met affiliate marketing, via een website met zo'n 50.000 maandelijkse bezoekers. Sindsdien is dat minder geworden: mijn aandacht ging naar [AI-workshops](/ai-workshops/) en Google's AI Overviews kostten bezoekers. Maar de artikelen staan er nog, en de commissies komen nog steeds binnen zonder dat ik er iets voor doe. **Dat is passief inkomen.** En omdat ik [leefde als digital nomad](/blog/digitalenomaden/digital-nomad-worden/), kon ik dit opbouwen vanaf waar dan ook ter wereld.
+Qua verdiensten een eerlijke indicatie. In 2026 verdien ik nog steeds gemiddeld zo'n €3.000 per maand passief met affiliate marketing, terwijl mijn aandacht allang naar [AI-workshops](/ai-workshops/) is gegaan en Google's AI Overviews bezoekers kostten. De artikelen staan er, en de commissies komen binnen zonder dat ik er iets voor doe. **Dat is passief inkomen.** En omdat ik [leefde als digital nomad](/blog/digitalenomaden/digital-nomad-worden/), kon ik dit opbouwen vanaf waar dan ook ter wereld.
 
 Wie geld wil verdienen met affiliate marketing, moet beseffen dat hij niet de enige is. Je doet er dus goed aan om de juiste kennis in huis te halen. Een van de plekken daarvoor is [de cursus van Nicole](/go/affiliate-succes).
 
@@ -312,6 +312,8 @@ Je mag AI gebruiken voor structuur en eerste versies. Maar een review van een pr
 ### Welk netwerk is het beste om mee te beginnen?
 
 Voor een Nederlandse blog: TradeTracker voor de breedte en PayPro voor de hoge commissies. Meld je bij beide aan; het is gratis.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie: geld verdienen met affiliate marketing
 

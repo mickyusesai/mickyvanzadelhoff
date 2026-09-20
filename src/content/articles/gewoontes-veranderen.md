@@ -48,6 +48,8 @@ Ik sta op met het lezen van berichtjes op mijn telefoon en erger mij daaraan. Ik
 
 Ja een beetje een gekke wellicht. Maar ik poets mijn tanden 1x per dag, en vergeet of vermijd de tweede keer altijd. En dat terwijl ik wel witte tanden wil, aai… Aan de slag dus!
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## De gewoontes die je wilt veranderen formuleren
 
 Zorg ervoor dat de reden om je gewoontes te veranderen duidelijk is. Schrijf die redenen voor jezelf op. Voor mij voelt dit onderdeel heel erg raar. Want het is dan alsof je jezelf stom vind dat je dat nog niet hebt veranderd. Maar daar zet ik me dan maar even overheen. Ook kies ik ervoor niets af te bouwen maar gewoon direct over te gaan op de nieuwe lifestyle.
@@ -61,6 +63,8 @@ Je weet nu waarom je je gewoontes wil veranderen en dat is mooi. Dat is namelijk
 Ook al stop je binnen een keer met al je oude gewoontes en volg je je nieuwe. Het is wel een langer proces waar je doorheen gaat. Je moet namelijk alert blijven op het niet terug vallen in de oude gewoontes. Dit doe ik zelf door dagelijks bij te houden hoe het proces me afgaat. Wat voel ik, ervaar ik en waar liggen de gevaren op de loer.
 
 > Documenteren van je vorderingen helpt je erg om inzicht te krijgen in je sterktes en zwaktes.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Hoe het proces van gewoontes veranderen mij afgaat
 

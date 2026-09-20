@@ -41,6 +41,8 @@ Zo verhouden de manieren zich tot elkaar (mijn inschatting, gecontroleerd op 19 
 | 7. Website verkopen | Bij stabiele winst | 30 tot 50 keer de maandwinst | Nette cijfers en documentatie |
 | 8. Betaalde links en artikelen | Bij een goede domeinautoriteit | Per plaatsing | Google-regels kennen |
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## 1. Geld verdienen met website via Google AdSense
 
 Dit is de simpelste manier om te starten. Google AdSense is interessant voor iedereen die net begint tot aan mensen die al veel bezoekers hebben (**meer dan 10.000 per maand**). Hoe meer bezoekers, hoe meer het oplevert, al geldt dat praktisch gezien voor alle manieren, zolang de bezoekers maar relevant zijn.
@@ -67,7 +69,7 @@ Ook een vrij simpele manier, maar deze levert meer op. Bij affiliate marketing k
 
 Om te beginnen sluit je je aan bij een affiliate programma. Vrijwel ieder groot online bedrijf heeft er een. Het belangrijkste is dat je er een kiest **die aansluit bij het onderwerp van je website**: relevante links verhogen de conversie en dus je inkomen.
 
-Zelf verdiende ik op het hoogtepunt van mijn blog, in 2023, ruim €3.000 per maand via affiliate marketing. Primair gebruik ik [TradeTracker](/go/tradetracker) (ruim 5.000 adverteerders) en [PayPro](/blog/online-geld-verdienen/paypro/) (digitale producten met hoge commissies), daarnaast een paar losse programma's. Wat ik geweldig vind aan affiliate marketing: het is een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/). Ook wanneer ik even niets plaats, blijven bezoekers komen en blijft er op links geklikt worden.
+Zelf verdien ik ook in 2026 gemiddeld zo'n €3.000 per maand via affiliate marketing. Primair gebruik ik [TradeTracker](/go/tradetracker) (ruim 5.000 adverteerders) en [PayPro](/blog/online-geld-verdienen/paypro/) (digitale producten met hoge commissies), daarnaast een paar losse programma's. Wat ik geweldig vind aan affiliate marketing: het is een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/). Ook wanneer ik even niets plaats, blijven bezoekers komen en blijft er op links geklikt worden.
 
 ![Twee schakels van een ketting met een munt ertussen, op een bureau naast een laptop](/images/spots/bloggen-affiliate.webp "Affiliate marketing: jij legt de link, de webshop betaalt per verkoop")
 
@@ -202,6 +204,8 @@ Toen ik begon met mijn website had ik niet verwacht dat dit een verdienmodel zou
 Voor zo'n link betaalde een bedrijf bij mijn website destijds al snel **€200**, en voor een compleet aangeleverd artikel **€300 tot €600**. Die mailtjes komen nog steeds.
 
 Wel is de wereld sinds 2024 veranderd. Google noemt betalen voor links zonder `rel="sponsored"` expliciet linkspam en kan je website daarvoor een handmatige actie geven. Met dat label mag het, alleen levert de link het bedrijf dan geen Google-voordeel meer op, en dat is nou net waarom de meeste van die bedrijven mailen. Verwacht dus dat een deel van de aanvragen afhaakt als je het netjes doet. Doe het toch netjes; de website is meer waard dan één plaatsing.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Iedereen kan geld verdienen met een website
 

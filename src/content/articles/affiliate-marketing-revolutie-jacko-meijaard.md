@@ -58,6 +58,8 @@ Als je de Affiliate Marketing Revolutie gaat volgen, wil ik je wel nog een tip g
 
 [**Ben je klaar om geld te verdienen met affiliate marketing? Start dan vandaag nog met de Affiliate Marketing Revolutie en Jacko Meijaard helpt je op weg!**](/go/affiliate-marketing-revolutie)
 
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+
 ## Beginnen met de Affiliate Marketing Revolutie van Jacko Meijaard
 
 De training is niet gratis en dat is maar goed ook. Ik sta er vaak op dat mensen een investering doen omdat dit veel mensen helpt gemotiveerd aan de slag te gaan. Al vind ik de Affiliate Marketing Revolutie wel enorm ondergewaardeerd. Ik zie trainingen voorbij komen van 997,- euro die net zoveel waarde geven als de training van Jacko Meijaard. Denk dus niet dat het prijskaartje van 47,- euro betekent dat de training niet waardevol is, maar wees dankbaar dat je hem voor zo weinig geld kunt volgen.

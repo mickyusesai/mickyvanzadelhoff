@@ -628,6 +628,8 @@ Een gratis online training of webinar organiseren kan nieuwe mensen aantrekken r
 
 Een webinar is de ideale kennismaking met een nieuwe doelgroep. Zo doe ik het zelf ook: een korte online sessie over wat AI voor een bedrijf kan betekenen, en de bedrijven die meer willen, boeken daarna een [workshop op locatie](/ai-workshops/ai-introductie/).
 
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+
 ## Tips voor het organiseren van een webinar
 
 Tot slot wil ik graag nog enkele tips delen rondom het organiseren van een webinar. Hier zijn een aantal tips die je wellicht **handig vindt om te weten**!

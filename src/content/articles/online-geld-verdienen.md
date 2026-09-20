@@ -97,6 +97,8 @@ Dit bestond in 2018 nog nauwelijks en is nu een volwassen verdienmodel: een nieu
 
 Facebook is niet dood, zeker niet voor groepen. Een actieve groep rond één onderwerp (een hobby, een regio, een vak) kun je verdienen met affiliate links, sponsors, een eigen product of betaald lidmaatschap. Het werkt hetzelfde als een blog, alleen woont je publiek ergens anders. Wat ik daarvan heb geleerd staat in [geld verdienen met een Facebook-groep, -pagina of -ads](/blog/online-geld-verdienen/facebook/).
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Kennis verkopen: van wat je weet naar wat je verdient
 
 De tweede groep is mijn favoriet, omdat het de groep is waarmee ik nu zelf mijn geld verdien. Iedereen weet iets waar een ander voor wil betalen. De vraag is alleen in welke vorm je het verpakt.
@@ -231,7 +233,7 @@ Saai, en daarom goed. Wie maandelijks een vast bedrag in een wereldwijd gespreid
 
 Let's face it: **crypto bestaat nog steeds**. Bitcoin zette in oktober 2025 een record neer van ruim 125.000 dollar en zakte daarna weer hard. Er zijn meer dan 21.000 actieve munten, en de markt is sinds de Europese MiCA-regels een stuk volwassener geworden. Het goedkoopst koop je in Nederland bij [Finst](/go/finst) (vaste 0,15% per transactie, zonder spread); de grootste exchange is [Bitvavo](/go/bitvavo) (0,25% bij direct kopen, 0,15% bij een limietorder). Geld verdienen doe je hier niet door dagelijks te handelen, maar door maandelijks een vast bedrag in te leggen en jaren te wachten. Alles daarover, met de live koers, staat in [mijn complete gids over geld verdienen met crypto](/blog/web3/handelen-in-crypto-valuta/). Wil je eerst de basis snappen? [Alles Over Crypto geeft een gratis online training](/go/crypto-training).
 
-En de NFT's en de metaverse uit mijn vorige versie van dit artikel? Die hype is voorbij. Het digitale kunstwerk van Beeple dat in maart 2021 voor 69 miljoen dollar werd verkocht, blijft een mooi verhaal, maar de meeste NFT-collecties zijn vrijwel niets meer waard. Wat ik erover schreef staat nog online in [geld verdienen met NFT's](/blog/web3/nft-uitleg/) en [de verdienmodellen in de metaverse](/blog/web3/geld-verdienen-metaverse/), als tijdsdocument. De training over [NFT's kopen en verkopen](/go/nft-secrets-gratis) die ik destijds aanraadde, bestaat niet meer. <!-- TODO: partnerlink /go/nft-secrets is dood: nftwegwijs.plugandpay.nl geeft een 404 (gecontroleerd 19 september 2026), geldt ook voor /go/nft-secrets-gratis --> Handel dus alleen met geld dat je bereid bent te verliezen.
+En de NFT's en de metaverse uit mijn vorige versie van dit artikel? Die hype is voorbij. Het digitale kunstwerk van Beeple dat in maart 2021 voor 69 miljoen dollar werd verkocht, blijft een mooi verhaal, maar de meeste NFT-collecties zijn vrijwel niets meer waard. Wat ik erover schreef staat nog online in [geld verdienen met NFT's](/blog/web3/nft-uitleg/) en [de verdienmodellen in de metaverse](/blog/web3/geld-verdienen-metaverse/), als tijdsdocument.Handel dus alleen met geld dat je bereid bent te verliezen.
 
 ## Wat kost elk platform je? Alle tarieven op een rij
 
@@ -349,6 +351,8 @@ De helft van de manieren in dit artikel is door AI moeilijker geworden, de ander
 ### 4. Vraag anderen je te helpen
 
 Vergeet nooit wat anderen voor je kunnen doen. Misschien kun je iets samen opzetten, of vullen jullie vaardigheden elkaar aan. En als je een product lanceert: vraag je kennissen om het te delen. Zo kwam ik zelf aan mijn eerste online klanten, en zo kwam ik jaren later aan mijn eerste workshop.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Nu starten met online geld verdienen
 

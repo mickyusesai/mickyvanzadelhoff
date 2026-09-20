@@ -1,8 +1,8 @@
 ---
-title: "Binance review [2023] – Dé beste crypto exchange voor gevorderden?"
-description: "Weten of de Binance crypto exchange wat voor jou is? In deze review duiken we de diepte in en bespreek ik mijn eigen ervaringen met Binance."
+title: "Binance review [2026] – De grootste crypto exchange, maar niet meer voor Nederlanders"
+description: "Binance review 2026: waarom de grootste exchange geen MiCA-vergunning heeft, wat dat voor jou betekent, de kosten en welke alternatieven wél mogen."
 date: 2021-09-06
-updated: 2023-01-02
+updated: 2026-09-20
 category: "review"
 slug: "binance-review-crypto-exchange"
 lang: "nl"
@@ -10,642 +10,247 @@ draft: false
 featuredImage: "/images/headers/binance-review-crypto-exchange.webp"
 ---
 
-Weten of de **Binance crypto exchange** wat voor jou is? In deze review duiken we de diepte in en bespreek ik mijn eigen ervaringen met Binance.
+**Is Binance in 2026 nog iets voor jou?** Toen ik deze review in 2021 schreef, was het antwoord simpel: Binance was de grootste crypto exchange ter wereld, had de meeste munten en de laagste kosten. Dat eerste is nog steeds zo. Maar voor Nederlanders, en sinds 1 juli 2026 voor alle Europeanen, is er één probleem dat alles overschaduwt: **Binance heeft geen Europese vergunning**.
 
-Wanneer je handelt in crypto valuta zal je veelal een crypto exchange gebruiken om deze valuta aan te kopen. Wetende dat er **meer dan 500 [crypto exchanges](/blog/web3/beste-crypto-exchange/)** zijn, vereist het wat onderzoek om te weten welke voor jou het beste en veiligst is.
+In deze review lees je wat Binance groot maakte, waarom het in 2023 uit Nederland vertrok en in 2026 uit de hele EU, wat je moet doen als je nog munten op Binance hebt staan, hoe de kosten zich verhouden tot Nederlandse exchanges en welke alternatieven wél een MiCA-vergunning hebben. Mijn eigen ervaringen met Binance (ik had er jarenlang een account naast [Bitvavo](/blog/review/bitvavo-review-crypto/)) neem ik mee, inclusief de dingen die ik nu anders zou doen.
 
-In Nederland is de marktleider [Bitvavo](/blog/review/bitvavo-review-crypto/), maar er zijn best wat traders die aan hun functionaliteiten niet voldoende hebben. **Bij Binance is dan ook veel meer mogelijk** en al die functionaliteiten zullen in deze review voorbij komen zodat jij een goede afweging kunt maken.
+Wetende dat er [honderden crypto exchanges](/blog/web3/beste-crypto-exchange/) zijn, is het goed om te weten waar je aan begint. Laten we bij het begin beginnen.
 
-## 1. Over Binance
+## Binance in het kort (2026)
 
-Binance is **de grootste crypto exchange ter wereld**, opgericht door Binance Changpeng Zhao in 2017. Ze staan geregistreerd op de Kaaimaneilanden in Seychellen en bieden hun diensten wereldwijd aan.
+| Onderdeel | Stand van zaken op 20 september 2026 |
+|---|---|
+| Opgericht | Juli 2017, door Changpeng Zhao (CZ) en Yi He |
+| Hoofdkantoor | Geen officieel hoofdkantoor |
+| CEO | Richard Teng, sinds november 2023 |
+| Gebruikers | 300 miljoen geregistreerde accounts (december 2025) |
+| Aanbod | 500+ munten, 1.500+ handelsparen |
+| Handelskosten spot | 0,10% per transactie, 0,075% als je met BNB betaalt |
+| MiCA-vergunning | Nee; de aanvraag in Griekenland is op 24 juni 2026 ingetrokken |
+| Beschikbaar in Nederland | Nee, sinds juli 2023 |
+| Beschikbaar in de rest van de EU | Sinds 1 juli 2026 alleen nog opnemen, geen nieuwe orders of stortingen |
 
-![Binance exchange logo](/images/migrated/binance-exchange-logo-1.webp "binance-exchange-logo (1)")
+Bronnen: Binance zelf (kostenpagina en persberichten), Euronews en Wikipedia, gecontroleerd op 20 september 2026.
 
-Bij de Binance crypto exchange kan je in 2023 handelen in meer dan **500 digitale activa** waaronder Bitcoin, alt-coins en tokens. Zelfs een [NFT (non-fungible tokens)](/blog/web3/nft-uitleg/) market place is tegenwoordig op Binance te vinden.
+![Een wereldbol met een muntje erop en een hek om Europa heen](/images/spots/binance-wereldbol.webp "Binance is overal ter wereld actief, behalve binnen het Europese hek van MiCA")
 
-Het is een betrouwbaar platform dat zich qua functionaliteiten al meermaals heeft bewezen. Goed is ook om te weten dat al die functionaliteiten niet het gebruiksgemak hinderen. Op Binance wordt namelijk een onderscheid gemaakt tussen de beginnende en gevorderde trader en zo worden bepaalde functies afgeschermd of juist getoond.
+## Van grootste exchange tot buiten de EU: de tijdlijn
 
-Een greep uit de **functionaliteiten van Binance**:
+Binance heeft in negen jaar meer meegemaakt dan de meeste bedrijven in vijftig. Dit is de korte versie.
 
-*   Crypto kopen en verkopen
-*   Leverage trading (handelen met hefboomeffect tot x125)
-*   Staking
-*   Margin trading (long en short gaan)
+<ol class="timeline not-prose">
+<li class="timeline__item"><span class="timeline__num">1</span><p class="timeline__year">2017</p><p class="timeline__title">De start</p><p class="timeline__text">CZ en Yi He richten Binance op in China, verhuizen na een verbod naar het buitenland en groeien binnen een jaar uit tot de grootste exchange ter wereld.</p></li>
+<li class="timeline__item"><span class="timeline__num">2</span><p class="timeline__year">2019</p><p class="timeline__title">De hack</p><p class="timeline__text">Hackers stelen 7.000 bitcoin, toen zo'n 40 miljoen dollar. Binance vergoedt alles uit het eigen SAFU-fonds; geen klant verliest geld.</p></li>
+<li class="timeline__item"><span class="timeline__num">3</span><p class="timeline__year">2022</p><p class="timeline__title">Boete van DNB</p><p class="timeline__text">De Nederlandsche Bank legt in april een boete op van 3,3 miljoen euro, omdat Binance zonder registratie Nederlandse klanten bedient.</p></li>
+<li class="timeline__item"><span class="timeline__num">4</span><p class="timeline__year">2023</p><p class="timeline__title">Weg uit Nederland, schikking in de VS</p><p class="timeline__text">In juni kondigt Binance zijn vertrek uit Nederland aan; de registratie bij DNB komt er niet. In november volgt een schikking van 4,3 miljard dollar in de VS. CZ bekent schuld en stapt op, Richard Teng wordt CEO.</p></li>
+<li class="timeline__item"><span class="timeline__num">5</span><p class="timeline__year">2024</p><p class="timeline__title">CZ de cel in</p><p class="timeline__text">De oprichter zit vier maanden uit in een Amerikaanse gevangenis. Binance zelf draait gewoon door en blijft de grootste.</p></li>
+<li class="timeline__item"><span class="timeline__num">6</span><p class="timeline__year">2025</p><p class="timeline__title">300 miljoen gebruikers en gratie</p><p class="timeline__text">Binance passeert in december de 300 miljoen accounts. Op 23 oktober verleent president Trump CZ gratie.</p></li>
+<li class="timeline__item timeline__item--now"><span class="timeline__num">7</span><p class="timeline__year">2026</p><p class="timeline__title">Buiten de EU</p><p class="timeline__text">Binance trekt op 24 juni de MiCA-aanvraag in Griekenland in. Vanaf 1 juli mag het geen nieuwe diensten meer aanbieden aan EU-klanten. Het wil het opnieuw proberen via Frankrijk.</p></li>
+</ol>
 
-Voordat je nu vol enthousiasme met een x100 leverage gaat traden (er zijn mensen die dat doen) is het belangrijk om eerst op de hoogte te zijn van de risico’s en jezelf te verdiepen in de crypto wereld zelf. Doe dat door te lezen over [hoe je geld verdient met crypto](/blog/web3/handelen-in-crypto-valuta/) of door [een gratis crypto cursus](/blog/web3/gratis-crypto-bitcoin-cursussen/) te volgen. Later in dit artikel zal ik uitleggen wat de verschillende functionaliteiten inhouden en hoe je deze in je voordeel kan gebruiken.
+## Waarom je Binance als Nederlander niet (meer) kunt gebruiken
 
-Binance is wereldwijd actief en de meeste functionaliteiten zijn in Nederland te gebruiken (_behalve Binance futures dat midden 2021 in Nederland werd verboden_).
+Dit is het belangrijkste deel van deze review, dus ik zet het vooraan.
 
-In de toekomst zijn ze van plan om te transformeren naar een **DAO (decentrale autonome organisatie)** wat zoveel betekent als dat het bedrijf zelfstandig kan functioneren zonder personeel.
+Sinds 30 december 2024 geldt in de hele EU de **MiCA-verordening** (Markets in Crypto-Assets). Wie in Europa crypto wil aanbieden, moet een vergunning hebben van een nationale toezichthouder, in Nederland de AFM. De overgangsperiode liep in Nederland af op 30 juni 2025 en in de laatste Europese landen op 30 juni 2026. Van de ruim 3.000 cryptobedrijven in Europa hadden er op 1 juli 2026 zo'n 210 een volledige vergunning. Binance zat daar niet bij.
 
-![Decentrale autonome organisatie DAO](/images/migrated/DAO-decentrale-autonome-organisatie-1.webp "DAO-decentrale-autonome-organisatie (1)")
+Voor Nederlanders was Binance al langer geen optie. Nadat De Nederlandsche Bank in 2022 een boete oplegde en de registratie er in 2023 niet kwam, stopte Binance in juli 2023 met het bedienen van Nederlandse klanten. Sinds 1 juli 2026 geldt hetzelfde voor de rest van de EU: **geen nieuwe accounts, geen stortingen, geen nieuwe spotorders en geen Earn- of stakingproducten**. Wat wél blijft werken: opnemen. Binance zegt zelf dat tegoeden "toegankelijk blijven".
 
-Door over te willen stappen naar een DAO volgt Binance **de Bitcoin filosofie**, gezien ook de cryptomunt niet wordt aangestuurd door een management, maar door de programmeercode en daarmee **gedecentraliseerd** is.
+Binance wil het opnieuw proberen via Frankrijk en zegt "binnen enkele maanden" een MiCA-vergunning te verwachten. Dat zei het bedrijf ook over Nederland, en dat is nooit gelukt. Ik zou er mijn plannen niet op bouwen.
 
-## Is Binance betrouwbaar?
+### Heb je nog munten op Binance staan?
 
-**Ja**. Binance heeft zich door de jaren heen gevestigd als betrouwbare naam in de cryptomarkt.
+Dan is dit het moment om ze te verplaatsen. Zo doe ik het zelf:
 
-Één voorbeeld waaruit ik dat zelf vind blijken is dat Binance slechts één keer succesvol is ‘gehackt’ en daarbij een relatief klein bedrag werd buitgemaakt omdat veruit de meeste crypto offline zijn opgeslagen in cold wallets.
+1.  Maak een account bij een exchange met een Europese vergunning, bijvoorbeeld [Finst](/go/finst) (Nederlands, AFM-vergunning, 0,15% per transactie) of [Bitvavo](/go/bitvavo).
+2.  Zoek in de nieuwe app het stortingsadres op van de munt die je wilt verplaatsen, en let op het netwerk (Ethereum, Solana, BNB Chain…). Verkeerd netwerk is kwijt geld.
+3.  Stuur eerst een klein testbedrag vanaf Binance. Komt dat aan, stuur dan de rest.
+4.  Staat je munt niet op een Europese exchange? Verkoop hem dan op Binance voor een stablecoin zoals USDC en stuur die over.
 
-Bij deze hack, waarbij 40 miljoen dollar aan cryptomunten werd gestolen, heeft Binance **alles voor eigen rekening** genomen en is er dus geen enkele klant de dupe geworden.
+Bewaar je bewijs van de overboekingen. Voor de Belastingdienst (box 3, de waarde op 1 januari) wil je later kunnen aantonen wat je waar had staan; hoe dat werkt lees je in mijn [crypto guide](/blog/web3/handelen-in-crypto-valuta/).
 
-Ook heeft Binance een eigen cryptomunt, namelijk de **Binance Coin (BNB)** en zijn de oprichters erg zichtbaar in het openbaar. Daarbij is Binance de crypto exchange met de hoogste liquiditeit en kan je dus de meest stabiele prijzen verwachten, gezien de koers minder snel door één persoon kan worden beïnvloed. **Hierdoor voorkom je de zogenoemde scam wicks** die jouw orders liquideren.
+### Woon je buiten de EU?
 
-![Binance coin](/images/migrated/binance-coin-1.webp "binance-coin (1)")
+Veel van mijn lezers zitten als digital nomad in Azië of Latijns-Amerika. Daar is Binance in de meeste landen gewoon beschikbaar en verandert er niets. Je kunt er dan [nog steeds een account aanmaken](/go/binance). De rest van deze review gaat over wat je dan krijgt.
 
-## Waarom kiezen crypto traders voor Binance?
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
-Er zijn genoeg redenen om te kiezen voor Binance. Persoonlijk kies ik voor Binance om crypto te traden die niet op [Bitvavo](/blog/review/bitvavo-review-crypto/) beschikbaar zijn en om te kunnen **handelen met leverage (wanneer ik in het buitenland ben)**.
+## Wat Binance zo groot maakte
 
-Hieronder zal ik andere redenen opsommen die ik op het internet ben tegengekomen.
+Er is een reden dat Binance ondanks alle rechtszaken nog steeds de grootste is. Een paar dingen doet het simpelweg beter dan wie ook.
 
-*   Binance is de crypto exchange met **de grootste liquiditeit.**
-    
-*   Ze zijn beschikbaar in de meeste landen.
-    
-*   Binance **heeft veel kleine munten**, altcoins en tokens.
-    
-*   Binance biedt functies voor ieder niveau crypto trader.
-    
-*   De exchange biedt **tientallen betalingsopties** voor elke beschikbare fiat-valuta.
-    
-*   Binance houdt het **stortingsproces transparant.**
-    
-*   Binance heeft **margehandel** (waarmee je kunt traden met hefboomeffect), **futures-contracten** en **staking** mogelijkheden.
-    
-*   Binance heeft een **transparant systeem** voor handelskosten.
-    
-*   Je kan zonder je te legitimeren al beginnen met traden op Binance (met limieten).
-    
-*   De mobiele app is makkelijk te gebruiken.
-    
+*   **Liquiditeit.** Er wordt nergens zoveel verhandeld. Daardoor krijg je bijna altijd de prijs die je op je scherm ziet, ook bij grote orders, en zijn de zogenoemde 'scam wicks' (korte, extreme uitschieters die orders liquideren) zeldzamer dan op kleine exchanges.
+*   **Aanbod.** Ruim 500 munten en meer dan 1.500 handelsparen. Kleine altcoins die je op een Nederlandse exchange niet vindt, staan hier vaak wel.
+*   **Functies voor elk niveau.** Van een simpele 'converteer'-knop tot margin, futures, opties en een P2P-markt. De app verbergt de ingewikkelde dingen voor beginners en toont ze voor gevorderden.
+*   **Lage kosten.** 0,10% per transactie, en 0,075% als je de kosten in BNB betaalt. Daarover verderop meer.
 
-Veel mensen gebruiken Binance in combinatie met [andere crypto exchanges](/blog/web3/beste-crypto-exchange/). Dit om een zo groot mogelijk aantal munten te kunnen verhandelen en gebruik te maken van alle mogelijke functionaliteiten.
+Zelf gebruikte ik Binance jarenlang naast Bitvavo: voor munten die daar niet stonden en, eerlijk is eerlijk, om met hefboom te handelen als ik in het buitenland zat. Dat laatste doe ik niet meer. Op 10 oktober 2025 werd in één dag voor zo'n 19 miljard dollar aan hefboomposities geliquideerd, de grootste 'wipe-out' ooit. Wie gewoon munten bezat, had een slechte dag. Wie met geleend geld handelde, was alles kwijt. Tegenwoordig leg ik elke maand een vast bedrag in via [Finst](/go/finst) en kijk ik er verder niet naar om.
 
-## 2. Binance account aanmaken en verifiëren
+## Account aanmaken en verifiëren
 
-Een Binance account aanmaken is erg simpel. Je volgt slechts de volgende 5 stappen.
+Een account aanmaken duurt een paar minuten: e-mailadres of telefoonnummer, wachtwoord, beveiligingscode, voorwaarden accepteren. Je moet 18 jaar of ouder zijn.
 
-1.  Je moet ouder zijn dan 18 jaar om een account aan te maken.
-2.  Ga naar de [Binance website](/go/binance) en klik op “**Registreren**“.
-3.  Voer een e-mail adres of telefoon nummer in en maak een wachtwoord aan.
-4.  Verifieer jouw contactgegevens door een beveiligingscode in te voeren.
-5.  Accepteer de algemene voorwaarden, vink de vakjes aan en klik op “**Maak account**”.
-
-![Binance account dashboard](/images/migrated/binance-account-overview-1.webp "Binance account dashboard")
-
-Wanneer je vervolgens bent ingelogd kom je bij bovenstaande **dashboard** uit. Hier zie je een overzicht van jouw account en de crypto die in jouw Binance wallet zit.
-
-[Maak een Binance account aan](/go/binance)
-
-## Het verificatieproces
-
-Wanneer je zoals hierboven een Binance account hebt aangemaakt kan je al direct beginnen met het verhandelen van crypto. **Echter ben je wel verplicht om voor grotere bedragen (of P2P-handel en de Binance card) jouw account te verifiëren**. Dit is om witwassen en andere ongewenste praktijken tegen te gaan.
-
-![Binance verificatie](/images/migrated/binance-verificatieproces.webp "binance-verificatieproces")
-
-In de niet geverifieerde categorie kan je slechts traden tot 300 dollar. Een extra verificatie is in veel gevallen dus wel gewenst, maar die eerste stap geeft je in ieder geval de mogelijkheid om de Binance crypto exchange zonder moeilijkheden uit te proberen. Zie hieronder **de drie niveaus van verificatie**.
-
-> **Basic:**
-> 
-> Volledige naam + land + adres (geen documenten vereist) = $ 300 (niet verlengbaar) kooplimiet en geen handelsfuncties.
-> 
-> 🕒 beoordelingstijd is 0-15 minuten
-
-> **Intermediate:**
-> 
-> Paspoort of ID-kaart of rijbewijs + Gezichtsfoto + QR-codescan = $50.000 per dag – $500.000 per maand kooplimiet en alle handelsfuncties.
-> 
-> 🕒 beoordelingstijd 1 uur – 10 dagen
-
-> **Advanced:**
-> 
-> Bewijs van adres (bankafschriften/energierekeningen) = verhoging van handelslimieten tot $200.000 per dag – $2.000.000 per maand.
-> 
-> 🕒 beoordelingstijd is maximaal 10 dagen
-> 
-> Houd er ook rekening mee dat de limieten per land kunnen verschillen.
-
-**Zelf heb ik mijn account tot intermediate geverifieerd, net zoals 80% van de andere Binance gebruikers.**
-
-## 3. Deze crypto vind je op Binance
-**
-
-Binance heeft een gevarieerd aanbod aan verschillende crypto. Er zijn meer dan **500 digitale activa** te vinden om in te traden. In trading pairs komt dat uit op 1274 mogelijkheden voor handel.
-
-Op de spotmarkt (wat je het beste kan zien als de ‘normale’ crypto trades) kan je alle digitale activa in ieder geval verhandelen tegenover USDT (stable coin), Euro en Bitcoin. Vaak moet je daarvoor geld (fiat of crypto) storten op jouw Binance account, maar in sommige gevallen kan je ook direct crypto kopen met jouw euro’s. Er worden bij Binance **47 verschillende fiat currencies** geaccepteerd.
-
-Mocht je benieuwd zijn, dan vind je hieronder een lijstje met meer dan 150 cryptovaluta die bij Binance te verhandelen zijn.
-
-### Bekijk aanbod crypto Binance
-
-1.  1inch
-2.  Aave
-3.  Akropolis
-4.  Algorand
-5.  Alien Worlds
-6.  Alpha Finance Lab
-7.  Ankr
-8.  Arweave
-9.  Audius
-10.  Automata Network
-11.  Avalanche
-12.  Axie Infinity
-13.  BakeryToken
-14.  Balancer
-15.  Band Protocol
-16.  Basic Attention Token
-17.  Beacon ETH
-18.  Bella Protocol
-19.  Binance Coin
-20.  Binance USD
-21.  Bitcoin
-22.  Bitcoin Cash
-23.  Bitcoin Diamond
-24.  BitShares
-25.  BitTorrent
-26.  Bluzelle
-27.  Burger Swap
-28.  bZx Protocol
-29.  Cardano
-30.  Cartesi
-31.  Celer Network
-32.  CertiK
-33.  Chainlink
-34.  Chiliz
-35.  Chromia
-36.  Civic
-37.  Compound
-38.  Cosmos
-39.  COTI
-40.  Curve DAO Token
-41.  Dash
-42.  Decentraland
-43.  Defi
-44.  Dent
-45.  DeXe
-46.  DFI.Money
-47.  DigiByte
-48.  Dock
-49.  DODO
-50.  Dogecoin
-51.  Elrond
-52.  Enjin Coin
-53.  EOS
-54.  Ethereum
-55.  Ethereum Classic
-56.  Fantom
-57.  Fetch.ai
-58.  Filecoin
-59.  Flamingo
-60.  FTX Token
-61.  Gifto
-62.  HARD Protocol
-63.  Harmony
-64.  Hedera Hashgraph
-65.  Helium
-66.  Holo
-67.  Horizen
-68.  ICON
-69.  iExec RLC
-70.  Internet Computer
-71.  IOST
-72.  IOTA
-73.  IRISnet
-74.  Kava.io
-75.  Kusama
-76.  Kyber Network Crystal Legacy
-77.  Linear
-78.  Lisk
-79.  Litecoin
-80.  Litentry
-81.  Loopring
-82.  Maker
-83.  Marlin
-84.  Mdex
-85.  Metal
-86.  Monero
-87.  MyNeighborAlice
-88.  Nano
-89.  NEAR Protocol
-90.  NEM
-91.  Neo
-92.  Nervos Network
-93.  New BitShares
-94.  NKN
-95.  Ocean Protocol
-96.  OMG Network
-97.  Ontology
-98.  Origin Protocol
-99.  PancakeSwap
-100.  PAX Gold
-101.  Perlin
-102.  Phala Network
-103.  Polkadot
-104.  Polygon
-105.  Qtum
-106.  Ravencoin
-107.  Reef
-108.  Ren
-109.  Reserve Rights
-110.  Ripple
-111.  SafePal
-112.  Serum
-113.  SHIBA INU
-114.  Siacoin
-115.  SKALE Network
-116.  Small Love Potion
-117.  Solana
-118.  Stellar
-119.  Storj
-120.  StormX
-121.  Streamr
-122.  SUN
-123.  SushiSwap
-124.  Swipe
-125.  Synthetix
-126.  Tellor
-127.  Terra
-128.  Tether
-129.  Tezos
-130.  The Graph
-131.  The Sandbox
-132.  THETA
-133.  Theta Fuel
-134.  THORChain
-135.  Toko Token
-136.  TomoChain
-137.  TRON
-138.  TrueUSD
-139.  Trust Wallet Token
-140.  UMA
-141.  Unifi Protocol DAO
-142.  Uniswap
-143.  USD Coin
-144.  VeChain
-145.  Venus
-146.  Verge
-147.  VeThor Token
-148.  Waves
-149.  WazirX
-150.  WINkLink
-151.  Wrapped Bitcoin
-152.  yearn.finance
-153.  Zcash
-154.  Zilliqa
-155.  0x
-
-## Geld storten op Binance
-
-Er zijn twee manieren om geld op jouw Binance account te storten. Je kan fiat geld overmaken of direct crypto verzenden naar jouw account. Bij die laatste is de **minimale storting €15,-**.
-
-Wanneer je crypto wilt gaan kopen met fiat zijn dit de kosten voor het aanvullen van jouw Binance account.
-
-Stortingsoptie
-
-Vergoeding € of % per transactie
-
-SEPA Bank Transfer
-
-€ 0
-
-iDEAL
-
-€ 1,30
-
-BankCard Visa/Mastercard
-
-€ 1,80
-
-Advcash Account Balance
-
-€ 0
-
-Etana Account Balance
-
-0.1%
-
-Wanneer je vervolgens **jouw winsten in fiat wil laten uitbetalen**, kan dit op de volgende manieren.
-
-Uitbetalingswijze
-
-Vergoeding € of % per transactie
-
-SEPA Bank Transfer
-
-€ 0,80
-
-BankCard Visa
-
-1%
-
-Advcash Account Balance
-
-€ 0
-
-Etana Account Balance
-
-0.1%
-
-[Maak een Binance account aan](/go/binance)
-
-## 4. Handelsmogelijkheden op Binance
-
-De handelsmogelijkheden bij Binance zijn groter dan ik ergens anders heb kunnen vinden. Je kan ‘normaal’ traden en gewoon crypto kopen en verkopen, maar daar blijft het zeker niet bij. **Deze functies zijn uitgebreid met opties voor margin en future trading**. Laten we ze hier allemaal doorlopen.
-
-![binance crypto handelsfuncties](/images/migrated/trading-1.webp "binance crypto handelsfuncties")
-
-## 1. Convert trading
-
-Dit is de simpelste handelsmogelijkheid op Binance, maar geeft je niet echt een idee van de koers. Je kan hier simpelweg **jouw euro’s of crypto converteren naar andere fiat of crypto**.
-
-In onderstaande voorbeeld zie je bijvoorbeeld hoe je Bitcoin weer verkoopt in ruil voor euro’s.
+Daarna volgt de verificatie (**KYC**, Know Your Customer). Vroeger kon je zonder verificatie al kleine bedragen handelen; dat is voorbij. Zonder een geverifieerd account met paspoort of ID-kaart plus gezichtsscan kun je tegenwoordig niet storten of handelen. De beoordeling duurt meestal minuten, soms dagen. Voor hogere limieten vraagt Binance daarna nog een adresbewijs.
 
-![Converteer fiat naar crypto op Binance](/images/migrated/conv-1.webp "Converteer fiat naar crypto op Binance")
+Ben je eenmaal binnen, dan zie je een dashboard met je saldo en je wallets. Binance werkt met aparte wallets per functie: spot, margin, futures, Earn en P2P. Geld storten en opnemen gaat altijd via de spot-wallet; vandaar boek je over naar de andere. Dat voelt omslachtig, maar het heeft een reden: als een hefboompositie geliquideerd wordt, raak je alleen kwijt wat in die specifieke wallet stond.
 
-De wisselkoers die wordt gebruikt is diegene die op dat moment geldt en wordt voor 4 seconde vastgehouden. In deze functie is het dus ook mogelijk om bijvoorbeeld Bitcoin tegen Ethereum te traden.
+## Handelsmogelijkheden op Binance
 
-**Simpel dus**. Alleen mis je hierbij wel al het overzicht van welke kant de markt opgaat. Het zou dan ook niet mijn advies zijn om deze handelsoptie te gebruiken.
+Dit is waar Binance zich onderscheidt van een Nederlandse exchange. Ik loop de opties van simpel naar riskant door.
 
-## 2. Classic trading
+### Convert
 
-Dit is de meest gebruikte handelsfunctie van Binance. De basis van dat je iets koopt en verkoopt is uiteraard hetzelfde als bij convert trading, alleen heb je nu **het overzicht**.
+De simpelste optie: je wisselt de ene munt (of euro's) om voor de andere tegen de koers van dat moment, die een paar seconden wordt vastgezet. Geen orderboek, geen grafiek. Prima om snel iets om te zetten, maar je ziet niet welke kant de markt op gaat.
 
-Bij deze interface kan je de koersen zien in grafieken aan de hand van candlesticks.
+### Spot
 
-![Hoe te handelen op de spotmarkt met Binance](/images/migrated/classic-1.webp "Binance classic trading koppel")
+De 'normale' handel: je koopt en verkoopt echte munten. Je ziet de koersgrafiek met candlesticks, het orderboek links en je orderformulier onderin. Daar kies je tussen een **market order** (direct kopen tegen de huidige prijs), een **limit order** (pas kopen als de koers een bepaalde prijs raakt) en een **stop-limit** (automatisch verkopen als de koers onder een grens zakt, zodat je verlies beperkt blijft). Voor de gevorderde trader is er een uitgebreide grafiekweergave met de indicatoren van TradingView ingebouwd.
 
-Voor de beginnende traders kan bovenstaande overzicht wat onduidelijk zijn. Laten we daarom doorlopen wat je hier eigenlijk ziet.
+Als je net [begint met crypto](/blog/web3/handelen-in-crypto-valuta/), is dit scherm overweldigend. Weet dan dat je alleen hoeft te snappen hoe je koopt en verkoopt; de rest komt vanzelf.
 
-*   Helemaal in de linkerbovenhoek vind je de trading pair. In bovenstaande afbeelding gaat dit om de Bitcoin tegenover de USDT (stable coin die exact één dollar vertegenwoordigt). Daarnaast staat de huidige koers en wat deze in de afgelopen 24 uur heeft gedaan.
-    
-*   Aan de gehele linkerkant vind je het orderboek. Dit kan je zien als een overzicht van alle geplaatste koop en verkooporders. Naar mijn idee is dit voor een gewone trader niet heel belangrijk, maar het geeft een idee van hoe de prijs tot stand komt.
-    
-*   Bovenaan in het midden zie je de koers over de afgelopen termijn. In dit scherm zijn ook de moving averages meegenomen. Aan de bovenkant kan je de tijdsduur per candlestick wijzigen om meer overzicht te krijgen op de lange of korte termijn trend.
-    
-*   Onderaan in het midden kan je jouw trade plaatsen (kopen en verkopen). Dit kan je doen via een limit order waarbij je pas koopt als de koers een bepaalde prijs aantikt, of via een market order waarbij je koopt tegen de op dat moment geldende koers. Ook kan je direct een stop-limit instellen om al direct een verkooporder klaar te zetten voor de crypto die je gaat kopen. Zo voorkom je bijvoorbeeld dat als de koers keihard omlaag schiet je veel geld verliest.
-    
-*   Aan de rechterkant vind je de verschillende trading pairs, mocht je in meerdere soorten crypto tegelijk willen handelen.
-    
+![Een hefboom die een kleine munt omhoog wipt, met een grote munt aan de andere kant](/images/spots/binance-hefboom.webp "Hefboom: kleine inleg, grote uitslag, beide kanten op")
 
-Deze **klassieke handelsfunctie van Binance** is de meest gebruikte. Deze kan soms wat overweldigend aanvoelen wanneer je net [begint met crypto traden](/blog/web3/handelen-in-crypto-valuta/). Weet dan dat je vooral moet begrijpen hoe je crypto koopt en verkoopt. De rest van de kennis komt vanzelf. Wanneer je echter meer geavanceerd wilt traden, heeft Binance nog meer mogelijkheden. Deze bespreken we hieronder.
+### Margin
 
-## 3. Advanced trading
+Met margin trading **leen je geld van Binance** om een grotere positie in te nemen. Zet je €100 in met een hefboom van 10x, dan handel je met €1.000. Stijgt de koers 10%, dan verdien je €100 in plaats van €10. Daalt de koers 10%, dan ben je je inleg kwijt: je wordt **geliquideerd**. Bij 'cross margin' staat je hele margin-wallet garant, bij 'isolated margin' alleen de inleg van die ene positie. Kies altijd isolated als je het toch wilt proberen.
 
-De advanced trading view is er vooral voor mensen die al wat langer in crypto zitten. Veelal wil je overschakelen naar advanced als je binnen Binance technische analyse wilt doen. Deze blijft dan niet beperkt tot wat **moving averages**, maar verbreed zich met functionaliteiten als de **fibonacci retracement**, lijnen en honderden modellen die onder traders bekend zijn. Je hebt dan als het ware ‘**Trading View**‘ paraat binnen Binance zelf.
+### Futures
 
-## 4. Margin trading
+Bij futures handel je in contracten op de prijs van een munt, niet in de munt zelf, met een hefboom die tot 125x kan gaan. Binance verplicht je vóór toegang een quiz over de risico's te maken. Mijn tip: als je die quiz niet zelf haalt, moet je hier niet handelen. Ik heb vroeger de antwoorden in dit artikel gezet; die heb ik weggehaald, en niet alleen omdat futures voor Europeanen toch niet meer beschikbaar zijn.
 
-Een van de functies waarvoor veel mensen naar Binance komen is **margin trading**. Dit was voor mij zelf ook de reden om een Binance account te openen. Hierdoor kon ik namelijk met een relatief kleine inleg, grotere winsten boeken.
+### P2P
 
-![margehandel bij binance](/images/migrated/advanced-1-1.webp "margehandel bij binance")
+Op de P2P-markt handel je rechtstreeks met andere gebruikers, met Binance als bemiddelaar die de crypto vasthoudt tot de betaling binnen is. Handig in landen waar bankoverboekingen naar exchanges lastig zijn. Het risico zit aan jouw kant: betaal je iemand buiten het platform om, dan ben je je geld kwijt.
 
-Dat werkt als volgt. **Met margin trading leen je in feite geld** om meer in te kunnen zetten en meer te **profiteren van prijsschommelingen**.
+Daarnaast heeft Binance nog een Earn-omgeving (staking en spaarproducten), opties en een NFT-markt. Ontdek die stap voor stap; de meeste mensen gebruiken ze nooit.
 
-> Stel je zet bij margin trading 100,- euro in, met een leverage van 10x (sommige assets zijn met een leverage van x125 te traden). In feite leen je dan 900,- euro van Binance. Als de prijs nu 10% stijgt dan heb je met normaal traden 10,- euro winst, maar met margin trading dus 100,- euro!
+## Kosten van Binance in 2026
 
-Het grote risico is natuurlijk dat je verliezen ook x10 gelden en **je kan worden geliquideerd** zodra jouw volledige inleg is verdampt. Persoonlijk zie ik margin trading als een manier van traden voor mensen met een relatief klein geldbedrag. Het risico is groot, maar de winsten kunnen aanlokkelijk zijn.
+Een account is gratis. Je betaalt per transactie een **maker fee** (jouw order wacht in het orderboek) of een **taker fee** (jouw order wordt direct uitgevoerd). Dit zijn de spotkosten die Binance op 20 september 2026 op zijn kostenpagina toont:
 
-Om dat risico te managen heb je bij Binance de keuze uit **cross margin en isolated margin**. Daarmee kies je in feite of je pas geliquideerd wilt worden als je hele portfolio op 0 uitkomt (cross) of wanneer die specifieke trade onder de 0 uitkomt (isolated).
+| Niveau | Volume in 30 dagen | BNB in bezit | Maker | Taker | Met 25% BNB-korting |
+|---|---|---|---|---|---|
+| Regular | Minder dan $1 miljoen | Niet nodig | 0,10% | 0,10% | 0,075% / 0,075% |
+| VIP 1 | Vanaf $1 miljoen | 5 BNB | 0,09% | 0,10% | 0,0675% / 0,075% |
+| VIP 2 | Vanaf $5 miljoen | 25 BNB | 0,08% | 0,10% | 0,06% / 0,075% |
+| VIP 3 | Vanaf $20 miljoen | 100 BNB | 0,04% | 0,06% | 0,03% / 0,045% |
+| VIP 9 | Vanaf $4 miljard | 5.500 BNB | 0,011% | 0,023% | 0,00825% / 0,01725% |
 
-## 5. P2P trading
+Voor bijna iedereen geldt de eerste rij. De korting krijg je door de eigen munt van Binance, **BNB**, in je wallet te houden en de kosten daarmee te betalen.
 
-P2P staat voor peer-to-peer en gaat over het principe dat je handelt met anderen zonder tussenkomst van een derde partij. Je kunt dus direct traden met andere gebruikers van Binance, maar betaald hiervoor geen trading fees en dergelijken.
+Ter vergelijking: [Finst](/go/finst) rekent een vaste 0,15% zonder verborgen spread en [Bitvavo](/go/bitvavo) 0,25% als taker (0,15% als maker). Binance is dus goedkoper, maar het verschil is kleiner dan het lijkt. Reken het uit voor jouw situatie:
 
-![P2P Binance trading view dashboard](/images/migrated/p2pbinance-1.webp "P2P Binance")
+<div class="tool not-prose" id="binance-calc">
+<p class="tool__title">Wat kosten je transacties per jaar?</p>
+<p class="tool__intro">Vul in hoeveel je per transactie inlegt en hoe vaak je handelt; de kosten per platform rekenen direct mee.</p>
+<div class="tool__grid">
+<label class="tool__field">Bedrag per transactie (€)<input class="tool__input" id="binance-amount" type="number" min="0" step="50" value="500"></label>
+<label class="tool__field">Transacties per maand<input class="tool__input" id="binance-trades" type="number" min="0" step="1" value="4"></label>
+</div>
+<div class="tool__results">
+<div class="tool__result"><p class="tool__label">Binance (0,10%)</p><p class="tool__value" id="binance-out-binance">€ 24</p><p class="tool__sub">per jaar, <span id="binance-out-bnb">€ 18</span> met BNB-korting</p></div>
+<div class="tool__result"><p class="tool__label">Finst (0,15%)</p><p class="tool__value" id="binance-out-finst">€ 36</p><p class="tool__sub">per jaar, vaste kosten zonder spread</p></div>
+<div class="tool__result"><p class="tool__label">Bitvavo (0,25%)</p><p class="tool__value" id="binance-out-bitvavo">€ 60</p><p class="tool__sub">per jaar als taker; 0,15% als maker</p></div>
+<div class="tool__result"><p class="tool__label">Verschil Binance en Finst</p><p class="tool__value" id="binance-out-diff">€ 12</p><p class="tool__sub">per jaar, zonder Europese vergunning</p></div>
+</div>
+<p class="tool__note">Rekenvoorbeeld met de tarieven van 20 september 2026 voor het laagste volumeniveau. Stortings- en opnamekosten, spreads en koersrisico zijn niet meegerekend. Binance is voor EU-inwoners niet beschikbaar.</p>
+</div>
 
-Het nadeel van P2P trading is dat je ook zelf het risico loopt op een frauduleuze transactie. Bijvoorbeeld wanneer je geld overmaakt naar een scammer.
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var nl = function (n) { return '€ ' + new Intl.NumberFormat('nl-NL', { maximumFractionDigits: 0 }).format(n); };
+  function calc() {
+    var amount = +$('binance-amount').value || 0, trades = +$('binance-trades').value || 0;
+    var year = amount * trades * 12;
+    var b = year * 0.001, bnb = year * 0.00075, f = year * 0.0015, v = year * 0.0025;
+    $('binance-out-binance').textContent = nl(b); $('binance-out-bnb').textContent = nl(bnb);
+    $('binance-out-finst').textContent = nl(f); $('binance-out-bitvavo').textContent = nl(v);
+    $('binance-out-diff').textContent = nl(f - b);
+  }
+  ['binance-amount', 'binance-trades'].forEach(function (id) { $(id).addEventListener('input', calc); });
+  calc();
+})();
+</script>
 
-## 6. Futures trading
+Bij €500 per maand scheelt Binance je dus zo'n tientje per jaar ten opzichte van Finst. Dat is geen reden om je geld bij een partij zonder toezicht te zetten.
 
-Dan heb je bij Binance ook nog de mogelijkheid om te handelen in futures onder het kopje ‘derivatives’. Hier handel je op basis van contracten, dus je verhandelt hier niet de crypto zelf. Je kunt hier handelen op basis van stable coins zoals de USDS.
+## Is Binance veilig?
 
-![Binance Futures interface](/images/migrated/binancefutures-1.webp "Binance Futures")
+Twee dingen die je uit elkaar moet houden: de techniek en het bedrijf.
 
-Ook bij futures gaat het vaak om traden met leverage. Maar in plaats van de daadwerkelijke prijs van een munt, gaat het nu om de prijs van het contract en deze kan nog wel eens afwijken.
+**Technisch** is Binance een van de beter beveiligde exchanges. De hack van 2019 (7.000 bitcoin) is de enige grote inbraak in negen jaar, en die werd volledig uit eigen zak vergoed. Verreweg het meeste geld staat offline in cold wallets. Zelf beveilig je je account met **2FA** via een authenticator-app (nooit via sms), een **anti-phishingcode** die in elke echte mail van Binance staat, en een **whitelist** van adressen waar je naartoe mag opnemen.
 
-Houd er wel rekening mee dat je voor toegang tot deze tradingsoptie eerst moet slagen voor een test waardoor je aangeeft de risico’s te begrijpen. Mocht je de risico’s begrijpen, maar niet geheel schadeloos door de test komen, dan vind je hieronder de antwoorden (deze heb je niet van mij hè! ;)).
+![Een stevige kluis met munten erin, de deur op een kier, een klein sleuteltje ernaast](/images/spots/binance-kluis.webp "Cold storage: de meeste munten van Binance staan offline in een kluis")
 
-### Antwoorden Binance futures quiz
+**Het bedrijf** is een ander verhaal. De schikking van 4,3 miljard dollar in 2023 ging over het jarenlang niet naleven van antiwitwasregels. De oprichter zat ervoor in de cel. En in Europa is er sinds 2026 geen enkele toezichthouder die over jouw geld op Binance waakt. Bij een exchange met MiCA-vergunning moet jouw geld gescheiden zijn van het bedrijfsgeld en staat het bedrijf onder toezicht van de AFM of een collega-toezichthouder. Bij Binance heb je die zekerheid niet.
 
-1\. What is the maximum leverage available on Binance Futures？
+De gouden regel blijft: laat grote bedragen die je jaren wilt vasthouden niet op een exchange staan, maar op een eigen wallet waarvan alleen jij de sleutel hebt. Dat gold voor Binance, en het geldt net zo goed voor Finst of Bitvavo.
 
-**Correct – 125x (answer #1)**
+## Alternatieven met een Europese vergunning
 
-2\. Which wallet is not supported for trading on Binance Futures?
+Dit zijn de grote exchanges die op 20 september 2026 wél een MiCA-vergunning hebben. Eén vergunning in één EU-land geldt voor de hele EU.
 
-**Correct – Margin wallet (answer #3)**
+| Exchange | Vergunning via | Sinds | Kosten per transactie |
+|---|---|---|---|
+| [Finst](/go/finst) | AFM, Nederland | 24 juli 2025 | 0,15% vast, geen spread |
+| [Bitvavo](/go/bitvavo) | AFM, Nederland | Juni 2025 | 0,25% taker, 0,15% maker |
+| Kraken | Ierland | 25 juni 2025 | Zie hun site |
+| Coinbase | Luxemburg | 20 juni 2025 | Zie hun site |
+| Bybit | Oostenrijk | 28 mei 2025 | 0,25% taker, 0,10% maker |
+| Bitpanda | Oostenrijk | 9 april 2025 | Zie hun site |
+| KuCoin | Oostenrijk | November 2025 | Zie hun site |
+| OKX en Crypto.com | Ja | 2025 | Zie hun site |
 
-3\. Which of these is not the key difference between USDT-margined futures and coin-margined futures?
+Voor de meeste Nederlanders is de keuze simpel: [Finst](/go/finst) als je op de kosten let (lees mijn [Finst review](/blog/review/finst-crypto-exchange/)), [Bitvavo](/go/bitvavo) als je het grootste Nederlandse platform wilt (lees mijn [Bitvavo review](/blog/review/bitvavo-review-crypto/)). Wil je kleine altcoins die daar niet staan, dan is KuCoin met zijn Oostenrijkse vergunning het nette alternatief voor wat Binance ooit voor mij was.
 
-**Correct – Leverage level (answer #3)**
+## Voor- en nadelen van Binance
 
-4\. What can the maximum loss for trading in a futures contract be?
+**Voordelen**
 
-**Correct – 100% of collateral (answer #1**)
+*   De grootste liquiditeit ter wereld, dus de meest reële prijs bij elke transactie
+*   Ruim 500 munten en meer dan 1.500 handelsparen
+*   Lage kosten: 0,10% per transactie, 0,075% met BNB
+*   Functies voor elk niveau, van converteren tot futures
+*   Uitstekende app, support 24/7
+*   Eén grote hack in negen jaar, volledig vergoed
 
-5\. Which of these is not the key difference between perpetual futures and quarterly futures?
+**Nadelen**
 
-**Correct – Trading method (answer #2)**
+*   Geen MiCA-vergunning: niet beschikbaar voor Nederlanders sinds 2023 en voor EU-inwoners sinds 1 juli 2026
+*   Geen toezichthouder die over jouw geld waakt
+*   Schikking van 4,3 miljard dollar voor het overtreden van antiwitwasregels
+*   Overweldigend voor beginners
+*   Hefboomproducten die meer mensen geld hebben gekost dan opgeleverd
 
-6\. If a user has open orders or position, which of the following can be done by the user?
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
-**Correct – Borrow by using cross collateral function (answer #3)**
+## Conclusie Binance review
 
-7\. What is the reference price Binance Futures uses to determine if a position should be liquidated?
+Binance is nog altijd de grootste en in veel opzichten de beste crypto exchange ter wereld. Maar de beste exchange waar je niet mag handelen, heb je niets aan. Voor Nederlanders is Binance sinds 2023 geen optie, voor de rest van de EU sinds 1 juli 2026 ook niet, en of de aanvraag via Frankrijk slaagt, weet niemand.
 
-**Correct – Mark price (answer #3)**
+Mijn advies in 2026: heb je nog munten op Binance staan, verplaats ze naar een exchange met vergunning. Begin je net, kies dan direct voor [Finst](/go/finst) of [Bitvavo](/go/bitvavo). En woon je buiten de EU, dan kun je [gewoon een Binance-account aanmaken](/go/binance), maar handel dan zonder hefboom. Die les heb ik zelf duur genoeg betaald.
 
-8\. When will a user receive margin calls? When his/her margin balance is lower than:
+Wil je eerst begrijpen hoe de cryptomarkt in elkaar zit? Lees dan mijn [complete guide over geld verdienen met crypto](/blog/web3/handelen-in-crypto-valuta/), inclusief de live koers, staking en de belastingregels van 2026.
 
-**Correct – Maintenance margin (answer #3)**
+## Veelgestelde vragen over Binance
 
-9\. Can BNB in users’ USDT-margined wallets be used as margins to open new positions?
+### Kan ik als Nederlander nog een Binance-account aanmaken?
 
-**Correct – No, BNB in users’ USDT-margined wallets can only be used to pay commissions. (answer #2)**
+Nee. Binance bedient sinds juli 2023 geen Nederlandse klanten meer en heeft in 2026 geen MiCA-vergunning gekregen. Sinds 1 juli 2026 geldt dat voor de hele EU.
 
-10\. Can unrealized PNL be used as margins to open new positions?
+### Ik heb nog crypto op Binance. Ben ik die kwijt?
 
-**Correct – Yes (answer #1)**
+Nee. Opnemen blijft mogelijk. Verplaats je munten naar een exchange met Europese vergunning of naar een eigen wallet, en test eerst met een klein bedrag.
 
-11\. Which one of the following actions is NOT recommended during drastic price movements?
+### Is Binance betrouwbaar?
 
-**Correct – Use market order to get in or get out (answer #3)**
+Technisch wel: één grote hack in 2019, volledig vergoed, en sterke beveiligingsopties. Als bedrijf heeft Binance in 2023 een schikking van 4,3 miljard dollar getroffen in de VS, en in Europa staat het niet onder toezicht.
 
-12\. Should you take up a personal loan to trade futures?
+### Wat kost handelen op Binance?
 
-**Correct – No, I should trade within my financial means. (answer #2)**
+0,10% per transactie op de spotmarkt, 0,075% als je de kosten in BNB betaalt. Bij hogere volumes daalt dat, tot 0,011% maker bij meer dan 4 miljard dollar per maand.
 
-Andere functionaliteiten van Binance zoals de **Binance card, vanilla options en leveraged tokens** laat ik in deze Binance review even voor wat het is. Je kan ze beter stap voor stap ontdekken en zal een hoop waarschijnlijk nooit gebruiken.
+### Wat is het beste alternatief voor Binance?
 
-## 5. Kosten Binance
-
-**Een Binance account aanmaken is gratis**. Je betaald vervolgens alleen handelskosten per keer dat je een trade maakt. De kosten zijn onderverdeeld in de **Maker Fee** en **Taker Fee**. In principe zijn er geen kosten voor het storten van geld, tenzij jouw bank daar geld voor rekent.
-
-Interessant aan Binance is dat omdat ze een eigen munt hebben (**Binance coin, BNB**), je korting krijgt wanneer je deze gebruikt om te traden. Hierdoor **kunnen jouw handelskosten 25% lager** uitvallen.
-
-Onderstaande tabel laat de kosten zien. Het volume is het bedrag dat jij in de afgelopen 30 dagen verhandelt hebt. Voor veel mensen is de eerste rij het meest relevant.
-
-**Volume**
-
-**Maker fee**
-
-**Taker fee**
-
-**0 – 50 BTC**
-
-0.1%
-
-0.1%
-
-**50 – 500 BTC**
-
-0.09%
-
-0.1%
-
-**500 – 1500 BTC**
-
-0.08%
-
-0.1%
-
-**1500 – 4500 BTC**
-
-0.07%
-
-0.1%
-
-**4500 – 10000 BTC**
-
-0.07%
-
-0.09%
-
-**10000 – 20000 BTC**
-
-0.06%
-
-0.08%
-
-**20000 – 40000 BTC**
-
-0.05%
-
-0.07%
-
-**40000 – 80000 BTC**
-
-0.04%
-
-0.06%
-
-**80000 – 150000 BTC**
-
-0.03%
-
-0.05%
-
-**Meer dan 150000 BTC**
-
-0.02%
-
-0.04%
-
-Vergeleken met [Bitvavo](/blog/review/bitvavo-review-crypto/) is Binance iets goedkoper, net zoals dat geld voor veel [andere crypto exchanges](/blog/web3/beste-crypto-exchange/). Alleen is het wel zo dat je bij Bitvavo al lagere fees krijgt als je bijvoorbeeld 25.000,- euro hebt verhandelt.
-
-## 6. Binance beveiliging en veiligheid
-
-Veiligheid is belangrijk als het op geld aankomt. Je wilt er ten alle tijden zeker van kunnen zijn dat je jouw geld niet verliest.
-
-In de basis is het met crypto altijd goed om deze niet op een exchange te laten staan, maar zelf op te slaan op een software of hardware wallet. Mocht je jouw crypto toch op Binance willen laten staan dan is het goed om te weten dat ze **slechts één keer** een kleinschalige hack hebben gehad en daarbij **alle verloren cryptovaluta hebben vergoed aan hun klanten**.
-
-Zelf kan je de veiligheid van jouw Binance account garanderen door **2FA** (bijv. met Google Authenticator), een **anti-phishing code** en een **whitelist** voor opnames.
-
-![Security methods on Binance account](/images/migrated/binance-safety-2-1.webp "Binance security methods")
-
-## 7. De verschillende Binance wallets
-
-Binance heeft veel verschillende manieren om crypto te verhandelen en gebruikt bij veel handelsfuncties ook aparte wallets. Deze staan allemaal in jouw Binance account en veelal kan je jouw saldo van de ene naar de andere wallet overboeken.
-
-De reden hiervoor is dat je bij het handelen met een hefboom bijvoorbeeld wilt voorkomen dat je jouw hele vermogen kwijtraakt wanneer je wordt geliquideerd.
-
-Geld storten en opnemen gaat altijd via de standaard fiat en spot wallet. Vanaf daar kan je vervolgens geld overmaken naar jouw **margin wallet, futures wallet, P2P wallet, earn wallet (voor sparen), pool wallet (voor crypto mining) en de vanilla options wallet**.
-
-*   ![Binance wallet appearance for Margin trading](/images/migrated/binance-margin-1.webp)
-*   ![Binance wallet appearance for futures trading](/images/migrated/binance-futures-1.webp)
-*   ![Binance wallet appearance for P2P trading](/images/migrated/binance-p2p-1.webp)
-*   ![Binance earn](/images/migrated/binance-earn-1.webp)
-*   ![Binance pool interface](/images/migrated/binance-pool-1.webp)
-*   ![Binance interface for Vanilla options project](/images/migrated/biannce-vanilla-1.webp)
-
-Buiten de wallets van Binance zelf, is het natuurlijk ook mogelijk (en aan te raden) om crypto te bewaren op jouw eigen software of hardware wallet. Volg hiervoor altijd de instructies die bij jouw wallet zijn geleverd.
-
-![Hoe te crypto trekken uiBinance om crypto wallet](/images/migrated/binanvce-1.webp "Binance crypto-opnamepagina")
-
-## 8. Conclusie Binance review
-
-Binance is de grootste speler op de cryptomarkt en heeft daarom als belangrijke voordeel een gigantische liquiditeit die je nergens anders kan vinden. Hierdoor heb je de meest reële prijs bij iedere transactie.
-
-De reden dat ik zelf van Binance gebruik maak zijn de hefboom functionaliteiten. Hierdoor kan ik met relatief weinig geld mooie winsten behalen.
-
-Andere redenen waarom mensen Binance wel en niet gebruiken vind je hieronder.
-
-**Binance voordelen:**
-
-*   Lage handelskosten, gemiddeld 0,1% per transactie
-    
-*   De hoogste marktliquiditeit en meer dan 500 digitale activa om te handelen
-    
-*   Accountverificatie vereist niet veel documenten aan het begin
-    
-*   Binance is bijna overal ter wereld beschikbaar
-    
-*   Beschikt over een eigen NFT markt
-    
-*   Accepteert 47 verschillende fiat valuta’s
-    
-*   Zeer hoge handelslimieten voor elk accounttype
-    
-*   Transparante reputatie en oprichter
-    
-*   Apps voor IOS en Android zijn niet beperkt in de functionaliteit
-    
-*   Support 24/7 bereikbaar
-    
-
-**Binance nadelen:**
-
-*   De interface is te ingewikkeld zijn voor beginners
-    
-*   Verificatie vereist om meer dan $300 te kunnen handelen
-    
-*   Binance Futures zijn in Nederland niet meer toegestaan
-    
-
-[Maak nu een binance account](/go/binance)
-
-## 9. Binance FAQ
-**
-
-### Is Binance een betrouwbare crypto exchange?
-
-**Ja**. Binance is sinds 2017 actief en heeft zijn eigen cryptocurrency BNB. Ze hebben één keer een kleine hack gehad en hebben toen alle verloren crypto uit eigen zak vergoed.
-
-### Welke fiat-valuta's kan ik op Binance storten?
-
-Binance accepteert **47 verschillende fiat-valuta’s** waaronder EUR, GBP, AUD en USD.
-
-### Welke crypto vind ik op Binance?
-
-Binance biedt meer dan **500 digitale activa** waaronder Bitcoin, Ethereum, Litecoin, Dogecoin, VeChain, Cardano, Enjin, Chainlink, Polkadot, Ripple, Tezos en yearn.finance. In totaal zijn er 1274 handelsparen.
-
-### Heeft Binance een mobiele app?
-
-**Ja.** Binance heeft een geweldige mobiele app (IOS en Android). Met de app heb je toegang tot alle handelsfuncties die de desktop versie ook biedt.
-
-### Is een Binance account gratis?
-
-**Ja.** Een Binance-account is volledig gratis. Vervolgens betaal je alleen kosten telkens als je iets verhandelt.
+Voor Nederlanders [Finst](/go/finst) (goedkoopst, 0,15%) of [Bitvavo](/go/bitvavo) (grootst). Voor kleine altcoins KuCoin, dat sinds november 2025 een Oostenrijkse MiCA-vergunning heeft.

@@ -142,6 +142,8 @@ Zelf heb ik dit succesvol toegepast met mijn eigen e-book: het merendeel van de 
 
 <aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+
 ## 5. Een e-book gebruiken als marketingmiddel
 
 Zelf verkoop ik mijn e-book tegenwoordig niet meer, maar gebruik ik het [als weggever](/boek/). Ik geef er gratis waarde mee aan mijn **potentiële klanten**, zonder er zelfs een e-mailadres voor te vragen.

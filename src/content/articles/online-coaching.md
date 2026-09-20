@@ -40,7 +40,7 @@ Stel dat je zelf altijd moeite had om dingen positief te bekijken, maar dat je j
 
 Wanneer je persoonlijke ervaring hebt, is het makkelijker om je dienst aan te bieden. Jij bent zelf het levende resultaat van wat je aanbiedt.
 
-Het is daarom dat ik zelf weleens gevraagd word om iemand te coachen in [het opbouwen van online inkomen](/blog/online-geld-verdienen/online-geld-verdienen/). Mensen verwachten vanwege mijn ervaring dat ik hen daarmee kan helpen. Eigenlijk zeg ik hier altijd beleefd nee tegen, tenzij het is op [onze workation in Italië](/blog/ondernemen/workations-ondernemersreizen/). Goed voor jou om te weten: ik ben zelf niet actief als online coach, maar geef wel workshops en kan je in dit artikel tips geven om aan klanten te komen.
+Het is daarom dat ik zelf weleens gevraagd word om iemand te coachen in [het opbouwen van online inkomen](/blog/online-geld-verdienen/online-geld-verdienen/). Mensen verwachten vanwege mijn ervaring dat ik hen daarmee kan helpen. Eigenlijk zeg ik hier meestal beleefd nee tegen. Goed voor jou om te weten: coaching doe ik alleen nog rondom AI en automatisering, voor €150 per uur; verder geef ik [workshops](/ai-workshops/) en kan ik je in dit artikel tips geven om aan klanten te komen.
 
 <aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
@@ -88,7 +88,7 @@ Voel je wat er gebeurt als coaching je zo wordt voorgeschoteld? Iemand die zich 
 
 Wie denkt dat je als online coach een lager tarief moet rekenen dan een offline coach, heeft het mis. De klant betaalt niet voor de 'coaching', maar voor het 'resultaat van de coaching'. Als je hetzelfde resultaat biedt, mag je dezelfde prijs rekenen.
 
-Toen iemand mij vroeg voor coaching rondom ondernemerschap, hebben we per sessie €125 afgesproken, voor sessies van ruim een uur. Dat bleek achteraf een heel normaal bedrag. Dit zijn de gemiddelde uurtarieven van Nederlandse coaches volgens het marktonderzoek van NOBCO uit 2025 (1.705 respondenten) en de zzp-cijfers van Knab uit hetzelfde jaar, gecontroleerd op 19 september 2026:
+Toen iemand mij jaren geleden vroeg voor coaching rondom ondernemerschap, spraken we €125 per sessie af, voor sessies van ruim een uur. Inmiddels reken ik €150 per uur voor coaching rondom AI en automatisering, en ook dat blijkt een heel normaal bedrag. Dit zijn de gemiddelde uurtarieven van Nederlandse coaches volgens het marktonderzoek van NOBCO uit 2025 (1.705 respondenten) en de zzp-cijfers van Knab uit hetzelfde jaar, gecontroleerd op 19 september 2026:
 
 | Soort coaching | Gemiddeld uurtarief |
 |---|---|
@@ -202,6 +202,8 @@ Voor particulieren meestal €75 tot €110 per uur; het gemiddelde in Nederland
 ### Moet ik btw rekenen over coaching?
 
 Ja, 21%, tenzij je omzet onder de €20.000 per jaar blijft en je meedoet aan de kleineondernemersregeling. Zakelijke klanten kunnen de btw terugvragen, dus daar maakt het weinig uit.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie online coaching opzetten
 

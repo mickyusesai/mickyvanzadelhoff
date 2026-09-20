@@ -50,6 +50,8 @@ Tot slot zoek je een stijl die past bij je onderwerp. Zakelijke onderwerpen word
 
 Wil je **meer kijkers**, dan is alleen SEO (zoekwoorden, tags) niet genoeg. **Kijktijd is een van de belangrijkste signalen voor het algoritme.** Hoe langer mensen kijken en hoe vaker ze doorklikken naar je volgende video, hoe vaker YouTube je aanbeveelt. Houd dat in het achterhoofd bij het maken van de video's.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Stap 3: De spullen die je écht nodig hebt
 
 Je wilt dat **je video's er goed uitzien en goed klinken**. Het goede nieuws van 2026: een recente telefoon filmt in een kwaliteit waar je tien jaar geleden een dure camera voor nodig had. Het is vooral **geluid** waarop beginners de mist in gaan. Kijkers vergeven een matig beeld, maar haken af bij slecht geluid.
@@ -178,6 +180,8 @@ Hoe lang duurt het voordat je daar bent? Dat hangt af van hoe snel je groeit, en
   calc();
 })();
 </script>
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie: YouTube-kanaal beginnen
 

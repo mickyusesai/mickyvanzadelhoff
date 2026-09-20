@@ -34,6 +34,8 @@ Je kunt marktonderzoek doen door in gesprek te gaan met je netwerk en te vragen 
 
 ![Ibiza lounger op het strand](/images/migrated/ibiza-lounger-bob-strand-relaxen.webp "De Ibiza Lounger in actie op het strand, zomer 2019")
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Deel en leer van anderen
 
 Wees tijdens je marktonderzoek niet bang om je idee prijs te geven. Veel mensen doen geheimzinnig als ze een bedrijf gaan starten. Maar wie dat doet, komt niets te weten over de markt. Openheid is essentieel. Een idee is een begin, maar nog geen business. Het is pas een bedrijf als er iets met dat idee wordt gedaan.
@@ -85,7 +87,7 @@ Na je inschrijving doe je als eenmanszaak (meestal) ieder kwartaal btw-aangifte.
 
 De zelfstandigenaftrek was in 2019 nog € 7.280 en wordt al jaren afgebouwd. Reken je dus niet rijk met aftrekposten: het verschil zit in wat je verkoopt, niet in wat je aftrekt.
 
-Wil je de boekhouding liever uitbesteden? [Ik heb een vriend die boekhouder is](https://curatua.nl/), levert top werk ;).
+Wil je de boekhouding liever uitbesteden? Vraag dan twee of drie boekhouders in je regio om een offerte; de verschillen in prijs en aanpak zijn groot.
 
 ![Een spaarvarken naast een stapel bonnetjes en een rekenmachine](/images/spots/bedrijf-belasting.webp "Reserveer vanaf je eerste factuur een deel voor de belasting")
 
@@ -155,6 +157,8 @@ Heb je al een logo, een website, een LinkedIn-profiel? Het is tijd om je merk de
 > _Voor de Ibiza Loungers maakten we een logo, drukten we t-shirts en petjes en lieten we beachflags maken. We wilden zeker zijn dat iedereen ons zou zien op het strand van Ibiza. Nu was het tijd om te verkopen!_
 
 ![Een jong boompje dat uit een open kartonnen doos groeit](/images/spots/bedrijf-groei.webp "Een bedrijf is pas een bedrijf als er iets met het idee wordt gedaan")
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie: eigen bedrijf starten in 2026
 

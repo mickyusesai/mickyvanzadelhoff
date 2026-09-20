@@ -1,8 +1,8 @@
 ---
-title: "Geld verdienen met de Metaverse – 8 Manieren"
-description: "Ideeën om geld te verdienen met de Metaverse zijn zeer talrijk en daarom hebben we ze in dit artikel op een rijtje gezet. Maar eerst, wat bedoelen we…"
+title: "Geld verdienen met de metaverse in 2026 – Wat er van de 8 manieren overbleef"
+description: "Acht manieren om geld te verdienen met de metaverse uit 2022, herbeoordeeld in 2026: wat dood is, wat leeft (Roblox, 3D-design) en een Robux-calculator."
 date: 2022-09-12
-updated: 2023-01-19
+updated: 2026-09-19
 category: "web3"
 slug: "geld-verdienen-metaverse"
 lang: "nl"
@@ -10,115 +10,114 @@ draft: false
 featuredImage: "/images/headers/geld-verdienen-metaverse.webp"
 ---
 
-**Geld verdienen met de Metaverse**, of in de Metaverse, maar net wat jij wilt. Met de opkomst van de Metaverse zijn er tal van mogelijkheden die kunnen worden aangepakt. Denk aan **Play2Earn, Learn2Earn, Build2Earn** of het **organiseren van events in de Metaverse**.
+**Geld verdienen met de metaverse?** In september 2022 zette ik acht manieren op een rij: investeren in metaverse crypto, virtueel land kopen en verhuren, architect worden in een virtuele wereld, play-to-earn, events organiseren, werken in de metaverse en digitale kleding ontwerpen. Ik had zelf net een stuk land gekocht en op een conferentie in Lissabon een metaverse-architect horen spreken. Het voelde als het begin van iets.
 
-Ideeën om geld te verdienen met de Metaverse zijn zeer talrijk en daarom hebben we ze in dit artikel op een rijtje gezet. Maar eerst, wat bedoelen we eigenlijk met de Metaverse?
+Vier jaar later kan ik de balans opmaken, en die is niet mals. Meta, het bedrijf dat zichzelf naar de metaverse vernoemde, verloor er in 2025 alleen al 19,2 miljard dollar op en bevroor begin 2026 zijn virtuele wereld Horizon Worlds op zijn eigen VR-brillen. De munten van Decentraland en The Sandbox staan meer dan 98% onder hun top. Virtueel land is vrijwel onverkoopbaar.
 
-## Wat is de Metaverse?
+En toch wordt er in 2026 wél geld verdiend in virtuele werelden, alleen niet waar wij in 2022 keken. In dit artikel loop ik de acht manieren opnieuw langs met een eerlijk oordeel, laat ik zien waar het geld nu zit (spoiler: bij Roblox en Fortnite, zonder crypto) en kun je met een calculator uitrekenen wat een maker daar verdient. Wat er met de metaverse-munten gebeurde, met live koersen en een tijdlijn, staat in [metaverse crypto in 2026](/blog/web3/metaverse-crypto/).
 
-De Metaverse is geen nieuwe term, maar kwam al voor in een sciencefictionboek in 1992. Toch heeft de term veel bekendheid gekregen toen Facebook zijn naam veranderde in Meta, wat zoveel als ‘beyond/voorbij’ betekent. **Een Metaverse is een digitale wereld** waar mensen samen kunnen komen. Een beetje zoals een Zoom call, maar dan in 3D.
+## Wat is de metaverse (nog)?
 
-![Wat is de Metaverse](/images/migrated/wat-is-de-metaverse-1.webp "Wat is de Metaverse")
+De term komt uit het sciencefictionboek Snow Crash uit 1992 en werd wereldnieuws toen Facebook zich in oktober 2021 omdoopte tot Meta. Het idee: een digitale 3D-wereld waar je met anderen samenkomt om te gamen, te werken, te winkelen of naar een concert te gaan. Een Zoom-call, maar dan met een lichaam.
 
-De mogelijkheden voor een Metaverse zijn eindeloos, zeker nu de lijst aan verschillende Metaverses steeds langer wordt. Je kunt er met mensen afspreken, gamen, traden, een kunstgalerij bezoeken, producten kopen, brainstormsessies houden en noem maar op. Eigenlijk kun je er alles doen wat je maar mogelijk acht in een virtuele omgeving.
+De cryptovariant daarvan, Decentraland, The Sandbox en tientallen kleinere werelden, voegde daar eigendom aan toe: land, kleding en spullen als NFT's, betaald met een eigen munt. In 2022 leek dat de toekomst. In 2026 zijn die werelden grotendeels leeg. Wat er wél leeft, zijn de virtuele werelden zonder crypto: Roblox, Fortnite en, voor wie een bril opzet, de VR-games op Meta Quest.
 
-Het is dan ook niet gek dat er qua **mogelijkheden om geld te verdienen** veel op je afkomt in de Metaverse. In dit artikel bespreken we de verschillende ideeën om geld te verdienen met de Metaverse.
+![Een lege virtuele stad van blokjes met blanco billboards en een bankje](/images/spots/metaverse-leeg-plein.webp "De cryptometaverse in 2026: mooi gebouwd, weinig bezoek")
 
-## 1. Investeren in Metaverse crypto
+## De acht manieren, opnieuw beoordeeld
 
-![Metaverse crypto currencies](/images/migrated/metaverse-crypto-currencies-1.webp "Metaverse crypto currencies")
+Dit is mijn lijst uit 2022, met het oordeel van 20 september 2026 ernaast.
 
-Er zijn veel verschillende Metaverses en deze hebben allemaal hun eigen currencies. Het idee daarachter is dat je in de Metaverse niet met nepgeld, euro’s of dollars betaald, maar met een **cryptocurrency** die je kan inruilen voor fiat.
+| Manier (2022) | Wat ik toen schreef | Oordeel in 2026 |
+|---|---|---|
+| 1. Investeren in metaverse crypto | Koop de munt van een groeiende wereld en verkoop later | MANA en SAND staan meer dan 98% onder hun top van 2021. Alleen wie in 2020 kocht én in 2021 verkocht, verdiende |
+| 2. Land kopen en verkopen | Schaars land wordt vanzelf meer waard | Ingestort. De landverkopen bij Decentraland en The Sandbox zijn een fractie van 2021 |
+| 3. Architect in een virtuele wereld | Gebouwen en winkels ontwerpen voor merken | Leeft, maar niet in de cryptometaverse. 3D-ontwerpers bouwen levels voor Roblox en Fortnite en werelden voor VR-studio's |
+| 4. Virtueel vastgoed verhuren | Winkels en billboards verhuren aan bedrijven | Dood. Zonder bezoekers geen huurders |
+| 5. Play-to-earn | Spelen en verdienen, zoals bij Axie Infinity | De munt AXS staat 99% onder zijn top. Wie speelt, verdient hooguit zakgeld; het model had steeds nieuwe kopers nodig |
+| 6. Events organiseren | Concerten en meetups in The Sandbox | Concerten en events gebeuren in 2026 in Fortnite en Roblox, niet in de cryptowerelden |
+| 7. Werken in de metaverse | Host, verkoper of presentator in een virtuele wereld | Niche. De banen die er zijn, zitten bij gamestudio's en bij de makers op Roblox |
+| 8. Wearables ontwerpen | Digitale kleding voor avatars | Leeft als 'UGC' op Roblox en Fortnite. Digital-fashionhuis The Fabricant bestaat nog |
 
-Hierdoor zijn veel Metaverses (niet allemaal) een soort op zichzelf staande economie waarin geld kan worden verdient en uitgegeven. **Zie het als een land met een eigen valuta**, zo hebben veel Metaverses ook hun eigen munteenheid.
+Vier van de acht zijn dood, vier leven verder in een andere wereld dan ik in 2022 dacht. Het patroon is hetzelfde als bij [NFT's](/blog/web3/nft-uitleg/): alles wat draaide op "dit wordt later meer waard" verdween, alles wat mensen echt gebruikten bleef.
 
-Afhankelijk van de populariteit van een specifieke Metaverse zal de prijs van de daarbij horende cryptocurrency flink bewegen ten opzichte van de euro. Hier geld mee verdienen kan dus door zo’n [Metaverse crypto](/blog/web3/metaverse-crypto/) in te kopen en later (als een Metaverse groeit) te verkopen. Houdt hierbij wel rekening met de tokenomics van een cryptomunt en doe altijd zelf onderzoek.
+## Waar in 2026 wél geld wordt verdiend: Roblox en Fortnite
 
-Crypto kopen doe je veelal via een crypto exchange. De grootste in Nederland is [Bitvavo](/go/bitvavo). Qua Metaverse crypto hebben zij **Decentraland, The Sandbox, Enjin, Aavegotchi** en **Axie Infinity**.
+De metaverse bestaat, alleen heet hij Roblox. Miljoenen mensen bouwen daar spellen, kleding en werelden, en Roblox betaalt makers uit in echte dollars via zijn Developer Exchange (DevEx). Dat zijn de cijfers die ik in 2022 had willen hebben:
 
-[Gratis account aanmaken Bitvavo](/go/bitvavo)
+*   Roblox wisselt sinds 5 september 2025 **0,0038 dollar per verdiende Robux** uit, de eerste verhoging in jaren. Je moet minimaal 30.000 Robux hebben om uit te betalen: 114 dollar.
+*   Voor aankopen door Amerikaanse spelers van 18 jaar en ouder geldt sinds juni 2026 een hoger tarief van 0,0054 dollar.
+*   Roblox keerde in 2025 volgens meerdere bronnen meer dan een miljard dollar uit aan makers. Dat geld is scheef verdeeld: een kleine top verdient miljoenen, de meeste makers verdienen weinig.
 
-## 2. De Metaverse makelaar
+Bij Fortnite werkt het vergelijkbaar: makers bouwen eilanden in Unreal Editor for Fortnite en krijgen een deel van de inkomsten op basis van hoeveel er gespeeld wordt. Het verschil met de cryptometaverse: je verdient aan spelers die er plezier hebben, niet aan de volgende koper van je land.
 
-![Land kopen in de Metaverse](/images/migrated/nexbites-metaverse-virtual-land-prices-sandbox-decentraland-1.webp "Land kopen in de Metaverse")
+![Een bureau met een groot scherm waarop een kleurrijk blokjeslevel wordt gebouwd](/images/spots/metaverse-geld-bouwer.webp "De metaverse-architect van 2026 bouwt levels voor Roblox en Fortnite")
 
-Een tijdje geleden kocht ik zelf land in een Metaverse. Enerzijds **als investering**, maar tegelijk ook omdat er wellicht leuke ideeën zijn om **dit land te gebruiken voor mijn bedrijf**.
+Reken hieronder uit wat een Roblox-maker overhoudt. De dollarkoers wordt live opgehaald; de rest vul je zelf in.
 
-Metaverse landbezit werkt als volgt. Veelal heeft een Metaverse een van te voren vastgestelde hoeveelheid land beschikbaar als [NFTs](/blog/web3/nft-guide/). Hiermee kun jij eigenaar worden van zo’n stukje land en deze gebruiken om bijvoorbeeld **een winkel te openen, events te organiseren, een beleving te maken of virtueel samen te komen met business partners**.
+<div class="tool not-prose" id="metaversegeld-calc">
+<p class="tool__title">Reken uit wat een Roblox-maker verdient</p>
+<p class="tool__intro">Vul je eigen cijfers in; de uitkomst rekent direct mee.</p>
+<div class="tool__grid">
+<label class="tool__field">Verdiende Robux per maand<input class="tool__input" id="metaversegeld-robux" type="number" min="0" step="1000" value="30000"></label>
+<label class="tool__field">DevEx-tarief ($ per Robux)<input class="tool__input" id="metaversegeld-rate" type="number" min="0" step="0.0001" value="0.0038"></label>
+<label class="tool__field">Dollarkoers (€ per $)<input class="tool__input" id="metaversegeld-fx" type="number" min="0" step="0.001" value="0.873"></label>
+</div>
+<div class="tool__results">
+<div class="tool__result"><p class="tool__label">Per maand</p><p class="tool__value" id="metaversegeld-month">€ 100</p><p class="tool__sub">vóór belasting</p></div>
+<div class="tool__result"><p class="tool__label">Per jaar</p><p class="tool__value" id="metaversegeld-year">€ 1.194</p><p class="tool__sub">bij gelijkblijvende cijfers</p></div>
+</div>
+<p class="tool__note" id="metaversegeld-note">Rekenvoorbeeld, geen belofte. Tarief van Roblox' Developer Exchange sinds 5 september 2025; uitbetalen kan vanaf 30.000 Robux. Dollarkoers van 18 september 2026 (Europese Centrale Bank via Frankfurter); zodra de pagina geladen is, wordt hij ververst.</p>
+</div>
 
-Het is volledig aan jou om te bepalen wat je met dit stukje land wil doen als jij de NFT bezit.
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var fmt = function (n) { return '€ ' + new Intl.NumberFormat('nl-NL', { maximumFractionDigits: 0 }).format(n); };
+  function calc() {
+    var robux = +$('metaversegeld-robux').value || 0, rate = +$('metaversegeld-rate').value || 0, fx = +$('metaversegeld-fx').value || 0;
+    var month = robux * rate * fx;
+    $('metaversegeld-month').textContent = fmt(month); $('metaversegeld-year').textContent = fmt(month * 12);
+  }
+  ['metaversegeld-robux', 'metaversegeld-rate', 'metaversegeld-fx'].forEach(function (id) { $(id).addEventListener('input', calc); });
+  calc();
+  if (!window.fetch) return;
+  fetch('https://api.frankfurter.dev/v1/latest?base=USD&symbols=EUR').then(function (r) { return r.json(); }).then(function (d) {
+    if (!d || !d.rates || !d.rates.EUR) return;
+    $('metaversegeld-fx').value = d.rates.EUR.toFixed(4); calc();
+    $('metaversegeld-note').textContent = 'Rekenvoorbeeld, geen belofte. Tarief van Roblox\' Developer Exchange sinds 5 september 2025; uitbetalen kan vanaf 30.000 Robux. Dollarkoers van ' + d.date + ' (Europese Centrale Bank via Frankfurter), live opgehaald.';
+  }).catch(function () { /* fallback rate stays */ });
+})();
+</script>
 
-Omdat de vraag naar deze stukken land soms groot is en er slechts een beperkt aantal aanwezig zijn, zie je ook veel mensen **die land kopen, een tijd bewaren en deze dan weer verkopen voor een hogere prijs**. Verder zou je ook direct geld kunnen verdienen in de Metaverse door jouw stuk land te verhuren aan een andere ondernemer. Huisjes melken zeg maar, alleen dan digitaal.
+Het sommetje laat meteen zien waarom de meeste makers het als hobby doen: 30.000 Robux per maand, de drempel om überhaupt uit te betalen, is zo'n honderd euro. Wie er echt van leeft, heeft een spel dat door honderdduizenden mensen wordt gespeeld. Dat is geen metaverse-kans, dat is een gamestudio beginnen.
 
-## 3. Architect in een virtuele omgeving
+## Mijn eigen les: het stuk land
 
-![Metaverse architect](/images/migrated/metaverse-architect-1-scaled.webp "Metaverse architect")
+In 2022 kocht ik een stuk land in een virtuele wereld. Deels als investering, deels omdat ik er leuke ideeën voor mijn bedrijf in zag: een plek om samen te komen, misschien een winkeltje. Op de Non-Fungible Conference in Lissabon, datzelfde jaar, hoorde ik een architect vertellen dat hij fulltime virtuele kantoren en winkels ontwierp. Het klonk logisch: als mensen daar gaan wonen, hebben ze gebouwen nodig.
 
-Het was op de non-fungible conference in Lissabon dat ik hier iemand voor het eerst over hoorde spreken. Dat de Metaverse natuurlijk **ook architecten nodig heeft** om alle gebouwen te ontwerpen.
+Het probleem was dat er niemand kwam wonen. In oktober 2022 meldde DappRadar al dat Decentraland op een dag maar 38 actieve gebruikers met een transactie had; het platform sprak dat tegen, maar zelfs hun eigen telling kwam op zo'n 8.000 bezoekers per dag voor een wereld waar miljoenen aan land was verkocht. Mijn stuk land staat er nog. Wat het waard is, hangt af van of er ooit iemand komt, en daar reken ik niet meer op.
 
-Dit is inmiddels zijn fulltime job. Als architect maakt hij veelal **een virtuele versie van een winkel, concert venue of het hoofdkantoor van een bedrijf**.
+![Een klein omheind stuk gloeiend voxel-land in een donkere leegte met een lege wegwijzer](/images/spots/metaverse-geld-land.webp "Mijn stuk land in 2026: nog steeds van mij, nog steeds leeg")
 
-Vaak kun je dit doen met al bestaande schetsen van een gebouw. Al wordt er ook voor gekozen om de representatie van een bedrijf in de Metaverse een wat meer creatieve look te geven. Je bent digitaal immers niet beperkt door zwaartekracht of bouwconstructies. Je kunt ervan maken wat je wilt.
+De les die ik eruit haalde, is dezelfde als bij NFT's: koop nooit iets omdat je verwacht dat een ander er later meer voor betaalt. Koop het omdat je het gebruikt. Alles wat ik in die tijd wél gebruikte (leren hoe wallets werken, hoe communities ontstaan, hoe je een verhaal verkoopt) heeft me later geholpen. Het land niet.
 
-**De vraag naar architecten voor de Metaverse zal de komende jaren toenoemen** en zeker is dat het niet zo moeilijk hoeft te zijn om iets moois te ontwerpen. Daarbij voelt het toch een beetje als ‘gamen’ wanneer je digitaal aan het bouwen bent. Best een leuke job!
+## Wat je in 2026 met deze kennis kunt
 
-## 4. Virtuele real estate verhuren
+Wil je toch aan de slag in virtuele werelden, dan zou ik het zo doen:
 
-![Virtuele real estate verhuren](/images/migrated/shopping-street-decentraland.webp "Virtuele real estate verhuren")
+1. **Kies een wereld met bezoekers.** Roblox en Fortnite hebben ze; de cryptowerelden niet. Bouw waar mensen zijn.
+2. **Leer 3D.** Blender is gratis, Roblox Studio en Unreal Editor for Fortnite ook. De vaardigheid is overdraagbaar naar games, VR, film en marketing, of de metaverse nu terugkomt of niet.
+3. **Verdien aan gebruik, niet aan speculatie.** Kleding die avatars dragen, spellen die gespeeld worden, werelden die bezocht worden. Alles wat ervan afhangt dat iemand anders later meer betaalt, sla je over.
+4. **Zet de VR-bril op.** Meta stopt met investeren in Horizon Worlds op zijn brillen en richt zich op slimme brillen, maar VR-games voor Quest worden nog wel gemaakt en verkocht. Klein, maar een echte markt.
+5. **Hou crypto apart.** Wil je in crypto investeren, doe dat dan in de grote munten via periodiek inleggen, niet via de munt van een virtuele wereld. Hoe dat werkt staat in [de crypto-guide voor 2026](/blog/web3/handelen-in-crypto-valuta/).
 
-Wanneer je in de Metaverse een aantrekkelijke omgeving hebt gecreëerd en hier mensen op af komen, kun je delen van jouw gebouw/real estate natuurlijk ook **verhuren aan bedrijven**.
+![Een virtueel concertpodium met neonlicht en rijen lege stoelen](/images/spots/metaverse-geld-podium.webp "Events in de cryptometaverse: het podium staat er, het publiek zit bij Fortnite")
 
-Denk aan een district met ‘**wearable shops**‘ waar je iedere winkel apart verhuurd aan een ontwerper. Of een **kunstgalerij met NFTs**, waar kunstenaars een plek kunnen huren om hun kunst tentoon te stellen. Uiteraard is een voorwaarde hiervoor dat je mensen naar jouw stukje in de Metaverse weet te trekken.
+## Conclusie: geld verdienen met de metaverse in 2026
 
-Wanneer mensen naar jouw virtuele omgeving komen is geld verdienen in de Metaverse eigenlijk een piece of cake. Behalve directe belangstelling vanuit bedrijven om er een soort winkel te openen, kan het voor diezelfde bedrijven ook aantrekkelijk zijn **om er advertenties te tonen** op billboards.
+De metaverse van 2022, met land, munten en NFT-kleding, leverde bijna niemand geld op behalve de mensen die er vroeg in en vroeg uit stapten. De metaverse van 2026 heet Roblox en Fortnite, betaalt makers in dollars en heeft geen blockchain nodig. Wie er wil verdienen, bouwt daar iets dat mensen willen spelen of dragen.
 
-Er zijn al Metaverses die deze vorm van **monetization** aanbieden. Dat is erg makkelijk, een beetje zoals je met [een eigen Youtube kanaal](/blog/online-geld-verdienen/youtube-kanaal-beginnen/) ervoor kan kiezen om advertenties toe te staan, kan dit ook in sommige Metaverses.
+Zelf leg ik me in 2026 op iets anders toe: bedrijven helpen met AI, iets wat je elke week in uren kunt meten. Maar de jaren waarin ik van alles uitprobeerde, van bloggen tot NFT's tot een stuk virtueel land, hebben me geleerd wat wel en niet werkt. Die verhalen en lessen staan in mijn boek.
 
-## 5. Play2Earn, Learn2Earn, Build2Earn etc.
-
-![Play2earn Axie Infinity](/images/migrated/play2earn-1.webp "Play2earn Axie Infinity")
-
-Spelen om geld te verdienen met de Metaverse; Play2Earn. Klinkt goed toch!?
-
-Er zijn al een aantal succesvolle voorbeelden te noemen van Play2Earn games binnen de Metaverses. Denk aan **Axie Infinity**, **Gods Unchained** en **Splinterlands**.
-
-Er is alleen vaak één probleem met deze spellen. Om geld te verdienen met het spelen van het spel, moet er iemand anders geld uitgeven. **Vaak wordt die money flow gecreëerd met de verkoop van in-game items (NFTs)**. Het probleem daarmee is dat je steeds nieuwe mensen nodig hebt die in-game items kopen om geld te kunnen verdienen met het spelen van het spel. Veel van deze spellen verliezen dus op een gegeven moment het Play2Earn concept.
-
-Hoe concepten als **Play2Earn, Learn2Earn en Build2Earn** zich in de toekomst gaan ontwikkelen moeten we nog zien.
-
-## 6. Organiseer een event in de Metaverse
-
-![Metaverse event organiseren](/images/migrated/metaverse-event-1.webp "Metaverse event organiseren")
-
-Het werd plots echt een ding toen Snoop Dogg feesten begon te organiseren in de Metaverse. Althans, dat is toen ik ervan hoorde. Mensen kwamen virtueel bij elkaar in The Sandbox voor een concert.
-
-Dit en alle andere soort events die je kunt bedenken, worden allemaal in de Metaverse georganiseerd. Zo’n **organisatie is makkelijker** dan in het echt. Al moet je natuurlijk nog wel alle mensen bij elkaar krijgen, tickets verkopen, een programma maken en een goede virtuele venue vinden.
-
-## 7. Werken in de Metaverse
-
-![Presentatie Metaverse event](/images/migrated/presentatie-metaverse-event-1.webp "Presentatie Metaverse event")
-
-Iemand vroeg me laatst of werken in de Metaverse betekent dat je dan achter je laptop gaat zitten in een virtuele omgeving. Dat vond hij een gek idee.
-
-Dat is dan ook niet wat we in dit artikel bedoelen wanneer we het hebben over werken in de Metaverse. Denk hierbij eerder aan **functies die in een Metaverse menselijke vaardigheden vragen**.
-
-Dit kan zijn doordat je bijvoorbeeld werkt als artiest, host voor een event, presentator, verkoper in een Metaverse winkel en tal van andere service beroepen waarbij menselijk contact handig is.
-
-## 8. Wearables ontwerpen
-
-![Digital fashion Metaverse](/images/migrated/digital-fashion-metaverse-1-scaled.webp "Digital fashion Metaverse")
-
-Digitaal wordt er van alles ontworpen, auto’s, gebouwen, maar dus ook kleding. **De zogenoemde wearables** kun je met jouw Metaverse karakter aandoen in een virtuele omgeving. Voor als je net wat meer op wilt vallen met je outfit. Want net zoals kleding in het echte leven belangrijk is voor jouw identiteit, geldt dit ook online.
-
-De wearables worden ontworpen aan de hand van 3D design en in die niche zijn nu al **hele fashion bureaus opgestaan**. Er zijn zelfs bedrijven die uitsluitend digitale mode maken en daar hun geld mee verdienen.
-
-## Conclusie geld verdienen met de Metaverse
-
-Uiteraard zijn er nog honderden andere manieren om geld te verdienen met de Metaverse, maar deze zullen we samen over de komende jaren ontdekken en bedenken. Uiteindelijk kun je je voorstellen dat het vrij eindeloos is, om maar wat te noemen, je kan in de Metaverse ook geld verdienen als:
-
-*   Virtuele jetski verhuur
-*   Portret schilder
-*   Videograaf
-*   Kunstenaar
-
-**Ga als je geld wil verdienen met de Metaverse dus vooral op zoek naar jouw eigen creativiteit**. Er is genoeg te bedenken en het leuke is dat niet alles al is bedacht. Je hebt dus echt de kans **om met nieuwe ideeën geld te verdienen** en zo te ontdekken.
+<aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>

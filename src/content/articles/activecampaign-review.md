@@ -43,6 +43,8 @@ Er zijn echter ook enkele nadelen aan Activecampaign die ik verderop in dit arti
 > Als je nog niet weet hoe je je mailings of e-mailmarketingstrategie moet opzetten, raad ik je aan om eerst in de basis te duiken met behulp van mijn [artikel](/blog/ondernemen/e-mail-marketing/) daarover. Of lees dit [artikel](/blog/ondernemen/mailing-maken-versturen/).  
 > In dit artikel besloot ik me namelijk alleen te focussen op de voor- en nadelen van Activecampaign en wie deze tool goed zou kunnen gebruiken.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Wat zijn de functies van Activecampaign? Past het bij mijn blog?
 
 Er zijn tal van functies die uw marketing kunnen verbeteren. Door het aantal functies in het aanbod lijken ze ver vooruit te lopen op andere marketingplatforms die ik eerder heb gebruikt.
@@ -288,6 +290,8 @@ Dit zijn de belangrijkste verschillen tussen beiden die ik heb ontdekt:
     
 *   Krachtig en geschikt voor grote en kleine ondernemingen, dus het geeft veel ruimte om te groeien
     
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie
 

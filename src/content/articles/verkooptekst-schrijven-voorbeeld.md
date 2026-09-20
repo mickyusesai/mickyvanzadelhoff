@@ -28,6 +28,8 @@ Het klinkt als een open deur, maar de meeste slechte verkoopteksten gaan hier al
 
 Mijn regel: schrijf voor één persoon. Niet voor 'de doelgroep', maar voor die ene klant die je vorige week aan de telefoon had. Dan wordt de tekst vanzelf persoonlijker, en persoonlijk verkoopt.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Stap 2: Zoek het probleem dat je oplost
 
 Een goede verkooptekst gaat maar voor een klein deel over het product. Het grootste deel gaat over het probleem dat het product oplost. Door dat probleem te benoemen geef je de lezer een reden om verder te lezen, en uiteindelijk een reden om te kopen. Kijk maar hoe dat in het eerste voorbeeld gaat: een tekst die ik schreef voor een opleider van slotenmakers.
@@ -148,6 +150,8 @@ Loop je tekst na voordat je hem live zet:
 *   Is de vervolgstap klein en staat hij duidelijk onderaan (en bij lange teksten ook halverwege)?
 *   Klinkt de tekst als jij, of als iedere andere website?
 *   Heb je een tweede versie klaarstaan om te testen?
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Liever laten schrijven?
 

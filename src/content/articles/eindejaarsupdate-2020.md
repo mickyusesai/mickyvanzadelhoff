@@ -38,11 +38,13 @@ Interessant detail; 35 van die 40 programma’s leveren **minder dan 20 euro per
 
 Maar de 5 die geld opleveren blijken een schot in de roos te zijn. Zo is mijn samenwerking met Siteground (een hosting partij) nu al goed voor zo’n 800,- euro per maand. Veel mensen hebben immers een hosting nodig. Via het platform Paypro komt daar zo’n 2300,- euro per maand bij. En dan zijn er nog de programma’s van Coinbase, Bol.com en Enormail.
 
-## Van Blog Naar Business
+## Een eigen videotraining
 
 Ik merk plots dat het harde werken aan mijn blog resultaat oplevert. Met maandelijks zo’n 50.000 bloglezers kan ik plots een volwaardig inkomen verdienen. En wat gek blijft is dat **dit inkomen volledig passief is**.
 
-Buiten dit passieve inkomen ben ik vanwege corona dit jaar ook gestart met de videotraining [Van Blog Naar Business](/). Een online training voor wie met [bloggen](/blog/online-geld-verdienen/bloggen/) (en affiliate marketing) geld wil verdienen. Waanzinnig leuk om te doen en een prima manier om nog wat bij te verdienen.
+Buiten dit passieve inkomen ben ik vanwege corona dit jaar ook gestart met een videotraining. Een online training voor wie met [bloggen](/blog/online-geld-verdienen/bloggen/) (en affiliate marketing) geld wil verdienen. Waanzinnig leuk om te doen en een prima manier om nog wat bij te verdienen.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Rustige kerst en grootse plannen voor 2021
 

@@ -20,6 +20,8 @@ Met stip op nummer 1 staan voor mij de hostels waarin ik soms verblijf. Dit is b
 
 Je moet er een beetje een feestbeest voor zijn, maar bij een pubcrawl ontmoet je zeker weten mensen. Veel reizigers gaan hier namelijk in hun eentje heen en zijn ook op zoek naar nieuwe vrienden. Met de pubcrawl maak je een tochtje langs de leukste kroegen in de stad en doe je waarschijnlijk wat spelletjes met de deelnemers. De manier om te weten of er een pubcrawl is in de stad waar jij bent is door dit gewoonweg te Googlen of te zoeken op Facebook. Dit levert zeker dikke vrienden op!
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## 3. Free City Tours voor nieuwe mensen en culturele verrijking
 
 Dit vereist wel wat sociale vaardigheden vanuit jouzelf, maar Free City Tours geven vaak wel aanleiding tot het leggen van contact met de medemens. Veel solo reizigers sluiten zich hier namelijk bij aan. Vervolgens kun je een praatje beginnen wat waarschijnlijk gaat over de cultuur van de plek waar je bent. Succes!
@@ -47,6 +49,8 @@ Of je nu bij een local op de bank gaat slapen of gewoon iemand uit die stad wil 
 ## 9. Werk samen op een coworking
 
 Wanneer je niet alleen reist maar ook nog eens werkt op reis met je [digital nomad baan](/blog/digitalenomaden/digital-nomad-banen/), dan kan een coworking een goede manier zijn om gelijkgestemden te ontmoeten. Op zo’n gezamenlijk kantoor spreekt het namelijk voor zich dat je kennis en verhalen uitwisselt.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## 10. Ga daten via Tinder
 

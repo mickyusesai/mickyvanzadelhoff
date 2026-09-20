@@ -1,8 +1,8 @@
 ---
-title: "Web 3 uitgelegd + AI, Crypto, NFTs en de Metaverse"
-description: "Wat is web 3? Stel je een decentraal internet voor waar het niet de grote tech bedrijven zijn zoals Google en Meta die het internet beheren, maar jij…"
+title: "Web 3 uitgelegd in 2026 – Wat er van decentralisatie, crypto, NFT's en de metaverse overbleef"
+description: "Web 1, 2 en 3 uitgelegd, met de balans van 2026: AI won, de metaverse verloor, crypto kreeg regels en NFT's werden paspoorten. Plus wat je ermee kunt."
 date: 2022-05-21
-updated: 2023-01-31
+updated: 2026-09-19
 category: "web3"
 slug: "web-3-decentralisatie"
 lang: "nl"
@@ -10,161 +10,109 @@ draft: false
 featuredImage: "/images/headers/web-3-decentralisatie.webp"
 ---
 
-Wat is **web 3**? Stel je een **decentraal internet** voor waar het niet de grote tech bedrijven zijn zoals Google en Meta die het internet beheren, maar jij en ik. Geen centrale partijen meer die rijk worden door het verkopen van jouw privé data, maar zelf kunnen kiezen wat hiermee gebeurt. Web 3 komt met oplossingen in de vorm van **AI**, **Crypto**, **NFTs** en de **Metaverse**.
+Wat is **web 3**? Stel je een **decentraal internet** voor waar niet Google en Meta de baas zijn, maar jij en ik. Geen platforms die rijk worden van jouw data, maar zelf bepalen wat ermee gebeurt. Dat was in 2022 de belofte, en de bouwstenen heetten crypto, NFT's, de metaverse en AI.
 
-Voordat we duiken in alles dat web 3 ons te brengen heeft; eerst die ene prangende vraag. Waar staan web 1 en 2 eigenlijk voor?
+Vier jaar later is één van die vier bouwstenen het grootste verhaal van het decennium geworden, en dat is niet de blockchain. AI nam het internet over. De metaverse kostte Meta meer dan 80 miljard dollar en werd stilletjes geparkeerd. Crypto kreeg Europese regels en Wall Street als klant. En NFT's leven door als productpaspoorten en tickets, zonder dat iemand ze nog zo noemt. Het woord "web 3" zelf hoor je nauwelijks meer.
 
-## Web 1: Het begin van het internet
+In dit artikel lees je wat web 1, 2 en 3 betekenen, wat er van de vijf pijlers van web 3 is geworden, welke stukjes decentralisatie in 2026 wél werken en wat je er als lezer mee kunt. Ik heb dit artikel in 2022 met veel enthousiasme geschreven; dit is de versie met de kater erbij, en dat maakt hem eerlijker.
 
-**De opkomst van het internet**, dat is waar web 1 vaak mee geassocieerd wordt. Dit was zelfs nog voor mijn tijd, met als officiële geboortedatum van het internet: **1 januari 1983**.
+## Web 1: het begin van het internet
 
-Toen waren er slechts enkelen die op dat internet publiceerden. De normale mens had toegang tot die informatie, kon die bekijken en downloaden. Zelf iets publiceren was toen nog niet aan de orde. Dat was te ingewikkeld.
+Web 1 is het internet van de jaren negentig. Het internet zelf bestond al langer (de officiële geboortedatum is 1 januari 1983), maar het web zoals wij het kennen, met pagina's en links, kwam begin jaren negentig. Toen publiceerden slechts enkelen; de rest kon alleen lezen en downloaden.
 
-![begin van het internet](/images/migrated/begin-van-het-internet-1.webp "begin van het internet")
+Websites waren statisch: er stond informatie op, maar niets was afgestemd op jou en je kon er niets dóen, zelfs geen formulier invullen. Het web van **read-only**, gekenmerkt door digitale visitekaartjes van bedrijven.
 
-In web 1 zijn veel websites statisch. Als in, er staat informatie op, maar niets is afgestemd op de lezer van een artikel. Laat staan dat je iets op een website zou kunnen doen, zoals bijvoorbeeld een formulier invullen. Die dingen waren toen nog niet mogelijk.
+## Web 2: lezen en schrijven
 
-Het wordt dan ook wel het web van **read-only** genoemd. Veelal gekenmerkt door statische websites zoals profielpagina’s van bedrijven.
+Web 2 is het internet waar we nu nog in leven. Je consumeert niet alleen, je deelt zelf: een foto op Instagram, een video op YouTube, een stuk op [je eigen blog](/blog/ondernemen/blog-beginnen-starten-stappenplan/). Wikipedia liet vanaf 2001 zien dat gewone mensen samen een encyclopedie kunnen schrijven, en daarna volgden Facebook, YouTube en de rest.
 
-## Web 2: Lezen en schrijven
+Het tweede kenmerk: alles wordt op jou afgestemd. De advertentie die jij ziet, ziet je buurman niet. Het web van **read and write**, waarin je van gebruiker deelnemer werd. Het gaf de vrijheid van meningsuiting een enorme impuls.
 
-Web 2 is het internet dat jij en ik kennen en gebruiken. Hierbij consumeer je niet alleen informatie, **maar deel je deze ook zelf**.
+Het nadeel kennen we ook. Een handvol techbedrijven bezit de platforms, en dus jouw data en jouw aandacht, en verdient daar grof geld mee. Jij betaalt met je gegevens. Je kunt je afvragen of dat eerlijk is, en precies die vraag was het begin van web 3.
 
-Dat kan door een foto te delen op Instagram, een video op Youtube of doordat je schrijft op [een eigen blog](/blog/ondernemen/blog-beginnen-starten-stappenplan/) (= kort voor weblog). Het delen van informatie is voor iedereen toegankelijk geworden. Zo dragen we allemaal bij aan het internet van deze tijd, in plaats van alleen toegang te hebben tot de informatie van anderen.
+![Drie golven op een strand die elk iets aanspoelen: een oude computer, een smartphone en een gloeiende kubus](/images/spots/web3-drie-golven.webp "Web 1, 2 en 3: lezen, schrijven, bezitten")
 
-**Dit begon met het platform Wikipedia**. Hier kunnen gebruikers zelf informatie toevoegen en de informatie van anderen controleren en bewerken.
+## Web 3: decentralisatie en bezit
 
-![Wikipedia web 2](/images/migrated/wikipedia-web-2-1-scaled.webp "Wikipedia web 2")
+Web 3 gaat een stap verder: je consumeert en publiceert niet alleen, je **bezit** ook. Een stukje van het platform, je eigen data, je eigen digitale spullen. Tussenpartijen worden overbodig, want de functies die zij vervullen, worden door gebruikers samen gedaan. Dat noem je decentralisatie.
 
-Verder is het grote verschil met web 1, dat bij web 2 **veel informatie wordt aangepast aan de gebruiker**. Denk aan een advertentie op Instagram die specifiek jij ziet omdat het voor jou interessant is. Niet altijd dan, maar je snapt wat ik bedoel. In web 2 veranderd de consument van gebruiker naar deelnemer op het internet.
+De term komt uit 2014, van Ethereum-medeoprichter Gavin Wood, en brak door in 2021, toen crypto, NFT's en de metaverse tegelijk explodeerden. Hoe het daarna ging, in vogelvlucht:
 
-Dit wordt dan ook het web van **read and write only** genoemd. Iedereen heeft nu de kans om eenvoudig dingen te delen. Tools zoals social media en WordPress maken dat mogelijk. Je kunt nu simpel een eigen [Youtube kanaal maken](/blog/online-geld-verdienen/youtube-kanaal-beginnen/) en beginnen met het delen van content.
+<ol class="timeline not-prose">
+<li class="timeline__item"><span class="timeline__num">1</span><p class="timeline__year">1983 – 1991</p><p class="timeline__title">Web 1: lezen</p><p class="timeline__text">Het internet krijgt zijn officiële geboortedatum (1 januari 1983) en begin jaren negentig komt het wereldwijde web. Statische pagina's, enkelen publiceren.</p></li>
+<li class="timeline__item"><span class="timeline__num">2</span><p class="timeline__year">2001 – 2010</p><p class="timeline__title">Web 2: schrijven</p><p class="timeline__text">Wikipedia, Facebook, YouTube. Iedereen deelt, platforms verdienen aan data en aandacht.</p></li>
+<li class="timeline__item"><span class="timeline__num">3</span><p class="timeline__year">2014</p><p class="timeline__title">Het woord web 3</p><p class="timeline__text">Gavin Wood beschrijft een internet waarin gebruikers hun data en geld bezitten, gebouwd op blockchains zoals Ethereum.</p></li>
+<li class="timeline__item"><span class="timeline__num">4</span><p class="timeline__year">2021</p><p class="timeline__title">De hype</p><p class="timeline__text">NFT's voor miljoenen, Facebook wordt Meta, virtueel land voor tonnen. Web 3 lijkt om de hoek.</p></li>
+<li class="timeline__item"><span class="timeline__num">5</span><p class="timeline__year">November 2022</p><p class="timeline__title">ChatGPT</p><p class="timeline__text">Terwijl crypto instort, verschijnt ChatGPT. Binnen een jaar praat niemand meer over web 3 en iedereen over AI. Meta zelf verlegt in februari 2023 de koers naar AI.</p></li>
+<li class="timeline__item"><span class="timeline__num">6</span><p class="timeline__year">2024 – 2025</p><p class="timeline__title">Crypto wordt volwassen</p><p class="timeline__text">Bitcoin-ETF's in de VS, de Europese MiCA-regels, stablecoins die meer geld verwerken dan Visa, aandelen als token. Minder revolutie, meer infrastructuur.</p></li>
+<li class="timeline__item timeline__item--now"><span class="timeline__num">7</span><p class="timeline__year">2026 – nu</p><p class="timeline__title">De balans</p><p class="timeline__text">AI zit in elk product. Meta bevriest zijn metaverse op de eigen brillen. NFT's zijn tickets en paspoorten geworden. En decentrale social media (Bluesky, ruim 40 miljoen gebruikers) bestaat, zonder blockchain.</p></li>
+</ol>
 
-Terugkijkend op deze ontwikkelingen is het boeiend om te zien **hoe web 2 de vrijheid van meningsuiting een flinke impuls heeft gegeven**.
+Mijn artikel uit 2022 beschreef vijf pijlers van web 3. Hieronder loop ik ze opnieuw langs, met wat er in 2026 van over is.
 
-Het negatieve aspect aan web 2 daarentegen is met name dat grote tech bedrijven het geheel hebben overgenomen. Denk vooral aan Google en Meta (van Facebook en Instagram) die jouw data gebruiken om advertenties te verkopen en zo geld te verdienen. Je kunt je afvragen of dat wel eerlijk is, het is uiteindelijk **jouw data en aandacht** toch? Goed, dat brengt ons gelijk bij de beginselen van web 3 ;).
+### 1. Het semantisch web: gewonnen, maar anders
 
-## Web 3: Decentralisatie en technologie
+Het idee: een web dat je vraag begrijpt en het antwoord uit tal van bronnen samenstelt, in plaats van een lijstje links. In 2022 schreef ik dat ChatGPT daar het begin van was. Dat klopte, alleen kwam het niet uit web 3. AI-assistenten van OpenAI, Google en Anthropic beantwoorden in 2026 de hele dag door vragen door bronnen te combineren. Het semantisch web is er; het is alleen eigendom van een paar bedrijven, precies wat web 3 wilde voorkomen. Hoe je het als ondernemer gebruikt, lees je in [ChatGPT voor ondernemers](/blog/ondernemen/chat-gpt-ai-voor-ondernemers/).
 
-**Web 3 gaat over het heden en de toekomst**. Hier gaat alles nog een stap verder. We consumeren en publiceren niet alleen zoals bij web 2, maar hier bouwen en bezitten we ook.
+### 2. Kunstmatige intelligentie: de echte winnaar
 
-![Web 1, web 2 en web 3](/images/migrated/web1-web2-web3-1.webp "Web 1, web 2 en web 3")
+In 2022 zette ik hier een lijstje AI-tools neer dat me toen futuristisch leek. Ik heb ze in september 2026 nagelopen; dit zijn de tools uit dat lijstje die er nog zijn:
 
-Veel tussenpartijen worden weggelaten, het is een soort bye bye Facebook feestje. Dat omdat dit soort platformen in een ultiem web 3 overbodig zijn, gezien dit soort functies door gebruikers zelf worden gecreëerd en beheerd.
+*   [**Looka**](/go/looka): AI-ontwerptool voor logo en huisstijl.
+*   [**Synthesia**](/go/synthesia): video's maken met een AI-presentator.
+*   [**Ocoya**](/go/ocoya): socialmediaberichten plannen en laten schrijven.
+*   [**Sembly AI**](/go/sembly): vergaderingen transcriberen en notuleren. <!-- TODO: partnerlink /go/sembly is mogelijk dood: partnerstack.sembly.ai gaf op 20 september 2026 geen antwoord, sembly.ai zelf wel -->
+*   [**Murf AI**](/go/murf-ai): van tekst naar natuurlijke spraak.
+*   [**Browse AI**](/go/browse-ai): websites van concurrenten automatisch uitlezen.
+*   [**ChatBot**](/go/chatbot-com): een chatbot op je eigen website.
+*   [**Pictory**](/go/pictory): video's voor je socials uit tekst.
+*   [**SmartWriter**](/go/smartwriter): gepersonaliseerde LinkedIn-berichten.
+*   [**Originality**](/go/originality): controleert of een tekst door AI is geschreven.
+*   [**Pencil**](/go/trypencil): advertenties voor social media met AI.
+*   [**CopyMonkey**](/go/copymonkey): productbeschrijvingen voor webshops.
+*   [**Podcastle**](/go/podcastle), inmiddels Async: podcasts opnemen zonder dure apparatuur.
 
-**Decentralisatie** kom je dan op.
+LongShot.ai, dat toen hele blogs uitspuugde, is [gestopt](/blog/review/longshot-ai-review-nederlands/). Het opvallende: geen van deze tools heeft iets met blockchain te maken. AI bleek de pijler van web 3 die geen web 3 nodig had. Een actueel overzicht staat in mijn [lijst met AI-tools](/blog/ondernemen/ai-tools-lijst/), en wat AI voor een bedrijf concreet kan, is waar ik in 2026 mijn [workshops](/ai-workshops/) over geef.
 
-Super mooi natuurlijk, maar hoe ziet dat er in de praktijk dan uit? Gaan we voor web 3 straks met zijn allen proberen een Youtube te maken? Nou, nee niet echt. Wel kunnen we met zijn allen voor een deel **eigenaarschap krijgen over zo’n platform**, bijvoorbeeld door [NFTs](/blog/web3/nft-guide/). Om op de verschillende aspecten in te zoomen, bespreken we hieronder de vijf pijlers van web 3.
+![Een kleine robot die op een laptop typt terwijl een ongebruikte ketting van blokken aan de muur hangt](/images/spots/web3-ai-robot.webp "AI won, de blockchain bleef aan de muur hangen")
 
-### 1. Semantisch web
+### 3. Driedimensionaal: de metaverse verloor
 
-Wat heeft Google nodig om een overzicht te geven van alle technologische ontwikkelingen in 2023? Vandaag de dag hebben ze daarvoor nog **een webpagina** nodig met daarop een lijst met alle technologische ontwikkelingen in 2023.
+Web 3 zou 3D worden: VR-brillen, AR, winkels waar je doorheen loopt. Meta zette er alles op. Het resultaat: Reality Labs verloor in 2025 19,2 miljard dollar, opgeteld sinds 2020 meer dan 80 miljard. In januari 2026 ontsloeg Meta zo'n duizend medewerkers van die afdeling, sloot studio's en bevroor Horizon Worlds op zijn eigen Quest-brillen; het richt zich nu op slimme brillen en op Horizon als mobiele app. The Sandbox ontsloeg in augustus 2025 de helft van zijn personeel, en de munten van Decentraland en The Sandbox staan meer dan 98% onder hun top. Wat er precies gebeurde, met live koersen, lees je in [metaverse crypto in 2026](/blog/web3/metaverse-crypto/), en wat er van geld verdienen in de metaverse overbleef in [dit artikel](/blog/web3/geld-verdienen-metaverse/).
 
-![Google technologische ontwikkelingen](/images/migrated/google-technologische-ontwikkelingen-1.webp "Google technologische ontwikkelingen")
+Het 3D-internet dat wél bestaat, heet Roblox en Fortnite. Zonder blockchain.
 
-In het **Semantic Web** is het de bedoeling dat Google ook zonder zo’n overzichtspagina, zo’n lijstje samen kan stellen. Dit door de informatie uit tal van verschillende bronnen te combineren.
+### 4. Bezit en crypto: volwassen geworden
 
-Onze web 2 favoriet Wikipedia is hier trouwens al mee bezig. Zij werken aan een semantisch Wikipedia waarin informatie uit verschillende bronnen wordt gecombineerd om een specifieke zoekopdracht juist te beantwoorden. Het resultaat is dan dus **een artikel dat nooit geschreven is.**
+Hier zit de meeste voortgang, alleen anders dan gedacht. Het idee was dat jij mede-eigenaar zou worden van platforms en dat adverteerders jóu zouden betalen voor je data. Dat is niet gebeurd. Wat wel gebeurde: [crypto](/blog/web3/handelen-in-crypto-valuta/) werd een gereguleerde bezitscategorie. Sinds eind 2024 geldt in de EU de MiCA-verordening, in de VS kwamen Bitcoin-ETF's waarmee pensioenfondsen instappen, stablecoins verwerken meer geld dan Visa en banken zetten aandelen en obligaties als token op de blockchain. Staking (rendement op munten die je vasthoudt) bestaat nog steeds; de DAO's, de 'bedrijven zonder baas' waar iedereen over stemde, zijn stil geworden.
 
-Wat je sinds 2023 ziet is een enorme opkomst van het semantisch web met AI tools als [ChatGPT](/blog/ondernemen/chat-gpt-ai-voor-ondernemers/). Deze bot genereert al antwoorden die zijn gegenereerd door een combinatie van tal van verschillende bronnen.
+Kortom: de blockchain werd geen nieuw internet, maar wel een nieuw stuk financiële infrastructuur. Alle cijfers, van koersen tot box 3, staan in [de crypto-guide](/blog/web3/handelen-in-crypto-valuta/).
 
-### 2. Kunstmatige intelligentie (AI)
+![Een grote koperen sleutel op een stapel servers met kleine hangsloten](/images/spots/web3-sleutel.webp "Je eigen sleutel: het stukje web 3 dat bij crypto wél werkt")
 
-**Kunstmatige intelligentie** is al geruime tijd in opkomst en wordt steeds vaker toegepast met steeds betere functionaliteiten. Denk aan **het herkennen van de context** van afbeeldingen en video’s.
+### 5. Community: gewonnen zonder blockchain
 
-![Recaptcha gebruikt kunstmatige intelligentie](/images/migrated/recaptcha-kunstmatige-intelligentie-ai.webp "Recaptcha gebruikt kunstmatige intelligentie")
+De vijfde pijler was dat gebruikers zelf de waarde van een platform hoog houden, omdat ze er baat bij hebben. Bij [NFT's](/blog/web3/nft-uitleg/) werkte dat precies zolang de prijs steeg. Waar het wél blijvend werkte, is bij decentrale social media: Bluesky draait op een open protocol waarmee je je volgers en berichten meeneemt naar een andere app, en telt in 2026 ruim 40 miljoen gebruikers. Mastodon en de rest van het 'fediverse' doen hetzelfde. Geen munt, geen token, wel het idee van web 3: jouw netwerk is van jou.
 
-Je kent het wel, constant aanklikken waar de stoplichten, fietsen of zebrapaden zich bevinden in een **Recaptcha van Google**.
+## Wat is web 3 in 2026 nog waard?
 
-Allemaal om te bewijzen dat je geen robot bent. Maar dat dus niet alleen, deze informatie wordt ook gebruikt **om kunstmatige intelligentie te trainen** in het herkennen van items op afbeeldingen. Dat is zeer handig voor het verbeteren van onder andere zelfrijdende auto’s.
+De eerlijke conclusie: web 3 als samenhangend idee is niet uitgekomen. Er is geen internet waar jij de baas bent over je data en platforms van iedereen zijn. Wat wél overeind staat, zijn losse stukken:
 
-Bij web 3 speelt kunstmatige intelligentie een gigantische rol. Dat is simpelweg **omdat de grotere hoeveelheid aan data verwerkt moet worden** en we daar als mens de handen vol mee zouden hebben.
+*   **Crypto als bezit**, met regels en grote spelers.
+*   **Tokens als bewijs**: productpaspoorten, tickets, lidmaatschappen. Wat bedrijven daarmee kunnen, staat in [NFT-ideeën voor bedrijven](/blog/web3/nft-ideeen-bedrijf/).
+*   **Open protocollen** voor social media, zonder blockchain.
+*   **AI** als de laag die alles verandert, en die niets met decentralisatie te maken heeft.
 
-Zoiets als die plaatjes van Google heeft zich nu omgezet in [AI tools](/blog/ondernemen/ai-tools-lijst/) die letterlijk uit het niets een afbeelding of foto kunnen genereren. Kunstmatige intelligentie heeft dit jaar echt een grote sprong vooruit gemaakt. Kijk maar eens naar deze lijst met toepassingen:
+Wie in 2026 zegt "aan web 3 te bouwen", bouwt meestal aan een van die vier. Dat is prima. Alleen het overkoepelende verhaal is weg, en het woord ermee.
 
-*   **LongShot.ai** (inmiddels [gestopt](/blog/review/longshot-ai-review-nederlands/)): hier kwamen volledige blogs uitrollen.
-*   **[Looka](/go/looka)**: AI design tool voor logo en huisstijl.
-*   [**Synthesia**](/go/synthesia): Bespaar tijd door video’s te maken met AI.
-*   [**Ocoya**](/go/ocoya): Social media management op de automatische piloot.
-*   [**Sembly AI**](/go/sembly): Transcriberen en notuleren bij vergaderingen.
-*   [**Murf AI**](/go/murf-ai): Van tekst naar mensechte spraak.
-*   [**Browse AI**](/go/browse-ai): Onderzoekt jouw concurrentie hun websites.
-*   [**ChatBot**](/go/chatbot-com): Een als mens voelende chatbot op jouw website.
-*   [**Pictory**](/go/pictory): AI die videocontent maakt voor jouw socials.
-*   [**SmartWriter**](/go/smartwriter): Gepersonaliseerde LinkedIN berichten laten schrijven en versturen.
-*   [**Originality**](/go/originality): App die checkt of teksten door een AI geschreven zijn.
-*   [**Pencil**](/go/trypencil): Converterende social media advertenties maken met AI.
-*   [**CopyMonkey**](/go/copymonkey): E-commerce productbeschrijvingen laten schrijven.
-*   [**Podcastle**](/go/podcastle): Professionele podcasts opnemen zonder dure apparatuur.
+## Investeren in web 3 in 2026
 
-### 3. Web 3 is driedimensionaal
+Wil je toch meedoen aan het stukje dat wél groeit? Dan is dat crypto, en dan niet de munten van virtuele werelden of NFT-projecten, maar de grote munten via periodiek inleggen bij een exchange met Europese vergunning. Zelf gebruik ik daarvoor [Finst](/go/finst) (0,15% per transactie); de grootste van Nederland is [Bitvavo](/go/bitvavo). Hoe dat werkt, wat het kost en hoe de belasting meetelt, staat allemaal in [geld verdienen met crypto in 2026](/blog/web3/handelen-in-crypto-valuta/). Voor [AI-crypto](/blog/web3/ai-crypto-kunstmatige-intelligentie/), de plek waar de twee grootste thema's van dit artikel elkaar raken, geldt hetzelfde: interessant, maar niet met geld dat je nodig hebt.
 
-Het internet is plat. Websites zijn 2D en daar bleef het tot nu toe bij. Binnen web 3 mogen we veel meer 3D verwachten. In de praktijk komt dit vaak neer op technologie zoals **Virtual Reality (VR)** en **Artificial Reality (AR)**.
+> Let op: niets hierboven is koopadvies. Ik geef geen financieel advies en wil dat ook niet geven.
 
-VR wordt mogelijk gemaakt door de brillen die je opzet om in een digitale omgeving rond te lopen zoals de **Metaverse**. AR is het makkelijkst in actie te zien bij dat spelletje Pokémon Go, waar je in de echte wereld, via een app, Pokémons kon zien.
+## Conclusie: web 3 in 2026
 
-Ben je benieuwd hoe zo’n Metaverse eruit ziet, dan heb ik hieronder een filmpje voor je van Snoop Dogg die er een feestje organiseerde.
+Web 1 was lezen, web 2 was schrijven, web 3 zou bezitten worden. Het werd vooral vragen stellen, aan een AI. De decentralisatie kwam op plekken waar niemand hem verwachtte (social media zonder eigenaar, paspoorten aan producten) en bleef uit waar iedereen hem beloofde (de metaverse, het internet van de gebruiker). Zo gaat het vaker met technologie: de belofte klopt, de vorm niet.
 
-Buiten feestjes kun je je voorstellen dat een driedimensionale internetomgeving nog veel meer kan betekenen. Denk maar eens aan **hoe jouw favoriete webshop eruit zou zien als je erin rond kan lopen**. Dat creëert een volledig nieuwe ervaring.
-
-Bedenk daar een **AI shop assistent** bij en kledingmaten die in jouw avatar zijn opgeslagen (zodat je nooit meer de verkeerde maat koopt) en de mogelijkheden zijn eindeloos.
-
-![H en M in de Metaverse](/images/migrated/h-m-metaverse-1.webp "H en M in de Metaverse")
-
-Zoals je hierboven kunt zien, dit is dus géén echte winkel, maar een winkel die H&M heeft geopend in de Metaverse. **Welkom in web 3**!
-
-### 4. Shareholders en crypto
-
-Wanneer je social media gebruikt is dit veelal gratis. Al staat daar wel tegenover **dat jouw data wordt gebruikt om advertenties te verkopen**. Je betaalt dus in feite met jouw gegevens.
-
-Nu zijn we dit door de tijd heen met zijn allen normaal gaan vinden, maar hoe normaal is het eigenlijk dat een tech platform eigenaar is van jouw persoonlijke data? Hier wordt immers **grof geld mee verdient**.
-
-![Social media platformen advertenties](/images/migrated/social-media-platformen-advertenties-1.webp "Social media platformen advertenties")
-
-In web 3 gaat dit volledig veranderen, zo is het idee. Je wordt dan zelf **mede-eigenaar van een verdienmodel**. In de perfecte situatie zou jij zelf mogen bepalen of je jouw data ter beschikking wil stellen aan adverteerders. Deze adverteerders moeten vervolgens aan jou betalen om je een advertentie te laten zien.
-
-Een andere vorm om mede-eigenaar te zijn van een verdienmodel kan bijvoorbeeld door het beheren van bepaalde [crypto](/blog/web3/handelen-in-crypto-valuta/) waar je rendement op ontvangt (staking). Zie dit als een aandeel binnen een bedrijf. Dit kan ook door deel te nemen aan een **Decentralized Autonomous Organization (DAO)**. Dit is een autonoom bedrijf waar de beslissingen worden genomen door iedereen die eraan deelneemt door een deel van de crypto te bezitten.
-
-### 5. Community
-
-Als je naar [NFTs](/blog/web3/nft-uitleg/) kijkt, dan is het gedecentraliseerde idee daarachter vaak dat het de community is die een NFT trendy maakt. Iets wat jij bezit is dus iets dat je zelf promoot. Stel dat je mede mini **eigenaar bent** van een social media platform, dan is de kans groot dat dit de social media is waar je ook je vrienden naartoe stuurt.
-
-Dit gedecentraliseerde idee is anders dan bij wat nu veelal centraal is. Denk aan een merk als Gucci. **De waarde van zo’n tas wordt hoog gehouden door het merk zelf**.
-
-Onder andere door te adverteren met beroemdheden en er andere dure marketing campagnes op los te laten. Wanneer jij zo’n tas koopt verwacht je van Gucci dat ze diezelfde tas daarna niet met korting aan anderen gaan verkopen. Dat zou de waarde van de tas omlaag brengen.
-
-In een ultiem web 3 zijn het de gebruikers zelf die de waarde van een merk of platform hoog houden. **Veelal omdat ze daar zelf baat bij hebben**.
-
-![NFT training](/images/migrated/Future-proof-Business-1-e1645006633208.webp "NFT training")
-
-### Als bedrijf aan de slag met NFTs?
-
-Ga jarenlang experimenteren OF leer met de NFT In-Company training binnen één dag alles wat je nodig hebt. Wij maken bedrijven Web 3.0 ready!
-
-[NFT In-Company](https://desynt.io/nft-incompany/)
-
-## Investeren in web 3
-
-Wellicht vraag je je af wat jij nu met web 3 kunt. Natuurlijk kan het zijn dat je een groot merk beheerd en graag een winkel in de Metaverse begint. Op dat gebied zijn er genoeg kansen, al zijn veel van die mogelijkheden nu wel duur om uit te voeren, een stuk land in de Metaverse is namelijk al snel meer dan tienduizend euro.
-
-Makkelijker om te investeren en te profiteren van de groei van web 3 is via specifieke crypto en NFT projecten. Bij crypto kun je bijvoorbeeld denken aan de Metaverse crypto van **The Sandbox** of **Decentraland**. Deze zijn beiden te verhandelen op de Nederlandse crypto exchange [Bitvavo](/go/bitvavo). Via [deze link](/go/bitvavo) kun je daar jouw eerste €1000,- gratis verhandelen.
-
-![Metaverse Digital Land Boom](/images/migrated/metaverse-digital-land-boom-1.webp "Metaverse Digital Land Boom")
-
-Wat NFTs betreft kun je denken aan de **digital land boom** die plaatsvind. De stukken land in de verschillende [Metaverses](/blog/web3/geld-verdienen-metaverse/) wordt flink verhandelt omdat veel mensen denken dat deze in toekomst veel waard worden vanwege de schaarse hoeveelheid die beschikbaar is.
-
-Een andere manier om te investeren in web 3 is door onderdeel te worden van een DAO of door [Metaverse crypto](/blog/web3/metaverse-crypto/) en [AI crypto](/blog/web3/ai-crypto-kunstmatige-intelligentie/) te bezitten.
-
-> Let op: De hierboven genoemde crypto zijn géén koopadvies. Ik geef geen financieel advies en wil dat ook niet geven. Ze zijn vooral benoemd als inspiratie om je een idee te geven van de mogelijkheden. ;)
-
-Wil je weten hoe je als bedrijf in kunt zetten op Web 3.0? Bekijk dan eens [deze voorbeelden van hoe bedrijven NFTs gebruiken](/blog/web3/nft-ideeen-bedrijf/).
-
-## Conclusie web 3
-
-Web 3 biedt ons veel mogelijkheden voor de toekomst. Veel van die dingen zie je nu om je heen al gebeuren, anderen worden weggezet als rare tech ideeën. **Zullen we straks echt met zijn allen een avatar in de Metaverse hebben?** Wie weet.
-
-Zeker is in ieder geval dat deze ontwikkelingen in razend tempo gaan en adoptie van nieuwe technologie exponentieel kan gaan.
-
-Tot zover onze duik in web 1, 2 en 3. Hopelijk heb je nu een beter idee van wat ons te wachten staat en vooral ook **wat de kansen zijn voor web 3**.
-
-Hierover leren of weten hoe je zelf geld kunt verdienen met web 3? Lees dan mijn [artikelen over crypto en NFTs](/blog/web3/).
+Zelf ben ik van web 3 naar AI verhuisd, net als de rest van het internet. Wat ik onderweg over crypto en NFT's leerde, staat in [mijn artikelen over web3](/blog/web3/). Wat AI voor jouw bedrijf kan, laat ik liever zien dan beschrijven: in een [workshop](/ai-workshops/) van drie uur.

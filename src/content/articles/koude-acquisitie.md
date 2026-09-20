@@ -32,6 +32,8 @@ Eerst het saaie maar belangrijke deel, want hier ging het in 2019 nog een stuk l
 
 Kort gezegd: bedrijven met een rechtspersoon mag je benaderen, mensen niet. En omdat een eenmanszaak juridisch een persoon is, valt het koud bellen van zzp'ers sinds de aanscherping van 1 juli 2026 volledig af. Wat altijd mag: een persoonlijk bericht via LinkedIn (binnen de regels van het platform), reageren op iets wat iemand zelf publiek heeft gedeeld, en iemand aanspreken op een beurs of netwerkevent. Twijfel je? Dan is de veilige route: eerst contact via LinkedIn of een netwerk, en pas bellen als iemand dat goed vindt.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Waarom vinden veel mensen koude acquisitie zo verschrikkelijk?
 
 We kennen ze allemaal wel, die telefoontjes van bedrijven die je iets willen verkopen.
@@ -168,6 +170,8 @@ Om met succes aan koude acquisitie te doen, zul je veel 'trial and error' moeten
 *   Verstuur mailings naar je lijst met bestaande contacten via een professioneel mailprogramma zoals [Enormail](/blog/review/enormail-review/) (Nederlands, vanaf € 15 per maand of € 12,50 per maand bij jaarbetaling, 30 dagen gratis proberen, gecontroleerd op 19 september 2026) voor goede statistiek. Een echt koude, persoonlijke mail verstuur je gewoon vanuit je eigen mailbox.
 
 ![Een trechter waar bovenin veel papieren enveloppen ingaan en onderaan één gouden munt uitvalt](/images/spots/acquisitie-trechter.webp "Koude acquisitie is een trechter: wie de cijfers kent, weet wat hij moet doen")
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Zelf aan de slag of laten doen?
 

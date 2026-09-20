@@ -119,6 +119,8 @@ Wat je ziet: met advertenties alleen kom je er in een Nederlandstalige niche zel
 <li class="timeline__item timeline__item--now"><span class="timeline__num">6</span><p class="timeline__year">2025 – nu</p><p class="timeline__title">AI-overzichten</p><p class="timeline__text">Google beantwoordt de 'wat is'-vragen zelf. Wat nog bezoekers trekt: ervaring uit de eerste hand, vergelijkingen, tools, een eigen mening en een nieuwsbrief waarmee je niet afhankelijk bent van Google.</p></li>
 </ol>
 
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+
 ## 101+ blog niche ideeën voor 2026
 
 Meer dan 101 blog niche ideeën ter inspiratie voor je nieuwe blog, onderverdeeld in tien categorieën. Nieuw sinds de vorige versie: de niches die door AI, energie en het thuiswerken zijn ontstaan. Bij elke categorie staat waar het geld doorgaans zit.

@@ -86,6 +86,8 @@ Om te snappen waar je in 2026 instapt, is het goed om te zien hoe snel het is ge
 
 Wat betekent dit voor jou als je in 2026 begint? Drie dingen. Ten eerste: **kies een specialisatie**. Juridisch, medisch, technisch, financieel of marketing (waar de toon belangrijker is dan de letterlijke vertaling) betalen nog steeds goed. Ten tweede: **gebruik AI zelf**. Een vertaler die DeepL of ChatGPT als eerste versie gebruikt en zijn eigen kwaliteit erbovenop legt, werkt twee keer zo snel als een collega die alles uittypt. Ten derde: **zoek je eigen klanten**. Bij vertaalbureaus en marktplaatsen is de prijsdruk het grootst; bij een eigen klant die jou vertrouwt, bepaal jij het tarief.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Hoe krijg je opdrachten als online vertaler?
 
 Geld verdienen met vertalen begint bij klanten. Je zult op zoek moeten naar bedrijven die websites, boeken en documenten vertaald willen hebben, of zorgen dat die bedrijven jou vinden. Dat laatste gebeurt pas als je een tijdje bezig bent en klanten je naam doorgeven. In het begin richt je je dus op actief werven of op een platform. Hieronder de manieren die in september 2026 nog werken; de lijst uit mijn vorige versie heb ik flink opgeschoond.
@@ -149,6 +151,8 @@ Ik schreef het hierboven al, maar het verdient een eigen kopje: **de markt voor 
 Tegelijk is er een andere kant. Zestig procent van de opdrachten heeft een mens nodig die de machine controleert. Juridische, medische en financiële teksten mogen niet fout zijn. Marketingteksten moeten klínken, en dat kan een machine nog niet in een taal die ze niet aanvoelt. En een beëdigde vertaling mag simpelweg niet door AI worden gemaakt. Daar zit het werk, en daar zitten de tarieven.
 
 Mijn advies als je hieraan begint: behandel vertalen niet als bijbaan waarbij je woorden omzet, maar als vak waarin je een specialisme opbouwt. Combineer het met taalles, ondertiteling of copywriting in je tweede taal, zodat je niet van één soort opdracht afhankelijk bent. En gebruik AI elke dag, zodat jij degene bent die weet wat het wel en niet kan. Voor wie dat doet, is vertalen nog altijd een van de manieren om locatie-onafhankelijk geld te verdienen. Voor wie dat niet doet, is het dat niet meer.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Veelgestelde vragen over online vertalen
 

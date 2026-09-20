@@ -36,6 +36,8 @@ Voordat het zover is dat jij slapend rijk wordt, moet er gewerkt worden. Als ik 
 
 Afhankelijk van de manier die jij kiest, kan het een jaar of langer duren voordat het genoeg is om van te leven. Maar dan zit je wel in een situatie waar je misschien een leven lang van kunt genieten.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Waarom zoveel mensen géén passief inkomen hebben
 
 Een passief inkomen is niet voor luie mensen, maar voor mensen die nu de handen uit de mouwen willen steken om er later **de vruchten van te plukken**. Dat is precies waarom veel mensen het nooit opbouwen: ze hebben moeite met werken zonder directe beloning, terwijl die beloning op termijn vele malen groter kan zijn.
@@ -214,6 +216,8 @@ Geld maakt geld. Heb je al een spaarpot, dan is passief inkomen genereren eigenl
 *   **Start-ups en websites.** Je kunt met jouw geld ook start-ups ondersteunen in ruil voor aandelen, of bestaande websites opkopen die al winst maken.
 
 Eén ding is in 2026 anders dan in 2019, en dat kost je geld als je het niet weet: **box 3**. De fiscus rekent op je beleggingen een fictief rendement van 6,00% en op spaargeld van 1,28%, en belast dat met 36%. Boven het heffingsvrije vermogen van €59.357 per persoon betaal je over beleggingen dus effectief zo'n 2,2% van de waarde per jaar, of je nu winst maakte of niet. Was je echte rendement lager, dan kun je dat via de tegenbewijsregeling aantonen. En vanaf 2028 wordt, als de Eerste Kamer instemt, je werkelijke rendement belast. Trek die 2,2% dus af van de 4% in de rekentool hierboven als je écht wilt weten wat je overhoudt.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie passief inkomen genereren
 

@@ -34,6 +34,8 @@ Tijd om te kijken waarom mensen in zo’n ecologisch verantwoorde tiny house wil
 
 In de video noemt Marjolein al enkele redenen om in een tiny house te wonen. Hieronder heb ik de 6 belangrijkste redenen opgeschreven voor mensen om in een tiny house te wonen. De 6 meest gehoorde redenen om in een tiny house te wonen zijn net zo voorpelbaar als dat ze verassend zijn.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## 1. Woonkosten van een tiny house zijn laag en dus is er meer vrijheid!
 
 Een tiny house is uiteraard goedkoper dan een big house. Hierdoor zijn de woonkosten een stuk lager. Al voor rond de 30.000 euro kun je een eigen tiny house kopen, dan heb je alleen nog maar een plek nodig om deze te plaatsen. Wat niet altijd even makkelijk is, zo mag ik geloven van de blog van Klein Wonen Magazine. Maar verder bespaar je veel op gas en elektra omdat er gewoonweg minder ruimte is die verwarmt en verlicht hoeft te worden. Je zult niet zoveel spullen kunnen houden dus waarschijnlijk ook minder spullen kopen. Ook kan de zelfvoorzienendheid van een tiny house meewerken aan kostenbesparing.
@@ -69,6 +71,8 @@ In een tiny house wonen is niet zo simpel als het lijkt. Zeker met de bureaucrat
 ## 6. Je creëert je eigen tiny house
 
 Misschien dat ik zelf dit laatste punt nog wel het allerleukste vind. Hoe grappig is het om zelf vanaf scratch een huis te bouwen. Het voelt een beetje als vroeger, toen ik mijn boomhut mocht timmeren in de tuin. Lekker creatief bezig zijn met waar je zelf gaat wonen, ik kan me goed voorstellen dat dat veel mensen overtuigt om een tiny house lifestyle te betrekken, heerlijk!
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Klein Wonen Magazine Nederland
 

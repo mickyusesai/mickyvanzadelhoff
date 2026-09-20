@@ -39,6 +39,8 @@ Geld verdienen met YouTube begint bij video's die je kunt aanzien en aanhoren. O
 
 Zelf werk ik met [Adobe Premiere Pro](/go/adobe-premiere-pro). Voor de beginner is dat even wennen, maar als je er eenmaal in thuis bent kun je hiermee letterlijk alles bewerken zoals jij dat wilt.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Zo ontwikkelde het verdienmodel van YouTube zich
 
 Het is handig om te zien hoe het verdienen op YouTube in twintig jaar is veranderd. Elke stap maakte het voor kleinere kanalen makkelijker, niet moeilijker.
@@ -192,7 +194,7 @@ Wees er waakzaam voor dat de merchandise past bij je merk. Ga je voor een t-shir
 
 **Merch maken en verkopen** kan op verschillende manieren. De meest efficiënte, maar eentje die pas loont bij een groot bereik, is zelf [een webshop bouwen](/blog/online-geld-verdienen/eigen-webshop-beginnen/) en producten grootschalig inkopen. In [mijn artikel over verkopen op bol](/blog/ondernemen/verkopen-op-bol-com/) vind je dat hele proces van import tot verkoop.
 
-De laagdrempelige manier is **print on demand**: bij [Shopify](/go/shopify) (Basic kost in Nederland zo'n €36 per maand, of €28 per maand bij jaarbetaling, excl. btw) koppel je een print-on-demand-app en wordt een t-shirt pas gemaakt zodra iemand hem bestelt. Je levert een flink deel van de marge in, maar maakt geen kosten voordat je iets hebt verkocht en hebt **geen technische skills** nodig.
+De laagdrempelige manier is **print on demand**: bij [Shopify](/go/shopify) (Basic kost in Nederland €21 per maand) koppel je een print-on-demand-app en wordt een t-shirt pas gemaakt zodra iemand hem bestelt. Je levert een flink deel van de marge in, maar maakt geen kosten voordat je iets hebt verkocht en hebt **geen technische skills** nodig.
 
 [Ga naar Shopify](/go/shopify)
 
@@ -270,6 +272,8 @@ Werk samen met grotere YouTubers, laat iemand naar je verwijzen, gebruik Shorts 
 ## Belasting en KVK als YouTuber
 
 Verdien je geld met je kanaal, dan ziet KVK dat als ondernemen: je schrijft je in, houdt een administratie bij en geeft je inkomsten op bij de Belastingdienst. Ook gratis producten tellen als inkomsten. Zie het dus zoals het is: geld verdienen met YouTube is [een eigen onderneming starten](/blog/ondernemen/eigen-bedrijf-starten/). Bouw eraan alsof het je bedrijf is, want dat is het.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Veelgestelde vragen
 

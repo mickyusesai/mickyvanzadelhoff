@@ -1,8 +1,8 @@
 ---
-title: "Cloud86 Webhosting [Review 2023] – Snelste hosting van Nederland?"
-description: "Is Cloud86 de beste hosting voor jouw website?"
+title: "Cloud86 webhosting review [2026] – Snelste hosting van Nederland?"
+description: "Cloud86 review 2026: prijzen vanaf €1,95, managed WordPress vanaf €7,95, snelheid, Nederlandse support en mijn eigen ervaring na jaren hosten bij Cloud86."
 date: 2021-05-11
-updated: 2023-01-02
+updated: 2026-09-20
 category: "review"
 slug: "cloud86-webhosting-review"
 lang: "nl"
@@ -10,365 +10,228 @@ draft: false
 featuredImage: "/images/headers/cloud86-webhosting-review.webp"
 ---
 
-Is Cloud86 **de beste hosting voor jouw website**?
+**Is Cloud86 de beste webhosting voor jouw website?** Ik heb vier hosts versleten voordat ik in 2021 bij Cloud86 terechtkwam, en daar is De Moderne Nomaden jarenlang blijven staan. In deze review lees je wat Cloud86 in 2026 kost (de prijzen zijn op 20 september 2026 gecontroleerd), wat je daarvoor krijgt, hoe snel en betrouwbaar het is, hoe de support werkt en hoe het zich verhoudt tot Hostnet en SiteGround. Plus mijn eigen ervaring, inclusief de dingen die ik anders zou doen.
 
-Lees in deze **Cloud86 review** alles wat je moet weten en waarom ik het persoonlijk de beste webhosting vind op de Nederlandse markt en deze daarom ook voor mijn eigen website [demodernenomaden.nl](/) gebruik.
+Er is sinds mijn eerste versie van deze review veel veranderd. Cloud86 heet online inmiddels cloud86.io in plaats van cloud86.nl, is gegroeid van een kleine Friese host naar 50.000 klanten in vier landen, en de prijzen zien er anders uit dan een paar jaar geleden: lager om in te stappen, hoger bij verlenging. Daar reken ik verderop mee.
 
-Ik vertel je over mijn persoonlijke ervaringen met Cloud86 en waarom ik een tijd geleden ben overgestapt van die andere Nederlandse webhosting; Hostnet. Alles zodat jij achteraf een goede afweging kunt maken van of deze hosting wat is voor jouw website of dat je beter nog even verder kunt kijken.
+Let's find out!
 
-We bespreken in deze review de **functies, snelheid, uptime, betrouwbaarheid, gebruiksvriendelijkheid, prijzen en support van Cloud86**.
+## Cloud86 in het kort (2026)
 
-Let’s find out!
+| Onderdeel | Stand van zaken op 20 september 2026 |
+|---|---|
+| Bedrijf | Nederlandse webhost uit Leeuwarden, opgericht in 2019, onafhankelijk |
+| Klanten | 50.000 (juli 2026), verdubbeld sinds januari 2024 |
+| Actief in | Nederland, België, Duitsland en Italië |
+| Team | 44 medewerkers, een groot deel op support |
+| Servers | Nederlandse datacenters, vooral het QTS-datacenter in Groningen (het voormalige Google-datacenter) |
+| Techniek | LiteSpeed-webserver, Redis, QUIC.cloud CDN, HTTP/3, Plesk |
+| Uptime | 99,98% volgens Cloud86 zelf |
+| Support | Nederlands, telefonisch en 24/7 via chat |
+| Garantie | 30 dagen niet goed, geld terug |
+| Trustpilot | 4,8 van 5 bij 2.377 reviews, 87% geeft vijf sterren |
 
-[**Maak je het jezelf liever makkelijk? Laat dan jouw gehele WordPress website bouwen via Fiverr >>**](/go/fiverr-wordpress-website-maken)
+Bronnen: cloud86.io, Webhosters.nl (augustus 2026) en Trustpilot, gecontroleerd op 20 september 2026.
 
-## 1. Over Cloud86 webhosting
+![Een klein serverrack dat oplicht op een houten bureau, naast een kop koffie en een plantje](/images/spots/cloud86-server.webp "Cloud86: Nederlandse servers, een Nederlands team en een Fries hoofdkantoor")
 
-Om te beginnen is het goed om te weten dat Cloud86 een **Nederlandse webhost** is. Ze zijn gevestigd in Leeuwarden en bieden sinds 2003 tal van verschillende hostingdiensten aan. Inmiddels hebben ze al meer dan 40.000 websites in hun beheer.
+## Mijn hostinggeschiedenis in vier stappen
 
-![Cloud86 web hosting](/images/migrated/cloud86-about-1.webp "cloud86 web hosting")
+Voordat ik in de details duik: waarom zit ik überhaupt bij Cloud86? Omdat ik het op de moeilijke manier heb geleerd.
 
-Hoewel 40.000 klinkt als veel websites, is Cloud86 eigenlijk juist een kleine webhost. Wat dan ook bijzonder is om te zien is dat ze vrij geavanceerde diensten aanbieden. Diensten die je vaak alleen bij de grootste in de markt ziet, maar daarover later meer.
+<ol class="timeline not-prose">
+<li class="timeline__item"><span class="timeline__num">1</span><p class="timeline__year">Het begin</p><p class="timeline__title">Webreus: goedkoop, en dat merkte ik</p><p class="timeline__text">Ik koos de goedkoopste host die ik kon vinden. Zodra de site bezoekers kreeg, lag hij eruit. Soms meerdere keren per dag. Elke storing kostte lezers.</p></li>
+<li class="timeline__item"><span class="timeline__num">2</span><p class="timeline__year">Daarna</p><p class="timeline__title">SiteGround en Hostnet</p><p class="timeline__text">SiteGround was snel, maar Engelstalig en in dollars. Bij Hostnet betaalde ik €100 per jaar extra voor een SSL-certificaat op mijn subdomein. Allebei prima, allebei niet helemaal mijn ding.</p></li>
+<li class="timeline__item"><span class="timeline__num">3</span><p class="timeline__year">2021</p><p class="timeline__title">Cloud86 Managed WordPress</p><p class="timeline__text">Mijn vader wees me erop dat mijn site bij Cloud86 sneller zou zijn. De verhuizing was binnen een dag geregeld zonder één seconde offline. Nederlandse support aan de telefoon: verkocht.</p></li>
+<li class="timeline__item timeline__item--now"><span class="timeline__num">4</span><p class="timeline__year">2026</p><p class="timeline__title">Deze site, opnieuw gebouwd</p><p class="timeline__text">In 2026 heb ik mijn site helemaal opnieuw opgezet, zonder WordPress, waardoor hij geen klassieke webhosting meer nodig heeft. Voor een WordPress-site zou ik vandaag nog steeds bij Cloud86 uitkomen.</p></li>
+</ol>
 
-Het voordeel van zo’n kleine host is dat servers niet overbezet worden en dat je website daarom niet onnodig traag wordt. Tegelijkertijd kun je bij de klantenservice rekenen op een persoonlijke aanpak in plaats van een doorverwijzing naar de FAQ of een gesprek met een chatbot.
+## Wat Cloud86 aanbiedt
 
-> **Cloud86** is onder andere gespecificeerd in WordPress en Woocommerce hosting. Ze helpen jou om WordPress soepel te installeren of migreren jouw WordPress website kosteloos zonder dat deze tussentijds offline gaat.
+Cloud86 is gespecialiseerd in WordPress- en WooCommerce-hosting, maar heeft pakketten voor elk formaat website.
 
-Niet iedereen is geïnteresseerd in de technische kant van webhosting. Misschien wil je net als ik wel gewoon dat je website snel is en dat deze goed werkt en er nooit uitligt. Om die reden heb ik zelf bij Cloud86 het **[WP Managed Hosting](/go/managed-cloud86/)** pakket. Daarmee hebben ze mij geholpen mijn website sneller te maken dan ooit tevoren.
+### Voor iedereen
 
-Laten we kijken naar **wat Cloud86 allemaal aanbiedt**.
+*   **Webhosting.** Gedeelde hosting waarop je zelf WordPress (of iets anders) installeert. Goedkoop, snel genoeg voor de meeste websites, maar je regelt zelf de instellingen.
+*   **Managed WordPress hosting.** Cloud86 installeert en beheert WordPress voor je: updates, back-ups elke twaalf uur, een testomgeving (staging), caching en een support-team met WordPress-kennis. Dit is [het pakket](/go/managed-cloud86) waarop De Moderne Nomaden jaren draaide.
+*   **WooCommerce hosting.** Dezelfde managed aanpak, ingericht voor een webshop.
 
-<!-- TODO: image missing after migration: cloud86corevalues-2.webp -->
+### Voor gevorderden
 
-### Standaard Hosting typen (voor iedereen)
+*   **VPS en Managed VPS.** Een eigen virtuele server, met of zonder beheer door Cloud86 (met Plesk).
+*   **Virtual Private Cloud.** Een eigen netwerk van cloudservers, voor webbureaus en grotere applicaties.
 
-*   **Webhosting**
-    
+Voor de meeste lezers van dit artikel gaat het om de eerste twee. Daar gaat de rest van deze review dan ook over.
 
-Eenvoudige en betrouwbare webhosting waarmee jouw website wordt gehost op een gedeelde server van Cloud86.
+## Prijzen van Cloud86 in 2026
 
-*   **Managed WordPress hosting**
-    
+Cloud86 werkt met een **introductieprijs voor de eerste looptijd** en een hogere prijs daarna. Kies je drie jaar, dan betaal je drie jaar de laagste prijs. Alle prijzen zijn per maand, exclusief 21% btw, gecontroleerd op 20 september 2026.
 
-Beheerde WordPress hosting. Sneller dan het basisplan en ondersteuning om je website optimaal te laten draaien. Dit is tevens [het pakket](/go/managed-cloud86/) waarop deze website draait en ik ben nog altijd tevreden!
+### Webhosting
 
-*   **WooCommerce hosting**
-    
+| Pakket | Bij 3 jaar | Bij 1 jaar | Daarna | Websites | SSD-opslag | E-mailadressen | Databases | Dataverkeer |
+|---|---|---|---|---|---|---|---|---|
+| Start | €1,95 | €2,95 | €3,95 | 2 | 5 GB | 10 | 5 | 250 GB |
+| Medium | €2,95 | €3,95 | €7,95 | 5 | 50 GB | 50 | 10 | Onbeperkt |
+| Power | €5,95 | €7,95 | €15,95 | 10 | 100 GB | Onbeperkt | 20 | Onbeperkt |
 
-Hosting voor jouw eigen Woocommerce webshop. Inclusief handige tools om jouw webshop snel te bouwen en de SEO te optimaliseren zodat jouw webshop goed gevonden wordt in Google.
+Bij alle drie: gratis SSL, dagelijkse back-ups (zeven dagen bewaard), LiteSpeed, QUIC.cloud CDN, gratis verhuisservice (ter waarde van €75), een AI-websitebouwer en de 30-dagengarantie.
 
-### Cloud hosting typen (voor gevorderden)
+[Bekijk de webhostingpakketten](/go/webhosting-cloud86)
 
-*   **Virtual Private Server**
-    
+### Managed WordPress hosting
 
-Met **Cloud86** VPS kan je een volledige virtuele server bezitten. Hierdoor hoeft jouw website niet samen met andere websites op één server te worden geplaatst. Wanneer je een VPS hebt, hebben jouw IP-adressen geen invloed op de IP’s van andere gebruikers. En dankzij geavanceerde technische apparatuur is zo’n server veiliger dan een fysieke.
+| Pakket | Bij 3 jaar | Bij 1 jaar | Daarna | Websites | SSD-opslag | E-mailadressen | Databases |
+|---|---|---|---|---|---|---|---|
+| Start | €7,95 | €9,95 | €20,95 | 2 | 10 GB | 10 | 5 |
+| Medium | €15,95 | €19,95 | €41,95 | 5 | 50 GB | 50 | 10 |
+| Power | €25,95 | €33,95 | €67,95 | 10 | 100 GB | Onbeperkt | 20 |
 
-*   **Managed VPS**
-    
+Bij alle drie: back-ups elke twaalf uur (zeven dagen bewaard), automatische updates, staging, website klonen, WordPress Toolkit, LiteSpeed en Redis-cache, QUIC.cloud CDN, wekelijkse malwarescan, firewall, gratis SSL en verhuizing, en de 30-dagengarantie.
 
-De Managed VPS is er voor wie dezelfde voordelen wilt ervaren als de VPS, alleen niet het beheer ervan wilt doen. Met Managed VPS krijg je een Plesk Control Panel en kun je daar de instellingen van jouw website overzien.
+[Bekijk de managed WordPress-pakketten](/go/managed-cloud86)
 
-*   **Virtual Private Cloud**
-    
+Let op het verschil tussen de instapprijs en de prijs daarna: bij Managed WordPress Start ga je van €7,95 naar €20,95. Daarom loont het om direct voor drie jaar te kiezen als je zeker weet dat je site blijft bestaan. Reken het uit:
 
-Als je een eigen privénetwerk van cloudservers met hoge prestaties wilt bouwen, dan is de Cloud86 VPC iets voor je.
+<div class="tool not-prose" id="cloud86-calc">
+<p class="tool__title">Wat kost Cloud86 je over vijf jaar?</p>
+<p class="tool__intro">Kies een pakket en een looptijd. De eerste looptijd rekent met de introductieprijs, daarna met de normale prijs.</p>
+<div class="tool__grid">
+<label class="tool__field">Pakket<select class="tool__input" id="cloud86-plan"><option value="ws">Webhosting Start</option><option value="wm">Webhosting Medium</option><option value="wp">Webhosting Power</option><option value="ms" selected>Managed WordPress Start</option><option value="mm">Managed WordPress Medium</option><option value="mp">Managed WordPress Power</option></select></label>
+<label class="tool__field">Eerste looptijd<select class="tool__input" id="cloud86-term"><option value="12">1 jaar</option><option value="36" selected>3 jaar</option></select></label>
+<label class="tool__field">Prijzen tonen<select class="tool__input" id="cloud86-vat"><option value="1">Exclusief btw (ondernemer)</option><option value="1.21">Inclusief 21% btw (particulier)</option></select></label>
+</div>
+<div class="tool__results">
+<div class="tool__result"><p class="tool__label">Eerste looptijd</p><p class="tool__value" id="cloud86-out-first">€ 286</p><p class="tool__sub" id="cloud86-out-first-sub">36 maanden × € 7,95</p></div>
+<div class="tool__result"><p class="tool__label">Daarna per jaar</p><p class="tool__value" id="cloud86-out-after">€ 251</p><p class="tool__sub" id="cloud86-out-after-sub">12 × € 20,95</p></div>
+<div class="tool__result"><p class="tool__label">Totaal over 5 jaar</p><p class="tool__value" id="cloud86-out-total">€ 789</p><p class="tool__sub">gemiddeld <span id="cloud86-out-avg">€ 13</span> per maand</p></div>
+</div>
+<p class="tool__note">Rekenvoorbeeld met de prijzen van cloud86.io op 20 september 2026, zonder domeinnaam. Prijzen kunnen tussentijds veranderen; de actuele staan op de site van Cloud86.</p>
+</div>
 
-Een VPC is een netwerk van Cloud Servers die controleerbaar zijn verzameld. Cloud86 biedt de CMware vCloud Director aan waarmee je jouw hele cloud netwerk kunt beheren zonder al te veel technische kennis nodig te hebben.
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var plans = { ws: [2.95, 1.95, 3.95], wm: [3.95, 2.95, 7.95], wp: [7.95, 5.95, 15.95], ms: [9.95, 7.95, 20.95], mm: [19.95, 15.95, 41.95], mp: [33.95, 25.95, 67.95] };
+  var nl = function (n, d) { return '€ ' + new Intl.NumberFormat('nl-NL', { minimumFractionDigits: d || 0, maximumFractionDigits: d || 0 }).format(n); };
+  function calc() {
+    var p = plans[$('cloud86-plan').value], term = +$('cloud86-term').value, vat = +$('cloud86-vat').value;
+    var intro = (term === 36 ? p[1] : p[0]) * vat, regular = p[2] * vat;
+    var first = intro * term, after = regular * 12, total = first + regular * (60 - term);
+    $('cloud86-out-first').textContent = nl(first);
+    $('cloud86-out-first-sub').textContent = term + ' maanden × ' + nl(intro, 2);
+    $('cloud86-out-after').textContent = nl(after);
+    $('cloud86-out-after-sub').textContent = '12 × ' + nl(regular, 2);
+    $('cloud86-out-total').textContent = nl(total);
+    $('cloud86-out-avg').textContent = nl(total / 60);
+  }
+  ['cloud86-plan', 'cloud86-term', 'cloud86-vat'].forEach(function (id) { $(id).addEventListener('change', calc); });
+  calc();
+})();
+</script>
 
-## Inbegrepen bij Cloud86
+Ter vergelijking: toen ik in 2021 overstapte, koos ik Managed WordPress Medium, ook al was mijn bezoekersaantal flink hoger dan waar dat pakket voor bedoeld leek. Het kon het prima aan. Begin je net met een [blog](/blog/ondernemen/blog-beginnen-starten-stappenplan/), dan is Start ruim voldoende.
 
-Verder zijn er een aantal functies en diensten die Cloud86 vrijwel bij iedere hostingvorm aanbiedt.
+## Wat je standaard krijgt
 
-*   **Gratis migratie**
-    
+Een paar dingen die Cloud86 bij vrijwel elk pakket levert en die bij andere hosts vaak extra kosten.
 
-**Cloud86** kan jouw website gratis verhuizen vanaf iedere webhosting. Bij mijn eigen website was dit **binnen één dag geregeld** zonder dat deze ook maar één seconde offline is geweest. Je hebt tevens ook de optie om dit zelf te verhuizen, maar als je technisch niet zo handig bent is het fijn als iemand anders dit voor je regelt.
+*   **Gratis verhuizing.** Cloud86 verhuist je website vanaf elke andere host, volgens hun eigen belofte binnen een werkweek. Bij mij was het binnen één dag geregeld, zonder dat de site ook maar een seconde offline was. Je kunt het ook zelf doen, maar als je technisch niet zo handig bent, is dit goud waard.
+*   **Automatische back-ups en updates.** Dagelijks bij webhosting, elke twaalf uur bij managed WordPress, zeven dagen bewaard. WordPress en je plug-ins worden bij managed hosting automatisch bijgewerkt.
+*   **Gratis SSL-certificaat.** Het slotje in de adresbalk, belangrijk voor de veiligheid én voor Google. Bij Hostnet betaalde ik hier destijds €100 per jaar voor op mijn subdomein.
+*   **QUIC.cloud CDN.** Kopieën van je site op servers wereldwijd, zodat een bezoeker uit Australië niet hoeft te wachten op data uit Groningen.
+*   **LiteSpeed en Redis.** De webserver en de cache die het snelheidsverschil maken; daarover hieronder meer.
+*   **Plesk Control Panel.** Eén dashboard voor back-ups, updates, SSL, spamfilter, e-mailadressen, databases en PHP-versie. Eerlijk gezegd kom ik er na de eerste configuratie zelden meer; als je WordPress eenmaal draait, zit je in je WP-admin.
+*   **30 dagen garantie.** Niet tevreden? Binnen 30 dagen krijg je je geld terug.
 
-*   **Geautomatiseerde back-ups en updates**
-    
+![Een stapel verhuisdozen op een stoep met een klein wolkje dat erboven zweeft](/images/spots/cloud86-verhuizen.webp "Verhuizen naar Cloud86: zij pakken de dozen in, jij merkt er niets van")
 
-Om te voorkomen dat jouw website er plots uitligt, biedt Cloud86 **geautomatiseerde back-ups** aan. De back-up vindt in ieder geval iedere 12 uur plaats. Verder worden updates van jouw website automatisch uitgevoerd zodat je altijd gebruik maakt van de meest veilige versie van WordPress en jouw plug-ins.
+[Host je website bij Cloud86](/go/cloud86)
 
-*   **Gratis SSL-certificaat**
-    
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
-Bij Cloud86 is een SSL certificaat altijd inbegrepen. Hierdoor kan jouw website openen op een **beveiligde https:// verbinding**. Ook wel te herkennen aan dat slotje in de balk. Dit is onder andere belangrijk voor de veiligheid en vindbaarheid binnen een zoekmachine als Google.
+## Snelheid en uptime
 
-*   **QUIC.Cloud CDN**
-    
+Wie houdt er nou niet van een snelle website? Bij mijn eigen site kwam zo'n 65% van de bezoekers via een telefoon, vaak op een matige verbinding. Een trage site kost je dan direct lezers, en Google rekent laadtijd al jaren mee.
 
-Deze functie is in het bijzonder interessant als jouw website ook wordt bezocht buiten Nederland. Normaliter zou iemand die vanuit Australië jouw website laad een trage website te zien krijgen. Dit komt door de afstand die de data af moet leggen. Met de **QUIC.Cloud CDN** wordt dit probleem van afstand aangepakt en is de laadtijd van jouw website wereldwijd op orde.
+Twee dingen tellen: de **laadtijd** (hoe snel een pagina opent) en de **uptime** (hoeveel procent van de tijd je site bereikbaar is). Cloud86 garandeert zelf 99,98% uptime. Ik heb in mijn jaren bij Cloud86 geen storing meegemaakt die ik zelf heb opgemerkt.
 
-*   **SSD-opslagplaatsen**
-    
+De snelheid komt uit de techniek: de **LiteSpeed-webserver** in plaats van het gebruikelijke Apache of NGINX, **Redis** als objectcache, HTTP/3 en snelle SSD-opslag. Cloud86 noemt zichzelf "de snelste webhosting van Nederland"; dat is hun eigen claim, maar Hostingvergelijker.nl riep Cloud86 in 2026 uit tot winnaar van zijn snelheidstest. Mijn eigen ervaring: na de overstap en het instellen van caching (met een kennisbankartikel dat een medewerker me aanwees) was mijn site sneller dan ooit.
 
-De SSD-opslag (HPE 3PAR Enterprise) van Cloud86 kan zo’n 75 GB per seconde verwerken. Dit verbetert wederom **de laadtijd van jouw website**.
+![Een stopwatch naast een browservenster in de vorm van een raket die opstijgt van een bureau](/images/spots/cloud86-snelheid.webp "LiteSpeed en Redis: het verschil tussen een site die laadt en een site die vliegt")
 
-*   **WordPress, WooCommerce en SEO toolkits**
-    
+Belangrijker dan welke host je kiest: stel je site goed in. Geen enorme afbeeldingen, caching aan, niet vijftig plug-ins. Cloud86 helpt daarbij en deelt welke instellingen het beste werken op hun servers. Geen zorgen dus als je hier (net als ik destijds) weinig verstand van hebt.
 
-Met de verschillende toolkits vanuit Cloud86 wordt het beheren van jouw website een makkie. Binnen jouw eigen Plesk Control Panel heb je **overzicht** in alle back-ups, updates, SSL, spamfilter, e-mail adressen en PHP versie. Dit dashboard wordt automatisch voor jou aangemaakt zodat je zonder technische kennis jouw website kunt beheren.
+## Klantenservice en support
 
-Hierbij zit ook een SEO toolkit welke jou helpt om **hoger te scoren in Google**. Zo kun je jouw website optimaliseren voor de zoekmachine met meer websitebezoekers tot gevolg.
+Dit is waar Cloud86 voor mij het verschil maakte. De support is **Nederlandstalig**, je kunt **bellen**, en er is 24/7 een chat. Cloud86 zegt gemiddeld binnen twee minuten te reageren; mijn ervaring is dat je op werkdagen snel iemand aan de lijn hebt die je probleem ook echt oplost, geen doorverwijzing naar een FAQ of een chatbot.
 
-*   **De 30 dagen garantie**
-    
+Ze hebben mij geholpen met het sneller maken van mijn site en met SSL op een subdomein. Bij managed hosting krijg je support van mensen met WordPress-kennis; bij gewone webhosting helpen ze met de hosting, niet met je WordPress-thema. Daarnaast is er een kennisbank met stap-voor-stapartikelen voor wie het liever zelf doet.
 
-Als er iets is bij Cloud86 waar je niet tevreden over bent dan kan je altijd **binnen 30 dagen jouw geld terugkrijgen**. Verder is er voor de dienst Virtual Private Server ook een gratis 14 dagen proefperiode om deze uit te proberen.
+Het idee dat ik gewoon kón bellen als er iets misging, heeft me een hoop zorgen bespaard. Als ondernemer met een website die je inkomen verzorgt, denk jij daar waarschijnlijk niet anders over.
 
-*   **Een persoonlijke klantenservice**
-    
+![Een bureautelefoon met een oplichtende limoengroene knop naast een laptop met een stijgende grafiek](/images/spots/cloud86-telefoon.webp "Nederlandse support die je gewoon kunt bellen")
 
-Bij Cloud86 ben je geen nummertje. Je kunt de klantenservice **telefonisch** bereiken of het contact aangaan via de **livechat**. Mijn ervaring is dat je altijd snel geholpen wordt.
+## Domeinnaam registreren bij Cloud86
 
-Ook hebben ze nog een **knowledgebase** met meer dan 40 artikelen. Hier vond ik op aanraden van een Cloud86 medewerker een artikel over hoe ik caching instel voor mijn website. Hierdoor had ik plots beschikking over de beste instellingen in combinatie met mijn Cloud86 abonnement en daarmee een supersnelle website.
+Heb je al een domeinnaam? Dan verhuis je die met een verhuiscode; Cloud86 regelt de rest. Heb je er nog geen, dan registreer je hem direct bij je hostingpakket. Dit zijn de prijzen per jaar op 20 september 2026 (exclusief btw):
 
-[Host jouw website bij Cloud86](go/cloud86)
+| Extensie | Registratie | Verlenging |
+|---|---|---|
+| .nl | €13,95 | €13,95 |
+| .com | €20,95 | €20,95 |
+| .eu | €15,95 | €15,95 |
+| .be | €17,95 | €17,95 |
 
-## Domeinnaamregistratie bij Cloud86
+Een .nl-domein verhuizen is gratis. In totaal zijn er honderden extensies te kiezen.
 
-Misschien heb je al een domeinnaam, zoals ikzelf. In dat geval kan je deze verhuizen naar Cloud86. Het enige wat zij daarvoor van jou nodig hebben is een verhuiscode. Cloud86 regelt vervolgens de verhuizing.
+[Controleer of je domeinnaam vrij is](/go/cloud86-domeinnaam)
 
-Maar ook als je nog geen domeinnaam hebt dan kan je deze **registreren via Cloud86** bij jouw webhosting abonnement. Ze hebben tal van extensies om uit te kiezen. Zo’n **86 verschillende extensies** om precies te zijn.
+## Cloud86 vergeleken met Hostnet en SiteGround
 
-<!-- TODO: image missing after migration: cloud86domain-1.webp -->
+Hoe onderscheidt Cloud86 zich van de twee hosts waar ik eerder zat? Dit zijn de goedkoopste WordPress-pakketten, gecontroleerd op 20 september 2026. Cloud86 en Hostnet rekenen in euro's exclusief btw; SiteGround rekent in dollars (omgerekend tegen de koers van 18 september 2026).
 
-[Registreer jouw domein bij Cloud86](/go/cloud86)
+| | Cloud86 Webhosting Start | Cloud86 Managed WP Start | Hostnet WordPress Lite | SiteGround StartUp |
+|---|---|---|---|---|
+| Instapprijs per maand | €1,95 (3 jaar) of €2,95 (1 jaar) | €7,95 (3 jaar) of €9,95 (1 jaar) | €4,99 | $2,99 (± €2,61) |
+| Daarna per maand | €3,95 | €20,95 | €9,99 | $17,99 (± €15,70) |
+| Websites | 2 | 2 | 1 domein | 1 |
+| Opslag | 5 GB | 10 GB | 25 GB | 10 GB |
+| WordPress beheerd | Nee | Ja | Nee | Deels (updates, plugin) |
+| Support | Nederlands, telefoon en 24/7 chat | Nederlands, telefoon en 24/7 chat | Nederlands, 7 dagen per week | Engels, 24/7 chat, tickets en telefoon |
+| Betalen | iDEAL, SEPA, creditcard | iDEAL, SEPA, creditcard | Zie hun site | Creditcard, per jaar vooruit |
+| Garantie | 30 dagen | 30 dagen | 30 dagen | 30 dagen |
 
-## 2. Mijn Cloud86 ervaring
+Mijn conclusie uit deze tabel: Hostnet is een prima Nederlands alternatief, maar duurder bij verlenging dan Cloud86's webhosting en zonder de managed optie. SiteGround is technisch sterk, maar de verlengprijs van bijna $18 en de Engelstalige support maken het voor een Nederlandse starter minder logisch. Mijn uitgebreide [SiteGround review](/blog/review/siteground-hosting-review-nederland/) lees je apart.
 
-In eerste instantie was mijn website gehost bij Webreus. Dit is de goedkoopste webhost die ik op het internet kan vinden, maar daar bleek ik wel veel voor in te leveren. Zeker toen mijn website bezoekers begon te krijgen was dit niet meer relevant.
+## Voordelen en nadelen van Cloud86
 
-Mijn website lag er continu uit. Soms zelfs meerdere malen per dag. Meer daarover lees je in [deze ervaring](/blog/review/cloud86-webhosting-review/). Het koste me tal van website bezoekers en daarop ben ik langs meerdere hosts gegaan, waaronder [Siteground](/blog/review/siteground-hosting-review-nederland/) en Hostnet. Inmiddels zit ik tevreden bij Cloud86.
+**Voordelen**
 
-Het grootste voordeel bij Cloud86 vind ik dat ik echt persoonlijk wordt geholpen om mijn website zo snel mogelijk te maken. **De klantenservice is in het Nederlands en de functionaliteiten op het gebied van snelheid zijn immens**.
+*   Volledig Nederlands: bedrijf, servers, support en betaling via iDEAL
+*   Goede prijs-kwaliteitverhouding, instappen vanaf €1,95 per maand
+*   LiteSpeed, Redis, CDN en HTTP/3 standaard, winnaar snelheidstest 2026 bij Hostingvergelijker
+*   Gratis verhuizing, SSL, back-ups en updates
+*   Support die je kunt bellen en die je probleem oplost
+*   Managed WordPress voor wie geen zin heeft in techniek
+*   4,8 op Trustpilot bij ruim 2.300 reviews
 
-Ook vond ik het gek dat ik bij Hostnet 100,- euro per jaar extra moest betalen voor een SSL certificaat van mijn subdomein (training.demodernenomaden.nl), waar dit bij Cloud86 gewoon standaard is inbegrepen.
+**Nadelen**
 
-De keuze voor Cloud86 was voor mij dan ook snel gemaakt toen mijn vader me erop wees dat mijn website bij hun sneller zou zijn ;).
+*   De prijs na de eerste looptijd ligt een stuk hoger dan de instapprijs, vooral bij managed WordPress
+*   De 30-dagengarantie geldt niet voor alle diensten
+*   Telefonische support alleen op werkdagen tijdens kantooruren; buiten die tijden via chat
 
-Tot slot raad ik de Cloud86 hosting ook aan voor [beginnende bloggers](/blog/ondernemen/blog-beginnen-starten-stappenplan/) en helpt het dat hun hosting een goed [affiliate programma](/blog/ondernemen/affiliate-programma/) heeft met aangename commissies. Voor mij als blogger is dat een mooie bijkomstigheid!
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
-## Plesk Control Panel en Cloud86 Dashboard
+## Conclusie Cloud86 review
 
-Wanneer je webhosting bij Cloud86 aanschaft krijg je twee manieren om deze te beheren. De eerste is het dashboard van Cloud86 zelf en de tweede is de Plesk Control Panel.
+Overstappen naar Cloud86 was voor mijn website een goede stap. Ik kreeg een snellere site en het gevoel dat ik altijd iemand kon bellen als er technisch iets misging. Als je website een groot deel van je inkomsten verzorgt, wil je dat gewoon zeker weten.
 
-<!-- TODO: image missing after migration: cloud86-wp-medium-1.webp -->
+Cloud86 blinkt uit in support, is snel en betrouwbaar, en heeft pakketten voor elk formaat website. Voor wie begint met een WordPress-site raad ik het [Managed WordPress-pakket](/go/managed-cloud86) aan: ja, het is duurder dan gewone webhosting, maar je koopt er een goede nachtrust voor. Kies dan wel direct voor drie jaar, anders schrikt je van de verlenging. Ben je handig genoeg om WordPress zelf te installeren, dan is [Webhosting Medium](/go/webhosting-cloud86) voor €2,95 per maand moeilijk te verslaan.
 
-In het algemene dashboard regel je alles van facturering tot de verschillende diensten die je bij Cloud86 hebt lopen. Het Plesk Control Panel is er om de technische kant van jouw website te beheren.
-
-<!-- TODO: image missing after migration: plesk-plesk-cloud86-1.webp -->
-
-Je vindt de volgende dingen in het Plesk Obsidian Control Panel:
-
-*   WordPress configuraties en de WordPress en SEO toolkit.
-    
-*   E-mail accounts, e-mail instellingen en spampreventie.
-    
-*   Alle MySQL databases.
-    
-*   Updates en back-ups voor jouw website.
-    
-*   PHP-installatieprogramma en PHP Composer.
-    
-*   Git-opslagplaats.
-    
-*   SSL / TLS-certificaatinstellingen.
-    
-*   Bestanden en gebruikersbeheer.
-    
-
-En zo gaat de lijst met mogelijkheden op het **Plesk Control Panel** nog wel even door. Het is een prima systeem voor iedereen die zijn website overzichtelijk wilt beheren.
-
-Eerlijkheid gebied te zeggen dat ik er zelf na de configuratie niet zoveel meer op te zoeken heb. Wanneer jouw WordPress is ingesteld zal je vooral te vinden zijn bij de WP admin van jouw site ;).
-
-## 3. Cloud86 snelheid
-
-Wie houdt er nou niet van een snelle website?
-
-Snelheid wordt steeds belangrijker op het internet. Dit is vooral door het mobiele gebruik van websites. Als ik kijk naar mijn eigen website dan is het aantal mobiele bezoekers zo’n 65%. Zij hebben vaak net wat trager internet dan een desktop gebruiker en daardoor moet ik **de laadtijd van mijn website optimaliseren** om een goede beleving te houden.
-
-Met een trage website verlies je een groot deel van je bereik en een van de belangrijkste factoren in laadtijd is jouw webhosting.
-
-Twee dingen zijn belangrijk bij de snelheid van een website. Namelijk de laadtijd en de uptime. De laadtijd is hoelang de website er gemiddeld over doet om geladen te worden en de uptime is hoeveel procent van de tijd deze website ‘in de lucht’ is.
-
-Cloud86 heeft een gemiddelde **laadsnelheid van tussen de 0,63 en 1,02 seconden** en een **uptime van 99,8%**.
-
-<!-- TODO: image missing after migration: cloud86ultrasnel-1.webp -->
-
-Deze snelheid en betrouwbaarheid zijn zeer goed en komen mede door een aantal hardware oplossingen van Cloud86. Zo gebruiken ze **een combinatie van snelle SSD-opslag (HRE 3PAR SSD-opslag) en kwalitatieve webservers (LiteSpeed-server)**.
-
-Verder is voor de laadtijd van jouw website natuurlijk vooral van belang dat je deze goed hebt ingesteld. Niet te grote afbeeldingen, goede caching en noem maar op. Cloud86 zal je hier ook bij begeleiden en deelt welke instellingen het beste werken met hun servers, geen zorgen dus als je hier (net als ik) niet zoveel verstand van hebt.
-
-Hieronder in ieder geval nog enkele stats over **websitesnelheid** waarin ook Cloud86 is meegenomen. Deze zijn berekend op basis van de gemiddelde laadtijd en de tests werden gedaan vanuit Amsterdam door Webhosters.
-
-<!-- TODO: image missing after migration: laadtijden-webpagetest-voor-na-optimalisatie-2020-update.webp -->
-
-Uit deze test komt Kinsta als beste naar voren, maar daar zijn ook hun prijzen naar, zij zijn de duurste in de markt. Cloud86 scoort in ieder geval goed en heeft **een gemiddelde laadtijd ruim onder de veelbesproken 2 seconden**.
-
-## 4. Prijzen Cloud86
-
-Een goede webhost is één ding, maar deze moet natuurlijk ook betaalbaar zijn. Toen ik net begon met mijn website koos ik eigenlijk gewoon voor de goedkoopste webhost omdat ik niet goed kon zien wat het verschil was. Hopelijk begrijp je door dit artikel wat het verschil is tussen een goedkope en een wat duurdere webhost.
-
-Cloud86 biedt pakketten aan voor ieder soort website zodat je er ook als kleine website tegen een laag bedrag terecht kunt, maar wel de mogelijkheid hebt om door te groeien.
-
-De meeste abonnementen bij Cloud86 hebben een 30 dagen niet goed geld terug garantie.
-
-### Managed WordPress en Woocommerce hosting
-
-Snelste WordPress hosting die Cloud86 te bieden heeft. Hierbij beheren ze de achtergrond van jouw website (back-ups, WordPress installatie bijv.) en helpen ze je jouw website snel en veilig te maken. Deze vorm van managed hosting wordt in drie formaten aangeboden.
-
-*   **Start**
-    
-
-**Vanaf € 7.98** per maand inclusief 2 websites, 10GB SSD-opslag, gratis SSL-certificaat, 10 e-mailaccounts, 5 MySQL-databases, automatische updates en back-ups, gratis migratie en meer basisfuncties. Geschikt voor ~ 5000 bezoekers per maand.
-
-*   **Medium**
-    
-
-**Vanaf € 15.98** per maand inclusief 10 websites, 50GB SSD-opslag, gratis SSL-certificaat, onbeperkt aantal e-mailaccounts, 15 MySQL-databases, automatische updates en back-ups, gratis migratie en meer basisfuncties. Geschikt voor ~ 20.000 bezoekers per maand. Zelf maak ik gebruik van deze managed wp optie, ook al is het aantal websitebezoekers een stuk meer, deze hostingvorm kan het prima aan.
-
-*   **Power**
-    
-
-**Vanaf € 25.98** per maand inclusief 10 websites, 100GB SSD-opslag, gratis SSL-certificaat, onbeperkt aantal e-mailaccounts en MySQL-databases, automatische updates en back-ups, gratis migratie en meer basisfuncties. Geschikt voor ~ 50.000 bezoekers per maand.
-
-[Probeer managed WordPress hosting](/go/managed-cloud86)
-
-### Plannen voor Webhosting
-
-Met de webhosting kan je simpelweg een website starten. De prijzen hiervoor zijn lager dan die van de managed hosting, maar daarvoor lever je ook best wat in op snelheid en support. In feite kan je hier ook WordPress opzetten, maar het is niet zo dat Cloud86 deze dan voor jou installeert. Je zal in dat geval dus over de nodige technische kennis moeten beschikken, daarom heeft deze vorm van hosting niet mijn voorkeur. Maar voor wie wil zijn er drie pakketten.
-
-*   **Start**
-    
-
-**Vanaf € 1.95** per maand inclusief 2 websites, 5 GB SSD-opslag, 250 GB verkeersgegevens, gratis SSL-certificaat, 10 e-mailaccounts, 5 MySQL-databases, automatische back-ups en meer basisfuncties. Gratis migratie is niet beschikbaar.
-
-*   **Medium**
-    
-
-**vanaf € 2.98** per maand inclusief 10 websites, 50GB SSD-opslag, onbeperkte verkeersgegevens, gratis SSL-certificaat, onbeperkt aantal e-mailaccounts, 15 MySQL-databases, automatische back-ups, gratis migratie en meer basisfuncties.
-
-*   **Power**
-    
-
-**vanaf € 5.98** per maand inbegrepen Onbeperkt websites, onbeperkte verkeersgegevens, onbeperkte e-mailaccounts en onbeperkte MySQL-databases, 100 GB SSD-opslag, gratis SSL-certificaat, automatische back-ups, gratis migratie en meer basisfuncties.
-
-[Probeer webhosting](/go/webhosting-cloud86/)
-
-### VPS en Managed VPS hosting
-
-Dan heb je bij Cloud86 ook nog de mogelijkheid voor een Virtual Private Server of een Virtual Private Cloud. Dit is interessant voor onder andere webdesigners die graag de websites van hun klanten willen hosten.
-
-Omdat dit voor de meeste lezers van dit artikel niet zo interessant is, raad ik je aan om wanneer je dit wilt even contact op te nemen met Cloud86 voor vragen.
-
-## 5. Klantenservice en support Cloud86
-
-Niets zo fijn als dat je bij een probleem iemand kunt contacten én dat diegene je dan helpt het probleem zo snel als mogelijk op te lossen.
-
-Als je geen technische achtergrond hebt, maar wel een website, dan kan je bij Cloud86 terecht voor de technische support die bij de ‘[managed hosting pakketten](/go/managed-cloud86)‘ komt. Zo hebben ze mij al geholpen met het sneller maken van mijn website en het instellen van een SSL verbinding op mijn sub-domein.
-
-Bij Cloud86 is **de klantenservice in het Nederlands**. Ze zijn bereikbaar via telefoon en e-mail en mijn ervaring is dat ze op werkdagen vaak binnen enkele uren reageren. Afhankelijk van de urgentie van jouw vraag helpen ze je dan direct.
-
-Vooral het idee dat ik Cloud86 **gewoon kan bellen** als zich een probleem voordoet bespaart me een hoop zorgen en ik denk dat jij daar als ondernemer of website houder niet veel anders over denkt.
-
-<!-- TODO: image missing after migration: cloud86help-1.webp -->
-
-Buiten die directe support wordt ik ook in het mailcontact wel eens doorverwezen naar een artikel in de **kennisbank**.
-
-Dit is een verzameling aan instructies om dingen in te stellen op jouw website. Veelal kan je deze zelf prima uitvoeren, maar ook hierbij geld dat als het niet lukt, ze je altijd even willen helpen.
-
-## 6. Voordelen en nadelen van Cloud86
-
-Goed, om dat alles even samen te vatten vind je hieronder de voordelen en nadelen van Cloud86 in een overzicht.
-
-Voordelen
-
-Nadelen
-
-**›** Volledig Nederlandse webhosting gevestigd in Nederland met goedkope hostingplannen.
-
-**×** De telefonische klantenservice is alleen bereikbaar op werkdagen tijdens kantooruren.
-
-**›** Geweldige prijs/kwaliteit verhouding met prima uptime (99,8%) en laadsnelheid van 0,63-1,02 seconden.
-
-**×** 30 dagen geldgarantie is niet op alle abonnementen van toepassing.
-
-**›** Perfecte hardware-uitrusting – 40 Gbit-netwerk in combinatie met de snelste SSD-opslag en minimaal 3 GHz per core voor servers, zodat ze de beste verbindingssnelheid kunnen bieden.
-
-**×** Domeinnaamregistratie is vrij duur.
-
-**›** Installatie voor WordPress wordt geregeld en je wordt geholpen bij het sneller maken van jouw website.
-
-**›** Gratis SSL-certificaten en gratis uitgebreide DNS zijn inbegrepen bij elk webhostingplan.
-
-**›** Je kunt voor **Cloud86** webhostingservices betalen via **iDEAL**, **SEPA en Bancontact**. Bij veel internationale hosts heb je vaak een creditcard nodig.
-
-**›** Gratis eerste migratie van jouw website en gratis domeinoverdracht.
-
-**›** Een klantenservice die er is om je te helpen. Telefonisch bereikbaar en een snelle afhandeling.
-
-## 7. Vergelijk Cloud86 met Hostnet en Siteground
-
-Oké, dat over Cloud86, maar in welke mate onderscheid deze webhosting zich van andere hosts?
-
-.pricing-table-2.fusion-pricing-table .panel-container, .pricing-table-2.fusion-pricing-table .standout .panel-container, .pricing-table-2.full-boxed-pricing.fusion-pricing-table {background-color:#f8f8f8;} .pricing-table-2.fusion-pricing-table .list-group .list-group-item, .pricing-table-2.fusion-pricing-table .list-group .list-group-item:last-child{background-color:#ffffff; border-color:#ededed;} .pricing-table-2.full-boxed-pricing.fusion-pricing-table .panel-wrapper:hover .panel-heading, .pricing-table-2.fusion-pricing-table .panel-wrapper:hover .list-group-item {background-color:#f8f8f8;} .pricing-table-2.full-boxed-pricing.fusion-pricing-table .panel-heading{background-color:#ffffff;} .pricing-table-2.fusion-pricing-table .fusion-panel, .pricing-table-2 .panel-wrapper:last-child .fusion-panel, .pricing-table-2.fusion-pricing-table .standout .fusion-panel, .pricing-table-2.fusion-pricing-table .panel-heading, .pricing-table-2.fusion-pricing-table .panel-body, .pricing-table-2.fusion-pricing-table .panel-footer{border-color:#ededed;} .pricing-table-2.fusion-pricing-table .panel-body, .pricing-table-2.fusion-pricing-table .panel-footer{background-color:#f8f8f8;} .pricing-table-2.sep-boxed-pricing.fusion-pricing-table .panel-heading h3{color:#333333;} .pricing-table-2.full-boxed-pricing.fusion-pricing-table .panel-heading h3{color:#333333;} .pricing-table-2.fusion-pricing-table .panel-body .price .decimal-part{color:#a0ce4e;} .pricing-table-2.fusion-pricing-table .panel-body .price .integer-part{color:#a0ce4e;} .pricing-table-2.fusion-pricing-table ul.list-group li{color:#4f4f4f;}
-
-### Hostnet
-
-€225maandelijks
-
-*   \+ Goedkope prijzen voor de meeste plannen
-*   \+ WordPress gerichte plannen
-*   \+ 30 dagen geld-terug-garantie
-*   \+ Gratis SSL, databases en e-mails
-*   \+ Klantenservice via telefoon, e-mail en WhatsApp
-*   – Lage score op laadsnelheid
-*   – Beperkt dataverkeer op alle abonnementen
-*   – Relatief lage uptime van 99%
-
-## 4 uit 8
-
-### Siteground
-
-€599maandelijks
-
-*   \+ Onbeperkte data
-*   \+ Gratis SSL, SSH en CloudCDN
-*   \+ Google Cloud datacenters
-*   \+ 30 dagen garantie
-*   \+ Snel, betrouwbaar en gericht op WordPress
-*   – Betaling per jaar
-*   – Geen Nederlandse klantenservice
-*   – Geen iDEAL betalingsmogelijkheid
-
-## 5 uit 8
-
-### Cloud86
-
-€195maandelijks
-
-*   \+ Uitstekende prijs/kwaliteit verhouding
-*   \+ Uptime minimaal 99,8%, laadtijd 0,63-1,02 seconde
-*   \+ Gratis SSL/TSL en uitgebreide DNS
-*   \+ iDEAL betaling mogelijk
-*   \+ Gratis migratie, back-ups en updates
-*   – Prijzige domeinregistratie
-*   – 30-dagen garantie niet voor alle plannen
-
-## 6 uit 8
-
-## 8. Conclusie Cloud86 review
-
-**Overschakelen naar Cloud86** was voor mijn eigen website een geweldige stap. Nu heb ik een snellere website en het gevoel dat ik altijd iemand kan bellen om me te helpen, mocht er technisch iets fout gaan. Wanneer jouw website een groot deel van je inkomsten verzorgt wil je zeker weten dat het goed zit.
-
-Cloud86 blinkt uit in zijn klantenservice, is supersnel en betrouwbaar. Het biedt pakketten aan **voor ieder formaat website** en helpt je daar waar nodig. Tot nog toe heb ik nog geen problemen ondervonden met deze webhosting en eerlijk gezegd verwacht ik ook geen problemen tegen te komen.
-
-Voor wie begint met zijn website raad ik Cloud86 van harte aan. Kies in dat geval voor de [Managed WordPress hosting](/go/managed-cloud86) en bespaar jezelf technische moeilijkheden. Ja, het is wat duurder, maar je krijgt er een goede nachtrust voor terug ;).
-
-En mocht je het jezelf nog makkelijker willen maken, [**kijk dan eens of je iemand via Fiverr jouw WordPress website kan laten maken**](/go/fiverr-wordpress-website-maken). Super makkelijk en eenvoudig om later zelf aan te passen.
+Wil je helemaal niets met techniek te maken hebben? Op Fiverr vind je bouwers die [een complete WordPress-site voor je opzetten](/go/fiverr-wordpress-website-maken) op de hosting van jouw keuze. Voor wie een blog wil beginnen, staat het hele stappenplan in mijn artikel over [een blog starten](/blog/ondernemen/blog-beginnen-starten-stappenplan/).
 
 Tot zover deze Cloud86 review.
 
-[Bezoek Cloud86 website](/go/cloud86)
+[Bezoek de website van Cloud86](/go/cloud86)

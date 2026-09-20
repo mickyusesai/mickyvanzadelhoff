@@ -52,6 +52,8 @@ featuredImage: "/images/headers/online-marketing-hovenier.webp"
 
 ![Voor](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![Na](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+
 ## Aan ideeën voor jou als hovenier geen tekort
 
 ### Natuurlijk heb ik nog veel meer ideeën om de website en online marketing van een hovenier aan te pakken. Vaak is het zo dat dit met een paar simpele toevoegingen of aanpassingen al extra opdrachten oplevert. Online marketing is dan ook altijd een investering die zichzelf snel terug verdient.

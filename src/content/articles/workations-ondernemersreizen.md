@@ -26,7 +26,7 @@ Daarbij zie je vaak dat er niet alleen gewerkt en genoten wordt, maar dat er ook
 
 ![Een lange houten tafel op een terras met een paar laptops, koffiekopjes en een schaal sinaasappels, met de zee op de achtergrond](/images/spots/workations-terras.webp "Een workation: samen werken op een plek waar je anders vakantie viert")
 
-Zelf organiseerde ik in 2023 een Business Bootcamp in Italië. Die ging uiteindelijk niet door, en dat leerde me hoe veel werk zo'n reis is voor de organisator. Sindsdien houd ik deze lijst bij met wat anderen aanbieden. Staat een workation die jij hebt gevonden (of organiseert) er niet tussen? Mail me dan via mickyvz@live.nl.
+Ik houd deze lijst bij met wat anderen aanbieden. Staat een workation die jij hebt gevonden (of organiseert) er niet tussen? Mail me dan via mickyvz@live.nl.
 
 _Prijzen op deze pagina zijn per persoon, exclusief btw en exclusief de reis naar de bestemming, tenzij anders vermeld, zodat je goed kunt vergelijken._
 
@@ -50,6 +50,8 @@ Dit is wat er op 19 september 2026 te boeken of te reserveren was. Reizen waarva
 | 12 | Retreat your business Sicilië, Planet Janet | Taormina, Sicilië | najaar 2027, wachtlijst open | 5 dagen | max. 8 | nog niet bekend | (startende) vrouwelijke ondernemers |
 
 Daarnaast zijn er organisatoren die alleen op maat werken. **Edgeplore** organiseert ondernemersreizen voor je eigen groep (de Albanië-reis uit mijn vorige lijst is daar nu maatwerk) vanaf zo'n €2.500 per persoon bij een groep van tien. **Cascara Moments** biedt nog steeds 'worqations' bij Málaga aan, maar zonder vaste data of prijzen op de site. En **The Dutch Hub** doet ondernemersreizen naar Barcelona en Zuid-Spanje vanaf €1.450 inclusief vlucht, afhankelijk van de groep.
+
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## De reizen kort toegelicht
 
@@ -177,6 +179,8 @@ Na drie jaar lijstjes bijhouden zijn dit de vragen die ik iedereen stel die twij
 
 <aside class="cta-box cta-box--book not-prose"><div><p class="cta-box__eyebrow">Gratis boek</p><p><strong>Dé inspiratie voor een vrij leven.</strong> Alle verhalen en lessen uit zes jaar reizen en online werken staan in mijn boek. Gratis en direct te downloaden, geen e-mail nodig.</p></div><a class="btn btn-primary" href="/boek/">Download het boek</a></aside>
 
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Heb ik een workation gemist?
 

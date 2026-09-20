@@ -44,7 +44,7 @@ Al met al dus eigenlijk niet zoveel gedaan, maar wel heel veel geleerd. Als je m
 
 Voor dit jaar wil ik **met mijn Youtube kanaal naar de 10.000 abonnees gaan**. Ik heb er nu 15, dus er is nog een flinke weg te gaan, maar ik weet dat het kan!
 
-En ondanks dat ik voor 2022 niet heel veel concrete plannen maak, weet ik wel één ding dat zeker doorgaat! De try-out voor de [Business Bootcamp in Italië](/blog/ondernemen/workations-ondernemersreizen/). Je kunt je nog aanmelden!
+En ondanks dat ik voor 2022 niet heel veel concrete plannen maak, weet ik wel één ding dat zeker doorgaat! De try-out voor de Business Bootcamp in Italië. Je kunt je nog aanmelden!
 
 **Ik wens ook jou het allerbeste voor 2022**. Dat je doelen behaald mogen worden en je veel van de wereld mag zien. We beginnen dit jaar al in een lockdown, dus vanaf hier kan het eigenlijk alleen maar vooruit!
 
