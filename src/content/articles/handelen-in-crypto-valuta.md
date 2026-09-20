@@ -144,7 +144,7 @@ Als je [geld wilt verdienen met crypto](/go/finst) kun je zeker eens naar de gro
 | 11 | Dogecoin (DOGE) | ± €12 mld | De eerste memecoin, sinds 2013 |
 | 12 | Monero (XMR) | ± €8 mld | Privacymunt, niet op Nederlandse exchanges |
 
-Bron: CoinPaprika en CoinLore, marktwaarde in euro's afgerond, 17 september 2026. Daarna volgen onder meer Chainlink, Cardano, Avalanche, Stellar, Litecoin en Bitcoin Cash. Wat je in dit lijstje niet meer terugvindt: **Terra (LUNA)** en de **FTX-token**, allebei ingestort (daarover later meer). En de [$TRUMP-memecoin](/blog/web3/official-trump-kopen-ideal/) die ik in januari 2025 nog toevoegde? Die piekte op 73 dollar en is nu nog geen 2 dollar waard: een verlies van ruim 97%. Een prima les over hypes.
+Bron: CoinPaprika en CoinLore, marktwaarde in euro's afgerond, 17 september 2026. Daarna volgen onder meer Chainlink, Cardano, Avalanche, Stellar, Litecoin en Bitcoin Cash. Wat je in dit lijstje niet meer terugvindt: **Terra (LUNA)** en de **FTX-token**, allebei ingestort (daarover later meer). En de [$TRUMP-memecoin](/blog/web3/meme-coins-kopen-crypto/) die ik in januari 2025 nog toevoegde? Die piekte op 73 dollar en is nu nog geen 2 dollar waard: een verlies van ruim 97%. Een prima les over hypes.
 
 Reden voor investeerders om juist naar altcoins te kijken in plaats van Bitcoin, is omdat hier nog **veel meer groei mogelijk is**. Bitcoin zal niet zomaar 1000% omhoog schieten (een x10 van jouw investering). Bij kleinere munten is dit realistischer, zeker in een opkomende markt.
 

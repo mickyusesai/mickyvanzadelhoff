@@ -159,7 +159,7 @@ Bitcoin wordt waarschijnlijk geen alledaags betaalmiddel: de transactiekosten zi
 
 ### Altcoins
 
-Alle munten die geen Bitcoin zijn heten altcoins. De bekendste (al verandert dat continu) zijn **Ethereum, Solana, Ripple, Cardano en Polkadot**, en in 2025 kwam daar ineens [OFFICIAL TRUMP](/blog/web3/official-trump-kopen-ideal/) bij.
+Alle munten die geen Bitcoin zijn heten altcoins. De bekendste (al verandert dat continu) zijn **Ethereum, Solana, Ripple, Cardano en Polkadot**, en in 2025 kwam daar ineens [OFFICIAL TRUMP](/blog/web3/meme-coins-kopen-crypto/) bij.
 
 ![altcoins-kopen-finst](/images/migrated/altcoins-kopen-finst-1.webp "altcoins-kopen-finst")
 

@@ -24,7 +24,7 @@ Een paar dingen die je vaak hoort en die ik graag even rechtzet:
 *   **"Portugal is een belastingparadijs voor nomads."** Was. De bekende NHR-regeling is per 1 januari 2024 afgeschaft voor nieuwkomers. De opvolger IFICI geeft 20 procent voor een beperkt aantal beroepen in wetenschap en innovatie; gewoon op afstand werken is niet genoeg.
 *   **Binnen de EU heb je geen visum nodig.** De veelbesproken nomadenvisa van Spanje en Portugal zijn voor mensen van buiten Europa. Als Nederlander ga je gewoon.
 
-Steden als Alicante, Málaga en Lissabon, of wat verder weg Bali en Thailand, bieden een balans tussen genieten, lekker eten, zon en werken. Omdat veel digital nomads er hun plek vinden, wordt er goed op ingespeeld: er zijn veel coworking spaces en het leven is er over het algemeen goedkoper dan in Nederland. Wil jij dat ook? Zorg dan dat je betaalzaken op orde zijn, bijvoorbeeld door een [Visa card aan te vragen](https://www.icscards.nl/creditcard-aanvragen/visa-world-card) voor hotels en huurauto's, boek je ticket en ga die kant op.
+Steden als Alicante, Málaga en Lissabon, of wat verder weg Bali en Thailand, bieden een balans tussen genieten, lekker eten, zon en werken. Omdat veel digital nomads er hun plek vinden, wordt er goed op ingespeeld: er zijn veel coworking spaces en het leven is er over het algemeen goedkoper dan in Nederland. Wil jij dat ook? Zorg dat je betaalzaken op orde zijn (een creditcard voor hotels en huurauto's), boek je ticket en ga die kant op.
 
 ![Een lange gedeelde werktafel bij een groot raam met laptops en planten, lege stoelen](/images/spots/cowork-werktafel.webp "Een goede coworking space: licht, stil en snelle wifi")
 
@@ -35,7 +35,7 @@ Locaties die geliefd zijn bij [digital nomads](/blog/digitalenomaden/digital-nom
 *   **Snelle en stabiele wifi**, en liefst een bekabelde aansluiting of tenminste een tweede lijn als back-up. Vraag naar de snelheid en test hem op een proefdag.
 *   **Een plek voor calls.** Steeds meer spaces hebben telefooncellen of kleine vergaderruimtes. Als je veel belt, is dit belangrijker dan de koffie.
 *   **Openingstijden die bij jouw tijdzone passen.** Werk je vanuit Azië voor Nederlandse klanten, dan zit je 's avonds te werken. Een space die om zes uur sluit heb je dan weinig aan; Y-North in Rovaniemi geeft hot-deskers bijvoorbeeld 24/7 toegang, veel spaces in Azië ook.
-*   **Een goede ligging.** Een werkplek in een levendige wijk met restaurantjes en koffietentjes om in je pauze op pad te gaan met je [creditcard](https://www.icscards.nl/) en jezelf even te trakteren is wel zo leuk. Ook een goede ov-verbinding is fijn, of kies juist een werkplek op loopafstand van je verblijf.
+*   **Een goede ligging.** Een werkplek in een levendige wijk met restaurantjes en koffietentjes om in je pauze op pad te gaan en jezelf even te trakteren is wel zo leuk. Ook een goede ov-verbinding is fijn, of kies juist een werkplek op loopafstand van je verblijf.
 *   **Mensen.** De beste coworking spaces organiseren lunches, borrels en skill-shares. Dat is waar je klanten, vrienden en reisgenoten ontmoet. Als je alleen een bureau nodig hebt, is een koffietentje goedkoper.
 
 ![Een laptop en een flat white op een cafébar met een stopcontact ernaast](/images/spots/cowork-koffiebar.webp "Het koffietentje: goedkoop, gezellig en soms precies genoeg")

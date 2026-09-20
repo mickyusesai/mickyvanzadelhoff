@@ -113,7 +113,7 @@ Voor de meeste taken hierboven is ChatGPT (of Claude of Gemini) genoeg. Gespecia
 
 - [Synthesia](/go/synthesia): video's met een AI-presentator, ook in het Nederlands.
 - [Ocoya](/go/ocoya): social media schrijven en inplannen op één plek.
-- [Sembly AI](/go/sembly): vergaderingen transcriberen en notuleren.
+- Sembly AI: vergaderingen transcriberen en notuleren.
 - [Murf AI](/go/murf-ai): tekst naar natuurlijke spraak voor voice-overs.
 - [Browse AI](/go/browse-ai): websites van concurrenten in de gaten houden.
 - [Looka](/go/looka): logo en huisstijl laten ontwerpen.

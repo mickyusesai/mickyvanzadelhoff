@@ -71,7 +71,7 @@ Bewaar je bewijs van de overboekingen. Voor de Belastingdienst (box 3, de waarde
 
 ### Woon je buiten de EU?
 
-Veel van mijn lezers zitten als digital nomad in Azië of Latijns-Amerika. Daar is Binance in de meeste landen gewoon beschikbaar en verandert er niets. Je kunt er dan [nog steeds een account aanmaken](/go/binance). De rest van deze review gaat over wat je dan krijgt.
+Veel van mijn lezers zitten als digital nomad in Azië of Latijns-Amerika. Daar is Binance in de meeste landen gewoon beschikbaar en verandert er niets. Je kunt er dan nog steeds een account aanmaken; ik verwijs er alleen niet meer naar. De rest van deze review gaat over wat je dan krijgt.
 
 <aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
@@ -229,7 +229,7 @@ Voor de meeste Nederlanders is de keuze simpel: [Finst](/go/finst) als je op de 
 
 Binance is nog altijd de grootste en in veel opzichten de beste crypto exchange ter wereld. Maar de beste exchange waar je niet mag handelen, heb je niets aan. Voor Nederlanders is Binance sinds 2023 geen optie, voor de rest van de EU sinds 1 juli 2026 ook niet, en of de aanvraag via Frankrijk slaagt, weet niemand.
 
-Mijn advies in 2026: heb je nog munten op Binance staan, verplaats ze naar een exchange met vergunning. Begin je net, kies dan direct voor [Finst](/go/finst) of [Bitvavo](/go/bitvavo). En woon je buiten de EU, dan kun je [gewoon een Binance-account aanmaken](/go/binance), maar handel dan zonder hefboom. Die les heb ik zelf duur genoeg betaald.
+Mijn advies in 2026: heb je nog munten op Binance staan, verplaats ze naar een exchange met vergunning. Begin je net, kies dan direct voor [Finst](/go/finst) of [Bitvavo](/go/bitvavo). En woon je buiten de EU, dan kun je gewoon een Binance-account aanmaken, maar handel dan zonder hefboom. Die les heb ik zelf duur genoeg betaald.
 
 Wil je eerst begrijpen hoe de cryptomarkt in elkaar zit? Lees dan mijn [complete guide over geld verdienen met crypto](/blog/web3/handelen-in-crypto-valuta/), inclusief de live koers, staking en de belastingregels van 2026.
 

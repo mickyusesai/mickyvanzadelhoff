@@ -51,9 +51,7 @@ De grootste exchange van de Benelux en zeer eenvoudig in gebruik. Ook hier koop 
 
 ### 3. MEXC
 
-Voor de kleinere AI-projecten kom ik zelf bij MEXC terecht: een grote internationale exchange met een gigantisch aanbod. Wat lastiger voor beginners, omdat je niet direct met iDEAL kunt storten.
-
-[Maak een account aan op MEXC](/go/mexc)
+Voor de kleinere AI-projecten kijk je bij KuCoin of Bybit EU, twee grote exchanges met een gigantisch aanbod en sinds 2025 een Europese MiCA-vergunning. Wat lastiger voor beginners, omdat je daar niet direct met iDEAL kunt storten.
 
 ## AI crypto: de 15 projecten
 
@@ -111,7 +109,6 @@ Render verdeelt **ongebruikte GPU-rekenkracht** over mensen die zware grafische 
 
 Met plug-ins voor populaire 3D-software sturen ontwerpers hun rendertaken direct vanuit hun eigen programma naar het netwerk. Van alle projecten hier is dit een van de meest concrete toepassingen.
 
-[› Koop Render op MEXC](/go/mexc)
 
 ## 5. Numeraire (NMR)
 
@@ -151,7 +148,6 @@ Oraichain noemt zichzelf de eerste **AI-oracle**: het verzamelt en valideert ext
 
 De ORAI-token wordt gebruikt om de AI-oracles te betalen en het netwerk te beveiligen.
 
-[› Koop Oraichain op MEXC](/go/mexc)
 
 ## 9. Covalent (CXT)
 
@@ -161,7 +157,6 @@ Covalent richt zich op het **verzamelen, analyseren en delen van blockchaindata*
 
 De CXT-token geeft toegang tot de data en wordt gebruikt voor staking en governance.
 
-[› Koop Covalent op MEXC](/go/mexc)
 
 ## 10. Cortex (CTXC)
 
@@ -171,7 +166,6 @@ Cortex is gebouwd op Ethereum en laat gebruikers **AI-modellen kopen en gebruike
 
 Denk aan play-to-earn games, DeFi-toepassingen of AI-gestuurde stablecoins die zelf kunnen "denken". Het project heeft een kernsuite van AI-tools gelanceerd, van tekstaanvulling tot beeldherkenning, als basis voor een open ecosysteem van modellen.
 
-[› Koop Cortex op MEXC](/go/mexc)
 
 ## 11. Velas (VLX)
 
@@ -181,7 +175,6 @@ Velas is gebouwd op een fork van de **Solana-blockchain** en gebruikt, niet schr
 
 VLX wordt gebruikt voor transacties en deelname aan het consensusmechanisme.
 
-[› Koop Velas op MEXC](/go/mexc)
 
 ## 12. Vectorspace AI (VXV)
 
@@ -191,7 +184,6 @@ Vectorspace AI bouwt **datasets en taalmodellen die verborgen verbanden vinden**
 
 De VXV-token geeft toegang tot premium datasets en AI-diensten.
 
-[› Koop Vectorspace AI op MEXC](/go/mexc)
 
 ## 13. DeepBrain Chain (DBC)
 
@@ -201,7 +193,6 @@ DeepBrain Chain is een **AI-computingplatform** op Polkadot-technologie dat high
 
 DBC betaalt voor de rekenkracht op het netwerk, tegen lagere kosten dan gecentraliseerde aanbieders.
 
-[› Koop DeepBrain Chain op MEXC](/go/mexc)
 
 ## 14. Artificial Liquid Intelligence (ALI)
 
@@ -211,7 +202,6 @@ ALI is de token van Alethea AI, dat **interactieve AI-karakters** maakt met het 
 
 De ALI-token regelt governance en transacties binnen dat ecosysteem en geeft toegang tot de AI-systemen.
 
-[› Koop Artificial Liquid Intelligence op MEXC](/go/mexc)
 
 ## 15. yPredict (YPRED)
 
@@ -221,7 +211,6 @@ yPredict gebruikt AI-modellen voor **prijsvoorspellingen en analyses** van crypt
 
 De YPRED-token geeft toegang tot de geavanceerde functies en levert stakingbeloningen op.
 
-[› Koop YPRED op MEXC](/go/mexc)
 
 ## AI-agents: de nieuwe categorie
 
@@ -231,6 +220,6 @@ Sinds eind 2024 is er een nieuwe golf AI-crypto: **AI-agents** die zelfstandig h
 
 AI crypto is geen hype meer, maar ook geen zekerheid. De projecten in deze lijst lossen echte problemen op (rekenkracht, data, open AI), en tegelijk is de koers van hun tokens vaak losgezongen van dat nut. Mijn aanpak: **investeer in projecten die je begrijpt**, spreid over een paar categorieën, en check de actuele stand van zaken bij de exchange voordat je koopt.
 
-De meeste projecten uit dit artikel koop je eenvoudig met iDEAL bij [Finst](/go/finst) of [Bitvavo](/go/bitvavo); voor de kleinere ga je naar [MEXC](/go/mexc).
+De meeste projecten uit dit artikel koop je eenvoudig met iDEAL bij [Finst](/go/finst) of [Bitvavo](/go/bitvavo); voor de kleinere kijk je bij KuCoin of Bybit EU, die allebei een Europese vergunning hebben.
 
 [Maak een account aan op Finst](/go/finst)

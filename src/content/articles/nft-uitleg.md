@@ -141,7 +141,7 @@ Of een flip iets oplevert, hangt af van twee dingen: of je het juiste project ki
 })();
 </script>
 
-Het kiezen van het project is het echte werk. Waar je op let (hoe groot de collectie is, hoeveel er te koop staat, het handelsvolume, het team, de community) beschrijf ik stap voor stap in mijn artikel over [NFT-research](/blog/web3/nft-project-research-onderzoeken-flippen/). Ik leerde flippen begin 2022 in een Nederlandse cursus die inmiddels niet meer bestaat; wat ik daar achteraf van vind, lees je in [mijn review](/blog/review/nft-secrets-review-mitchel-van-duuren/).
+Het kiezen van het project is het echte werk. Waar je op let (hoe groot de collectie is, hoeveel er te koop staat, het handelsvolume, het team, de community) beschrijf ik stap voor stap in mijn artikel over [NFT-research](/blog/web3/nft-project-research-onderzoeken-flippen/). Ik leerde flippen begin 2022 in een Nederlandse cursus die inmiddels niet meer bestaat.
 
 Wat ik je vooral wil meegeven: in 2021 kon je bijna niet verkeerd kopen, omdat alles steeg. In 2026 kan dat wel. Handel alleen met geld dat je kunt missen en zie het als leergeld, niet als inkomen.
 

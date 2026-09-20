@@ -69,7 +69,10 @@ RETIRED_PAGE_TARGETS = {   # retired pages with a better destination than the ho
 DELETED_ARTICLES = {      # slug -> replacement path (None = unlink)
     'jia-ruan': None,
     'webreus-storing': '/blog/review/cloud86-webhosting-review/',
+    'nft-secrets-review-mitchel-van-duuren': '/blog/web3/nft-uitleg/',   # Micky, 2026-09-20: training gone, page deleted
+    'official-trump-kopen-ideal': '/blog/web3/meme-coins-kopen-crypto/',  # 2026-09-20: a MEXC/Pikamoon funnel, MEXC dropped
 }
+DELETED_CATEGORY = {'jia-ruan': 'review', 'webreus-storing': 'ondernemen', 'nft-secrets-review-mitchel-van-duuren': 'review', 'official-trump-kopen-ideal': 'web3'}
 MANUAL_LINKS = {          # old paths the redirect chain cannot resolve
     '/online-geld-verdienen/smmb-masterclass-review/': None,
     '/online-geld-verdienen/crypto-masterclass-review-allesovercrypto-patrick-suiker-derek-westra/': '/blog/review/money-mastery-review-allesovercrypto-patrick-suiker-derek-westra/',
@@ -90,6 +93,11 @@ GO_OVERRIDES = {          # affiliate targets that no longer exist (Micky, 2026-
     '/go/ledger-nano-s': 'https://partner.bol.com/click/click?p=2&t=url&s=54708&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Fs%2F%3Fsearchtext%3Dledger%2Bnano%2Bs%2Bplus&name=Ledger%20Nano%20S%20Plus',
     # the old KuCoin link had become a MEXC referral; MEXC leaves NL in 2026 and KuCoin EU is MiCA-licensed
     '/go/kucoin': 'https://www.kucoin.com/en-eu',
+    # exchanges without a MiCA licence are no longer recommended (Micky, 2026-09-20): land on the reviews
+    '/go/binance': '/blog/review/binance-review-crypto-exchange/',
+    '/go/mexc': '/blog/web3/beste-crypto-exchange/',
+    '/go/bitget': '/blog/web3/beste-crypto-exchange/',
+    '/go/sembly': 'https://www.sembly.ai/',
     # Possibol is gone (2026-09-19): both bol.com links go to Micky's Business Mine partner link (free masterclass)
     '/go/bol-com-verkopen-e-book': 'https://checkout.businessmine.co/r?id=SkAhfw5B',
     '/go/bol-com-cursus-en-coaching': 'https://checkout.businessmine.co/r?id=SkAhfw5B',
@@ -323,8 +331,8 @@ for slug, cat in articles.items():                       # old article URLs -> /
         add(f'/{cat}/{slug}/', f'/blog/{cat}/{slug}/')
 for cat in sorted(set(articles.values())):               # old category URLs
     add(f'/{cat}/', f'/blog/{cat}/'); add(f'/category/{cat}/', f'/blog/{cat}/')
-for slug, dst in DELETED_ARTICLES.items():
-    add(f'/{ "review" if slug=="jia-ruan" else "ondernemen"}/{slug}/', dst or '/')
+for slug, dst in DELETED_ARTICLES.items():                # old URL and the new-site URL of a deleted article
+    add(f'/{DELETED_CATEGORY[slug]}/{slug}/', dst or '/'); add(f'/blog/{DELETED_CATEGORY[slug]}/{slug}/', dst or '/')
 for slug, dst in KEPT_PAGES.items():
     add(f'/{slug}/', dst)
 for slug in sorted(ALL_PAGE_SLUGS - set(KEPT_PAGES)):    # retired pages

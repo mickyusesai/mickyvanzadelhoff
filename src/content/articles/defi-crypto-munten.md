@@ -208,7 +208,7 @@ De makkelijkste manier is **DeFi-munten opnemen in je portfolio** via een Nederl
 
 Wil je écht DeFi gebruiken (sparen bij Sky, lenen bij Aave, ruilen op Uniswap), dan heb je een eigen wallet nodig zoals MetaMask of Phantom, en stuur je daar munten naartoe vanaf je exchange. Begin met een klein bedrag, want elke transactie is definitief.
 
-Vroeger verwees ik voor kleine, nieuwe munten naar [MEXC](/go/mexc). Dat kan ik in 2026 niet meer doen: MEXC heeft geen Europese MiCA-vergunning, kreeg in september 2025 een waarschuwing van de AFM en stopt in het najaar van 2026 met Nederlandse klanten. Heb je daar nog munten staan, haal ze dan op tijd weg. Alternatieven met een Europese vergunning zijn KuCoin (sinds november 2025) en Bybit EU. <!-- TODO: partnerlink /go/mexc is dood voor NL: MEXC stopt najaar 2026 met Nederlandse klanten (geen MiCA-vergunning, AFM-waarschuwing sept 2025) -->
+Vroeger verwees ik voor kleine, nieuwe munten naar MEXC. Dat kan ik in 2026 niet meer doen: MEXC heeft geen Europese MiCA-vergunning, kreeg in september 2025 een waarschuwing van de AFM en stopt in het najaar van 2026 met Nederlandse klanten. Heb je daar nog munten staan, haal ze dan op tijd weg. Alternatieven met een Europese vergunning zijn KuCoin (sinds november 2025) en Bybit EU.
 
 ![Doorzichtige bouwblokken op elkaar gestapeld met munten erin, als een toren](/images/spots/defi-bouwblokken.webp "DeFi bestaat uit bouwblokken die op elkaar stapelen: stablecoin, leenmarkt, beurs, staking")
 
