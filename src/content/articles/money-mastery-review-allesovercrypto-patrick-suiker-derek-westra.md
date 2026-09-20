@@ -62,6 +62,8 @@ De training van AllesOverCrypto begon eigenlijk bij een klein boek, **de Bitcoin
 
 De Money Mastery heeft inmiddels al meer dan 5000 deelnemers, meer dan 100 uren aan lesmateriaal en tal van extra’s. Het is zowel voor **beginners en gevorderden** interessant.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Wie zijn Patrick Suiker en Derek Westra?
 
 Ik ontmoette de twee via onze boekhouder (thanks Jonathan ;)).
@@ -467,6 +469,8 @@ Verder heb je bij de Crypto Masterclass altijd **14 dagen bedenktijd**. In die t
 **[Wil je aan de slag met de Crypto Masterclass? Hier kun je het webinar volgen waarin de korting wordt gegeven.](/go/crypto-training)**
 
 [Begin met Crypto Masterclass](/go/crypto-training)
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## FAQ – Vragen rondom de Crypto Masterclass
 

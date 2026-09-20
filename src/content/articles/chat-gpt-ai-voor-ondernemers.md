@@ -123,6 +123,8 @@ Voor de meeste taken hierboven is ChatGPT (of Claude of Gemini) genoeg. Gespecia
 
 De volledige lijst, per categorie, vind je in [mijn overzicht van de beste AI tools](/blog/ondernemen/ai-tools-lijst/).
 
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+
 ## Conclusie
 
 De kansen liggen nog steeds voor het oprapen, alleen is de vraag verschoven. In 2023 was het: "wat kan dat ding?" In 2026 is het: "welke van mijn processen laat ik erdoor doen, en hoe zorg ik dat mijn team het echt gebruikt?" Begin klein, met één taak die je elke week irriteert. Als dat werkt, pak je de volgende. En wil je het in één keer goed neerzetten met je hele team, dan weet je [waar je me kunt vinden](/ai-workshops/).

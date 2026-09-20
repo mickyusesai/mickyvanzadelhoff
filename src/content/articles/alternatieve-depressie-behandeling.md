@@ -28,6 +28,8 @@ Na anderhalve maand vond ik het goed geweest. Ik voelde me nog hetzelfde en besl
 
 > “De maanden die volgden waren apart. Ik was enorm bang om terug te vallen in de meest ongelukkige periode van mijn leven. Ik besloot weer te gaan reizen, maar dan wat rustiger. Het beviel me wel maar er waren enorm veel momenten dat ik het gevoel had dat ik zo weer terug bij af kon zijn. Totdat ik mijn gedachten 180 graden omdraaide…”
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Gedachten over een behandeling van depressie
 
 Het was juist de rust die mij depressief hield. Een advies wat je in de depressie en burn-out kringen vaak zult horen is om het allemaal wat rustiger aan te doen. Ga wat minder werken, zorg voor stabiliteit etc. En hoewel dit voor sommige mensen zeker zou werken, werkt dat alleen maar als je een leven leid wat je zelf niet tof vind. Een burn-out krijg je niet van 60 uur per week werken, maar van werk doen dat je niet leuk vind. Toevallig deed ik juist iets wat ik heel tof vond en daardoor kon ik het maar niet begrijpen.
@@ -45,6 +47,8 @@ We begonnen met fietsen en dat deden we zo’n 8 uur per dag. We hebben met -6 g
 Ik ben er zelf eigenlijk nog steeds een beetje verbaasd over en vraag mij af hoe dit de oplossing kon zijn. Ik heb geen idee hoe de psychologie hier tegenaan kijkt, maar heb niet het idee dat deze oplossing alleen voor mij werkt. Minder doen van de dingen die je niet tof vind en véél meer van de dingen die je wel tof vind, tot in het extreme.
 
 We zijn terecht gekomen in een pussy maatschappij. Eentje waar je altijd comfort kunt vinden en waar mensen denken dat je ziek word als het een beetje koud is buiten. Maar juist door een grote (fysieke) uitdaging aan te gaan kon ik mezelf weer even een écht mens voelen. De natuur in en bewegen tot je erbij neervalt, dat geeft een gevoel wat waanzinnig dicht bij mijn instinct zit.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Mijn conclusie over de depressie en de nasleep ervan
 

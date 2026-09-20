@@ -185,6 +185,8 @@ Eén van de partijen die ik daarin volg is IMU (Internet Marketing Unie). Hun on
 
 Online marketing is een continu veranderende markt, dus je zult up-to-date moeten blijven op jouw specialisatie. Tegelijk blijft de basis altijd hetzelfde. Laat je niet van de wijs brengen door alle technologie die je om de oren wordt geslingerd; **logisch nadenken helpt vaak het best**.
 
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+
 ## Veelgestelde vragen
 
 ### Heb ik een opleiding nodig om online marketeer te worden?

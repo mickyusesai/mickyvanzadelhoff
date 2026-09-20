@@ -85,6 +85,8 @@ Het maakt de Bitvavo exchange juridisch betrouwbaar en veilig om te gebruiken.
 
 Let wel: de MiCA-vergunning dekt het kopen, verkopen en bewaren van crypto. **Staking, lending en de nieuwe Web3-wallet vallen buiten MiCA** en dus buiten het toezicht. Daar kom ik bij die onderdelen op terug.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Problemen Bitvavo door DCG in 2023 (en hoe dat afliep)
 
 Begin 2023 kwam Bitvavo plots **slecht in het nieuws** vanwege mogelijke liquiditeitsproblemen, als gevolg van het domino-effect dat was gecreëerd door het omvallen van FTX.
@@ -468,6 +470,8 @@ Naar mijn idee heeft Bitvavo het voor elkaar gekregen om cryptocurrency beschikb
 Conclusie van deze **Bitvavo review** is dan ook: als je wilt gaan handelen in crypto, is Bitvavo een uitstekende plek om te beginnen. Wil je de allerlaagste kosten, kijk dan ook even naar mijn [Finst review](/blog/review/finst-crypto-exchange/).
 
 [Maak jouw Bitvavo account aan](/go/bitvavo)
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## 10. FAQ Bitvavo
 

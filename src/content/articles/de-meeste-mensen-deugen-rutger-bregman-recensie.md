@@ -34,6 +34,8 @@ Interessant is ook dat er in ‘De Meeste Mensen Deugen’ veel wordt verwezen n
 
 Wanneer je het boek zelf gaat lezen zul je merken dat je in sommige situaties de hele wereldgeschiedenis kunt vertalen naar die situatie. Denk aan bureaucratische onzin en het uitlenen van geld zonder contract. Het bracht ons zelfs op het idee om eens na te denken over een nieuw concept koffiezaak. Eentje zonder prijzen, op donatie basis. Zodat het voor iedereen een plek is om te komen, arm of rijk. Zouden de meeste mensen daar deugen?
 
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+
 ## Mijn recensie over De Meeste Mensen Deugen
 
 ‘De Meeste Mensen Deugen’ is een nieuwe geschiedenis van de mensheid. Het haalt de waarheid boven tafel en was voor mij zeer makkelijk weg te lezen omdat het wordt onderbouwd met mooie verhalen. Geen moeilijk taalgebruik, maar gewoon begrijpelijk. Ik zou het boek dan ook aanraden als er interesse is in psychologie, filosofie of antropologie. Zowel de optimist als de pessimist. Het biedt een nieuwe realistische kijk op de wereld en die kun je als mens terugbrengen tot je alledaags handelen. Tot zover mijn recensie over ‘De Meeste Mensen Deugen’. Het boek zelf kun je [hier bestellen](/go/rutger-bregman-de-meeste-mensen-deugen-boek).

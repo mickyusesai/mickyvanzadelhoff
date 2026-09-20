@@ -46,6 +46,8 @@ Om te starten zal je eerst een [verkoopaccount](/go/partner-bol) aan moeten make
 
 ![Voordelen verkopen Bol.com](/images/migrated/voordelen-verkopen-bol-com-1.webp "Voordelen verkopen Bol.com")
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Voorwaarden om te verkopen via bol in 2026
 
 bol stelt enkele voorwaarden voor het verkopen via het platform. Hiermee willen ze de verwachtingen die klanten van hen hebben in stand houden. Jij als verkoper moet minstens aan het volgende voldoen:
@@ -220,6 +222,8 @@ Dit houdt in dat ik via mijn website **alle producten op bol kan promoten en com
 **Wanneer jouw product op bol verschijnt kan een blogger deze dus gaan promoten**. Handig om aan het begin jouw verkoop wat op te schroeven!
 
 [Affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/) is al direct mogelijk. Het enige wat je hoeft te doen als je dit als tool wilt gebruiken, is zelf bloggers te benaderen met de vraag of jouw product interessant is om in hun blog te vermelden, in ruil voor **commissie via bol**.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie verkopen op bol
 

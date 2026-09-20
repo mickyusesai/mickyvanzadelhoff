@@ -126,6 +126,8 @@ Ook hebben ze nog een **knowledgebase** met meer dan 40 artikelen. Hier vond ik 
 
 [Host jouw website bij Cloud86](go/cloud86)
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Domeinnaamregistratie bij Cloud86
 
 Misschien heb je al een domeinnaam, zoals ikzelf. In dat geval kan je deze verhuizen naar Cloud86. Het enige wat zij daarvoor van jou nodig hebben is een verhuiscode. Cloud86 regelt vervolgens de verhuizing.
@@ -358,6 +360,8 @@ Oké, dat over Cloud86, maar in welke mate onderscheid deze webhosting zich van 
 *   – 30-dagen garantie niet voor alle plannen
 
 ## 6 uit 8
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## 8. Conclusie Cloud86 review
 

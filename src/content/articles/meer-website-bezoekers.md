@@ -42,6 +42,8 @@ In 2026 doe ik dezelfde brainstorm in een kwartier met ChatGPT of Claude: "Dit i
 
 ![Een vergrootglas boven een stapel indexkaartjes met zoektermen](/images/spots/bezoekers-zoekwoorden.webp "Eerst honderd ideeën, dan filteren op wat er echt gezocht wordt")
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Stap 2: Kijk of er echt naar gezocht wordt
 
 Vervolgens was het tijd om te gaan filteren, om te convergeren. Ik wilde niet lukraak honderd artikelen schrijven waarvan maar een kwart zou aanslaan. Het was tijd voor een zoekwoordanalyse. Met een Google Ads-account (gratis, je hoeft geen advertentie te draaien) gebruik je de Zoekwoordplanner om te zien hoe vaak iets gezocht wordt.
@@ -137,6 +139,8 @@ Het schrijven van artikelen is voor mij een vaste bezigheid geworden in de categ
 ## Update 2023
 
 Inmiddels heb ik maandelijks 50.000 bezoekers op mijn website. Dat is iets lager dan mijn verwachte groei, maar het is efficiënte groei: ik verkoop veel meer en heb een hogere conversie op mijn producten en leadpagina's. Ook zie ik dat nieuwe artikelen veel sneller ranken. Als ik nu iets publiceer, eindig ik standaard op de eerste pagina van de zoekresultaten, zonder maandenlang te wachten.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Update 2026
 

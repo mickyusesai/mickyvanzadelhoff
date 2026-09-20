@@ -30,6 +30,8 @@ Wanneer mensen aan een webtekst beginnen, is het fijn om niet gelijk de diepte i
 
 Te vroeg details vertellen laat mensen afhaken. Op mijn verkooppagina's komen de details van wat ik verkoop dan ook pas aan het einde. De tekst begint bij waar een [workshop](/ai-workshops/) over gaat en wat die oplevert; pas aan het eind komen duur en kosten aan bod. Zo voorkom ik dat de lezer afhaakt voordat hij weet of mijn aanbod interessant voor hem is.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## 3. Goede webteksten schrijf je actief
 
 Zorg dat de lezer van je webteksten zich aangesproken voelt. Schrijf dus in de actieve vorm. Niet 'producten kunnen worden besteld op onze website', maar 'je kunt producten bestellen op onze website'.
@@ -107,6 +109,8 @@ Kortom: schrijf wat een AI niet kan opzoeken. Dat is toevallig ook precies wat e
 ## 11. Pro tip: verkoopteksten schrijven
 
 Verkoopteksten zijn net wat anders dan gewone webteksten. Ze hebben een andere opbouw: je begint met het probleem dat je voor de klant oplost, versterkt dat met de consequenties en verkoopt pas daarna je product. Voor dit artikel gaat dat te ver, maar wie online iets verkoopt, kan er niet omheen. Daarom verwijs ik je graag door naar mijn [artikel over het schrijven van verkoopteksten](/blog/ondernemen/verkooptekst-schrijven-voorbeeld/).
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie webteksten schrijven
 

@@ -55,6 +55,8 @@ Ook heeft Binance een eigen cryptomunt, namelijk de **Binance Coin (BNB)** en zi
 
 ![Binance coin](/images/migrated/binance-coin-1.webp "binance-coin (1)")
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Waarom kiezen crypto traders voor Binance?
 
 Er zijn genoeg redenen om te kiezen voor Binance. Persoonlijk kies ik voor Binance om crypto te traden die niet op [Bitvavo](/blog/review/bitvavo-review-crypto/) beschikbaar zijn en om te kunnen **handelen met leverage (wanneer ik in het buitenland ben)**.
@@ -626,6 +628,8 @@ Andere redenen waarom mensen Binance wel en niet gebruiken vind je hieronder.
     
 
 [Maak nu een binance account](/go/binance)
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## 9. Binance FAQ
 **

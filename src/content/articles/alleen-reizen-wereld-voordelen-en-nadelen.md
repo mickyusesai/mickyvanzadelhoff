@@ -32,6 +32,8 @@ Zo heb je snel je reisvrienden gemaakt. Een nadeel aan reisvrienden is vaak wel 
 
 Naar mate ik meer ben gaan reizen werd het voor mij makkelijker om direct de diepte in te gaan. Een gesprek mag dan wel beginnen met hoe iemand heet en waar die vandaan komt, je kunt gelijk doorvragen naar iets wat je interessant vindt. Voor je het weet zit je te bediscussiëren hoe het macro politieke klimaat veranderd.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Gaan en staan waar je wil
 
 Iedere dag is precies zoals jij het wilt. Wanneer je alleen reist is er niemand anders die beslist wat jij gaat doen dan jijzelf. Je kunt dus precies doen waar jij gelukkig van wordt. Je hoeft namelijk geen rekening te houden met anderen en dit voelt vaak heerlijk bevrijdend.
@@ -51,6 +53,8 @@ Vaak hoor je dat als mensen na een langere tijd alleen reizen terug komen in hun
 Dat gevoel is soms wat pijnlijk. Alles wat je hebt gedaan was namelijk puur voor jezelf en je kunt het met niemand delen. De foto’s gaan nooit het gevoel beschrijven wat daarachter zit. Daarom zeg ik ook altijd dat reizen echt iets is dat je voor jezelf moet doen, anders gaat het enorm tegenvallen.
 
 Wat uiteraard helpt is als je je reisverhalen met iemand kan bespreken die ook veel reist. Dan zijn er al snel ervaringen die overeenkomen qua gevoel. Je kunt elkaar dan beter begrijpen.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Kosten van alleen reizen
 

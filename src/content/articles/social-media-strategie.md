@@ -28,6 +28,8 @@ Veel bedrijven voor wie ik werk gaan gelijk all-in wanneer ze praten over social
 
 De conclusie is dat je (zeker als klein bedrijf) nooit de tijd hebt om alles te doen. Je zult dus keuzes moeten maken in je social media strategie. Welke media zijn écht belangrijk? Het is zeker **niet** hoe meer hoe beter. Het gaat uiteindelijk om de invulling. Wanneer er bijvoorbeeld een grote overlap is van jouw doelgroep op Facebook én Instagram, kies dan voor één van de twee en bouw daaraan. Kies niet voor beide, want je zult niet de eerste zijn van wie de social media strategie verwatert.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Kies een medium uit waar jouw doelgroep actief is
 
 Nu is het belangrijk om eerst te kiezen welke social media je wilt gebruiken. Ieder platform heeft bovendien meerdere lagen. Wat er in 2026 toe doet, here we go:
@@ -135,6 +137,8 @@ Oké, je hebt het soort content bedacht en wilt daar iets mee. Maar houd heel go
 ## Evalueer jouw social media strategie en pas aan
 
 Stel iemand in het bedrijf aan om de social media strategie te bewaken. Zo weet je zeker dat er geen grote gaten vallen en je social media geen puinhoop worden. Evalueer vervolgens maandelijks wat er is gebeurd. Kijk of er veel interactie was met de volgers (potentiële klanten) en hoe de berichten hebben gepresteerd. Social media geeft al deze data, zonde dus om die niet te gebruiken. Kijk verder dan likes: reacties, opgeslagen posts en vooral kliks naar je website of berichtjes in je inbox zeggen meer over klanten dan bereik. Herhaal wat beter presteert in de volgende contentplanning en laat de rest weg.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie social media strategie
 

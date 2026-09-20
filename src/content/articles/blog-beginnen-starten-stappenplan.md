@@ -78,6 +78,8 @@ Belangrijk om rekening mee te houden wanneer je zoekt naar een goed blogonderwer
 
 Dit komt doordat op sommige thema's meer wordt gezocht dan op andere en sommige meer samenhangen met dure producten of diensten. Daarover vind je meer in mijn artikel over [geld verdienen met bloggen](/blog/online-geld-verdienen/bloggen/). Hier gaan we verder met de naam van jouw blog.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Stap 2: Jouw blog begint bij een goede naam
 
 Als je een onderwerp of blogniche hebt gekozen, is het belangrijk om **een naam te bedenken**. Het liefst een pakkende naam die duidelijk maakt waar jouw blog over gaat. Maak het liever niet te vaag en niet te lang, je wilt immers dat mensen de naam kunnen onthouden en je nog eens kunnen opzoeken.
@@ -293,6 +295,8 @@ Eigenlijk is het nog te vroeg om het hierover te hebben, maar we kunnen het alva
 *   Eigen product of dienst verkopen
 
 Mijn ervaring: advertenties leveren per bezoeker weinig op, en met minder klikken vanuit Google wordt dat niet beter. Affiliate links en vooral je eigen product of dienst maken het verschil; mijn blog leidde uiteindelijk tot een boek, trainingen en de [AI-workshops](/ai-workshops/) die ik nu geef. Meer daarover in mijn artikel over [geld verdienen met bloggen](/blog/online-geld-verdienen/bloggen/).
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie blog beginnen
 

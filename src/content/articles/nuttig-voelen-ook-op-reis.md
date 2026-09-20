@@ -30,6 +30,8 @@ Het zijn dingen die stuk voor stuk **bijdragen aan het leven van een ander**. Da
 
 ![uitzicht vanaf een berg in de buurt van Skopje](data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%20viewBox%3D%270%200%20800%20450%27%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E "zingeving-op-reis (1)")
 
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+
 ## Egoïsme maakt ongelukkig
 
 Kortom; egoïsme maakt ongelukkig. Geven en delen geeft je daarin tegen geluk. _**Hoe nuttig voel jij je?**_

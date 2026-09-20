@@ -32,6 +32,8 @@ Toen ik uit Thailand terug kwam zat dit gevoel een paar weken in me. Ik dacht da
 
 Mijn zusje had tevens ook geen idee wat ze daar nou mee moest, die situatie. Zonder het doel te hebben behaald om de training te filmen vloog ik eerder dan gepland terug naar Nederland. Ik was tot de conclusie gekomen dat iets écht fout was. Ik was niet meer mezelf. Ik moest wat doen. Ik wilde koste wat het kost herstellen van dit gevoel en vertrok daarom richting Frankrijk **om me terug te trekken** in het in de natuur gelegen huis van mijn ouders.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Maanden gingen voorbij zonder duidelijke uitkomst
 
 Maanden gingen voorbij in Frankrijk, en hoewel het me heel erg aan het denken zetten, al die tijd die ik daar had, bracht het me nog niet de oplossing. Ik wist namelijk niet waar mijn ongeluk vandaan kwam. Dus zocht ik naar oorzaken als een vitamine tekort, overmatig alcohol gebruik en nog duizend andere redenen.
@@ -51,6 +53,8 @@ Maandenlang heb ik het gevoel gehad, dat hoe ik mij voelde zo erg was, dat nooit
 Maar waarom hebben we dat hiervoor dan nooit met elkaar gedeeld? Is dat niet juist de oplossing. Elkaars problemen delen in plaats van goed weer spelen. Kunnen we op dat vlak niet de taboe doorbreken en open en eerlijk zijn over hoe ‘kut’ we ons voelen in plaats van alleen te koop lopen met ‘mooie verhalen’? Het zou de mens zoveel goed doen.
 
 Ik voelde me in Nederland dan ook direct begrepen toen ik mijn problemen deelde. Ik kwam erachter dat ik hier zeker niet alleen in stond en dat had een grote waarde.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Wat ik heb geleerd en leer van mijn depressie
 

@@ -76,7 +76,7 @@ Is jouw score laag of zelfs **0**, dan is het niet gek dat er weinig mensen op j
 
 Om je domeinautoriteit te verhogen, moet je **links naar je blog** verzamelen. Dat kan door andere bloggers om een link te vragen, door gastartikelen te schrijven of, het beste, door zulke goede artikelen te maken dat mensen uit zichzelf naar je linken.
 
-Zelf vind ik dit het stomste deel van het hele bloggen, maar ook ik kwam er niet onderuit. Een paar jaar geleden kocht ik daarom links via [een Nederlandse aanbieder op Fiverr](/go/fiverr-backlinks) die een flink aantal websites beheert. Mijn Domain Rating schoot daarna omhoog van 23 naar 46.
+Zelf vind ik dit het stomste deel van het hele bloggen, maar ook ik kwam er niet onderuit. Een paar jaar geleden kocht ik daarom links bij een Nederlandse aanbieder die een flink aantal websites beheert. Mijn Domain Rating schoot daarna omhoog van 23 naar 46.
 
 Wel een eerlijke waarschuwing die ik destijds niet gaf: **gekochte links zijn tegen de regels van Google**, tenzij ze een `rel="sponsored"` of `rel="nofollow"` label dragen, en met dat label tellen ze niet mee voor je autoriteit. Google werkt sinds 2024 ook algoritmisch tegen sites die hun autoriteit met betaalde content opkrikken. Het werkte voor mij, maar het is een risico, en in 2026 een groter risico dan toen. Steek je tijd liever in artikelen waar mensen vanzelf naar linken.
 
@@ -177,7 +177,7 @@ Raad je in je blog een online cursus van €99 aan met 40% commissie (normaal bi
 
 Er zijn tal van valkuilen. Het is niet voor niets dat de één er een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/) uithaalt terwijl de ander blijft steken op enkele tientjes per maand. Wil je geld verdienen met affiliate marketing, verdiep je er dan in. Alles wat ik erover weet staat in mijn artikel over [geld verdienen met affiliate marketing](/blog/online-geld-verdienen/geld-verdienen-met-affiliate-marketing/).
 
-Op het hoogtepunt van mijn blog, in 2023, verdiende ik zo'n **€3.000 per maand met alleen affiliate marketing**. De reden waarom ik er zo'n fan van ben: ook als ik even niet werkte, bleef het binnenkomen. Hieronder een overzicht van mijn affiliate inkomsten uit één maand van dat jaar.
+Ook in 2026 verdien ik gemiddeld zo'n **€3.000 per maand met alleen affiliate marketing**. De reden waarom ik er zo'n fan van ben: ook als ik even niet werkte, bleef het binnenkomen. Hieronder een overzicht van mijn affiliate inkomsten uit één maand.
 
 ![Affiliate marketing resultaten](/images/migrated/affiliate-marketing-revolutie-resultaten.webp "Mijn affiliate inkomsten uit één maand (screenshot uit 2023 of eerder)")
 
@@ -254,6 +254,8 @@ Ja, Google verbiedt AI-content niet. Wat wél wordt afgestraft is massaal gegene
 ### Hoe lang duurt het voordat een blog geld oplevert?
 
 Bij mij duurde het ruim een jaar en 95 artikelen voordat de bezoekers en de inkomsten serieus werden. Reken op minimaal een jaar consequent schrijven, ook in 2026.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Word succesvol met jouw eigen blog
 

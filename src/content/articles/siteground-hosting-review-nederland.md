@@ -40,6 +40,8 @@ De lijst met mogelijkheden voor Siteground hosting is bijzonder uitgebreid:
 
 Onbeperkt verkeer staat je toe om een onbeperkt aantal websitebezoekers te hebben. Niet in exact dezelfde seconde overigens… Maar dit is iets van Siteground wat zeker niet bij iedere hosting te vinden is; zij hebben wel beperkingen in dataverkeer.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Onbeperkt aantal websites
 
 Met het basic plan van Siteground (StartUp) ben je in staat om één website te managen. Wanneer je gaat voor een uitgebreider plan zoals GrowBig kun je een onbeperkt aantal websites aanmaken. Dat is handig voor wanneer je bijvoorbeeld een blog en een webshop vanuit hetzelfde account wilt beheren.
@@ -237,6 +239,8 @@ Met alle voordelen die in dit artikel al voorbij zijn gekomen weet je er waarsch
 **›** Beperkte SSD opslag, zelfs in het grootste pakket
 
 **›** Geen Nederlandstalige klantenservice
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## 6. Conclusie Siteground review
 

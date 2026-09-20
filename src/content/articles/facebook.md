@@ -90,7 +90,7 @@ Het is vaak gebeurd dat iemand contact met mij opnam die als uit de hand gelopen
 
 Daar zijn meerdere antwoorden op, maar één idee dat het proberen waard is: een eigen webshop. Niet superingewikkeld, maar op een eenvoudige manier. Zo kun je [met Shopify een webshop maken](/go/shopify) waar je direct producten van anderen verkoopt, of met **print-on-demand** t-shirts, mokken en sokken laat bedrukken met een slogan die aansluit bij je groep. Je hebt geen voorraad nodig en de bestelling wordt pas gedrukt als iemand hem plaatst.
 
-Het mooiste van dit alles: de opstartkosten zijn laag. Shopify kost in 2026 rond de €25 per maand bij jaarbetaling (€33 bij maandbetaling) en je kunt het drie dagen gratis proberen, daarna drie maanden voor 1 dollar per maand. Binnen een middag staat je webshop online en kun je hem in je groep promoten. Zo heb je eenvoudig [je eigen business gestart](/blog/ondernemen/eigen-bedrijf-starten/).
+Het mooiste van dit alles: de opstartkosten zijn laag. Shopify kost in 2026 €21 per maand en je kunt het drie dagen gratis proberen, daarna drie maanden voor 1 dollar per maand. Binnen een middag staat je webshop online en kun je hem in je groep promoten. Zo heb je eenvoudig [je eigen business gestart](/blog/ondernemen/eigen-bedrijf-starten/).
 
 [Maak een webshop met Shopify](/go/shopify)
 
@@ -183,6 +183,8 @@ Veel mensen lukt het niet om succesvol geld te verdienen met Facebook. Dat komt 
 Zoals ik eerder zei, worden posts op een pagina steeds minder breed getoond. Omdat je daar zelf niets aan kunt doen, is het slim om je volgers ook buiten Facebook te kunnen bereiken. Denk aan [het opbouwen van een mailinglijst](/blog/ondernemen/leads-genereren-mailinglijst/) met een programma als [Enormail](/go/enormail) (Nederlands, vanaf €15 per maand voor 2.500 contacten, 30 dagen gratis te proberen).
 
 Om een voorbeeld te noemen: geef je volgers in ruil voor hun e-mailadres een kleinigheidje, zoals [een eigen e-book](/blog/online-geld-verdienen/e-book/). Zo kun je hen voortaan mailen en alsnog bereiken. Je koppelt jezelf los van het algoritme en kunt met een gerust hart bouwen aan je verdienmodellen.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Veelgestelde vragen over geld verdienen met Facebook
 

@@ -32,6 +32,8 @@ In deze week komen allemaal mensen uit verschillende nationaliteiten samen, veel
 
 Zelf ben ik naar trainingen geweest op het gebied van **integratie, [digital nomads](/blog/digitalenomaden/digital-nomad-worden/), mobiliteit, muziek affectie, [online ondernemen](/blog/digitalenomaden/digital-nomad-banen/), non-formeel leren en klimaat**. De onderwerpen verschillen dus erg van elkaar en er is voor iedereen wel iets interessants om zich in te verdiepen.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Erasmus Plus trainingen zijn maatschappelijk georiënteerd
 
 De onderwerpen van de internationale Erasmus Plus trainingen zijn in bijna alle gevallen **maatschappelijk gericht**, zodat jij met de ervaringen vanuit een trainingsweek iets terug kan doen voor de maatschappij. Zo krijgt jouw deelname aan een trainingsweek een **positief effect op de maatschappij** in indirecte zin.
@@ -75,6 +77,8 @@ De makkelijkste manier om een van de trainingen van Erasmus Plus bij te wonen is
 Uiteraard kun je ook zonder kennissen deelnemen. Je kunt dan op zoek naar een Erasmus Plus training in de [trainingskalender van Salto Youth](https://www.salto-youth.net/tools/european-training-calendar/). Vergeet dan niet om bij je aanmelding voor een training een **goede motivatie** te schrijven.
 
 > Toen ik zelf meedeed aan een Erasmus Plus training over muziek affectie in Malaga waren er 400 inschrijvingen terwijl er maar 25 plekken waren. Een goede motivatie om deel te nemen maakt dan het verschil.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie trainingsweken
 

@@ -36,6 +36,8 @@ Internationaal is de affiliatemarkt al helemaal overgelopen, maar in Nederland v
 
 Precies tellen heeft weinig zin, want programma's komen en gaan. Om je een idee te geven: TradeTracker alleen al heeft in Nederland meer dan 2.000 adverteerders en Daisycon telt wereldwijd ruim 3.000. Je kunt je voorstellen dat je je nooit overal op wilt aanmelden. Daarom spit ik hieronder de grootste en meest winstgevende voor je uit.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Regels waar je in 2026 niet omheen kunt
 
 Twee dingen die ik in mijn eerste versie van dit artikel nog niet hoefde te schrijven.
@@ -203,6 +205,8 @@ Als publisher denk ik dat **de slimste keuze** vaak is om te kijken of een produ
 Op die eerste manier zorg je ervoor dat je verwijzing naar een product natuurlijk overkomt en je ook écht achter de dienst of het product staat.
 
 > Als je wilt weten of jouw favoriete merk een affiliate programma heeft, hoef je vaak niet meer te doen dan '**MERK + affiliate**' in te typen op Google.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie affiliate programma's Nederland
 

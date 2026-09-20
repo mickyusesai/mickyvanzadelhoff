@@ -79,6 +79,8 @@ Waar de meeste tools nog in tekortschieten: **tekst in beeld**, handen, dezelfde
 
 De serieuze aanbieders voorzien AI-video's van **C2PA-metadata en vaak een watermerk**, zodat te achterhalen is dat een video door AI is gemaakt. Zet geen echte mensen in een video zonder hun toestemming. Voor bedrijven geldt daarbovenop: vermeld het als beelden AI-gegenereerd zijn, zeker in advertenties. De Europese AI-verordening vraagt daar transparantie over.
 
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+
 ## Conclusie
 
 Sora liet in 2024 zien wat er kon en verdween in 2026 omdat het niemand genoeg opleverde. Wat blijft, is de techniek: AI-video is in 2026 gewoon beschikbaar, via Google, Kling, Runway en anderen, en vaak beter dan Sora ooit was. Probeer het uit met een concrete prompt en een eigen foto als startpunt, dan zie je binnen een uur wat het voor jouw bedrijf kan betekenen.

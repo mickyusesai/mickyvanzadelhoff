@@ -47,6 +47,8 @@ Andere AI-schrijftools die je tegenkomt: Jasper, Copy.ai, Writesonic, Rytr en Fr
 
 ![AI copywriting tools](/images/migrated/AI-copywriting-tools-2023-1.webp "AI copywriting tools")
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Voordelen en nadelen van Copymatic
 
 ### Voordelen
@@ -95,6 +97,8 @@ Copymatic is zeker niet de duurste AI-tool voor copywriting. Je betaalt voor een
 Ter vergelijking: bij Jasper betaal je voor hetzelfde aantal woorden een stuk meer, en een ChatGPT- of Claude-abonnement kost ongeveer twintig euro per maand zonder woordlimiet, maar zonder templates en WordPress-plugin.
 
 [Gratis beginnen met Copymatic](/go/copymatic)
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie Copymatic review
 

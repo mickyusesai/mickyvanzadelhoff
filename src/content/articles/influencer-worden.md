@@ -40,6 +40,8 @@ Kijk maar naar de top van de Influencer100 van 2026, de jaarlijkse ranglijst van
 
 Als influencer is het verstandig je te richten op een specifieke doelgroep. Zij voelen zich meer aangesproken wanneer je daar specifiek content voor maakt. Kies dus een niche die bij je past ([hier vind je er 101](/blog/ondernemen/blog-niches/)) en ga aan de slag met de volgende stap.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Het kiezen en inrichten van je platform
 
 De volgende stap is het inrichten van je social media. Allereerst kies je op welk platform je aan de slag wilt. Dit is hoeveel Nederlanders van 15 jaar en ouder de grote platforms in 2026 gebruiken (Newcom, Nationale Social Media Onderzoek 2026), en wat elk platform je zelf betaalt, gecontroleerd op 19 september 2026:
@@ -179,6 +181,8 @@ Dit hoofdstuk stond er in 2019 niet in en is nu misschien het belangrijkste.
 <li class="timeline__item"><span class="timeline__num">5</span><p class="timeline__year">2024 – 2025</p><p class="timeline__title">Platforms gaan zelf betalen</p><p class="timeline__text">Facebook en Instagram rollen abonnementen, Stars en gifts breed uit; de grens voor toezicht zakt in juni 2025 naar 100.000 volgers.</p></li>
 <li class="timeline__item timeline__item--now"><span class="timeline__num">6</span><p class="timeline__year">2026 – nu</p><p class="timeline__title">Een markt van 32 miljard, met regels</p><p class="timeline__text">De vernieuwde reclamecode geldt vanaf 1 juli 2026 voor iedereen, van nano-influencer tot AI-avatar. Minder wilde westen, meer vak.</p></li>
 </ol>
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie influencer worden
 

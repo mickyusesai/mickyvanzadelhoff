@@ -41,6 +41,8 @@ Het is letterlijk zo simpel als dat. De producten volgen later.
 <li class="timeline__item timeline__item--now"><span class="timeline__num">6</span><p class="timeline__year">2026 – nu</p><p class="timeline__title">Wero en mobiel eerst</p><p class="timeline__text">iDEAL gaat stapsgewijs over in het Europese Wero, 41% van de aankopen gebeurt op de telefoon en het aantal webshops stabiliseert. Winnen doe je met onderscheid, niet met prijs.</p></li>
 </ol>
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Stap 1: Kies je webshopplatform
 
 Allereerst de grootste fout die veel mensen maken bij het starten van een webshop: **ze kiezen het verkeerde platform**. Er wordt online enorm veel aangeboden en een verkeerde keuze is snel gemaakt.
@@ -51,7 +53,7 @@ Grofweg zijn er twee smaken. De eerste is **volledig gehoste webshopsoftware**: 
 |---|---|---|
 | [JouwWeb](/go/jouwweb) Pro | € 10 – € 12, maximaal 10 producten | Wie klein begint met een paar producten en niets wil instellen |
 | [JouwWeb](/go/jouwweb) Business | € 20 – € 24, onbeperkt producten | Nederlandse starter die alles op één plek wil, inclusief boekhoudkoppeling |
-| [Shopify](/go/shopify) Basic | ± € 36 (± € 28 bij jaarbetaling) plus betaalkosten | Wie snel wil groeien, veel apps wil en niet naar techniek wil omkijken |
+| [Shopify](/go/shopify) Basic | € 21 per maand plus betaalkosten | Wie snel wil groeien, veel apps wil en niet naar techniek wil omkijken |
 | WordPress + WooCommerce | Software gratis; hosting vanaf een paar euro per maand in het eerste jaar, daarna meer | Wie de laagste vaste lasten wil en bereid is zelf te beheren |
 
 De gehoste platforms lijken de simpelste manier om direct te verkopen, en dat zijn ze ook. In Nederland kiest inmiddels meer dan de helft van de nieuwe webshops voor Shopify. Het nadeel: je begint met **vaste lasten en betaalkosten bovenop je abonnement**. Kies je bij Shopify niet voor hun eigen betaaldienst maar bijvoorbeeld voor Mollie, dan rekent Shopify op het Basic-plan 2% extra over elke verkoop.
@@ -204,11 +206,13 @@ Een webshop is snel gebouwd; winst maken is het echte werk. Vul je eigen cijfers
 })();
 </script>
 
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+
 ## Veelgestelde vragen
 
 ### Wat kost een webshop beginnen in 2026?
 
-Met WordPress en WooCommerce betaal je alleen hosting en een domeinnaam: een paar euro per maand in het eerste jaar, daarna meer. Bij JouwWeb of Shopify betaal je 10 tot 36 euro per maand plus betaalkosten van zo'n 30 cent per iDEAL-betaling.
+Met WordPress en WooCommerce betaal je alleen hosting en een domeinnaam: een paar euro per maand in het eerste jaar, daarna meer. Bij JouwWeb of Shopify betaal je 10 tot 21 euro per maand plus betaalkosten van zo'n 30 cent per iDEAL-betaling.
 
 ### Moet ik me inschrijven bij KVK voor een webshop?
 

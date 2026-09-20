@@ -101,12 +101,17 @@ header button says "Stuur een WhatsApp".
 - Category pages: `/blog/[category]/`
 - Categories from old site: ondernemen, digitalenomaden, online-geld-verdienen, web3, tips, review
 - Affiliate links: `/go/[slug]` (relative), resolved through `src/data/redirects.json`, which is
-  generated from `src/data/wordpress-redirects.csv` by `scripts/cleanup-content.py`.
+  generated from `src/data/wordpress-redirects.csv` by `scripts/cleanup-content.py`. New affiliate links go in
+  `NEW_GO_LINKS` there (`/go/revolut`); every `/go/fiverr-*` lands on the Fiverr homepage (`FIVERR_HOME`).
 - Old URLs of every kind (articles, categories, pages, uploads, legacy redirects) are answered by
   `redirects` in `astro.config.mjs`, fed by the same JSON. Do not hand-edit the JSON; edit the script.
 - Article markup conventions after `scripts/fix-article-markup.py`: body headings start at H2, no bold
   inside headings, in-article promo boxes are `<aside class="cta-box cta-box--book|--workshop not-prose">`,
-  YouTube embeds are `<div class="video not-prose"><iframe …></div>`. Markdown tables are wrapped in
+  YouTube embeds are `<div class="video not-prose"><iframe …></div>`. Promo boxes: every business article
+  (ondernemen, online-geld-verdienen, review, tips) carries a `cta-box--workshop` after its second H2 section and a
+  `cta-box--automatisering` (dark, `/intake/`) before its last H2, inserted once by the session script (2026-09-20);
+  keep them when refreshing. The same categories show `src/components/PromoPopup.astro`, a small fixed card (never
+  full-screen) after 40% scroll or 30 s, once per session, quiet for 14 days after a close. Markdown tables are wrapped in
   `<div class="table-wrap">` at build time (`src/lib/rehype-table-wrap.mjs`) so they scroll on phones.
   Raw HTML plus inline `<script>` is allowed in an article for live widgets; the crypto guide has three
   patterns with CSS in `global.css`: `.live-stats` (CoinGecko figures fetched client-side, with

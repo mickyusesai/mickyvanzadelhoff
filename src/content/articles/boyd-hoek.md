@@ -60,6 +60,8 @@ _Later ben ik in contact gekomen met een aantal van de marketingklanten van Boyd
 
 **[Wil jij zelf beginnen met het opzetten van een Social Media Marketing Bureau om op die manier veel online geld te verdienen? Volg dan dit webinar en kijk of het iets voor jou is.](/go/smmb-masterclass)**
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Waarom je met een SMMB duizenden euro’s per maand kunt verdienen
 
 De grote vraag voor mij aan het begin was hoe het kan dat **Boyd Hoek tienduizenden euro’s verdient** met zijn eigen Social Media Marketing Bureau. Het antwoord daarop is mij inmiddels duidelijk geworden na het volgen van zijn SMMB Masterclass. Het verdienmodel van Boyd Hoek is om Facebook en Instagram advertenties op te zetten voor bedrijven. Deze advertenties leveren veel nieuwe klanten op voor de bedrijven die Boyd Hoek helpt, maand na maand. Omdat die advertenties lang doorlopen kan Boyd Hoek daar steeds weer opnieuw geld mee verdienen.
@@ -96,6 +98,8 @@ In totaal bestaat de SMMB Masterclass uit zo’n 36 lessen (in 2021). Sommigen m
 ![Smmb masterclass boyd hoek interface](/images/migrated/smmb-masterclass-boyd-hoek-interface.webp "smmb-masterclass-boyd-hoek-interface")
 
 **[Wil je zelf de cursus aanschaffen? Dan kan dat via deze speciale kortingspagina.](/go/smmb-masterclass) Al raad ik je persoonlijk wel aan om eerst [het webinar van Boyd Hoek te volgen](/go/smmb-masterclass). Zo weet je zeker dat zijn verdienmodel iets voor jou is.**
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie over Boyd Hoek en zijn SMMB Masterclass
 

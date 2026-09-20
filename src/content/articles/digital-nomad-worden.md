@@ -347,7 +347,7 @@ Het ding is alleen, het is er enorm duur. Als digital nomad ben je hier net zo d
 
 Voor wie niet in zijn eentje op reis wilt, of wie gewoon andere digital nomads en online ondernemers wil ontmoeten, zijn er ook [georganiseerde workations](/blog/ondernemen/workations-ondernemersreizen/).
 
-Vaak zijn dit weken in het buitenland met enkele workshops waarmee je je skills kan verdiepen. Erg leuk! Zelf organiseren wij jaarlijks één workation in een kasteel in Italië voor startende online ondernemers. Je vind [hier](/blog/ondernemen/workations-ondernemersreizen/) alle info.
+Vaak zijn dit weken in het buitenland met enkele workshops waarmee je je skills kan verdiepen. Erg leuk!
 
 ### Andere digital nomad bestemmingen
 

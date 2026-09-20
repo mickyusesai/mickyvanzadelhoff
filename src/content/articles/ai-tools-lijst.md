@@ -448,6 +448,8 @@ Sinds de vorige versie zijn een paar tools verdwenen of ingehaald. **LongShot**,
 
 Alle tools in deze lijst heb ik in september 2026 gecontroleerd op bestaan en aanbod. Prijzen veranderen snel; check ze op de site van de tool.
 
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+
 ## Conclusie: welke AI tools heb je in 2026 echt nodig?
 
 Minder dan je denkt. Begin met **één goede chatbot** (ChatGPT, Claude of Gemini) en gebruik die een maand voor alles: schrijven, samenvatten, analyseren, brainstormen. Pak daarna **één tool per knelpunt** erbij: een videotool als je veel video maakt, een notuleertool als je veel vergadert, een automatiseringstool als je steeds hetzelfde doet.

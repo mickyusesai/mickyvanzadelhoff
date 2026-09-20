@@ -80,6 +80,8 @@ Ook fijn is dat ze **niet alleen iDEAL accepteren**. Dat is de meest gebruikte b
 
 Nieuwere mogelijkheden zijn de **1-click-upsell** en de **orderbump** op je betaalpagina (het digitale equivalent van een kassakoopje) en klanten laten **betalen in termijnen** of met een abonnement.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Affiliate marketing in het kort
 
 Voordat ik naar de twee andere manieren ga waarop ik PayPro gebruikte, eerst nog even **een introductie in affiliate marketing**.
@@ -186,6 +188,8 @@ In 2019 was PayPro zo'n beetje de enige Nederlandse partij waar je zonder gedoe 
 | Sellfy | Vanaf $22 (jaarlijks) | 0%, plus PayPal of Stripe | Nee | Eigen shop op je website, geen affiliates nodig |
 
 Let bij de buitenlandse partijen op iDEAL: die loopt via Stripe of PayPal en is niet altijd beschikbaar. Voor een Nederlands publiek blijft dat het grootste argument voor PayPro of Plug&Pay.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie PayPro
 

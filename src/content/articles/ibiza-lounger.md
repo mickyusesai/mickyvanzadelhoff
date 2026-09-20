@@ -38,6 +38,8 @@ Ik kwam in contact met een van de leveranciers uit China. Mijn contactpersoon he
 
 En vanaf nu zou ik een soort ‘warning’ moeten geven. Doe dit thuis niet na. Ik besef me dat ik met mijn naïviteit de nodige problemen op mijn hals heb gehaald. Ik wist namelijk helemaal niets van import af. Alles wat ik met Sophia in die tussentijd besprak moest ik navragen bij een bekende van me die werkte in de logistiek. Denk aan dingen als HS-code, custom duty, T/T, PI, forwarder in China, consignee information, lading of bill en ETD. Ik begreep niets van geen enkele term. Ik dacht eigenlijk dat import gewoon net zo makkelijk was als één product bestellen vanuit China. Maar niets bleek minder waar.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Letterlijk alles ging mis met de Ibiza Lounger
 
 Mijn enthousiasme zakte als een kaartenhuis in elkaar toen ik erachter kwam wat ik allemaal nog niet wist. Om te beginnen bij het begin, ik kon ze dus helemaal niet naar Ibiza laten verzenden. Verzending naar Ibiza vereist een business registratie in Spanje en die had ik niet. Een afhaaldepot was ook geen optie. Ik moest de Ibiza Loungers dus eerst naar Nederland laten komen en ze dan zelf naar Ibiza overbrengen. Maar omdat het om een vracht gaat van zo’n 170 kilo was dit niet zomaar even geregeld. Ik had daarom met Ryan Air gebeld om te vragen of ik de Ibiza Loungers in het ruim mee kon nemen. Dat was geen probleem maar dat zou wel weer driehonderd euro aan extra kosten met zich meebrengen. Een voorwaarde was daarbij dat ik twee andere mensen mee moest nemen vanwege de maximaal toegestane bagage per persoon. Maar dat was misschien ook wel handig, in mijn eentje verkopen leek me namelijk helemaal niet leuk.
@@ -106,6 +108,8 @@ Verder ontmoetten we die dag Jack. Hij was een ondernemer op Ibiza en bezat enke
 We spraken die dag ook met Thomas, een hippie. Hij leefde op Ibiza. Het was een beetje een vrije vogel. Hij legde ons uit waarom Ibiza voor zoveel hippies een goede plek is. Dit kwam volgens hem doordat de ‘law of attraction’ hier heel direct werkt. Of in andere woorden, dat het eiland heel snel reageert op jouw verlangens en gevoelens. Volgens Thomas was dit doordat het een eiland is, relatief ver van de stedelijke energieën. Ik bewonderde zijn denkwijze en sloot mij erbij aan.
 
 ![Ibiza lounger zee water bob](/images/migrated/ibiza-lounger-zee-water-bob.webp "ibiza-lounger-zee-water-bob")
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## De les die ik hieruit heb gehaald
 

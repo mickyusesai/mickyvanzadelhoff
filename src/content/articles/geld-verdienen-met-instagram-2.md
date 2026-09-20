@@ -60,6 +60,8 @@ Wanneer je op zoek bent naar ideeën voor niches, dan vind je hieronder wat voor
 
 Het afbakenen van je doelgroep helpt je uiteindelijk om goed betalende adverteerders te vinden. Met een specifieke doelgroep is je account meer waard voor de adverteerder, en verdien je met minder volgers meer geld. Engagement, daar gaat het om. Ook als je aan de slag gaat met een eigen product is zo'n verfijnde doelgroep van enorme toegevoegde waarde.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Stap 2: Jouw content en uitstraling
 
 Om je account interessant te maken, bind je er een thema aan. Maak je natuurfoto's, fotografeer je cultuur of doe je iets anders specifieks? Kijk hoe je je account een duidelijke look geeft: dezelfde kleuren, dezelfde soort filter, een herkenbare stijl van teksten in beeld. Zo weten mensen die je account tegenkomen wat ze van je kunnen verwachten, en is de kans groter dat ze volger worden.
@@ -115,7 +117,7 @@ Als jij kennis bezit die anderen verder helpt, is een online kennisproduct een g
 
 ![Een telefoon waaruit een klein pakketje met strik tevoorschijn komt, naast een boodschappentas](/images/spots/insta-shop.webp "Productlabels in je posts en Reels sturen kopers direct naar je eigen webshop")
 
-Om producten te verkopen kun je eenvoudig een eigen webshop starten. Je hebt daarvoor geen codekennis nodig en in veel gevallen zelfs geen eigen voorraad. Dit zet je [op via Shopify](/go/shopify): met print-on-demand laat je bijvoorbeeld shirts met jouw logo drukken zodra ze worden besteld, en de verzending gaat automatisch. Shopify kost in 2026 rond de €25 per maand bij jaarbetaling en je probeert het drie dagen gratis, daarna drie maanden voor 1 dollar per maand.
+Om producten te verkopen kun je eenvoudig een eigen webshop starten. Je hebt daarvoor geen codekennis nodig en in veel gevallen zelfs geen eigen voorraad. Dit zet je [op via Shopify](/go/shopify): met print-on-demand laat je bijvoorbeeld shirts met jouw logo drukken zodra ze worden besteld, en de verzending gaat automatisch. Shopify kost in 2026 €21 per maand en je probeert het drie dagen gratis, daarna drie maanden voor 1 dollar per maand.
 
 [Begin direct jouw eigen webshop](/go/shopify)
 
@@ -229,6 +231,8 @@ Instagram verandert constant. Sommige functies komen en gaan, andere blijven. Di
 *   **Statistieken in de app.** Je ziet zelf wie je volgers zijn, wanneer ze online zijn en welke posts bij niet-volgers terechtkomen. Neem die cijfers mee in je gesprek met merken.
 
 De mogelijkheden van Instagram, en van social media in de brede zin, zijn enorm. Daarom een tip: kijk uit dat je niet op te veel paarden tegelijk wedt. Je Instagram, [YouTube-kanaal](/blog/online-geld-verdienen/youtube/), TikTok, Threads en [Facebook-pagina](/blog/online-geld-verdienen/facebook/) allemaal bijhouden is te veel werk. Elk medium vraagt zijn eigen soort content. Kies er een paar uit en zet daar vol op in. Beter één heel goed en actief kanaal dan tal van inactieve socials.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Doorzettingsvermogen is 'key' bij Instagram
 

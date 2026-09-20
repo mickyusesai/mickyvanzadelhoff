@@ -30,6 +30,8 @@ Wanneer mensen zich druk maken om geld, of dat ze op tijd komen, over politiek, 
 
 Laat je leven niet leiden door zorgen over bijzaken, maar kom vaker terug tot de essentie en toon de dankbaarheid voor die dingen die er echt toe doen en kijk er vaker naar om. Dat is mijn advies aan mezelf.
 
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+
 ## 3. Houd je bezig met de dingen waar je iets voor kunt betekenen
 
 De wereld gaat naar de klote, maar dat is niet erg. Heel lang heb ik gedacht dat we daar met zijn allen tegen moeten vechten, maar ik merk dat die realiteit omarmen me veel vrediger door het leven laat gaan. De wereld is nou eenmaal zoals deze nu is en we moeten allemaal vanuit onze persoonlijke atmosfeer proberen daar een positieve bijdrage aan te leveren. Maar jij alleen lost wereldproblemen niet op. Jij alleen bent tevens ook niet de oorzaak van klimaatverandering, overbevolking en conflict.

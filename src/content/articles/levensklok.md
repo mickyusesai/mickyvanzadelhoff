@@ -24,6 +24,8 @@ In het meest waarschijnlijke, psychologische scenario zouden we massaal depressi
 
 Eindigheid wordt daarmee iets moois in plaats van iets vervelends. Je hebt beperkte tijd en dat kan een motivatie zijn. Een motivatie om uit die tijd het meeste uit te halen. En zo zal in een eindig leven je oerinstinct je levenslust aanwakkeren.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Het schoolvoorbeeld van de levensklok
 
 Om na te denken over je eigen levensklok, oftewel de globale indeling van je leven, is het goed om te kijken naar het schoolvoorbeeld van hoe een mensenleven is ingericht. Onderstaand schoolvoorbeeld is primair gericht op de Nederlandse maatschappij hoe ik die ken.
@@ -115,6 +117,8 @@ Om zelf te bepalen hoe je leven verloopt is proactief handelen enorm belangrijk.
 Proactief leven kun je terugbrengen tot proactief handelen op alledaags niveau. Dus in plaats van bij het opstaan je mobiel te pakken en je appjes, mail of Instagram messages tot je te laten komen, kan het enorm helpen om aan het begin van de dag te bepalen wat je die dag wilt doen. Hier ga je dan als eerste mee aan de slag. Pas als je hebt gedaan wat je zelf wilde doen zet je je mobiel aan of open je je mailbox. Op deze manier ga je je eigen dagen proactief in plaats van passief invullen en dit kan op de termijn een groot verschil maken in je leven. Je neemt nu namelijk het heft weer in eigen hand en pakt de regie. Zo eindig je in ieder geval niet als iemand die door het systeem geneukt wordt.
 
 De kans dat datgene wat jou gelukkig maakt zomaar op je afkomt is natuurlijk enorm klein. Wanneer je dus alleen reactief handelt zul je dat niet vinden. De wereld heeft namelijk pas het beste met je voor wanneer jij het beste voor hebt met jezelf. Het ontwerpen van je eigen levensklok waar jij gelukkig van wordt is er dus eentje van pro activiteit.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Een leven waar je zelf geluk uit haalt
 

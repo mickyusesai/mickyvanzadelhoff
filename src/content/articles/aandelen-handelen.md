@@ -32,13 +32,13 @@ Om te beleggen in aandelen moet je **begrijpen dat dit soort gebeurtenissen de k
 
 Wil je toch leren hoe je zelf een bedrijf beoordeelt? Dan is [deze cursus van een uur over het analyseren van aandelen](/go/cursus-aandelen) een prima start (€75 op het moment van schrijven, gemaakt met Tim Nijsmans, docent Private Banking).
 
-## De wereldwijde aandelenmarkt, live
+## De AEX, live
 
-Voordat we het over brokers en strategieën hebben, wil ik je laten zien waar dit artikel eigenlijk om draait. Hieronder zie je de koers van de iShares Core MSCI World, met bijna 128 miljard euro een van de grootste ETF's van Europa. Daarin zitten zo'n 1.400 grote bedrijven uit 23 ontwikkelde landen, in euro's op de beurs van Amsterdam. Zet de grafiek op "Alles" en kijk naar de trend, niet naar de deuken.
+Voordat we het over brokers en strategieën hebben, wil ik je laten zien waar dit artikel eigenlijk om draait. Hieronder zie je de AEX, de index van de 25 grootste beursgenoteerde bedrijven van Nederland, live. Zet de grafiek op "Alles" en kijk naar de trend, niet naar de deuken: de dotcomcrash van 2000, de kredietcrisis van 2008 en de coronadip van 2020 zitten er allemaal in, en toch staat de lijn hoger dan ooit.
 
 <div class="embed not-prose" id="aandelen-chart">
 <div class="embed__frame"><div class="tradingview-widget-container" style="height:100%;width:100%"><div class="tradingview-widget-container__widget" style="height:100%;width:100%"></div></div></div>
-<p class="embed__note">iShares Core MSCI World (IWDA) in euro's op Euronext Amsterdam, via TradingView. Met de knoppen onder de grafiek kies je van één maand tot de hele geschiedenis. De grafiek laadt pas als je hier scrolt en bevat geen advies, alleen de koers. Zie je niets (bijvoorbeeld door een adblocker)? <a href="https://www.tradingview.com/chart/?symbol=EURONEXT%3AIWDA" rel="noopener" target="_blank">Bekijk de koers op TradingView</a>.</p>
+<p class="embed__note">De AEX-index via TradingView. Met de knoppen onder de grafiek kies je van één maand tot de hele geschiedenis. De grafiek laadt pas als je hier scrolt en bevat geen advies, alleen de koers. Zie je niets (bijvoorbeeld door een adblocker)? <a href="https://www.tradingview.com/chart/?symbol=EURONEXT%3AAEX" rel="noopener" target="_blank">Bekijk de koers op TradingView</a>.</p>
 </div>
 
 <script>
@@ -50,7 +50,7 @@ Voordat we het over brokers en strategieën hebben, wil ik je laten zien waar di
     var s = document.createElement('script');
     s.src = 'https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js'; s.async = true;
     s.text = JSON.stringify({
-      autosize: true, symbol: "EURONEXT:IWDA", interval: "W", timezone: "Europe/Amsterdam", theme: "light", style: "3",
+      autosize: true, symbol: "EURONEXT:AEX", interval: "W", timezone: "Europe/Amsterdam", theme: "light", style: "3",
       locale: "nl_NL", withdateranges: true, range: "ALL", hide_side_toolbar: true, hide_top_toolbar: false,
       allow_symbol_change: false, save_image: false, details: false, hotlist: false, calendar: false, hide_volume: true,
       backgroundColor: "#FFFFFF", gridColor: "rgba(228,224,245,0.7)", support_host: "https://www.tradingview.com"
@@ -66,15 +66,19 @@ Voordat we het over brokers en strategieën hebben, wil ik je laten zien waar di
 
 Zie je die deuk in 2020 (corona) en die in 2022 (inflatie en rente)? Op het moment zelf voelde dat als het einde van de wereld. Op de schaal van de hele grafiek zijn het hobbels. Wie in de dip verkocht, verloor. Wie gewoon door bleef kopen, staat er nu flink beter voor. Over de laatste tien jaar leverde de MSCI World in euro's gemiddeld ruim 12% per jaar op, sinds 2000 (dus inclusief de dotcom-crash en de kredietcrisis) zo'n 6,6% per jaar.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Kies een broker om te beleggen in aandelen
 
 Om aandelen te kopen heb je een beleggingsrekening nodig bij een **broker**. Letterlijk vertaald een beurshandelaar, en misschien denk je dan aan iemand die op Wall Street met papieren staat te zwaaien. In de praktijk is een broker in 2026 gewoon een app op je telefoon.
 
 ![Een smartphone op een bureau met een stijgende lijngrafiek, naast een kop koffie](/images/spots/aandelen-broker-app.webp "Een broker in 2026: een app, een koffie en vooral veel geduld")
 
-Zelf ben ik jaren geleden bij [eToro](/go/etoro-trading) begonnen, omdat je daar met kleine bedragen kon starten en naast aandelen ook ETF's, grondstoffen en crypto vindt. Een account aanmaken is gratis en makkelijk, en op aandelen en ETF's betaal je geen commissie [via deze link](/go/etoro-trading).
+Zelf ben ik jaren geleden bij [eToro](/go/etoro-trading) begonnen, maar inmiddels overgestapt op [Revolut](/go/revolut). Losse aandelen koop ik daar per stuk (ook in fracties, vanaf €1), maar het grootste deel van mijn inleg gaat automatisch: via de **Robo-Advisor** van Revolut leg ik elke maand in, als een soort eigen pensioenpot. Je beantwoordt een paar vragen over hoeveel risico je aankunt, Revolut stelt daar een portefeuille van ETF's bij samen, houdt de verdeling automatisch op peil en laat je in een grafiek zien wat je maandelijkse inleg over tien, twintig of dertig jaar zou kunnen worden. Dat werkt voor mij perfect: ik hoef er niet naar om te kijken.
 
-[Maak gratis een eToro-account](/go/etoro-trading)
+Wat het kost: 0,75% per jaar over je portefeuille, inclusief btw, plus de lage kosten van de ETF's zelf. Dat is duurder dan een Nederlandse partij als Meesman (0,40% all-in), maar je hebt alles in één app, naast je betaalrekening. Zelf aandelen en ETF's kopen kan met één commissievrije order per maand op het gratis Standard-plan (drie bij Plus, vijf bij Premium, tien bij Metal en Ultra); daarna betaal je 0,25% per order met een minimum van €1. Een maandelijks ETF-spaarplan is commissievrij en telt niet mee voor die limiet. Let wel: het beleggingsdeel valt onder een Litouwse vergunning met een beleggerscompensatie tot €22.000, en het ETF-aanbod is kleiner dan bij een gespecialiseerde broker.
+
+[Open een Revolut-account via mijn link](/go/revolut)
 
 Maar eerlijk is eerlijk: de markt is sinds 2018 enorm veranderd. Nederlandse en Duitse brokers zijn zó goedkoop geworden dat je vooral moet kijken naar wat bij jouw manier van beleggen past. Dit zijn de tarieven die ik op 19 september 2026 heb gecontroleerd:
 
@@ -82,6 +86,7 @@ Maar eerlijk is eerlijk: de markt is sinds 2018 enorm veranderd. Nederlandse en 
 |---|---|---|---|---|
 | Trade Republic | €1 per order | Gratis via een maandelijks spaarplan, anders €1 | 2% (3% voor nieuwe klanten) | Duitse bank met Nederlandse IBAN; alleen online support |
 | DEGIRO | €2 + €1 afhandelingskosten | €1 voor de kernselectie (ongeveer 1.500 ETF's op Tradegate), anders vanaf €3 | Geen | Sinds oktober 2025 vallen populaire ETF's op Euronext buiten de kernselectie |
+| Revolut | 1 tot 10 commissievrije orders per maand, afhankelijk van je plan; daarna 0,25% (minimaal €1) | ETF-spaarplan gratis vanaf €1; Robo-Advisor 0,75% per jaar | Via aparte spaarpotten, rente hangt af van je plan | Litouwse vergunning, beleggerscompensatie tot €22.000; kleiner ETF-aanbod |
 | eToro | 0% commissie, je betaalt de spread | 0% commissie | Tot 3,55% op dollarsaldo, afhankelijk van je saldo | Rekening in dollars: 0,5% wisselkosten bij storten, $5 per opname |
 | Je eigen bank (ING, ABN AMRO, Rabobank) | Verschilt per bank, meestal duurder | Eigen fondsen | Spaarrente 1,25% tot 1,50% | Makkelijk, maar je betaalt voor het gemak |
 
@@ -91,7 +96,7 @@ Waar je op let bij het kiezen van een broker:
 *   **In welke valuta staat je rekening?** Een dollarrekening (zoals bij eToro) betekent wisselkosten bij elke storting en opname en een wisselkoersrisico bovenop je beleggingsrisico.
 *   **Kun je in euro's beleggen in ETF's?** Voor Nederlanders is dat de kern.
 *   **Wil je ook crypto?** Dan zou ik daarvoor eerder een [crypto exchange](/blog/web3/beste-crypto-exchange/) als [Finst](/blog/review/finst-crypto-exchange/) gebruiken dan de crypto-afdeling van een broker.
-*   **Wat is de reputatie en onder welke toezichthouder valt de broker?** Nederlandse brokers vallen onder de AFM, Trade Republic onder de Duitse BaFin, eToro voor Europese klanten onder de Cypriotische CySEC.
+*   **Wat is de reputatie en onder welke toezichthouder valt de broker?** Nederlandse brokers vallen onder de AFM, Trade Republic onder de Duitse BaFin, Revolut onder de Litouwse centrale bank, eToro voor Europese klanten onder de Cypriotische CySEC.
 *   **Wil je met een hefboom handelen?** Dan zit je bij een CFD-broker als eToro; daarover verderop meer, met alle waarschuwingen die erbij horen.
 
 Of een broker **aansluit op jouw strategie** hangt vooral af van of je aandelen snel wilt verhandelen of ze jarenlang wilt vasthouden. Voor die laatste groep (de meeste mensen die dit lezen, vermoed ik) zijn de kosten per order bijna niet meer relevant. Voor wie dagelijks handelt, tellen spreads en wisselkosten juist dubbel.
@@ -248,9 +253,11 @@ Drie dingen die je moet weten:
 
 **Wat is een spread?** Het verschil tussen de koop- en verkoopprijs op hetzelfde moment. Bij brokers "zonder commissie" zit daar hun verdienmodel; bij populaire aandelen en ETF's is de spread klein, bij exotische fondsen kan hij oplopen tot een paar procent.
 
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+
 ## Conclusie beleggen in aandelen
 
-Klaar om te beleggen in aandelen? [Maak een account aan bij een online broker](/go/etoro-trading) en begin vandaag nog met je eerste, kleine, maandelijkse inleg. Afhankelijk van het risico dat jij acceptabel vindt, kies je voor:
+Klaar om te beleggen in aandelen? [Maak een account aan bij een online broker](/go/revolut) en begin vandaag nog met je eerste, kleine, maandelijkse inleg. Afhankelijk van het risico dat jij acceptabel vindt, kies je voor:
 
 *   Een brede ETF of beleggingsfonds, elke maand een vast bedrag (laag risico, de basis voor bijna iedereen)
 *   Losse aandelen van bedrijven die je begrijpt (gemiddeld risico, met een klein deel van je geld)

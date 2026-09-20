@@ -50,6 +50,8 @@ In diezelfde periode hield ik mijzelf ook bezig met het kijken van webinars, lez
 
 Deze kennis kwam echt tot me, en heeft mij enorm geholpen tot waar ik nu sta. Ik denk dan ook dat stoppen met een studie niets te maken heeft met leergierigheid. **Ik had juist het gevoel dat ik meer leergierig was geworden!**
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## In een jaar tijd leerde ik voor mezelf te kiezen en buiten de hokjes te denken
 
 Het mooiste wat het stoppen met mijn opleiding mij heeft gebracht is dat ik voor mezelf kon kiezen. **Dat je keuzes gaat maken die dicht bij jezelf liggen** en waar je je goed bij voelt.
@@ -73,6 +75,8 @@ Ik voel me een écht mens en durf grotere uitdagingen aan dan ooit te voren. Ik 
 Het is daarom dat ik in deze tijd van Nederland naar Turkije ben gefietst terwijl ik maandenlang wildkampeerde in een tent (midden winter). Dat ik een boek heb uitgebracht over het leven als digital nomad ([deze kun je hier gratis downloaden](/boek/)). Dat ik mijn marketingwerk op een gegeven moment vaarwel heb gezegd omdat ik genoeg [geld kan verdienen met mijn blog](/blog/online-geld-verdienen/bloggen/).
 
 Er zijn geen grenzen meer, er is vrijheid en dat maakt gelukkig.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## En dan nu het mooiste van alles
 

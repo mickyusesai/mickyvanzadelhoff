@@ -58,6 +58,8 @@ In het verleden zijn er genoeg exchanges geweest die er met het geld van klanten
 
 Twee kanttekeningen die je moet kennen. Staking valt volgens Finst zelf **niet onder MiCA**, dus daar geldt het toezicht niet voor. En een vergunning beschermt je niet tegen koersdalingen: crypto blijft crypto.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Veiligheid en beveiliging bij Finst
 
 Van een bank verwacht je dat hij goed beveiligd is. Dat mag je ook verwachten van een plek waar het 'nieuwe geld' samenkomt.
@@ -317,6 +319,8 @@ Finst is in 2026 de voordeligste crypto exchange van Nederland, met een MiCA-ver
 De Nederlandstalige support, staking zonder lock-up, auto invest en de bundels maken Finst geschikt voor beginners én voor wie al langer investeert. Wie handelsbots wil koppelen of op zoek is naar de allerkleinste munten, moet ergens anders zijn. Voor alle anderen eindigt deze Finst review met een positief advies: de beste exchange van Nederland om [geld te verdienen met crypto](/blog/web3/handelen-in-crypto-valuta/)? Ik vind van wel, en ik gebruik hem zelf.
 
 [Maak jouw Finst account aan](/go/finst)
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## 10. Veelgestelde vragen over Finst
 

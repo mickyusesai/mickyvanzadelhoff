@@ -36,6 +36,8 @@ Zie bijvoorbeeld hieronder de statistiek van een [acquisitie mail](/blog/onderne
 
 ![Resultaten mailing enormail](/images/migrated/resultaten-mailing-enormail.webp "resultaten-mailing-enormail")
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Enormail vs. Mailchimp
 
 Eerlijkheid gebied te zeggen dat Enormail de eerste **e-mail marketing software** was waarmee ik in aanraking kwam. Echt een afweging heb ik dus niet gemaakt toen ik voor hun koos.
@@ -203,6 +205,8 @@ Tijd om op **Opslaan en doorgaan naar verzenden te klikken**. Je bent klaar om j
 ![Verzenden mailing enormail](/images/migrated/verzenden-mailing-enormail.webp "verzenden-mailing-enormail")
 
 Enormail zal je nu vragen of je de mail nu of op een later tijdstip wilt verzenden. Selecteer jouw voorkeur en hoppa, jouw mail is onderweg!
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie Enormail review
 

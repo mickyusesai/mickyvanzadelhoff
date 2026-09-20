@@ -42,6 +42,8 @@ Drie redenen om van e-mail marketing jouw belangrijkste vorm van promotie te mak
 
 E-mail marketing is de makkelijkste en meest efficiënte manier om online verkopen te realiseren. **De highway naar conversie.** Let's do this!
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## E-mail marketing stappenplan
 
 Goed, we weten nu wat e-mail marketing is en waarom jij daarmee aan de slag moet gaan. Daarvoor hoef je slechts onderstaande **vier stappen** te volgen, plus één technische tussenstap die er in 2026 bij hoort: software kiezen, leads genereren, de autoresponder, de techniek achter je domein en het gebruiken van data.
@@ -231,6 +233,8 @@ Hier kun je nu zien hoeveel mensen de mails hebben geopend, hoeveel er op links 
 Eén kanttekening: sinds Apple in 2021 Mail Privacy Protection invoerde, worden mails van veel iPhone-gebruikers automatisch als 'geopend' geregistreerd, ook als niemand ze las. Kijk daarom vooral naar het klikpercentage, de antwoorden en uiteindelijk de verkopen die uit een mail komen.
 
 **Op basis van deze statistieken kun je weer verder aan de slag met de optimalisatie.**
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie e-mail marketing
 

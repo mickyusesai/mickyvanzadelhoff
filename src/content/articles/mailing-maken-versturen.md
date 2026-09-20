@@ -32,6 +32,8 @@ Bij **zowel B2B als B2C** zijn mailings een groot onderdeel van de marketing. He
 
 Mailings komen persoonlijk over, omdat ze in de privéomgeving van de ontvanger gelezen worden. Maak de mailing dus **persoonlijk** en gedraag je als gast in de mailbox van de ontvanger.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Stap 1: Het doel van de mailing vaststellen
 
 Een mailing zonder doel is een mailing waarin geen doel behaald kan worden. We zullen dus eerst moeten weten waarom we gaan mailen. Denk daar niet te simpel over, want deze stap is **zeer bepalend** voor hoe je de mail gaat schrijven.
@@ -174,6 +176,8 @@ In dat laatste geval doe je er goed aan om dezelfde mail met een andere onderwer
 Je verzendt dezelfde e-mail dan alleen naar de ontvangers die de eerste niet hebben geopend. Bij [Enormail](/go/enormail) staat die knop rechtsboven in de statistieken van je mailing: 'nieuwe follow-up mailing'. Pas wel de onderwerpregel aan.
 
 Meer voorbeelden van wat goede e-mailmarketingsoftware voor je doet, [lees je hier.](/blog/ondernemen/e-mail-marketing/)
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie mailing maken
 

@@ -48,6 +48,8 @@ Wat je hierboven ziet, is in feite een uitleg van de USP's. Je zegt hetzelfde, m
 
 In 2026 is dit probleem groter geworden. Bijna iedereen laat zijn webteksten door ChatGPT of een ander AI-model schrijven, en zonder goede input komt daar precies dit soort zinnen uit. Ik zie het in mijn [AI-workshops](/ai-workshops/) wekelijks. AI kan je USP scherper formuleren, maar het onderscheid zelf moet uit je bedrijf komen.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## 15 USP voorbeelden (2026)
 
 Onderstaande 15 USP's zijn er om inspiratie mee op te doen. Ze worden in september 2026 nog gebruikt en helpen je een 'unieke' USP te bedenken.
@@ -124,6 +126,8 @@ Een paar voorbeelden uit de vorige versie heb ik geschrapt, en dat zegt veel ove
 *   **"Jouw leven. Jouw Hussel." – KPN** verdween in 2023, en **"De winkel voor iedereen" – Blokker** overleefde het faillissement van november 2024 niet; de doorstart begon in 2025 opnieuw met een handvol winkels.
 
 De les: een USP leeft zolang jij hem kunt waarmaken. En hoe unieker de belofte, hoe minder een concurrent hem kan overnemen.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Wanneer je zelf een USP gaat maken
 

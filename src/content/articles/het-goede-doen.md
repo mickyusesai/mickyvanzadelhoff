@@ -26,6 +26,8 @@ In juni 2019 was het tijd om te kijken naar hoe ik meer van het goede zou kunnen
 
 Vandaar dat ik ben begonnen met het organiseren van gratis trainingen over geluk en mindset. De trainingen tot nu toe waren geweldig en de deelnemers vonden het prachtig. **Geen commercieel doel**, maar een mensen doel. Iets moois creëren waar mensen (en de wereld) een stukje beter van worden, daar kan een financiële transactie niet tegenop.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Geven en ontvangen
 
 Niet alles hoeft immers een financiële transactie te zijn. Dat zou ons als mensen wel erg harteloos maken. Ik denk maar even terug aan de momenten die we meemaakten op [onze fietstocht van Nederland naar Turkije](https://www.youtube.com/journeyofconnection). Keer op keer werden we door mensen uitgenodigd om bij hen te komen eten of te slapen. Keer op keer gaven mensen ons dingen om ons verder te hielpen. **Niemand wilde daar meer voor terug dan een glimlach**. Het waren precies die dingen die onze reis zo mooi maakten.
@@ -41,6 +43,8 @@ Ironisch genoeg, heb ik nu het financieel wat meer vanzelf gaat ([vanwege een pa
 ## Een dag om meer van het goede te doen
 
 Als jij je in dit verhaal herkent en het je leuk lijkt om aan zo’n dag deel te nemen, dan kom ik graag met je in contact. Wanneer je je e-mail hieronder achterlaat (ik stuur je niets anders dan dingen over dit project), krijg ik een beeld van de interesse en kan ik zo’n dag gaan organiseren. Uiteraard houd ik je dan op de hoogte als er een datum wordt geprikt. Het lijkt me tof om **meer waarde te geven en dit woord verder te verspreiden**. Delen van dit artikel wordt dan ook gewaardeerd ?.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Laten we het goede doen.
 

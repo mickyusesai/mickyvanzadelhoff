@@ -26,6 +26,8 @@ Omdat dit geen roman is, maar een blog vertel ik je globaal hoe we daarna vorm h
 
 Wanneer we elkaar niet zien houden we zo nu en dan, een keer per week, contact via een videochat. Die chats duren gerust 3 uur ;). En als je je afvraagt of we elkaar niet vaak missen? Soms ervaren we dat gemis heel erg, maar soms hebben we het er beiden ook gewoon te druk voor met andere leuke dingen. En dat is misschien maar goed ook, want iemand enorm missen op een afstand van 11.000 kilometer is een rotgevoel.
 
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+
 ## Is een lange afstandsrelatie in het buitenland iets voor jou?
 
 Maar als je mij nu zou vragen of lange afstandsrelaties voor iedereen werken moet ik je teleurstellen. Ik geloof dat het feit dat je beiden avontuurlijk bent, bewust bezig bent met je persoonlijke groei en je over de aarde beweegt als een onafhankelijk individu toch wel essentieel is. We zeggen ook altijd dat we niet elkaars wederhelft zijn maar 2 losstaande figuren die elkaars leven mooier maken. Het maakt alles net wat makkelijker, want je laat elkaar volledig vrij in het doen en laten. Maar als je wilt, werkt alles misschien wel :).

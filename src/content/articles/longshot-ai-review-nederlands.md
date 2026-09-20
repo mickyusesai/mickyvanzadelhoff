@@ -75,6 +75,8 @@ Dezelfde workflow, verdeeld over een paar tools:
 
 Zelf gebruik ik een chatbot voor denken en schaven, en een SEO-tool voor het productiewerk van artikelen die moeten ranken. Precies zoals vroeger, alleen zonder LongShot.
 
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+
 ## Conclusie
 
 LongShot was een **goede tool voor het schrijven van lange SEO-blogs**, en ik heb er veel tijd mee bespaard. Dat het is gestopt, verandert niets aan de les die het me leerde: onderzoek, outline, tekst, en dan je eigen ervaring erin. Die stappen zitten in 2026 in Frase, Surfer of gewoon een chatbot met een goede prompt.

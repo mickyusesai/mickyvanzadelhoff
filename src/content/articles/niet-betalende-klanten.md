@@ -20,6 +20,8 @@ PERSOON contacte mij enkele maanden geleden. Hij werkte bij justitie op dat mome
 
 Ik ben vervolgens aan de slag gegaan met de website en stuurde hem de aanbetalingsfactuur (50%). Deze factuur zou hij direct overmaken, maar na een vraag van mij na een week, zei hij dat die dat zou doen wanneer zijn volgende loon werd gestort. Achteraf had ik bij dat punt al moeten zeggen dat ik niet aan de website kon beginnen zonder dat hij de aanbetaling zou voldoen. Maar vertrouwend als ik was ben ik toen wel aan de slag gegaan.
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## De uiterste betaal datum verstreek meerdere malen
 
 Bij het aankomen van de uiterste betaaldatum die hij noemde heb ik hem gecontact met de vraag waar mijn geld bleef. Hij kwam met een nieuwe excuus voor uitstel. De website was inmiddels al bijna voldaan. PERSOON bleef mij tussendoor met regelmaat vragen stellen over de website en aanpassingen. Omdat hij een nieuwe datum had beloofd om te betalen heb ik die aanpassingen gedaan. We hadden best goed contact en naar zijn eigen zeggen was PERSOON ook erg tevreden over de samenwerking. Hij was blij met de website en vond mij een goede webdesigner.
@@ -83,6 +85,8 @@ Het tweede ding dat ik heb geleerd is niet zozeer hoe belangrijk het sturen van 
 Al met al ben ik trots op hoe ik PERSOON heb geconfronteerd en heb ik er wat uit geleerd. Niet betalende klanten geven veel negativiteit binnen je bedrijf en persoonlijke leven en dat is zonde. Laten we in ieder geval hopen dat het nooit meer zo hoeft te gaan. Daar wordt iedereen beter van. En wat betreft PERSOON zelf, hoop ik dat de oplichting bij deze ene situatie blijft.
 
 ### GRATIS training
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Maak Jouw Eigen Professionele Blog In 5 Simpele Stappen (GRATIS)
 

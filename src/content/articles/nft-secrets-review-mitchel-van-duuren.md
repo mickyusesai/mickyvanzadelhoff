@@ -57,6 +57,8 @@ Publicaties waar je Mitchel van Duuren verder van kan kennen zijn die in **Linda
 
 ![Mitchel van Duuren in Linda Magazine](/images/migrated/B-INY7uCEAApOKz-1.webp "Mitchel van Duuren in Linda Magazine")
 
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+
 ## Resultaten van deelnemers
 
 Natuurlijk is het leuk voor Mitchel van Duuren **dat hij zelf tienduizenden euro’s kan verdienen** met het flippen van NFT’s. Toch maakt dit voor jou geen verschil.
@@ -249,6 +251,8 @@ Heb je [deze gratis workshop](/go/nft-secrets-gratis) van Mitchel van Duuren al 
 Na de gratis training begrijp je **hoe het komt dat NFT’s zoveel waard worden** en ook waarom jij hier nu nog zo vroeg bij bent. Volgens Mitchel zitten we in de **early adopters fase** en ligt er daarom nog heel veel groei in het vooruitschiet. Iets waar jij je voordeel mee kan doen door nu [met het flippen van NFT’s te beginnen](/go/nft-secrets).
 
 Je zal zelf vast ook gemerkt hebben dat wanneer je iets over NFT’s verteld tegen je omgeving, niemand weet waar je het over hebt. Hoe vaak ik dit zelf nu al wel niet heb uitgelegd. Het idee wat ik met Mitchel deel is dat dit in de toekomst heel anders gaat zijn. Hetzelfde als dat nu **iedereen wel weet wat een Bitcoin is**.
+
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie NFT Secrets review
 
