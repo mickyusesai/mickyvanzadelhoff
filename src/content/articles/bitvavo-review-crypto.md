@@ -259,7 +259,7 @@ Altcoins verschillen van Bitcoin. De bekendste (hoewel continu wisselend) zijn *
 
 Er worden ruim **21.000 actieve altcoins** bijgehouden. Je kunt deze '**alternatieve munten**' zien als een alternatief voor Bitcoin. Vaak presenteren ze zich binnen een specifieke niche zoals Decentralized Finance (DeFi), kunstmatige intelligentie (AI), [NFT's](/blog/web3/nft-uitleg/) of de [Metaverse](/blog/web3/metaverse-crypto/). Of ze gaan de directe strijd aan om het geld van de toekomst te worden.
 
-Voor het traden zijn altcoins erg interessant. Het gebeurt nogal eens dat er eentje 100% omhoog schiet binnen één dag. **Dan zou je dus zomaar van €1.000,- naar €2.000,- kunnen zijn gegaan.** Er zijn zelfs altcoins die over meerdere jaren een stijging hebben gezien van boven de 50.000%. Maar vergeet de andere kant niet: de [$TRUMP-memecoin](/blog/web3/official-trump-kopen-ideal/) uit januari 2025 staat inmiddels 97% onder zijn top.
+Voor het traden zijn altcoins erg interessant. Het gebeurt nogal eens dat er eentje 100% omhoog schiet binnen één dag. **Dan zou je dus zomaar van €1.000,- naar €2.000,- kunnen zijn gegaan.** Er zijn zelfs altcoins die over meerdere jaren een stijging hebben gezien van boven de 50.000%. Maar vergeet de andere kant niet: de [$TRUMP-memecoin](/blog/web3/meme-coins-kopen-crypto/) uit januari 2025 staat inmiddels 97% onder zijn top.
 
 Ik vind zelf dit verhaal uit het **[Crypto Portfolio van Alles Over Crypto](/go/crypto-portfolio)** erg veelzeggend:
 

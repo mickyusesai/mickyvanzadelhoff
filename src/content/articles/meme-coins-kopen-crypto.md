@@ -19,7 +19,7 @@ In dit artikel lees je hoe je in 2026 nog steeds kleine memecoins koopt (via een
 Eerst de stand van zaken, want die is anders dan in januari 2025:
 
 *   Op de piek, eind 2024, waren alle memecoins samen zo'n **150 miljard dollar** waard. Op 20 september 2026 is dat volgens CoinGecko nog **34 miljard**. Ruim driekwart van de waarde is weg.
-*   De **$TRUMP-munt**, die op 19 januari 2025 piekte op 75 dollar, is nu nog geen 2 dollar waard: een verlies van ruim 97%. Zelf kocht ik hem ook, [en dat verhaal lees je hier](/blog/web3/official-trump-kopen-ideal/).
+*   De **$TRUMP-munt**, die op 19 januari 2025 piekte op 75 dollar, is nu nog geen 2 dollar waard: een verlies van ruim 97%. Zelf kocht ik hem ook, [en dat verhaal lees je hier](/blog/web3/meme-coins-kopen-crypto/).
 *   Volgens onderzoek dat Yahoo Finance in mei 2026 aanhaalde, verloor **zo'n 60% van alle memecoin-handelaren** in 2025 geld.
 *   Op **pump.fun**, de fabriek waar de meeste Solana-memecoins worden gemaakt, zijn sinds januari 2024 zo'n 12 tot 13 miljoen munten gelanceerd. Op drukke dagen 42.000 per dag. **Minder dan 2% haalt ooit een echte beurs**, en maar 18 munten ooit een marktwaarde van 10 miljoen dollar (Solana Compass, juni 2026).
 *   In het voorjaar van 2026 kwam er een kleine opleving (Pepe, Bonk), maar de dagelijkse handel ligt ver onder die van begin 2025.
@@ -55,7 +55,7 @@ Heb je geen zin om SOL van een exchange te sturen, dan kun je in Phantom ook SOL
 
 ![Een smartphone met daarop twee munten en ruilpijlen ertussen, op een houten tafel](/images/spots/meme-telefoon-swap.webp "Kleine memecoins koop je niet op een exchange, maar door te swappen in je eigen wallet")
 
-Eén ding is sinds 2025 veranderd. Ik verwees toen voor kleine munten ook naar de exchange [MEXC](/go/mexc). Die heeft geen Europese MiCA-vergunning, kreeg in september 2025 een waarschuwing van de AFM en stopt in het najaar van 2026 met Nederlandse klanten. Heb je daar nog iets staan, haal het dan op tijd weg. Exchanges mét Europese vergunning waar je meer kleine munten vindt dan bij Finst, zijn KuCoin en Bybit EU. <!-- TODO: partnerlink /go/mexc is dood voor NL: MEXC stopt najaar 2026 met Nederlandse klanten (geen MiCA-vergunning, AFM-waarschuwing sept 2025) -->
+Eén ding is sinds 2025 veranderd. Ik verwees toen voor kleine munten ook naar de exchange MEXC. Die heeft geen Europese MiCA-vergunning, kreeg in september 2025 een waarschuwing van de AFM en stopt in het najaar van 2026 met Nederlandse klanten. Heb je daar nog iets staan, haal het dan op tijd weg. Exchanges mét Europese vergunning waar je meer kleine munten vindt dan bij Finst, zijn KuCoin en Bybit EU.
 
 En Pikamoon, de munt met een eigen game die ik begin 2025 hier als 'pick' noemde? De website verwijst sinds eind december 2025 alleen nog naar een aankondiging op X en naar vrijgegeven broncode, en de munt staat niet meer in de top-400. Precies het lot van de meeste memecoins met een 'roadmap'.
 

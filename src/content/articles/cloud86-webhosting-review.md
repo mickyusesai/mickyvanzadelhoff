@@ -10,7 +10,7 @@ draft: false
 featuredImage: "/images/headers/cloud86-webhosting-review.webp"
 ---
 
-**Is Cloud86 de beste webhosting voor jouw website?** Ik heb vier hosts versleten voordat ik in 2021 bij Cloud86 terechtkwam, en daar is De Moderne Nomaden jarenlang blijven staan. In deze review lees je wat Cloud86 in 2026 kost (de prijzen zijn op 20 september 2026 gecontroleerd), wat je daarvoor krijgt, hoe snel en betrouwbaar het is, hoe de support werkt en hoe het zich verhoudt tot Hostnet en SiteGround. Plus mijn eigen ervaring, inclusief de dingen die ik anders zou doen.
+**Is Cloud86 de beste webhosting voor jouw website?** Ik heb vier hosts versleten voordat ik in 2021 bij Cloud86 terechtkwam. De Moderne Nomaden heeft er jarenlang gestaan, en mijn andere projecten host ik er nog steeds. In deze review lees je wat Cloud86 in 2026 kost (de prijzen zijn op 20 september 2026 gecontroleerd), wat je daarvoor krijgt, hoe snel en betrouwbaar het is, hoe de support werkt en hoe het zich verhoudt tot Hostnet en SiteGround. Plus mijn eigen ervaring, inclusief de dingen die ik anders zou doen.
 
 Er is sinds mijn eerste versie van deze review veel veranderd. Cloud86 heet online inmiddels cloud86.io in plaats van cloud86.nl, is gegroeid van een kleine Friese host naar 50.000 klanten in vier landen, en de prijzen zien er anders uit dan een paar jaar geleden: lager om in te stappen, hoger bij verlenging. Daar reken ik verderop mee.
 
@@ -43,7 +43,7 @@ Voordat ik in de details duik: waarom zit ik überhaupt bij Cloud86? Omdat ik he
 <li class="timeline__item"><span class="timeline__num">1</span><p class="timeline__year">Het begin</p><p class="timeline__title">Webreus: goedkoop, en dat merkte ik</p><p class="timeline__text">Ik koos de goedkoopste host die ik kon vinden. Zodra de site bezoekers kreeg, lag hij eruit. Soms meerdere keren per dag. Elke storing kostte lezers.</p></li>
 <li class="timeline__item"><span class="timeline__num">2</span><p class="timeline__year">Daarna</p><p class="timeline__title">SiteGround en Hostnet</p><p class="timeline__text">SiteGround was snel, maar Engelstalig en in dollars. Bij Hostnet betaalde ik €100 per jaar extra voor een SSL-certificaat op mijn subdomein. Allebei prima, allebei niet helemaal mijn ding.</p></li>
 <li class="timeline__item"><span class="timeline__num">3</span><p class="timeline__year">2021</p><p class="timeline__title">Cloud86 Managed WordPress</p><p class="timeline__text">Mijn vader wees me erop dat mijn site bij Cloud86 sneller zou zijn. De verhuizing was binnen een dag geregeld zonder één seconde offline. Nederlandse support aan de telefoon: verkocht.</p></li>
-<li class="timeline__item timeline__item--now"><span class="timeline__num">4</span><p class="timeline__year">2026</p><p class="timeline__title">Deze site, opnieuw gebouwd</p><p class="timeline__text">In 2026 heb ik mijn site helemaal opnieuw opgezet, zonder WordPress, waardoor hij geen klassieke webhosting meer nodig heeft. Voor een WordPress-site zou ik vandaag nog steeds bij Cloud86 uitkomen.</p></li>
+<li class="timeline__item timeline__item--now"><span class="timeline__num">4</span><p class="timeline__year">2026</p><p class="timeline__title">Deze site, opnieuw gebouwd</p><p class="timeline__text">In 2026 heb ik mijn site helemaal opnieuw opgezet, zonder WordPress, waardoor hij geen klassieke webhosting meer nodig heeft. Mijn andere sites staan nog gewoon bij Cloud86; voor een WordPress-site kom ik daar vandaag nog steeds uit.</p></li>
 </ol>
 
 ## Wat Cloud86 aanbiedt

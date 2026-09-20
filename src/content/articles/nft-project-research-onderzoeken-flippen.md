@@ -58,7 +58,7 @@ Sorteer de collectie op prijs van laag naar hoog en zet een minimumprijs van 1,0
 
 ![De floor-price-methode op OpenSea in mei 2022](/images/migrated/nft-secrets-methode-verkopen-berekenen-1-scaled.webp "Mijn voorbeeld uit mei 2022: met een minimumprijs van 1,0 ETH bleven 105 van de 175 items over")
 
-Deze methode leerde ik in 2022 in een Nederlandse cursus die niet meer bestaat; ze is niet waterdicht, maar geeft je wel een gevoel voor hoe ver een prijsstijging weg is. Wat ik achteraf van die cursus vind, lees je in [mijn review](/blog/review/nft-secrets-review-mitchel-van-duuren/).
+Deze methode leerde ik in 2022 in een Nederlandse cursus die niet meer bestaat; ze is niet waterdicht, maar geeft je wel een gevoel voor hoe ver een prijsstijging weg is.
 
 ![Een trap van gestapelde munten die van links naar rechts oploopt](/images/spots/nftresearch-vloer.webp "De floor price: elke trede is een NFT die eerst verkocht moet worden")
 

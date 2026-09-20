@@ -10,7 +10,7 @@ draft: false
 featuredImage: "/images/headers/enormail-review.webp"
 ---
 
-**Enormail was jarenlang mijn e-mailmarketingsoftware**, en het is de tool waarmee ik de mailinglijst van De Moderne Nomaden opbouwde tot duizenden lezers, terwijl de mails op de automatische piloot verkochten. Tijd dus voor een eerlijke, bijgewerkte **review van Enormail**.
+**Enormail is al jaren mijn e-mailmarketingsoftware**, en de tool waarmee ik de mailinglijst van De Moderne Nomaden opbouwde tot duizenden lezers, terwijl de mails op de automatische piloot verkochten. Tijd dus voor een eerlijke, bijgewerkte **review van Enormail**.
 
 In deze review lees je wat Enormail in 2026 kost (de prijzen zijn op 20 september 2026 op enormail.eu gecontroleerd), welke functies het verschil maken, hoe het zich verhoudt tot Mailchimp, wat de nadelen zijn en hoe je in drie stappen je eerste mailing verstuurt. Er is sinds mijn eerste versie van dit artikel het nodige veranderd: Enormail heeft er landingspagina's, tags en een AI-integratie bij gekregen, Mailchimp heeft zijn gratis plan gehalveerd, en mijn eigen [gratis boek](/boek/) kun je tegenwoordig direct downloaden zonder e-mailadres. Waarom ik dat laatste deed, lees je ook.
 
@@ -35,7 +35,7 @@ Enormail is een Nederlands bedrijf, de data van jou en je contacten blijft in Ne
 
 ![Een rode brievenbus op een paal waaruit een stroom enveloppen naar een open laptop vliegt](/images/spots/enormail-brievenbus.webp "E-mailmarketing: één keer schrijven, automatisch versturen")
 
-## Waarvoor ik Enormail gebruikte
+## Waarvoor ik Enormail gebruik
 
 Tussen 2019 en 2023 meldden zich maandelijks zo'n 2.000 mensen aan op mijn mailinglijst. Dat deden ze door een van mijn gratis e-books te downloaden. Daarna kwamen ze in een funnel van dertig mails, verspreid over 150 dagen. In de meeste mails gaf ik gratis content, in een paar promootte ik een training of een affiliateproduct. Die mails verkochten letterlijk voor mij zonder dat ik ertussen zat: een van de weinige vormen van [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/) die echt zo werkt.
 
@@ -43,7 +43,7 @@ Daarnaast schreef ik jarenlang [acquisitiemails](/blog/ondernemen/acquisitie-mai
 
 ![Resultaten van een acquisitiemailing in Enormail](/images/migrated/resultaten-mailing-enormail.webp "Statistiek van een acquisitiemailing voor een klant, 2019")
 
-Tegenwoordig ziet mijn werk er anders uit: ik geef [AI-workshops](/ai-workshops/) aan bedrijven en mijn boek is een gratis download zonder inschrijving. Dat was een bewuste keuze: ik wilde geen drempel meer tussen de lezer en het boek. Maar voor iedere ondernemer die klanten wil laten terugkomen, is een mailinglijst nog steeds het meest waardevolle bezit dat je online hebt. Een algoritme van Instagram kun je niet bezitten; een lijst met e-mailadressen wel.
+Tegenwoordig ziet mijn werk er anders uit: ik geef [AI-workshops](/ai-workshops/) aan bedrijven en mijn boek is een gratis download zonder inschrijving. Dat was een bewuste keuze: ik wilde geen drempel meer tussen de lezer en het boek. Maar voor iedere ondernemer die klanten wil laten terugkomen, is een mailinglijst nog steeds het meest waardevolle bezit dat je online hebt. Een algoritme van Instagram kun je niet bezitten; een lijst met e-mailadressen wel. Daarom mail ik zelf nog steeds via Enormail.
 
 <aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 

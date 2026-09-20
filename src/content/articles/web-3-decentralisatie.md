@@ -61,7 +61,7 @@ In 2022 zette ik hier een lijstje AI-tools neer dat me toen futuristisch leek. I
 *   [**Looka**](/go/looka): AI-ontwerptool voor logo en huisstijl.
 *   [**Synthesia**](/go/synthesia): video's maken met een AI-presentator.
 *   [**Ocoya**](/go/ocoya): socialmediaberichten plannen en laten schrijven.
-*   [**Sembly AI**](/go/sembly): vergaderingen transcriberen en notuleren. <!-- TODO: partnerlink /go/sembly is mogelijk dood: partnerstack.sembly.ai gaf op 20 september 2026 geen antwoord, sembly.ai zelf wel -->
+*   **Sembly AI**: vergaderingen transcriberen en notuleren.
 *   [**Murf AI**](/go/murf-ai): van tekst naar natuurlijke spraak.
 *   [**Browse AI**](/go/browse-ai): websites van concurrenten automatisch uitlezen.
 *   [**ChatBot**](/go/chatbot-com): een chatbot op je eigen website.

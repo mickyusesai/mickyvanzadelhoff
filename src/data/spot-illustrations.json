@@ -1305,16 +1305,6 @@
     "prompt": "a small red flag planted in a pile of shiny coins on a wooden table, a laptop half open in the background"
   },
   {
-    "name": "nftsecrets-terugblik",
-    "kind": "scene",
-    "prompt": "a car rear-view mirror reflecting a road lined with faded pixel-art billboards, sunset light, no people visible"
-  },
-  {
-    "name": "nftsecrets-leeg-klaslokaal",
-    "kind": "scene",
-    "prompt": "an empty online classroom seen as a closed laptop on a desk with a thin layer of dust, a coffee cup and a paper notebook with a pencil"
-  },
-  {
     "name": "metaverse-leeg-plein",
     "kind": "scene",
     "prompt": "an empty virtual city square built from blocky voxels with tall blank billboards and one lonely bench, low-poly style, dusk lighting"

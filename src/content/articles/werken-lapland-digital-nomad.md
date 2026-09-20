@@ -42,7 +42,7 @@ In dit artikel lees je wat Fins Lapland een goede bestemming maakt om te werken:
 
 ## Lapland als winterbestemming om te werken
 
-Hoewel je Instagramfeed vast vol staat met plaatjes van de meest tropische bestemmingen, kun je natuurlijk ook kiezen voor iets heel anders. Wat is er mooier dan de winter doorbrengen in Lapland? Het is de ideale bestemming rond de kerstperiode, want zeg nou zelf: wie wil er nou niet kerst vieren in het dorp van de Kerstman? Een [Lapland-vakantie](https://www.buroscanbrit.nl/vakantie/finland/fins-lapland) is erg divers, van huskysafari's tot het noorderlicht. Bovendien zijn de knusse accommodaties met houtkachels ideaal om even bij te komen en tegelijkertijd te werken. Het is een uiterst inspirerende omgeving, die je creativiteit zeker ten goede komt.
+Hoewel je Instagramfeed vast vol staat met plaatjes van de meest tropische bestemmingen, kun je natuurlijk ook kiezen voor iets heel anders. Wat is er mooier dan de winter doorbrengen in Lapland? Het is de ideale bestemming rond de kerstperiode, want zeg nou zelf: wie wil er nou niet kerst vieren in het dorp van de Kerstman? Een winter in Lapland is erg divers, van huskysafari's tot het noorderlicht. Bovendien zijn de knusse accommodaties met houtkachels ideaal om even bij te komen en tegelijkertijd te werken. Het is een uiterst inspirerende omgeving, die je creativiteit zeker ten goede komt.
 
 ![Een laptop op een houten tafel naast een gloeiende houtkachel, met sneeuw achter het raam](/images/spots/lapland-houtkachel.webp "Werken bij de houtkachel terwijl het buiten twintig graden vriest")
 
