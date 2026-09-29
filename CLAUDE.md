@@ -106,8 +106,10 @@ Engels, the breadth of models (ChatGPT, Claude, Gemini, AI-agents), an AI Act se
 `utm_source=chatgpt` in sessionStorage, appends " (gezien in ChatGPT)" to every WhatsApp message for the
 session, fills the hidden `bron` field of the intake form (mailed as "Bron: ChatGPT Ads"), and reports
 `contact` (WhatsApp or mail click, param `kanaal`) and `lead` (intake sent, once) to GA4 and to
-`window.__adsTrack`. The ChatGPT Ads pixel itself goes in `src/config/pixel.ts` (`snippet`, `bridge`,
-event names) once Micky supplies it.
+`window.__adsTrack`. The ChatGPT Ads pixel (OpenAI `oaiq`, pixel ID from Micky, 2026-09-29) lives in `src/config/pixel.ts`:
+`snippet` loads it on every page, `bridge` maps the site's events to the pixel (`lead` → standard
+`lead_created`, `contact` → custom `contact_whatsapp` / `contact_mail`); Ads Manager needs conversion settings
+with exactly those names. `debug` is off for visitors.
 
 ### Blog / content:
 - Individual articles: `/blog/[category]/[slug]/`

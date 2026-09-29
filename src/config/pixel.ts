@@ -1,15 +1,27 @@
 /**
- * ChatGPT Ads measurement (handoff 2026-09-29, section 5). Micky pastes the pixel snippet from OpenAI
- * Ads Manager here; the site's own tracking (src/components/Tracking.astro) then reports conversions.
+ * ChatGPT Ads measurement pixel (handoff 2026-09-29, section 5; pixel supplied by Micky on 2026-09-29).
+ * Docs: https://developers.openai.com/ads/measurement-pixel
  *
- *   snippet  the exact <script> tag(s) from Ads Manager, loaded on every page; '' = nothing loads
- *   bridge   JavaScript that defines window.__adsTrack(name, params) using the pixel's own API, so the
- *            site can report the events below without knowing the vendor call; '' = only GA4 receives them
- *   events   the event names Ads Manager expects (Micky supplies the exact names)
+ *   snippet  the loader from OpenAI Ads Manager, on every page. `debug: true` logs every call to the browser
+ *            console; switch it on while testing in Ads Manager, keep it off for visitors.
+ *   bridge   defines window.__adsTrack(name, data), which src/components/Tracking.astro calls with the
+ *            site's own event names below. Mapping to the pixel:
+ *              lead    -> standard event "lead_created" (type customer_action), with an event_id
+ *              contact -> custom event "contact_whatsapp" or "contact_mail" (from data.kanaal)
+ *            Ads Manager must have conversion settings for these names (lead_created is standard; the two
+ *            contact events are created as custom events with exactly these custom_event_names).
  */
 export const ADS_PIXEL = {
-  snippet: '',
-  bridge: '',
+  snippet: `<script>!function(w,d,s,u){if(w.oaiq)return;var q=function(){q.q.push(arguments)};q.q=[];w.oaiq=q;var j=d.createElement(s);j.async=1;j.src=u;var f=d.getElementsByTagName(s)[0];f.parentNode.insertBefore(j,f)}(window,document,"script","https://bzrcdn.openai.com/sdk/oaiq.min.js");oaiq("init",{pixelId:"Nf6PMLFHN3Y4UScd7STZvm",debug:false});</script>`,
+  bridge: `window.__adsTrack = function (name, data) {
+    if (typeof window.oaiq !== 'function') return;
+    if (name === 'lead') {
+      window.oaiq('measure', 'lead_created', { type: 'customer_action' }, { event_id: 'lead-' + Date.now() });
+    } else if (name === 'contact') {
+      var kanaal = (data && data.kanaal) === 'mail' ? 'mail' : 'whatsapp';
+      window.oaiq('measure', 'custom', { type: 'custom' }, { custom_event_name: 'contact_' + kanaal });
+    }
+  };`,
   events: {
     contact: 'contact', // click on a WhatsApp or mail link (param kanaal = whatsapp | mail)
     lead: 'lead',       // intake form sent (/intake/?status=sent), fired once
