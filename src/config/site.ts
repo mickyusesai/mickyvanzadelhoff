@@ -17,6 +17,24 @@ export const SITE = {
   gaMeasurementId: 'G-S08XB20E5W',
 } as const;
 
+/** WhatsApp link with a prefilled message (handoff 2026-09-29: one message per landing page). */
+export const whatsappWith = (text: string) => `${SITE.whatsappUrl}?text=${encodeURIComponent(text)}`;
+
+/** Client quotes for the workshop pages (handoff 2026-09-29; spelling corrected, emoji left out). */
+export const TESTIMONIALS = [
+  {
+    quote: 'Zeer lovende woorden krijg ik over jullie workshop! Er is interesse in meer. Met het idee dat AI zeer snel evolueert zouden we dit eigenlijk ieder kwartaal willen organiseren.',
+    name: 'Nick van Audenhoven',
+    role: 'Tele Trainer, Technogym Benelux',
+  },
+  {
+    quote: 'Heel erg bedankt voor de superleuke, interactieve en leerzame ochtend. Iedereen was razend enthousiast en mijn doel is dankzij jouw enthousiasme en andere manier van training bereikt om hier op kantoor meer bewustwording te creëren naar de ondersteuning en tijdbesparing die AI kan opleveren. Ik zal je zeker aanbevelen bij andere bedrijven om op een leuke en leerzame manier laagdrempelig kennis te maken met de basiskennis van AI!',
+    short: 'Heel erg bedankt voor de superleuke, interactieve en leerzame ochtend. Iedereen was razend enthousiast (…) Ik zal je zeker aanbevelen bij andere bedrijven.',
+    name: 'Shirley Leliveld',
+    role: 'QA Chemical Specialist, Mooijer Volendam',
+  },
+] as const;
+
 /** The numbers that must be identical everywhere on the site. Change them here only. */
 export const FACTS = {
   workshops: '142',

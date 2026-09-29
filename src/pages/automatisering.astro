@@ -2,50 +2,56 @@
 export const prerender = true;
 import Layout from '../layouts/Layout.astro';
 import ClientStrip from '../components/ClientStrip.astro';
-import { FACTS, SITE } from '../config/site';
+import { FACTS, SITE, whatsappWith } from '../config/site';
+const wa = whatsappWith('Hoi Micky, ik heb een proces dat te veel tijd kost: ');
 
 // Briefing 2 (2026-09-15): the fixed-price "Bouwen met Claude Code" week became this service page.
 // Sells the outcome (a working automation, built with the customer's own people), not the tool.
 import { spot } from '../lib/spots';
 
+// Handoff 2026-09-29: the questions entrepreneurs actually ask, in their own words, then what gets built.
 const areas = [
-  { icon: 'auto-administratie', title: 'Administratie en facturen', items: [
-    'Inkoopfacturen uitlezen en klaarzetten voor de boekhouding, met een signaal als factuur en bestelling niet matchen',
-    'Pakbonnen automatisch matchen met facturen',
-    'Urenbriefjes van monteurs, ook als ze als WhatsApp-foto binnenkomen, direct in de urenregistratie',
-    'Bonnetjes en declaraties verwerken en controleren',
+  { icon: 'auto-klantcontact', title: 'Klantcontact', items: [
+    { q: 'Mijn mail kost me elke ochtend een uur.', a: 'Outlook of Gmail sorteert op urgentie en zet concept-antwoorden klaar in jouw toon. Verzenden doe je zelf.' },
+    { q: 'Klanten appen ons de hele dag dezelfde vragen.', a: 'WhatsApp beantwoordt openingstijden, orderstatus en voorraad uit jullie eigen gegevens. Wat afwijkt gaat naar een collega.' },
+    { q: 'Klanten vragen steeds hetzelfde over onze producten.', a: 'Antwoorden op basis van jullie eigen handleidingen, niet op basis van wat AI toevallig denkt te weten.' },
+    { q: 'Klachten belanden bij de verkeerde persoon.', a: 'Samengevat en bij de juiste collega neergelegd, met de context erbij.' },
   ] },
   { icon: 'auto-verkoop', title: 'Verkoop en offertes', items: [
-    'Een offerte genereren uit een telefoonnotitie of een binnengekomen mail, in eigen huisstijl en met de juiste staffelprijzen',
-    'Binnenkomende aanvragen classificeren, in het CRM zetten en voorzien van een vervolgactie',
-    'Tenders en aanbestedingen doorlezen en omzetten naar een checklist met knelpunten',
+    { q: 'Aanvragen blijven twee dagen liggen.', a: 'Een aanvraag uit het contactformulier of de mail staat binnen een minuut in het CRM, met een concept-antwoord klaar.' },
+    { q: 'Een offerte maken kost me elke avond.', a: 'Een offerte uit een telefoonnotitie of een binnengekomen mail, in eigen huisstijl en met de juiste staffelprijzen.' },
+    { q: 'Van de helft van de offertes horen we nooit meer iets.', a: 'Na een afgesproken aantal dagen staat een concept-opvolging klaar.' },
+    { q: 'Na een klantgesprek is de helft van de afspraken weg.', a: 'Een gesprek of Teams-meeting wordt notulen, actiepunten en een bijgewerkt CRM.' },
   ] },
-  { icon: 'auto-klantcontact', title: 'Klantcontact', items: [
-    'De inbox sorteren en concept-antwoorden klaarzetten. Verzenden blijft bij een mens',
-    'Veelgestelde vragen beantwoorden op basis van jullie eigen handleidingen, niet op basis van wat AI toevallig denkt te weten',
-    'Klachten samenvatten en bij de juiste persoon neerleggen',
+  { icon: 'auto-administratie', title: 'Administratie en facturen', items: [
+    { q: 'Ons boekhoudpakket leest facturen in, maar controleert niets.', a: 'Inkoopfacturen en pakbonnen worden gematcht met bestellingen, met een signaal als iets niet klopt. Het deel dat Exact of Moneybird niet voor je doet.' },
+    { q: 'Declaraties controleren kost een dag per maand.', a: 'Bonnetjes en declaraties uitgelezen, gecontroleerd en klaargezet voor de boekhouding.' },
+    { q: 'Urenbriefjes komen als WhatsApp-foto binnen.', a: 'Direct in de urenregistratie.' },
+    { q: 'Elke maandag knip-en-plak tussen webshop, boekhouding en Excel.', a: 'Een koppeling tussen je systemen, met AI voor het deel dat niet netjes in een kolom past.' },
+    { q: 'Contracten invullen en nalopen doen we met de hand.', a: 'Standaardcontracten gevuld en gecontroleerd op afwijkingen van jullie standaard.' },
   ] },
-  { icon: 'auto-planning', title: 'Voorraad en planning', items: [
-    'Bestellijsten op basis van verkoopdata in plaats van op gevoel',
-    'Een concept-rooster of ritplanning waar de planner op doorwerkt',
-    'Kwaliteits- en opleverrapporten uit foto’s van de werkvloer',
+  { icon: 'auto-planning', title: 'Planning', items: [
+    { q: 'Afspraken inplannen kost meer tijd dan de afspraak.', a: 'Een verzoek wordt een voorstel in de agenda en een bevestiging.' },
+    { q: 'Kan AI ook onze roosters, ritten of bestellingen plannen?', a: 'Ja, maar dat is een langer traject dan een week, en dat zeg ik eerlijk in de intake.' },
   ] },
   { icon: 'auto-rapportage', title: 'Rapportage', items: [
-    'Een wekelijkse managementsamenvatting uit systemen die niet met elkaar praten',
-    'Exports uit het ERP omzetten naar het rapport dat iemand nu elke maandagochtend in elkaar klikt',
+    { q: 'Elke maandag klikt iemand hetzelfde rapport in elkaar.', a: 'Een wekelijkse managementsamenvatting uit systemen die niet met elkaar praten.' },
+    { q: 'Wat zeggen onze klanten eigenlijk?', a: 'Reviews, klachten en supportmails per maand samengevat, met een reactie klaar.' },
   ] },
   { icon: 'auto-personeel', title: 'Personeel', items: [
-    'Vacatureteksten en een eerste beoordeling van binnengekomen sollicitaties',
-    'Vragen over verlof, verzuim en regelingen beantwoorden uit jullie eigen personeelshandboek',
+    { q: 'Een vacaturetekst schrijven duurt een dag.', a: 'Vacatureteksten uit jullie eigen functieprofielen, en sollicitaties samengevat met de administratie eromheen. Beoordelen blijft mensenwerk, dat wil de AI Act ook.' },
+    { q: 'Iedereen vraagt HR hetzelfde over verlof.', a: 'Vragen over verlof, verzuim en regelingen beantwoord uit jullie eigen personeelshandboek.' },
+    { q: 'Iemand inwerken kost elke keer een week van een collega.', a: 'Inwerkinstructies en een vraagbaak uit de documenten die er al zijn.' },
   ] },
   { icon: 'auto-marketing', title: 'Marketing en webshop', items: [
-    'Productteksten uit specsheets, honderden artikelen tegelijk',
-    'De hele catalogus vertalen naar Duits, Engels of Frans',
-    'Social posts uit projectfoto’s',
+    { q: 'Vierhonderd productteksten, wie gaat dat schrijven?', a: 'Productteksten uit specsheets, honderden artikelen tegelijk.' },
+    { q: 'Onze webshop moet ook in het Duits.', a: 'De hele catalogus vertaald naar Duits, Engels of Frans.' },
+    { q: 'We doen niks met social omdat niemand tijd heeft.', a: 'Social posts uit projectfoto\'s.' },
   ] },
   { icon: 'auto-kennis', title: 'Kennis en documenten', items: [
-    'Alle handleidingen, contracten en normen doorzoekbaar maken, zodat niemand meer door een archiefmap spit',
-    'Lange documenten samenvatten tot wat er voor jullie in staat',
+    { q: 'Niemand vindt meer iets terug in die map met pdf\'s.', a: 'Handleidingen, contracten en normen doorzoekbaar, zodat niemand meer door een archiefmap spit.' },
+    { q: 'Subsidieaanvragen en aanbestedingen kosten avonden.', a: 'Een eerste versie uit eerdere aanvragen en het bestek, plus een checklist met knelpunten.' },
+    { q: 'Dat rapport van zestig pagina\'s leest niemand.', a: 'Samengevat tot wat er voor jullie in staat.' },
   ] },
 ];
 
@@ -68,16 +74,18 @@ const results = [
 
 const faq = [
   { q: 'Moet ons team technisch zijn?', a: 'Nee. De techniek is mijn werk. Wat wel helpt is iemand die het proces echt kent, want die weet welke uitzonderingen erin zitten.' },
+  { q: 'Wat gebeurt er met onze data?', a: 'Alles wat ik bouw draait in jullie eigen omgeving, met jullie eigen toegangen. Voor gevoelige gegevens kan een model lokaal draaien, zodat er niets het pand verlaat. Wat wel en niet naar een externe AI-dienst mag, leggen we vast in de intake.' },
+  { q: 'We hebben al software met AI-functies. Wat voeg jij toe?', a: 'Het deel ertussen. Je boekhoudpakket leest facturen in, je CRM heeft een chatbot, maar niemand verbindt ze en niemand vangt de uitzonderingen. Daar zit het handwerk, en daar bouw ik.' },
   { q: 'Werkt dit ook als we nog niets met AI doen?', a: 'Ja. Als je team eerst een gezamenlijke basis wil, is de <a href="/ai-workshops/ai-introductie/" class="font-bold text-violet underline underline-offset-2">AI Introductie</a> van drie uur daar de snelste manier voor.' },
   { q: 'Van wie is wat we bouwen?', a: 'Van jullie. De code, de toegang, de data. Ik bouw het bij jullie, niet bij mij.' },
   { q: 'Wat als het over drie maanden stukgaat?', a: 'Daar is de service van een jaar voor. Wat daaronder valt spreken we af in de offerte, omdat het per systeem enorm verschilt.' },
   { q: 'Gaan er banen verdwijnen?', a: 'Niet in wat ik bouw. Wat verdwijnt is het overtypen, het uitzoeken en het handmatig optellen. De mensen die dat nu doen weten meestal als eerste waar de volgende winst zit.' },
-  { q: 'Kom je ook buiten de Randstad?', a: 'Ik werk door heel Nederland en daarbuiten. Reis- en verblijfkosten staan in de offerte.' },
+  { q: 'Kom je ook buiten de Randstad?', a: 'Ik werk in heel Nederland en België, en daarbuiten in overleg. Reis- en verblijfkosten staan in de offerte.' },
 ];
 ---
 <Layout
-  title="AI-automatisering voor jouw bedrijf"
-  description="Ik kom een periode meedraaien binnen je afdeling en automatiseer wat te veel tijd kost. Samen met je eigen mensen, zodat zij er daarna zelf mee verder kunnen."
+  title="AI-automatisering voor je bedrijf, gebouwd met je eigen team"
+  description="Ik kom meedraaien op je afdeling en automatiseer met AI wat te veel tijd kost: mail, offertes, facturen, rapportages. Met je eigen mensen. Gratis intake."
 >
   <!-- Hero: copy left, "chaos becomes order" illustration right -->
   <section class="relative overflow-hidden">
@@ -87,11 +95,11 @@ const faq = [
     <div class="wrap relative z-10 grid items-center gap-10 py-14 sm:py-20 md:grid-cols-[7fr_5fr]">
       <div class="grid gap-5">
         <p class="text-sm font-bold animate-rise"><a href="/ai-workshops/" class="text-violet hover:underline">AI-workshops</a></p>
-        <p class="eyebrow animate-rise [animation-delay:.05s]">Op locatie · in-company</p>
+        <p class="eyebrow animate-rise [animation-delay:.05s]">AI-automatisering · op locatie · Nederland en België</p>
         <h1 class="max-w-3xl text-[38px] font-extrabold leading-[1.04] tracking-tight animate-rise [animation-delay:.1s] sm:text-[54px]">Ik kom meedraaien en automatiseer wat <span class="highlight">te veel tijd</span> kost.</h1>
-        <p class="max-w-prose text-lg text-muted animate-rise [animation-delay:.2s] sm:text-xl">Geen presentatie over wat AI ooit zou kunnen. Ik kom naar je bedrijf, kijk mee met hoe het werk nu echt gaat, en bouw samen met je eigen mensen een systeem dat het saaiste deel overneemt. Aan het eind draait het, en begrijpen jullie precies hoe het werkt.</p>
+        <p class="max-w-prose text-lg text-muted animate-rise [animation-delay:.2s] sm:text-xl">Geen presentatie over wat AI ooit zou kunnen. Ik kom naar je bedrijf, kijk mee met hoe het werk nu echt gaat, en bouw samen met je eigen mensen een systeem dat het saaiste deel overneemt: de mail, de offertes, de facturen, het overtypen. Aan het eind draait het, in jullie eigen systemen, en begrijpen jullie precies hoe het werkt.</p>
         <div class="flex flex-wrap gap-3 animate-rise [animation-delay:.3s]">
-          <a href={SITE.whatsappUrl} rel="noopener" class="btn btn-primary">Stuur een WhatsApp</a>
+          <a href={wa} rel="noopener" class="btn btn-primary">Stuur een WhatsApp</a>
           <a href="/intake/" class="btn btn-ghost">Plan een gratis intake</a>
         </div>
       </div>
@@ -137,8 +145,8 @@ const faq = [
   <section class="wrap py-14 sm:py-20">
     <div class="reveal grid max-w-3xl gap-3">
       <p class="eyebrow">Waar ik mee aan de slag ga</p>
-      <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">Dit is geen menukaart, maar een indruk.</h2>
-      <p class="text-lg text-muted">De vraag is nooit "welke van deze wil je", maar "welke hiervan doet iemand bij jullie nog met de hand".</p>
+      <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">Wat ondernemers me vragen.</h2>
+      <p class="text-lg text-muted">Dit zijn de vragen waarmee ondernemers bij me komen, in hun eigen woorden. Bij alles geldt dezelfde regel: AI doet het voorwerk, een mens beslist en verstuurt.</p>
     </div>
     <div class="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
       {areas.map((a, i) => (
@@ -147,13 +155,13 @@ const faq = [
           <h3 class="font-display text-lg font-bold leading-snug">{a.title}</h3>
           <ul class="grid gap-2.5 text-[15px] leading-snug text-muted">
             {a.items.map((it) => (
-              <li class="flex gap-2"><span class="mt-[9px] h-1.5 w-1.5 flex-none rounded-full bg-violet" aria-hidden="true"></span><span>{it}</span></li>
+              <li class="flex gap-2"><span class="mt-[9px] h-1.5 w-1.5 flex-none rounded-full bg-violet" aria-hidden="true"></span><span><strong class="text-ink">"{it.q}"</strong> {it.a}</span></li>
             ))}
           </ul>
         </div>
       ))}
     </div>
-    <p class="reveal mt-8 text-lg font-semibold">Staat het er niet bij? <a href={SITE.whatsappUrl} rel="noopener" class="text-violet underline underline-offset-2">App me.</a> De kans is groot dat het toch kan.</p>
+    <p class="reveal mt-8 text-lg font-semibold">Staat het er niet bij? <a href={wa} rel="noopener" class="text-violet underline underline-offset-2">App me.</a> De kans is groot dat het toch kan.</p>
   </section>
 
   <!-- How it goes: five steps + side box -->
@@ -234,7 +242,7 @@ const faq = [
           <p class="max-w-prose text-ink/80">Ik werk op basis van een uurtarief. Na de intake krijg je een offerte met een inschatting van de benodigde tijd, zodat je vooraf weet waar je aan toe bent. De intake is gratis en verplicht je tot niets.</p>
           <div class="flex flex-wrap gap-3">
             <a href="/intake/" class="btn btn-primary">Plan een gratis intake</a>
-            <a href={SITE.whatsappUrl} rel="noopener" class="btn btn-ghost">Stuur een WhatsApp</a>
+            <a href={wa} rel="noopener" class="btn btn-ghost">Stuur een WhatsApp</a>
           </div>
         </div>
         <div class="sticker grid gap-1 bg-surface p-6 text-center sm:p-8">
@@ -270,7 +278,7 @@ const faq = [
         <h2 class="text-2xl font-bold sm:text-[36px] sm:leading-[1.1]">Welk proces kost bij jullie te veel tijd?</h2>
         <p class="max-w-prose text-white/80">Je hoeft het niet uitgedacht te hebben. Eén berichtje met wat je stoort is genoeg om te bepalen of er iets te halen valt.</p>
         <div class="flex flex-wrap gap-3">
-          <a href={SITE.whatsappUrl} rel="noopener" class="btn btn-lime">Stuur een WhatsApp</a>
+          <a href={wa} rel="noopener" class="btn btn-lime">Stuur een WhatsApp</a>
           <a href={`mailto:${SITE.email}`} class="btn btn-ghost border-white text-white hover:bg-white/10">Mail Micky</a>
         </div>
       </div>

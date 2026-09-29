@@ -3,9 +3,11 @@ export const prerender = true;
 import Layout from '../../layouts/Layout.astro';
 import WorkshopCard from '../../components/WorkshopCard.astro';
 import ClientStrip from '../../components/ClientStrip.astro';
+import Testimonials from '../../components/Testimonials.astro';
 import Blobs from '../../components/Blobs.astro';
 import { getCollection } from 'astro:content';
-import { FACTS, SITE } from '../../config/site';
+import { FACTS, SITE, whatsappWith } from '../../config/site';
+const wa = whatsappWith('Hoi Micky, ik wil weten welke optie bij mijn team past.');
 import { spot } from '../../lib/spots';
 
 const workshops = (await getCollection('workshops', ({ data }) => !data.draft)).sort((a, b) => a.data.order - b.data.order);
@@ -15,20 +17,27 @@ const why = [
   { icon: 'over-geen-programmeur', text: 'IT-achtergrond, en met AI nu een toverstaf: ik bouw wat ik bedenk en leer jouw team hetzelfde.' },
 ];
 ---
-<Layout title="AI-workshops voor bedrijven" description={`Twee praktische AI-workshops, in-company door heel Nederland: een introductie van drie uur voor het hele team, of AI-automatisering op maat binnen je eigen afdeling. ${FACTS.workshops} workshops, ${FACTS.participants} deelnemers.`}>
+<Layout title="AI-workshops en AI-automatisering voor bedrijven" description={`Twee manieren om AI in je bedrijf te brengen: een introductie van drie uur voor het hele team, of AI-automatisering op maat in je eigen afdeling. In Nederland en België. ${FACTS.workshops} workshops.`}>
   <section class="relative overflow-hidden">
     <Blobs />
-    <div class="wrap relative z-10 grid gap-5 py-14 sm:py-20">
-      <p class="eyebrow animate-rise">In-company · Nederland</p>
-      <h1 class="max-w-4xl text-[38px] font-extrabold leading-[1.04] tracking-tight animate-rise [animation-delay:.1s] sm:text-[56px]">AI-workshops die je team <span class="highlight">zelf</span> laten bouwen.</h1>
-      <p class="max-w-prose text-lg text-muted animate-rise [animation-delay:.2s] sm:text-xl">De ontwikkelingen gaan hard en de meeste teams zien door de bomen het bos niet meer. Ondertussen kan AI in de huidige kwaliteit al de helft van het kantoorwerk overnemen. Wat ontbreekt zijn de toepassingen. Daarom zijn er twee workshops: één om te zien wat er kan, één om het ook echt te bouwen.</p>
+    <div class="wrap relative z-10 grid gap-5 py-12 sm:py-20">
+      <p class="eyebrow animate-rise">In-company · Nederland en België · Nederlands of Engels</p>
+      <h1 class="max-w-4xl text-[36px] font-extrabold leading-[1.04] tracking-tight animate-rise [animation-delay:.1s] sm:text-[56px]">Eerst zien wat AI voor jullie kan. Dan <span class="highlight">bouwen wat werkt.</span></h1>
+      <p class="max-w-prose text-lg text-muted animate-rise [animation-delay:.2s] sm:text-xl">De meeste teams gebruiken inmiddels wel iets van AI, meestal ChatGPT als betere zoekmachine. Ondertussen zijn de tools in een jaar van antwoorden geven naar werk uitvoeren gegaan. Wat ontbreekt is iemand die kijkt naar hoe jullie werken en laat zien wat daarin kan. Daarom twee opties: een introductie waarin het hele team ziet wat er kan, en een traject waarin we het ook echt bouwen.</p>
     </div>
   </section>
-  <ClientStrip compact />
   <section class="wrap pt-10">
     <div class="grid gap-8 md:grid-cols-2">
       {workshops.map((w, i) => <WorkshopCard workshop={w} variant={i === 1 ? 'violet' : 'light'} delay={i + 1} />)}
     </div>
+  </section>
+  <div class="pt-10"><ClientStrip compact /></div>
+  <section class="wrap pt-14 sm:pt-20">
+    <div class="reveal grid gap-3">
+      <p class="eyebrow">Wat deelnemers zeggen</p>
+      <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">Na de ochtend, in hun eigen woorden.</h2>
+    </div>
+    <Testimonials short />
   </section>
   <section class="wrap py-16 sm:py-24">
     <div class="reveal grid gap-6 md:grid-cols-[1fr_2fr] md:items-start">
@@ -56,7 +65,7 @@ const why = [
         <h2 class="text-2xl font-bold sm:text-[36px] sm:leading-[1.1]">Grootse offertes kunnen. Appen werkt sneller.</h2>
         <p class="max-w-prose text-ink/80">In een kort gesprek kijken we wat voor jouw team het meeste oplevert: eerst de introductie, of direct automatiseren.</p>
         <div class="flex flex-wrap gap-3">
-          <a href={SITE.whatsappUrl} rel="noopener" class="btn btn-primary">Stuur een WhatsApp</a>
+          <a href={wa} rel="noopener" class="btn btn-primary">Stuur een WhatsApp</a>
           <a href={`mailto:${SITE.email}`} class="btn btn-ghost">Mail Micky</a>
         </div>
       </div>

@@ -3,6 +3,7 @@ import '../styles/global.css';
 import { SITE } from '../config/site';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import Tracking from '../components/Tracking.astro';
 
 interface Props {
   title: string;
@@ -78,6 +79,7 @@ const GA = import.meta.env.PUBLIC_GA_MEASUREMENT_ID || SITE.gaMeasurementId;
       <slot />
     </main>
     <Footer />
+    <Tracking />
     <script>
       // Scroll reveal + reading progress. Transform/opacity only; respects reduced motion via CSS.
       const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;

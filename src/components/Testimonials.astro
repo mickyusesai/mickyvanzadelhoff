@@ -1,0 +1,14 @@
+---
+/** Two client quotes (config TESTIMONIALS). `short` uses the abbreviated version where one exists. */
+import { TESTIMONIALS } from '../config/site';
+interface Props { short?: boolean; }
+const { short = false } = Astro.props;
+---
+<div class="quotes not-prose">
+  {TESTIMONIALS.map((t, i) => (
+    <figure class="reveal quote" data-delay={i + 1}>
+      <blockquote class="quote__text">{short && 'short' in t ? t.short : t.quote}</blockquote>
+      <figcaption class="quote__by"><strong>{t.name}</strong><span>{t.role}</span></figcaption>
+    </figure>
+  ))}
+</div>
