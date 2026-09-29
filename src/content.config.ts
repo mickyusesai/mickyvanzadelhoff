@@ -37,6 +37,10 @@ const workshops = defineCollection({
     description: z.string().max(170),
     slug: z.string(),
     href: z.string().optional(),   // custom page instead of /ai-workshops/[slug]/ (e.g. /automatisering/)
+    seoTitle: z.string().optional(),     // <title> for the page (default: `${title} – AI-workshop`)
+    kicker: z.string().optional(),       // small line above the H1
+    language: z.string().optional(),     // spec-block row "Taal"
+    whatsappText: z.string().optional(), // prefilled WhatsApp message for this page's buttons
     order: z.number().default(0),
     duration: z.string(),
     location: z.string(),

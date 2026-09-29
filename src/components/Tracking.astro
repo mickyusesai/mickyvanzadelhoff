@@ -1,0 +1,59 @@
+---
+/**
+ * Conversion tracking and the ChatGPT Ads source (handoff 2026-09-29, section 5).
+ * - Remembers utm_source=chatgpt in sessionStorage, adds " (gezien in ChatGPT)" to every WhatsApp
+ *   message on the site while the session lasts, and fills the hidden `bron` field of the intake form.
+ * - Reports "contact" on WhatsApp and mail clicks and "lead" once on a sent intake form, to GA4 (gtag)
+ *   and to window.__adsTrack when the pixel bridge in src/config/pixel.ts defines it.
+ */
+import { ADS_PIXEL } from '../config/pixel';
+const events = ADS_PIXEL.events;
+---
+{ADS_PIXEL.snippet && <Fragment set:html={ADS_PIXEL.snippet} />}
+{ADS_PIXEL.bridge && <script is:inline set:html={ADS_PIXEL.bridge} />}
+<script is:inline define:vars={{ events }}>
+  (function () {
+    var store = {
+      get: function (k) { try { return sessionStorage.getItem(k) || ''; } catch (e) { return ''; } },
+      set: function (k, v) { try { sessionStorage.setItem(k, v); } catch (e) {} }
+    };
+    var params = new URLSearchParams(location.search);
+    if ((params.get('utm_source') || '').toLowerCase() === 'chatgpt') {
+      store.set('bron', 'chatgpt');
+      if (params.get('utm_campaign')) store.set('campagne', params.get('utm_campaign'));
+    }
+    var bron = store.get('bron');
+
+    function track(name, extra) {
+      var data = Object.assign({ pagina: location.pathname, bron: bron || 'direct' }, extra || {});
+      try { if (window.gtag) window.gtag('event', name, data); } catch (e) {}
+      try { if (window.__adsTrack) window.__adsTrack(name, data); } catch (e) {}
+      try { (window.dataLayer = window.dataLayer || []).push({ event: name, data: data }); } catch (e) {}
+    }
+    window.mvzTrack = track;
+
+    var waLinks = document.querySelectorAll('a[href^="https://wa.me/"]');
+    for (var i = 0; i < waLinks.length; i++) {
+      var a = waLinks[i];
+      if (bron === 'chatgpt') {
+        try {
+          var u = new URL(a.href); var text = u.searchParams.get('text');
+          if (!text) u.searchParams.set('text', 'Hoi Micky (gezien in ChatGPT): ');
+          else if (text.indexOf('gezien in ChatGPT') === -1) u.searchParams.set('text', text.replace(/\s+$/, '') + ' (gezien in ChatGPT)' + (/:\s*$/.test(text) ? ' ' : ''));
+          a.href = u.toString();
+        } catch (e) {}
+      }
+      a.addEventListener('click', function () { track(events.contact, { kanaal: 'whatsapp' }); });
+    }
+    var mailLinks = document.querySelectorAll('a[href^="mailto:"]');
+    for (var j = 0; j < mailLinks.length; j++) mailLinks[j].addEventListener('click', function () { track(events.contact, { kanaal: 'mail' }); });
+
+    var bronField = document.querySelector('input[name="bron"]');
+    if (bronField && bron) bronField.value = bron;
+
+    if (location.pathname.replace(/\/$/, '') === '/intake' && params.get('status') === 'sent' && !store.get('lead-sent')) {
+      store.set('lead-sent', '1');
+      track(events.lead, {});
+    }
+  })();
+</script>

@@ -95,6 +95,20 @@ header button says "Stuur een WhatsApp".
    (`src/lib/intake-slots.ts`; 45 min, Google Meet); Micky confirms within a day.
 8. **Privacy** (`/privacy/`).
 
+**ChatGPT Ads (handoff 2026-09-29, D35):** the ads land on `/ai-workshops/ai-introductie/` and `/automatisering/`
+with `?utm_source=chatgpt&utm_medium=cpc&utm_campaign=…`; the URLs and canonicals stay clean and unchanged.
+Copy on those two pages and the hub follows the handoff: in-company in Nederland en België, Nederlands of
+Engels, the breadth of models (ChatGPT, Claude, Gemini, AI-agents), an AI Act section (article 4, since
+2 February 2025), the two client quotes (`TESTIMONIALS` in `site.ts`, `Testimonials.astro`, or the same
+`.quotes/.quote` markup written in workshop markdown) and a prefilled WhatsApp message per page
+(`whatsappWith()` in `site.ts`; workshops carry it as `whatsappText` in their frontmatter, plus optional
+`seoTitle`, `kicker` and `language`). `src/components/Tracking.astro` (in the layout) stores
+`utm_source=chatgpt` in sessionStorage, appends " (gezien in ChatGPT)" to every WhatsApp message for the
+session, fills the hidden `bron` field of the intake form (mailed as "Bron: ChatGPT Ads"), and reports
+`contact` (WhatsApp or mail click, param `kanaal`) and `lead` (intake sent, once) to GA4 and to
+`window.__adsTrack`. The ChatGPT Ads pixel itself goes in `src/config/pixel.ts` (`snippet`, `bridge`,
+event names) once Micky supplies it.
+
 ### Blog / content:
 - Individual articles: `/blog/[category]/[slug]/`
 - This matches the original WordPress structure: `/%category%/%postname%/`

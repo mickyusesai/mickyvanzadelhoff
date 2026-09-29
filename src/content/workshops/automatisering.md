@@ -1,15 +1,15 @@
 ---
 title: "AI-automatisering op maat"
-subtitle: "Ik kom een periode meedraaien binnen je afdeling en automatiseer, samen met je eigen mensen, wat te veel tijd kost."
-description: "Op locatie meedraaien en automatiseren wat te veel tijd kost, samen met je eigen mensen. Uurtarief €150 excl. btw, offerte na een gratis intake."
+subtitle: "Ik kom een periode meedraaien binnen je afdeling en automatiseer, samen met je eigen mensen, wat te veel tijd kost: mail, offertes, facturen, rapportages."
+description: "Ik kom meedraaien op je afdeling en automatiseer met AI wat te veel tijd kost: mail, offertes, facturen, rapportages. Met je eigen mensen. Gratis intake."
 slug: "automatisering"
 href: "/automatisering/"
 order: 2
 duration: "Op locatie"
 location: "Bij jou op locatie"
-participants: "duur in overleg"
+participants: "Duur in overleg"
 price: "vanaf €150 p/u"
-priceNote: "na een gratis intake een offerte"
+priceNote: "offerte na een gratis intake"
 outcomes:
   - "Een werkende automatisering voor jullie eigen processen"
   - "Je eigen mensen kunnen het onderhouden"

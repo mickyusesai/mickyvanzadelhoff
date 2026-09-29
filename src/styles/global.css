@@ -78,6 +78,16 @@
   .timeline__item--now { @apply bg-violet text-white; }
   .timeline__item--now .timeline__year { @apply text-lime; }
   .timeline__item--now .timeline__text { @apply text-white/80; }
+  /* Client quotes on the workshop pages (Testimonials.astro; the same markup is written by hand in workshop markdown) */
+  .quotes { @apply my-8 grid gap-5 md:grid-cols-2; }
+  .quote { @apply sticker relative m-0 grid gap-4 bg-surface p-6 pt-8 sm:p-7 sm:pt-9; }
+  .quote::before { content: "\201C"; @apply absolute -top-4 left-5 inline-flex h-9 w-9 items-center justify-center rounded-full border-2 border-ink bg-lime font-display text-2xl font-bold leading-none text-ink; }
+  .quote__text { @apply m-0 border-0 p-0 text-[17px] font-medium not-italic leading-relaxed text-ink; }
+  .quote__text::before, .quote__text::after { content: none; }
+  .quote__by { @apply grid text-sm text-muted; }
+  .quote__by strong { @apply text-ink; }
+  /* A transparent spot illustration floated inside long-form copy */
+  .prose .spot-figure { @apply my-4 h-32 w-32 sm:float-right sm:ml-6 sm:mt-1 sm:h-40 sm:w-40; }
   /* Promo card for the AI workshops and automatisering on blog articles (src/components/PromoPopup.astro) */
   .promo { @apply sticker fixed z-30 grid gap-2 bg-surface p-4 sm:p-5; left: 12px; right: 12px; bottom: 12px; opacity: 0; transform: translateY(24px); transition: transform .35s cubic-bezier(.2,.8,.2,1), opacity .35s ease; }
   .promo[hidden] { display: none; }

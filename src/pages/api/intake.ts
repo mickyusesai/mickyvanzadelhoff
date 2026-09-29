@@ -80,6 +80,7 @@ export const POST: APIRoute = async ({ request }) => {
   if (clean(form.get('website'), 10)) return back('sent');
 
   const v = Object.fromEntries(FIELDS.map((f) => [f, clean(form.get(f), LONG.includes(f) ? 4000 : 200)])) as Record<Field, string>;
+  const bron = clean(form.get('bron'), 40); // 'chatgpt' when the visitor came from a ChatGPT ad (Tracking.astro)
   const today = new Date().toISOString().slice(0, 10);
   const valid =
     FIELDS.every((f) => v[f]) &&
@@ -118,6 +119,7 @@ export const POST: APIRoute = async ({ request }) => {
     `2. ${formatSlot(v.slot2_date, v.slot2_time)}`,
     ``,
     `Beantwoord deze mail om het moment te bevestigen (reply gaat naar ${v.email}).`,
+    ...(bron ? [``, `Bron: ${bron === 'chatgpt' ? 'ChatGPT Ads' : bron}`] : []),
   ].join('\n');
 
   const mail: Mail = {
