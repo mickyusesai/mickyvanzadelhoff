@@ -1,7 +1,7 @@
 ---
 /**
  * The intake form, in two variants (src/lib/intake.ts): "Plan een gratis intake" on /intake/ and the
- * compact "Datum prikken" form in the spec block of the AI Introductie page. It posts to /api/intake;
+ * "Bel me terug" form under the article of the AI Introductie page. It posts to /api/intake;
  * with JavaScript the page stays put and the form makes way for the success block, without it the
  * route answers a 303 back to the page with ?status=, which the same script reads at load.
  * The `lead` event (src/components/Tracking.astro) fires once per session per variant.
@@ -12,8 +12,8 @@ import { VARIANTS, type Voor } from '../lib/intake';
 interface Props { voor: Voor; compact?: boolean }
 const { voor, compact = false } = Astro.props;
 const variant = VARIANTS[voor];
-const mailFallback = `mailto:${SITE.email}?subject=${encodeURIComponent(voor === 'automatisering' ? 'Gratis intake AI-automatisering' : 'Datum voor de AI Introductie')}`;
-const privacy = voor === 'automatisering' ? 'Je gegevens gebruik ik alleen om dit gesprek in te plannen.' : 'Je gegevens gebruik ik alleen om een datum voor te stellen.';
+const mailFallback = `mailto:${SITE.email}?subject=${encodeURIComponent(voor === 'automatisering' ? 'Gratis intake AI-automatisering' : 'AI Introductie voor mijn team')}`;
+const privacy = voor === 'automatisering' ? 'Je gegevens gebruik ik alleen om dit gesprek in te plannen.' : 'Je gegevens gebruik ik alleen om je terug te bellen.';
 ---
 <div data-intake-root data-voor={voor}>
   <div data-intake-success hidden>
@@ -25,9 +25,10 @@ const privacy = voor === 'automatisering' ? 'Je gegevens gebruik ik alleen om di
         <a href="/automatisering/" class="btn btn-primary w-fit">Terug naar de automatiseringspagina</a>
       </div>
     ) : (
-      <div class="grid gap-2 rounded-2xl border-2 border-ink bg-lime p-4">
-        <p class="font-bold">Dank je. Binnen een dag krijg je een datumvoorstel van me.</p>
-        <p class="text-sm">Eerst een kort gesprek? <a href="/intake/" class="font-bold text-violet underline underline-offset-2">Plan een gratis intake</a>.</p>
+      <div class="sticker grid gap-4 bg-lime p-7 sm:p-9">
+        <p class="eyebrow text-ink">Gelukt</p>
+        <h3 class="text-2xl font-bold sm:text-[30px] sm:leading-[1.15]">Dank je. Ik bel je binnen een dag om alles af te stemmen.</h3>
+        <p class="text-ink/80">Eerder iets vragen? <a href={SITE.whatsappUrl} rel="noopener" class="font-bold underline underline-offset-2">Stuur een WhatsApp</a>.</p>
       </div>
     )}
   </div>
@@ -57,7 +58,7 @@ const privacy = voor === 'automatisering' ? 'Je gegevens gebruik ik alleen om di
     <input type="hidden" name="bron" value="" />
 
     <div class:list={['flex flex-wrap items-center gap-4', compact && 'gap-3']}>
-      <button type="submit" class:list={['btn btn-primary', compact && 'w-full']}>{voor === 'automatisering' ? 'Verstuur' : 'Vraag een datum aan'}</button>
+      <button type="submit" class:list={['btn btn-primary', compact && 'w-full']}>{voor === 'automatisering' ? 'Verstuur' : 'Bel me terug'}</button>
       <p class="text-xs text-muted">{privacy} <a href="/privacy/" class="underline underline-offset-2">Privacy</a></p>
     </div>
   </form>

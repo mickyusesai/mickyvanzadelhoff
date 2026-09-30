@@ -51,6 +51,8 @@ De vraag die in elke workshop als eerste komt. Welke gegevens mogen in welke too
 **12.50 – 13.00 · Jullie bedrijf, de komende twaalf maanden**
 Waar gaat het heen en wat betekent dat voor jullie werk? Korte discussie en de vervolgstappen.
 
+<div class="cta-row not-prose"><a href="https://wa.me/31681081589?text=Hoi%20Micky%2C%20ik%20wil%20meer%20weten%20over%20de%20AI%20Introductie%20voor%20mijn%20team." rel="noopener" class="btn btn-primary">Stuur een WhatsApp</a><a href="#bel-me" class="btn btn-ghost">Laat je terugbellen</a></div>
+
 ## Wat je meeneemt
 
 - **Een promptlijst per afdeling.** Nooit meer vastlopen omdat je niet weet wat je met AI kunt.
@@ -72,6 +74,8 @@ Deze introductie is daar een praktische invulling van, zonder dat het een compli
 <figure class="quote"><blockquote class="quote__text">Zeer lovende woorden krijg ik over jullie workshop! Er is interesse in meer. Met het idee dat AI zeer snel evolueert zouden we dit eigenlijk ieder kwartaal willen organiseren.</blockquote><figcaption class="quote__by"><strong>Nick van Audenhoven</strong><span>Tele Trainer, Technogym Benelux</span></figcaption></figure>
 <figure class="quote"><blockquote class="quote__text">Heel erg bedankt voor de superleuke, interactieve en leerzame ochtend. Iedereen was razend enthousiast en mijn doel is dankzij jouw enthousiasme en andere manier van training bereikt om hier op kantoor meer bewustwording te creëren naar de ondersteuning en tijdbesparing die AI kan opleveren. Ik zal je zeker aanbevelen bij andere bedrijven om op een leuke en leerzame manier laagdrempelig kennis te maken met de basiskennis van AI!</blockquote><figcaption class="quote__by"><strong>Shirley Leliveld</strong><span>QA Chemical Specialist, Mooijer Volendam</span></figcaption></figure>
 </div>
+
+<div class="cta-row not-prose"><a href="https://wa.me/31681081589?text=Hoi%20Micky%2C%20ik%20wil%20meer%20weten%20over%20de%20AI%20Introductie%20voor%20mijn%20team." rel="noopener" class="btn btn-primary">Stuur een WhatsApp</a><a href="#bel-me" class="btn btn-ghost">Laat je terugbellen</a></div>
 
 ## Wat ik van jullie nodig heb
 
@@ -113,4 +117,6 @@ Ja, en dat is de logische volgorde: eerst ziet het hele team wat er kan, daarna 
 Ja. Technogym vroeg daar zelf om: ieder kwartaal een korte update, omdat het zo hard gaat. Dat kan als los vervolg.
 
 **Hoe snel kan het?**
-Meestal binnen twee tot vier weken. App me en we prikken een datum.
+Meestal binnen twee tot vier weken. App me of laat je terugbellen, dan stemmen we een datum af.
+
+<div class="cta-row not-prose"><a href="https://wa.me/31681081589?text=Hoi%20Micky%2C%20ik%20wil%20meer%20weten%20over%20de%20AI%20Introductie%20voor%20mijn%20team." rel="noopener" class="btn btn-primary">Stuur een WhatsApp</a><a href="#bel-me" class="btn btn-ghost">Laat je terugbellen</a></div>

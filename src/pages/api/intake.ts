@@ -38,7 +38,7 @@ function answer(request: Request, status: Status, voor: Voor) {
     return Response.json({ ok: status === 'sent', status }, { status: HTTP[status] });
   }
   const back = VARIANTS[voor].back;
-  const hash = voor === 'introductie' ? '#specificaties' : '';
+  const hash = voor === 'introductie' ? '#bel-me' : '';
   return new Response(null, { status: 303, headers: { Location: `${back}?status=${status}${hash}` } });
 }
 
@@ -117,7 +117,7 @@ export const POST: APIRoute = async ({ request }) => {
     ``,
     ...rows,
     ``,
-    `${variant.outro} Reply gaat naar ${v.email}.`,
+    `${variant.outro} Reply gaat naar ${v.email}${v.phone ? `, telefoon ${v.phone}` : ''}.`,
     ...(bron ? [``, `Bron: ${bron === 'chatgpt' ? 'ChatGPT Ads' : bron}`] : []),
   ].join('\n').replace(/\n{3,}/g, '\n\n');
 

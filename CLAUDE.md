@@ -88,8 +88,10 @@ header button says "Stuur een WhatsApp".
    on-demand route `src/pages/api/intake.ts`, which mails Micky. With JavaScript the form sends with
    `fetch` (`Accept: application/json`, answer `{ ok, status }`) and shows its success block in place;
    without it the route answers a 303 back to the page with `?status=`. The same component, as
-   `<IntakeForm voor="introductie" compact />`, is the "Datum prikken" form in the spec block of a workshop
-   whose frontmatter has `voor: "introductie"` (D38; the AI Introductie page, sidebar no longer sticky).
+   `<IntakeForm voor="introductie" />`, is the "Bel me terug" section under the article of a workshop whose
+   frontmatter has `voor: "introductie"` (D38, the AI Introductie page): the visitor says roughly when they
+   want the workshop and Micky calls to settle date, group and content; no date is fixed on the site. That
+   page also carries three `.cta-row` button rows written as raw HTML in its markdown (WhatsApp + `#bel-me`).
    Railway blocks outbound SMTP on the Free, Trial and Hobby plans, so the mail goes through Postmark's
    HTTPS API, from the paid Postmark account Micky already uses for EasyReimburse (sender signatures and
    verified domains are account-wide). Env on Railway: `POSTMARK_SERVER_TOKEN` (a server API token),
@@ -102,8 +104,8 @@ header button says "Stuur een WhatsApp".
    works on Railway Pro or another host. Fields (automatisering): name, company, e-mail, phone
    (optional), "Wat kost nu te veel tijd?", "Wanneer komt jou het beste uit?" (free text, e.g. dinsdagochtend);
    no time pickers and no Google appointment page (Micky, 2026-09-30, D37): he answers within a day with a
-   proposal, 30 minutes on Google Meet or by phone. Date form (introductie): name, company, e-mail, people,
-   when. Honeypot `website` is off-screen (`.hp`), never `display:none`.
+   proposal, 30 minutes on Google Meet or by phone. Call-back form (introductie): name, company, phone
+   (required), e-mail, people, when. Honeypot `website` is off-screen (`.hp`), never `display:none`.
 8. **Privacy** (`/privacy/`).
 
 **ChatGPT Ads (handoff 2026-09-29, D35):** the ads land on `/ai-workshops/ai-introductie/` and `/automatisering/`
