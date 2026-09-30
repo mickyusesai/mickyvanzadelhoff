@@ -118,7 +118,7 @@ Proactief leven kun je terugbrengen tot proactief handelen op alledaags niveau. 
 
 De kans dat datgene wat jou gelukkig maakt zomaar op je afkomt is natuurlijk enorm klein. Wanneer je dus alleen reactief handelt zul je dat niet vinden. De wereld heeft namelijk pas het beste met je voor wanneer jij het beste voor hebt met jezelf. Het ontwerpen van je eigen levensklok waar jij gelukkig van wordt is er dus eentje van pro activiteit.
 
-<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Meestal drie tot vijf dagen, €3.600 tot €6.000 per traject, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Een leven waar je zelf geluk uit haalt
 

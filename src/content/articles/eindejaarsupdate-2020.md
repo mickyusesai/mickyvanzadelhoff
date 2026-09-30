@@ -44,7 +44,7 @@ Ik merk plots dat het harde werken aan mijn blog resultaat oplevert. Met maandel
 
 Buiten dit passieve inkomen ben ik vanwege corona dit jaar ook gestart met een videotraining. Een online training voor wie met [bloggen](/blog/online-geld-verdienen/bloggen/) (en affiliate marketing) geld wil verdienen. Waanzinnig leuk om te doen en een prima manier om nog wat bij te verdienen.
 
-<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Meestal drie tot vijf dagen, €3.600 tot €6.000 per traject, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Rustige kerst en grootse plannen voor 2021
 

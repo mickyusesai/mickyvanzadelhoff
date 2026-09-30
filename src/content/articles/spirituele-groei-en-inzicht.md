@@ -50,7 +50,7 @@ Het mooie aan deze vorm van energie is dat het 2 kanten op werkt. Zo creëer je 
 
 In de beschreven boeken wordt deze energie nog wat dieper genomen, als in de wet van de aantrekkingskracht. Positieve energie trekt positieve energie aan. Hierdoor kun je meer bereiken en komen de dingen die je wilt als het ware naar je toe. Om dit gehele principe te begrijpen, raad ik je in beginsel aan om eens de [documentaire van ‘The Secret’ te kijken op Youtube](https://www.youtube.com/watch?v=-ioKU6Jue_k). Houdt hierbij wel in het achterhoofd dat het om een Amerikaans gebeuren gaat en probeer door het materialisme in die documentaire heen te kijken. Ben benieuwd wat je ervan vind!
 
-<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Meestal drie tot vijf dagen, €3.600 tot €6.000 per traject, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Een gedachte over dankbaarheid als fundament voor je geluk
 

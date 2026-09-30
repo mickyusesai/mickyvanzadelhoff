@@ -273,7 +273,7 @@ Werk samen met grotere YouTubers, laat iemand naar je verwijzen, gebruik Shorts 
 
 Verdien je geld met je kanaal, dan ziet KVK dat als ondernemen: je schrijft je in, houdt een administratie bij en geeft je inkomsten op bij de Belastingdienst. Ook gratis producten tellen als inkomsten. Zie het dus zoals het is: geld verdienen met YouTube is [een eigen onderneming starten](/blog/ondernemen/eigen-bedrijf-starten/). Bouw eraan alsof het je bedrijf is, want dat is het.
 
-<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Meestal drie tot vijf dagen, €3.600 tot €6.000 per traject, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Veelgestelde vragen
 

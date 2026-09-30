@@ -140,7 +140,7 @@ Het schrijven van artikelen is voor mij een vaste bezigheid geworden in de categ
 
 Inmiddels heb ik maandelijks 50.000 bezoekers op mijn website. Dat is iets lager dan mijn verwachte groei, maar het is efficiënte groei: ik verkoop veel meer en heb een hogere conversie op mijn producten en leadpagina's. Ook zie ik dat nieuwe artikelen veel sneller ranken. Als ik nu iets publiceer, eindig ik standaard op de eerste pagina van de zoekresultaten, zonder maandenlang te wachten.
 
-<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Meestal drie tot vijf dagen, €3.600 tot €6.000 per traject, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Update 2026
 

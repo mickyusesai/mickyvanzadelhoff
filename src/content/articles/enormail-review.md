@@ -176,7 +176,7 @@ Daarna loop je zeven velden door: onderwerpregel (kort, geen advertentietaal), d
 
 Meer uitleg over de autoresponder en de formulieren vind je in de helpdesk van Enormail, die het zelf uitstekend uitlegt. En hoe je een lijst opbouwt waar mensen graag op staan, lees je in mijn artikel over [leads genereren met een mailinglijst](/blog/ondernemen/leads-genereren-mailinglijst/).
 
-<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Meestal drie tot vijf dagen, €3.600 tot €6.000 per traject, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie Enormail review
 

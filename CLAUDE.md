@@ -64,11 +64,15 @@ header button says "Stuur een WhatsApp".
    under `/ai-workshops/`). Adding a workshop = adding a file; an entry with `href` is card-only.
 3. **AI-automatisering** (`/automatisering/`) — Custom service page built in `automatisering.astro`
    from Micky's briefing 2 (2026-09-15, decision D26): he works alongside a department and automates
-   what costs too much time, with two of the customer's own people; €150 per hour excl. btw, offerte
-   after a free intake (a mail link), one year of service included. Sells the outcome, not the tool.
+   what costs too much time, with two of the customer's own people; €150 per hour excl. btw, and since
+   2026-09-30 (D36) always with the size next to it: a bounded automation is usually three to five days,
+   €3.600 to €6.000 per traject, fixed estimate after the free intake, one year of service, no subscription,
+   then only AI and hosting costs. Three worked examples with cost-versus-saving bars sit under the price.
+   Sells the outcome, not the tool.
    Inline SVG hero, eight areas with spot illustrations (`auto-*`), five-step timeline, FAQ. The old
    `/ai-workshops/bouwen-met-claude-code/` answers 301 (added in `scripts/cleanup-content.py`).
-   Never write "€7.500", "5 dagen" or "bouwweek" again.
+   Never write "€7.500" or "bouwweek" again (the old fixed-price week); durations are written in words
+   ("drie tot vijf dagen").
 4. **About** (`/over/`) — Built directly in `over.astro` from the briefing: hero with workshop photo,
    stat bar, client logos, "nat turflijstje" story, EasyReimburse, the "AI werkt niet bestaat niet"
    stance with the big quote, "Waar ik vandaan kom" with a compact press row, coffee CTA. The old

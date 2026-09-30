@@ -152,7 +152,7 @@ Mijn conclusie uit dit sommetje: met een paar honderd euro aan crypto verdien je
 
 AllesOverCrypto staat op Trustpilot met een score van **4,7 van 5** bij 1.301 reviews, waarvan 83% vijf sterren (20 september 2026). De rode draad in de positieve reviews: alles wordt in begrijpelijke taal uitgelegd, ook voor absolute beginners. De kritiek die je tegenkomt, gaat vooral over de prijs en over verwachtingen: wie denkt dat een cursus rijk maakt, komt bedrogen uit. Dat geldt voor elke opleiding.
 
-<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Meestal drie tot vijf dagen, €3.600 tot €6.000 per traject, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Voor wie is Money Mastery (en voor wie niet)?
 

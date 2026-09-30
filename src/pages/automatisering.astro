@@ -72,6 +72,16 @@ const results = [
   'Alles staat bij jullie. Geen abonnement bij mij, geen afhankelijkheid',
 ];
 
+// Wat het kost (Micky, 2026-09-30): the typical project size in days and euros, plus three worked examples with
+// assumptions, not client cases. The bars compare investment and yearly saving on one scale (the largest saving).
+const examples = [
+  { title: 'Mail voorsorteren en concept-antwoorden', text: "Twee medewerkers zijn elk 45 minuten per dag kwijt aan standaardmail. Drie dagen bouwen: €3.600. Bespaart zo'n 345 uur per jaar; bij €40 loonkosten per uur ruim €13.000. Terugverdiend in ongeveer drie maanden.", days: 'Drie dagen', cost: '€3.600', costN: 3600, saving: 'ruim €13.000', hours: '±345 uur', savingN: 13800, payback: '±3 maanden' },
+  { title: 'Aanvragen automatisch in het CRM, met concept-offerte', text: "Vijftien aanvragen per week, elk 20 minuten overtypen en voorbereiden. Vier dagen: €4.800. Bespaart zo'n 230 uur per jaar, ruim €9.000. En een reactie binnen een uur in plaats van na twee dagen, wat meestal meer oplevert dan de uren.", days: 'Vier dagen', cost: '€4.800', costN: 4800, saving: 'ruim €9.000', hours: '±230 uur', savingN: 9200, payback: '±6 maanden' },
+  { title: 'Inkoopfacturen en pakbonnen matchen', text: "Driehonderd facturen per maand, vijf minuten controleren per stuk. Vijf dagen: €6.000. Bespaart zo'n 300 uur per jaar, €12.000, plus de dubbele betalingen die nu doorglippen.", days: 'Vijf dagen', cost: '€6.000', costN: 6000, saving: '€12.000', hours: '±300 uur', savingN: 12000, payback: '±6 maanden' },
+];
+const barMax = Math.max(...examples.map((e) => e.savingN));
+const pct = (n: number) => Math.round((n / barMax) * 100);
+
 const faq = [
   { q: 'Moet ons team technisch zijn?', a: 'Nee. De techniek is mijn werk. Wat wel helpt is iemand die het proces echt kent, want die weet welke uitzonderingen erin zitten.' },
   { q: 'Wat gebeurt er met onze data?', a: 'Alles wat ik bouw draait in jullie eigen omgeving, met jullie eigen toegangen. Voor gevoelige gegevens kan een model lokaal draaien, zodat er niets het pand verlaat. Wat wel en niet naar een externe AI-dienst mag, leggen we vast in de intake.' },
@@ -232,25 +242,49 @@ const faq = [
   </section>
   <ClientStrip compact />
 
-  <!-- Price -->
+  <!-- Price: typical project size, then three worked examples (Micky, 2026-09-30) -->
   <section class="wrap py-16 sm:py-24">
     <div class="reveal sticker relative overflow-hidden bg-lime p-8 sm:p-12">
       <div class="relative z-10 grid gap-8 md:grid-cols-[3fr_2fr] md:items-center">
         <div class="grid gap-4">
           <p class="eyebrow text-ink">Wat het kost</p>
-          <h2 class="text-2xl font-bold sm:text-[36px] sm:leading-[1.1]">Elk bedrijf is anders, dus een vaste prijs zou een slag in de lucht zijn.</h2>
-          <p class="max-w-prose text-ink/80">Ik werk op basis van een uurtarief. Na de intake krijg je een offerte met een inschatting van de benodigde tijd, zodat je vooraf weet waar je aan toe bent. De intake is gratis en verplicht je tot niets.</p>
+          <h2 class="text-2xl font-bold sm:text-[36px] sm:leading-[1.1]">Meestal drie tot vijf dagen, en dan draait het.</h2>
+          <p class="max-w-prose text-ink/80">Ik reken €150 per uur excl. btw. Een afgebakende automatisering kost meestal drie tot vijf dagen, dus €3.600 tot €6.000, inclusief een jaar service. Na de gratis intake krijg je een vaste inschatting, zodat je vooraf weet waar je aan toe bent. Geen abonnement bij mij: het systeem is van jullie. Wat het daarna kost zijn de AI- en hostingkosten, meestal enkele tientjes per maand.</p>
           <div class="flex flex-wrap gap-3">
             <a href="/intake/" class="btn btn-primary">Plan een gratis intake</a>
             <a href={wa} rel="noopener" class="btn btn-ghost">Stuur een WhatsApp</a>
           </div>
         </div>
         <div class="sticker grid gap-1 bg-surface p-6 text-center sm:p-8">
-          <p class="font-display text-[44px] font-bold leading-none text-violet sm:text-[56px]">€150</p>
-          <p class="text-sm font-bold uppercase tracking-[0.14em] text-muted">per uur, excl. btw</p>
-          <p class="mt-3 text-sm text-muted">Offerte na een gratis intake. Een jaar service inbegrepen.</p>
+          <p class="font-display text-[32px] font-bold leading-none text-violet sm:text-[40px]">€3.600 – 6.000</p>
+          <p class="text-sm font-bold uppercase tracking-[0.14em] text-muted">per traject</p>
+          <p class="mt-3 text-sm text-muted">€150 per uur · gratis intake · een jaar service</p>
         </div>
       </div>
+    </div>
+
+    <div class="reveal mt-12 grid max-w-3xl gap-2">
+      <h3 class="font-display text-2xl font-bold tracking-tight sm:text-3xl">Drie rekenvoorbeelden</h3>
+      <p class="text-lg text-muted">Geen klantcases maar aannames. In de intake vullen we jouw cijfers in.</p>
+    </div>
+    <div class="mt-6 grid gap-5 md:grid-cols-3">
+      {examples.map((e, i) => (
+        <article class="reveal sticker flex flex-col gap-4 bg-surface p-6" data-delay={i + 1}>
+          <h4 class="font-display text-lg font-bold leading-snug">{e.title}</h4>
+          <p class="text-[15px] leading-snug text-muted">{e.text}</p>
+          <dl class="mt-auto grid gap-3 border-t-2 border-line pt-4 text-sm">
+            <div>
+              <div class="flex items-baseline justify-between gap-3"><dt class="text-muted">Bouwen</dt><dd class="font-bold">{e.days} · {e.cost}</dd></div>
+              <div class="bar" aria-hidden="true"><span class="bar__fill bar__fill--cost" style={`width:${pct(e.costN)}%`}></span></div>
+            </div>
+            <div>
+              <div class="flex items-baseline justify-between gap-3"><dt class="text-muted">Bespaart per jaar</dt><dd class="font-bold">{e.hours} · {e.saving}</dd></div>
+              <div class="bar" aria-hidden="true"><span class="bar__fill" style={`width:${pct(e.savingN)}%`}></span></div>
+            </div>
+            <div class="flex items-baseline justify-between gap-3"><dt class="text-muted">Terugverdiend</dt><dd class="font-display font-bold text-violet">{e.payback}</dd></div>
+          </dl>
+        </article>
+      ))}
     </div>
   </section>
 

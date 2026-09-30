@@ -22,7 +22,7 @@ Vaak maakte ik aan het begin van de dag een to-do list en probeerde deze dan sta
 
 Sommige dingen bleven nu wel eens een week liggen. Maar op een bepaald moment, wanneer ik er dan mee aan de slag ging, ging dit waanzinnig snel. Ik vertrouw er inmiddels op dat ik overal vanzelf wel zin in krijg, maar dat ik het niet moet dwingen. En het leuke was, dat als ik nu de dingen deed, mijn inspiratie voor wat ik deed volop aanwezig was. Dat betekent dat die uren die ik doelloos naar mijn scherm staarde en zocht naar afleiding, nu konden worden **benut** voor het maken van een wandeling, een duik in het zwembad of het lezen van een boek. Allemaal dingen die veel meer voldoening geven dan het checken van je timeline op Facebook.
 
-<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Meestal drie tot vijf dagen, €3.600 tot €6.000 per traject, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Je bent geen robot
 

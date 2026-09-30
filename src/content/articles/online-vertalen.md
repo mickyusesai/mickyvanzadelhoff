@@ -152,7 +152,7 @@ Tegelijk is er een andere kant. Zestig procent van de opdrachten heeft een mens 
 
 Mijn advies als je hieraan begint: behandel vertalen niet als bijbaan waarbij je woorden omzet, maar als vak waarin je een specialisme opbouwt. Combineer het met taalles, ondertiteling of copywriting in je tweede taal, zodat je niet van één soort opdracht afhankelijk bent. En gebruik AI elke dag, zodat jij degene bent die weet wat het wel en niet kan. Voor wie dat doet, is vertalen nog altijd een van de manieren om locatie-onafhankelijk geld te verdienen. Voor wie dat niet doet, is het dat niet meer.
 
-<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Meestal drie tot vijf dagen, €3.600 tot €6.000 per traject, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Veelgestelde vragen over online vertalen
 
