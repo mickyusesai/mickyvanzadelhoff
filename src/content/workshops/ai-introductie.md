@@ -13,6 +13,7 @@ language: "Nederlands of Engels"
 price: "€1.500"
 priceNote: "excl. btw, inclusief reiskosten en voorbereiding"
 whatsappText: "Hoi Micky, ik wil meer weten over de AI Introductie voor mijn team."
+voor: "introductie"
 outcomes:
   - "Iedereen ziet wat ChatGPT, Claude, Gemini en AI-agents vandaag kunnen"
   - "Een promptlijst en minstens één taak die morgen al met AI gaat"

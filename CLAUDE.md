@@ -83,8 +83,13 @@ header button says "Stuur een WhatsApp".
 6. **Blog** (`/blog/`) — Secondary in navigation. Category `web3` is kept online but hidden from
    the homepage and blog overview (D3); see `HIDDEN_FROM_LISTINGS` in `src/config/site.ts`.
 7. **Contact** (`/contact/`) — WhatsApp + mail buttons, no form backend (D7).
-   **Intake form** (`/intake/`, D27, D30) is the one exception: "Plan een gratis intake" posts to the
-   on-demand route `src/pages/api/intake.ts`, which mails Micky and redirects back with `?status=`.
+   **Intake form** (`/intake/`, D27, D30, D37) is the one exception: "Plan een gratis intake" is
+   `src/components/IntakeForm.astro` (field tables per variant in `src/lib/intake.ts`) and posts to the
+   on-demand route `src/pages/api/intake.ts`, which mails Micky. With JavaScript the form sends with
+   `fetch` (`Accept: application/json`, answer `{ ok, status }`) and shows its success block in place;
+   without it the route answers a 303 back to the page with `?status=`. The same component, as
+   `<IntakeForm voor="introductie" compact />`, is the "Datum prikken" form in the spec block of a workshop
+   whose frontmatter has `voor: "introductie"` (D38; the AI Introductie page, sidebar no longer sticky).
    Railway blocks outbound SMTP on the Free, Trial and Hobby plans, so the mail goes through Postmark's
    HTTPS API, from the paid Postmark account Micky already uses for EasyReimburse (sender signatures and
    verified domains are account-wide). Env on Railway: `POSTMARK_SERVER_TOKEN` (a server API token),
@@ -94,9 +99,11 @@ header button says "Stuur een WhatsApp".
    The token `POSTMARK_API_TEST` reports success without sending, for local tests. Variables are read
    from `process.env` at request time, never through `import.meta.env`, which is frozen at build time. SMTP (`SMTP_USER`/`SMTP_PASS`, a Gmail app
    password; Outlook personal accounts no longer accept SMTP passwords) stays as a fallback that only
-   works on Railway Pro or another host. Fields: name, company, e-mail, phone, what to automate, what
-   costs time, two proposed moments as a day plus a start time on the half hour between 09:00 and 18:00
-   (`src/lib/intake-slots.ts`; 45 min, Google Meet); Micky confirms within a day.
+   works on Railway Pro or another host. Fields (automatisering): name, company, e-mail, phone
+   (optional), "Wat kost nu te veel tijd?", "Wanneer komt jou het beste uit?" (free text, e.g. dinsdagochtend);
+   no time pickers and no Google appointment page (Micky, 2026-09-30, D37): he answers within a day with a
+   proposal, 30 minutes on Google Meet or by phone. Date form (introductie): name, company, e-mail, people,
+   when. Honeypot `website` is off-screen (`.hp`), never `display:none`.
 8. **Privacy** (`/privacy/`).
 
 **ChatGPT Ads (handoff 2026-09-29, D35):** the ads land on `/ai-workshops/ai-introductie/` and `/automatisering/`
@@ -108,8 +115,9 @@ Engels, the breadth of models (ChatGPT, Claude, Gemini, AI-agents), an AI Act se
 (`whatsappWith()` in `site.ts`; workshops carry it as `whatsappText` in their frontmatter, plus optional
 `seoTitle`, `kicker` and `language`). `src/components/Tracking.astro` (in the layout) stores
 `utm_source=chatgpt` in sessionStorage, appends " (gezien in ChatGPT)" to every WhatsApp message for the
-session, fills the hidden `bron` field of the intake form (mailed as "Bron: ChatGPT Ads"), and reports
-`contact` (WhatsApp or mail click, param `kanaal`) and `lead` (intake sent, once) to GA4 and to
+session, fills the hidden `bron` field of both intake forms (mailed as "Bron: ChatGPT Ads"), and reports
+`contact` (WhatsApp or mail click, param `kanaal`) and `lead` (form sent, param `voor`, once per session per
+form, via `window.mvzLead`) to GA4 and to
 `window.__adsTrack`. The ChatGPT Ads pixel (OpenAI `oaiq`, pixel ID from Micky, 2026-09-29) lives in `src/config/pixel.ts`:
 `snippet` loads it on every page, `bridge` maps the site's events to the pixel (`lead` → standard
 `lead_created`, `contact` → custom `contact_whatsapp` / `contact_mail`); Ads Manager needs conversion settings

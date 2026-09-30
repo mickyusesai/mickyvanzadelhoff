@@ -1,0 +1,127 @@
+---
+/**
+ * The intake form, in two variants (src/lib/intake.ts): "Plan een gratis intake" on /intake/ and the
+ * compact "Datum prikken" form in the spec block of the AI Introductie page. It posts to /api/intake;
+ * with JavaScript the page stays put and the form makes way for the success block, without it the
+ * route answers a 303 back to the page with ?status=, which the same script reads at load.
+ * The `lead` event (src/components/Tracking.astro) fires once per session per variant.
+ */
+import { SITE } from '../config/site';
+import { VARIANTS, type Voor } from '../lib/intake';
+
+interface Props { voor: Voor; compact?: boolean }
+const { voor, compact = false } = Astro.props;
+const variant = VARIANTS[voor];
+const mailFallback = `mailto:${SITE.email}?subject=${encodeURIComponent(voor === 'automatisering' ? 'Gratis intake AI-automatisering' : 'Datum voor de AI Introductie')}`;
+const privacy = voor === 'automatisering' ? 'Je gegevens gebruik ik alleen om dit gesprek in te plannen.' : 'Je gegevens gebruik ik alleen om een datum voor te stellen.';
+---
+<div data-intake-root data-voor={voor}>
+  <div data-intake-success hidden>
+    {voor === 'automatisering' ? (
+      <div class="sticker grid gap-4 bg-lime p-7 sm:p-9">
+        <p class="eyebrow text-ink">Gelukt</p>
+        <h2 class="text-2xl font-bold sm:text-[30px] sm:leading-[1.15]">Dank je. Ik reageer binnen een dag.</h2>
+        <p class="text-ink/80">Je krijgt een mail van me met een voorstel voor een moment, met de link voor Google Meet. Liever bellen? Zet dat in je antwoord, dan bel ik.</p>
+        <a href="/automatisering/" class="btn btn-primary w-fit">Terug naar de automatiseringspagina</a>
+      </div>
+    ) : (
+      <div class="grid gap-2 rounded-2xl border-2 border-ink bg-lime p-4">
+        <p class="font-bold">Dank je. Binnen een dag krijg je een datumvoorstel van me.</p>
+        <p class="text-sm">Eerst een kort gesprek? <a href="/intake/" class="font-bold text-violet underline underline-offset-2">Plan een gratis intake</a>.</p>
+      </div>
+    )}
+  </div>
+
+  <div data-intake-error hidden>
+    <div class:list={['grid gap-2 border-2 border-ink bg-coral-soft', compact ? 'mb-3 rounded-2xl p-4' : 'sticker mb-6 p-5']}>
+      <p class="font-bold" data-intake-error-title>Het versturen is niet gelukt.</p>
+      <p class="text-sm text-muted">Mail me dan direct via <a href={mailFallback} class="font-bold text-violet underline underline-offset-2">{SITE.email}</a> of <a href={SITE.whatsappUrl} rel="noopener" class="font-bold text-violet underline underline-offset-2">stuur een WhatsApp</a>. Je gegevens hieronder staan er nog.</p>
+    </div>
+  </div>
+
+  <form data-intake method="post" action="/api/intake" class:list={['grid', compact ? 'gap-3' : 'sticker gap-5 bg-surface p-6 sm:p-8']}>
+    <div class:list={['grid', compact ? 'gap-3' : 'gap-5 sm:grid-cols-2']}>
+      {variant.fields.map((f) => (
+        <label class:list={['grid gap-1.5 text-sm font-bold', !compact && (f.type === 'textarea' || f.wide) && 'sm:col-span-2']}>{f.label}
+          {f.type === 'textarea' ? (
+            <textarea name={f.name} required={f.required} rows={f.rows ?? 3} maxlength={f.max} placeholder={f.placeholder} class="field"></textarea>
+          ) : (
+            <input name={f.name} type={f.type} required={f.required} autocomplete={f.autocomplete} inputmode={f.inputmode} maxlength={f.max} placeholder={f.placeholder} class="field" />
+          )}
+        </label>
+      ))}
+    </div>
+
+    <div class="hp" aria-hidden="true"><label>Website<input name="website" type="text" tabindex="-1" autocomplete="off" /></label></div>
+    <input type="hidden" name="voor" value={voor} />
+    <input type="hidden" name="bron" value="" />
+
+    <div class:list={['flex flex-wrap items-center gap-4', compact && 'gap-3']}>
+      <button type="submit" class:list={['btn btn-primary', compact && 'w-full']}>{voor === 'automatisering' ? 'Verstuur' : 'Vraag een datum aan'}</button>
+      <p class="text-xs text-muted">{privacy} <a href="/privacy/" class="underline underline-offset-2">Privacy</a></p>
+    </div>
+  </form>
+</div>
+
+<script>
+  // One bundled script per page, for every intake form on it.
+  const TITLES: Record<string, string> = {
+    invalid: 'Vul de verplichte velden in en probeer het opnieuw.',
+    config: 'Het formulier is nog niet aan een mailservice gekoppeld.',
+    failed: 'Het versturen is niet gelukt.',
+  };
+
+  document.querySelectorAll<HTMLElement>('[data-intake-root]').forEach((root) => {
+    const form = root.querySelector<HTMLFormElement>('form[data-intake]');
+    const success = root.querySelector<HTMLElement>('[data-intake-success]');
+    const error = root.querySelector<HTMLElement>('[data-intake-error]');
+    const title = root.querySelector<HTMLElement>('[data-intake-error-title]');
+    const button = form?.querySelector<HTMLButtonElement>('button[type="submit"]');
+    if (!form || !success || !error || !title || !button) return;
+    const voor = root.dataset.voor || 'automatisering';
+
+    function show(status: string) {
+      if (status === 'sent') {
+        form!.hidden = true;
+        error!.hidden = true;
+        success!.hidden = false;
+        success!.scrollIntoView({ block: 'nearest' });
+      } else {
+        title!.textContent = TITLES[status] || TITLES.failed;
+        error!.hidden = false;
+        error!.scrollIntoView({ block: 'nearest' });
+      }
+    }
+
+    // No-JS path: the route redirected back here with ?status=. Tracking.astro already reported the lead.
+    const params = new URLSearchParams(location.search);
+    const status = params.get('status');
+    if (status) {
+      show(status);
+      params.delete('status');
+      const q = params.toString();
+      history.replaceState(null, '', location.pathname + (q ? `?${q}` : '') + location.hash);
+    }
+
+    let native = false;
+    form.addEventListener('submit', async (e) => {
+      if (native) return; // second pass after a network error: let the browser post
+      e.preventDefault();
+      const label = button.textContent;
+      button.disabled = true;
+      button.textContent = 'Versturen…';
+      try {
+        const res = await fetch(form.action, { method: 'POST', body: new FormData(form), headers: { Accept: 'application/json' } });
+        const data = await res.json().catch(() => ({ status: res.ok ? 'sent' : 'failed' }));
+        show(data.status || 'failed');
+        if (data.status === 'sent' && typeof (window as any).mvzLead === 'function') (window as any).mvzLead({ voor });
+      } catch {
+        native = true;
+        form.submit();
+      } finally {
+        button.disabled = false;
+        button.textContent = label;
+      }
+    });
+  });
+</script>

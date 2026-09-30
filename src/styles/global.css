@@ -112,6 +112,14 @@
   .tool__field { @apply grid gap-1 text-[13px] font-bold; }
   .tool__input { @apply w-full rounded-xl border-2 border-ink bg-white px-3 py-2 text-[15px] font-medium text-ink; }
   .tool__input:focus { @apply outline-none ring-4 ring-lime; }
+
+  /* Form fields of the intake forms (src/components/IntakeForm.astro). */
+  .field { @apply w-full rounded-xl border-2 border-ink bg-white px-3 py-2.5 text-[15px] font-medium text-ink; }
+  .field:focus { @apply outline-none ring-[3px] ring-lime; }
+  textarea.field { @apply min-h-[88px] resize-y; }
+  .btn:disabled { @apply cursor-wait opacity-60; transform: none; }
+  /* Honeypot: off-screen and out of the tab order, never display:none (bots skip that). */
+  .hp { position: absolute; left: -10000px; top: 0; width: 1px; height: 1px; overflow: hidden; }
   .tool__results { @apply grid gap-3 sm:grid-cols-2; }
   .tool__result { @apply grid gap-1 rounded-2xl border-2 border-ink bg-violet-soft px-4 py-3; }
   .tool__label { @apply m-0 text-[11px] font-extrabold uppercase tracking-[0.14em] text-muted; }

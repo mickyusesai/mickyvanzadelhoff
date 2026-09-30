@@ -7,9 +7,9 @@ href: "/automatisering/"
 order: 2
 duration: "Op locatie"
 location: "Bij jou op locatie"
-participants: "Meestal drie tot vijf dagen"
-price: "€3.600 – 6.000"
-priceNote: "per traject, €150 per uur excl. btw, vaste inschatting na een gratis intake"
+participants: "drie tot vijf dagen"
+price: "meestal €3.600 – 6.000"
+priceNote: "per traject, vaste inschatting na een gratis intake"
 outcomes:
   - "Een werkende automatisering in jullie eigen systemen"
   - "Je eigen mensen kunnen het onderhouden"

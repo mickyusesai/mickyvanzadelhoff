@@ -2,12 +2,14 @@ import type { APIRoute } from 'astro';
 import process from 'node:process';
 import nodemailer from 'nodemailer';
 import { SITE } from '../../config/site';
-import { formatSlot, isSlotDate, isSlotTime } from '../../lib/intake-slots';
+import { VARIANTS, isVoor, type Voor } from '../../lib/intake';
 
 export const prerender = false;
 
-// Handles the "Plan een gratis intake" form (src/pages/intake.astro): sends one mail to Micky and
-// redirects back to the form with ?status=sent|invalid|config|failed.
+// Handles both intake forms (src/components/IntakeForm.astro, field tables in src/lib/intake.ts): sends
+// one mail to Micky and answers JSON `{ ok, status }` when the form was sent with fetch
+// (Accept: application/json), or a 303 back to the page with ?status=sent|invalid|config|failed when
+// it was posted without JavaScript.
 //
 // Variables are read from process.env at request time; import.meta.env is frozen at build time and
 // would bake the values (or their absence) into the bundle. Railway blocks outbound SMTP on the Free,
@@ -23,16 +25,22 @@ export const prerender = false;
 // SMTP is used only when POSTMARK_SERVER_TOKEN is absent and only works on Railway Pro or another host:
 //   SMTP_USER, SMTP_PASS, optional SMTP_HOST (default smtp.gmail.com) and SMTP_PORT (default 465).
 
-const FIELDS = ['name', 'company', 'email', 'phone', 'automate', 'timesink', 'slot1_date', 'slot1_time', 'slot2_date', 'slot2_time'] as const;
-type Field = (typeof FIELDS)[number];
-const LONG: readonly Field[] = ['automate', 'timesink'];
+type Status = 'sent' | 'invalid' | 'config' | 'failed';
+const HTTP: Record<Status, number> = { sent: 200, invalid: 400, config: 500, failed: 500 };
 
 const env = (key: string) => (process.env[key] || '').trim();
 const clean = (v: FormDataEntryValue | null, max: number) => (typeof v === 'string' ? v.replace(/\r/g, '').trim().slice(0, max) : '');
 
 // Relative Location on purpose: behind Railway/Cloudflare the request URL the server sees is not
 // always the public origin, and browsers resolve a relative redirect against the page they posted from.
-const back = (status: string) => new Response(null, { status: 303, headers: { Location: `/intake/?status=${status}` } });
+function answer(request: Request, status: Status, voor: Voor) {
+  if ((request.headers.get('accept') || '').includes('application/json')) {
+    return Response.json({ ok: status === 'sent', status }, { status: HTTP[status] });
+  }
+  const back = VARIANTS[voor].back;
+  const hash = voor === 'introductie' ? '#specificaties' : '';
+  return new Response(null, { status: 303, headers: { Location: `${back}?status=${status}${hash}` } });
+}
 
 type Mail = { from: string; to: string; replyTo: string; replyToName: string; subject: string; text: string };
 
@@ -73,61 +81,52 @@ export const POST: APIRoute = async ({ request }) => {
   try {
     form = await request.formData();
   } catch {
-    return back('invalid');
+    return answer(request, 'invalid', 'automatisering');
   }
 
-  // Honeypot: real visitors never fill this hidden field.
-  if (clean(form.get('website'), 10)) return back('sent');
+  const voorRaw = clean(form.get('voor'), 20);
+  const voor: Voor = isVoor(voorRaw) ? voorRaw : 'automatisering';
+  if (!isVoor(voorRaw)) return answer(request, 'invalid', voor);
+  const variant = VARIANTS[voor];
 
-  const v = Object.fromEntries(FIELDS.map((f) => [f, clean(form.get(f), LONG.includes(f) ? 4000 : 200)])) as Record<Field, string>;
+  // Honeypot: real visitors never fill this hidden field.
+  if (clean(form.get('website'), 10)) return answer(request, 'sent', voor);
+
+  const v = Object.fromEntries(variant.fields.map((f) => [f.name, clean(form.get(f.name), f.max)])) as Record<string, string>;
   const bron = clean(form.get('bron'), 40); // 'chatgpt' when the visitor came from a ChatGPT ad (Tracking.astro)
-  const today = new Date().toISOString().slice(0, 10);
-  const valid =
-    FIELDS.every((f) => v[f]) &&
-    /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v.email) &&
-    [v.slot1_date, v.slot2_date].every((d) => isSlotDate(d) && d >= today) &&
-    [v.slot1_time, v.slot2_time].every(isSlotTime);
-  if (!valid) return back('invalid');
+  const valid = variant.fields.every((f) => !f.required || v[f.name]) && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v.email);
+  if (!valid) return answer(request, 'invalid', voor);
 
   const postmarkToken = env('POSTMARK_SERVER_TOKEN');
   const smtpReady = Boolean(env('SMTP_USER') && env('SMTP_PASS'));
   if (!postmarkToken && !smtpReady) {
     console.error('[intake] no mail service configured (set POSTMARK_SERVER_TOKEN and INTAKE_FROM, or SMTP_USER and SMTP_PASS); submission from', v.email);
-    return back('config');
+    return answer(request, 'config', voor);
   }
   if (postmarkToken && !env('INTAKE_FROM')) {
     console.error('[intake] INTAKE_FROM is not set; Postmark needs a sender on a verified domain or sender signature; submission from', v.email);
-    return back('config');
+    return answer(request, 'config', voor);
   }
 
+  const width = Math.max(...variant.fields.map((f) => f.mailLabel.length)) + 1;
+  const rows = variant.fields.flatMap((f) =>
+    f.type === 'textarea' ? [``, `${f.mailLabel}:`, v[f.name], ``] : [`${(f.mailLabel + ':').padEnd(width)} ${v[f.name] || 'niet ingevuld'}`],
+  );
   const text = [
-    `Nieuwe intake-aanvraag via mickyvanzadelhoff.com/intake/`,
+    variant.intro,
     ``,
-    `Naam:        ${v.name}`,
-    `Bedrijf:     ${v.company}`,
-    `E-mail:      ${v.email}`,
-    `Telefoon:    ${v.phone}`,
+    ...rows,
     ``,
-    `Wat hopen ze te automatiseren:`,
-    v.automate,
-    ``,
-    `Waar gaat nu te veel tijd in zitten:`,
-    v.timesink,
-    ``,
-    `Voorgestelde momenten (45 min, Google Meet):`,
-    `1. ${formatSlot(v.slot1_date, v.slot1_time)}`,
-    `2. ${formatSlot(v.slot2_date, v.slot2_time)}`,
-    ``,
-    `Beantwoord deze mail om het moment te bevestigen (reply gaat naar ${v.email}).`,
+    `${variant.outro} Reply gaat naar ${v.email}.`,
     ...(bron ? [``, `Bron: ${bron === 'chatgpt' ? 'ChatGPT Ads' : bron}`] : []),
-  ].join('\n');
+  ].join('\n').replace(/\n{3,}/g, '\n\n');
 
   const mail: Mail = {
     from: env('INTAKE_FROM') || `"Intake formulier" <${env('SMTP_USER')}>`,
     to: env('INTAKE_TO') || SITE.email,
     replyTo: v.email,
     replyToName: v.name.replace(/["<>\n]/g, ''),
-    subject: `Intake-aanvraag: ${v.company} (${v.name})`,
+    subject: variant.subject(v),
     text,
   };
 
@@ -136,9 +135,9 @@ export const POST: APIRoute = async ({ request }) => {
     else await sendViaSmtp(mail);
   } catch (err) {
     console.error(`[intake] send via ${postmarkToken ? 'Postmark' : 'SMTP'} failed:`, err instanceof Error ? err.message : err);
-    return back('failed');
+    return answer(request, 'failed', voor);
   }
-  return back('sent');
+  return answer(request, 'sent', voor);
 };
 
 export const GET: APIRoute = ({ request }) => Response.redirect(new URL('/intake/', request.url), 302);
