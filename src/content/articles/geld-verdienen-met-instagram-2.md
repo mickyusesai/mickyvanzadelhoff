@@ -232,7 +232,7 @@ Instagram verandert constant. Sommige functies komen en gaan, andere blijven. Di
 
 De mogelijkheden van Instagram, en van social media in de brede zin, zijn enorm. Daarom een tip: kijk uit dat je niet op te veel paarden tegelijk wedt. Je Instagram, [YouTube-kanaal](/blog/online-geld-verdienen/youtube/), TikTok, Threads en [Facebook-pagina](/blog/online-geld-verdienen/facebook/) allemaal bijhouden is te veel werk. Elk medium vraagt zijn eigen soort content. Kies er een paar uit en zet daar vol op in. Beter één heel goed en actief kanaal dan tal van inactieve socials.
 
-<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Meestal drie tot vijf dagen, €3.600 tot €6.000 per traject, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Doorzettingsvermogen is 'key' bij Instagram
 

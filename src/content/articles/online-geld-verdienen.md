@@ -352,7 +352,7 @@ De helft van de manieren in dit artikel is door AI moeilijker geworden, de ander
 
 Vergeet nooit wat anderen voor je kunnen doen. Misschien kun je iets samen opzetten, of vullen jullie vaardigheden elkaar aan. En als je een product lanceert: vraag je kennissen om het te delen. Zo kwam ik zelf aan mijn eerste online klanten, en zo kwam ik jaren later aan mijn eerste workshop.
 
-<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Meestal drie tot vijf dagen, €3.600 tot €6.000 per traject, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Nu starten met online geld verdienen
 

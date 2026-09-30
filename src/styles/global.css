@@ -78,6 +78,10 @@
   .timeline__item--now { @apply bg-violet text-white; }
   .timeline__item--now .timeline__year { @apply text-lime; }
   .timeline__item--now .timeline__text { @apply text-white/80; }
+  /* Cost-versus-saving bars in the worked examples on /automatisering/ */
+  .bar { @apply mt-1.5 h-2.5 w-full overflow-hidden rounded-full bg-violet-soft; }
+  .bar__fill { @apply block h-full rounded-full bg-violet; }
+  .bar__fill--cost { @apply bg-ink; }
   /* Client quotes on the workshop pages (Testimonials.astro; the same markup is written by hand in workshop markdown) */
   .quotes { @apply my-8 grid gap-5 md:grid-cols-2; }
   .quote { @apply sticker relative m-0 grid gap-4 bg-surface p-6 pt-8 sm:p-7 sm:pt-9; }

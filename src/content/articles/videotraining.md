@@ -212,7 +212,7 @@ Echter gaat dit niet vanzelf. Het vereist dat je begrijpt hoe je een goede cursu
 
 Dan nog één laatste tip. **Software voor een leeromgeving kost geld** en dat heb ik wel eens proberen te vermijden. Het effect is dat je heel moeilijk om die software heen werkt. Dat heeft mij veel tijd gekost en was het niet waard; ook de beleving van cursisten lijdt eronder. Daarom raad ik je graag nog eens [Huddle](/go/huddle) aan. Nee, het is niet gratis, maar vanaf 15 euro per maand bespaart het je een hoop zorgen én tijd. Je kunt het [hier](/go/huddle) 14 dagen gratis uitproberen.
 
-<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Meestal drie tot vijf dagen, €3.600 tot €6.000 per traject, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Veelgestelde vragen
 

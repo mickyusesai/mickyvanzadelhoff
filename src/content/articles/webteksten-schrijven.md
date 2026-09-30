@@ -110,7 +110,7 @@ Kortom: schrijf wat een AI niet kan opzoeken. Dat is toevallig ook precies wat e
 
 Verkoopteksten zijn net wat anders dan gewone webteksten. Ze hebben een andere opbouw: je begint met het probleem dat je voor de klant oplost, versterkt dat met de consequenties en verkoopt pas daarna je product. Voor dit artikel gaat dat te ver, maar wie online iets verkoopt, kan er niet omheen. Daarom verwijs ik je graag door naar mijn [artikel over het schrijven van verkoopteksten](/blog/ondernemen/verkooptekst-schrijven-voorbeeld/).
 
-<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Meestal drie tot vijf dagen, €3.600 tot €6.000 per traject, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie webteksten schrijven
 

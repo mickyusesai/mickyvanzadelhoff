@@ -217,7 +217,7 @@ Geld maakt geld. Heb je al een spaarpot, dan is passief inkomen genereren eigenl
 
 Eén ding is in 2026 anders dan in 2019, en dat kost je geld als je het niet weet: **box 3**. De fiscus rekent op je beleggingen een fictief rendement van 6,00% en op spaargeld van 1,28%, en belast dat met 36%. Boven het heffingsvrije vermogen van €59.357 per persoon betaal je over beleggingen dus effectief zo'n 2,2% van de waarde per jaar, of je nu winst maakte of niet. Was je echte rendement lager, dan kun je dat via de tegenbewijsregeling aantonen. En vanaf 2028 wordt, als de Eerste Kamer instemt, je werkelijke rendement belast. Trek die 2,2% dus af van de 4% in de rekentool hierboven als je écht wilt weten wat je overhoudt.
 
-<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Meestal drie tot vijf dagen, €3.600 tot €6.000 per traject, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie passief inkomen genereren
 

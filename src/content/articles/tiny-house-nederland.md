@@ -72,7 +72,7 @@ In een tiny house wonen is niet zo simpel als het lijkt. Zeker met de bureaucrat
 
 Misschien dat ik zelf dit laatste punt nog wel het allerleukste vind. Hoe grappig is het om zelf vanaf scratch een huis te bouwen. Het voelt een beetje als vroeger, toen ik mijn boomhut mocht timmeren in de tuin. Lekker creatief bezig zijn met waar je zelf gaat wonen, ik kan me goed voorstellen dat dat veel mensen overtuigt om een tiny house lifestyle te betrekken, heerlijk!
 
-<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Meestal drie tot vijf dagen, €3.600 tot €6.000 per traject, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Klein Wonen Magazine Nederland
 

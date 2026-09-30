@@ -99,7 +99,7 @@ In totaal bestaat de SMMB Masterclass uit zo’n 36 lessen (in 2021). Sommigen m
 
 **[Wil je zelf de cursus aanschaffen? Dan kan dat via deze speciale kortingspagina.](/go/smmb-masterclass) Al raad ik je persoonlijk wel aan om eerst [het webinar van Boyd Hoek te volgen](/go/smmb-masterclass). Zo weet je zeker dat zijn verdienmodel iets voor jou is.**
 
-<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Meestal drie tot vijf dagen, €3.600 tot €6.000 per traject, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie over Boyd Hoek en zijn SMMB Masterclass
 

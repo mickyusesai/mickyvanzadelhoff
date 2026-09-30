@@ -205,7 +205,7 @@ Voor zo'n link betaalde een bedrijf bij mijn website destijds al snel **€200**
 
 Wel is de wereld sinds 2024 veranderd. Google noemt betalen voor links zonder `rel="sponsored"` expliciet linkspam en kan je website daarvoor een handmatige actie geven. Met dat label mag het, alleen levert de link het bedrijf dan geen Google-voordeel meer op, en dat is nou net waarom de meeste van die bedrijven mailen. Verwacht dus dat een deel van de aanvragen afhaakt als je het netjes doet. Doe het toch netjes; de website is meer waard dan één plaatsing.
 
-<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Meestal drie tot vijf dagen, €3.600 tot €6.000 per traject, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Iedereen kan geld verdienen met een website
 

@@ -76,7 +76,7 @@ featuredImage: "/images/headers/online-marketing-slotenmaker.webp"
 
 ### Daarbij zorgt een e-book ervoor dat jij de ware expert bent in de markt, dit heeft tal van voordelen wanneer je iets wilt verkopen in de toekomst. In veel andere branches waar ‘de gewone consument‘ weinig van het product of de dienst af weet, werkt deze manier van informeren, verbinden en verkopen erg goed.
 
-<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Meestal drie tot vijf dagen, €3.600 tot €6.000 per traject, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Online marketing slotenmaker
 

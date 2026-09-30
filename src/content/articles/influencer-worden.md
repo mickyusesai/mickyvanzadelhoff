@@ -182,7 +182,7 @@ Dit hoofdstuk stond er in 2019 niet in en is nu misschien het belangrijkste.
 <li class="timeline__item timeline__item--now"><span class="timeline__num">6</span><p class="timeline__year">2026 – nu</p><p class="timeline__title">Een markt van 32 miljard, met regels</p><p class="timeline__text">De vernieuwde reclamecode geldt vanaf 1 juli 2026 voor iedereen, van nano-influencer tot AI-avatar. Minder wilde westen, meer vak.</p></li>
 </ol>
 
-<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Meestal drie tot vijf dagen, €3.600 tot €6.000 per traject, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie influencer worden
 

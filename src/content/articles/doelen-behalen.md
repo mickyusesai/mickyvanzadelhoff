@@ -34,7 +34,7 @@ Voor de fietstocht naar India leek het ons leuk om [een Youtube kanaal](https://
 
 Wanneer je een groot doel nastreeft zoals bij ons; “Het bereiken van duizenden mensen om hen te inspireren iets te doen dat groter is dan henzelf”, is het belangrijk dat het doel de tijd krijgt. In plaats van onszelf te laten demotiveren door onze cijfers bekijken we ons proces nu op een andere manier. Succes heeft tijd nodig om te groeien en dat vergt een hoop geduld. Misschien wel jaren.
 
-<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Meestal drie tot vijf dagen, €3.600 tot €6.000 per traject, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Die ene stap, die kan iedereen zetten
 

@@ -7,13 +7,13 @@ href: "/automatisering/"
 order: 2
 duration: "Op locatie"
 location: "Bij jou op locatie"
-participants: "Duur in overleg"
-price: "vanaf €150 p/u"
-priceNote: "offerte na een gratis intake"
+participants: "Meestal drie tot vijf dagen"
+price: "€3.600 – 6.000"
+priceNote: "per traject, €150 per uur excl. btw, vaste inschatting na een gratis intake"
 outcomes:
-  - "Een werkende automatisering voor jullie eigen processen"
+  - "Een werkende automatisering in jullie eigen systemen"
   - "Je eigen mensen kunnen het onderhouden"
-  - "Een jaar service inbegrepen"
+  - "Een jaar service inbegrepen, geen abonnement"
 featuredImage: "/images/micky/workshop-technogym.webp"
 draft: false
 ---

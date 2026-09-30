@@ -79,7 +79,7 @@ Waar de meeste tools nog in tekortschieten: **tekst in beeld**, handen, dezelfde
 
 De serieuze aanbieders voorzien AI-video's van **C2PA-metadata en vaak een watermerk**, zodat te achterhalen is dat een video door AI is gemaakt. Zet geen echte mensen in een video zonder hun toestemming. Voor bedrijven geldt daarbovenop: vermeld het als beelden AI-gegenereerd zijn, zeker in advertenties. De Europese AI-verordening vraagt daar transparantie over.
 
-<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Meestal drie tot vijf dagen, €3.600 tot €6.000 per traject, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie
 

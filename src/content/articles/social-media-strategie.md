@@ -138,7 +138,7 @@ Oké, je hebt het soort content bedacht en wilt daar iets mee. Maar houd heel go
 
 Stel iemand in het bedrijf aan om de social media strategie te bewaken. Zo weet je zeker dat er geen grote gaten vallen en je social media geen puinhoop worden. Evalueer vervolgens maandelijks wat er is gebeurd. Kijk of er veel interactie was met de volgers (potentiële klanten) en hoe de berichten hebben gepresteerd. Social media geeft al deze data, zonde dus om die niet te gebruiken. Kijk verder dan likes: reacties, opgeslagen posts en vooral kliks naar je website of berichtjes in je inbox zeggen meer over klanten dan bereik. Herhaal wat beter presteert in de volgende contentplanning en laat de rest weg.
 
-<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Vanaf €150 per uur, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
+<aside class="cta-box cta-box--automatisering not-prose"><div><p class="cta-box__eyebrow">AI-automatisering op maat</p><p><strong>Wat kost jouw team elke week te veel tijd?</strong> Ik draai mee op de afdeling en automatiseer het, samen met twee van je eigen mensen. Meestal drie tot vijf dagen, €3.600 tot €6.000 per traject, met een jaar service. We beginnen met een gratis intake van 45 minuten.</p></div><a class="btn btn-lime" href="/intake/">Plan een gratis intake</a></aside>
 
 ## Conclusie social media strategie
 
