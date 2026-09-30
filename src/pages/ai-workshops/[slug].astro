@@ -35,7 +35,7 @@ const wa = d.whatsappText ? whatsappWith(d.whatsappText) : SITE.whatsappUrl;
           <Content />
         </div>
       </div>
-      <aside id="specificaties" class:list={['sticker h-fit grid gap-4 p-6', !d.voor && 'lg:sticky lg:top-24']}>
+      <aside id="specificaties" class="sticker h-fit grid gap-4 p-6 scroll-mt-24 lg:sticky lg:top-24">
         {icon && <img src={spot(icon)} alt="" width="120" height="120" loading="lazy" class="spot -mt-2 h-24 w-24 justify-self-end animate-bob [--tilt:5deg]" />}
         <dl class="grid gap-3 text-[15px]">
           <div class="flex justify-between gap-4"><dt class="text-muted">Duur</dt><dd class="font-bold">{d.duration}</dd></div>
@@ -54,18 +54,29 @@ const wa = d.whatsappText ? whatsappWith(d.whatsappText) : SITE.whatsappUrl;
         </ul>
         <div class="grid gap-2 pt-2">
           <a href={wa} rel="noopener" class="btn btn-primary">Stuur een WhatsApp</a>
-          <a href={`mailto:${SITE.email}?subject=${encodeURIComponent(d.title)}`} class="btn btn-ghost">Mail Micky</a>
+          {d.voor ? (
+            <a href="#bel-me" class="btn btn-ghost">Laat je terugbellen</a>
+          ) : (
+            <a href={`mailto:${SITE.email}?subject=${encodeURIComponent(d.title)}`} class="btn btn-ghost">Mail Micky</a>
+          )}
+          {d.voor && <p class="text-center text-xs text-muted">of <a href={`mailto:${SITE.email}?subject=${encodeURIComponent(d.title)}`} class="underline underline-offset-2">mail Micky</a></p>}
         </div>
-        {d.voor && (
-          <div id="datum-prikken" class="grid gap-3 border-t-2 border-line pt-4">
-            <h3 class="font-display text-lg font-bold">Datum prikken</h3>
-            <p class="text-sm text-muted">Laat je gegevens achter en ik stuur binnen een dag een datumvoorstel.</p>
-            <IntakeForm voor={d.voor} compact />
-          </div>
-        )}
       </aside>
     </div>
   </article>
+  {d.voor && (
+    <section id="bel-me" class="wrap scroll-mt-20 py-6 sm:py-10">
+      <div class="reveal sticker grid gap-8 bg-surface p-6 sm:p-10 lg:grid-cols-[2fr_3fr] lg:gap-12">
+        <div class="grid content-start gap-4">
+          <p class="eyebrow">Bel me terug</p>
+          <h2 class="text-[28px] font-extrabold leading-[1.08] tracking-tight sm:text-[36px]">Ik bel je om alles af te stemmen.</h2>
+          <p class="text-muted">Laat je gegevens achter en zeg wanneer je de workshop ongeveer voor je ziet. Ik bel je binnen een dag, dan stemmen we datum, groep en inhoud af.</p>
+          <p class="text-sm text-muted">Liever appen? <a href={wa} rel="noopener" class="font-bold text-violet underline underline-offset-2">Stuur een WhatsApp</a>.</p>
+        </div>
+        <IntakeForm voor={d.voor} />
+      </div>
+    </section>
+  )}
   {others.length > 0 && (
     <section class="wrap py-6">
       {others.map((w) => (

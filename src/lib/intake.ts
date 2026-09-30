@@ -4,7 +4,8 @@
 //
 //   automatisering  "Plan een gratis intake" on /intake/ (decision D37: no time pickers and no Google
 //                   appointment page; the visitor writes when it suits them and Micky proposes a moment)
-//   introductie     "Datum prikken" in the spec block of /ai-workshops/ai-introductie/ (D38)
+//   introductie     "Bel me terug" under the article on /ai-workshops/ai-introductie/ (D38): the visitor says
+//                   roughly when they want the workshop and Micky calls to settle date, group and content
 
 export type Voor = 'automatisering' | 'introductie';
 
@@ -51,15 +52,16 @@ export const VARIANTS: Record<Voor, Variant> = {
   },
   introductie: {
     back: '/ai-workshops/ai-introductie/',
-    subject: (v) => `Datumaanvraag AI Introductie: ${v.company} (${v.name})`,
-    intro: 'Nieuwe datumaanvraag voor de AI Introductie via mickyvanzadelhoff.com/ai-workshops/ai-introductie/',
-    outro: 'Beantwoord deze mail met een datumvoorstel.',
+    subject: (v) => `Workshopaanvraag AI Introductie: ${v.company} (${v.name})`,
+    intro: 'Nieuwe aanvraag voor de AI Introductie via mickyvanzadelhoff.com/ai-workshops/ai-introductie/',
+    outro: 'Bel om datum, groep en inhoud af te stemmen.',
     fields: [
       { name: 'name', label: 'Je naam', mailLabel: 'Naam', type: 'text', required: true, max: 200, autocomplete: 'name' },
       { name: 'company', label: 'Bedrijf', mailLabel: 'Bedrijf', type: 'text', required: true, max: 200, autocomplete: 'organization' },
+      { name: 'phone', label: 'Telefoon', mailLabel: 'Telefoon', type: 'tel', required: true, max: 60, autocomplete: 'tel' },
       { name: 'email', label: 'E-mail', mailLabel: 'E-mail', type: 'email', required: true, max: 200, autocomplete: 'email' },
       { name: 'people', label: 'Hoeveel mensen ongeveer?', mailLabel: 'Aantal mensen', type: 'text', required: false, max: 20, autocomplete: 'off', inputmode: 'numeric', placeholder: '12' },
-      { name: 'when', label: 'Wanneer ongeveer?', mailLabel: 'Wanneer', type: 'text', required: false, max: 200, autocomplete: 'off', placeholder: 'Bijvoorbeeld: half november, een ochtend' },
+      { name: 'when', label: 'Wanneer ongeveer?', mailLabel: 'Wanneer', type: 'text', required: false, max: 200, autocomplete: 'off', placeholder: 'Bijvoorbeeld: half november, een ochtend', wide: true },
     ],
   },
 };
