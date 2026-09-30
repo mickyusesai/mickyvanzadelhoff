@@ -3,8 +3,10 @@
  * Conversion tracking and the ChatGPT Ads source (handoff 2026-09-29, section 5).
  * - Remembers utm_source=chatgpt in sessionStorage, adds " (gezien in ChatGPT)" to every WhatsApp
  *   message on the site while the session lasts, and fills the hidden `bron` field of the intake form.
- * - Reports "contact" on WhatsApp and mail clicks and "lead" once on a sent intake form, to GA4 (gtag)
- *   and to window.__adsTrack when the pixel bridge in src/config/pixel.ts defines it.
+ * - Reports "contact" on WhatsApp and mail clicks and "lead" on a sent intake form (once per session per
+ *   variant, param `voor`), to GA4 (gtag) and to window.__adsTrack when the pixel bridge in
+ *   src/config/pixel.ts defines it. IntakeForm.astro calls window.mvzLead after a fetch submit; the
+ *   no-JS path (?status=sent on a page with the form) is handled here.
  */
 import { ADS_PIXEL } from '../config/pixel';
 const events = ADS_PIXEL.events;
@@ -31,6 +33,13 @@ const events = ADS_PIXEL.events;
       try { (window.dataLayer = window.dataLayer || []).push({ event: name, data: data }); } catch (e) {}
     }
     window.mvzTrack = track;
+    function lead(extra) {
+      var voor = (extra && extra.voor) || 'automatisering';
+      if (store.get('lead-' + voor)) return;
+      store.set('lead-' + voor, '1');
+      track(events.lead, Object.assign({ voor: voor }, extra || {}));
+    }
+    window.mvzLead = lead;
 
     var waLinks = document.querySelectorAll('a[href^="https://wa.me/"]');
     for (var i = 0; i < waLinks.length; i++) {
@@ -48,12 +57,12 @@ const events = ADS_PIXEL.events;
     var mailLinks = document.querySelectorAll('a[href^="mailto:"]');
     for (var j = 0; j < mailLinks.length; j++) mailLinks[j].addEventListener('click', function () { track(events.contact, { kanaal: 'mail' }); });
 
-    var bronField = document.querySelector('input[name="bron"]');
-    if (bronField && bron) bronField.value = bron;
-
-    if (location.pathname.replace(/\/$/, '') === '/intake' && params.get('status') === 'sent' && !store.get('lead-sent')) {
-      store.set('lead-sent', '1');
-      track(events.lead, {});
+    if (bron) {
+      var bronFields = document.querySelectorAll('input[name="bron"]');
+      for (var k = 0; k < bronFields.length; k++) bronFields[k].value = bron;
     }
+
+    var voorField = document.querySelector('input[name="voor"]');
+    if (voorField && params.get('status') === 'sent') lead({ voor: voorField.value });
   })();
 </script>

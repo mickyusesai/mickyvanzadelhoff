@@ -24,6 +24,6 @@ export const ADS_PIXEL = {
   };`,
   events: {
     contact: 'contact', // click on a WhatsApp or mail link (param kanaal = whatsapp | mail)
-    lead: 'lead',       // intake form sent (/intake/?status=sent), fired once
+    lead: 'lead',       // intake or date form sent (param voor = automatisering | introductie), once per session per form
   },
 } as const;

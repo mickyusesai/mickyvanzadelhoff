@@ -7,6 +7,9 @@ const { workshop, variant = 'light', delay = 0 } = Astro.props;
 const d = workshop.data;
 const violet = variant === 'violet';
 const icon = WORKSHOP_ICONS[d.slug];
+// "per traject, vaste inschatting na een gratis intake": the first part next to the price, the rest below it.
+const [priceHead, ...priceTail] = d.priceNote.split(',');
+const priceRest = priceTail.join(',').trim();
 ---
 <a href={d.href ?? `/ai-workshops/${d.slug}/`}
    class:list={['reveal sticker sticker-hover flex flex-col gap-4 p-7 sm:p-8', violet ? 'bg-violet text-white' : 'bg-surface text-ink']}
@@ -29,7 +32,8 @@ const icon = WORKSHOP_ICONS[d.slug];
   </ul>
   <div class="mt-2 flex items-center justify-between gap-4">
     <p class:list={['font-display text-2xl font-bold', violet ? 'text-lime' : 'text-violet']}>
-      {d.price} <span class:list={['font-sans text-sm font-medium', violet ? 'text-white/70' : 'text-muted']}>{d.priceNote.split(',')[0]}</span>
+      {d.price} <span class:list={['font-sans text-sm font-medium', violet ? 'text-white/70' : 'text-muted']}>{priceHead}</span>
+      {priceRest && <span class:list={['block font-sans text-sm font-medium', violet ? 'text-white/70' : 'text-muted']}>{priceRest}</span>}
     </p>
     <span class:list={['inline-flex h-10 w-10 items-center justify-center rounded-full border-2', violet ? 'border-lime text-lime' : 'border-ink text-ink']} aria-hidden="true">
       <svg width="18" height="18" viewBox="0 0 18 18" fill="none"><path d="M3 9h12M10 4l5 5-5 5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>

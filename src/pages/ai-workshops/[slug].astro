@@ -3,6 +3,7 @@ export const prerender = true;
 import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import ClientStrip from '../../components/ClientStrip.astro';
+import IntakeForm from '../../components/IntakeForm.astro';
 import { SITE, whatsappWith } from '../../config/site';
 import { WORKSHOP_ICONS, spot } from '../../lib/spots';
 
@@ -34,7 +35,7 @@ const wa = d.whatsappText ? whatsappWith(d.whatsappText) : SITE.whatsappUrl;
           <Content />
         </div>
       </div>
-      <aside id="specificaties" class="sticker h-fit grid gap-4 p-6 lg:sticky lg:top-24">
+      <aside id="specificaties" class:list={['sticker h-fit grid gap-4 p-6', !d.voor && 'lg:sticky lg:top-24']}>
         {icon && <img src={spot(icon)} alt="" width="120" height="120" loading="lazy" class="spot -mt-2 h-24 w-24 justify-self-end animate-bob [--tilt:5deg]" />}
         <dl class="grid gap-3 text-[15px]">
           <div class="flex justify-between gap-4"><dt class="text-muted">Duur</dt><dd class="font-bold">{d.duration}</dd></div>
@@ -55,6 +56,13 @@ const wa = d.whatsappText ? whatsappWith(d.whatsappText) : SITE.whatsappUrl;
           <a href={wa} rel="noopener" class="btn btn-primary">Stuur een WhatsApp</a>
           <a href={`mailto:${SITE.email}?subject=${encodeURIComponent(d.title)}`} class="btn btn-ghost">Mail Micky</a>
         </div>
+        {d.voor && (
+          <div id="datum-prikken" class="grid gap-3 border-t-2 border-line pt-4">
+            <h3 class="font-display text-lg font-bold">Datum prikken</h3>
+            <p class="text-sm text-muted">Laat je gegevens achter en ik stuur binnen een dag een datumvoorstel.</p>
+            <IntakeForm voor={d.voor} compact />
+          </div>
+        )}
       </aside>
     </div>
   </article>
