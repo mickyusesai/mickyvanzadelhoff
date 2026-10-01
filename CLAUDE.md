@@ -142,7 +142,9 @@ with exactly those names. `debug` is off for visitors.
   `cta-box--automatisering` (dark, `/intake/`) before its last H2, inserted once by the session script (2026-09-20);
   keep them when refreshing. The same categories show `src/components/PromoPopup.astro`, a small fixed card (never
   full-screen) after 40% scroll or 30 s, once per session, quiet for 14 days after a close. Markdown tables are wrapped in
-  `<div class="table-wrap">` at build time (`src/lib/rehype-table-wrap.mjs`) so they scroll on phones.
+  `<div class="table-wrap">` at build time (`src/lib/rehype-table-wrap.mjs`) so they scroll on phones; a markdown table
+  inside a raw `<div class="compare">` (blank lines around it) gets a tinted header row and a pinned first column
+  (the price-comparison article, 2026-10-01).
   Raw HTML plus inline `<script>` is allowed in an article for live widgets; the crypto guide has three
   patterns with CSS in `global.css`: `.live-stats` (CoinGecko figures fetched client-side, with
   server-rendered fallback numbers), `.embed` (lazy-loaded TradingView advanced chart; the fixed-height `.embed__frame` must wrap the `tradingview-widget-container`, because the widget script overwrites the container height with 100%) and `.timeline`. Other live sources used in articles: CoinGecko (client-side), mempool.space, `api.frankfurter.dev/v1` for exchange rates (the old `.app` host redirects without CORS), Open-Meteo; every live block keeps server-rendered fallback numbers with their date. fal.ai rejects prompts over ~150 characters once the style prefix is added.
