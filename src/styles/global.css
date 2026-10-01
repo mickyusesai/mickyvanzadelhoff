@@ -59,6 +59,17 @@
   .video iframe { @apply h-full w-full border-0; }
   .table-wrap { @apply my-8 max-w-full overflow-x-auto; }
   .prose .table-wrap table { @apply my-0 min-w-full; }
+  /* Comparison tables (<div class="compare"> around a markdown table): tinted header row and a first
+     column that stays put while the rest scrolls sideways on phones. */
+  .compare .table-wrap { @apply rounded-2xl border-2 border-ink; }
+  .compare .table-wrap table { @apply text-[14px] leading-snug; }
+  .compare .table-wrap th, .compare .table-wrap td { @apply px-3 py-2 align-top; }
+  .compare .table-wrap thead th { @apply bg-violet-soft font-extrabold text-ink; }
+  .compare .table-wrap th:first-child, .compare .table-wrap td:first-child { position: sticky; left: 0; z-index: 1; min-width: 9rem; background: #fff; box-shadow: 2px 0 0 #17112E; font-weight: 700; }
+  .compare .table-wrap thead th:first-child { @apply bg-violet-soft; }
+  .compare .table-wrap tbody tr:nth-child(even) td { @apply bg-ground; }
+  .compare .table-wrap tbody tr:nth-child(even) td:first-child { background: #F6F3FF; }
+  .compare .table-wrap td:first-child { background: #fff; }
   /* Article widgets written as HTML inside markdown (crypto guide): live figures, embedded chart, timeline */
   .embed { @apply sticker my-8 overflow-hidden bg-surface; }
   .embed__frame { @apply h-[420px] w-full sm:h-[500px]; }
