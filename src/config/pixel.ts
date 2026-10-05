@@ -7,7 +7,7 @@
  *   bridge   defines window.__adsTrack(name, data), which src/components/Tracking.astro calls with the
  *            site's own event names below. Mapping to the pixel:
  *              lead    -> standard event "lead_created" (type customer_action), with an event_id
- *              contact -> custom event "contact_whatsapp" or "contact_mail" (from data.kanaal)
+ *              contact -> custom event "contact_whatsapp", "contact_mail" or "contact_telefoon" (from data.kanaal)
  *            Ads Manager must have conversion settings for these names (lead_created is standard; the two
  *            contact events are created as custom events with exactly these custom_event_names).
  */
@@ -18,12 +18,13 @@ export const ADS_PIXEL = {
     if (name === 'lead') {
       window.oaiq('measure', 'lead_created', { type: 'customer_action' }, { event_id: 'lead-' + Date.now() });
     } else if (name === 'contact') {
-      var kanaal = (data && data.kanaal) === 'mail' ? 'mail' : 'whatsapp';
+      var k = data && data.kanaal;
+      var kanaal = k === 'mail' || k === 'telefoon' ? k : 'whatsapp';
       window.oaiq('measure', 'custom', { type: 'custom' }, { custom_event_name: 'contact_' + kanaal });
     }
   };`,
   events: {
-    contact: 'contact', // click on a WhatsApp or mail link (param kanaal = whatsapp | mail)
+    contact: 'contact', // click on a WhatsApp, mail or phone link (param kanaal = whatsapp | mail | telefoon)
     lead: 'lead',       // intake or date form sent (param voor = automatisering | introductie), once per session per form
   },
 } as const;

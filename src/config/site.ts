@@ -9,6 +9,9 @@ export const SITE = {
   email: 'mickyvz@live.nl',
   whatsapp: '+31681081589',
   whatsappUrl: 'https://wa.me/31681081589',
+  /** Same number for calls (belknop on the AI Introductie page, 2026-10-05). */
+  phoneUrl: 'tel:+31681081589',
+  phoneDisplay: '+31 6 81 08 15 89',
   kvk: '62568299',
   linkedin: 'https://www.linkedin.com/in/mick-van-zadelhoff-1ab40726/',
   /** Default social-share image (OG). */
@@ -43,8 +46,13 @@ export const FACTS = {
   countries: '53',
   easyReimburseOrgs: '40+',
   articles: '170+',
+  /** Google rating of Micky's business profile (named "De Moderne Nomaden"), from Micky on 2026-10-05. */
+  googleRating: '4,9',
   schoolCountries: 'vijftien',
 } as const;
+
+/** Micky's Google business profile (share link from Micky, 2026-10-05). */
+export const GOOGLE_PROFILE_URL = 'https://share.google/bP5yWMC1fOLKyEl5y';
 
 /** The four proof numbers, in display order. */
 export const STATS = [

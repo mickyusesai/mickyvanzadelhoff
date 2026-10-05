@@ -93,7 +93,7 @@ export const POST: APIRoute = async ({ request }) => {
   if (clean(form.get('website'), 10)) return answer(request, 'sent', voor);
 
   const v = Object.fromEntries(variant.fields.map((f) => [f.name, clean(form.get(f.name), f.max)])) as Record<string, string>;
-  const bron = clean(form.get('bron'), 40); // 'chatgpt' when the visitor came from a ChatGPT ad (Tracking.astro)
+  const bron = clean(form.get('bron'), 40); // 'chatgpt' or 'google-ads' when the visitor came from an ad (Tracking.astro)
   const valid = variant.fields.every((f) => !f.required || v[f.name]) && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v.email);
   if (!valid) return answer(request, 'invalid', voor);
 
@@ -118,7 +118,7 @@ export const POST: APIRoute = async ({ request }) => {
     ...rows,
     ``,
     `${variant.outro} Reply gaat naar ${v.email}${v.phone ? `, telefoon ${v.phone}` : ''}.`,
-    ...(bron ? [``, `Bron: ${bron === 'chatgpt' ? 'ChatGPT Ads' : bron}`] : []),
+    ...(bron ? [``, `Bron: ${({ chatgpt: 'ChatGPT Ads', 'google-ads': 'Google Ads' } as Record<string, string>)[bron] ?? bron}`] : []),
   ].join('\n').replace(/\n{3,}/g, '\n\n');
 
   const mail: Mail = {

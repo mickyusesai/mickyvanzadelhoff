@@ -1,0 +1,364 @@
+---
+export const prerender = true;
+import { getCollection, getEntry } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import ClientStrip from '../../components/ClientStrip.astro';
+import Testimonials from '../../components/Testimonials.astro';
+import IntakeForm from '../../components/IntakeForm.astro';
+import { SITE, FACTS, GOOGLE_PROFILE_URL, whatsappWith } from '../../config/site';
+import { spot } from '../../lib/spots';
+
+// AI Introductie as a landing page for Google Ads and ChatGPT Ads (Micky, 2026-10-05, decision D39).
+// Mobile first: promise, proof, trainer and buttons above the fold on a phone. Price, duration and the
+// WhatsApp text come from src/content/workshops/ai-introductie.md (which also feeds the cards); that
+// entry has `href`, so src/pages/ai-workshops/[slug].astro does not build a second page for it.
+const entry = await getEntry('workshops', 'ai-introductie');
+if (!entry) throw new Error('workshop ai-introductie missing');
+const d = entry.data;
+const wa = whatsappWith(d.whatsappText ?? 'Hoi Micky, ik wil meer weten over de AI Introductie voor mijn team.');
+const others = (await getCollection('workshops', ({ data }) => !data.draft)).filter((w) => w.id !== entry.id);
+const portrait = '/images/micky/micky-van-zadelhoff-portret.webp';
+
+const takeaways = [
+  { icon: 'mee-assistent', title: 'Je eigen AI-assistent', text: 'Tijdens de workshop gebouwd, met vaste instructies voor één taak uit je werk. Morgen open je hem en gaat die taak sneller.' },
+  { icon: 'mee-promptlijst', title: 'Een promptlijst per afdeling', text: 'Nooit meer vastlopen omdat je niet weet wat je met AI kunt.' },
+  { icon: 'mee-slides', title: 'De slides', text: 'Alles wat je zag, om rustig na te lezen.' },
+  { icon: 'mee-overzicht', title: 'Een deelnemersoverzicht', text: 'Voor jullie AI Act-dossier: wie wanneer welke training volgde.' },
+];
+
+const program = [
+  { time: '10.00 – 10.25', icon: 'intro-cross-the-line', title: 'Cross the line', text: 'Energizer en stellingen over AI. Binnen een kwartier weet ik waar de groep staat en stem ik de ochtend daarop af. Daarna kort: wat AI vandaag is, en waarom het soms zo zeker klinkt terwijl het fout zit.' },
+  { time: '10.25 – 11.15', icon: 'intro-modellen', title: 'Wat de modellen vandaag kunnen', text: 'ChatGPT, Claude, Gemini en andere modellen naast elkaar, met voorbeelden uit jullie werk. Werken in projecten, AI-agents die een taak van begin tot eind uitvoeren, je producten in een andere setting met Nano Banana Pro, en AI die mijn laptop bestuurt terwijl ik doorpraat.' },
+  { time: '11.15 – 11.35', icon: 'intro-koffie', title: 'Koffie en vragen', text: 'Even pauze om de ideeën te laten inzinken en vragen te beantwoorden.' },
+  { time: '11.35 – 12.05', icon: 'intro-aan-de-slag', title: 'Aan de slag: je eigen assistent', text: 'Iedereen bouwt een eigen AI-assistent met vaste instructies voor één taak uit zijn werk en gaat er meteen mee oefenen. Ik loop rond en help. Hier ontstaat ook de promptlijst die jullie meekrijgen.' },
+  { time: '12.05 – 12.35', icon: 'intro-afdelingen', title: 'Per afdeling, en wat je zelf bouwt', text: 'Toepassingen voor marketing, klantenservice, administratie, HR en sales. En hoe je zonder programmeerkennis een eigen AI-tool maakt met een coding agent zoals Claude Code, of je werkwijze één keer vastlegt als Skill in Claude.' },
+  { time: '12.35 – 12.50', icon: 'intro-veilig', title: 'Veilig met bedrijfsdata', text: 'Welke gegevens mogen in welke tool, wat de AI Act van jullie vraagt, en hoe je AI lokaal draait voor gevoelige informatie, zodat niets het pand verlaat.' },
+  { time: '12.50 – 13.00', icon: 'intro-toekomst', title: 'De komende twaalf maanden', text: 'Waar gaat het heen en wat betekent dat voor jullie werk? Korte discussie en de vervolgstappen.' },
+];
+
+// Line icons (24×24, stroke) for the FAQ and the "wat ik nodig heb" list.
+const ICONS: Record<string, string> = {
+  users: '<circle cx="9" cy="8" r="3.2"/><path d="M3 19c.8-3.2 3.2-5 6-5s5.2 1.8 6 5"/><circle cx="17" cy="9" r="2.5"/><path d="M16.5 14.2c2.3.3 3.9 1.9 4.5 4.8"/>',
+  chat: '<path d="M4 5h16v11H9l-5 4z"/><path d="M8 10h8"/>',
+  layers: '<path d="M12 3l9 5-9 5-9-5z"/><path d="M3 13l9 5 9-5"/>',
+  shield: '<path d="M12 3l8 3v6c0 4.5-3.4 8-8 9-4.6-1-8-4.5-8-9V6z"/><path d="M8.5 12l2.5 2.5 4.5-5"/>',
+  doc: '<path d="M6 3h9l4 4v14H6z"/><path d="M14 3v5h5"/><path d="M9 14l2 2 4-4"/>',
+  link: '<path d="M10 14a4 4 0 0 1 0-5.7l2.8-2.8a4 4 0 0 1 5.7 5.7l-1.4 1.4"/><path d="M14 10a4 4 0 0 1 0 5.7l-2.8 2.8a4 4 0 0 1-5.7-5.7l1.4-1.4"/>',
+  refresh: '<path d="M20 11a8 8 0 0 0-14.3-4.9L4 8"/><path d="M4 3v5h5"/><path d="M4 13a8 8 0 0 0 14.3 4.9L20 16"/><path d="M20 21v-5h-5"/>',
+  clock: '<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>',
+  screen: '<rect x="3" y="4" width="18" height="12" rx="2"/><path d="M8 20h8M12 16v4"/>',
+  laptop: '<rect x="5" y="5" width="14" height="10" rx="1.5"/><path d="M2 19h20"/>',
+  phone: '<path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2"/>',
+};
+const icon = (name: string, size = 20) =>
+  `<svg width="${size}" height="${size}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICONS[name]}</svg>`;
+
+const needs = [
+  { icon: 'screen', title: 'Een ruimte', text: 'Voor de groep, met een beamer of tv-scherm. Meer niet.' },
+  { icon: 'laptop', title: 'Laptops of telefoons', text: 'Voor wie wil meedoen. Een gratis account bij ChatGPT, Claude of Gemini is genoeg; ik stuur vooraf een korte instructie.' },
+  { icon: 'clock', title: 'Drie uur', text: 'Liefst een ochtend. Wil je er een dagdeel omheen bouwen met lunch of een teamactiviteit, prima.' },
+];
+
+const link = (href: string, label: string) => `<a href="${href}" class="font-bold text-violet underline underline-offset-2">${label}</a>`;
+const faq = [
+  { icon: 'users', q: 'Moet iedereen technisch zijn?', a: 'Nee. De introductie is gemaakt voor het hele team, van directie tot werkvloer. Wie nog nooit ChatGPT heeft geopend, haakt in het eerste halfuur aan.' },
+  { icon: 'chat', q: 'Wij gebruiken al ChatGPT. Heeft het dan nog zin?', a: 'Juist dan. De meeste teams gebruiken één tool als betere zoekmachine en laten de rest liggen: werken in projecten, agents, eigen tools bouwen, veilig omgaan met bedrijfsdata. Ik pas het programma aan op waar jullie staan.' },
+  { icon: 'layers', q: 'Gaat het alleen over ChatGPT?', a: 'Nee. Ik laat in de breedte zien wat ChatGPT, Claude, Gemini en andere modellen kunnen, zodat jullie zelf kunnen kiezen wat bij welk werk past.' },
+  { icon: 'shield', q: 'Wat gebeurt er met onze bedrijfsdata?', a: 'Dat is de vraag die altijd als eerste komt, dus het zit standaard in het programma: welke gegevens in welke tool mogen, wat de AI Act vraagt, en hoe je AI lokaal draait voor gevoelige informatie.' },
+  { icon: 'doc', q: 'Telt dit als AI-geletterdheidstraining voor de AI Act?', a: 'De inhoud sluit aan op wat artikel 4 vraagt: begrijpen wat AI kan, waar de risico\'s zitten en hoe je er verantwoord mee werkt. Je krijgt een deelnemersoverzicht voor je dossier. Een certificaat of vast urenaantal schrijft de wet niet voor.' },
+  { icon: 'link', q: 'Kunnen we het combineren met een automatiseringstraject?', a: `Ja, en dat is de logische volgorde: eerst ziet het hele team wat er kan, daarna kom ik meedraaien en bouwen we samen met twee van jullie mensen een automatisering die het bedrijf direct tijd bespaart. Vaak plannen we dat een paar weken na de introductie. Lees meer over ${link('/automatisering/', 'AI-automatisering op maat')}.` },
+  { icon: 'refresh', q: 'Kun je terugkomen voor een update?', a: 'Ja. Technogym vroeg daar zelf om: ieder kwartaal een korte update, omdat het zo hard gaat. Dat kan als los vervolg.' },
+  { icon: 'clock', q: 'Hoe snel kan het?', a: 'Meestal binnen twee tot vier weken. App me of laat je terugbellen, dan stemmen we een datum af.' },
+];
+const faqJsonLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a.replace(/<[^>]+>/g, '') } })),
+});
+
+const specs = [
+  { label: 'Duur', value: 'Drie uur, meestal een ochtend' },
+  { label: 'Groep', value: d.participants },
+  { label: 'Locatie', value: d.location },
+  { label: 'Taal', value: d.language ?? 'Nederlands of Engels' },
+];
+---
+<Layout title={d.seoTitle ?? `${d.title} – AI-workshop`} description={d.description} image={d.featuredImage || SITE.ogImage}>
+  <!-- Hero: promise, proof, trainer, buttons; the Technogym photo under it on phones, beside it on desktop -->
+  <section class="relative overflow-hidden">
+    <div aria-hidden="true" class="pointer-events-none absolute inset-0 z-0 overflow-hidden">
+      <div class="orb right-[6%] top-8 hidden h-28 w-28 animate-drift [--orb-a:#D4F75B] [--orb-b:#8FBF1C] [--orb-c:#33470C] lg:block"></div>
+    </div>
+    <div class="wrap relative z-10 grid items-center gap-8 pb-10 pt-6 sm:pb-14 sm:pt-12 lg:grid-cols-[1.08fr_0.92fr] lg:gap-12">
+      <div class="grid gap-4 sm:gap-5">
+        <p class="hidden text-sm font-bold sm:block"><a href="/ai-workshops/" class="text-violet hover:underline">AI-workshops</a></p>
+        <p class="eyebrow animate-rise">AI Introductie · drie uur · in-company</p>
+        <h1 class="text-[28px] font-extrabold leading-[1.12] tracking-tight animate-rise [animation-delay:.05s] sm:text-[44px] sm:leading-[1.06] lg:text-[50px]">Na drie uur heeft iedereen een <span class="highlight">eigen AI-assistent</span> voor één taak uit zijn werk.</h1>
+        <p class="flex flex-wrap items-center gap-x-2 gap-y-1 text-[14px] font-bold animate-rise [animation-delay:.1s] sm:text-[15px]">
+          <span>{FACTS.workshops} workshops</span><span aria-hidden="true" class="text-muted">·</span>
+          <span>{FACTS.participants} deelnemers</span><span aria-hidden="true" class="text-muted">·</span>
+          <a href={GOOGLE_PROFILE_URL} target="_blank" rel="noopener"><span aria-hidden="true" class="text-[#E5A100]">★</span> <span class="border-b-[3px] border-lime">{FACTS.googleRating} op Google</span></a>
+        </p>
+        <p class="max-w-prose text-[16px] leading-relaxed text-muted animate-rise [animation-delay:.15s] sm:text-lg">Een workshop van drie uur bij jou op locatie, voor het hele team tot 25 mensen. {d.price} excl. btw, reiskosten inbegrepen, in Nederland en België.</p>
+        <div class="flex items-center gap-3 animate-rise [animation-delay:.2s]">
+          <img src={portrait} alt="Micky van Zadelhoff" width="52" height="52" class="h-[52px] w-[52px] flex-none rounded-full border-2 border-ink object-cover" />
+          <p class="text-[14px] leading-snug"><strong class="block text-[15px]">Micky van Zadelhoff</strong><span class="text-muted">geeft de workshop zelf. App of bel me gerust.</span></p>
+        </div>
+        <div id="hero-cta" class="grid gap-2.5 animate-rise [animation-delay:.25s] sm:flex sm:flex-wrap sm:gap-3">
+          <a href={wa} rel="noopener" class="btn btn-primary w-full sm:w-auto">Stuur een WhatsApp</a>
+          <div class="grid grid-cols-2 gap-2.5 sm:flex sm:gap-3">
+            <a href={SITE.phoneUrl} class="btn btn-ghost px-3 sm:px-6"><Fragment set:html={icon('phone', 18)} />Bel direct</a>
+            <a href="#bel-me" class="btn btn-ghost px-3 sm:px-6">Bel me terug</a>
+          </div>
+        </div>
+      </div>
+      <figure class="relative animate-rise [animation-delay:.2s]">
+        <img src="/images/micky/workshop-technogym.webp" alt="Micky geeft een AI-workshop voor een volle zaal bij Technogym Benelux" width="1200" height="689" fetchpriority="high" class="aspect-[4/3] w-full rounded-sticker border-2 border-ink object-cover object-[48%_40%] shadow-sticker sm:aspect-[16/10]" />
+        <figcaption class="absolute bottom-3 left-3 rounded-full border-2 border-ink bg-lime px-3 py-1 text-[12px] font-extrabold">Workshop bij Technogym Benelux</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <ClientStrip />
+
+  <!-- Why -->
+  <section class="wrap pt-12 sm:pt-16">
+    <div class="reveal grid max-w-3xl gap-4">
+      <p class="eyebrow">Waarom deze ochtend</p>
+      <h2 class="text-[26px] font-extrabold leading-[1.1] tracking-tight sm:text-4xl">Iedereen gebruikt AI. Bijna niemand haalt eruit wat erin zit.</h2>
+      <p class="text-[16px] leading-relaxed text-muted sm:text-lg">Bijna elk team gebruikt inmiddels wel iets van AI. Meestal ChatGPT, meestal als betere zoekmachine, en meestal zonder dat iemand weet welke bedrijfsgegevens er eigenlijk in mogen. Ondertussen zijn de tools van antwoorden geven naar werk uitvoeren gegaan: AI die je mail voorsorteert, een offerte opstelt, of je computer bedient terwijl jij iets anders doet.</p>
+      <p class="text-[16px] leading-relaxed text-muted sm:text-lg">Deze introductie brengt het hele team in drie uur op hetzelfde niveau, geoefend op jullie eigen werk: administratie, klantenservice, marketing, HR, sales. Interactief en informeel, want juist de mensen die niet staan te popelen wil je aan boord.</p>
+    </div>
+  </section>
+
+  <!-- Takeaways -->
+  <section class="wrap pt-12 sm:pt-16">
+    <div class="reveal grid gap-2">
+      <p class="eyebrow">Wat je meeneemt</p>
+      <h2 class="text-[26px] font-extrabold leading-[1.1] tracking-tight sm:text-4xl">Je gaat naar huis met iets wat werkt.</h2>
+    </div>
+    <ul class="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+      {takeaways.map((t, i) => (
+        <li class="reveal sticker flex gap-4 bg-surface p-4 lg:flex-col lg:p-5" data-delay={(i % 3) + 1}>
+          <img src={spot(t.icon)} alt="" width="160" height="160" loading="lazy" class="spot h-[72px] w-[72px] lg:h-24 lg:w-24" />
+          <div>
+            <h3 class="font-display text-[17px] font-bold leading-snug">{t.title}</h3>
+            <p class="mt-1 text-[14px] leading-relaxed text-muted">{t.text}</p>
+          </div>
+        </li>
+      ))}
+    </ul>
+  </section>
+
+  <!-- Programme: swipe row on phones, grid on desktop -->
+  <section class="wrap pt-12 sm:pt-16">
+    <div class="reveal flex flex-wrap items-end justify-between gap-3">
+      <div class="grid gap-2">
+        <p class="eyebrow">Programma</p>
+        <h2 class="text-[26px] font-extrabold leading-[1.1] tracking-tight sm:text-4xl">Zo ziet de ochtend eruit</h2>
+        <p class="text-[15px] text-muted">Drie uur. De voorbeelden pas ik vooraf aan op jullie branche.</p>
+      </div>
+      <p class="text-[13px] font-bold text-muted lg:hidden" aria-hidden="true">Veeg voor de volgende stap →</p>
+    </div>
+    <ol class="snap-row mt-6" data-carousel aria-label="Programma van de workshop">
+      {program.map((p, i) => (
+        <li class="sticker flex flex-col bg-surface p-5">
+          <div class="flex items-start justify-between gap-3">
+            <span class="chip bg-lime">{p.time}</span>
+            <span class="font-display text-[13px] font-bold text-muted">{i + 1}/{program.length}</span>
+          </div>
+          <img src={spot(p.icon)} alt="" width="160" height="160" loading="lazy" class="spot mt-4 h-24 w-24" />
+          <h3 class="mt-4 font-display text-[18px] font-bold leading-snug">{p.title}</h3>
+          <p class="mt-2 text-[14px] leading-relaxed text-muted">{p.text}</p>
+        </li>
+      ))}
+    </ol>
+    <div class="snap-dots" data-carousel-dots>
+      {program.map((p, i) => <button type="button" aria-label={`Stap ${i + 1}: ${p.title}`} aria-current={i === 0 ? 'true' : 'false'}></button>)}
+    </div>
+    <div class="cta-row">
+      <a href={wa} rel="noopener" class="btn btn-primary">Stuur een WhatsApp</a>
+      <a href="#bel-me" class="btn btn-ghost">Laat je terugbellen</a>
+    </div>
+  </section>
+
+  <!-- Quotes -->
+  <section class="wrap pt-4 sm:pt-8">
+    <div class="reveal grid gap-2">
+      <p class="eyebrow">Wat deelnemers zeggen</p>
+      <h2 class="text-[26px] font-extrabold leading-[1.1] tracking-tight sm:text-4xl">Na afloop vroegen ze om meer.</h2>
+    </div>
+    <Testimonials />
+  </section>
+
+  <!-- Trainer -->
+  <section class="wrap pt-6 sm:pt-10">
+    <div class="reveal sticker grid gap-6 bg-lime-soft p-6 sm:p-10 md:grid-cols-[240px_1fr] md:items-center md:gap-10">
+      <img src={portrait} alt="Micky van Zadelhoff" width="480" height="480" loading="lazy" class="h-36 w-36 rounded-[20px] border-2 border-ink object-cover shadow-sticker-sm md:h-60 md:w-60" />
+      <div class="grid gap-4">
+        <p class="eyebrow">Wie geeft de workshop</p>
+        <h2 class="text-[28px] font-extrabold leading-[1.08] tracking-tight sm:text-[38px]">Micky van Zadelhoff</h2>
+        <p class="text-[16px] leading-relaxed text-ink/80">Ik geef de AI Introductie zelf, van het eerste appje tot de laatste vraag. Sinds {FACTS.workshopsSince} gaf ik {FACTS.workshops} AI-workshops aan meer dan {FACTS.participants.replace('+', '')} deelnemers, bij bedrijven en op scholen in {FACTS.schoolCountries} Europese landen. Ik kom uit de IT en bouwde met AI zelf <a href="https://easyreimburse.ai" rel="noopener" class="font-bold underline underline-offset-2">EasyReimburse</a>, dat inmiddels door {FACTS.easyReimburseOrgs} organisaties wordt gebruikt.</p>
+        <p class="text-[15px] font-bold">Je appt of belt met mij, niet met een verkoper.</p>
+        <div class="flex flex-wrap gap-3">
+          <a href={wa} rel="noopener" class="btn btn-primary">Stuur een WhatsApp</a>
+          <a href={SITE.phoneUrl} class="btn btn-ghost bg-white"><Fragment set:html={icon('phone', 18)} />{SITE.phoneDisplay}</a>
+        </div>
+        <a href="/over/" class="w-fit text-[14px] font-bold text-violet underline underline-offset-2">Lees mijn verhaal</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- AI Act -->
+  <section class="mt-12 band-dark sm:mt-16">
+    <div class="wrap grid gap-6 py-12 sm:py-16 md:grid-cols-[1fr_auto] md:items-center">
+      <div class="reveal grid max-w-3xl gap-4">
+        <p class="eyebrow">AI Act</p>
+        <h2 class="text-[26px] font-extrabold leading-[1.1] tracking-tight sm:text-4xl">AI-kennis bij je medewerkers is sinds 2025 verplicht.</h2>
+        <p class="text-[16px] leading-relaxed text-white/80">Artikel 4 van de Europese AI Act verplicht werkgevers sinds 2 februari 2025 om te zorgen dat medewerkers die met AI werken er voldoende van begrijpen: wat het kan, waar de risico's zitten en hoe je er verantwoord mee omgaat. Dat geldt ook als je team alleen ChatGPT gebruikt. Sinds augustus 2026 wordt erop toegezien. Een certificaat of vast aantal uren schrijft de wet niet voor; wel dat je er aantoonbaar werk van maakt.</p>
+        <p class="text-[16px] leading-relaxed text-white/80">Deze introductie is daar een praktische invulling van, zonder dat het een compliance-ochtend wordt. Na afloop krijg je een deelnemersoverzicht voor je dossier.</p>
+      </div>
+      <img src={spot('intro-veilig')} alt="" width="200" height="200" loading="lazy" class="spot hidden h-40 w-40 border-lime md:block" />
+    </div>
+  </section>
+
+  <!-- Practical -->
+  <section class="wrap pt-12 sm:pt-16">
+    <div class="reveal grid gap-2">
+      <p class="eyebrow">Praktisch</p>
+      <h2 class="text-[26px] font-extrabold leading-[1.1] tracking-tight sm:text-4xl">Wat het kost en wat ik nodig heb</h2>
+    </div>
+    <div class="mt-6 grid gap-4 lg:grid-cols-[1fr_1.1fr]">
+      <div class="reveal sticker grid content-start gap-4 bg-surface p-5 sm:p-6">
+        <div class="rounded-2xl border-2 border-ink bg-lime p-4">
+          <p class="text-[12px] font-extrabold uppercase tracking-[0.14em]">Investering</p>
+          <p class="mt-1 font-display text-[34px] font-extrabold leading-none">{d.price}</p>
+          <p class="mt-1 text-[14px] font-semibold">{d.priceNote}, voor de hele groep</p>
+        </div>
+        <dl class="grid grid-cols-2 gap-3">
+          {specs.map((s) => (
+            <div class="rounded-2xl border-2 border-line p-3">
+              <dt class="text-[12px] font-extrabold uppercase tracking-[0.12em] text-muted">{s.label}</dt>
+              <dd class="mt-1 text-[14px] font-bold leading-snug">{s.value}</dd>
+            </div>
+          ))}
+        </dl>
+      </div>
+      <div class="reveal sticker grid content-start gap-4 bg-surface p-5 sm:p-6" data-delay="1">
+        <h3 class="font-display text-[18px] font-bold">Wat ik van jullie nodig heb</h3>
+        <ul class="grid gap-4">
+          {needs.map((n) => (
+            <li class="flex gap-3">
+              <span class="faq-icon" set:html={icon(n.icon)} />
+              <p class="text-[15px] leading-relaxed"><strong>{n.title}.</strong> <span class="text-muted">{n.text}</span></p>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="wrap pt-12 sm:pt-16">
+    <div class="reveal grid gap-2">
+      <p class="eyebrow">Veelgestelde vragen</p>
+      <h2 class="text-[26px] font-extrabold leading-[1.1] tracking-tight sm:text-4xl">Wat teams me eerst vragen</h2>
+    </div>
+    <div class="mt-6 grid gap-3 lg:grid-cols-2 lg:items-start">
+      {faq.map((f) => (
+        <details class="faq-item">
+          <summary>
+            <span class="faq-icon" set:html={icon(f.icon)} />
+            <span class="font-display text-[16px] font-bold leading-snug sm:text-[17px]">{f.q}</span>
+            <svg class="faq-chev" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
+          </summary>
+          <p class="faq-answer" set:html={f.a} />
+        </details>
+      ))}
+    </div>
+    <div class="cta-row">
+      <a href={wa} rel="noopener" class="btn btn-primary">Stuur een WhatsApp</a>
+      <a href="#bel-me" class="btn btn-ghost">Laat je terugbellen</a>
+    </div>
+    <script type="application/ld+json" set:html={faqJsonLd} />
+  </section>
+
+  <!-- Call-back form -->
+  <section id="bel-me" class="wrap scroll-mt-20 py-6 sm:py-10">
+    <div class="reveal sticker grid gap-8 bg-surface p-6 sm:p-10 lg:grid-cols-[2fr_3fr] lg:gap-12">
+      <div class="grid content-start gap-4">
+        <p class="eyebrow">Bel me terug</p>
+        <h2 class="text-[28px] font-extrabold leading-[1.08] tracking-tight sm:text-[36px]">Ik bel je om alles af te stemmen.</h2>
+        <p class="text-muted">Laat je gegevens achter en zeg wanneer je de workshop ongeveer voor je ziet. Ik bel je binnen een dag, dan stemmen we datum, groep en inhoud af.</p>
+        <div class="flex items-center gap-3">
+          <img src={portrait} alt="" width="48" height="48" loading="lazy" class="h-12 w-12 flex-none rounded-full border-2 border-ink object-cover" />
+          <p class="text-[14px] font-semibold">Micky belt je zelf.</p>
+        </div>
+        <p class="text-sm text-muted">Liever appen? <a href={wa} rel="noopener" class="font-bold text-violet underline underline-offset-2">Stuur een WhatsApp</a>.</p>
+      </div>
+      <IntakeForm voor="introductie" />
+    </div>
+  </section>
+
+  {others.length > 0 && (
+    <section class="wrap pb-28 pt-6 lg:pb-6">
+      {others.map((w) => (
+        <a href={w.data.href ?? `/ai-workshops/${w.data.slug}/`} class="reveal sticker sticker-hover flex flex-wrap items-center justify-between gap-4 bg-violet-soft p-6">
+          <div><p class="eyebrow">Ook interessant</p><p class="mt-1 font-display text-xl font-bold">{w.data.title}</p><p class="text-sm text-muted">{w.data.duration} · {w.data.participants} · {w.data.price}</p></div>
+          <span class="btn btn-ghost">Bekijk</span>
+        </a>
+      ))}
+    </section>
+  )}
+
+  <!-- Contact bar on phones -->
+  <div id="mobile-cta" class="mobile-cta lg:hidden" inert>
+    <img src={portrait} alt="" width="40" height="40" loading="lazy" class="h-10 w-10 flex-none rounded-full border-2 border-ink object-cover" />
+    <p class="min-w-0 flex-1 text-[13px] leading-tight"><strong class="block truncate">Micky van Zadelhoff</strong><span class="text-muted">je trainer</span></p>
+    <a href={wa} rel="noopener" class="btn btn-primary h-11 px-4 text-[14px]">WhatsApp</a>
+    <a href={SITE.phoneUrl} class="btn btn-ghost h-11 w-11 flex-none px-0" aria-label="Bel Micky"><Fragment set:html={icon('phone', 18)} /></a>
+  </div>
+</Layout>
+
+<script>
+  // Swipe row: keep the dots in step with the scroll position; a dot scrolls to its card.
+  document.querySelectorAll<HTMLElement>('[data-carousel]').forEach((row) => {
+    const dots = row.parentElement?.querySelectorAll<HTMLButtonElement>('[data-carousel-dots] button');
+    const cards = Array.from(row.children) as HTMLElement[];
+    if (!dots || !dots.length) return;
+    let ticking = false;
+    const update = () => {
+      ticking = false;
+      const left = row.scrollLeft + parseFloat(getComputedStyle(row).paddingLeft || '0');
+      let best = 0;
+      cards.forEach((c, i) => { if (Math.abs(c.offsetLeft - left) < Math.abs(cards[best].offsetLeft - left)) best = i; });
+      if (row.scrollLeft + row.clientWidth >= row.scrollWidth - 4) best = cards.length - 1;
+      dots.forEach((d, i) => d.setAttribute('aria-current', i === best ? 'true' : 'false'));
+    };
+    row.addEventListener('scroll', () => { if (!ticking) { ticking = true; requestAnimationFrame(update); } }, { passive: true });
+    dots.forEach((d, i) => d.addEventListener('click', () => {
+      const pad = parseFloat(getComputedStyle(row).paddingLeft || '0');
+      row.scrollTo({ left: cards[i].offsetLeft - pad, behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
+    }));
+  });
+
+  // Contact bar on phones: visible once the hero buttons are scrolled past, hidden at the form and the footer.
+  const bar = document.getElementById('mobile-cta');
+  const hero = document.getElementById('hero-cta');
+  const form = document.getElementById('bel-me');
+  const footer = document.querySelector('footer');
+  if (bar && hero && 'IntersectionObserver' in window) {
+    const state = { past: false, form: false, footer: false };
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach((e) => {
+        if (e.target === hero) state.past = !e.isIntersecting && e.boundingClientRect.top < 0;
+        if (e.target === form) state.form = e.isIntersecting;
+        if (e.target === footer) state.footer = e.isIntersecting;
+      });
+      const show = state.past && !state.form && !state.footer;
+      bar.classList.toggle('is-shown', show);
+      bar.toggleAttribute('inert', !show);
+    });
+    [hero, form, footer].forEach((el) => el && io.observe(el));
+  }
+</script>
