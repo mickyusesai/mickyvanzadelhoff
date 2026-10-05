@@ -59,9 +59,22 @@ header button says "Stuur een WhatsApp".
 1. **Homepage** (`/`) — Micky's photo, the two AI workshops, client logos ("Gaf workshops bij"),
    stat bar, "Ik bouw wat ik anderen leer bouwen" with a workshop photo, free book, recent posts.
 2. **AI-workshops** (`/ai-workshops/`) — Hub with two cards from `src/content/workshops/*.md`:
-   `ai-introductie` (3 h, €1.500, rendered at `/ai-workshops/ai-introductie/`) and `automatisering`
-   (the card for the custom service; its `href` points to `/automatisering/`, so no page is built
-   under `/ai-workshops/`). Adding a workshop = adding a file; an entry with `href` is card-only.
+   `ai-introductie` (3 h, €1.500) and `automatisering` (the card for the custom service; its `href` points
+   to `/automatisering/`). Both entries have `href`, so `[slug].astro` builds neither; adding a workshop
+   without `href` still gets the generic page. Adding a workshop = adding a file.
+   **AI Introductie** (`/ai-workshops/ai-introductie/`, D39, 2026-10-05) is its own landing page in
+   `src/pages/ai-workshops/ai-introductie.astro` for Google Ads and ChatGPT Ads, mobile first. It reads price,
+   duration, `whatsappText`, `seoTitle` and `description` from the markdown entry. Above the fold on a phone:
+   the promise "Na drie uur heeft iedereen een eigen AI-assistent voor één taak uit zijn werk.", the proof
+   line (`FACTS.workshops`, `FACTS.participants`, `FACTS.googleRating` linking to `GOOGLE_PROFILE_URL`; the
+   Google profile is named "De Moderne Nomaden"), a trainer chip with Micky's portrait and the buttons
+   WhatsApp, "Bel direct" (`SITE.phoneUrl`) and "Bel me terug" (`#bel-me`); the Technogym photo sits under
+   it on phones and beside it on desktop. Then the logo strip, "Wat je meeneemt" (four `mee-*` spots), the
+   programme as a swipe row with scroll-snap and dots on phones and a grid from lg (seven `intro-*` spots),
+   quotes, "Wie geeft de workshop", the AI Act band, prices, the FAQ as `<details>` with line icons plus
+   FAQPage JSON-LD, the call-back form and a contact bar at the bottom on phones (`.mobile-cta`, shown
+   after the hero buttons, hidden at the form and footer). CSS: `.snap-row`, `.snap-dots`, `.faq-*`,
+   `.mobile-cta` in `global.css`.
 3. **AI-automatisering** (`/automatisering/`) — Custom service page built in `automatisering.astro`
    from Micky's briefing 2 (2026-09-15, decision D26): he works alongside a department and automates
    what costs too much time, with two of the customer's own people; €150 per hour excl. btw, and since
@@ -88,10 +101,10 @@ header button says "Stuur een WhatsApp".
    on-demand route `src/pages/api/intake.ts`, which mails Micky. With JavaScript the form sends with
    `fetch` (`Accept: application/json`, answer `{ ok, status }`) and shows its success block in place;
    without it the route answers a 303 back to the page with `?status=`. The same component, as
-   `<IntakeForm voor="introductie" />`, is the "Bel me terug" section under the article of a workshop whose
-   frontmatter has `voor: "introductie"` (D38, the AI Introductie page): the visitor says roughly when they
-   want the workshop and Micky calls to settle date, group and content; no date is fixed on the site. That
-   page also carries three `.cta-row` button rows written as raw HTML in its markdown (WhatsApp + `#bel-me`).
+   `<IntakeForm voor="introductie" />`, is the "Bel me terug" section (`#bel-me`) of the AI Introductie page
+   (D38, D39): the visitor says roughly when they want the workshop and Micky calls to settle date, group and
+   content; no date is fixed on the site. (`[slug].astro` still shows it for a workshop with `voor` in its
+   frontmatter.)
    Railway blocks outbound SMTP on the Free, Trial and Hobby plans, so the mail goes through Postmark's
    HTTPS API, from the paid Postmark account Micky already uses for EasyReimburse (sender signatures and
    verified domains are account-wide). Env on Railway: `POSTMARK_SERVER_TOKEN` (a server API token),
@@ -118,12 +131,15 @@ Engels, the breadth of models (ChatGPT, Claude, Gemini, AI-agents), an AI Act se
 `seoTitle`, `kicker` and `language`). `src/components/Tracking.astro` (in the layout) stores
 `utm_source=chatgpt` in sessionStorage, appends " (gezien in ChatGPT)" to every WhatsApp message for the
 session, fills the hidden `bron` field of both intake forms (mailed as "Bron: ChatGPT Ads"), and reports
-`contact` (WhatsApp or mail click, param `kanaal`) and `lead` (form sent, param `voor`, once per session per
-form, via `window.mvzLead`) to GA4 and to
+`contact` (WhatsApp, mail or phone click, param `kanaal` = whatsapp | mail | telefoon) and `lead` (form sent,
+param `voor`, once per session per form, via `window.mvzLead`) to GA4 and to
 `window.__adsTrack`. The ChatGPT Ads pixel (OpenAI `oaiq`, pixel ID from Micky, 2026-09-29) lives in `src/config/pixel.ts`:
 `snippet` loads it on every page, `bridge` maps the site's events to the pixel (`lead` → standard
 `lead_created`, `contact` → custom `contact_whatsapp` / `contact_mail`); Ads Manager needs conversion settings
-with exactly those names. `debug` is off for visitors.
+with exactly those names (`contact_telefoon` for phone clicks since D39). `debug` is off for visitors.
+**Google Ads (D39):** `gclid`/`gbraid`/`wbraid`, or `utm_source=google` with a paid medium, sets `bron` to
+`google-ads` (mailed as "Bron: Google Ads", no WhatsApp label). Conversions go to Google Ads by importing the
+GA4 key events `lead` and `contact`; there is no separate Google Ads tag.
 
 ### Blog / content:
 - Individual articles: `/blog/[category]/[slug]/`

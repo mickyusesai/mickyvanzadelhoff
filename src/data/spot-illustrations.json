@@ -1348,5 +1348,60 @@
     "name": "web3-ai-robot",
     "kind": "scene",
     "prompt": "a friendly small robot sitting at a desk typing on a laptop while a chain of glowing blocks hangs unused on the wall behind it"
+  },
+  {
+    "name": "intro-cross-the-line",
+    "kind": "icon",
+    "prompt": "a pair of sneakers stepping over a bold chalk line on the floor"
+  },
+  {
+    "name": "intro-modellen",
+    "kind": "icon",
+    "prompt": "three speech bubbles of different sizes side by side, the middle one coral"
+  },
+  {
+    "name": "intro-koffie",
+    "kind": "icon",
+    "prompt": "a steaming coffee cup on a saucer next to a small round cookie"
+  },
+  {
+    "name": "intro-aan-de-slag",
+    "kind": "icon",
+    "prompt": "a laptop with a small friendly robot waving from the screen"
+  },
+  {
+    "name": "intro-afdelingen",
+    "kind": "icon",
+    "prompt": "four stacked folders in different colours with a small gear on top"
+  },
+  {
+    "name": "intro-veilig",
+    "kind": "icon",
+    "prompt": "a padlock in front of a stack of documents"
+  },
+  {
+    "name": "intro-toekomst",
+    "kind": "icon",
+    "prompt": "a telescope on a small tripod pointing at a rising arrow"
+  },
+  {
+    "name": "mee-assistent",
+    "kind": "icon",
+    "prompt": "a small friendly robot holding one task card with a checkmark"
+  },
+  {
+    "name": "mee-promptlijst",
+    "kind": "icon",
+    "prompt": "a clipboard with a checklist and a pencil"
+  },
+  {
+    "name": "mee-slides",
+    "kind": "icon",
+    "prompt": "a presentation screen on a stand showing a simple bar chart"
+  },
+  {
+    "name": "mee-overzicht",
+    "kind": "icon",
+    "prompt": "a document with a round seal stamp and a checkmark"
   }
 ]

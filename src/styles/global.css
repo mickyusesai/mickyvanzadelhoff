@@ -131,8 +131,35 @@
   .btn:disabled { @apply cursor-wait opacity-60; transform: none; }
   /* Tailwind's `grid` on the form outranks the [hidden] attribute, so the sent form needs this rule to disappear. */
   form[data-intake][hidden] { display: none !important; }
-  /* Call-to-action rows written as raw HTML inside a workshop's markdown (two buttons). */
+  /* Call-to-action rows (two buttons) between sections. */
   .cta-row { @apply my-8 flex flex-wrap gap-3; }
+
+  /* AI Introductie landing page (src/pages/ai-workshops/ai-introductie.astro, D39) */
+  /* Swipe row: cards side by side with scroll-snap on phones (next card peeks in), a grid from lg. */
+  .snap-row { @apply -mx-5 flex gap-4 overflow-x-auto px-5 pb-5 pt-1 sm:-mx-8 sm:px-8; scroll-snap-type: x mandatory; scroll-padding-inline: 1.25rem; scrollbar-width: none; overscroll-behavior-x: contain; }
+  .snap-row::-webkit-scrollbar { display: none; }
+  .snap-row > * { flex: 0 0 82%; scroll-snap-align: start; }
+  @media (min-width: 640px) { .snap-row { scroll-padding-inline: 2rem; } .snap-row > * { flex-basis: 46%; } }
+  @media (min-width: 1024px) {
+    .snap-row { @apply mx-0 grid grid-cols-4 overflow-visible px-0; }
+    .snap-row > * { flex: none; }
+  }
+  .snap-dots { @apply mt-1 flex items-center justify-center gap-2 lg:hidden; }
+  .snap-dots button { @apply h-2.5 w-2.5 rounded-full border-2 border-ink bg-white transition-[width,background-color] duration-200; }
+  .snap-dots button[aria-current="true"] { @apply w-6 bg-violet; }
+  /* FAQ with <details>: icon, question, chevron that turns when open. */
+  .faq-item { @apply sticker overflow-hidden bg-surface; }
+  .faq-item > summary { @apply flex cursor-pointer list-none items-center gap-3 p-4 sm:gap-4 sm:p-5; }
+  .faq-item > summary::-webkit-details-marker { display: none; }
+  .faq-item > summary:focus-visible { @apply outline-none ring-4 ring-inset ring-lime; }
+  .faq-icon { @apply flex h-10 w-10 flex-none items-center justify-center rounded-full border-2 border-ink bg-violet-soft text-violet; }
+  .faq-chev { @apply ml-auto flex-none transition-transform duration-200; }
+  .faq-item[open] .faq-chev { transform: rotate(180deg); }
+  .faq-item[open] > summary { @apply pb-2 sm:pb-3; }
+  .faq-answer { @apply px-4 pb-5 text-[15px] leading-relaxed text-muted sm:pl-[76px] sm:pr-6; }
+  /* Contact bar at the bottom of the screen on phones, shown once the hero buttons are out of view. */
+  .mobile-cta { position: fixed; left: 12px; right: 12px; bottom: calc(12px + env(safe-area-inset-bottom)); z-index: 30; transform: translateY(160%); opacity: 0; transition: transform .3s cubic-bezier(.2,.7,.2,1), opacity .3s; @apply flex items-center gap-2.5 rounded-[18px] border-2 border-ink bg-white p-2 pl-2.5 shadow-sticker-sm; }
+  .mobile-cta.is-shown { transform: none; opacity: 1; }
   /* Honeypot: off-screen and out of the tab order, never display:none (bots skip that). */
   .hp { position: absolute; left: -10000px; top: 0; width: 1px; height: 1px; overflow: hidden; }
   .tool__results { @apply grid gap-3 sm:grid-cols-2; }
@@ -184,4 +211,6 @@ html.js .reveal[data-delay="3"] { transition-delay: .3s; }
   .marquee-track { flex-wrap: wrap; width: auto; justify-content: center; }
   .btn, .sticker-hover { transition: none; }
   .promo { transition: none; }
+  .mobile-cta, .faq-chev, .snap-dots button { transition: none; }
+  .snap-row { scroll-behavior: auto; }
 }

@@ -3,6 +3,8 @@
  * Conversion tracking and the ChatGPT Ads source (handoff 2026-09-29, section 5).
  * - Remembers utm_source=chatgpt in sessionStorage, adds " (gezien in ChatGPT)" to every WhatsApp
  *   message on the site while the session lasts, and fills the hidden `bron` field of the intake form.
+ *   Google Ads visitors (gclid/gbraid/wbraid, or utm_source=google with a paid medium) get bron
+ *   "google-ads" (no WhatsApp label); their conversions are imported into Google Ads from GA4.
  * - Reports "contact" on WhatsApp and mail clicks and "lead" on a sent intake form (once per session per
  *   variant, param `voor`), to GA4 (gtag) and to window.__adsTrack when the pixel bridge in
  *   src/config/pixel.ts defines it. IntakeForm.astro calls window.mvzLead after a fetch submit; the
@@ -20,8 +22,14 @@ const events = ADS_PIXEL.events;
       set: function (k, v) { try { sessionStorage.setItem(k, v); } catch (e) {} }
     };
     var params = new URLSearchParams(location.search);
-    if ((params.get('utm_source') || '').toLowerCase() === 'chatgpt') {
+    var src = (params.get('utm_source') || '').toLowerCase();
+    var medium = (params.get('utm_medium') || '').toLowerCase();
+    if (src === 'chatgpt') {
       store.set('bron', 'chatgpt');
+      if (params.get('utm_campaign')) store.set('campagne', params.get('utm_campaign'));
+    } else if (params.get('gclid') || params.get('gbraid') || params.get('wbraid') || (src === 'google' && /cpc|paid|ppc/.test(medium))) {
+      // Google Ads (2026-10-05): conversions are imported from GA4; the source shows in the intake mail.
+      store.set('bron', 'google-ads');
       if (params.get('utm_campaign')) store.set('campagne', params.get('utm_campaign'));
     }
     var bron = store.get('bron');
@@ -56,6 +64,8 @@ const events = ADS_PIXEL.events;
     }
     var mailLinks = document.querySelectorAll('a[href^="mailto:"]');
     for (var j = 0; j < mailLinks.length; j++) mailLinks[j].addEventListener('click', function () { track(events.contact, { kanaal: 'mail' }); });
+    var telLinks = document.querySelectorAll('a[href^="tel:"]');
+    for (var t = 0; t < telLinks.length; t++) telLinks[t].addEventListener('click', function () { track(events.contact, { kanaal: 'telefoon' }); });
 
     if (bron) {
       var bronFields = document.querySelectorAll('input[name="bron"]');
