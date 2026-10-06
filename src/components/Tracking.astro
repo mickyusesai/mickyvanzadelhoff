@@ -5,17 +5,23 @@
  *   message on the site while the session lasts, and fills the hidden `bron` field of the intake form.
  *   Google Ads visitors (gclid/gbraid/wbraid, or utm_source=google with a paid medium) get bron
  *   "google-ads" (no WhatsApp label); their conversions are imported into Google Ads from GA4.
- * - Reports "contact" on WhatsApp and mail clicks and "lead" on a sent intake form (once per session per
- *   variant, param `voor`), to GA4 (gtag) and to window.__adsTrack when the pixel bridge in
- *   src/config/pixel.ts defines it. IntakeForm.astro calls window.mvzLead after a fetch submit; the
- *   no-JS path (?status=sent on a page with the form) is handled here.
+ * - Reports "contact" on WhatsApp, mail, phone and agenda clicks and "lead" on a sent form (once per
+ *   session per variant, param `voor`), to GA4 (gtag) and to window.__adsTrack when the pixel bridge in
+ *   src/config/pixel.ts defines it. IntakeForm.astro calls window.mvzLead after a successful fetch submit;
+ *   the no-JS path (?status=sent on a page with the form) is handled here.
+ * - Sends Google Ads conversions (SITE.googleAdsConversions, 2026-10-06): WhatsApp click, mail click,
+ *   form sent, agenda click. Clicks are caught by one listener on document (capture phase), so links
+ *   added later count too; nothing is prevented or delayed and the hit goes out with
+ *   transport_type 'beacon'. Without window.gtag (no Google tag on the page) nothing is sent.
  */
 import { ADS_PIXEL } from '../config/pixel';
+import { SITE } from '../config/site';
 const events = ADS_PIXEL.events;
+const adsConversions = SITE.googleAdsConversions;
 ---
 {ADS_PIXEL.snippet && <Fragment set:html={ADS_PIXEL.snippet} />}
 {ADS_PIXEL.bridge && <script is:inline set:html={ADS_PIXEL.bridge} />}
-<script is:inline define:vars={{ events }}>
+<script is:inline define:vars={{ events, adsConversions }}>
   (function () {
     var store = {
       get: function (k) { try { return sessionStorage.getItem(k) || ''; } catch (e) { return ''; } },
@@ -41,11 +47,19 @@ const events = ADS_PIXEL.events;
       try { (window.dataLayer = window.dataLayer || []).push({ event: name, data: data }); } catch (e) {}
     }
     window.mvzTrack = track;
+    // Google Ads conversion. Same consent behaviour as the tags themselves: if gtag is not on the page,
+    // nothing happens. No value or currency.
+    function adsConversion(kind) {
+      var target = adsConversions && adsConversions[kind];
+      if (!target || typeof window.gtag !== 'function') return;
+      try { window.gtag('event', 'conversion', { send_to: target, transport_type: 'beacon' }); } catch (e) {}
+    }
     function lead(extra) {
       var voor = (extra && extra.voor) || 'automatisering';
       if (store.get('lead-' + voor)) return;
       store.set('lead-' + voor, '1');
       track(events.lead, Object.assign({ voor: voor }, extra || {}));
+      adsConversion('form');
     }
     window.mvzLead = lead;
 
@@ -60,12 +74,33 @@ const events = ADS_PIXEL.events;
           a.href = u.toString();
         } catch (e) {}
       }
-      a.addEventListener('click', function () { track(events.contact, { kanaal: 'whatsapp' }); });
     }
-    var mailLinks = document.querySelectorAll('a[href^="mailto:"]');
-    for (var j = 0; j < mailLinks.length; j++) mailLinks[j].addEventListener('click', function () { track(events.contact, { kanaal: 'mail' }); });
-    var telLinks = document.querySelectorAll('a[href^="tel:"]');
-    for (var t = 0; t < telLinks.length; t++) telLinks[t].addEventListener('click', function () { track(events.contact, { kanaal: 'telefoon' }); });
+
+    // One delegated listener for every contact link on the page, including links added later.
+    // Capture phase, so it runs even if another handler stops the event; it never calls preventDefault.
+    function onLinkClick(e) {
+      if (e.type === 'auxclick' && e.button !== 1) return; // middle click opens a tab; ignore right click
+      var el = e.target;
+      var a = el && el.closest ? el.closest('a[href]') : null;
+      if (!a) return;
+      var href = a.getAttribute('href') || '';
+      var host = '';
+      try { host = new URL(a.href, location.href).hostname.toLowerCase(); } catch (err) {}
+      if (host === 'wa.me' || host === 'api.whatsapp.com') {
+        track(events.contact, { kanaal: 'whatsapp' });
+        adsConversion('whatsapp');
+      } else if (/^mailto:/i.test(href)) {
+        track(events.contact, { kanaal: 'mail' });
+        adsConversion('mail');
+      } else if (/^tel:/i.test(href)) {
+        track(events.contact, { kanaal: 'telefoon' });
+      } else if (host === 'calendar.app.google') {
+        track(events.contact, { kanaal: 'agenda' });
+        adsConversion('agenda');
+      }
+    }
+    document.addEventListener('click', onLinkClick, true);
+    document.addEventListener('auxclick', onLinkClick, true);
 
     if (bron) {
       var bronFields = document.querySelectorAll('input[name="bron"]');

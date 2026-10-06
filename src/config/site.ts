@@ -20,6 +20,13 @@ export const SITE = {
   gaMeasurementId: 'G-S08XB20E5W',
   /** Google Ads tag (Micky, 2026-10-06), configured in the same gtag.js snippet as GA4 (Layout.astro). */
   googleAdsId: 'AW-18495808614',
+  /** Google Ads conversion targets (send_to), fired from src/components/Tracking.astro (Micky, 2026-10-06). */
+  googleAdsConversions: {
+    whatsapp: 'AW-18495808614/X4diCM7_jJMdEObIvvNE', // click on a wa.me or api.whatsapp.com link
+    mail: 'AW-18495808614/WKn0CNH_jJMdEObIvvNE',     // click on a mailto: link
+    form: 'AW-18495808614/1QhJCNT_jJMdEObIvvNE',     // one of the three site forms sent successfully
+    agenda: 'AW-18495808614/qH-2CNf_jJMdEObIvvNE',   // click on a calendar.app.google link
+  },
 } as const;
 
 /** WhatsApp link with a prefilled message (handoff 2026-09-29: one message per landing page). */

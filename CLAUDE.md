@@ -151,9 +151,13 @@ with exactly those names (`contact_telefoon` for phone clicks since D39). `debug
 (AW-18495808614, 2026-10-06) is configured in the same gtag.js snippet as GA4 in `Layout.astro`
 (`gtag('config', ADS)` under the GA4 config; gtag.js loads once). That snippet sets `window.gtag` explicitly,
 because `define:vars` wraps it in a function; before 2026-10-06 `gtag` was not global, so `contact` and `lead`
-never reached GA4. No cookie banner and no Consent Mode: both tags load for every visitor. Conversion events
-with Ads labels are still to be added (in `Tracking.astro`, where every WhatsApp, mail and phone click and
-every sent form already passes through `track()`); until then GA4 key events can be imported.
+never reached GA4. No cookie banner and no Consent Mode: both tags load for every visitor. **Ads conversions (D43):**
+`SITE.googleAdsConversions` holds the four `send_to` targets; `Tracking.astro` fires
+`gtag('event', 'conversion', { send_to, transport_type: 'beacon' })` (no value, no currency) on a click on a
+wa.me / api.whatsapp.com link, a mailto link or a calendar.app.google link (one capture-phase listener on
+`document`, so later links count; nothing is prevented), and on a successfully sent form (any of the three,
+inside `window.mvzLead`, once per session per form; a failed send converts nothing). Without `window.gtag`
+nothing is sent. Phone clicks are tracked in GA4 and the pixel only (no Ads label).
 
 ### Blog / content:
 - Individual articles: `/blog/[category]/[slug]/`
