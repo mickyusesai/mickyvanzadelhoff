@@ -58,7 +58,7 @@ In het verleden zijn er genoeg exchanges geweest die er met het geld van klanten
 
 Twee kanttekeningen die je moet kennen. Staking valt volgens Finst zelf **niet onder MiCA**, dus daar geldt het toezicht niet voor. En een vergunning beschermt je niet tegen koersdalingen: crypto blijft crypto.
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Veiligheid en beveiliging bij Finst
 

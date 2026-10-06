@@ -32,7 +32,7 @@ Toen ik uit Thailand terug kwam zat dit gevoel een paar weken in me. Ik dacht da
 
 Mijn zusje had tevens ook geen idee wat ze daar nou mee moest, die situatie. Zonder het doel te hebben behaald om de training te filmen vloog ik eerder dan gepland terug naar Nederland. Ik was tot de conclusie gekomen dat iets écht fout was. Ik was niet meer mezelf. Ik moest wat doen. Ik wilde koste wat het kost herstellen van dit gevoel en vertrok daarom richting Frankrijk **om me terug te trekken** in het in de natuur gelegen huis van mijn ouders.
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Maanden gingen voorbij zonder duidelijke uitkomst
 

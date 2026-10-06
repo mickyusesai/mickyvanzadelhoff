@@ -30,7 +30,7 @@ Wanneer mensen aan een webtekst beginnen, is het fijn om niet gelijk de diepte i
 
 Te vroeg details vertellen laat mensen afhaken. Op mijn verkooppagina's komen de details van wat ik verkoop dan ook pas aan het einde. De tekst begint bij waar een [workshop](/ai-workshops/) over gaat en wat die oplevert; pas aan het eind komen duur en kosten aan bod. Zo voorkom ik dat de lezer afhaakt voordat hij weet of mijn aanbod interessant voor hem is.
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## 3. Goede webteksten schrijf je actief
 

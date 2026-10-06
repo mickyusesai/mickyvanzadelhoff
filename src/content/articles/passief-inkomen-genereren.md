@@ -36,7 +36,7 @@ Voordat het zover is dat jij slapend rijk wordt, moet er gewerkt worden. Als ik 
 
 Afhankelijk van de manier die jij kiest, kan het een jaar of langer duren voordat het genoeg is om van te leven. Maar dan zit je wel in een situatie waar je misschien een leven lang van kunt genieten.
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Waarom zoveel mensen géén passief inkomen hebben
 

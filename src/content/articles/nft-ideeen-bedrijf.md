@@ -130,7 +130,7 @@ Wil je na die check toch iets met de techniek doen? Dan zou ik het zo aanpakken,
 
 En nog één ding: veel van wat bedrijven in 2022 met NFT's probeerden te bereiken (klanten kennen, ze persoonlijk benaderen, processen sneller maken) lukt in 2026 een stuk beter met AI dan met een blockchain. Dat is waar ik zelf mee bezig ben, en waar ik bedrijven nu bij help.
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Conclusie: NFT's voor bedrijven in 2026
 

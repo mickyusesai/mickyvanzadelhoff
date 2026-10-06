@@ -50,7 +50,7 @@ In diezelfde periode hield ik mijzelf ook bezig met het kijken van webinars, lez
 
 Deze kennis kwam echt tot me, en heeft mij enorm geholpen tot waar ik nu sta. Ik denk dan ook dat stoppen met een studie niets te maken heeft met leergierigheid. **Ik had juist het gevoel dat ik meer leergierig was geworden!**
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## In een jaar tijd leerde ik voor mezelf te kiezen en buiten de hokjes te denken
 

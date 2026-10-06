@@ -41,7 +41,7 @@ Het is letterlijk zo simpel als dat. De producten volgen later.
 <li class="timeline__item timeline__item--now"><span class="timeline__num">6</span><p class="timeline__year">2026 – nu</p><p class="timeline__title">Wero en mobiel eerst</p><p class="timeline__text">iDEAL gaat stapsgewijs over in het Europese Wero, 41% van de aankopen gebeurt op de telefoon en het aantal webshops stabiliseert. Winnen doe je met onderscheid, niet met prijs.</p></li>
 </ol>
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Stap 1: Kies je webshopplatform
 

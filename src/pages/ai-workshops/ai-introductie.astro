@@ -27,12 +27,12 @@ const takeaways = [
 ];
 
 const program = [
-  { time: '10.00 – 10.25', icon: 'intro-cross-the-line', title: 'Cross the line', text: 'Energizer en stellingen over AI. Binnen een kwartier weet ik waar de groep staat en stem ik de ochtend daarop af. Daarna kort: wat AI vandaag is, en waarom het soms zo zeker klinkt terwijl het fout zit.' },
-  { time: '10.25 – 11.15', icon: 'intro-modellen', title: 'Wat de modellen vandaag kunnen', text: 'ChatGPT, Claude, Gemini en andere modellen naast elkaar, met voorbeelden uit jullie werk. Werken in projecten, AI-agents die een taak van begin tot eind uitvoeren, je producten in een andere setting met Nano Banana Pro, en AI die mijn laptop bestuurt terwijl ik doorpraat.' },
-  { time: '11.15 – 11.35', icon: 'intro-koffie', title: 'Koffie en vragen', text: 'Even pauze om de ideeën te laten inzinken en vragen te beantwoorden.' },
-  { time: '11.35 – 12.05', icon: 'intro-aan-de-slag', title: 'Aan de slag: je eigen assistent', text: 'Iedereen bouwt een eigen AI-assistent met vaste instructies voor één taak uit zijn werk en gaat er meteen mee oefenen. Ik loop rond en help. Hier ontstaat ook de promptlijst die jullie meekrijgen.' },
-  { time: '12.05 – 12.35', icon: 'intro-afdelingen', title: 'Per afdeling, en wat je zelf bouwt', text: 'Toepassingen voor marketing, klantenservice, administratie, HR en sales. En hoe je zonder programmeerkennis een eigen AI-tool maakt met een coding agent zoals Claude Code, of je werkwijze één keer vastlegt als Skill in Claude.' },
-  { time: '12.35 – 12.50', icon: 'intro-veilig', title: 'Veilig met bedrijfsdata', text: 'Welke gegevens mogen in welke tool, wat de AI Act van jullie vraagt, en hoe je AI lokaal draait voor gevoelige informatie, zodat niets het pand verlaat.' },
+  { time: '09.00 – 09.30', icon: 'intro-cross-the-line', title: 'Cross the line', text: 'Energizer en stellingen over AI. Binnen een kwartier weet ik waar de groep staat en stem ik de ochtend daarop af. Daarna kort: wat AI vandaag is, en waarom het soms zo zeker klinkt terwijl het fout zit.' },
+  { time: '09.30 – 10.30', icon: 'intro-modellen', title: 'Wat de modellen vandaag kunnen', text: 'ChatGPT, Claude, Gemini en andere modellen naast elkaar, met voorbeelden uit jullie werk. Werken in projecten, AI-agents die een taak van begin tot eind uitvoeren, je producten in een andere setting met Nano Banana Pro, en AI die mijn laptop bestuurt terwijl ik doorpraat. Tussendoor probeer je het zelf, met korte opdrachten op je eigen laptop of telefoon.' },
+  { time: '10.30 – 10.50', icon: 'intro-koffie', title: 'Koffie en vragen', text: 'Even pauze om de ideeën te laten inzinken en vragen te beantwoorden.' },
+  { time: '10.50 – 11.50', icon: 'intro-aan-de-slag', title: 'Aan de slag: je eigen assistent', text: 'Iedereen bouwt een eigen AI-assistent met vaste instructies voor één taak uit zijn werk en gaat er meteen mee oefenen. Ik loop rond en help. Er is een uur voor, dus genoeg tijd om hem op echt werk te testen en bij te schaven. Hier ontstaat ook de promptlijst die jullie meekrijgen.' },
+  { time: '11.50 – 12.30', icon: 'intro-afdelingen', title: 'Per afdeling, en wat je zelf bouwt', text: 'Toepassingen voor marketing, klantenservice, administratie, HR en sales. En hoe je zonder programmeerkennis een eigen AI-tool maakt met een coding agent zoals Claude Code, of je werkwijze één keer vastlegt als Skill in Claude.' },
+  { time: '12.30 – 12.50', icon: 'intro-veilig', title: 'Veilig met bedrijfsdata', text: 'Welke gegevens mogen in welke tool, wat de AI Act van jullie vraagt, en hoe je AI lokaal draait voor gevoelige informatie, zodat niets het pand verlaat.' },
   { time: '12.50 – 13.00', icon: 'intro-toekomst', title: 'De komende twaalf maanden', text: 'Waar gaat het heen en wat betekent dat voor jullie werk? Korte discussie en de vervolgstappen.' },
 ];
 
@@ -56,7 +56,7 @@ const icon = (name: string, size = 20) =>
 const needs = [
   { icon: 'screen', title: 'Een ruimte', text: 'Voor de groep, met een beamer of tv-scherm. Meer niet.' },
   { icon: 'laptop', title: 'Laptops of telefoons', text: 'Voor wie wil meedoen. Een gratis account bij ChatGPT, Claude of Gemini is genoeg; ik stuur vooraf een korte instructie.' },
-  { icon: 'clock', title: 'Drie uur', text: 'Liefst een ochtend. Wil je er een dagdeel omheen bouwen met lunch of een teamactiviteit, prima.' },
+  { icon: 'clock', title: 'Vier uur', text: 'Liefst een ochtend. Wil je er een dagdeel omheen bouwen met lunch of een teamactiviteit, prima.' },
 ];
 
 const link = (href: string, label: string) => `<a href="${href}" class="font-bold text-violet underline underline-offset-2">${label}</a>`;
@@ -77,7 +77,7 @@ const faqJsonLd = JSON.stringify({
 });
 
 const specs = [
-  { label: 'Duur', value: 'Drie uur, meestal een ochtend' },
+  { label: 'Duur', value: 'Vier uur, meestal een ochtend' },
   { label: 'Groep', value: d.participants },
   { label: 'Locatie', value: d.location },
   { label: 'Taal', value: d.language ?? 'Nederlands of Engels' },
@@ -92,14 +92,14 @@ const specs = [
     <div class="wrap relative z-10 grid items-center gap-8 pb-10 pt-6 sm:pb-14 sm:pt-12 lg:grid-cols-[1.08fr_0.92fr] lg:gap-12">
       <div class="grid gap-4 sm:gap-5">
         <p class="hidden text-sm font-bold sm:block"><a href="/ai-workshops/" class="text-violet hover:underline">AI-workshops</a></p>
-        <p class="eyebrow animate-rise">AI Introductie · drie uur · in-company</p>
-        <h1 class="text-[28px] font-extrabold leading-[1.12] tracking-tight animate-rise [animation-delay:.05s] sm:text-[44px] sm:leading-[1.06] lg:text-[50px]">Na drie uur heeft iedereen een <span class="highlight">eigen AI-assistent</span> voor één taak uit zijn werk.</h1>
+        <p class="eyebrow animate-rise">AI Introductie · vier uur · in-company</p>
+        <h1 class="text-[28px] font-extrabold leading-[1.12] tracking-tight animate-rise [animation-delay:.05s] sm:text-[44px] sm:leading-[1.06] lg:text-[50px]">Na vier uur heeft iedereen een <span class="highlight">eigen AI-assistent</span> voor één taak uit zijn werk.</h1>
         <p class="flex flex-wrap items-center gap-x-2 gap-y-1 text-[14px] font-bold animate-rise [animation-delay:.1s] sm:text-[15px]">
           <span>{FACTS.workshops} workshops</span><span aria-hidden="true" class="text-muted">·</span>
           <span>{FACTS.participants} deelnemers</span><span aria-hidden="true" class="text-muted">·</span>
           <a href={GOOGLE_PROFILE_URL} target="_blank" rel="noopener"><span aria-hidden="true" class="text-[#E5A100]">★</span> <span class="border-b-[3px] border-lime">{FACTS.googleRating} op Google</span></a>
         </p>
-        <p class="max-w-prose text-[16px] leading-relaxed text-muted animate-rise [animation-delay:.15s] sm:text-lg">Een workshop van drie uur bij jou op locatie, voor het hele team tot 25 mensen. {d.price} excl. btw, reiskosten inbegrepen, in Nederland en België.</p>
+        <p class="max-w-prose text-[16px] leading-relaxed text-muted animate-rise [animation-delay:.15s] sm:text-lg">Een workshop van vier uur bij jou op locatie, voor het hele team tot 25 mensen. {d.price} excl. btw, reiskosten inbegrepen, in Nederland en België.</p>
         <div class="flex items-center gap-3 animate-rise [animation-delay:.2s]">
           <img src={portrait} alt="Micky van Zadelhoff" width="52" height="52" class="h-[52px] w-[52px] flex-none rounded-full border-2 border-ink object-cover" />
           <p class="text-[14px] leading-snug"><strong class="block text-[15px]">Micky van Zadelhoff</strong><span class="text-muted">geeft de workshop zelf. App of bel me gerust.</span></p>
@@ -127,7 +127,7 @@ const specs = [
       <p class="eyebrow">Waarom deze ochtend</p>
       <h2 class="text-[26px] font-extrabold leading-[1.1] tracking-tight sm:text-4xl">Iedereen gebruikt AI. Bijna niemand haalt eruit wat erin zit.</h2>
       <p class="text-[16px] leading-relaxed text-muted sm:text-lg">Bijna elk team gebruikt inmiddels wel iets van AI. Meestal ChatGPT, meestal als betere zoekmachine, en meestal zonder dat iemand weet welke bedrijfsgegevens er eigenlijk in mogen. Ondertussen zijn de tools van antwoorden geven naar werk uitvoeren gegaan: AI die je mail voorsorteert, een offerte opstelt, of je computer bedient terwijl jij iets anders doet.</p>
-      <p class="text-[16px] leading-relaxed text-muted sm:text-lg">Deze introductie brengt het hele team in drie uur op hetzelfde niveau, geoefend op jullie eigen werk: administratie, klantenservice, marketing, HR, sales. Interactief en informeel, want juist de mensen die niet staan te popelen wil je aan boord.</p>
+      <p class="text-[16px] leading-relaxed text-muted sm:text-lg">Deze introductie brengt het hele team in vier uur op hetzelfde niveau, geoefend op jullie eigen werk: administratie, klantenservice, marketing, HR, sales. Interactief en informeel, want juist de mensen die niet staan te popelen wil je aan boord.</p>
     </div>
   </section>
 
@@ -156,7 +156,7 @@ const specs = [
       <div class="grid gap-2">
         <p class="eyebrow">Programma</p>
         <h2 class="text-[26px] font-extrabold leading-[1.1] tracking-tight sm:text-4xl">Zo ziet de ochtend eruit</h2>
-        <p class="text-[15px] text-muted">Drie uur. De voorbeelden pas ik vooraf aan op jullie branche.</p>
+        <p class="text-[15px] text-muted">Vier uur, van 09.00 tot 13.00. De voorbeelden pas ik vooraf aan op jullie branche.</p>
       </div>
       <p class="text-[13px] font-bold text-muted lg:hidden" aria-hidden="true">Veeg voor de volgende stap →</p>
     </div>

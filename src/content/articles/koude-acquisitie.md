@@ -32,7 +32,7 @@ Eerst het saaie maar belangrijke deel, want hier ging het in 2019 nog een stuk l
 
 Kort gezegd: bedrijven met een rechtspersoon mag je benaderen, mensen niet. En omdat een eenmanszaak juridisch een persoon is, valt het koud bellen van zzp'ers sinds de aanscherping van 1 juli 2026 volledig af. Wat altijd mag: een persoonlijk bericht via LinkedIn (binnen de regels van het platform), reageren op iets wat iemand zelf publiek heeft gedeeld, en iemand aanspreken op een beurs of netwerkevent. Twijfel je? Dan is de veilige route: eerst contact via LinkedIn of een netwerk, en pas bellen als iemand dat goed vindt.
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Waarom vinden veel mensen koude acquisitie zo verschrikkelijk?
 

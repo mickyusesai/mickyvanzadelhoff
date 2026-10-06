@@ -50,7 +50,7 @@ Tot slot zoek je een stijl die past bij je onderwerp. Zakelijke onderwerpen word
 
 Wil je **meer kijkers**, dan is alleen SEO (zoekwoorden, tags) niet genoeg. **Kijktijd is een van de belangrijkste signalen voor het algoritme.** Hoe langer mensen kijken en hoe vaker ze doorklikken naar je volgende video, hoe vaker YouTube je aanbeveelt. Houd dat in het achterhoofd bij het maken van de video's.
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Stap 3: De spullen die je écht nodig hebt
 

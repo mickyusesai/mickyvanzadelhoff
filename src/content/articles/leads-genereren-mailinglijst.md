@@ -52,7 +52,7 @@ Om leads te verzamelen heb je e-mailmarketingsoftware nodig: daar staat je lijst
 
 Welke je ook kiest: stel meteen je eigen domein in met SPF, DKIM en DMARC. Gmail en Yahoo eisen dat sinds februari 2024 van iedereen die meer dan 5.000 mails per dag verstuurt, net als een uitschrijflink die met één klik werkt. Je software regelt de techniek, maar jij moet het aanzetten. Anders belanden je zorgvuldig verzamelde leads in de spambox.
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Wat mag wel en niet? AVG en Telecommunicatiewet
 

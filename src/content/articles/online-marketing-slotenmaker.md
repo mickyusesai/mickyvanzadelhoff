@@ -38,7 +38,7 @@ featuredImage: "/images/headers/online-marketing-slotenmaker.webp"
 
 ### Maak daarom voor iedere dienst die je aanbiedt een aparte landingspagina. Dat zijn pagina’s die specifiek gericht zijn op één dienst. Dit zorgt er ook voor dat Google mensen die zoeken naar jouw dienst als slotenmaker, direct worden doorverwezen naar de juiste pagina op jouw website. Zij komen dus niet eerst langs de homepage, maar direct bij de pagina van waar ze naar op zoek zijn.
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Slotenmaker bellen via één simpele knop
 

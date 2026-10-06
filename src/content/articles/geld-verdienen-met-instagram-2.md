@@ -60,7 +60,7 @@ Wanneer je op zoek bent naar ideeën voor niches, dan vind je hieronder wat voor
 
 Het afbakenen van je doelgroep helpt je uiteindelijk om goed betalende adverteerders te vinden. Met een specifieke doelgroep is je account meer waard voor de adverteerder, en verdien je met minder volgers meer geld. Engagement, daar gaat het om. Ook als je aan de slag gaat met een eigen product is zo'n verfijnde doelgroep van enorme toegevoegde waarde.
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Stap 2: Jouw content en uitstraling
 

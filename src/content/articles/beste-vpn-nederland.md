@@ -55,7 +55,7 @@ Ik heb ze voor je vergeleken en mijn favoriet is nog steeds [**NordVPN**](/go/ge
 *   **Kill switch en no-logs.** De kill switch blokkeert je internet als de VPN even wegvalt, zodat er niets lekt. Een no-logs-beleid betekent dat de aanbieder niet bijhoudt wat je doet; de serieuze partijen laten dat door externe auditors controleren.
 *   **Compatibiliteit.** Werkt hij met de streamingdiensten die jij gebruikt, en op je router of tv?
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## De 10 beste VPN's van 2026 in één tabel
 

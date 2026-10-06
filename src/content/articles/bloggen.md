@@ -146,7 +146,7 @@ Wat er sinds 2024 anders is: AdSense betaalt niet meer per klik, maar **per vert
 
 De maat die je overal ziet is de **RPM**: de verdiensten per 1.000 weergaven. Die verschilt enorm per onderwerp, land en seizoen. Voor Nederlandse blogs kom je bedragen tegen van een paar dubbeltjes tot zo'n €10 per 1.000 weergaven; mijn eigen ervaring zat **rond de €3**. Dat lijkt weinig, maar een tijdloos artikel blijft dit opleveren zolang het online staat. Zo bouw je met een blog aan een [passief inkomen](/blog/online-geld-verdienen/passief-inkomen-genereren/).
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## 2. Geld verdienen met affiliate marketing op je blog
 

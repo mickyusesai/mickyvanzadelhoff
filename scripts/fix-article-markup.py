@@ -31,7 +31,7 @@ BOOK_BOX = ('<aside class="cta-box cta-box--book not-prose">'
             '<a class="btn btn-primary" href="/boek/">Download het boek</a></aside>')
 WORKSHOP_BOX = ('<aside class="cta-box cta-box--workshop not-prose">'
                 '<div><p class="cta-box__eyebrow">AI-workshop op locatie</p>'
-                '<p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div>'
+                '<p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div>'
                 '<a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>')
 MEME_TODO = '<!-- TODO: verify this data is still current (meme-coin promo, Pikamoon pick "begin 2025", MEXC) -->'
 

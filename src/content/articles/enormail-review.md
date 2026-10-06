@@ -45,7 +45,7 @@ Daarnaast schreef ik jarenlang [acquisitiemails](/blog/ondernemen/acquisitie-mai
 
 Tegenwoordig ziet mijn werk er anders uit: ik geef [AI-workshops](/ai-workshops/) aan bedrijven en mijn boek is een gratis download zonder inschrijving. Dat was een bewuste keuze: ik wilde geen drempel meer tussen de lezer en het boek. Maar voor iedere ondernemer die klanten wil laten terugkomen, is een mailinglijst nog steeds het meest waardevolle bezit dat je online hebt. Een algoritme van Instagram kun je niet bezitten; een lijst met e-mailadressen wel. Daarom mail ik zelf nog steeds via Enormail.
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Prijzen van Enormail in 2026
 

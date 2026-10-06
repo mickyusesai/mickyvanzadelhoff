@@ -181,7 +181,7 @@ De reden dat dit geavanceerd is, is dat het lang kan duren voordat je blogs of v
 
 Valt je coaching in de zakelijke markt, dan kun je acquisitiemails inzetten: een mail waarin je jezelf voorstelt en je aanbod aanprijst. Dit soort mails werkt vooral als het probleem dat jij oplost heel duidelijk is. Gaat het om het coachen van managers, dan zou het probleem een lage productiviteit op de werkvloer kunnen zijn. Een goede mail beschrijft dat probleem, de consequenties en hoe jij het oplost. [Hier vind je een uitgebreide beschrijving van een goed werkende acquisitiemail](/blog/ondernemen/acquisitie-mail-voorbeeld1/).
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, van teksten tot planning. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, van teksten tot planning. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Stap 4: Extra verdiensten als coach
 
