@@ -25,6 +25,7 @@ const canonical = new URL(Astro.url.pathname.replace(/\/?$/, '/'), Astro.site).h
 const imageUrl = new URL(image, Astro.site).href;
 const fullTitle = title.includes(SITE.name) ? title : `${title} | ${SITE.name}`;
 const GA = import.meta.env.PUBLIC_GA_MEASUREMENT_ID || SITE.gaMeasurementId;
+const ADS = SITE.googleAdsId;
 ---
 <!doctype html>
 <html lang="nl">
@@ -62,11 +63,15 @@ const GA = import.meta.env.PUBLIC_GA_MEASUREMENT_ID || SITE.gaMeasurementId;
     {GA && (
       <>
         <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${GA}`}></script>
-        <script is:inline define:vars={{ GA }}>
+        <script is:inline define:vars={{ GA, ADS }}>
           window.dataLayer = window.dataLayer || [];
           function gtag() { dataLayer.push(arguments); }
+          // define:vars wraps this script in a function, so gtag has to be put on window explicitly;
+          // without it the site's own events (Tracking.astro: contact, lead) never reached GA4.
+          window.gtag = gtag;
           gtag('js', new Date());
           gtag('config', GA, { anonymize_ip: true });
+          gtag('config', ADS);
         </script>
       </>
     )}

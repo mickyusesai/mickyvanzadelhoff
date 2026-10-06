@@ -18,7 +18,7 @@ His key expertises and products are:
 weighing an AI workshop; the wanted action is a WhatsApp or mail. Proof comes first, the nomad past is
 context only. The proof numbers live in `FACTS` in `src/config/site.ts` and must be used from there:
 142 AI-workshops since 2024, 2000+ participants, 53 countries, 40+ organisations on EasyReimburse,
-170+ articles; clients Technogym Benelux, Mooijer Volendam, Holstein Flowers (`CLIENTS`); press in
+170+ articles; clients Technogym Benelux, Mooijer Volendam, Holstein Flowers, Da Vinci College and Erasmus+ (`CLIENTS`); press in
 `PRESS`. Never write "42 landen", "1000+ mensen" or "luchtkasteelarchitect" again. EasyApplications is
 not mentioned anywhere.
 
@@ -146,9 +146,14 @@ param `voor`, once per session per form, via `window.mvzLead`) to GA4 and to
 `snippet` loads it on every page, `bridge` maps the site's events to the pixel (`lead` → standard
 `lead_created`, `contact` → custom `contact_whatsapp` / `contact_mail`); Ads Manager needs conversion settings
 with exactly those names (`contact_telefoon` for phone clicks since D39). `debug` is off for visitors.
-**Google Ads (D39):** `gclid`/`gbraid`/`wbraid`, or `utm_source=google` with a paid medium, sets `bron` to
-`google-ads` (mailed as "Bron: Google Ads", no WhatsApp label). Conversions go to Google Ads by importing the
-GA4 key events `lead` and `contact`; there is no separate Google Ads tag.
+**Google Ads (D39, D42):** `gclid`/`gbraid`/`wbraid`, or `utm_source=google` with a paid medium, sets `bron` to
+`google-ads` (mailed as "Bron: Google Ads", no WhatsApp label). The Google Ads tag `SITE.googleAdsId`
+(AW-18495808614, 2026-10-06) is configured in the same gtag.js snippet as GA4 in `Layout.astro`
+(`gtag('config', ADS)` under the GA4 config; gtag.js loads once). That snippet sets `window.gtag` explicitly,
+because `define:vars` wraps it in a function; before 2026-10-06 `gtag` was not global, so `contact` and `lead`
+never reached GA4. No cookie banner and no Consent Mode: both tags load for every visitor. Conversion events
+with Ads labels are still to be added (in `Tracking.astro`, where every WhatsApp, mail and phone click and
+every sent form already passes through `track()`); until then GA4 key events can be imported.
 
 ### Blog / content:
 - Individual articles: `/blog/[category]/[slug]/`
@@ -299,8 +304,8 @@ to the same path on mickyvanzadelhoff.com (decision D21); no host check in the a
 - **Favicon (Micky, 2026-09-19):** the generated lightning-bolt scene `public/images/spots/favicon-bliksem.webp`
   (entry `favicon-bliksem` in `spot-illustrations.json`), cut to `public/favicon.ico` (16/32/48), `favicon-48.png`,
   `favicon-96.png`, `icon-192.png`, `icon-512.png`, `apple-touch-icon.png` and `site.webmanifest`; links in `Layout.astro`.
-- **Analytics:** Google Analytics via `PUBLIC_GA_MEASUREMENT_ID` (env var on Railway). The
-  snippet only renders when the variable is set.
+- **Analytics:** Google Analytics `SITE.gaMeasurementId` (G-S08XB20E5W), overridable with
+  `PUBLIC_GA_MEASUREMENT_ID` on Railway; the same snippet configures the Google Ads tag (see Google Ads above).
 - **Micky's photo** should be prominent on homepage and about page
 - Press logos (NRC, Nu.nl, Vice, etc.) used as social proof on homepage and about page
 

@@ -18,6 +18,8 @@ export const SITE = {
   ogImage: '/images/micky/workshop-technogym.webp',
   /** Google Analytics 4 Measurement ID (public by nature). Override with PUBLIC_GA_MEASUREMENT_ID on Railway. */
   gaMeasurementId: 'G-S08XB20E5W',
+  /** Google Ads tag (Micky, 2026-10-06), configured in the same gtag.js snippet as GA4 (Layout.astro). */
+  googleAdsId: 'AW-18495808614',
 } as const;
 
 /** WhatsApp link with a prefilled message (handoff 2026-09-29: one message per landing page). */
@@ -62,12 +64,16 @@ export const STATS = [
   { value: FACTS.easyReimburseOrgs, label: 'organisaties gebruiken EasyReimburse', icon: 'stat-easyreimburse' },
 ] as const;
 
-/** Companies Micky gave workshops at. `logo` is an SVG under /images/clients/; without one the name is shown as a wordmark.
+/** Organisations Micky gave workshops at. `logo` is an SVG or WebP under /images/clients/; without one the name is shown as a wordmark.
  *  `mark: true` means the SVG is only the emblem, so the name is shown next to it. */
 export const CLIENTS = [
   { name: 'Technogym Benelux', logo: '/images/clients/technogym.svg', url: 'https://www.technogym.com/' },
   { name: 'Mooijer Volendam', logo: '/images/clients/mooijer-volendam.svg', url: 'https://www.mooijer.nl/' },
   { name: 'Holstein Flowers', logo: '/images/clients/holstein-flowers.svg', mark: true, url: 'https://www.holsteinflowers.nl/' },
+  // Added 2026-10-06 (Micky's files). `tall`: a near-square logo, shown taller so its name stays legible.
+  // `darken`: a light colour logo, darkened after the grayscale so it weighs the same as the ink SVGs.
+  { name: 'Da Vinci College', logo: '/images/clients/da-vinci-college.webp', tall: true, darken: true },
+  { name: 'Erasmus+', logo: '/images/clients/erasmus-plus.webp', darken: true },
 ] as const;
 
 /** Press mentions, compact: logo (or wordmark) with a link to the article. */

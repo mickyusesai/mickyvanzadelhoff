@@ -16,7 +16,7 @@ const { compact = false } = Astro.props;
         <li>
           {c.logo
             ? <span class="inline-flex items-center gap-2">
-                <img src={c.logo} alt={'mark' in c && c.mark ? '' : c.name} loading="lazy" class="h-7 w-auto max-w-[150px] grayscale opacity-90 sm:h-8" />
+                <img src={c.logo} alt={'mark' in c && c.mark ? '' : c.name} loading="lazy" class:list={['w-auto max-w-[150px] grayscale opacity-90', 'tall' in c && c.tall ? 'h-11 sm:h-12' : 'h-7 sm:h-8', 'darken' in c && c.darken && 'brightness-[.55] contrast-[1.4]']} />
                 {'mark' in c && c.mark && <span class="font-display text-[15px] font-bold tracking-tight text-ink/85">{c.name}</span>}
               </span>
             : <span class="font-display text-[15px] font-bold tracking-tight text-ink/85">{c.name}</span>}
