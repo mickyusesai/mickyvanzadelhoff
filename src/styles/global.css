@@ -131,6 +131,14 @@
   .btn:disabled { @apply cursor-wait opacity-60; transform: none; }
   /* Tailwind's `grid` on the form outranks the [hidden] attribute, so the sent form needs this rule to disappear. */
   form[data-intake][hidden] { display: none !important; }
+  /* Radio choices as pills (contact form "Waar gaat het over?"); the radio stays focusable over its pill. */
+  .choice-group { @apply flex flex-wrap gap-2; }
+  .choice { @apply relative; }
+  .choice input { position: absolute; inset: 0; width: 100%; height: 100%; margin: 0; opacity: 0; cursor: pointer; }
+  .choice span { @apply inline-flex h-11 items-center rounded-full border-2 border-ink bg-white px-4 text-[14px] font-bold transition-colors; }
+  .choice input:checked + span { @apply bg-lime; }
+  .choice input:focus-visible + span { @apply ring-4 ring-violet/40; }
+
   /* Call-to-action rows (two buttons) between sections. */
   .cta-row { @apply my-8 flex flex-wrap gap-3; }
 

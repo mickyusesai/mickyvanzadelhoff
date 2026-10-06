@@ -6,7 +6,7 @@ import { VARIANTS, isVoor, type Voor } from '../../lib/intake';
 
 export const prerender = false;
 
-// Handles both intake forms (src/components/IntakeForm.astro, field tables in src/lib/intake.ts): sends
+// Handles the three site forms (src/components/IntakeForm.astro, field tables in src/lib/intake.ts): sends
 // one mail to Micky and answers JSON `{ ok, status }` when the form was sent with fetch
 // (Accept: application/json), or a 303 back to the page with ?status=sent|invalid|config|failed when
 // it was posted without JavaScript.
@@ -37,8 +37,7 @@ function answer(request: Request, status: Status, voor: Voor) {
   if ((request.headers.get('accept') || '').includes('application/json')) {
     return Response.json({ ok: status === 'sent', status }, { status: HTTP[status] });
   }
-  const back = VARIANTS[voor].back;
-  const hash = voor === 'introductie' ? '#bel-me' : '';
+  const { back, hash = '' } = VARIANTS[voor];
   return new Response(null, { status: 303, headers: { Location: `${back}?status=${status}${hash}` } });
 }
 
@@ -94,7 +93,9 @@ export const POST: APIRoute = async ({ request }) => {
 
   const v = Object.fromEntries(variant.fields.map((f) => [f.name, clean(form.get(f.name), f.max)])) as Record<string, string>;
   const bron = clean(form.get('bron'), 40); // 'chatgpt' or 'google-ads' when the visitor came from an ad (Tracking.astro)
-  const valid = variant.fields.every((f) => !f.required || v[f.name]) && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v.email);
+  const valid =
+    variant.fields.every((f) => (!f.required || v[f.name]) && (f.type !== 'choice' || !v[f.name] || (f.options ?? []).includes(v[f.name]))) &&
+    /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v.email);
   if (!valid) return answer(request, 'invalid', voor);
 
   const postmarkToken = env('POSTMARK_SERVER_TOKEN');

@@ -17,7 +17,7 @@ Ik wil graag weten welke pagina's het meest worden bezocht, zodat ik de website 
 Ik adverteer in ChatGPT voor mijn AI-workshops. Om te zien of die advertenties iets opleveren, staat op deze website een meetpixel van OpenAI. Die telt of iemand die via zo'n advertentie binnenkwam een WhatsApp stuurt, mailt of een formulier verstuurt. De pixel ziet daarbij je IP-adres en browsergegevens, die OpenAI verwerkt volgens zijn eigen privacybeleid. Ik gebruik hem alleen om te meten of de advertenties werken; een adblocker houdt hem tegen.
 
 **Formulieren**
-Vul je het intakeformulier of het datumformulier in, dan komt dat als e-mail bij mij aan via Postmark, de maildienst die het bericht bezorgt. Ik gebruik je gegevens alleen om je te antwoorden en het gesprek of de workshop in te plannen. Ik deel ze niet met derden.
+Vul je een van de formulieren op deze website in (de intake, het terugbelformulier of het contactformulier), dan komt dat als e-mail bij mij aan via Postmark, de maildienst die het bericht bezorgt. Ik gebruik je gegevens alleen om je te antwoorden en het gesprek of de workshop in te plannen. Ik deel ze niet met derden.
 
 **Contact**
 Stuur je me een mailtje of een WhatsApp-bericht, dan gebruik ik je gegevens alleen om je antwoord te geven. Ik deel ze niet met derden.

@@ -3,36 +3,84 @@ export const prerender = true;
 import Layout from '../layouts/Layout.astro';
 import Blobs from '../components/Blobs.astro';
 import ClientStrip from '../components/ClientStrip.astro';
-import { FACTS, SITE } from '../config/site';
+import IntakeForm from '../components/IntakeForm.astro';
+import { FACTS, SITE, GOOGLE_PROFILE_URL } from '../config/site';
 import { spot } from '../lib/spots';
 
+// Contact (decision D41, 2026-10-06): Google Ads visitors can land here, so the page shows who they reach
+// (Micky's portrait and name), every channel (WhatsApp, phone, mail) and the general contact form
+// (IntakeForm voor="contact", subject choice). `?onderwerp=workshop|automatisering` preselects the subject.
+const portrait = '/images/micky/micky-van-zadelhoff-portret.webp';
+
+const channels = [
+  { href: SITE.whatsappUrl, label: 'WhatsApp', value: SITE.phoneDisplay, note: 'Het snelst. Eén berichtje is genoeg.', tone: 'bg-lime', external: true },
+  { href: SITE.phoneUrl, label: 'Bellen', value: SITE.phoneDisplay, note: 'Gewoon even bellen kan ook.', tone: 'bg-surface', external: false },
+  { href: `mailto:${SITE.email}`, label: 'E-mail', value: SITE.email, note: 'Voor offertes en langere vragen.', tone: 'bg-surface', external: false },
+];
+
 const reasons = [
-  { icon: 'contact-workshop', title: 'Een workshop inplannen.', text: 'Een dagdeel introductie of een automatiseringstraject op maat, in-company in Nederland en België.' },
+  { icon: 'contact-workshop', title: 'Een workshop inplannen.', text: 'De AI Introductie voor het hele team, of een automatiseringstraject op maat, in-company in Nederland en België.' },
   { icon: 'contact-sparren', title: 'Even sparren.', text: 'Je twijfelt of er in jouw processen iets te halen valt. Vaak is dat in tien minuten duidelijk.' },
   { icon: 'contact-bouwen', title: 'Iets laten bouwen.', text: `Een tool, een automatisering, een koppeling. Zoals EasyReimburse, dat ${FACTS.easyReimburseOrgs.replace('+', '')} organisaties per project een werkweek scheelt.` },
 ];
 ---
-<Layout title="Contact" description="Vraag over een AI-workshop, of een proces dat sneller kan? App of mail Micky van Zadelhoff. Binnen 24 uur antwoord, meestal dezelfde dag.">
+<Layout title="Contact" description="Vraag over een AI-workshop of automatisering? App, bel, mail of vul het formulier in. Micky van Zadelhoff reageert zelf, binnen een dag.">
   <section class="relative overflow-hidden">
     <Blobs />
-    <div class="wrap relative z-10 grid gap-6 py-14 sm:py-20">
-      <p class="eyebrow animate-rise">Contact</p>
-      <h1 class="max-w-3xl text-[40px] font-extrabold leading-[1.02] tracking-tight animate-rise [animation-delay:.1s] sm:text-[58px]">Binnen 24 uur <span class="highlight">antwoord</span>.</h1>
-      <p class="max-w-prose text-lg text-muted animate-rise [animation-delay:.2s] sm:text-xl">
-        Heb je een vraag over de AI-workshops, of loopt er in jouw bedrijf een proces waarvan je vermoedt dat het sneller kan? App me gerust. Ik reageer zelf, meestal dezelfde dag. Je hoeft niet eerst uitgedacht te hebben wat je wil.
-      </p>
-      <div class="grid gap-4 animate-rise [animation-delay:.3s] sm:grid-cols-2 sm:max-w-2xl">
-        <a href={SITE.whatsappUrl} rel="noopener" class="sticker sticker-hover grid gap-2 bg-lime p-6">
-          <p class="eyebrow text-ink">WhatsApp</p>
-          <p class="font-display text-xl font-bold">{SITE.whatsapp}</p>
-          <p class="text-sm text-ink/70">Het snelst. Eén berichtje is genoeg.</p>
-        </a>
-        <a href={`mailto:${SITE.email}`} class="sticker sticker-hover grid gap-2 p-6">
-          <p class="eyebrow">E-mail</p>
-          <p class="font-display text-xl font-bold break-all">{SITE.email}</p>
-          <p class="text-sm text-muted">Voor offertes en langere vragen.</p>
-        </a>
+    <div class="wrap relative z-10 grid items-center gap-8 pb-10 pt-8 sm:py-16 lg:grid-cols-[1.4fr_0.6fr] lg:gap-14">
+      <div class="grid gap-5">
+        <p class="eyebrow animate-rise">Contact</p>
+        <h1 class="max-w-3xl text-[34px] font-extrabold leading-[1.05] tracking-tight animate-rise [animation-delay:.05s] sm:text-[54px]">Binnen een dag <span class="highlight">antwoord</span>, van mij zelf.</h1>
+
+        <!-- Who you reach, on phones (the large portrait sits on the right from lg) -->
+        <div class="flex items-center gap-4 animate-rise [animation-delay:.1s] lg:hidden">
+          <img src={portrait} alt="Micky van Zadelhoff" width="72" height="72" class="h-[72px] w-[72px] flex-none rounded-full border-2 border-ink object-cover shadow-sticker-sm" />
+          <div class="text-[14px] leading-snug">
+            <p class="font-display text-[17px] font-bold">Micky van Zadelhoff</p>
+            <p class="text-muted">AI-trainer en bouwer</p>
+            <p class="mt-0.5 font-bold">{FACTS.workshops} workshops · <a href={GOOGLE_PROFILE_URL} target="_blank" rel="noopener"><span aria-hidden="true" class="text-[#E5A100]">★</span> <span class="border-b-[3px] border-lime">{FACTS.googleRating} op Google</span></a></p>
+          </div>
+        </div>
+
+        <p class="max-w-prose text-[16px] leading-relaxed text-muted animate-rise [animation-delay:.15s] sm:text-lg">Een vraag over de AI-workshops, of een proces in je bedrijf waarvan je vermoedt dat het sneller kan? App, bel of mail me. Je krijgt geen salesteam of callcenter: ik lees en beantwoord alles zelf. Je hoeft niet eerst uitgedacht te hebben wat je wilt.</p>
+
+        <div class="grid gap-3 animate-rise [animation-delay:.2s] sm:grid-cols-3">
+          {channels.map((c) => (
+            <a href={c.href} rel={c.external ? 'noopener' : undefined} class:list={['sticker sticker-hover grid content-start gap-1.5 p-5', c.tone]}>
+              <p class:list={['eyebrow', c.tone === 'bg-lime' && 'text-ink']}>{c.label}</p>
+              <p class="whitespace-nowrap font-display text-[17px] font-bold leading-snug sm:text-[15px]">{c.value}</p>
+              <p class="text-[13px] text-ink/70">{c.note}</p>
+            </a>
+          ))}
+        </div>
+        <p class="text-[14px] font-bold animate-rise [animation-delay:.25s]"><a href="#formulier" class="text-violet underline underline-offset-2">Liever een formulier? Dat staat hieronder.</a></p>
       </div>
+
+      <figure class="relative hidden animate-rise [animation-delay:.15s] lg:block">
+        <img src={portrait} alt="Micky van Zadelhoff" width="560" height="560" class="aspect-square w-full rounded-sticker border-2 border-ink object-cover shadow-sticker" />
+        <figcaption class="absolute -bottom-5 left-5 right-5 sticker bg-surface px-5 py-3">
+          <p class="font-display text-[18px] font-bold">Micky van Zadelhoff</p>
+          <p class="text-[14px] text-muted">AI-trainer en bouwer</p>
+          <p class="whitespace-nowrap text-[14px] font-bold">{FACTS.workshops} workshops · <a href={GOOGLE_PROFILE_URL} target="_blank" rel="noopener"><span aria-hidden="true" class="text-[#E5A100]">★</span> <span class="border-b-[3px] border-lime">{FACTS.googleRating} op Google</span></a></p>
+        </figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <!-- General contact form -->
+  <section id="formulier" class="wrap scroll-mt-20 py-6 sm:py-10">
+    <div class="reveal sticker grid gap-8 bg-surface p-6 sm:p-10 lg:grid-cols-[2fr_3fr] lg:gap-12">
+      <div class="grid content-start gap-4">
+        <p class="eyebrow">Contactformulier</p>
+        <h2 class="text-[28px] font-extrabold leading-[1.08] tracking-tight sm:text-[36px]">Stuur me een bericht.</h2>
+        <p class="text-muted">Zeg waar het over gaat en hoe ik je het best bereik. Ik reageer binnen een dag, per mail of telefoon. Laat je een nummer achter, dan bel ik je.</p>
+        <div class="flex items-center gap-3">
+          <img src={portrait} alt="" width="48" height="48" loading="lazy" class="h-12 w-12 flex-none rounded-full border-2 border-ink object-cover" />
+          <p class="text-[14px] font-semibold">Micky leest en beantwoordt het zelf.</p>
+        </div>
+        <p class="text-sm text-muted">Wil je meteen een gratis intake plannen voor een automatisering? <a href="/intake/" class="font-bold text-violet underline underline-offset-2">Dat kan hier</a>.</p>
+      </div>
+      <IntakeForm voor="contact" />
     </div>
   </section>
 
@@ -59,3 +107,12 @@ const reasons = [
     </dl>
   </section>
 </Layout>
+
+<script>
+  // ?onderwerp=workshop|automatisering (for example from an ad) preselects the subject of the contact form.
+  const topic = ({ workshop: 'AI-workshop', automatisering: 'AI-automatisering' } as Record<string, string>)[new URLSearchParams(location.search).get('onderwerp') || ''];
+  if (topic) {
+    const input = document.querySelector<HTMLInputElement>(`#formulier input[name="topic"][value="${topic}"]`);
+    if (input) input.checked = true;
+  }
+</script>

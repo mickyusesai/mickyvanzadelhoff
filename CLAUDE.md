@@ -99,8 +99,13 @@ header button says "Stuur een WhatsApp".
    No email capture (D6).
 6. **Blog** (`/blog/`) — Secondary in navigation. Category `web3` is kept online but hidden from
    the homepage and blog overview (D3); see `HIDDEN_FROM_LISTINGS` in `src/config/site.ts`.
-7. **Contact** (`/contact/`) — WhatsApp + mail buttons, no form backend (D7).
-   **Intake form** (`/intake/`, D27, D30, D37) is the one exception: "Plan een gratis intake" is
+7. **Contact** (`/contact/`, D41, 2026-10-06) — ready for Google Ads visitors: Micky's portrait and name
+   (round on phones, large on the right from lg) with the proof line, cards for WhatsApp, phone and mail, and
+   the general contact form `<IntakeForm voor="contact" />` in `#formulier`: subject as radio pills
+   ("AI-workshop", "AI-automatisering", "Iets anders", type `choice` in `src/lib/intake.ts`), name, optional
+   company, e-mail, optional phone, message. `?onderwerp=workshop|automatisering` preselects the subject.
+   Mail subject "Contactformulier (onderwerp): naam (bedrijf)".
+   **Intake form** (`/intake/`, D27, D30, D37): "Plan een gratis intake" is
    `src/components/IntakeForm.astro` (field tables per variant in `src/lib/intake.ts`) and posts to the
    on-demand route `src/pages/api/intake.ts`, which mails Micky. With JavaScript the form sends with
    `fetch` (`Accept: application/json`, answer `{ ok, status }`) and shows its success block in place;

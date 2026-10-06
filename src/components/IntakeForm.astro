@@ -1,7 +1,7 @@
 ---
 /**
- * The intake form, in two variants (src/lib/intake.ts): "Plan een gratis intake" on /intake/ and the
- * "Bel me terug" form under the article of the AI Introductie page. It posts to /api/intake;
+ * The site's form, in three variants (src/lib/intake.ts): "Plan een gratis intake" on /intake/, the
+ * "Bel me terug" form on the AI Introductie page and the general contact form on /contact/. It posts to /api/intake;
  * with JavaScript the page stays put and the form makes way for the success block, without it the
  * route answers a 303 back to the page with ?status=, which the same script reads at load.
  * The `lead` event (src/components/Tracking.astro) fires once per session per variant.
@@ -12,8 +12,8 @@ import { VARIANTS, type Voor } from '../lib/intake';
 interface Props { voor: Voor; compact?: boolean }
 const { voor, compact = false } = Astro.props;
 const variant = VARIANTS[voor];
-const mailFallback = `mailto:${SITE.email}?subject=${encodeURIComponent(voor === 'automatisering' ? 'Gratis intake AI-automatisering' : 'AI Introductie voor mijn team')}`;
-const privacy = voor === 'automatisering' ? 'Je gegevens gebruik ik alleen om dit gesprek in te plannen.' : 'Je gegevens gebruik ik alleen om je terug te bellen.';
+const mailFallback = `mailto:${SITE.email}?subject=${encodeURIComponent(variant.mailto)}`;
+const fieldId = (name: string) => `${voor}-${name}`;
 ---
 <div data-intake-root data-voor={voor}>
   <div data-intake-success hidden>
@@ -23,6 +23,12 @@ const privacy = voor === 'automatisering' ? 'Je gegevens gebruik ik alleen om di
         <h2 class="text-2xl font-bold sm:text-[30px] sm:leading-[1.15]">Dank je. Ik reageer binnen een dag.</h2>
         <p class="text-ink/80">Je krijgt een mail van me met een voorstel voor een moment, met de link voor Google Meet. Liever bellen? Zet dat in je antwoord, dan bel ik.</p>
         <a href="/automatisering/" class="btn btn-primary w-fit">Terug naar de automatiseringspagina</a>
+      </div>
+    ) : voor === 'contact' ? (
+      <div class="sticker grid gap-4 bg-lime p-7 sm:p-9">
+        <p class="eyebrow text-ink">Gelukt</p>
+        <h3 class="text-2xl font-bold sm:text-[30px] sm:leading-[1.15]">Dank je. Ik reageer binnen een dag.</h3>
+        <p class="text-ink/80">Je hoort van mij zelf, per mail of telefoon. Eerder iets vragen? <a href={SITE.whatsappUrl} rel="noopener" class="font-bold underline underline-offset-2">Stuur een WhatsApp</a>.</p>
       </div>
     ) : (
       <div class="sticker grid gap-4 bg-lime p-7 sm:p-9">
@@ -42,7 +48,16 @@ const privacy = voor === 'automatisering' ? 'Je gegevens gebruik ik alleen om di
 
   <form data-intake method="post" action="/api/intake" class:list={['grid', compact ? 'gap-3' : 'sticker gap-5 bg-surface p-6 sm:p-8']}>
     <div class:list={['grid', compact ? 'gap-3' : 'gap-5 sm:grid-cols-2']}>
-      {variant.fields.map((f) => (
+      {variant.fields.map((f) => f.type === 'choice' ? (
+        <fieldset class:list={['grid gap-2', !compact && 'sm:col-span-2']}>
+          <legend class="mb-2 text-sm font-bold">{f.label}</legend>
+          <div class="choice-group">
+            {(f.options ?? []).map((o) => (
+              <label class="choice"><input type="radio" name={f.name} value={o} required={f.required} id={fieldId(`${f.name}-${o}`)} /><span>{o}</span></label>
+            ))}
+          </div>
+        </fieldset>
+      ) : (
         <label class:list={['grid gap-1.5 text-sm font-bold', !compact && (f.type === 'textarea' || f.wide) && 'sm:col-span-2']}>{f.label}
           {f.type === 'textarea' ? (
             <textarea name={f.name} required={f.required} rows={f.rows ?? 3} maxlength={f.max} placeholder={f.placeholder} class="field"></textarea>
@@ -58,8 +73,8 @@ const privacy = voor === 'automatisering' ? 'Je gegevens gebruik ik alleen om di
     <input type="hidden" name="bron" value="" />
 
     <div class:list={['flex flex-wrap items-center gap-4', compact && 'gap-3']}>
-      <button type="submit" class:list={['btn btn-primary', compact && 'w-full']}>{voor === 'automatisering' ? 'Verstuur' : 'Bel me terug'}</button>
-      <p class="text-xs text-muted">{privacy} <a href="/privacy/" class="underline underline-offset-2">Privacy</a></p>
+      <button type="submit" class:list={['btn btn-primary', compact && 'w-full']}>{variant.button}</button>
+      <p class="text-xs text-muted">{variant.privacy} <a href="/privacy/" class="underline underline-offset-2">Privacy</a></p>
     </div>
   </form>
 </div>
