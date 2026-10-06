@@ -26,7 +26,7 @@ In juni 2019 was het tijd om te kijken naar hoe ik meer van het goede zou kunnen
 
 Vandaar dat ik ben begonnen met het organiseren van gratis trainingen over geluk en mindset. De trainingen tot nu toe waren geweldig en de deelnemers vonden het prachtig. **Geen commercieel doel**, maar een mensen doel. Iets moois creëren waar mensen (en de wereld) een stukje beter van worden, daar kan een financiële transactie niet tegenop.
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Geven en ontvangen
 

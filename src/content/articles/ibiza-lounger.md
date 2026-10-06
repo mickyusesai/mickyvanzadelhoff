@@ -38,7 +38,7 @@ Ik kwam in contact met een van de leveranciers uit China. Mijn contactpersoon he
 
 En vanaf nu zou ik een soort ‘warning’ moeten geven. Doe dit thuis niet na. Ik besef me dat ik met mijn naïviteit de nodige problemen op mijn hals heb gehaald. Ik wist namelijk helemaal niets van import af. Alles wat ik met Sophia in die tussentijd besprak moest ik navragen bij een bekende van me die werkte in de logistiek. Denk aan dingen als HS-code, custom duty, T/T, PI, forwarder in China, consignee information, lading of bill en ETD. Ik begreep niets van geen enkele term. Ik dacht eigenlijk dat import gewoon net zo makkelijk was als één product bestellen vanuit China. Maar niets bleek minder waar.
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Letterlijk alles ging mis met de Ibiza Lounger
 

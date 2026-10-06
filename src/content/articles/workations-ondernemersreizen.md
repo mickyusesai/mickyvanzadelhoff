@@ -51,7 +51,7 @@ Dit is wat er op 19 september 2026 te boeken of te reserveren was. Reizen waarva
 
 Daarnaast zijn er organisatoren die alleen op maat werken. **Edgeplore** organiseert ondernemersreizen voor je eigen groep (de Albanië-reis uit mijn vorige lijst is daar nu maatwerk) vanaf zo'n €2.500 per persoon bij een groep van tien. **Cascara Moments** biedt nog steeds 'worqations' bij Málaga aan, maar zonder vaste data of prijzen op de site. En **The Dutch Hub** doet ondernemersreizen naar Barcelona en Zuid-Spanje vanaf €1.450 inclusief vlucht, afhankelijk van de groep.
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## De reizen kort toegelicht
 

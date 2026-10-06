@@ -34,7 +34,7 @@ Tijd om te kijken waarom mensen in zo’n ecologisch verantwoorde tiny house wil
 
 In de video noemt Marjolein al enkele redenen om in een tiny house te wonen. Hieronder heb ik de 6 belangrijkste redenen opgeschreven voor mensen om in een tiny house te wonen. De 6 meest gehoorde redenen om in een tiny house te wonen zijn net zo voorpelbaar als dat ze verassend zijn.
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## 1. Woonkosten van een tiny house zijn laag en dus is er meer vrijheid!
 

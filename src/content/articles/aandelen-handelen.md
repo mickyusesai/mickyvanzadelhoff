@@ -66,7 +66,7 @@ Voordat we het over brokers en strategieën hebben, wil ik je laten zien waar di
 
 Zie je die deuk in 2020 (corona) en die in 2022 (inflatie en rente)? Op het moment zelf voelde dat als het einde van de wereld. Op de schaal van de hele grafiek zijn het hobbels. Wie in de dip verkocht, verloor. Wie gewoon door bleef kopen, staat er nu flink beter voor. Over de laatste tien jaar leverde de MSCI World in euro's gemiddeld ruim 12% per jaar op, sinds 2000 (dus inclusief de dotcom-crash en de kredietcrisis) zo'n 6,6% per jaar.
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Kies een broker om te beleggen in aandelen
 

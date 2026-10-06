@@ -162,7 +162,7 @@ Het advertentiesysteem van Facebook werkt automatisch samen met dat van Instagra
 
 Ik heb best wat voorbeelden voorbij zien komen van mensen die door zelf te adverteren op Facebook en Instagram klanten vinden voor het opzetten van advertenties. Daar zit wat in: zo laat je direct zien dat jij weet hoe je op de juiste doelgroep target. Vanwege de concurrentie in dit werkveld zijn er nu ook veel partijen die garanties geven, bijvoorbeeld een minimum aantal leads. Wordt dat aantal niet gehaald, dan hoeft het bedrijf niet te betalen. Handig als jij zeker bent van je zaak.
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie marketing en bedrijf kan betekenen. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie marketing en bedrijf kan betekenen. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## 5. Facebook-management doen voor bedrijven
 

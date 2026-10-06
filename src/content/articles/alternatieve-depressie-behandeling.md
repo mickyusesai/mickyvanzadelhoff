@@ -28,7 +28,7 @@ Na anderhalve maand vond ik het goed geweest. Ik voelde me nog hetzelfde en besl
 
 > “De maanden die volgden waren apart. Ik was enorm bang om terug te vallen in de meest ongelukkige periode van mijn leven. Ik besloot weer te gaan reizen, maar dan wat rustiger. Het beviel me wel maar er waren enorm veel momenten dat ik het gevoel had dat ik zo weer terug bij af kon zijn. Totdat ik mijn gedachten 180 graden omdraaide…”
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Gedachten over een behandeling van depressie
 

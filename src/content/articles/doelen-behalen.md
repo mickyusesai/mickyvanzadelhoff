@@ -20,7 +20,7 @@ Op een gemiddelde dag fietsen we zo’n 50 kilometer. Gekeken naar de gehele afs
 
 Bij de fietstocht naar India moet ik vaak denken aan een anekdote die ik ooit heb gehoord. Twee monniken hebben als doel een berg te verplaatsen. Deze belemmerd hun pad en eroverheen lopen is geen optie. Beiden beginnen vol goede moed. Na enkele dagen stenen verplaatsen van de berg zegt de ene monnik tegen de ander: “Ik kan niet meer, deze berg is veel te groot om te verzetten”. De andere monnik zit nog vol goede moed en antwoord: “Focus je niet op het verplaatsen van de berg, maar op het verplaatsen van één steen. Één steen kun je namelijk wel verplaatsen, en als je dat maar lang genoeg doet, dan verplaats je er uiteindelijk 100 en daarna de hele berg”. Een mooi straaltje kleine stappen denken dus.
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Denken in stappen die kleiner zijn dan jezelf
 

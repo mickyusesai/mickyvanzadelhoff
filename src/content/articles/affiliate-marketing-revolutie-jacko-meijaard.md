@@ -25,7 +25,7 @@ En dat is dus waar de Affiliate Marketing Revolutie van Jacko Meijaard over gaat
 **[Wil je zelf starten met affiliate marketing? Volg dan de Affiliate Marketing Revolutie en bouw aan een passief inkomen.](/go/affiliate-marketing-revolutie)**
 
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 
 ## Na het volgen van de affiliate marketing revolutie begint het echte werk

@@ -126,7 +126,7 @@ Het nadeel: voordat je met [affiliateprogramma's](/blog/ondernemen/affiliate-pro
 
 En nu? Ik heb een IT-achtergrond, en met AI kreeg ik er een toverstaf bij. Sinds 2024 gaf ik 142 AI-workshops aan ruim 2.000 mensen, ik bouwde [EasyReimburse](/over/), een app die inmiddels door 40+ organisaties wordt gebruikt, en ik coördineer Erasmus+-projecten. Locatie-onafhankelijk is het nog steeds, alleen zit ik nu vaker in een vergaderzaal in Nederland dan in een hangmat. Hoe dat zo gekomen is, lees je [op mijn over-pagina](/over/).
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Hoe het nomadenleven veranderde, van 1997 tot nu
 

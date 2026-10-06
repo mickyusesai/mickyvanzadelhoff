@@ -61,7 +61,7 @@ Beiden kwamen in 2013 met crypto in aanraking en richtten in 2017 AllesOverCrypt
 
 In 2026 is Patrick nog altijd het gezicht van de gratis Bitcoin-training, en AllesOverCrypto is uitgegroeid tot een platform met een nieuwsbrief van ruim 50.000 lezers, een kennisbank en de betaalde opleiding. In de Masterclass gaan ze nadrukkelijk niet alleen in op Bitcoin, maar op alle plekken waar kansen liggen. Dat is meteen de reden dat de opleiding meer risico opzoekt dan bijvoorbeeld de cursussen van [Madelon Vos](/blog/review/madelon-vos-review-bitcoin-crypto-traden/); daarover verderop meer.
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Wat ik zelf aan de Money Mastery had
 

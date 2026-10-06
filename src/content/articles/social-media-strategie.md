@@ -28,7 +28,7 @@ Veel bedrijven voor wie ik werk gaan gelijk all-in wanneer ze praten over social
 
 De conclusie is dat je (zeker als klein bedrijf) nooit de tijd hebt om alles te doen. Je zult dus keuzes moeten maken in je social media strategie. Welke media zijn écht belangrijk? Het is zeker **niet** hoe meer hoe beter. Het gaat uiteindelijk om de invulling. Wanneer er bijvoorbeeld een grote overlap is van jouw doelgroep op Facebook én Instagram, kies dan voor één van de twee en bouw daaraan. Kies niet voor beide, want je zult niet de eerste zijn van wie de social media strategie verwatert.
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Kies een medium uit waar jouw doelgroep actief is
 

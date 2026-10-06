@@ -95,7 +95,7 @@ Dat is een flinke lijst, en er komen specialisaties bij en er verdwijnen er. De 
 Tegelijk is AI de kans voor de zelfstandige marketeer: wie voor een klant in een middag een tekstworkflow, een rapportage of een leadopvolging automatiseert, levert iets waar het bedrijf zelf niet aan toekomt. Hoe ik dat doe, lees je op [mijn automatiseringspagina](/automatisering/).
 
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie marketing en bedrijf kan betekenen. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie marketing en bedrijf kan betekenen. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 
 Om aan de slag te gaan leer je dus de basis en verdiep je je in één van de specialisaties. Daarna volgt de volgende stap: **klanten krijgen**.

@@ -73,7 +73,7 @@ Bewaar je bewijs van de overboekingen. Voor de Belastingdienst (box 3, de waarde
 
 Veel van mijn lezers zitten als digital nomad in Azië of Latijns-Amerika. Daar is Binance in de meeste landen gewoon beschikbaar en verandert er niets. Je kunt er dan nog steeds een account aanmaken; ik verwijs er alleen niet meer naar. De rest van deze review gaat over wat je dan krijgt.
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Wat Binance zo groot maakte
 

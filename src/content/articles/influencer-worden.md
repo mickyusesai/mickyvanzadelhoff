@@ -40,7 +40,7 @@ Kijk maar naar de top van de Influencer100 van 2026, de jaarlijkse ranglijst van
 
 Als influencer is het verstandig je te richten op een specifieke doelgroep. Zij voelen zich meer aangesproken wanneer je daar specifiek content voor maakt. Kies dus een niche die bij je past ([hier vind je er 101](/blog/ondernemen/blog-niches/)) en ga aan de slag met de volgende stap.
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Het kiezen en inrichten van je platform
 

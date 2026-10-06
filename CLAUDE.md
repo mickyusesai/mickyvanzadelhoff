@@ -59,13 +59,13 @@ header button says "Stuur een WhatsApp".
 1. **Homepage** (`/`) — Micky's photo, the two AI workshops, client logos ("Gaf workshops bij"),
    stat bar, "Ik bouw wat ik anderen leer bouwen" with a workshop photo, free book, recent posts.
 2. **AI-workshops** (`/ai-workshops/`) — Hub with two cards from `src/content/workshops/*.md`:
-   `ai-introductie` (3 h, €1.500) and `automatisering` (the card for the custom service; its `href` points
+   `ai-introductie` (4 h, €1.950 excl. btw since 2026-10-06, D40) and `automatisering` (the card for the custom service; its `href` points
    to `/automatisering/`). Both entries have `href`, so `[slug].astro` builds neither; adding a workshop
    without `href` still gets the generic page. Adding a workshop = adding a file.
    **AI Introductie** (`/ai-workshops/ai-introductie/`, D39, 2026-10-05) is its own landing page in
    `src/pages/ai-workshops/ai-introductie.astro` for Google Ads and ChatGPT Ads, mobile first. It reads price,
    duration, `whatsappText`, `seoTitle` and `description` from the markdown entry. Above the fold on a phone:
-   the promise "Na drie uur heeft iedereen een eigen AI-assistent voor één taak uit zijn werk.", the proof
+   the promise "Na vier uur heeft iedereen een eigen AI-assistent voor één taak uit zijn werk.", the proof
    line (`FACTS.workshops`, `FACTS.participants`, `FACTS.googleRating` linking to `GOOGLE_PROFILE_URL`; the
    Google profile is named "De Moderne Nomaden"), a trainer chip with Micky's portrait and the buttons
    WhatsApp, "Bel direct" (`SITE.phoneUrl`) and "Bel me terug" (`#bel-me`); the Technogym photo sits under
@@ -75,6 +75,10 @@ header button says "Stuur een WhatsApp".
    FAQPage JSON-LD, the call-back form and a contact bar at the bottom on phones (`.mobile-cta`, shown
    after the hero buttons, hidden at the form and footer). CSS: `.snap-row`, `.snap-dots`, `.faq-*`,
    `.mobile-cta` in `global.css`.
+   Price and duration live in `ai-introductie.md` (`price`, `duration`); the same figures are written out in
+   the 75 `cta-box--workshop` boxes in articles, the pop-up, the homepage, `/boek/`, the hub description,
+   the automatisering FAQ and the price-comparison article (rows, own-offer paragraph and per-person chart).
+   Change all of them together.
 3. **AI-automatisering** (`/automatisering/`) — Custom service page built in `automatisering.astro`
    from Micky's briefing 2 (2026-09-15, decision D26): he works alongside a department and automates
    what costs too much time, with two of the customer's own people; €150 per hour excl. btw, and since

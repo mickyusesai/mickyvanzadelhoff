@@ -86,7 +86,7 @@ Om te snappen waar je in 2026 instapt, is het goed om te zien hoe snel het is ge
 
 Wat betekent dit voor jou als je in 2026 begint? Drie dingen. Ten eerste: **kies een specialisatie**. Juridisch, medisch, technisch, financieel of marketing (waar de toon belangrijker is dan de letterlijke vertaling) betalen nog steeds goed. Ten tweede: **gebruik AI zelf**. Een vertaler die DeepL of ChatGPT als eerste versie gebruikt en zijn eigen kwaliteit erbovenop legt, werkt twee keer zo snel als een collega die alles uittypt. Ten derde: **zoek je eigen klanten**. Bij vertaalbureaus en marktplaatsen is de prijsdruk het grootst; bij een eigen klant die jou vertrouwt, bepaal jij het tarief.
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Hoe krijg je opdrachten als online vertaler?
 

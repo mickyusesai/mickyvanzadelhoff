@@ -115,4 +115,4 @@ Wil je toch meedoen aan het stukje dat wél groeit? Dan is dat crypto, en dan ni
 
 Web 1 was lezen, web 2 was schrijven, web 3 zou bezitten worden. Het werd vooral vragen stellen, aan een AI. De decentralisatie kwam op plekken waar niemand hem verwachtte (social media zonder eigenaar, paspoorten aan producten) en bleef uit waar iedereen hem beloofde (de metaverse, het internet van de gebruiker). Zo gaat het vaker met technologie: de belofte klopt, de vorm niet.
 
-Zelf ben ik van web 3 naar AI verhuisd, net als de rest van het internet. Wat ik onderweg over crypto en NFT's leerde, staat in [mijn artikelen over web3](/blog/web3/). Wat AI voor jouw bedrijf kan, laat ik liever zien dan beschrijven: in een [workshop](/ai-workshops/) van drie uur.
+Zelf ben ik van web 3 naar AI verhuisd, net als de rest van het internet. Wat ik onderweg over crypto en NFT's leerde, staat in [mijn artikelen over web3](/blog/web3/). Wat AI voor jouw bedrijf kan, laat ik liever zien dan beschrijven: in een [workshop](/ai-workshops/) van vier uur.

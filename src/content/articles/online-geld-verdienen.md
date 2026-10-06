@@ -97,7 +97,7 @@ Dit bestond in 2018 nog nauwelijks en is nu een volwassen verdienmodel: een nieu
 
 Facebook is niet dood, zeker niet voor groepen. Een actieve groep rond één onderwerp (een hobby, een regio, een vak) kun je verdienen met affiliate links, sponsors, een eigen product of betaald lidmaatschap. Het werkt hetzelfde als een blog, alleen woont je publiek ergens anders. Wat ik daarvan heb geleerd staat in [geld verdienen met een Facebook-groep, -pagina of -ads](/blog/online-geld-verdienen/facebook/).
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Kennis verkopen: van wat je weet naar wat je verdient
 

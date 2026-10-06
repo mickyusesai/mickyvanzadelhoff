@@ -172,7 +172,7 @@ Looka ontwerpt een logo op basis van je voorkeuren en verwerkt het direct in all
 
 [Ga naar Looka](/go/looka)
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, inclusief de tools uit deze lijst. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, inclusief de tools uit deze lijst. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Video
 
@@ -454,4 +454,4 @@ Alle tools in deze lijst heb ik in september 2026 gecontroleerd op bestaan en aa
 
 Minder dan je denkt. Begin met **één goede chatbot** (ChatGPT, Claude of Gemini) en gebruik die een maand voor alles: schrijven, samenvatten, analyseren, brainstormen. Pak daarna **één tool per knelpunt** erbij: een videotool als je veel video maakt, een notuleertool als je veel vergadert, een automatiseringstool als je steeds hetzelfde doet.
 
-En als je met je hele team in één keer wilt zien wat er mogelijk is, dan doen we dat samen in [drie uur op locatie](/ai-workshops/ai-introductie/). Daarna bouw je het zelf.
+En als je met je hele team in één keer wilt zien wat er mogelijk is, dan doen we dat samen in [vier uur op locatie](/ai-workshops/ai-introductie/). Daarna bouw je het zelf.

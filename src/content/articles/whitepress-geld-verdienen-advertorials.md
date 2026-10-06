@@ -36,7 +36,7 @@ De tweede reden, en eerlijk gezegd voor veel kopers de belangrijkste: **een link
 
 Advertorials zijn dus zinvol voor bedrijven, en wanneer jij een blog hebt waar veel lezers op afkomen, kun je er geld mee verdienen. Je verkoopt ruimte voor artikelen, en dat doe je het makkelijkst via een marktplaats als [Whitepress](/go/whitepress).
 
-<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In drie uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.500 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
+<aside class="cta-box cta-box--workshop not-prose"><div><p class="cta-box__eyebrow">AI-workshop op locatie</p><p><strong>AI Introductie.</strong> In vier uur ziet je hele team wat AI voor jullie bedrijf kan betekenen, met voorbeelden uit jullie eigen werk. Tot 25 deelnemers, bij jou op locatie, €1.950 excl. btw.</p></div><a class="btn btn-primary" href="/ai-workshops/ai-introductie/">Bekijk de workshop</a></aside>
 
 ## Wat is Whitepress en hoe werkt het?
 
