@@ -222,3 +222,7 @@ html.js .reveal[data-delay="3"] { transition-delay: .3s; }
   .mobile-cta, .faq-chev, .snap-dots button { transition: none; }
   .snap-row { scroll-behavior: auto; }
 }
+
+/* reCAPTCHA v3 badge (injected by Google's script, so outside the Tailwind layers to survive purging):
+   hidden, because every form carries Google's notice instead, which Google's FAQ allows. */
+.grecaptcha-badge { visibility: hidden !important; }

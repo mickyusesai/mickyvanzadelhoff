@@ -20,6 +20,8 @@ export const SITE = {
   gaMeasurementId: 'G-S08XB20E5W',
   /** Google Ads tag (Micky, 2026-10-06), configured in the same gtag.js snippet as GA4 (Layout.astro). */
   googleAdsId: 'AW-18495808614',
+  /** reCAPTCHA v3 site key (public; Micky, 2026-10-29). The secret key is RECAPTCHA_SECRET_KEY on Railway. */
+  recaptchaSiteKey: '6LcsegYuAAAAADasNmvyATD0TIhqZ4pg_QhXkZbr',
   /** Google Ads conversion targets (send_to), fired from src/components/Tracking.astro (Micky, 2026-10-06). */
   googleAdsConversions: {
     whatsapp: 'AW-18495808614/X4diCM7_jJMdEObIvvNE', // click on a wa.me or api.whatsapp.com link

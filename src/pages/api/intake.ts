@@ -3,12 +3,13 @@ import process from 'node:process';
 import nodemailer from 'nodemailer';
 import { SITE } from '../../config/site';
 import { VARIANTS, isVoor, type Voor } from '../../lib/intake';
+import { clientIp, verifyRecaptcha } from '../../lib/recaptcha';
 
 export const prerender = false;
 
 // Handles the three site forms (src/components/IntakeForm.astro, field tables in src/lib/intake.ts): sends
 // one mail to Micky and answers JSON `{ ok, status }` when the form was sent with fetch
-// (Accept: application/json), or a 303 back to the page with ?status=sent|invalid|config|failed when
+// (Accept: application/json), or a 303 back to the page with ?status=sent|invalid|captcha|config|failed when
 // it was posted without JavaScript.
 //
 // Variables are read from process.env at request time; import.meta.env is frozen at build time and
@@ -25,8 +26,8 @@ export const prerender = false;
 // SMTP is used only when POSTMARK_SERVER_TOKEN is absent and only works on Railway Pro or another host:
 //   SMTP_USER, SMTP_PASS, optional SMTP_HOST (default smtp.gmail.com) and SMTP_PORT (default 465).
 
-type Status = 'sent' | 'invalid' | 'config' | 'failed';
-const HTTP: Record<Status, number> = { sent: 200, invalid: 400, config: 500, failed: 500 };
+type Status = 'sent' | 'invalid' | 'captcha' | 'config' | 'failed';
+const HTTP: Record<Status, number> = { sent: 200, invalid: 400, captcha: 400, config: 500, failed: 500 };
 
 const env = (key: string) => (process.env[key] || '').trim();
 const clean = (v: FormDataEntryValue | null, max: number) => (typeof v === 'string' ? v.replace(/\r/g, '').trim().slice(0, max) : '');
@@ -98,6 +99,13 @@ export const POST: APIRoute = async ({ request }) => {
     /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v.email);
   if (!valid) return answer(request, 'invalid', voor);
 
+  // reCAPTCHA v3 (src/lib/recaptcha.ts); skipped while RECAPTCHA_SECRET_KEY is not set on Railway.
+  const captcha = await verifyRecaptcha(clean(form.get('recaptcha'), 4000), clientIp(request), `formulier_${voor}`);
+  if (captcha.verdict === 'block') {
+    console.warn(`[intake] blocked by reCAPTCHA (${captcha.note}); submission from`, v.email);
+    return answer(request, 'captcha', voor);
+  }
+
   const postmarkToken = env('POSTMARK_SERVER_TOKEN');
   const smtpReady = Boolean(env('SMTP_USER') && env('SMTP_PASS'));
   if (!postmarkToken && !smtpReady) {
@@ -120,6 +128,7 @@ export const POST: APIRoute = async ({ request }) => {
     ``,
     `${variant.outro} Reply gaat naar ${v.email}${v.phone ? `, telefoon ${v.phone}` : ''}.`,
     ...(bron ? [``, `Bron: ${({ chatgpt: 'ChatGPT Ads', 'google-ads': 'Google Ads' } as Record<string, string>)[bron] ?? bron}`] : []),
+    ...(captcha.verdict === 'pass' && typeof captcha.score === 'number' ? [`reCAPTCHA-score: ${captcha.score} (1.0 = zeker een mens)`] : []),
   ].join('\n').replace(/\n{3,}/g, '\n\n');
 
   const mail: Mail = {

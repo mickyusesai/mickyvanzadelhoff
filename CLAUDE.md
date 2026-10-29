@@ -128,6 +128,14 @@ header button says "Stuur een WhatsApp".
    no time pickers and no Google appointment page (Micky, 2026-09-30, D37): he answers within a day with a
    proposal, 30 minutes on Google Meet or by phone. Call-back form (introductie): name, company, phone
    (required), e-mail, people, when. Honeypot `website` is off-screen (`.hp`), never `display:none`.
+   **reCAPTCHA v3 (D44, 2026-10-29):** site key `SITE.recaptchaSiteKey`; `IntakeForm.astro` loads Google's
+   script on the first interaction with a form and sends a fresh token as `recaptcha` (action
+   `formulier_<voor>`); `src/lib/recaptcha.ts` verifies it with `RECAPTCHA_SECRET_KEY` (Railway variable,
+   optional `RECAPTCHA_MIN_SCORE`, default 0.5). No secret, a malformed secret, a timeout or an outage lets
+   the form through (logged); no token, a rejected token or a low score answers status `captcha`. The badge
+   is hidden (`.grecaptcha-badge` at the end of `global.css`) and every form carries Google's notice; the
+   mail shows the score. Google answers a wrong but well-formed secret like a forged token, so after
+   setting the key, send one test form.
 8. **Privacy** (`/privacy/`).
 
 **ChatGPT Ads (handoff 2026-09-29, D35):** the ads land on `/ai-workshops/ai-introductie/` and `/automatisering/`

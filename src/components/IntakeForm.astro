@@ -15,7 +15,7 @@ const variant = VARIANTS[voor];
 const mailFallback = `mailto:${SITE.email}?subject=${encodeURIComponent(variant.mailto)}`;
 const fieldId = (name: string) => `${voor}-${name}`;
 ---
-<div data-intake-root data-voor={voor}>
+<div data-intake-root data-voor={voor} data-recaptcha={SITE.recaptchaSiteKey}>
   <div data-intake-success hidden>
     {voor === 'automatisering' ? (
       <div class="sticker grid gap-4 bg-lime p-7 sm:p-9">
@@ -71,11 +71,13 @@ const fieldId = (name: string) => `${voor}-${name}`;
     <div class="hp" aria-hidden="true"><label>Website<input name="website" type="text" tabindex="-1" autocomplete="off" /></label></div>
     <input type="hidden" name="voor" value={voor} />
     <input type="hidden" name="bron" value="" />
+    <input type="hidden" name="recaptcha" value="" />
 
     <div class:list={['flex flex-wrap items-center gap-4', compact && 'gap-3']}>
       <button type="submit" class:list={['btn btn-primary', compact && 'w-full']}>{variant.button}</button>
       <p class="text-xs text-muted">{variant.privacy} <a href="/privacy/" class="underline underline-offset-2">Privacy</a></p>
     </div>
+    <p class="text-[11px] leading-snug text-muted">Beschermd door reCAPTCHA. Het <a href="https://policies.google.com/privacy?hl=nl" rel="noopener" target="_blank" class="underline underline-offset-2">privacybeleid</a> en de <a href="https://policies.google.com/terms?hl=nl" rel="noopener" target="_blank" class="underline underline-offset-2">voorwaarden</a> van Google zijn van toepassing.</p>
   </form>
 </div>
 
@@ -85,7 +87,37 @@ const fieldId = (name: string) => `${voor}-${name}`;
     invalid: 'Vul de verplichte velden in en probeer het opnieuw.',
     config: 'Het formulier is nog niet aan een mailservice gekoppeld.',
     failed: 'Het versturen is niet gelukt.',
+    captcha: 'De spamcontrole lukte niet. Probeer het nog een keer.',
   };
+
+  // reCAPTCHA v3 (decision D44): the script loads on the first interaction with a form (it costs nothing
+  // on page load, which matters for the ad landing pages) and a fresh token is fetched on submit; tokens
+  // expire after two minutes. If Google cannot be reached the form is sent without a token and the
+  // server decides. The badge is hidden in global.css; the notice under the form replaces it.
+  let recaptchaLoad: Promise<void> | null = null;
+  function loadRecaptcha(siteKey: string): Promise<void> {
+    if (!recaptchaLoad) {
+      recaptchaLoad = new Promise((resolve, reject) => {
+        const s = document.createElement('script');
+        s.src = `https://www.google.com/recaptcha/api.js?render=${encodeURIComponent(siteKey)}`;
+        s.async = true;
+        s.onload = () => resolve();
+        s.onerror = () => { recaptchaLoad = null; reject(new Error('reCAPTCHA did not load')); };
+        document.head.appendChild(s);
+      });
+    }
+    return recaptchaLoad;
+  }
+  async function recaptchaToken(siteKey: string, action: string): Promise<string> {
+    const g = () => (window as any).grecaptcha;
+    const attempt = (async () => {
+      await loadRecaptcha(siteKey);
+      await new Promise<void>((resolve) => g().ready(() => resolve()));
+      return (await g().execute(siteKey, { action })) as string;
+    })();
+    const timeout = new Promise<string>((resolve) => setTimeout(() => resolve(''), 8000));
+    try { return (await Promise.race([attempt, timeout])) || ''; } catch { return ''; }
+  }
 
   document.querySelectorAll<HTMLElement>('[data-intake-root]').forEach((root) => {
     const form = root.querySelector<HTMLFormElement>('form[data-intake]');
@@ -95,6 +127,13 @@ const fieldId = (name: string) => `${voor}-${name}`;
     const button = form?.querySelector<HTMLButtonElement>('button[type="submit"]');
     if (!form || !success || !error || !title || !button) return;
     const voor = root.dataset.voor || 'automatisering';
+    const siteKey = root.dataset.recaptcha || '';
+    const tokenField = form.querySelector<HTMLInputElement>('input[name="recaptcha"]');
+    if (siteKey) {
+      const warm = () => { loadRecaptcha(siteKey).catch(() => {}); };
+      form.addEventListener('focusin', warm, { once: true });
+      form.addEventListener('pointerdown', warm, { once: true });
+    }
 
     function show(status: string) {
       if (status === 'sent') {
@@ -127,6 +166,7 @@ const fieldId = (name: string) => `${voor}-${name}`;
       button.disabled = true;
       button.textContent = 'Versturen…';
       try {
+        if (siteKey && tokenField) tokenField.value = await recaptchaToken(siteKey, `formulier_${voor}`);
         const res = await fetch(form.action, { method: 'POST', body: new FormData(form), headers: { Accept: 'application/json' } });
         const data = await res.json().catch(() => ({ status: res.ok ? 'sent' : 'failed' }));
         show(data.status || 'failed');

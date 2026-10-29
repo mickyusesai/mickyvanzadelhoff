@@ -22,6 +22,9 @@ Ik adverteer in ChatGPT voor mijn AI-workshops. Om te zien of die advertenties i
 **Formulieren**
 Vul je een van de formulieren op deze website in (de intake, het terugbelformulier of het contactformulier), dan komt dat als e-mail bij mij aan via Postmark, de maildienst die het bericht bezorgt. Ik gebruik je gegevens alleen om je te antwoorden en het gesprek of de workshop in te plannen. Ik deel ze niet met derden.
 
+**reCAPTCHA**
+Om spam tegen te houden, gebruiken de formulieren reCAPTCHA van Google. Zodra je een formulier invult, laadt Google een script dat inschat of je een mens bent. Google verwerkt daarbij onder meer je IP-adres en browsergegevens, volgens zijn eigen [privacybeleid](https://policies.google.com/privacy?hl=nl) en [voorwaarden](https://policies.google.com/terms?hl=nl).
+
 **Contact**
 Stuur je me een mailtje of een WhatsApp-bericht, dan gebruik ik je gegevens alleen om je antwoord te geven. Ik deel ze niet met derden.
 
